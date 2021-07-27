@@ -4613,4 +4613,48 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
+	<game>
+		<path>./Star Wars - Tie Fighter Total Conversion.lnk</path>
+		<name>Star Wars - Tie Fighter Total Conversion</name>
+		<desc>Star Wars - X-Wing Alliance re-imagined/enhanced (fanmade)! Out of countless Star Wars video games, 1994’s TIE Fighter remains a beloved classic, throwing you into the titular Imperial starfighters and letting you blast away at rebels, pirates, and traitors. Twenty-five years later, a new fan mod has fully updated TIE Fighter with new graphics, widescreen support, new missions, and more. The result is an updated game that, as the mod team puts it, imagines “how TIE Fighter could've been had the technology of the time not limited it.”</desc>
+		<image>./mixart/Tie Fighter Total Conversion.png</image>
+		<video>./snap/Tie Fighter Total Conversion.mp4</video>
+		<marquee>./wheel/Tie Fighter Total Conversion.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>2021</releasedate>
+		<developer>LucasArts/Fanmade</developer>
+		<publisher>LucasArts/Fanmade</publisher>
+		<genre>Action, Flight Simulator</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Daggerfall Unity.lnk</path>
+		<name>The Elder Scrolls - Daggerfall </name>
+		<desc>Daggerfall is a sequel to The Elder Scrolls: Arena; it is set in the same medieval fantasy world Tamriel - more specifically, in the homeland of the Breton race, known as High Rock, and the province Hammerfell, home of the Redguards. The game's title is derived from the name of High Rock's capital city. The main protagonist travels to Daggerfall at the request of the emperor Uriel Septim. His mission involves freeing the ghost of the late King Lysandus. Like its predecessor, Daggerfall is an open-ended role-playing game, in which the main quest is but a small fraction of the various missions and assignments the player is able to undertake. The game is notable for breaking records concerning the size of its world (though much of it has been generated randomly). Interaction with hundreds of thousands of non-playable characters is possible.</desc>
+		<image>./mixart/The_Elder_Scrolls_II_Daggerfall.png</image>
+		<video>./snap/The Elder Scrolls - Daggerfall.mp4</video>
+		<marquee>./wheel/The Elder Scrolls - Daggerfall.png</marquee>
+		<rating>4</rating>
+		<releasedate>1992101T010000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Dark Mod.lnk</path>
+		<name>The Dark Mod</name>
+		<desc>The Dark Mod is a free first person stealth/horror game, developed in homage to the Thief series by Looking Glass Studios. Originally a mod for Doom 3, it has now been released as a standalone game.</desc>
+		<image>./mixart/The Dark Mod.png</image>
+		<video>./snap/The Dark Mod.mp4</video>
+		<marquee>./wheel/The Dark Mod.png</marquee>
+		<rating>0.75</rating>
+		<developer>Broken Glass Studios</developer>
+		<publisher>Fanmade</publisher>
+		<releasedate>20131008T000000</releasedate>
+		<genre>Action, Horror, Stealth</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
