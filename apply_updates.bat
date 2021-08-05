@@ -27,6 +27,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\thebezelproject\gam
 rem 2. 2021-07-18 - GameCube Controller mapping fix (x/y swap) and for any other future controller profiles for dolphin - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\RetroBat\emulators\dolphin-emu\ /S /NFL /NDL /IS /MT:4
 
+rem 3. 2021-08-05 - Corrent snap naming for High Octane - reported by Bilu
+ren "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
+
 echo.
 echo Update Completed. Enjoy! :)
 echo.
