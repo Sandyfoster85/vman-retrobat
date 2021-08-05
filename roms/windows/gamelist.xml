@@ -3736,22 +3736,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Alien Breed - Impact.lnk</path>
-		<name>Alien Breed - Impact</name>
-		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
-		<image>./mixart/Alien Breed - Impact.jpg</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed - Impact.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Alien Breed 2 - Assault.lnk</path>
 		<name>Alien Breed 2 - Assault</name>
 		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
@@ -4808,5 +4792,35 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alien Breed - Impact.lnk</path>
+		<name>Alien Breed - Impact</name>
+		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
+		<image>./mixart/Alien Breed - Impact.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed - Impact.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Blaster Master Zero 3.lnk</path>
+		<name>Blaster Master Zero 3</name>
+		<desc>The Pinnacle of Mutant Blasting Action Blaster Master Zero's hybrid side-scrolling and top-down action is back for its 3rd chapter! Series protagonist Jason travels to where the series all began, the planet Sophia, in order to save the heroine Eve in this final installment of the trilogy. - The finale of the "Jason Saga"! A new battle begins as Jason and Eve's journey takes them to where the series began, the planet Sophia. From the depths of the planet Earth, into outer space, and now crossing dimensions, this quirky "boy-meets-girl" story will finally reach its conclusion! - The key to progression is to "reverse" with the VRV system! Jason has received the power to cross dimensions! With the new "VRV system," venture into super-dimensional space and conquer tricky areas with "reversal" as the theme.</desc>
+		<image>./mixart/Blaster Master Zero 3.jpg</image>
+		<video>./snap/Blaster Master Zero 3.mp4</video>
+		<marquee>./wheel/Blaster Master Zero 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>INTI Creates</developer>
+		<publisher>INTI Creates</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
