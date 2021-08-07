@@ -2845,20 +2845,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cloud Cutter.lnk</path>
-		<name>Cloud Cutter</name>
-		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
-		<image>./mixart/Cloud Cutter.jpg</image>
-		<video>./snap/Cloud Cutter.mp4</video>
-		<marquee>./wheel/Cloud Cutter.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Just Two Ltd.</developer>
-		<publisher>Just Two Ltd.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Endless Memories.lnk</path>
 		<name>Endless Memories</name>
 		<desc>Explore a magical world of dreams in this epic 2D action-adventure that mixes a handcrafted non-linear world with ARPG elements. Join Rem in his journey through the dream world where the only way out is inside the mind of the Dreamers.</desc>
@@ -4794,6 +4780,20 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Cloud Cutter.lnk</path>
+		<name>Cloud Cutter</name>
+		<desc>Cloud Cutter brings you classic arcade shoot ‘em up gameplay in top notch graphics. Cloud Cutter offers exactly what you expect and love in old-school scrolling shooters. Enjoy intense fast-paced explosive action full of epic destruction, arcade style power-ups, lasers and of course huge multi-stage boss fights. Blast your way through hundreds of enemies in a beautiful and ever-changing environment. Collect in-game power-ups to upgrade your ship and deal massive damage with a number of special powers. Master 13 detailed and immersive stages with challenging missions to complete that will push your pilot reflexes to their limits. Battle enormous and intimidating bosses.</desc>
+		<image>./mixart/Cloud Cutter.jpg</image>
+		<video>./snap/Cloud Cutter.mp4</video>
+		<marquee>./wheel/Cloud Cutter.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Just Two Ltd.</developer>
+		<publisher>Just Two Ltd.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
 		<path>./Alien Breed - Impact.lnk</path>
 		<name>Alien Breed - Impact</name>
 		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
@@ -4807,6 +4807,7 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Blaster Master Zero 3.lnk</path>
@@ -4822,5 +4823,22 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Ramp.lnk</path>
+		<name>The Ramp</name>
+		<desc>A digital toy for skateboard loving people. Pure flow, no extra fluff.</desc>
+		<image>./mixart/The Ramp.jpg</image>
+		<video>./snap/The Ramp.mp4</video>
+		<marquee>./wheel/The Ramp.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>HyperParadise</developer>
+		<publisher>HyperParadise</publisher>
+		<genre>Sports, Skateboarding</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
