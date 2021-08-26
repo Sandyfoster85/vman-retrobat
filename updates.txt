@@ -3,4 +3,5 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 #2|2020-12-29|"Jaguar : enable BIOS, required by some games, by @bilu"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|virtualjaguar_bios = "disabled"|virtualjaguar_bios = "enabled"
 #3|2021-01-04|"Dolphin : fixed sluggishness with 8bitdo controllers connected via Bluetooth"||V:\RetroBat\emulators\dolphin-emu\User\Config\Dolphin.ini|WiimoteControllerInterface = True|WiimoteControllerInterface = False
 4|2021-07-18|"disable PCXS2 Multi-thread microVU1 for compatibility"||V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg|<string name="ps2.negdivhack" value="1" />|<string name="ps2.negdivhack" value="0" />
-#4|2021-08-26|"Retroarch annoying messages: "Device disconnected from port #1 (sdl2)", by @VMAN"||V:\RetroBat\retrobat.ini|ShowMessage="true"|ShowMessage="false"
+5|2021-08-26|"Retroarch annoying messages: "Device disconnected from port #1 (sdl2)", by @VMAN"||V:\RetroBat\retrobat.ini|ShowMessage="true"|ShowMessage="false"
+
