@@ -30,6 +30,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\Retro
 rem 3. 2021-08-05 - Corrent snap naming for High Octane - reported by Bilu
 ren "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
 
+rem Apply XML-based updates using PowerShell
+powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
+
 echo.
 echo Update Completed. Enjoy! :)
 echo.
