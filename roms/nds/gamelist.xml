@@ -806,26 +806,6 @@ There is also multiplayer capabilities using DS wireless, where players can comp
 		<marquee>./wheel/Ghostbusters - The Video Game (USA) (En,Fr,Es).png</marquee>
 		<video>./snap/Ghostbusters - The Video Game (USA) (En,Fr,Es).mp4</video>
 	</game>
-	<game id="6783" source="ScreenScraper.fr">
-		<path>./Glory Days 2 (USA) (En,Fr,Es).zip</path>
-		<name>Glory Days 2</name>
-		<desc>Glory Days 2 takes the premise of Choplifter! and cranks it up a few notches. A strategic component was added that melds old gameplay with new game concepts. There are a lot of playable vehicles that become unlocked as you advance in the game.
-
-The overall goal of the game is to provide air support for your ground troops as they advance and capture enemy bunkers, ultimately pushing them back enough that they retreat. Players can choose from three aviators and there are sixteen missions in total, moving on in time from classic WWII aircraft to modern day helicopters and F14's.
-
-The strategical component allows the player to take command of ground units and manage funds to build new units. These funds are acquired by completing missions such as saving civilians or capturing bases. Progressively, more powerful units and weapons become available. Multiplayer is supported for up to eight players over Wi-Fi, split into two cooperative teams where the enemy's command centre needs to be taken out. The setup of the battles is completely customizable for different parameters.
-
-Optionally, 3D glasses are supported to add more depth to the action on the screens.</desc>
-		<rating>0.75</rating>
-		<releasedate>20070921T000000</releasedate>
-		<developer>Lexicon</developer>
-		<publisher>ODenis Studio</publisher>
-		<players>1</players>
-		<hash>E7D8C88C</hash>
-		<image>./mixart/Glory Days 2 (USA) (En,Fr,Es).png</image>
-		<marquee>./wheel/Glory Days 2 (USA) (En,Fr,Es).png</marquee>
-		<video>./snap/Glory Days 2 (USA) (En,Fr,Es).mp4</video>
-	</game>
 	<game id="5775" source="ScreenScraper.fr">
 		<path>./Golden Sun - Dark Dawn (USA) (En,Es).zip</path>
 		<name>Golden Sun - Dark Dawn</name>
@@ -3770,19 +3750,6 @@ The beat-em-up sections are fairly straightforward.  You walk to the end of each
 		<publisher>Game Factory</publisher>
 	</game>
 	<game>
-		<path>./TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].zip</path>
-		<name>Tron Evolution</name>
-		<desc>Tron Evolution sur DS vous plonge dans l'univers du film. Résolvez des énigmes et débloquez des mécanismes qui entravent votre progression tout en vous battant contre les programmes corrompus. Enfourchez ensuite votre Lumicycle lors de séquences de courses.</desc>
-		<image>./mixart/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</image>
-		<video>./snap/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].mp4</video>
-		<marquee>./wheel/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20110203T000000</releasedate>
-		<developer>Disney</developer>
-		<publisher>n-Space</publisher>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es).zip</path>
 		<name>The Legend Of Zelda - Phantom Hourglass</name>
 		<desc>Continue the Wind Waker adventure in Link's first DS game.
@@ -3893,5 +3860,38 @@ There are eight games total, each modeled after 8-bit classics such as Galaga (C
 		<favorite>true</favorite>
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
+	</game>
+	<game id="6783" source="ScreenScraper.fr">
+		<path>./Glory Days 2 (USA) (En,Fr,Es).zip</path>
+		<name>Glory Days 2</name>
+		<desc>Glory Days 2 takes the premise of Choplifter! and cranks it up a few notches. A strategic component was added that melds old gameplay with new game concepts. There are a lot of playable vehicles that become unlocked as you advance in the game.
+
+The overall goal of the game is to provide air support for your ground troops as they advance and capture enemy bunkers, ultimately pushing them back enough that they retreat. Players can choose from three aviators and there are sixteen missions in total, moving on in time from classic WWII aircraft to modern day helicopters and F14's.
+
+The strategical component allows the player to take command of ground units and manage funds to build new units. These funds are acquired by completing missions such as saving civilians or capturing bases. Progressively, more powerful units and weapons become available. Multiplayer is supported for up to eight players over Wi-Fi, split into two cooperative teams where the enemy's command centre needs to be taken out. The setup of the battles is completely customizable for different parameters.
+
+Optionally, 3D glasses are supported to add more depth to the action on the screens.</desc>
+		<image>./mixart/Glory Days 2 (USA) (En,Fr,Es).png</image>
+		<video>./snap/Glory Days 2 (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Glory Days 2 (USA) (En,Fr,Es).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20070921T000000</releasedate>
+		<developer>Lexicon</developer>
+		<publisher>ODenis Studio</publisher>
+		<players>1</players>
+		<crc32>E7D8C88C</crc32>
+	</game>
+	<game>
+		<path>./TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].zip</path>
+		<name>Tron Evolution</name>
+		<desc>Tron Evolution sur DS vous plonge dans l'univers du film. Résolvez des énigmes et débloquez des mécanismes qui entravent votre progression tout en vous battant contre les programmes corrompus. Enfourchez ensuite votre Lumicycle lors de séquences de courses.</desc>
+		<image>./mixart/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</image>
+		<video>./snap/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].mp4</video>
+		<marquee>./wheel/TRON - Evolution (USA) (En,Fr,Es) (NDSi Enhanced) [b].png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20110203T000000</releasedate>
+		<developer>Disney</developer>
+		<publisher>n-Space</publisher>
+		<players>4</players>
 	</game>
 </gameList>

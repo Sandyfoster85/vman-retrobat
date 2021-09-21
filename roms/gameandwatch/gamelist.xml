@@ -566,19 +566,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<hidden>false</hidden>
 	</game>
 	<game>
-		<path>./Tron.mgw</path>
-		<name>Tron</name>
-		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
-		<image>./mixart/Tron.png</image>
-		<marquee>./wheel/Tron.png</marquee>
-		<video>./snap/Tron.mp4</video>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Tomytronic</developer>
-		<publisher>Tomytronic</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Dungeons &amp; Dragons.mgw</path>
 		<name>Dungeons &amp; Dragons Computer Fantasy Game</name>
 		<desc>Press ATTACK button to get out of demo mode; screen shows L1, for skill level 1. Press MOVE button 1 or 2 times, to select skill level 2 or 3. Press it again and you go back to level 1. Level 1: warrior possesses magic rope at start of game. Level 2: magic rope is hidden randomly and must be found to be used. Level 3: there is no magic rope. You see score ONLY when you slay the dragon. You score 1 point per each 5 seconds of spent time. Maximum number of points possible is 99 (then game is over). The lowest score is the best score! Click on the Attack button after game ends to start a new game, or hold it for 5 seconds to put the game in demo mode.</desc>
@@ -602,19 +589,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Galaxy II.mgw</path>
-		<name>Galaxy II</name>
-		<desc>Game is divided into four phases. In Phase 1, you must destroy a squadron of fighters that attack in two different patterns: a zigzag and a backward-forward motion. In Phase 2, another squadron attacks, this time in a circular formation. In Phase 3, the enemy command ships are vulnerable but watch out for their barrage of missiles! In Phase 4, you are challenged to complete a difficult docking maneuver. Your earth ship launches a space shuttle and the countdown begins. Five misses and game ends (in phases 1 to 3). In Phase 1, enemy warships on top rows are worth 10 or 20 points each. In Phase 1, enemy warships moving down are worth 40 or 50 points each. In Phase 2, enemy warships are worth 70 points each. In Phase 3, enemy command ships are worth 100 points each. In Phase 4, you score bonus points. The amount of points depend on how much time you spend to complete the docking maneuver. Maximum displayed score is 10000.</desc>
-		<image>./mixart/Galaxy II.png</image>
-		<video>./snap/Galaxy II.mp4</video>
-		<marquee>./wheel/Galaxy II.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Epoch</developer>
-		<publisher>Epoch</publisher>
 		<genre>Action</genre>
 	</game>
 	<game>
@@ -722,18 +696,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Donkey Kong Coleco.mgw</path>
-		<name>Donkey Kong</name>
-		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
-		<image>./mixart/Donkey Kong Coleco.png</image>
-		<video>./snap/Donkey Kong Coleco.mp4</video>
-		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-	</game>
-	<game>
 		<path>./Banana.mgw</path>
 		<name>Banana</name>
 		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
@@ -760,5 +722,43 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong</name>
+		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
+		<image>./mixart/Donkey Kong Coleco.png</image>
+		<video>./snap/Donkey Kong Coleco.mp4</video>
+		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+	</game>
+	<game>
+		<path>./Galaxy II.mgw</path>
+		<name>Galaxy II</name>
+		<desc>Game is divided into four phases. In Phase 1, you must destroy a squadron of fighters that attack in two different patterns: a zigzag and a backward-forward motion. In Phase 2, another squadron attacks, this time in a circular formation. In Phase 3, the enemy command ships are vulnerable but watch out for their barrage of missiles! In Phase 4, you are challenged to complete a difficult docking maneuver. Your earth ship launches a space shuttle and the countdown begins. Five misses and game ends (in phases 1 to 3). In Phase 1, enemy warships on top rows are worth 10 or 20 points each. In Phase 1, enemy warships moving down are worth 40 or 50 points each. In Phase 2, enemy warships are worth 70 points each. In Phase 3, enemy command ships are worth 100 points each. In Phase 4, you score bonus points. The amount of points depend on how much time you spend to complete the docking maneuver. Maximum displayed score is 10000.</desc>
+		<image>./mixart/Galaxy II.png</image>
+		<video>./snap/Galaxy II.mp4</video>
+		<marquee>./wheel/Galaxy II.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Epoch</developer>
+		<publisher>Epoch</publisher>
+		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Tron.mgw</path>
+		<name>Tron</name>
+		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
+		<image>./mixart/Tron.png</image>
+		<video>./snap/Tron.mp4</video>
+		<marquee>./wheel/Tron.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Tomytronic</developer>
+		<publisher>Tomytronic</publisher>
+		<genre>Action</genre>
 	</game>
 </gameList>

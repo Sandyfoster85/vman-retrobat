@@ -112,20 +112,6 @@ Street running sections lead to three minigames. In these, Marty must sling milk
 		<marquee>./wheel/Beam Rider (Japan).png</marquee>
 		<video>./snap/Beam Rider (Japan).mp4</video>
 	</game>
-	<game id="94708" source="ScreenScraper.fr">
-		<path>./Bomber King (Japan).zip</path>
-		<name>Bomber King</name>
-		<desc>RoboWarrior takes place on an alien planet called Altile. The player operates a cyborg named ZED (Z-type Earth Defence). In the game, ZED raids Altile to fight the Xantho empire and destroy its leader, Xur. ZED deploys bombs to clear a path through rocks, walls, and forests, while killing enemies and collecting items. Some gameplay elements resemble those of Bomberman (1983).
-
-RoboWarrior comprises five level formats. In one, the player must obtain a key before the time limit expires. In another, the key is unavailable until the player acquires a crystal or chalice. Some levels are cast in darkness, rendering obstructions invisible unless the player has a lit lamp. Still other levels are mazes in which a player must find and blast-through weak points in walls to proceed. Periodically, a player engages a boss level.</desc>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<publisher>Hudson Soft</publisher>
-		<hash>8CF0E6C0</hash>
-		<image>./mixart/Bomber King (Japan).png</image>
-		<marquee>./wheel/Bomber King (Japan).png</marquee>
-		<video>./snap/Bomber King (Japan).mp4</video>
-	</game>
 	<game id="94711" source="ScreenScraper.fr">
 		<path>./Bomber Man Special (Japan).zip</path>
 		<name>Bomber Man Special</name>
@@ -1496,5 +1482,19 @@ Simon can also find several primary weapons in the game, such as whip upgrades, 
 		<publisher>Konami</publisher>
 		<lang>jp</lang>
 		<region>eu</region>
+	</game>
+	<game id="94708" source="ScreenScraper.fr">
+		<path>./Bomber King (Japan).zip</path>
+		<name>Bomber King</name>
+		<desc>RoboWarrior takes place on an alien planet called Altile. The player operates a cyborg named ZED (Z-type Earth Defence). In the game, ZED raids Altile to fight the Xantho empire and destroy its leader, Xur. ZED deploys bombs to clear a path through rocks, walls, and forests, while killing enemies and collecting items. Some gameplay elements resemble those of Bomberman (1983).
+
+RoboWarrior comprises five level formats. In one, the player must obtain a key before the time limit expires. In another, the key is unavailable until the player acquires a crystal or chalice. Some levels are cast in darkness, rendering obstructions invisible unless the player has a lit lamp. Still other levels are mazes in which a player must find and blast-through weak points in walls to proceed. Periodically, a player engages a boss level.</desc>
+		<image>./mixart/Bomber King (Japan).png</image>
+		<video>./snap/Bomber King (Japan).mp4</video>
+		<marquee>./wheel/Bomber King (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Hudson Soft</publisher>
+		<crc32>8CF0E6C0</crc32>
 	</game>
 </gameList>

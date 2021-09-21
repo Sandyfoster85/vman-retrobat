@@ -6513,22 +6513,6 @@ Finally, there is also a feature called the "Bonus Board."  You can play with a 
 		<marquee>./wheel/Mario Party Advance (USA).png</marquee>
 		<video>./snap/Mario Party Advance (USA).mp4</video>
 	</game>
-	<game id="84123" source="ScreenScraper.fr">
-		<path>./Mario Pinball Land (USA, Australia).7z</path>
-		<name>Mario Pinball Land</name>
-		<desc>This is the standard "Bowser has kidnapped the Princess, and Mario must rescue her" story. In this case, the Princess is transformed into a ball and launched from a Super Mario 64-style cannon, which a pair of goombas aim directly at Bowser's Castle. Mario is also transformed into a ball and chases after her.
-
-There are 5 levels, each consisting of a set of pinball tables. Each table has some exits (including the one below the flippers) that Mario can use to move to other tables. Also, each one holds a star, normally obtained by defeating all enemies on the table. Some exits require that Mario has a certain number of stars. To gain access to Bowser's castle, Mario must defeat the bosses of the first 4 levels, which gives him star keys. The game also features a "Time Attack" mode, which allows players to fight already defeated bosses again.</desc>
-		<rating>0.7</rating>
-		<releasedate>20041004T000000</releasedate>
-		<developer>Fuse Games Limited</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation-Pinball</genre>
-		<players>1</players>
-		<image>./mixart/Mario Pinball Land (USA, Australia).png</image>
-		<marquee>./wheel/Mario Pinball Land (USA, Australia).png</marquee>
-		<video>./snap/Mario Pinball Land (USA, Australia).mp4</video>
-	</game>
 	<game id="3819" source="ScreenScraper.fr">
 		<path>./Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).7z</path>
 		<name>Mario Tennis: Power Tour</name>
@@ -8055,20 +8039,6 @@ The point of most levels is to collect candy which can be used to upgrade abilit
 		<image>./mixart/Ozzy &amp; Drix (USA).png</image>
 		<marquee>./wheel/Ozzy &amp; Drix (USA).png</marquee>
 		<video>./snap/Ozzy &amp; Drix (USA).mp4</video>
-	</game>
-	<game id="4608" source="ScreenScraper.fr">
-		<path>./Pac-Man Pinball Advance (USA).7z</path>
-		<name>Pac-Man Pinball Advance</name>
-		<desc>It's Pac-Man meets Pinball!  PMPA merges classic Pac-Man action with pinball, reminiscent of Kirby's Pinball Land, letting the player choose from different table backgrounds, the goal of which is to advance through the tables, hitting certain parts to gain power-ups, even the ability to eat pellets and eat the ghost foes (Blinky, Inky, Pinky and Clyde) and rescue Pac-Mans friends, including Ms. Pac-Man as well.  There are also mini-games to be played such as a vertical shooter and classic Pac-Man mazes.</desc>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Zoo Digital</developer>
-		<publisher>Namco</publisher>
-		<genre>Various-Action-Pinball</genre>
-		<players>1</players>
-		<image>./mixart/Pac-Man Pinball Advance (USA).png</image>
-		<marquee>./wheel/Pac-Man Pinball Advance (USA).png</marquee>
-		<video>./snap/Pac-Man Pinball Advance (USA).mp4</video>
 	</game>
 	<game id="4250" source="ScreenScraper.fr">
 		<path>./Pac-Man World 2 (USA).7z</path>
@@ -14579,22 +14549,6 @@ Ace Combat Advance is a top-down shooter. The player begins by picking an aircra
 		<lang>en</lang>
 		<region>eu</region>
 	</game>
-	<game>
-		<path>./Legend of Zelda, The - The Minish Cap (USA).7z</path>
-		<name>The Legend of Zelda : The Minish Cap</name>
-		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
-		<image>./mixart/Legend of Zelda, The - The Minish Cap (USA).png</image>
-		<video>./snap/Legend of Zelda, The - The Minish Cap (USA).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - The Minish Cap (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20050110T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="84632" source="ScreenScraper.fr">
 		<path>./Sound of Thunder, A (USA) (En,Fr,De,Es,It).7z</path>
 		<name>A Sound of Thunder</name>
@@ -14610,6 +14564,38 @@ Ace Combat Advance is a top-down shooter. The player begins by picking an aircra
 		<players>1</players>
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).7z</path>
+		<name>007 : Everything or Nothing</name>
+		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
+		<image>./mixart/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</image>
+		<video>./snap/007 - Everything or Nothing (USA, Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20031205T000000</releasedate>
+		<developer>Griptonite Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - The Minish Cap (USA).7z</path>
+		<name>The Legend of Zelda : The Minish Cap</name>
+		<desc>Link returns in an all-new Game Boy Advance adventure. When the sorcerer Vaati turns Princess Zelda to stone, the king of Hyrule sends Link on a quest that takes him to all-new locations. Using the power of a mystical hat called the Minish Cap, Link must travel through a fantastic world rife with new items, puzzles, and bosses. As Link, you can shrink down to either battle large enemies from within or find secret items. You can also unlock items and solve puzzles by fusing together magic relics.</desc>
+		<image>./mixart/Legend of Zelda, The - The Minish Cap (USA).png</image>
+		<video>./snap/Legend of Zelda, The - The Minish Cap (USA).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - The Minish Cap (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20050110T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./Tron 2.0 - Killer App (USA).7z</path>
@@ -14628,21 +14614,35 @@ Ace Combat Advance is a top-down shooter. The player begins by picking an aircra
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).7z</path>
-		<name>007 : Everything or Nothing</name>
-		<desc>Think like Bond, act like Bond, and experience an entirely new Bond adventure. James Bond, the world's greatest secret agent, returns in Everything or Nothing with new guns and gadgets, combat skills, and clever tricks--and it's up to you to put them to good use. Travel through four exciting continents including the Valley of the Kings in Egypt and the French Quarter in New Orleans. The game also features two-player co-op missions and four-player multiplayer arena modes.</desc>
-		<image>./mixart/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</image>
-		<video>./snap/007 - Everything or Nothing (USA, Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/007 - Everything or Nothing (USA, Europe) (En,Fr,De).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20031205T000000</releasedate>
-		<developer>Griptonite Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Shooter / 3rd person</genre>
-		<players>2</players>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
+	<game id="84123" source="ScreenScraper.fr">
+		<path>./Mario Pinball Land (USA, Australia).7z</path>
+		<name>Mario Pinball Land</name>
+		<desc>This is the standard "Bowser has kidnapped the Princess, and Mario must rescue her" story. In this case, the Princess is transformed into a ball and launched from a Super Mario 64-style cannon, which a pair of goombas aim directly at Bowser's Castle. Mario is also transformed into a ball and chases after her.
+
+There are 5 levels, each consisting of a set of pinball tables. Each table has some exits (including the one below the flippers) that Mario can use to move to other tables. Also, each one holds a star, normally obtained by defeating all enemies on the table. Some exits require that Mario has a certain number of stars. To gain access to Bowser's castle, Mario must defeat the bosses of the first 4 levels, which gives him star keys. The game also features a "Time Attack" mode, which allows players to fight already defeated bosses again.</desc>
+		<image>./mixart/Mario Pinball Land (USA, Australia).png</image>
+		<video>./snap/Mario Pinball Land (USA, Australia).mp4</video>
+		<marquee>./wheel/Mario Pinball Land (USA, Australia).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Fuse Games Limited</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation-Pinball</genre>
+		<players>1</players>
+	</game>
+	<game id="4608" source="ScreenScraper.fr">
+		<path>./Pac-Man Pinball Advance (USA).7z</path>
+		<name>Pac-Man Pinball Advance</name>
+		<desc>It's Pac-Man meets Pinball!  PMPA merges classic Pac-Man action with pinball, reminiscent of Kirby's Pinball Land, letting the player choose from different table backgrounds, the goal of which is to advance through the tables, hitting certain parts to gain power-ups, even the ability to eat pellets and eat the ghost foes (Blinky, Inky, Pinky and Clyde) and rescue Pac-Mans friends, including Ms. Pac-Man as well.  There are also mini-games to be played such as a vertical shooter and classic Pac-Man mazes.</desc>
+		<image>./mixart/Pac-Man Pinball Advance (USA).png</image>
+		<video>./snap/Pac-Man Pinball Advance (USA).mp4</video>
+		<marquee>./wheel/Pac-Man Pinball Advance (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Zoo Digital</developer>
+		<publisher>Namco</publisher>
+		<genre>Various-Action-Pinball</genre>
+		<players>1</players>
 	</game>
 	<game>
 		<path>./River City Ransom EX (USA).7z</path>

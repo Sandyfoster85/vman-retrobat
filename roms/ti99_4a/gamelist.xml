@@ -624,13 +624,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./crossfr.zip</path>
-		<name>Crossfire</name>
-		<image>./mixart/Crossfire.png</image>
-		<video>./snap/Crossfire.mp4</video>
-		<marquee>./wheel/Crossfire.png</marquee>
-	</game>
-	<game>
 		<path>./parsec.zip</path>
 		<name>Parsec</name>
 		<image>./mixart/Parsec.png</image>
@@ -639,5 +632,12 @@
 		<rating>0.8</rating>
 		<releasedate>19700101T000000</releasedate>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./crossfr.zip</path>
+		<name>Crossfire</name>
+		<image>./mixart/Crossfire.png</image>
+		<video>./snap/Crossfire.mp4</video>
+		<marquee>./wheel/Crossfire.png</marquee>
 	</game>
 </gameList>

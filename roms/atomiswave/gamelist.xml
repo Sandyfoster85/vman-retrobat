@@ -161,18 +161,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ngbc.zip</path>
-		<name>Neo-geo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./mixart/ngbc.png</image>
-		<video>./snap/ngbc.mp4</video>
-		<marquee>./wheel/ngbc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./vfurlong.zip</path>
 		<name>Net Select Horse Racing - Victory Furlong</name>
 		<desc>Net Select Horse Racing - Victory Furlong es un juego árcade de carreras de caballos desarrollado por Sammy en 2005.</desc>
@@ -406,5 +394,18 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

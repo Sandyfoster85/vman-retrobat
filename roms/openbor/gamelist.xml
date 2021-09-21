@@ -91,20 +91,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Maplevania.pak</path>
-		<name>Maplevania</name>
-		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
-		<image>./mixart/Maplevania.png</image>
-		<video>./snap/Maplevania.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Metal Slug Beat em up.pak</path>
 		<name>Metal Slug Beat em up</name>
 		<desc>A 2D fighting forces with all great characeters from Metal Slug</desc>
@@ -579,20 +565,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Golden Axe Legend.pak</path>
-		<name>Golden Axe Legend</name>
-		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
-		<image>./mixart/Golden Axe Legend.png</image>
-		<video>./snap/Golden Axe Legend.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles - Red Sky Battle.pak</path>
 		<name>TMNT - Red Sky Battle</name>
 		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
@@ -626,20 +598,6 @@
 		<desc>A 2D fighting forces with all great characeters from X-Men</desc>
 		<image>./mixart/X-Men - Clone Wars.png</image>
 		<video>./snap/X-Men - Clone Wars.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Castlevania - Legacy Of Dracula.pak</path>
-		<name>Castlevania - Legacy Of Dracula</name>
-		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
-		<image>./mixart/Castlevania - Legacy Of Dracula.png</image>
-		<video>./snap/Castlevania - Legacy Of Dracula.mp4</video>
 		<marquee>./wheel/OpenBOR.png</marquee>
 		<rating>4.8</rating>
 		<releasedate>2016</releasedate>
@@ -1033,15 +991,6 @@
 		<marquee>./wheel/Neon Lightning Force.png</marquee>
 		<video>./snap/Neon Lightning Force.mp4</video>
 	</game>
-	<game id="191459" source="ScreenScraper.fr">
-		<path>./Ninja Warriors vs Marvel.pak</path>
-		<name>Ninja Warriors Vs Marvel</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Ninja Warriors vs Marvel.png</image>
-		<marquee>./wheel/Ninja Warriors vs Marvel.png</marquee>
-		<video>./snap/Ninja Warriors vs Marvel.mp4</video>
-	</game>
 	<game id="191457" source="ScreenScraper.fr">
 		<path>./One Piece - Grand Line Bout!.PAK</path>
 		<name>One Piece - Grandline Bout</name>
@@ -1059,15 +1008,6 @@
 		<image>./mixart/Overload.png</image>
 		<marquee>./wheel/Overload.png</marquee>
 		<video>./snap/Overload.mp4</video>
-	</game>
-	<game id="191453" source="ScreenScraper.fr">
-		<path>./Panda Warriors.PAK</path>
-		<name>Panda Warriors</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Panda Warriors.png</image>
-		<marquee>./wheel/Panda Warriors.png</marquee>
-		<video>./snap/Panda Warriors.mp4</video>
 	</game>
 	<game id="191451" source="ScreenScraper.fr">
 		<path>./Phantasy Star Online.PAK</path>
@@ -1138,15 +1078,6 @@
 		<image>./mixart/Project R.png</image>
 		<marquee>./wheel/Project R.png</marquee>
 		<video>./snap/Project R.mp4</video>
-	</game>
-	<game id="191447" source="ScreenScraper.fr">
-		<path>./Rael - The Redemption.pak</path>
-		<name>Rael The Redemption</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Rael - The Redemption.png</image>
-		<marquee>./wheel/Rael - The Redemption.png</marquee>
-		<video>./snap/Rael - The Redemption.mp4</video>
 	</game>
 	<game id="191444" source="ScreenScraper.fr">
 		<path>./Rage of the Streets.pak</path>
@@ -1346,15 +1277,6 @@
 		<video>./snap/Sailormoon Alternate Story Clone Attack.mp4</video>
 	</game>
 	<game id="191428" source="ScreenScraper.fr">
-		<path>./Sailor Moon Plus.pak</path>
-		<name>Sailor Moon Plus</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Sailor Moon R Plus.png</image>
-		<marquee>./wheel/Sailor Moon R Plus.png</marquee>
-		<video>./snap/Sailor Moon R Plus.mp4</video>
-	</game>
-	<game id="191428" source="ScreenScraper.fr">
 		<path>./Sailor Moon R Plus.pak</path>
 		<name>Sailor Moon Plus</name>
 		<rating>4</rating>
@@ -1458,15 +1380,6 @@
 		<marquee>./wheel/Sonic Revolution.png</marquee>
 		<video>./snap/Sonic Revolution.mp4</video>
 	</game>
-	<game id="191409" source="ScreenScraper.fr">
-		<path>./Sonic X - Battle.pak</path>
-		<name>Sonic X Battle</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Sonic X - Battle.png</image>
-		<marquee>./wheel/Sonic X - Battle.png</marquee>
-		<video>./snap/Sonic X - Battle.mp4</video>
-	</game>
 	<game id="191407" source="ScreenScraper.fr">
 		<path>./Soul Calibur II.PAK</path>
 		<name>Soul Edge 2</name>
@@ -1475,17 +1388,6 @@
 		<image>./mixart/Soul Calibur II.png</image>
 		<marquee>./wheel/Soul Calibur II.png</marquee>
 		<video>./snap/Soul Calibur II.mp4</video>
-	</game>
-	<game id="191413" source="ScreenScraper.fr">
-		<path>./Splatterhouse - Deception of the Mask.pak</path>
-		<name>Splatterhouse 1 Deception Of The Mask</name>
-		<desc>4 playable characters  new moves and specials for every Rick version  10 stages, 19 substages  19 different enemies + 10 Bosses</desc>
-		<rating>4</rating>
-		<releasedate />
-		<developer>Krauser</developer>
-		<image>./mixart/Splatterhouse - Deception of the Mask.png</image>
-		<marquee>./wheel/Splatterhouse - Deception of the Mask.png</marquee>
-		<video>./snap/Splatterhouse - Deception of the Mask.mp4</video>
 	</game>
 	<game id="191415" source="ScreenScraper.fr">
 		<path>./Splatterhouse 2 - Journey Through Hell.pak</path>
@@ -1711,16 +1613,6 @@
 		<marquee>./wheel/Teenage Mutant Ninja Turtles III The Manhattan Project.png</marquee>
 		<video>./snap/Teenage Mutant Ninja Turtles III The Manhattan Project.mp4</video>
 	</game>
-	<game id="191381" source="ScreenScraper.fr">
-		<path>./Teenage Mutant Ninja Turtles 8 bit.PAK</path>
-		<name>Teenage Mutant Ninja Turtles 8-bit</name>
-		<rating>4</rating>
-		<releasedate />
-		<players>1-4</players>
-		<image>./mixart/Teenage Mutant Ninja Turtles 8 bit.png</image>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles 8 bit.png</marquee>
-		<video>./snap/Teenage Mutant Ninja Turtles 8 bit.mp4</video>
-	</game>
 	<game id="191385" source="ScreenScraper.fr">
 		<path>./Tekkaman Blade.PAK</path>
 		<name>Tekkaman Blade</name>
@@ -1886,15 +1778,6 @@
 		<marquee>./wheel/X-Men (M).png</marquee>
 		<video>./snap/X-Men (M).mp4</video>
 	</game>
-	<game id="192367" source="ScreenScraper.fr">
-		<path>./Xopowo For Hentaiers Custom.pak</path>
-		<name>Xopowo For Hentaiers Custom</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Xopowo For Hentaiers Custom.png</image>
-		<marquee>./wheel/Xopowo For Hentaiers Custom.png</marquee>
-		<video>./snap/Xopowo For Hentaiers Custom.mp4</video>
-	</game>
 	<game id="191641" source="ScreenScraper.fr">
 		<path>./X-Men - Beats of Rage.pak</path>
 		<name>ZZZ(notgame):Marvel Demo</name>
@@ -1939,20 +1822,6 @@
 		<releasedate>20130514T000000</releasedate>
 		<developer>lagarto</developer>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Vampires Rage.pak</path>
-		<name>Vampires Rage</name>
-		<desc>A 2D fighting forces with all great characeters from Vampires Rage</desc>
-		<image>./mixart/Vampires Rage.png</image>
-		<video>./snap/Vampires Rage.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./X-men Guerra dos Clones.pak</path>
@@ -2101,25 +1970,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./CastleVania Pulse Of Animosity.PAK</path>
-		<name>Castlevania - Pulse Of Animosity</name>
-		<image>./mixart/CastleVania Pulse Of Animosity.png</image>
-		<video>./snap/CastleVania Pulse Of Animosity.mp4</video>
-		<marquee>./wheel/CastleVania Pulse Of Animosity.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Castlevania - Symphony Of Destruction.pak</path>
-		<name>Castlevania - Symphony Of Destruction</name>
-		<image>./mixart/Castlevania - Symphony Of Destruction.png</image>
-		<video>./snap/Castlevania - Symphony Of Destruction.mp4</video>
-		<marquee>./wheel/Castlevania - Symphony Of Destruction.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./Castlevania LCD Chronicles.pak</path>
 		<name>Castlevania Lcd Chronicles</name>
 		<image>./mixart/Castlevania LCD Chronicles.png</image>
@@ -2257,147 +2107,6 @@
 		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
-		<path>./Double Dragon Unlimited.PAK</path>
-		<name>Double Dragon - Unlimited</name>
-		<image>./mixart/Double Dragon Unlimited.png</image>
-		<video>./snap/Double Dragon Unlimited.mp4</video>
-		<marquee>./wheel/Double Dragon Unlimited.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon III - The Dragon Stone.pak</path>
-		<name>Double Dragon 3 - The Dragon Stone</name>
-		<desc>An enjoyable game developed by gabo hanzo , this open bor game is full of special moves that make the old double dragon 3 a decent game to have fun!  So what add this remake to the old technos saga?  3 characters gameplay  lots of new skills  rearranged graphics from the past double dragon games  arranged music  </desc>
-		<image>./mixart/Double Dragon III - The Dragon Stone.png</image>
-		<video>./snap/Double Dragon III - The Dragon Stone.mp4</video>
-		<marquee>./wheel/Double Dragon III - The Dragon Stone.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<genre>Beat'em Up</genre>
-		<players>1-3</players>
-	</game>
-	<game>
-		<path>./Double Dragon Advance.pak</path>
-		<name>Double Dragon Advance</name>
-		<image>./mixart/Double Dragon Advance.png</image>
-		<video>./snap/Double Dragon Advance.mp4</video>
-		<marquee>./wheel/Double Dragon Advance.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Extreme.pak</path>
-		<name>Double Dragon Extreme</name>
-		<desc>This mod is a fantastic piece of work that feature remakes of the arcade version of Double Dragon 1 and 2 and the NES version of Double Dragon 2.    The game features three fighting styles and its a matter of opinion on which one is the best suited for you.</desc>
-		<image>./mixart/Double Dragon Extreme.png</image>
-		<video>./snap/Double Dragon Extreme.mp4</video>
-		<marquee>./wheel/Double Dragon Extreme.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20130129T000000</releasedate>
-		<developer>Mr.Q!</developer>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Double Dragon Gaiden.PAK</path>
-		<name>Double Dragon Gaiden</name>
-		<image>./mixart/Double Dragon Gaiden.png</image>
-		<video>./snap/Double Dragon Gaiden.mp4</video>
-		<marquee>./wheel/Double Dragon Gaiden.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Genesis.pak</path>
-		<name>Double Dragon Genesis</name>
-		<image>./mixart/Double Dragon Genesis.png</image>
-		<video>./snap/Double Dragon Genesis.mp4</video>
-		<marquee>./wheel/Double Dragon Genesis.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Gold.pak</path>
-		<name>Double Dragon Gold</name>
-		<image>./mixart/Double Dragon Gold.png</image>
-		<video>./snap/Double Dragon Gold.mp4</video>
-		<marquee>./wheel/Double Dragon Gold.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Remix.pak</path>
-		<name>Double Dragon Remix</name>
-		<image>./mixart/Double Dragon Remix.png</image>
-		<video>./snap/Double Dragon Remix.mp4</video>
-		<marquee>./wheel/Double Dragon Remix.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Renegade.pak</path>
-		<name>Double Dragon Renegade</name>
-		<image>./mixart/Double Dragon Renegade.png</image>
-		<video>./snap/Double Dragon Renegade.mp4</video>
-		<marquee>./wheel/Double Dragon Renegade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Revolution.PAK</path>
-		<name>Double Dragon Revolution</name>
-		<image>./mixart/Double Dragon Revolution.png</image>
-		<video>./snap/Double Dragon Revolution.mp4</video>
-		<marquee>./wheel/Double Dragon Revolution.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Revolution 2.pak</path>
-		<name>Double Dragon Revolution 2</name>
-		<image>./mixart/Double Dragon Revolution 2.png</image>
-		<video>./snap/Double Dragon Revolution 2.mp4</video>
-		<marquee>./wheel/Double Dragon Revolution 2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon SNK Final Edition.pak</path>
-		<name>Double Dragon Snk</name>
-		<image>./mixart/Double Dragon SNK Final Edition.png</image>
-		<video>./snap/Double Dragon SNK Final Edition.mp4</video>
-		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon - Unleashed.PAK</path>
-		<name>Double Dragon Unleashed</name>
-		<image>./mixart/Double Dragon Unleashed.png</image>
-		<video>./snap/Double Dragon Unleashed.mp4</video>
-		<marquee>./wheel/Double Dragon Unleashed.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Dragon Ball.PAK</path>
-		<name>Dragon Ball</name>
-		<image>./mixart/Dragon Ball.png</image>
-		<video>./snap/Dragon Ball.mp4</video>
-		<marquee>./wheel/Dragon Ball.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Dragon Ball Z Gold.pak</path>
-		<name>Dragon Ball Z Gold</name>
-		<image>./mixart/Dragon Ball Z Gold.png</image>
-		<video>./snap/Dragon Ball Z Gold.mp4</video>
-		<marquee>./wheel/Dragon Ball Z Gold.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./Dragon Ball Z.pak</path>
 		<name>Dragon Ball Z Tournament</name>
 		<image>./mixart/Dragon Ball Z.png</image>
@@ -2474,15 +2183,6 @@
 		<image>./mixart/Evil Dead 2.png</image>
 		<video>./snap/Evil Dead 2.mp4</video>
 		<marquee>./wheel/Evil Dead 2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Evil Dead - Splatterhouse.PAK</path>
-		<name>Evil Splatter</name>
-		<image>./mixart/Evil Dead - Splatterhouse.png</image>
-		<video>./snap/Evil Dead - Splatterhouse.mp4</video>
-		<marquee>./wheel/Evil Dead - Splatterhouse.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 	</game>
@@ -2575,18 +2275,6 @@
 		<releasedate>19700101T010000</releasedate>
 		<developer>Mr.Q!</developer>
 		<players>1-4</players>
-	</game>
-	<game>
-		<path>./Final Fight Alpha.pak</path>
-		<name>Final Fight Alpha</name>
-		<desc>Final Fight Aplha is a fan game which is heavily based on the well-known Capcom saga and Street Fighter Alpha series. The result is a pretty good beat em' up with a really cool graphics and a classic-soldid gameplay.  The game, created with the OpenBOR engine, includes 8 characters which you can select (and much more secrets), four of which are from the Street Fighter saga. Each one of them has their own special moves and they all have to go through 8 stages with many different enemies and bosses to defeat.  Do you think you can stop the evil project of Shadowlaw?</desc>
-		<image>./mixart/Final Fight Alpha.png</image>
-		<video>./snap/Final Fight Alpha.mp4</video>
-		<marquee>./wheel/Final Fight Alpha.png</marquee>
-		<rating>1</rating>
-		<releasedate>20130625T000000</releasedate>
-		<developer>S.E.E.P.</developer>
-		<players>1-2</players>
 	</game>
 	<game>
 		<path>./Final Fight and Cadillacs.pak</path>
@@ -2757,16 +2445,6 @@
 		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
-		<path>./Ghouls'n Ghosts Return.pak</path>
-		<name>Ghouls'n Ghosts Returns</name>
-		<image>./mixart/Ghouls'n Ghosts Return.png</image>
-		<video>./snap/Ghouls'n Ghosts Return.mp4</video>
-		<marquee>./wheel/Ghouls'n Ghosts Return.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Golden Axe Curse of Death Adder 3.0.pak</path>
 		<name>Golden Axe Curse Of Death Adder</name>
 		<image>./mixart/Golden Axe Curse of Death Adder 3.0.png</image>
@@ -2793,16 +2471,6 @@
 		<image>./mixart/Golden Axe Remake - Special Edition.png</image>
 		<video>./snap/Golden Axe Remake - Special Edition.mp4</video>
 		<marquee>./wheel/Golden Axe Remake - Special Edition.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Guilty Gear - The Crusades.pak</path>
-		<name>Guilty Gear The Crusades</name>
-		<desc>A decent OpenBOR game that's based on Guilty Gear. The graphics are a bit on the mediocre side, since the GG characters are missing frames of animation, the enemies are "familiar", and the game has the default physics, but if you can get past these aspects it's alright.  Playable characters: Sol Badguy, Ky Kiske, Potemkin, Baiken, Hayato (Star Gladiator), Ceil (Melty Blood)</desc>
-		<image>./mixart/Guilty Gear - The Crusades.png</image>
-		<video>./snap/Guilty Gear - The Crusades.mp4</video>
-		<marquee>./wheel/Guilty Gear - The Crusades.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 	</game>
@@ -3132,15 +2800,6 @@
 		<releasedate>19700101T010000</releasedate>
 	</game>
 	<game>
-		<path>./Dragon Ball Z - Attack of Saiyans.pak</path>
-		<name>Dragon Ball Z - Attack Of The Saiyans</name>
-		<image>./mixart/Dragon Ball Z - Attack of Saiyans.png</image>
-		<video>./snap/Dragon Ball Z - Attack of Saiyans.mp4</video>
-		<marquee>./wheel/Dragon Ball Z - Attack of Saiyans.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./elm.pak</path>
 		<name>Dreams Of Rage (nightmare On Elm Street)</name>
 		<desc>The man of your dreams is back and this time in, full on, 16-bit glory. Fight through an army of Freddy's past victims, hellish nightmares, and Krueger himself as one of the Dream Warriors. Do you have what it takes?</desc>
@@ -3380,36 +3039,6 @@
 		<releasedate />
 	</game>
 	<game>
-		<path>./Avengers [v.3.0 Build 4086].pak</path>
-		<name>Avengers - United Battle Force</name>
-		<desc>Avengers: United Battle Force is an remix of the old Captain America and Avengers arcade game with new chars and many cool things.     Its a 2 players beat-em-up game, featuring Avengers plus some guest chars from Marvel universe.     17 playable characters (+ unlockable characters)   20 supporting characters (between NPC and helpers)   3 chapters, with more than 15 stages   Many special powers, including devastating Hyper Moves   Alternative route   Alternative mode for some characters   Bonus stages and aerial stages   Intense boss fights   10+ bosses   Many items and traps   Custom voiced characters   Custom loading screens   Unique feature - Music tempo changes based on boss life. Works like in Street Fighter 2.</desc>
-		<image>./mixart/Avengers [v.3.0 Build 4086].png</image>
-		<video>./snap/Avengers [v.3.0 Build 4086].mp4</video>
-		<marquee>./wheel/Avengers [v.3.0 Build 4086].png</marquee>
-		<rating>3.95</rating>
-		<releasedate />
-		<developer>O Ilusionista / Doom</developer>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./Double Dragon IV.pak</path>
-		<name>Double Dragon 4</name>
-		<image>./mixart/Double Dragon IV.png</image>
-		<video>./snap/Double Dragon IV.mp4</video>
-		<marquee>./wheel/Double Dragon IV.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
-		<path>./Double Dragon Zero.PAK</path>
-		<name>Double Dragon Zero</name>
-		<image>./mixart/Double Dragon Zero.png</image>
-		<video>./snap/Double Dragon Zero.mp4</video>
-		<marquee>./wheel/Double Dragon Zero.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./Guardian Heroes Warpath.pak</path>
 		<name>Guardian Heroes - Warpath</name>
 		<desc>8 playable characters  Branching Paths  Multiple Endings  Rideable Creatures    Important!: when mapping buttons make sure you use attack2 because the 2 attack buttons become combos.</desc>
@@ -3466,17 +3095,6 @@
 		<image>./mixart/Legend of the Double Dragon v1.5 Cinematic Edition.png</image>
 		<marquee>./wheel/Legend of the Double Dragon v1.5 Cinematic Edition.png</marquee>
 		<video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
-	</game>
-	<game>
-		<path>./Ghouls'n Ghosts.pak</path>
-		<name>Ghouls N Ghosts</name>
-		<image>./mixart/Ghouls'n Ghosts.png</image>
-		<video>./snap/Ghouls'n Ghosts.mp4</video>
-		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./HD_Monster_Girl_Dimensions.pak</path>
@@ -3728,32 +3346,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
-		<name>Tmnt Rescue-palooza!</name>
-		<image>./mixart/TMNT Rescue-Palooza! v0.9.3.png</image>
-		<video>./snap/TMNT Rescue-Palooza! v0.9.3.mp4</video>
-		<marquee>./wheel/TMNT Rescue-Palooza! v0.9.3.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./HE-MAN.pak</path>
-		<name>HE-MAN</name>
-		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
-		<image>./mixart/HE-MAN.png</image>
-		<video>./snap/HE-MAN.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Super Karate Kid.pak</path>
 		<name>Super Karate Kid</name>
 		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
@@ -3811,5 +3403,449 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
+		<name>Tmnt Rescue-palooza!</name>
+		<image>./mixart/TMNT Rescue-Palooza! v0.9.3.png</image>
+		<video>./snap/TMNT Rescue-Palooza! v0.9.3.mp4</video>
+		<marquee>./wheel/TMNT Rescue-Palooza! v0.9.3.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ghouls'n Ghosts.pak</path>
+		<name>Ghouls N Ghosts</name>
+		<image>./mixart/Ghouls'n Ghosts.png</image>
+		<video>./snap/Ghouls'n Ghosts.mp4</video>
+		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Avengers [v.3.0 Build 4086].pak</path>
+		<name>Avengers - United Battle Force</name>
+		<desc>Avengers: United Battle Force is an remix of the old Captain America and Avengers arcade game with new chars and many cool things.     Its a 2 players beat-em-up game, featuring Avengers plus some guest chars from Marvel universe.     17 playable characters (+ unlockable characters)   20 supporting characters (between NPC and helpers)   3 chapters, with more than 15 stages   Many special powers, including devastating Hyper Moves   Alternative route   Alternative mode for some characters   Bonus stages and aerial stages   Intense boss fights   10+ bosses   Many items and traps   Custom voiced characters   Custom loading screens   Unique feature - Music tempo changes based on boss life. Works like in Street Fighter 2.</desc>
+		<image>./mixart/Avengers [v.3.0 Build 4086].png</image>
+		<video>./snap/Avengers [v.3.0 Build 4086].mp4</video>
+		<marquee>./wheel/Avengers [v.3.0 Build 4086].png</marquee>
+		<rating>3.95</rating>
+		<releasedate />
+		<developer>O Ilusionista / Doom</developer>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania - Legacy Of Dracula.pak</path>
+		<name>Castlevania - Legacy Of Dracula</name>
+		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
+		<image>./mixart/Castlevania - Legacy Of Dracula.png</image>
+		<video>./snap/Castlevania - Legacy Of Dracula.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony Of Destruction.pak</path>
+		<name>Castlevania - Symphony Of Destruction</name>
+		<image>./mixart/Castlevania - Symphony Of Destruction.png</image>
+		<video>./snap/Castlevania - Symphony Of Destruction.mp4</video>
+		<marquee>./wheel/Castlevania - Symphony Of Destruction.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CastleVania Pulse Of Animosity.PAK</path>
+		<name>Castlevania - Pulse Of Animosity</name>
+		<image>./mixart/CastleVania Pulse Of Animosity.png</image>
+		<video>./snap/CastleVania Pulse Of Animosity.mp4</video>
+		<marquee>./wheel/CastleVania Pulse Of Animosity.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon - Unleashed.PAK</path>
+		<name>Double Dragon Unleashed</name>
+		<image>./mixart/Double Dragon Unleashed.png</image>
+		<video>./snap/Double Dragon Unleashed.mp4</video>
+		<marquee>./wheel/Double Dragon Unleashed.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Advance.pak</path>
+		<name>Double Dragon Advance</name>
+		<image>./mixart/Double Dragon Advance.png</image>
+		<video>./snap/Double Dragon Advance.mp4</video>
+		<marquee>./wheel/Double Dragon Advance.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Extreme.pak</path>
+		<name>Double Dragon Extreme</name>
+		<desc>This mod is a fantastic piece of work that feature remakes of the arcade version of Double Dragon 1 and 2 and the NES version of Double Dragon 2.    The game features three fighting styles and its a matter of opinion on which one is the best suited for you.</desc>
+		<image>./mixart/Double Dragon Extreme.png</image>
+		<video>./snap/Double Dragon Extreme.mp4</video>
+		<marquee>./wheel/Double Dragon Extreme.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20130129T000000</releasedate>
+		<developer>Mr.Q!</developer>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Gaiden.PAK</path>
+		<name>Double Dragon Gaiden</name>
+		<image>./mixart/Double Dragon Gaiden.png</image>
+		<video>./snap/Double Dragon Gaiden.mp4</video>
+		<marquee>./wheel/Double Dragon Gaiden.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Genesis.pak</path>
+		<name>Double Dragon Genesis</name>
+		<image>./mixart/Double Dragon Genesis.png</image>
+		<video>./snap/Double Dragon Genesis.mp4</video>
+		<marquee>./wheel/Double Dragon Genesis.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Gold.pak</path>
+		<name>Double Dragon Gold</name>
+		<image>./mixart/Double Dragon Gold.png</image>
+		<video>./snap/Double Dragon Gold.mp4</video>
+		<marquee>./wheel/Double Dragon Gold.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon III - The Dragon Stone.pak</path>
+		<name>Double Dragon 3 - The Dragon Stone</name>
+		<desc>An enjoyable game developed by gabo hanzo , this open bor game is full of special moves that make the old double dragon 3 a decent game to have fun!  So what add this remake to the old technos saga?  3 characters gameplay  lots of new skills  rearranged graphics from the past double dragon games  arranged music</desc>
+		<image>./mixart/Double Dragon III - The Dragon Stone.png</image>
+		<video>./snap/Double Dragon III - The Dragon Stone.mp4</video>
+		<marquee>./wheel/Double Dragon III - The Dragon Stone.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Beat'em Up</genre>
+		<players>3</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon IV.pak</path>
+		<name>Double Dragon 4</name>
+		<image>./mixart/Double Dragon IV.png</image>
+		<video>./snap/Double Dragon IV.mp4</video>
+		<marquee>./wheel/Double Dragon IV.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Remix.pak</path>
+		<name>Double Dragon Remix</name>
+		<image>./mixart/Double Dragon Remix.png</image>
+		<video>./snap/Double Dragon Remix.mp4</video>
+		<marquee>./wheel/Double Dragon Remix.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Renegade.pak</path>
+		<name>Double Dragon Renegade</name>
+		<image>./mixart/Double Dragon Renegade.png</image>
+		<video>./snap/Double Dragon Renegade.mp4</video>
+		<marquee>./wheel/Double Dragon Renegade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Revolution 2.pak</path>
+		<name>Double Dragon Revolution 2</name>
+		<image>./mixart/Double Dragon Revolution 2.png</image>
+		<video>./snap/Double Dragon Revolution 2.mp4</video>
+		<marquee>./wheel/Double Dragon Revolution 2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Revolution.PAK</path>
+		<name>Double Dragon Revolution</name>
+		<image>./mixart/Double Dragon Revolution.png</image>
+		<video>./snap/Double Dragon Revolution.mp4</video>
+		<marquee>./wheel/Double Dragon Revolution.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon SNK Final Edition.pak</path>
+		<name>Double Dragon Snk</name>
+		<image>./mixart/Double Dragon SNK Final Edition.png</image>
+		<video>./snap/Double Dragon SNK Final Edition.mp4</video>
+		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Unlimited.PAK</path>
+		<name>Double Dragon - Unlimited</name>
+		<image>./mixart/Double Dragon Unlimited.png</image>
+		<video>./snap/Double Dragon Unlimited.mp4</video>
+		<marquee>./wheel/Double Dragon Unlimited.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon Zero.PAK</path>
+		<name>Double Dragon Zero</name>
+		<image>./mixart/Double Dragon Zero.png</image>
+		<video>./snap/Double Dragon Zero.mp4</video>
+		<marquee>./wheel/Double Dragon Zero.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon Ball Z - Attack of Saiyans.pak</path>
+		<name>Dragon Ball Z - Attack Of The Saiyans</name>
+		<image>./mixart/Dragon Ball Z - Attack of Saiyans.png</image>
+		<video>./snap/Dragon Ball Z - Attack of Saiyans.mp4</video>
+		<marquee>./wheel/Dragon Ball Z - Attack of Saiyans.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon Ball Z Gold.pak</path>
+		<name>Dragon Ball Z Gold</name>
+		<image>./mixart/Dragon Ball Z Gold.png</image>
+		<video>./snap/Dragon Ball Z Gold.mp4</video>
+		<marquee>./wheel/Dragon Ball Z Gold.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon Ball.PAK</path>
+		<name>Dragon Ball</name>
+		<image>./mixart/Dragon Ball.png</image>
+		<video>./snap/Dragon Ball.mp4</video>
+		<marquee>./wheel/Dragon Ball.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Final Fight Alpha.pak</path>
+		<name>Final Fight Alpha</name>
+		<desc>Final Fight Aplha is a fan game which is heavily based on the well-known Capcom saga and Street Fighter Alpha series. The result is a pretty good beat em' up with a really cool graphics and a classic-soldid gameplay.  The game, created with the OpenBOR engine, includes 8 characters which you can select (and much more secrets), four of which are from the Street Fighter saga. Each one of them has their own special moves and they all have to go through 8 stages with many different enemies and bosses to defeat.  Do you think you can stop the evil project of Shadowlaw?</desc>
+		<image>./mixart/Final Fight Alpha.png</image>
+		<video>./snap/Final Fight Alpha.mp4</video>
+		<marquee>./wheel/Final Fight Alpha.png</marquee>
+		<rating>1</rating>
+		<releasedate>20130625T000000</releasedate>
+		<developer>S.E.E.P.</developer>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ghouls'n Ghosts Return.pak</path>
+		<name>Ghouls'n Ghosts Returns</name>
+		<image>./mixart/Ghouls'n Ghosts Return.png</image>
+		<video>./snap/Ghouls'n Ghosts Return.mp4</video>
+		<marquee>./wheel/Ghouls'n Ghosts Return.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Golden Axe Legend.pak</path>
+		<name>Golden Axe Legend</name>
+		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
+		<image>./mixart/Golden Axe Legend.png</image>
+		<video>./snap/Golden Axe Legend.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Guilty Gear - The Crusades.pak</path>
+		<name>Guilty Gear The Crusades</name>
+		<desc>A decent OpenBOR game that's based on Guilty Gear. The graphics are a bit on the mediocre side, since the GG characters are missing frames of animation, the enemies are "familiar", and the game has the default physics, but if you can get past these aspects it's alright.  Playable characters: Sol Badguy, Ky Kiske, Potemkin, Baiken, Hayato (Star Gladiator), Ceil (Melty Blood)</desc>
+		<image>./mixart/Guilty Gear - The Crusades.png</image>
+		<video>./snap/Guilty Gear - The Crusades.mp4</video>
+		<marquee>./wheel/Guilty Gear - The Crusades.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HE-MAN.pak</path>
+		<name>HE-MAN</name>
+		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
+		<image>./mixart/HE-MAN.png</image>
+		<video>./snap/HE-MAN.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maplevania.pak</path>
+		<name>Maplevania</name>
+		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
+		<image>./mixart/Maplevania.png</image>
+		<video>./snap/Maplevania.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="191459" source="ScreenScraper.fr">
+		<path>./Ninja Warriors vs Marvel.pak</path>
+		<name>Ninja Warriors Vs Marvel</name>
+		<image>./mixart/Ninja Warriors vs Marvel.png</image>
+		<video>./snap/Ninja Warriors vs Marvel.mp4</video>
+		<marquee>./wheel/Ninja Warriors vs Marvel.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="191453" source="ScreenScraper.fr">
+		<path>./Panda Warriors.PAK</path>
+		<name>Panda Warriors</name>
+		<image>./mixart/Panda Warriors.png</image>
+		<video>./snap/Panda Warriors.mp4</video>
+		<marquee>./wheel/Panda Warriors.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="191447" source="ScreenScraper.fr">
+		<path>./Rael - The Redemption.pak</path>
+		<name>Rael The Redemption</name>
+		<image>./mixart/Rael - The Redemption.png</image>
+		<video>./snap/Rael - The Redemption.mp4</video>
+		<marquee>./wheel/Rael - The Redemption.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="191428" source="ScreenScraper.fr">
+		<path>./Sailor Moon Plus.pak</path>
+		<name>Sailor Moon Plus</name>
+		<image>./mixart/Sailor Moon R Plus.png</image>
+		<video>./snap/Sailor Moon R Plus.mp4</video>
+		<marquee>./wheel/Sailor Moon R Plus.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="191409" source="ScreenScraper.fr">
+		<path>./Sonic X - Battle.pak</path>
+		<name>Sonic X Battle</name>
+		<image>./mixart/Sonic X - Battle.png</image>
+		<video>./snap/Sonic X - Battle.mp4</video>
+		<marquee>./wheel/Sonic X - Battle.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game id="191381" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles 8 bit.PAK</path>
+		<name>Teenage Mutant Ninja Turtles 8-bit</name>
+		<image>./mixart/Teenage Mutant Ninja Turtles 8 bit.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles 8 bit.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles 8 bit.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Vampires Rage.pak</path>
+		<name>Vampires Rage</name>
+		<desc>A 2D fighting forces with all great characeters from Vampires Rage</desc>
+		<image>./mixart/Vampires Rage.png</image>
+		<video>./snap/Vampires Rage.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="192367" source="ScreenScraper.fr">
+		<path>./Xopowo For Hentaiers Custom.pak</path>
+		<name>Xopowo For Hentaiers Custom</name>
+		<image>./mixart/Xopowo For Hentaiers Custom.png</image>
+		<video>./snap/Xopowo For Hentaiers Custom.mp4</video>
+		<marquee>./wheel/Xopowo For Hentaiers Custom.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Evil Dead - Splatterhouse.PAK</path>
+		<name>Evil Splatter</name>
+		<image>./mixart/Evil Dead - Splatterhouse.png</image>
+		<video>./snap/Evil Dead - Splatterhouse.mp4</video>
+		<marquee>./wheel/Evil Dead - Splatterhouse.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+	</game>
+	<game id="191413" source="ScreenScraper.fr">
+		<path>./Splatterhouse - Deception of the Mask.pak</path>
+		<name>Splatterhouse 1 Deception Of The Mask</name>
+		<desc>4 playable characters  new moves and specials for every Rick version  10 stages, 19 substages  19 different enemies + 10 Bosses</desc>
+		<image>./mixart/Splatterhouse - Deception of the Mask.png</image>
+		<video>./snap/Splatterhouse - Deception of the Mask.mp4</video>
+		<marquee>./wheel/Splatterhouse - Deception of the Mask.png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
+		<developer>Krauser</developer>
 	</game>
 </gameList>

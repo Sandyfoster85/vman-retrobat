@@ -171,25 +171,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Quake.lnk</path>
-		<name>Quake</name>
-		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
-
-There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
-
-The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
-		<image>./mixart/Quake.png</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>ID Software</developer>
-		<publisher>ID Software</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Streets of Rage Remake.lnk</path>
 		<name>'H'Streets of Rage Remake</name>
 		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
@@ -219,21 +200,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cannonball - OutRun Engine.lnk</path>
-		<name>CannonBall: The Enhanced OutRun</name>
-		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
-		<image>./mixart/Cannonball - OutRun Engine.png</image>
-		<video>./snap/Cannonball - OutRun Engine.mp4</video>
-		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20120101T000000</releasedate>
-		<developer>djyt</developer>
-		<publisher>djyt</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Commander Genius.lnk</path>
 		<name>Commander Genius</name>
 		<desc>Commander Keen was a video game series originally on DOS. By default the emulator comes with 3 Commander Keen games, follow the file format of the games that are there when adding new games. You can then select them from the Commander Genius Launch Menu.
@@ -251,18 +217,6 @@ Episode 3: Keen Must Die!</desc>
 		<publisher>NA</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Doom.lnk</path>
-		<name>Doom I</name>
-		<desc>The Ultimate Doom I edition!</desc>
-		<image>./mixart/Doom.png</image>
-		<video>./snap/Doom.mp4</video>
-		<marquee>./wheel/Doom.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<genre>Shooter</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -456,15 +410,45 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./3dSen.lnk</path>
-		<name>3DSen</name>
-		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
-		<image>./mixart/3DSen.png</image>
-		<video>./snap/3DSen.mp4</video>
-		<marquee>./wheel/3DSen.png</marquee>
+		<path>./Cannonball - OutRun Engine.lnk</path>
+		<name>CannonBall: The Enhanced OutRun</name>
+		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
+		<image>./mixart/Cannonball - OutRun Engine.png</image>
+		<video>./snap/Cannonball - OutRun Engine.mp4</video>
+		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>djyt</developer>
+		<publisher>djyt</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Doom.lnk</path>
+		<name>Doom I</name>
+		<desc>The Ultimate Doom I edition!</desc>
+		<image>./mixart/Doom.png</image>
+		<video>./snap/Doom.mp4</video>
+		<marquee>./wheel/Doom.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20200719T000000</releasedate>
-		<genre>Emulator</genre>
+		<releasedate>19930101T000000</releasedate>
+		<genre>Shooter</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goldeneye XBLA.lnk</path>
+		<name>'H'GoldenEye 007 XBLA</name>
+		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
+		<image>./mixart/Goldeneye XBLA.png</image>
+		<video>./snap/Goldeneye XBLA.mp4</video>
+		<marquee>./wheel/Goldeneye XBLA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Xbox/Nintendo</publisher>
+		<genre>Action-Shooter-Shooter / 1st person</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -495,21 +479,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Goldeneye XBLA.lnk</path>
-		<name>'H'GoldenEye 007 XBLA</name>
-		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
-		<image>./mixart/Goldeneye XBLA.png</image>
-		<video>./snap/Goldeneye XBLA.mp4</video>
-		<marquee>./wheel/Goldeneye XBLA.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210825T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Xbox/Nintendo</publisher>
-		<genre>Action-Shooter-Shooter / 1st person</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Brutal Wolfenstein 3D.lnk</path>
 		<name>'H'Brutal Wolfenstein 3D</name>
 		<desc>Wolfenstein 3-D on Steroids!</desc>
@@ -518,6 +487,37 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Quake.lnk</path>
+		<name>Quake</name>
+		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
+
+There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
+
+The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
+		<image>./mixart/Quake.png</image>
+		<video>./snap/Quake.mp4</video>
+		<marquee>./wheel/Quake.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
 		<genre>Shooter</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>

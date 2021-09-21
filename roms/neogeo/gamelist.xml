@@ -1925,20 +1925,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./samsho3.zip</path>
-		<name>Samurai Shodown III</name>
-		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
-		<image>./mixart/samsho3.png</image>
-		<video>./snap/samsho3.mp4</video>
-		<marquee>./wheel/samsho3.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19951201T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./samsh5sp.zip</path>
 		<name>Samurai Shodown V Special</name>
 		<desc>An ordained meeting of 28 fierce warriors begins, to precede a series of duels to the death. These individuals entrust their fates to their skill and their weapons. For those not up to the task, a cherished end in battle is their only hope. The twenty-eight Samurai characters clash in one epic title.</desc>
@@ -2110,5 +2096,19 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./samsho3.zip</path>
+		<name>Samurai Shodown III</name>
+		<desc>The 12 samurai (and ninja) elite are back, this time to answer the threat of the demon Zankuro, Minazuki. The possessed swordsman has brutally slaughtered innocents in his path, yet could not raise his blade to the cries of an innocent baby. Vowing never to spill innocent blood again, he targets those who live by the way of the sword...but now the hunter becomes the hunted. The third series of Samurai Shodown introduces 2 different techniques for each character. The "Slash" techniques are the original moves of the most of the characters whereas the "Bust" techniques maybe the "darker" version of each character.</desc>
+		<image>./mixart/samsho3.png</image>
+		<video>./snap/samsho3.mp4</video>
+		<marquee>./wheel/samsho3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19951201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
 	</game>
 </gameList>

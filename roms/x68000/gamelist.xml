@@ -1183,19 +1183,6 @@ An interesting feature of this game is the health system. The timer at the top o
 		<publisher>Enix</publisher>
 	</game>
 	<game>
-		<path>./Hatenkou.m3u</path>
-		<name>Hatenkou</name>
-		<image>./mixart/Hatenkou.png</image>
-		<video>./snap/Hatenkou.mp4</video>
-		<marquee>./wheel/Hatenkou.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./Akumajou Dracula.m3u</path>
 		<name>Akumajou Dracula</name>
 		<image>./mixart/Akumajou Dracula.png</image>
@@ -1227,16 +1214,6 @@ An interesting feature of this game is the health system. The timer at the top o
 		<rating>0</rating>
 		<releasedate>19910101T000000</releasedate>
 		<publisher>Hong Kong Project</publisher>
-	</game>
-	<game>
-		<path>./Hellhound (1994)(Breakthrough).m3u</path>
-		<name>Hellhound</name>
-		<image>./mixart/Hellhound (1994)(Breakthrough).png</image>
-		<video>./snap/Hellhound (1994)(Breakthrough).mp4</video>
-		<marquee>./wheel/Hellhound (1994)(Breakthrough).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Breakthrough</publisher>
 	</game>
 	<game>
 		<path>./Star Trader.m3u</path>
@@ -1291,5 +1268,24 @@ You can play as a single player or two people, taking turns (Player 2 starts the
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game>
+		<path>./Hatenkou.m3u</path>
+		<name>Hatenkou</name>
+		<image>./mixart/Hatenkou.png</image>
+		<video>./snap/Hatenkou.mp4</video>
+		<marquee>./wheel/Hatenkou.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+	</game>
+	<game>
+		<path>./Hellhound (1994)(Breakthrough).m3u</path>
+		<name>Hellhound</name>
+		<image>./mixart/Hellhound (1994)(Breakthrough).png</image>
+		<video>./snap/Hellhound (1994)(Breakthrough).mp4</video>
+		<marquee>./wheel/Hellhound (1994)(Breakthrough).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Breakthrough</publisher>
 	</game>
 </gameList>

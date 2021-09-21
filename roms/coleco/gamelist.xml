@@ -1749,6 +1749,18 @@ After beating all four levels, they loop with more difficult enemies and faster 
 		<path>./Aquattack (USA).zip</path>
 	</game>
 	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
 		<path>./Jumpman Junior (USA).zip</path>
 		<name>Jumpman Junior</name>
 		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
@@ -1763,17 +1775,5 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<publisher>Epyx</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
-		<name>Buck Rogers - Planet Of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
-		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
 	</game>
 </gameList>

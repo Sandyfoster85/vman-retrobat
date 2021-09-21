@@ -19,20 +19,6 @@
 		<marquee>./wheel/Red Baron (Europe) (Proto).png</marquee>
 		<video>./snaps/Red Baron (Europe) (Proto).mp4</video>
 	</game>
-	<game id="59283" source="ScreenScraper.fr">
-		<path>./Football (USA, Europe).zip</path>
-		<name>American Football</name>
-		<desc>At the start of a game the player in control of the ball selects the kind of play (pass, punt or run) and the second player attempts to predict which one they chose. If the defensive player predicts correctly, the Offense will undergo a penalty on any yardage gained if and after that play is successful. Following any successful play, the players see the position at which the Ball Spot exits the screen (in the case of a punt or a pass play) and the Offense draws a card. Most cards have a mini-map of the playing field and will designate the total of yardage gained depending on where the Ball Spot left the screen.</desc>
-		<rating>0</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Magnavox</developer>
-		<publisher>Magnavox</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<image>./mixart/Football (USA, Europe).png</image>
-		<marquee>./wheel/Football (USA, Europe).png</marquee>
-		<video>./snaps/Football (USA, Europe).mp4</video>
-	</game>
 	<game id="59246" source="ScreenScraper.fr">
 		<path>./Atlantis (USA, Europe).zip</path>
 		<name>Atlantis</name>
@@ -1292,5 +1278,19 @@
 		<players>2</players>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game id="59283" source="ScreenScraper.fr">
+		<path>./Football (USA, Europe).zip</path>
+		<name>American Football</name>
+		<desc>At the start of a game the player in control of the ball selects the kind of play (pass, punt or run) and the second player attempts to predict which one they chose. If the defensive player predicts correctly, the Offense will undergo a penalty on any yardage gained if and after that play is successful. Following any successful play, the players see the position at which the Ball Spot exits the screen (in the case of a punt or a pass play) and the Offense draws a card. Most cards have a mini-map of the playing field and will designate the total of yardage gained depending on where the Ball Spot left the screen.</desc>
+		<image>./mixart/Football (USA, Europe).png</image>
+		<video>./snaps/Football (USA, Europe).mp4</video>
+		<marquee>./wheel/Football (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Magnavox</developer>
+		<publisher>Magnavox</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
 	</game>
 </gameList>

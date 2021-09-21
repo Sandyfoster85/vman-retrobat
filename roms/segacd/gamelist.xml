@@ -212,27 +212,6 @@ Also noteworthy are Dark Wizard's long animated cutscenes with spoken dialogues 
 		<genre>Role playing games</genre>
 		<players>1</players>
 	</game>
-	<game id="12724" source="ScreenScraper">
-		<path>./Dungeon Explorer (USA).chd</path>
-		<name>Dungeon Explorer</name>
-		<desc>The Goddess of Ambition is locked up in the mazes beneath the Darkling tower. A legend is told that once rescued she will grant any wish. A group of heroes stranded in a strange world must attempt to free this divine creature and use her powers to return home.
-
-Dungeon Explorer is a Gauntlet clone. Like that classic game, it is a hybrid between an arcade shooter and a traditional RPG. It supports up to 4 players with a choice of 6 different characters/classes: monk, knight, elf, mage, beast and ninja. On the right side of the screen there is a bar with portraits of the characters: pressing the A button brings up the status menu that displays the current level, experience points, statistics, and equipment. The C button fires the equipped weapon, and the B button uses the character's special ability.
-
-The game starts in the area surrounding a save point. This area functions as a central hub to access all the 6 dungeons. If a character leaves it, the food counter starts decreasing. If it reaches zero, the life points start diminishing until the character dies. Food can be found as potions or pots around the mazes. Returning the character to the save point area replenishes all the counters and cures all conditions (like poisoning and confusion). To the north there are two buildings, a weapon shop and a tavern. The gold collected on the game is spent on equipment upgrades at the weapons shop. The tavern (called Jojo's Bar) allows the player to switch characters. 
-
-The characters level up automatically as they amass the necessary experience points. Once a dungeon boss is defeated, the dungeon is locked and the player can't return to it. The game has four save slots, each one for an individual game.</desc>
-		<marquee />
-		<image>./mixart/Dungeon Explorer (USA).png</image>
-		<marquee>./wheel/Dungeon Explorer (USA).png</marquee>
-		<video>./snap/Dungeon Explorer (USA).mp4</video>
-		<rating>0.7</rating>
-		<releasedate>19950000T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Hudson</publisher>
-		<genre>Role playing games</genre>
-		<players>1-4</players>
-	</game>
 	<game id="" source="ScreenScraper">
 		<path>./Earthworm Jim - Special Edition (USA).chd</path>
 		<name />
@@ -3006,21 +2985,6 @@ Between levels, the game shows small digitized clips from the film that advance 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
-		<name>Dracula Unleashed (Disc 1)</name>
-		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
-		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
-		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>ICOM Simulations</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Dune (USA).chd</path>
 		<name>Dune (USA)</name>
 		<image>./mixart/Dune (USA).png</image>
@@ -3048,5 +3012,40 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).cue</path>
+		<name>Dracula Unleashed (Disc 1)</name>
+		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</image>
+		<video>./snap/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).mp4</video>
+		<marquee>./wheel/Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 1 of 2).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+	</game>
+	<game id="12724" source="ScreenScraper">
+		<path>./Dungeon Explorer (USA).chd</path>
+		<name>Dungeon Explorer</name>
+		<desc>The Goddess of Ambition is locked up in the mazes beneath the Darkling tower. A legend is told that once rescued she will grant any wish. A group of heroes stranded in a strange world must attempt to free this divine creature and use her powers to return home.
+
+Dungeon Explorer is a Gauntlet clone. Like that classic game, it is a hybrid between an arcade shooter and a traditional RPG. It supports up to 4 players with a choice of 6 different characters/classes: monk, knight, elf, mage, beast and ninja. On the right side of the screen there is a bar with portraits of the characters: pressing the A button brings up the status menu that displays the current level, experience points, statistics, and equipment. The C button fires the equipped weapon, and the B button uses the character's special ability.
+
+The game starts in the area surrounding a save point. This area functions as a central hub to access all the 6 dungeons. If a character leaves it, the food counter starts decreasing. If it reaches zero, the life points start diminishing until the character dies. Food can be found as potions or pots around the mazes. Returning the character to the save point area replenishes all the counters and cures all conditions (like poisoning and confusion). To the north there are two buildings, a weapon shop and a tavern. The gold collected on the game is spent on equipment upgrades at the weapons shop. The tavern (called Jojo's Bar) allows the player to switch characters. 
+
+The characters level up automatically as they amass the necessary experience points. Once a dungeon boss is defeated, the dungeon is locked and the player can't return to it. The game has four save slots, each one for an individual game.</desc>
+		<image>./mixart/Dungeon Explorer (USA).png</image>
+		<video>./snap/Dungeon Explorer (USA).mp4</video>
+		<marquee>./wheel/Dungeon Explorer (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950000T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Hudson</publisher>
+		<genre>Role playing games</genre>
+		<players>4</players>
 	</game>
 </gameList>

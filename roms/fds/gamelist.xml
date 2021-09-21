@@ -1089,20 +1089,6 @@ The game is divided between side-scrolling platformer/run-and-gun levels and fir
 		<marquee>./wheel/Kidou Keisatsu Patlabor - Dai 2 Shoutai Shutsudou Seyo! (Japan) (Translated En).png</marquee>
 		<video>./snap/Kidou Keisatsu Patlabor - Dai 2 Shoutai Shutsudou Seyo! (Japan) (Translated En).mp4</video>
 	</game>
-	<game id="98669" source="ScreenScraper.fr">
-		<path>./Pinball (Japan).zip</path>
-		<name>Pinball</name>
-		<desc>Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode. Play begins when the player launches a ball with the plunger from the first screen?the bottom of the pinball table?through the top of the screen to the second screen. Play will move to the first screen if the ball falls through the bottom of the top screen and will return to the top screen if the ball is hit back through the space at the top of the first screen. The player controls the flippers on either screen to deflect the ball to keep it from falling off the bottom of the lower screen.</desc>
-		<rating>0</rating>
-		<releasedate>19890530T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1-2</players>
-		<hash>5218D0A8</hash>
-		<image>./mixart/Pinball (Japan).png</image>
-		<marquee>./wheel/Pinball (Japan).png</marquee>
-		<video>./snap/Pinball (Japan).mp4</video>
-	</game>
 	<game id="98670" source="ScreenScraper.fr">
 		<path>./Pro Golfer Saru - Kage no Tournament (Japan).zip</path>
 		<name>Pro Golfer Saru : Kage no Tournament</name>
@@ -2026,5 +2012,19 @@ Dracula II - Noroi no Fuuin (Lit. "Dracula II: The Seal of the Curse") is an act
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game id="98669" source="ScreenScraper.fr">
+		<path>./Pinball (Japan).zip</path>
+		<name>Pinball</name>
+		<desc>Pinball is a game where the player controls the paddles of a virtual pinball machine. The game has two screens to represent the traditional pinball table and one for a bonus mode. Play begins when the player launches a ball with the plunger from the first screen?the bottom of the pinball table?through the top of the screen to the second screen. Play will move to the first screen if the ball falls through the bottom of the top screen and will return to the top screen if the ball is hit back through the space at the top of the first screen. The player controls the flippers on either screen to deflect the ball to keep it from falling off the bottom of the lower screen.</desc>
+		<image>./mixart/Pinball (Japan).png</image>
+		<video>./snap/Pinball (Japan).mp4</video>
+		<marquee>./wheel/Pinball (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19890530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2</players>
+		<crc32>5218D0A8</crc32>
 	</game>
 </gameList>

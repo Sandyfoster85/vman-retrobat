@@ -1262,18 +1262,6 @@ Events are as follows: 100 Meter Dash, Broad Jump, Shot-Put, High Jump, Triple J
 		<genre />
 	</game>
 	<game id="" source="">
-		<path>./TRON - Solar Sailer (World).7z</path>
-		<name>TRON - Solar Sailer</name>
-		<desc />
-		<image>./mixart/TRON - Solar Sailer (World).png</image>
-		<marquee>./wheel/TRON - Solar Sailer (World).png</marquee>
-		<video>./snap/TRON - Solar Sailer (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./Takeover (World).7z</path>
 		<name>Takeover</name>
 		<desc>[Unreleased 1982] Takeover is a strategy game where the objective is to capture your 
@@ -1639,17 +1627,6 @@ You control the reflector located at the bottom of the screen. You start with a 
 		<genre />
 	</game>
 	<game>
-		<path>./TRON - Maze-A-Tron (World).7z</path>
-		<name>TRON - Maze-A-Tron</name>
-		<image>./mixart/TRON - Maze-A-Tron (World).png</image>
-		<video>./snap/TRON - Maze-A-Tron (World).mp4</video>
-		<marquee>./wheel/TRON - Maze-A-Tron (World).png</marquee>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game>
 		<path>./World Series Major League Baseball (World).7z</path>
 		<name>World Series Major League Baseball</name>
 		<desc>World Series Major League Baseball is a baseball sports game that supports both ECS and Intellivoice (for play by play announcements). The game is based on real baseball player statistics (even though the names had been changed to fictional ones before the release) and offers baseball games using multiple cameras (including in-game split-screen), showing the game in a 3D display rather than side-scrolling fashion.</desc>
@@ -1776,31 +1753,6 @@ Sound: Russ Haft</desc>
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./TRON - Deadly Discs (World).7z</path>
-		<name>TRON - Deadly Discs</name>
-		<image>./mixart/TRON - Deadly Discs (World).png</image>
-		<video>./snap/TRON - Deadly Discs (World).mp4</video>
-		<marquee>./wheel/TRON - Deadly Discs (World).png</marquee>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game>
-		<path>./Astrosmash (World).7z</path>
-		<name>Astrosmash</name>
-		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
-
-Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
-		<image>./mixart/Astrosmash (World).png</image>
-		<video>./snap/Astrosmash (World).mp4</video>
-		<marquee>./wheel/Astrosmash (World).png</marquee>
-		<releasedate>19811015T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Shooter</genre>
-	</game>
-	<game>
 		<path>./Atlantis (World).7z</path>
 		<name>Atlantis</name>
 		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
@@ -1848,5 +1800,43 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
+	</game>
+	<game>
+		<path>./Astrosmash (World).7z</path>
+		<name>Astrosmash</name>
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
+		<image>./mixart/Astrosmash (World).png</image>
+		<video>./snap/Astrosmash (World).mp4</video>
+		<marquee>./wheel/Astrosmash (World).png</marquee>
+		<releasedate>19811015T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
+	</game>
+	<game>
+		<path>./TRON - Deadly Discs (World).7z</path>
+		<name>TRON - Deadly Discs</name>
+		<image>./mixart/TRON - Deadly Discs (World).png</image>
+		<video>./snap/TRON - Deadly Discs (World).mp4</video>
+		<marquee>./wheel/TRON - Deadly Discs (World).png</marquee>
+		<releasedate></releasedate>
+	</game>
+	<game>
+		<path>./TRON - Maze-A-Tron (World).7z</path>
+		<name>TRON - Maze-A-Tron</name>
+		<image>./mixart/TRON - Maze-A-Tron (World).png</image>
+		<video>./snap/TRON - Maze-A-Tron (World).mp4</video>
+		<marquee>./wheel/TRON - Maze-A-Tron (World).png</marquee>
+		<releasedate></releasedate>
+	</game>
+	<game>
+		<path>./TRON - Solar Sailer (World).7z</path>
+		<name>TRON - Solar Sailer</name>
+		<image>./mixart/TRON - Solar Sailer (World).png</image>
+		<video>./snap/TRON - Solar Sailer (World).mp4</video>
+		<marquee>./wheel/TRON - Solar Sailer (World).png</marquee>
+		<releasedate></releasedate>
 	</game>
 </gameList>

@@ -51,22 +51,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Space Pirates.cmd</path>
-		<name>Space Pirates</name>
-		<desc>Space Pirates was a laserdisc game created by American Laser Games in 1992.  Colonial Star One is under attack by the Black Brigade.  Captain Tallinn and his cut throat pirates are in control of the Star Splitter Cannon.  Captain Tallinn is trying to take over the galaxy by using the Star Splitter Cannon, but in order to use the cannon, he must find the cannon star crystals.  The star crystals have been lost for years on different worlds throughout the solar system.  You must find the crystals before Tallinn does.  Your journey across the galaxy won't be easy though.  Mutant life forms, sorceresses, and other alien life forms will try to stop you from getting the crystals.  Find the crystals and go on to the final showdown to take out Captain Tallinn and win the game!</desc>
-		<image>./mixart/Space Pirates.png</image>
-		<video>./content/Space_Pirates_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Space Pirates.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./38 Ambush Alley.cmd</path>
 		<name>.38 Ambush Alley</name>
 		<desc>Get your target practice in with real police officers then hit the streets.</desc>
@@ -415,6 +399,21 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Altered Carbon.cmd</path>
+		<name>Altered Carbon</name>
+		<desc>On the planet Latimer, reawakened Takeshi Kovacs must protect a teenage tattooist named Holly while investigating the death of a yakuza boss alongside Gina, a strangely familiar no-nonsense CTAC agent."</desc>
+		<image>./mixart/Altered Carbon.png</image>
+		<video>./snap/Altered Carbon.mp4</video>
+		<marquee>./wheel/Altered Carbon.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Crime Patrol 2 Drug Wars.cmd</path>
 		<name>Crime Patrol 2 : Drug Wars</name>
 		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
@@ -423,6 +422,22 @@
 		<marquee>./wheel/Crime Patrol 2 Drug Wars.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19930101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Pirates.cmd</path>
+		<name>Space Pirates</name>
+		<desc>Space Pirates was a laserdisc game created by American Laser Games in 1992.  Colonial Star One is under attack by the Black Brigade.  Captain Tallinn and his cut throat pirates are in control of the Star Splitter Cannon.  Captain Tallinn is trying to take over the galaxy by using the Star Splitter Cannon, but in order to use the cannon, he must find the cannon star crystals.  The star crystals have been lost for years on different worlds throughout the solar system.  You must find the crystals before Tallinn does.  Your journey across the galaxy won't be easy though.  Mutant life forms, sorceresses, and other alien life forms will try to stop you from getting the crystals.  Find the crystals and go on to the final showdown to take out Captain Tallinn and win the game!</desc>
+		<image>./mixart/Space Pirates.png</image>
+		<video>./content/Space_Pirates_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Space Pirates.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>
@@ -444,21 +459,6 @@
 		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Altered Carbon.cmd</path>
-		<name>Altered Carbon</name>
-		<desc>On the planet Latimer, reawakened Takeshi Kovacs must protect a teenage tattooist named Holly while investigating the death of a yakuza boss alongside Gina, a strangely familiar no-nonsense CTAC agent."</desc>
-		<image>./mixart/Altered Carbon.png</image>
-		<video>./snap/Altered Carbon.mp4</video>
-		<marquee>./wheel/Altered Carbon.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20210101T000000</releasedate>
-		<developer>Fan Made</developer>
-		<publisher>Fan Made</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

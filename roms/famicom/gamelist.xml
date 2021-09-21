@@ -4933,22 +4933,6 @@ Story cutscenes are displayed between each level, where Thomas contacts other ch
 		<genre />
 		<players />
 	</game>
-	<game id="" source="ScreenScraper">
-		<path>./Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).zip</path>
-		<name />
-		<desc />
-		<image>./mixart/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).png</image>
-		<image />
-		<marquee>./wheel/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).png</marquee>
-		<video>./snap/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).mp4</video>
-		<thumbnail />
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
 	<game id="18761" source="ScreenScraper">
 		<path>./Sqoon (Japan) (Translated En).zip</path>
 		<name>Sqoon</name>
@@ -6404,5 +6388,14 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
 		<favorite>true</favorite>
 		<lang>jp,en</lang>
 		<region>jp</region>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).zip</path>
+		<name>Splatterhouse - Wanpaku Graffiti (Japan) (Translated En)</name>
+		<image>./mixart/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).png</image>
+		<video>./snap/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
 	</game>
 </gameList>

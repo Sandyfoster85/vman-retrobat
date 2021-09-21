@@ -39,24 +39,6 @@
 		<region>us</region>
 		<path>./hotd.zip</path>
 	</game>
-	<game>
-		<path>./motoraid.zip</path>
-		<name>Motor Raid</name>
-		<desc>Based on Manx TT Superbike, but taking a cue from Road Rash, the player must race his motorcycle while defeating both his opponents and the clock. 
- 
-It has all the standard features of such a title: passing a checkpoint adds more time, and when the countdown reaches zero, the player is stopped. Opponents can be hit with either a weapon or bare hands. A Turbo mode can be engaged by hitting the throttle twice.</desc>
-		<image>./mixart/motoraid.png</image>
-		<video>./snap/motoraid.mp4</video>
-		<marquee>./wheel/motoraid.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Motorcycle Race, 1st Pers.-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<path>./motoraid.zip</path>
-	</game>
 	<game id="37481" source="ScreenScraper.fr">
 		<path>./segawski.zip</path>
 		<name>Sega Water Ski</name>
@@ -277,23 +259,6 @@ The music is very identical to the songs from the Sega Model 3 game, "Harley-Dav
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="41073" source="ScreenScraper.fr">
-		<path>./dynamcop.zip</path>
-		<name>Dynamite Cop</name>
-		<desc>Dynamite Cop is a 3D beat 'em up for up to two players in which players play as either Bruno Delinger, Jean Ivy, or Eddie Brown and fight through levels on board a cruise ship and on a deserted island to save the President's daughter from a band of modern-day pirates led by Wolf "White Fang" Hongo, the main antagonist from the first game. The classic Sega arcade game Tranquilizer Gun (1980) is included as a bonus game on the Dreamcast version. Clearing all missions will enable you to play Tranquilizer Gun an unlimited number of times.</desc>
-		<image>./mixart/dynamcop.png</image>
-		<video>./snap/dynamcop.mp4</video>
-		<marquee>./wheel/dynamcop.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>AM1</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>263</genreid>
-	</game>
 	<game>
 		<path>./fvipers.zip</path>
 		<name>Fighting Vipers</name>
@@ -461,19 +426,20 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./vcop2.zip</path>
-		<name>Virtua Cop 2</name>
-		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
-		<image>./mixart/vcop2.png</image>
-		<video>./snap/vcop2.mp4</video>
-		<marquee>./wheel/vcop2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
-		<players>2</players>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./srallyc.zip</path>
@@ -492,18 +458,51 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<region>us</region>
 	</game>
 	<game>
-		<path>./daytona.zip</path>
-		<name>Daytona USA</name>
-		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
-		<image>./mixart/daytonat.png</image>
-		<video>./snap/daytonat.mp4</video>
-		<marquee>./wheel/daytonat.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="41073" source="ScreenScraper.fr">
+		<path>./dynamcop.zip</path>
+		<name>Dynamite Cop</name>
+		<desc>Dynamite Cop is a 3D beat 'em up for up to two players in which players play as either Bruno Delinger, Jean Ivy, or Eddie Brown and fight through levels on board a cruise ship and on a deserted island to save the President's daughter from a band of modern-day pirates led by Wolf "White Fang" Hongo, the main antagonist from the first game. The classic Sega arcade game Tranquilizer Gun (1980) is included as a bonus game on the Dreamcast version. Clearing all missions will enable you to play Tranquilizer Gun an unlimited number of times.</desc>
+		<image>./mixart/dynamcop.png</image>
+		<video>./snap/dynamcop.mp4</video>
+		<marquee>./wheel/dynamcop.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>AM1</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>263</genreid>
+	</game>
+	<game>
+		<path>./motoraid.zip</path>
+		<name>Motor Raid</name>
+		<desc>Based on Manx TT Superbike, but taking a cue from Road Rash, the player must race his motorcycle while defeating both his opponents and the clock. 
+ 
+It has all the standard features of such a title: passing a checkpoint adds more time, and when the countdown reaches zero, the player is stopped. Opponents can be hit with either a weapon or bare hands. A Turbo mode can be engaged by hitting the throttle twice.</desc>
+		<image>./mixart/motoraid.png</image>
+		<video>./snap/motoraid.mp4</video>
+		<marquee>./wheel/motoraid.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 1st Pers.-Race, Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

@@ -154,21 +154,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ace.daphne</path>
-		<name>Space Ace</name>
-		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
-		<image>./mixart/ace.png</image>
-		<video>./snap/ace.mp4</video>
-		<marquee>./wheel/ace.png</marquee>
-		<rating />
-		<releasedate>19840429T000000</releasedate>
-		<developer>AMS</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./galaxy.daphne</path>
 		<name>Galaxy Ranger</name>
 		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
@@ -196,22 +181,6 @@
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./roadblaster.daphne</path>
-		<name>Road Blaster</name>
-		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
-		<image>./mixart/rb.png</image>
-		<video>./snap/rb.mp4</video>
-		<marquee>./wheel/rb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850515T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -243,6 +212,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./astron.daphne</path>
 		<name>Astron Belt</name>
 		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
@@ -253,6 +238,21 @@
 		<releasedate>19830515T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
+		<image>./mixart/ace.png</image>
+		<video>./snap/ace.mp4</video>
+		<marquee>./wheel/ace.png</marquee>
+		<rating></rating>
+		<releasedate>19840429T000000</releasedate>
+		<developer>AMS</developer>
+		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>

@@ -224,21 +224,6 @@ Spike, our courageous hero and Molly's true love, races to her rescue. He'll be 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Fortress of Narzod (USA, Europe).zip</path>
-		<name>Fortress of Narzod</name>
-		<desc>A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.
-The most evil wizard, Narzod, gained the power to enslave all mankind. You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress. But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler. Beware, and approach the Fortress of Narzod with great caution!</desc>
-		<image>./mixart/Fortress of Narzod (USA, Europe).png</image>
-		<video>./snap/Fortress of Narzod (USA, Europe).mp4</video>
-		<marquee>./wheel/Fortress of Narzod (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Clean Sweep (World).zip</path>
 		<name>Clean Sweep</name>
 		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
@@ -299,21 +284,6 @@ This game came programmed onto the Vectrex.</desc>
 		<rating>0.75</rating>
 		<releasedate>19820101T000000</releasedate>
 		<developer>Cinematronics</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Berzerk (World).zip</path>
-		<name>Berzerk</name>
-		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
-future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</desc>
-		<image>./mixart/Berzerk (World).png</image>
-		<video>./snap/Berzerk (World).mp4</video>
-		<marquee>./wheel/Berzerk (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Stern Electronics, Inc.</developer>
 		<publisher>GCE</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
@@ -381,5 +351,35 @@ Your mission is to navigate through the narrow and fast-moving passages of the f
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Berzerk (World).zip</path>
+		<name>Berzerk</name>
+		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
+future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</desc>
+		<image>./mixart/Berzerk (World).png</image>
+		<video>./snap/Berzerk (World).mp4</video>
+		<marquee>./wheel/Berzerk (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Fortress of Narzod (USA, Europe).zip</path>
+		<name>Fortress of Narzod</name>
+		<desc>A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.
+The most evil wizard, Narzod, gained the power to enslave all mankind. You are the only remaining honorable wizard with the knowledge to harness all the forces of good to defeat Narzod and destroy his sinister fortress. But Narzod has prepared for your approach and guards his realm with deadly creatures of darkness, including the Mystic Hurler. Beware, and approach the Fortress of Narzod with great caution!</desc>
+		<image>./mixart/Fortress of Narzod (USA, Europe).png</image>
+		<video>./snap/Fortress of Narzod (USA, Europe).mp4</video>
+		<marquee>./wheel/Fortress of Narzod (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
 	</game>
 </gameList>

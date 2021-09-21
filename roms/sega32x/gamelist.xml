@@ -576,20 +576,21 @@ There are 8 fighters to choose from in Virtua Fighter, and an equal number of fi
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Virtua Racing Deluxe (USA).7z</path>
-		<name>Virtua Racing Deluxe</name>
-		<desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
+		<path>./Blackthorne (USA).7z</path>
+		<name>Blackthorne</name>
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
 
-The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
-		<image>./mixart/Virtua Racing Deluxe (USA).png</image>
-		<video>./snap/Virtua Racing Deluxe (USA).mp4</video>
-		<marquee>./wheel/Virtua Racing Deluxe (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Blackthorne (USA).png</image>
+		<video>./snap/Blackthorne (USA).mp4</video>
+		<marquee>./wheel/Blackthorne (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform-Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
@@ -614,21 +615,20 @@ Some of the missions take place in deep space, around asteroids, or near Star De
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Blackthorne (USA).7z</path>
-		<name>Blackthorne</name>
-		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+		<path>./Virtua Racing Deluxe (USA).7z</path>
+		<name>Virtua Racing Deluxe</name>
+		<desc>Virtua Racing Deluxe is an enhanced arcade-to-console conversion of Sega's 3D racing game. This game is primarily an arcade-style affair; Players compete in a 5 lap race with timed checkpoints. It's also possible to play with 2 players in a split-screen mode.
 
-This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Blackthorne (USA).png</image>
-		<video>./snap/Blackthorne (USA).mp4</video>
-		<marquee>./wheel/Blackthorne (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform-Action</genre>
+The 32X version of Virtua Racing adds a couple of new features. There are now 3 different types of cars to drive, including a stock car and a prototype racer. Furthermore, there are two all-new tracks.</desc>
+		<image>./mixart/Virtua Racing Deluxe (USA).png</image>
+		<video>./snap/Virtua Racing Deluxe (USA).mp4</video>
+		<marquee>./wheel/Virtua Racing Deluxe (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

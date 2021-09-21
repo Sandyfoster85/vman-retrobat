@@ -7874,14 +7874,6 @@ The game is divided into four different one-screen stages. Each represents 25 me
 		<image>./mixart/Dragon's Lair Part II.png</image>
 		<video>./snap/Dragon's Lair Part II.mp4</video>
 	</game>
-	<game>
-		<path>./Friday the 13th.t64</path>
-		<name>Friday The 13th</name>
-		<desc>The player can roam around freely in the scenery, walk in and outside of buildings. Jason, as well as other characters, do the same. It is the player's task to make sure his friends do not get killed by Jason, who often appears disguised as one of them, unless he is hit once and becomes visible as a man dressed in black. Various improvised weapons (e.g., chainsaw, pitchfork, machete, etc.) are scattered around the camp and various buildings (e.g., a barn, a church, a cabin), picked up, and used to confront Jason. There are five levels in the game and each time you play as another character. The character assignment is random at the start of the round. The game uses an early pseudo-3D view along with a more traditional side view, depending on the character's location. The game also features a "fear meter", in the form of a blonde woman's head with hair standing on end, to symbolize the players level of fright at the time, and a change in the situation. Unlike the later Nintendo Entertainment System (NES) title, the game included scenes of gore consistent with the film franchise. For example, when a character is killed by Jason, sometimes there is a scream followed by a quick cut to a graphic image of a head with a machete slicing into said. A similar startle effect would be used in the 1989 title Project Firestart.</desc>
-		<rating>0</rating>
-		<image>./mixart/Friday the 13th.png</image>
-		<video>./snap/Friday the 13th.mp4</video>
-	</game>
 	<game id="112603" source="ScreenScraper.fr">
 		<path>./Gilligans Gold.t64</path>
 		<name>Gilligan's Gold</name>
@@ -8154,5 +8146,13 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<genre>Platform-Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Friday the 13th.t64</path>
+		<name>Friday The 13th</name>
+		<desc>The player can roam around freely in the scenery, walk in and outside of buildings. Jason, as well as other characters, do the same. It is the player's task to make sure his friends do not get killed by Jason, who often appears disguised as one of them, unless he is hit once and becomes visible as a man dressed in black. Various improvised weapons (e.g., chainsaw, pitchfork, machete, etc.) are scattered around the camp and various buildings (e.g., a barn, a church, a cabin), picked up, and used to confront Jason. There are five levels in the game and each time you play as another character. The character assignment is random at the start of the round. The game uses an early pseudo-3D view along with a more traditional side view, depending on the character's location. The game also features a "fear meter", in the form of a blonde woman's head with hair standing on end, to symbolize the players level of fright at the time, and a change in the situation. Unlike the later Nintendo Entertainment System (NES) title, the game included scenes of gore consistent with the film franchise. For example, when a character is killed by Jason, sometimes there is a scream followed by a quick cut to a graphic image of a head with a machete slicing into said. A similar startle effect would be used in the 1989 title Project Firestart.</desc>
+		<image>./mixart/Friday the 13th.png</image>
+		<video>./snap/Friday the 13th.mp4</video>
+		<rating>0</rating>
 	</game>
 </gameList>

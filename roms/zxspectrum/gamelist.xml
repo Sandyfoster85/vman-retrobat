@@ -42,27 +42,6 @@ A long time period passed and the dimension controlling force Doh has again come
 		<marquee>./wheel/Arkanoid II - Revenge of Doh (Europe).png</marquee>
 		<video>./snap/Arkanoid II - Revenge of Doh (Europe).mp4</video>
 	</game>
-	<game id="44606" source="ScreenScraper.fr">
-		<path>./Asterix and the Magic Cauldron (Europe).tzx</path>
-		<name>Asterix and the Magic Cauldron</name>
-		<desc>Goscinny and Uderzos cartoon characters are from the only Gaullish village in 50BC able to resist the Roman invasion. They can do this due to Getafix the druids magic potion, however the cauldron used to make this has been smashed into several pieces. Can brave Asterix and overweight Obelix find the pieces?
-
-In this arcade adventure, it all comes down to you. The fifty screens you must explore take in your home village, a Roman encampment, and the forests in between. You have five pieces of wild boar, and these are used as you become hungry. 
-
-Contact with wild boars or Roman soldiers triggers a one-on-one fight with punches and kicks. Defeating a boar earns you another piece of food, to restore energy once all lives are gone. Some sections are blocked until you collect their keys.
-
-In the US version the character Asterix was replaced by a barbarian and the game's title was changed to Ardok the Barbarian.
-</desc>
-		<rating>0</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Beam Software Pty., Ltd.</developer>
-		<publisher>Melbourne House</publisher>
-		<players>1</players>
-		<hash>027D7533</hash>
-		<image>./mixart/Asterix and the Magic Cauldron (Europe).png</image>
-		<marquee>./wheel/Asterix and the Magic Cauldron (Europe).png</marquee>
-		<video>./snap/Asterix and the Magic Cauldron (Europe).mp4</video>
-	</game>
 	<game id="132796" source="ScreenScraper.fr">
 		<path>./Astro Blaster (Europe).tzx</path>
 		<name>Astro Blaster</name>
@@ -832,28 +811,6 @@ The old 4 characters (warrior, wizard, elf and valkyrie) are ready for action ag
 		<image>./mixart/Gauntlet III - The Final Quest (Europe).png</image>
 		<marquee>./wheel/Gauntlet III - The Final Quest (Europe).png</marquee>
 		<video>./snap/Gauntlet III - The Final Quest (Europe).mp4</video>
-	</game>
-	<game id="45087" source="ScreenScraper.fr">
-		<path>./Gauntlet (Europe).tzx</path>
-		<name>Gauntlet</name>
-		<desc>Gauntlet, the original arcade smash hit, is a fighting game where you choose a character and let rip into the hordes of enemies that assault you on you way to the end of the level. One or two players must make their way through 100 levels of mayhem and magic. 
-
-It featured a choice of four characters to play with, each with different weapons. Thor the Warrior, has a  bludgeoning battle axe, Thyra the Valkyrie, has a close range sword, Questor the Elf has his long range bow, and Merlin the Wizard has magical bolts.
-
-Ghosts, goblins and even the life draining Death are your enemies. Enemies stream out of generators, so destroy these before tackling the rest. 
-
-Keys are needed to open the many doors within the levels, and in some situations a door will contain only bonus items, not a progressive route.  Scattered magic potions act like smart bombs and clear the screen of all enemies. Beware of poison though, this reduces your energy level.
-Treasure is abundant throughout the levels and adds to your score.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>U.S. Gold</publisher>
-		<players>1-2</players>
-		<hash>B62A7966</hash>
-		<image>./mixart/Gauntlet (Europe).png</image>
-		<marquee>./wheel/Gauntlet (Europe).png</marquee>
-		<video>./snap/Gauntlet (Europe).mp4</video>
 	</game>
 	<game id="45090" source="ScreenScraper.fr">
 		<path>./Gauntlet - The Deeper Dungeons (Europe).tzx</path>
@@ -3079,5 +3036,46 @@ The player is in the role a special agent whose mission is to deliver the Comple
 		<developer>The Oliver Twins, Mervin James, James Wilson, Jon Paul Eldridge</developer>
 		<publisher>Codemasters</publisher>
 		<players>2</players>
+	</game>
+	<game id="45087" source="ScreenScraper.fr">
+		<path>./Gauntlet (Europe).tzx</path>
+		<name>Gauntlet</name>
+		<desc>Gauntlet, the original arcade smash hit, is a fighting game where you choose a character and let rip into the hordes of enemies that assault you on you way to the end of the level. One or two players must make their way through 100 levels of mayhem and magic. 
+
+It featured a choice of four characters to play with, each with different weapons. Thor the Warrior, has a  bludgeoning battle axe, Thyra the Valkyrie, has a close range sword, Questor the Elf has his long range bow, and Merlin the Wizard has magical bolts.
+
+Ghosts, goblins and even the life draining Death are your enemies. Enemies stream out of generators, so destroy these before tackling the rest. 
+
+Keys are needed to open the many doors within the levels, and in some situations a door will contain only bonus items, not a progressive route.  Scattered magic potions act like smart bombs and clear the screen of all enemies. Beware of poison though, this reduces your energy level.
+Treasure is abundant throughout the levels and adds to your score.</desc>
+		<image>./mixart/Gauntlet (Europe).png</image>
+		<video>./snap/Gauntlet (Europe).mp4</video>
+		<marquee>./wheel/Gauntlet (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>U.S. Gold</publisher>
+		<players>2</players>
+		<crc32>B62A7966</crc32>
+	</game>
+	<game id="44606" source="ScreenScraper.fr">
+		<path>./Asterix and the Magic Cauldron (Europe).tzx</path>
+		<name>Asterix and the Magic Cauldron</name>
+		<desc>Goscinny and Uderzos cartoon characters are from the only Gaullish village in 50BC able to resist the Roman invasion. They can do this due to Getafix the druids magic potion, however the cauldron used to make this has been smashed into several pieces. Can brave Asterix and overweight Obelix find the pieces?
+
+In this arcade adventure, it all comes down to you. The fifty screens you must explore take in your home village, a Roman encampment, and the forests in between. You have five pieces of wild boar, and these are used as you become hungry. 
+
+Contact with wild boars or Roman soldiers triggers a one-on-one fight with punches and kicks. Defeating a boar earns you another piece of food, to restore energy once all lives are gone. Some sections are blocked until you collect their keys.
+
+In the US version the character Asterix was replaced by a barbarian and the game's title was changed to Ardok the Barbarian.</desc>
+		<image>./mixart/Asterix and the Magic Cauldron (Europe).png</image>
+		<video>./snap/Asterix and the Magic Cauldron (Europe).mp4</video>
+		<marquee>./wheel/Asterix and the Magic Cauldron (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Beam Software Pty., Ltd.</developer>
+		<publisher>Melbourne House</publisher>
+		<players>1</players>
+		<crc32>027D7533</crc32>
 	</game>
 </gameList>

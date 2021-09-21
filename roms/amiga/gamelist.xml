@@ -5082,25 +5082,6 @@ Nitro was also available as part of the Psygnosis monster pack, volume I, along 
 		<marquee>./wheel/Nitro_v1.2.png</marquee>
 		<video>./snap/Nitro_v1.2.mp4</video>
 	</game>
-	<game id="39245" source="ScreenScraper.fr">
-		<path>./Obsession_v1.1_2199.lha</path>
-		<name>Obsession</name>
-		<desc>This is a pinball simulator with four different tables, each with its own set of graphics, music, sound effects and gameplay
-
-The table themes centre around underwater action, a spy mission, Paris-Dakar and baseball.
-
-The game does not feature any multi-ball but several play-modes and a highscore table.
-</desc>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Unique Development Studios Sweden</developer>
-		<publisher>Unique Development Studios Sweden</publisher>
-		<players>1-8</players>
-		<hash>496DC7C0</hash>
-		<image>./mixart/Obsession_v1.1_2199.png</image>
-		<marquee>./wheel/Obsession_v1.1_2199.png</marquee>
-		<video>./snap/Obsession_v1.1_2199.mp4</video>
-	</game>
 	<game id="33723" source="ScreenScraper.fr">
 		<path>./OhNoMoreLemmings_v1.2_0697.lha</path>
 		<name>Oh No! More Lemmings</name>
@@ -6977,23 +6958,6 @@ Converted from the classic arcade game, Strider lets you run, jump, perform acro
 		<marquee>./wheel/Striker_v1.0_1075.png</marquee>
 		<video>./snap/Striker_v1.0_1075.mp4</video>
 	</game>
-	<game id="33856" source="ScreenScraper.fr">
-		<path>./StuntCarRacer_v1.3_0222.lha</path>
-		<name>Stunt Car Racer</name>
-		<desc>Race a single computer opponent for first place on a unique racetrack -- 100 feet in the air! You start in the fourth three-man division of a league, all racing each other twice, and must come top to progress. The action is viewed from within the car throughout the 3-lap races, with the distance between you always on screen.
-
-Jump chasms, jumps, and drawbridges; take banks hard or slow; pass your opponent on the track or while catching mass air. Your car has the ability to burn a limited amount of turbo boost fuel as a way to accelerate faster and achieve higher speeds, but don't use it all up at once or you'll fall behind. Don't damage your engine too much; severe dents will show up during your next race.
-
-Whatever you do, don't fall off the track, as this will cost you time as you are placed back on.</desc>
-		<rating>0.85</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Micro Style</developer>
-		<publisher>Micro Style</publisher>
-		<hash>8DF4E1CA</hash>
-		<image>./mixart/StuntCarRacer_v1.3_0222.png</image>
-		<marquee>./wheel/StuntCarRacer_v1.3_0222.png</marquee>
-		<video>./snap/StuntCarRacer_v1.3_0222.mp4</video>
-	</game>
 	<game id="33348" source="ScreenScraper.fr">
 		<path>./SuperC_v1.0a.lha</path>
 		<name>Super C</name>
@@ -7920,19 +7884,6 @@ Throughout the levels you will find the letters B,O,N,U,S and G released from bo
 		<image>./mixart/Trolls_v1.2_AGA_0996.png</image>
 		<marquee>./wheel/Trolls_v1.2_AGA_0996.png</marquee>
 		<video>./snap/Trolls_v1.2_AGA_0996.mp4</video>
-	</game>
-	<game id="33785" source="ScreenScraper.fr">
-		<path>./Turrican3_v1.5_2633.lha</path>
-		<name>Turrican 3</name>
-		<desc>After many generations of peace, the Dark Forces have assembled again, and as a member of the USS Freedom Forces, it is your job to defeat them once again. This means you will have to complete numerous large levels always searching for secrets to pick up and enemies to shoot. To do this, you can pick up three different, upgradeable shots: a multiple, a laser and a rebound. You can also go into wheel-mode (as long as you have enough special energy) or use a rope. In wheel-mode, you are invincible and can lay mines or explore previously unreachable areas.</desc>
-		<rating>0</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Renegade Kid</developer>
-		<publisher>Factor 5</publisher>
-		<hash>8FBA8309</hash>
-		<image>./mixart/Turrican3_v1.5_2633.png</image>
-		<marquee>./wheel/Turrican3_v1.5_2633.png</marquee>
-		<video>./snap/Turrican3_v1.5_2633.mp4</video>
 	</game>
 	<game id="33509" source="ScreenScraper.fr">
 		<path>./Turrican2_v1.4_CDTV.lha</path>
@@ -10539,6 +10490,35 @@ The game supports up to 16 players in singles matches on a variety of court surf
 		<players>8+</players>
 		<lang>en</lang>
 	</game>
+	<game id="33220" source="ScreenScraper.fr">
+		<path>./Moonstone_v1.6_0360.lha</path>
+		<name>Moonstone : A Hard Days Knight</name>
+		<desc>Something's happening in these lands, and the only hope seems to be the moonstone. You, as a chosen knight from the druids are about to find it and bring it back. The game can be played from 1 to 4 players at once, with no difference between solo and multiplayer as no matter how many players play, the story stays the same for everyone. However, if you choose to play with only one player/knight, the other three will be the computer rivals. Wandering through the map, you can visit enchanted places, towns where you can buy equipment or try your luck in gambling, but mostly visited places on the map will be cabins which represents the places where certain enemy beasts are. Each spot has about two or more beasts which after defeating them can be rewarding in a certain way, depending on game's randomize placement.</desc>
+		<image>./mixart/Moonstone_v1.6_0360.png</image>
+		<video>./snap/Moonstone_v1.6_0360.mp4</video>
+		<marquee>./wheel/Moonstone_v1.6_0360.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Mindscape</developer>
+		<publisher>Mindscape</publisher>
+		<players>4</players>
+		<crc32>E99977EC</crc32>
+	</game>
+	<game>
+		<path>./Agony_v2.0_0960.lha</path>
+		<name>Agony</name>
+		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
+		<image>./mixart/Agony_v2.0_0960.png</image>
+		<video>./snap/Agony_v2.0_0960.mp4</video>
+		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Art &amp; Magic</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 	<game>
 		<path>./AlienBreed_v2.3a_0998.lha</path>
 		<name>Alien Breed</name>
@@ -10556,33 +10536,52 @@ Moving around an alien-infested complex in a top-down view, you must at all time
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Agony_v2.0_0960.lha</path>
-		<name>Agony</name>
-		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.    These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
-		<image>./mixart/Agony_v2.0_0960.png</image>
-		<video>./snap/Agony_v2.0_0960.mp4</video>
-		<marquee>./wheel/Agony_v2.0_0960.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Art &amp; Magic</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
+	<game id="33856" source="ScreenScraper.fr">
+		<path>./StuntCarRacer_v1.3_0222.lha</path>
+		<name>Stunt Car Racer</name>
+		<desc>Race a single computer opponent for first place on a unique racetrack -- 100 feet in the air! You start in the fourth three-man division of a league, all racing each other twice, and must come top to progress. The action is viewed from within the car throughout the 3-lap races, with the distance between you always on screen.
+
+Jump chasms, jumps, and drawbridges; take banks hard or slow; pass your opponent on the track or while catching mass air. Your car has the ability to burn a limited amount of turbo boost fuel as a way to accelerate faster and achieve higher speeds, but don't use it all up at once or you'll fall behind. Don't damage your engine too much; severe dents will show up during your next race.
+
+Whatever you do, don't fall off the track, as this will cost you time as you are placed back on.</desc>
+		<image>./mixart/StuntCarRacer_v1.3_0222.png</image>
+		<video>./snap/StuntCarRacer_v1.3_0222.mp4</video>
+		<marquee>./wheel/StuntCarRacer_v1.3_0222.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Micro Style</developer>
+		<publisher>Micro Style</publisher>
+		<crc32>8DF4E1CA</crc32>
 	</game>
-	<game id="33220" source="ScreenScraper.fr">
-		<path>./Moonstone_v1.6_0360.lha</path>
-		<name>Moonstone : A Hard Days Knight</name>
-		<desc>Something's happening in these lands, and the only hope seems to be the moonstone. You, as a chosen knight from the druids are about to find it and bring it back. The game can be played from 1 to 4 players at once, with no difference between solo and multiplayer as no matter how many players play, the story stays the same for everyone. However, if you choose to play with only one player/knight, the other three will be the computer rivals. Wandering through the map, you can visit enchanted places, towns where you can buy equipment or try your luck in gambling, but mostly visited places on the map will be cabins which represents the places where certain enemy beasts are. Each spot has about two or more beasts which after defeating them can be rewarding in a certain way, depending on game's randomize placement.</desc>
-		<image>./mixart/Moonstone_v1.6_0360.png</image>
-		<video>./snap/Moonstone_v1.6_0360.mp4</video>
-		<marquee>./wheel/Moonstone_v1.6_0360.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Mindscape</developer>
-		<publisher>Mindscape</publisher>
-		<players>4</players>
-		<crc32>E99977EC</crc32>
+	<game id="33785" source="ScreenScraper.fr">
+		<path>./Turrican3_v1.5_2633.lha</path>
+		<name>Turrican 3</name>
+		<desc>After many generations of peace, the Dark Forces have assembled again, and as a member of the USS Freedom Forces, it is your job to defeat them once again. This means you will have to complete numerous large levels always searching for secrets to pick up and enemies to shoot. To do this, you can pick up three different, upgradeable shots: a multiple, a laser and a rebound. You can also go into wheel-mode (as long as you have enough special energy) or use a rope. In wheel-mode, you are invincible and can lay mines or explore previously unreachable areas.</desc>
+		<image>./mixart/Turrican3_v1.5_2633.png</image>
+		<video>./snap/Turrican3_v1.5_2633.mp4</video>
+		<marquee>./wheel/Turrican3_v1.5_2633.png</marquee>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Renegade Kid</developer>
+		<publisher>Factor 5</publisher>
+		<crc32>8FBA8309</crc32>
+	</game>
+	<game id="39245" source="ScreenScraper.fr">
+		<path>./Obsession_v1.1_2199.lha</path>
+		<name>Obsession</name>
+		<desc>This is a pinball simulator with four different tables, each with its own set of graphics, music, sound effects and gameplay
+
+The table themes centre around underwater action, a spy mission, Paris-Dakar and baseball.
+
+The game does not feature any multi-ball but several play-modes and a highscore table.</desc>
+		<image>./mixart/Obsession_v1.1_2199.png</image>
+		<video>./snap/Obsession_v1.1_2199.mp4</video>
+		<marquee>./wheel/Obsession_v1.1_2199.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Unique Development Studios Sweden</developer>
+		<publisher>Unique Development Studios Sweden</publisher>
+		<players>8</players>
+		<crc32>496DC7C0</crc32>
 	</game>
 </gameList>
