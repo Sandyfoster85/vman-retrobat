@@ -4937,4 +4937,19 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Shooter</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Star Wars Force Combat.lnk</path>
+		<name>Star Wars Force Combat</name>
+		<desc>Fan made game with Luke, Vader, Rey, Kylo, Ahsoka, Seventh Sister, Obi-Wan, Darth Maul, Anakin, Count Dooku, Satele Shan, Darth Malgus, Yoda, General Grievous, Leia Organa and Mara Jade.</desc>
+		<image>./mixart/Star Wars Force Combat.jpg</image>
+		<video>./snap/Star Wars Force Combat.mp4</video>
+		<marquee>./wheel/Star Wars Force Combat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Lastjawa</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
