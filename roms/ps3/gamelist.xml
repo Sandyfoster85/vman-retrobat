@@ -906,18 +906,6 @@ battle map, many of which are unique to Disgaea. As the 4th installment in the s
 		<region>eu</region>
 		<genreid>256</genreid>
 	</game>
-	<game id="200853" source="ScreenScraper.fr">
-		<path>./Hot Shots Golf - Out of Bounds (USA).m3u</path>
-		<name>Hot Shots Golf - Out of Bounds</name>
-		<desc>(Also known as "Everybody's Golf 5", "Hot Shots Golf 5", and "Everybody's Golf: World Tour") The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.</desc>
-		<image>./mixart/Hot Shots Golf - Out of Bounds (USA).png</image>
-		<video>./snap/Hot Shots Golf - Out of Bounds (USA).mp4</video>
-		<marquee>./wheel/Hot Shots Golf - Out of Bounds (USA).png</marquee>
-		<rating>0.81</rating>
-		<releasedate />
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="26930" source="ScreenScraper.fr">
 		<path>./Hyperballoid HD.m3u</path>
 		<name>Hyperballoid Hd</name>
@@ -1149,19 +1137,240 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<genreid>768</genreid>
 	</game>
 	<game>
-		<path>./Super StarDust HD.m3u</path>
-		<name>Super Stardust HD</name>
-		<desc>Super Stardust is an asteroid arcade shooter viewed from above. Super Stardust HD for the PlayStation 3 system is a fully updated version of the classic game Stardust. Your mission is simple: destroy everything in sight! Visit different planets and fend off giant asteroids and waves of enemies by utilizing three upgradeable weapons to save your home solar system from total annihilation. With five highly detailed 3D planets to save, hordes of enemies and asteroids to destroy, and various game play modes, Super Stardust HD presents super intense action.</desc>
-		<image>./mixart/Super StarDust HD.png</image>
-		<video>./snap/Super StarDust HD.mp4</video>
-		<marquee>./wheel/Super StarDust HD.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071125T000000</releasedate>
-		<developer>Housemarque</developer>
-		<publisher>Sony</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>4</players>
+		<path>./Q'bert Rebooted.m3u</path>
+		<name>Q'bert Rebooted</name>
+		<desc>One of the most critically acclaimed and commercially successful arcade games of the 1980s is back in its classic pixel perfect 2D form, and a re-imagined Rebooted version with state of the art 3D game-play and graphics that remain faithful to the original concept. Now optimized for PS3™, PS4™ and 'PS VITA', both versions are exciting twitch games requiring keen puzzle solving skills and logic.</desc>
+		<image>./mixart/Q'bert Rebooted.png</image>
+		<video>./snap/Q'bert Rebooted.mp4</video>
+		<marquee>./wheel/Q'bert Rebooted.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20151125T000000</releasedate>
+		<developer>Gonzo Games</developer>
+		<publisher>LOOT Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Voltron Defender of the Universe.m3u</path>
+		<name>Voltron Defender of the Universe</name>
+		<desc>Voltron: Defender of the Universe is a twin stick shooter adventure game based on the Voltron television series, developed by Behaviour Interactive and published by THQ. The game was released on November 29, 2011 for the PlayStation Network and released on November 30, 2011 for the Xbox Live Arcade. The game allows players to play as all five lions from the series and to control Voltron, a huge robot formed by combining those lions. The game received mixed reception among critics. Some reviewers were critical of the Voltron robot gameplay sequences, yet others praised the lion sequences. Most critics spoke highly of the fan service given.</desc>
+		<image>./mixart/Voltron Defender of the Universe.png</image>
+		<video>./snap/Voltron Defender of the Universe.mp4</video>
+		<marquee>./wheel/Voltron Defender of the Universe.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111125T000000</releasedate>
+		<developer>Behaviour Interactive</developer>
+		<publisher>THQ</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Young Justice Legacy.m3u</path>
+		<name>Young Justice Legacy</name>
+		<desc>In Young Justice: Legacy fans can look forward to an original storyline set in between Seasons 1 and 2 of the television series, written in collaboration with show writers Greg Weisman and Brandon Vietti. The game is packed with fan favorite playable characters, cameo appearances by popular Justice League heroes and villains, and includes online multiplayer as well as local multiplayer modes.</desc>
+		<image>./mixart/Young Justice Legacy.png</image>
+		<video>./snap/Young Justice Legacy.mp4</video>
+		<marquee>./wheel/Young Justice Legacy.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20131125T000000</releasedate>
+		<developer>Freedom Factory</developer>
+		<publisher>Little Orbit</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./King's Quest - The Complete Collection.m3u</path>
+		<name>King's Quest - The Complete Collection</name>
+		<desc>King's Quest is an ongoing episodic video game series developed by The Odd Gentlemen, published by Sierra Entertainment and distributed by Activision. It is a new re-imagining of the King's Quest series. While it is an adventure game like the previous games in the series, the interface is not fully point-and-click (the PC version only uses point and click for the dialogue and first person scenes). The game is one of several attempts at resurrecting or rebooting the King's Quest franchise. The new chapters are seen as neither a remake nor necessarily a sequel but a "re-imagining" (the original games are considered to be part of the canon of the new series, as each chapter will take place between those games, but previous games maybe reinterpreted in completely new ways (such as the reimagined dragon well scene inspired by events in King's Quest I)). It is not, however, considered King's Quest IX, according to Matt Korba. The game is to be released in five parts, with an optional playable Epilogue only included in King's Quest: The Complete Collection edition.</desc>
+		<image>./mixart/King's Quest - The Complete Collection.png</image>
+		<video>./snap/King's Quest - The Complete Collection.mp4</video>
+		<marquee>./wheel/King's Quest - The Complete Collection.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151125T000000</releasedate>
+		<developer>The Odd Gentleman</developer>
+		<publisher>Activision</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Toy Story Mania.m3u</path>
+		<name>Toy Story Mania</name>
+		<desc>Toy Story Mania! is a video game published by Disney Interactive Studios and developed by Papaya Studio for the Wii and PC versions and High Voltage Software for the PS3 and Xbox 360 versions The game is based on the Toy Story Midway Mania! attraction located at Disney's California Adventure and Disney's Hollywood Studios, which was inspired by the Toy Story movie series produced by Pixar, and features single-player and multi-player shooting-gallery style gameplay.</desc>
+		<image>./mixart/Toy Story Mania.png</image>
+		<video>./snap/Toy Story Mania.mp4</video>
+		<marquee>./wheel/Toy Story Mania.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121125T000000</releasedate>
+		<developer>High Voltage</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Party</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Alien Breed 2 - Assault.m3u</path>
+		<name>Alien Breed 2 - Assault</name>
+		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
+		<image>./mixart/Alien Breed 2 - Assault.png</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed 2 - Assault.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Alien Breed 3 - Descent.m3u</path>
+		<name>Alien Breed 3 - Descent</name>
+		<desc>The award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set. Shadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.</desc>
+		<image>./mixart/Alien Breed 3 - Descent.png</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed 3 - Descent.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="26516" source="ScreenScraper.fr">
+		<path>./3 On 3 NHL Arcade.m3u</path>
+		<name>3 On 3 NHL Arcade</name>
+		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
+ 
+Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
+		<image>./mixart/3 On 3 NHL Arcade.png</image>
+		<video>./snap/3 On 3 NHL Arcade.mp4</video>
+		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090202T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1536</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Bomberman Ultra.m3u</path>
+		<name>Bomberman Ultra</name>
+		<desc>Bomberman Ultra includes all the classic gameplay elements that have made the series famous over the past few decades. Power-ups are as fun as ever and prove useful in order to dominate your opponents. And of course, the fast and frantic multiplayer action always keeps things heated! Along with the above features, Bomberman Ultra is packed with all of the options you'd expect for non-stop fun. Allowing for full customization of your character, Bomberman Ultra allows you to pick and choose from countless accessories, body styles, and other fashions to make a wholly unique Bomberman character! Feel like going as a pirate dressed in a tutu? Go for it. Up for a more space man look with a ninja suit on? By all means. The full Bomberman costume wardrobe is immediately unlockable at the very start of the game giving you more than 150,000 unique combinations. Fans find outrageous level designs across 14 stages that challenge gamers from all backgrounds. Keep a sharp eye as most stages have one or more unique gimmicks to add a little challenge to the map! From hazardous trap doors to deadly tornadoes, your character will usually have a lot more to worry about than your rivals trying to bomb you. Of course the real fun in Bomberman is the multiplayer! Bring your custom look to the battle arena with full 8 player online multiplayer over PSN and 4 player local multiplayer. A bevy of options are also available to you when setting up your frenzied matches to tailor them the way you’d like. From active gimmicks on the map to other gameplay options, every battle is yours to make your own.</desc>
+		<image>./mixart/Bomberman Ultra.png</image>
+		<video>./snap/Bomberman Ultra.mp4</video>
+		<marquee>./wheel/Bomberman Ultra.png</marquee>
+		<rating>0.81</rating>
+		<releasedate>19691231T200000</releasedate>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="26779" source="ScreenScraper.fr">
+		<path>./Galaga Legions DX.m3u</path>
+		<name>Galaga Legions Dx</name>
+		<desc>Galaga Legions DX is an PS3 variant of the Galaga Legions shooter. Although true to the origins of the series, this new version offers you to disintegrate legions of insectoid enemies using a small spaceship and two satellites which, your choice, increase your firepower or allow you to shoot in several different directions. Technical, demanding and very fast, this DX version is clearly geared towards scoring.</desc>
+		<image>./mixart/Galaga Legions DX.png</image>
+		<video>./snap/Galaga Legions DX.mp4</video>
+		<marquee>./wheel/Galaga Legions DX.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110802T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>260</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Hard Corps Uprising.m3u</path>
+		<name>Hard Corps Uprising</name>
+		<desc>Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to classic Konami action series. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.</desc>
+		<image>./mixart/Hard Corps Uprising.png</image>
+		<video>./snap/Hard Corps Uprising.mp4</video>
+		<marquee>./wheel/Hard Corps Uprising.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Resogun.m3u</path>
+		<name>Resogun</name>
+		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
+		<image>./mixart/Resogun.png</image>
+		<video>./snap/Resogun.mp4</video>
+		<marquee>./wheel/Resogun.png</marquee>
+		<rating>0.75</rating>
+		<releasedate />
+		<favorite>true</favorite>
+	</game>
+	<game id="26358" source="ScreenScraper.fr">
+		<path>./Rush'n Attack - Ex-Patriot.m3u</path>
+		<name>Rush'n Attack : Ex-Patriot</name>
+		<desc>Rush'n Attack: Ex-Patriot is inspired by many of the action gameplay elements from the original Rush'n Attack. The game is played from a 2.5D perspective, with players being able to move horizontally and vertically. The game has several new features over its predecessor such as non-linear levels, stealth-based combat, attack combos and usable equipment such as gas masks and night vision goggles.</desc>
+		<image>./mixart/Rush'n Attack - Ex-Patriot.png</image>
+		<video>./snap/Rush'n Attack - Ex-Patriot.mp4</video>
+		<marquee>./wheel/Rush'n Attack - Ex-Patriot.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Vatra</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<genreid>257</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Söldner-X 2 Final Prototype.m3u</path>
+		<name>Söldner-X 2 Final Prototype</name>
+		<desc>Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission: to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. Staged across seven unique action-loaded levels, Söldner-X 2: Final Prototype delivers a must-have, shoot' em up experience, blending classic gameplay with the astonishing audio-visual capabilities of the PlayStation 3 system.</desc>
+		<image>./mixart/Söldner-X 2 Final Prototype.png</image>
+		<video>./snap/Söldner-X 2 Final Prototype.mp4</video>
+		<marquee>./wheel/Söldner-X 2 Final Prototype.png</marquee>
+		<rating>0.77</rating>
+		<releasedate>19691231T200000</releasedate>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Ugly Americans Apocalypsegeddon.m3u</path>
+		<name>Ugly Americans Apocalypsegeddon</name>
+		<desc>With four-player top-down co-op gameplay that hearkens back to such classics as Gauntlet and Robotron, “Ugly Americans: Apocalypsegeddon” features four playable characters, each with their own unique abilities, weapons and strengths. Players must comb the streets of New York City and pacify raving demons, delinquent man birds and zombies by lactating fire or hurling wacky objects like flying demon skulls, fish, baseballs and wrenches. Investigate case files from the Department of Integration and battle devastating and distinctive bosses at the end of each mission, each bringing you one step closer to finding out who is trying to bring about the end of days!</desc>
+		<image>./mixart/Ugly Americans Apocalypsegeddon.png</image>
+		<video>./snap/Ugly Americans Apocalypsegeddon.mp4</video>
+		<marquee>./wheel/Ugly Americans Apocalypsegeddon.png</marquee>
+		<rating>0.44</rating>
+		<releasedate>19691231T200000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./After Burner Climax.m3u</path>
@@ -1175,21 +1384,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<developer>Sega AM2</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Castlevania - Lords of Shadow.m3u</path>
-		<name>Castlevania - Lords of Shadow</name>
-		<desc>Gabriel Belmont learns of a mask with the power to raise the dead and sets out on a mission to obtain it to bring his recently murdered wife back from the dead. Lords of Shadow builds upon the combat systems first explored in this series in 2003's Lament of Innocence and adds more violent kills to the mix. Inspiration for these changes seems to have come from 2005's God of War.</desc>
-		<image>./mixart/Castlevania - Lords of Shadow.png</image>
-		<video>./snap/Castlevania - Lords of Shadow.mp4</video>
-		<marquee>./wheel/Castlevania - Lords of Shadow.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20101125T000000</releasedate>
-		<developer>Mercury Steam</developer>
-		<publisher>Konami</publisher>
-		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
@@ -1209,6 +1403,21 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Castlevania - Lords of Shadow.m3u</path>
+		<name>Castlevania - Lords of Shadow</name>
+		<desc>Gabriel Belmont learns of a mask with the power to raise the dead and sets out on a mission to obtain it to bring his recently murdered wife back from the dead. Lords of Shadow builds upon the combat systems first explored in this series in 2003's Lament of Innocence and adds more violent kills to the mix. Inspiration for these changes seems to have come from 2005's God of War.</desc>
+		<image>./mixart/Castlevania - Lords of Shadow.png</image>
+		<video>./snap/Castlevania - Lords of Shadow.mp4</video>
+		<marquee>./wheel/Castlevania - Lords of Shadow.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20101125T000000</releasedate>
+		<developer>Mercury Steam</developer>
+		<publisher>Konami</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Elevator Action Deluxe.m3u</path>
 		<name>Elevator Action Deluxe</name>
 		<desc>You are a legendary super spy. Your mission: steal the documents and escape. But this isn't the same game you remember from the arcades! New bad guys, new traps, and new challenges all await you. Enjoy ELEVATOR ACTION for the first time with HD graphics, and challenge your friends in up to 4 player local multiplayer action. And, as an added bonus, you'll get the original ELEVATOR ACTION free along with your purchase of ELEVATOR ACTION DELUXE. The game has been upgraded. Are you good enough to survive?</desc>
@@ -1224,24 +1433,9 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Everybody's Golf - World Tour.m3u</path>
-		<name>Everybody's Golf - World Tour</name>
-		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
-		<image>./mixart/Everybody's Golf - World Tour.png</image>
-		<video>./snap/Everybody's Golf - World Tour.mp4</video>
-		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Fat Princess.m3u</path>
 		<name>Fat Princess</name>
-		<desc>Fat Princess is an action real-time strategy video game for the PlayStation 3, developed by Titan Studios and published by Sony Computer Entertainment. It was released in North America and Europe on July 30, 2009,[1] and in Japan on December 25, 2009. It was included on the "Best of PlayStation Network Vol. 1" compilation disc, released June 18, 2013.[2] A PSP version called Fat Princess: Fistful of Cake was released in 2010. Fat Princess is a multiplayer game for up to 32 players, with the basic goal of rescuing the Princess and bringing her back to the team's base. </desc>
+		<desc>Fat Princess is an action real-time strategy video game for the PlayStation 3, developed by Titan Studios and published by Sony Computer Entertainment. It was released in North America and Europe on July 30, 2009,[1] and in Japan on December 25, 2009. It was included on the "Best of PlayStation Network Vol. 1" compilation disc, released June 18, 2013.[2] A PSP version called Fat Princess: Fistful of Cake was released in 2010. Fat Princess is a multiplayer game for up to 32 players, with the basic goal of rescuing the Princess and bringing her back to the team's base.</desc>
 		<image>./mixart/Fat Princess.png</image>
 		<video>./snap/Fat Princess.mp4</video>
 		<marquee>./wheel/Fat Princess.png</marquee>
@@ -1256,7 +1450,7 @@ Swords in game can be customized and leveled up to increase its length, width, a
 	<game>
 		<path>./God of War - Origins Collection.m3u</path>
 		<name>God of War - Origins Collection</name>
-		<desc>Now, discover the origins of Kratos with the definitive compilation of God of War: Chains of Olympus and God of War: Ghost of Sparta on a single Blu-ray disc for the first time! Fully remastered in 1080p and stereoscopic 3-D, players will discover the dark past that continues to haunt the Spartan Warrior, and why he is forced to choose between his own personal redemption and saving the ancient world from destruction. </desc>
+		<desc>Now, discover the origins of Kratos with the definitive compilation of God of War: Chains of Olympus and God of War: Ghost of Sparta on a single Blu-ray disc for the first time! Fully remastered in 1080p and stereoscopic 3-D, players will discover the dark past that continues to haunt the Spartan Warrior, and why he is forced to choose between his own personal redemption and saving the ancient world from destruction.</desc>
 		<image>./mixart/God of War - Origins Collection.png</image>
 		<video>./snap/God of War - Origins Collection.mp4</video>
 		<marquee>./wheel/God of War - Origins Collection.png</marquee>
@@ -1361,21 +1555,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Q'bert Rebooted.m3u</path>
-		<name>Q'bert Rebooted</name>
-		<desc>One of the most critically acclaimed and commercially successful arcade games of the 1980s is back in its classic pixel perfect 2D form, and a re-imagined Rebooted version with state of the art 3D game-play and graphics that remain faithful to the original concept. Now optimized for PS3™, PS4™ and 'PS VITA', both versions are exciting twitch games requiring keen puzzle solving skills and logic.</desc>
-		<image>./mixart/Q'bert Rebooted.png</image>
-		<video>./snap/Q'bert Rebooted.mp4</video>
-		<marquee>./wheel/Q'bert Rebooted.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20151125T000000</releasedate>
-		<developer>Gonzo Games</developer>
-		<publisher>LOOT Entertainment</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Rock of Ages.m3u</path>
 		<name>Rock of Ages</name>
 		<desc>Rock of Ages is a tower defense racing video game developed by ACE Team and published by Atlus USA. It uses by the Unreal Engine 3. The game was released for Xbox 360 in August 2011, for Microsoft Windows in September 2011, and for PlayStation 3 in May 2012.</desc>
@@ -1406,6 +1585,21 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Super StarDust HD.m3u</path>
+		<name>Super Stardust HD</name>
+		<desc>Super Stardust is an asteroid arcade shooter viewed from above. Super Stardust HD for the PlayStation 3 system is a fully updated version of the classic game Stardust. Your mission is simple: destroy everything in sight! Visit different planets and fend off giant asteroids and waves of enemies by utilizing three upgradeable weapons to save your home solar system from total annihilation. With five highly detailed 3D planets to save, hordes of enemies and asteroids to destroy, and various game play modes, Super Stardust HD presents super intense action.</desc>
+		<image>./mixart/Super StarDust HD.png</image>
+		<video>./snap/Super StarDust HD.mp4</video>
+		<marquee>./wheel/Super StarDust HD.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071125T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Thexder Neo.m3u</path>
 		<name>Thexder Neo</name>
 		<desc>ASTROLOG: YEAR 089 During a routine survey, the interstellar weapons platform Laevina detects Nedium, an asteroid of unknown origin, and soon finds itself in the grip of the planetoid’s ultramagnetic field. Shipwrecked atop an impregnable fortress of rock, the starship turns to its last resort—the Hyper Dual Armor prototype Thexder. Originally released back in 1985, THEXDER is a side-scrolling shooter featuring slick animation, strategic transforming-mech gameplay, and spectacular homing lasers. Now you can experience the excitement of the original, complete with revamped graphics, a novice mode, 6-player online races, and a host of other all-new features in THEXDER NEO.</desc>
@@ -1417,96 +1611,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<developer>Square Enix</developer>
 		<publisher>Square Enix</publisher>
 		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Tony Hawk's Pro Skater HD.m3u</path>
-		<name>Tony Hawk's Pro Skater HD</name>
-		<desc>Tony Hawk's Pro Skater HD is a downloadable title for PSN and Xbox LIVE Arcade that takes the best elements of the classic THPS games and gives them a fresh update to create an all new skateboarding experience. Tapping into fans' muscle memories, the gameplay returns to controllers and focuses on the satisfaction of linking sick tricks for maximum points. Combining sharp visuals with the best controls ever in a Tony Hawk game, the feel is cutting edge yet timeless. The game was rebuilt and polished by Robomodo using Neversoft's original code and includes the best seven levels from THPS and THPS2 (Warehouse, School 2, Mall, Phoenix, Hangar, Marseilles and Venice). There is a combination of new school and old school pros (Nyjah Huston, Chris Cole, Eric Koston, Andrew Reynolds, Rodney Mullen, Lyn-z Adams Hawkins Pastrana, Riley Hawk and Tony Hawk himself) and the soundtrack is half classic THPS tracks and fresh ones. Multiple online multiplayer modes round out the action!</desc>
-		<image>./mixart/Tony Hawk's Pro Skater HD.png</image>
-		<video>./snap/Tony Hawk's Pro Skater HD.mp4</video>
-		<marquee>./wheel/Tony Hawk's Pro Skater HD.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20121125T000000</releasedate>
-		<developer>Robomodo</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports, Skateboarding</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Voltron Defender of the Universe.m3u</path>
-		<name>Voltron Defender of the Universe</name>
-		<desc>Voltron: Defender of the Universe is a twin stick shooter adventure game based on the Voltron television series, developed by Behaviour Interactive and published by THQ. The game was released on November 29, 2011 for the PlayStation Network and released on November 30, 2011 for the Xbox Live Arcade. The game allows players to play as all five lions from the series and to control Voltron, a huge robot formed by combining those lions. The game received mixed reception among critics. Some reviewers were critical of the Voltron robot gameplay sequences, yet others praised the lion sequences. Most critics spoke highly of the fan service given.</desc>
-		<image>./mixart/Voltron Defender of the Universe.png</image>
-		<video>./snap/Voltron Defender of the Universe.mp4</video>
-		<marquee>./wheel/Voltron Defender of the Universe.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111125T000000</releasedate>
-		<developer>Behaviour Interactive</developer>
-		<publisher>THQ</publisher>
-		<genre>Action, Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Wrecked Revenge Revisited.m3u</path>
-		<name>Wrecked Revenge Revisited</name>
-		<desc>From the creators of MASHED and MICRO MACHINES V4, comes the next evolution of explosive battle racing fun! Some rivalries have been left simmering for years – it’s time to unleash them again and make a few new ones in the process. Revenge is sweet when it’s a rocket through your rival’s back window. Whether it’s 4 players together in a front room or playing against each other online, win any which way you can. Using a plethora of weapons or just your kick ass driving skills, unleash your fury, cause absolute carnage, and send your ‘friends’ to a humiliating defeat!</desc>
-		<image>./mixart/Wrecked Revenge Revisited.png</image>
-		<video>./snap/Wrecked Revenge Revisited.mp4</video>
-		<marquee>./wheel/Wrecked Revenge Revisited.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20121125T000000</releasedate>
-		<developer>Supersonic Software</developer>
-		<publisher>505 Games</publisher>
-		<genre>Racing, Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Young Justice Legacy.m3u</path>
-		<name>Young Justice Legacy</name>
-		<desc>In Young Justice: Legacy fans can look forward to an original storyline set in between Seasons 1 and 2 of the television series, written in collaboration with show writers Greg Weisman and Brandon Vietti. The game is packed with fan favorite playable characters, cameo appearances by popular Justice League heroes and villains, and includes online multiplayer as well as local multiplayer modes.</desc>
-		<image>./mixart/Young Justice Legacy.png</image>
-		<video>./snap/Young Justice Legacy.mp4</video>
-		<marquee>./wheel/Young Justice Legacy.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20131125T000000</releasedate>
-		<developer>Freedom Factory</developer>
-		<publisher>Little Orbit</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Zombie Apocalypse.m3u</path>
-		<name>Zombie Apocalypse</name>
-		<desc>As heavily equipped gunslingers, Zombie Apocalypse sets players on a mission to destroy as many zombies as possible in order save the last remaining human survivors. Using an array of up to 11 lethal weapons including assault rifles, flame throwers and a teddy bear filled with C4 explosives, up to four players can play locally or via the Internet to stop the zombie attacks and rescue survivors as they compete for the highest scores. Players can use a chainsaw to melee zombies and protect themselves against becoming one of the undead. As an added line of defense, players can also use environmental hazards to crush, burn, slice, or cause other types of destruction on the masses of zombies.</desc>
-		<image>./mixart/Zombie Apocalypse.png</image>
-		<video>./snap/Zombie Apocalypse.mp4</video>
-		<marquee>./wheel/Zombie Apocalypse.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20091125T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./King's Quest - The Complete Collection.m3u</path>
-		<name>King's Quest - The Complete Collection</name>
-		<desc>King's Quest is an ongoing episodic video game series developed by The Odd Gentlemen, published by Sierra Entertainment and distributed by Activision. It is a new re-imagining of the King's Quest series. While it is an adventure game like the previous games in the series, the interface is not fully point-and-click (the PC version only uses point and click for the dialogue and first person scenes). The game is one of several attempts at resurrecting or rebooting the King's Quest franchise. The new chapters are seen as neither a remake nor necessarily a sequel but a "re-imagining" (the original games are considered to be part of the canon of the new series, as each chapter will take place between those games, but previous games maybe reinterpreted in completely new ways (such as the reimagined dragon well scene inspired by events in King's Quest I)). It is not, however, considered King's Quest IX, according to Matt Korba. The game is to be released in five parts, with an optional playable Epilogue only included in King's Quest: The Complete Collection edition.</desc>
-		<image>./mixart/King's Quest - The Complete Collection.png</image>
-		<video>./snap/King's Quest - The Complete Collection.mp4</video>
-		<marquee>./wheel/King's Quest - The Complete Collection.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20151125T000000</releasedate>
-		<developer>The Odd Gentleman</developer>
-		<publisher>Activision</publisher>
-		<genre>Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
@@ -1526,33 +1630,49 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./F1 Race Stars.m3u</path>
-		<name>F1 Race Stars</name>
-		<desc>Summary Specifications Game Editions F1 Race Stars is a fast-to-the-fun arcade racing game for all ages featuring official FORMULA ONE cars, teams and circuits as they've never been seen before. F1 Race Stars will take players on a world tour of iconic FORMULA ONE locations, including Monaco, Silverstone and the new Circuit of Americas in Austin, Texas, recreated as fantastical racing circuits built for speed and wheel-to-wheel competition. Friends and family can share the fun too; F1 RACE STARS will deliver 4-player split-screen racing and 12-player competition alongside an extensive career mode featuring a number of Championships.</desc>
-		<image>./mixart/F1 Race Stars.png</image>
-		<video>./snap/F1 Race Stars.mp4</video>
-		<marquee>./wheel/F1 Race Stars.png</marquee>
-		<rating>0.90</rating>
+		<path>./Tony Hawk's Pro Skater HD.m3u</path>
+		<name>Tony Hawk's Pro Skater HD</name>
+		<desc>Tony Hawk's Pro Skater HD is a downloadable title for PSN and Xbox LIVE Arcade that takes the best elements of the classic THPS games and gives them a fresh update to create an all new skateboarding experience. Tapping into fans' muscle memories, the gameplay returns to controllers and focuses on the satisfaction of linking sick tricks for maximum points. Combining sharp visuals with the best controls ever in a Tony Hawk game, the feel is cutting edge yet timeless. The game was rebuilt and polished by Robomodo using Neversoft's original code and includes the best seven levels from THPS and THPS2 (Warehouse, School 2, Mall, Phoenix, Hangar, Marseilles and Venice). There is a combination of new school and old school pros (Nyjah Huston, Chris Cole, Eric Koston, Andrew Reynolds, Rodney Mullen, Lyn-z Adams Hawkins Pastrana, Riley Hawk and Tony Hawk himself) and the soundtrack is half classic THPS tracks and fresh ones. Multiple online multiplayer modes round out the action!</desc>
+		<image>./mixart/Tony Hawk's Pro Skater HD.png</image>
+		<video>./snap/Tony Hawk's Pro Skater HD.mp4</video>
+		<marquee>./wheel/Tony Hawk's Pro Skater HD.png</marquee>
+		<rating>0.85</rating>
 		<releasedate>20121125T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Racing</genre>
+		<developer>Robomodo</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports, Skateboarding</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Wrecked Revenge Revisited.m3u</path>
+		<name>Wrecked Revenge Revisited</name>
+		<desc>From the creators of MASHED and MICRO MACHINES V4, comes the next evolution of explosive battle racing fun! Some rivalries have been left simmering for years – it’s time to unleash them again and make a few new ones in the process. Revenge is sweet when it’s a rocket through your rival’s back window. Whether it’s 4 players together in a front room or playing against each other online, win any which way you can. Using a plethora of weapons or just your kick ass driving skills, unleash your fury, cause absolute carnage, and send your ‘friends’ to a humiliating defeat!</desc>
+		<image>./mixart/Wrecked Revenge Revisited.png</image>
+		<video>./snap/Wrecked Revenge Revisited.mp4</video>
+		<marquee>./wheel/Wrecked Revenge Revisited.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121125T000000</releasedate>
+		<developer>Supersonic Software</developer>
+		<publisher>505 Games</publisher>
+		<genre>Racing, Shooter</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Toy Story Mania.m3u</path>
-		<name>Toy Story Mania</name>
-		<desc>Toy Story Mania! is a video game published by Disney Interactive Studios and developed by Papaya Studio for the Wii and PC versions and High Voltage Software for the PS3 and Xbox 360 versions The game is based on the Toy Story Midway Mania! attraction located at Disney's California Adventure and Disney's Hollywood Studios, which was inspired by the Toy Story movie series produced by Pixar, and features single-player and multi-player shooting-gallery style gameplay.</desc>
-		<image>./mixart/Toy Story Mania.png</image>
-		<video>./snap/Toy Story Mania.mp4</video>
-		<marquee>./wheel/Toy Story Mania.png</marquee>
+		<path>./Zombie Apocalypse.m3u</path>
+		<name>Zombie Apocalypse</name>
+		<desc>As heavily equipped gunslingers, Zombie Apocalypse sets players on a mission to destroy as many zombies as possible in order save the last remaining human survivors. Using an array of up to 11 lethal weapons including assault rifles, flame throwers and a teddy bear filled with C4 explosives, up to four players can play locally or via the Internet to stop the zombie attacks and rescue survivors as they compete for the highest scores. Players can use a chainsaw to melee zombies and protect themselves against becoming one of the undead. As an added line of defense, players can also use environmental hazards to crush, burn, slice, or cause other types of destruction on the masses of zombies.</desc>
+		<image>./mixart/Zombie Apocalypse.png</image>
+		<video>./snap/Zombie Apocalypse.mp4</video>
+		<marquee>./wheel/Zombie Apocalypse.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20121125T000000</releasedate>
-		<developer>High Voltage</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Party</genre>
+		<releasedate>20091125T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter</genre>
 		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Alien Breed - Impact.m3u</path>
@@ -1567,85 +1687,7 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<publisher>Team17</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
-		<lang>en</lang>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Alien Breed 2 - Assault.m3u</path>
-		<name>Alien Breed 2 - Assault</name>
-		<desc>Can you survive the alien onslaught? Alien Breed 2: Assault is the second chapter in the Alien Breed series, and is an explosive science-fiction arcade-shooter with an epic story, swarms of highly intelligent alien enemies, high-impact weaponry, highly detailed and rich environments, developed using Epic Games' Unreal Engine 3. Take control of the hero, Conrad, the ship’s Chief Engineer, and continue your fight for survival across the fatally damaged space vessel, against a ruthless assault by an alien horde. Your only hope relies on reigniting the alien space craft’s monstrous engines to rescue you from impending annihilation. Deep inside the bowels of the unfamiliar craft, and with time rapidly running out, ready your weapons and begin to claw your way through the darkness in a fight for survival. But you are not alone. The ship is home to the carnivorous alien horde and something else... something yet to reveal its true intentions... something biding its time. In addition to the thrilling single-player campaign and all new “survivor” modes, the game also offers relentless, action-packed, two-player online co-operative battle modes.</desc>
-		<image>./mixart/Alien Breed 2 - Assault.png</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed 2 - Assault.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Alien Breed 3 - Descent.m3u</path>
-		<name>Alien Breed 3 - Descent</name>
-		<desc>The award-winning atmosphere and gameplay mechanics of the original Shadowgrounds make a triumphant return in this spin off/sequel armed with a slick new feature set. Shadowgrounds Survivor tells the story of the last remaining humans on Jupiter's moon Ganymede, where the alien onslaught is in full force.</desc>
-		<image>./mixart/Alien Breed 3 - Descent.png</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed 3 - Descent.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<favorite>true</favorite>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./1942 Joint Strike.m3u</path>
-		<name>1942 Joint Strike</name>
-		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
-		<image>./mixart/1942 Joint Strike.png</image>
-		<video>./snap/1942 Joint Strike.mp4</video>
-		<marquee>./wheel/1942 Joint Strike.png</marquee>
-		<rating>0.69</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="26516" source="ScreenScraper.fr">
-		<path>./3 On 3 NHL Arcade.m3u</path>
-		<name>3 On 3 NHL Arcade</name>
-		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
- 
-Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
-		<image>./mixart/3 On 3 NHL Arcade.png</image>
-		<video>./snap/3 On 3 NHL Arcade.mp4</video>
-		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090202T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<genreid>1536</genreid>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Bomberman Ultra.m3u</path>
-		<name>Bomberman Ultra</name>
-		<desc>Bomberman Ultra includes all the classic gameplay elements that have made the series famous over the past few decades. Power-ups are as fun as ever and prove useful in order to dominate your opponents. And of course, the fast and frantic multiplayer action always keeps things heated! Along with the above features, Bomberman Ultra is packed with all of the options you'd expect for non-stop fun. Allowing for full customization of your character, Bomberman Ultra allows you to pick and choose from countless accessories, body styles, and other fashions to make a wholly unique Bomberman character! Feel like going as a pirate dressed in a tutu? Go for it. Up for a more space man look with a ninja suit on? By all means. The full Bomberman costume wardrobe is immediately unlockable at the very start of the game giving you more than 150,000 unique combinations. Fans find outrageous level designs across 14 stages that challenge gamers from all backgrounds. Keep a sharp eye as most stages have one or more unique gimmicks to add a little challenge to the map! From hazardous trap doors to deadly tornadoes, your character will usually have a lot more to worry about than your rivals trying to bomb you. Of course the real fun in Bomberman is the multiplayer! Bring your custom look to the battle arena with full 8 player online multiplayer over PSN and 4 player local multiplayer. A bevy of options are also available to you when setting up your frenzied matches to tailor them the way you’d like. From active gimmicks on the map to other gameplay options, every battle is yours to make your own.</desc>
-		<image>./mixart/Bomberman Ultra.png</image>
-		<video>./snap/Bomberman Ultra.mp4</video>
-		<marquee>./wheel/Bomberman Ultra.png</marquee>
-		<rating>0.81</rating>
-		<releasedate>19691231T200000</releasedate>
-		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game id="25319" source="ScreenScraper.fr">
@@ -1665,88 +1707,62 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<lang>en</lang>
 		<genreid>260</genreid>
 	</game>
-	<game id="26779" source="ScreenScraper.fr">
-		<path>./Galaga Legions DX.m3u</path>
-		<name>Galaga Legions Dx</name>
-		<desc>Galaga Legions DX is an PS3 variant of the Galaga Legions shooter. Although true to the origins of the series, this new version offers you to disintegrate legions of insectoid enemies using a small spaceship and two satellites which, your choice, increase your firepower or allow you to shoot in several different directions. Technical, demanding and very fast, this DX version is clearly geared towards scoring.</desc>
-		<image>./mixart/Galaga Legions DX.png</image>
-		<video>./snap/Galaga Legions DX.mp4</video>
-		<marquee>./wheel/Galaga Legions DX.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20110802T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Shoot'em Up</genre>
+	<game>
+		<path>./F1 Race Stars.m3u</path>
+		<name>F1 Race Stars</name>
+		<desc>Summary Specifications Game Editions F1 Race Stars is a fast-to-the-fun arcade racing game for all ages featuring official FORMULA ONE cars, teams and circuits as they've never been seen before. F1 Race Stars will take players on a world tour of iconic FORMULA ONE locations, including Monaco, Silverstone and the new Circuit of Americas in Austin, Texas, recreated as fantastical racing circuits built for speed and wheel-to-wheel competition. Friends and family can share the fun too; F1 RACE STARS will deliver 4-player split-screen racing and 12-player competition alongside an extensive career mode featuring a number of Championships.</desc>
+		<image>./mixart/F1 Race Stars.png</image>
+		<video>./snap/F1 Race Stars.mp4</video>
+		<marquee>./wheel/F1 Race Stars.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20121125T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Everybody's Golf - World Tour.m3u</path>
+		<name>Everybody's Golf - World Tour</name>
+		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
+		<image>./mixart/Everybody's Golf - World Tour.png</image>
+		<video>./snap/Everybody's Golf - World Tour.mp4</video>
+		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports, Golf</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>260</genreid>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Hard Corps Uprising.m3u</path>
-		<name>Hard Corps Uprising</name>
-		<desc>Thrilling retro run-and-gun action is back with a vengeance in Hard Corps: Uprising, a new 2D side scroller developed by ARC System Works that pays homage to classic Konami action series. Play as the soldier Bahamut as he begins to write his legend. Battle in the grueling trenches of Arcade mode or the all-new RISING mode, where a life bar and point system allow you to purchase items and upgrades to build your soldier up and achieve ultimate victory. Need help? Partner with a friend to lay down some serious carnage.</desc>
-		<image>./mixart/Hard Corps Uprising.png</image>
-		<video>./snap/Hard Corps Uprising.mp4</video>
-		<marquee>./wheel/Hard Corps Uprising.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Resogun.m3u</path>
-		<name>Resogun</name>
-		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
-		<image>./mixart/Resogun.png</image>
-		<video>./snap/Resogun.mp4</video>
-		<marquee>./wheel/Resogun.png</marquee>
-		<rating>0.75</rating>
+	<game id="200853" source="ScreenScraper.fr">
+		<path>./Hot Shots Golf - Out of Bounds (USA).m3u</path>
+		<name>Hot Shots Golf - Out of Bounds</name>
+		<desc>(Also known as "Everybody's Golf 5", "Hot Shots Golf 5", and "Everybody's Golf: World Tour") The fun, addicting and ever-popular Hot Shots Golf franchise, tees it up on the PLAYSTATION 3 system. High Definition) detail of course graphics accompanied with new, more accurate golf physics, brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. With vibrant new courses, zany new characters and a wealth of new online features, Hot Shots Golf: Out of Bounds strives to enter the next generation strokes ahead of the competition.</desc>
+		<image>./mixart/Hot Shots Golf - Out of Bounds (USA).png</image>
+		<video>./snap/Hot Shots Golf - Out of Bounds (USA).mp4</video>
+		<marquee>./wheel/Hot Shots Golf - Out of Bounds (USA).png</marquee>
+		<rating>0.81</rating>
 		<releasedate></releasedate>
 		<favorite>true</favorite>
-	</game>
-	<game id="26358" source="ScreenScraper.fr">
-		<path>./Rush'n Attack - Ex-Patriot.m3u</path>
-		<name>Rush'n Attack : Ex-Patriot</name>
-		<desc>Rush'n Attack: Ex-Patriot is inspired by many of the action gameplay elements from the original Rush'n Attack. The game is played from a 2.5D perspective, with players being able to move horizontally and vertically. The game has several new features over its predecessor such as non-linear levels, stealth-based combat, attack combos and usable equipment such as gas masks and night vision goggles.</desc>
-		<image>./mixart/Rush'n Attack - Ex-Patriot.png</image>
-		<video>./snap/Rush'n Attack - Ex-Patriot.mp4</video>
-		<marquee>./wheel/Rush'n Attack - Ex-Patriot.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20110329T000000</releasedate>
-		<developer>Vatra</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<genreid>257</genreid>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Söldner-X 2 Final Prototype.m3u</path>
-		<name>Söldner-X 2 Final Prototype</name>
-		<desc>Twenty years after the Virus Wars, you return to Gota IV as part of the newly formed Söldner-X defense force. Your mission: to free the galaxy from the D'aarg, a technologically superior race that is threatening mankind. Staged across seven unique action-loaded levels, Söldner-X 2: Final Prototype delivers a must-have, shoot' em up experience, blending classic gameplay with the astonishing audio-visual capabilities of the PlayStation 3 system.</desc>
-		<image>./mixart/Söldner-X 2 Final Prototype.png</image>
-		<video>./snap/Söldner-X 2 Final Prototype.mp4</video>
-		<marquee>./wheel/Söldner-X 2 Final Prototype.png</marquee>
-		<rating>0.77</rating>
-		<releasedate>19691231T200000</releasedate>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
+		<region>us</region>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Ugly Americans Apocalypsegeddon.m3u</path>
-		<name>Ugly Americans Apocalypsegeddon</name>
-		<desc>With four-player top-down co-op gameplay that hearkens back to such classics as Gauntlet and Robotron, “Ugly Americans: Apocalypsegeddon” features four playable characters, each with their own unique abilities, weapons and strengths. Players must comb the streets of New York City and pacify raving demons, delinquent man birds and zombies by lactating fire or hurling wacky objects like flying demon skulls, fish, baseballs and wrenches. Investigate case files from the Department of Integration and battle devastating and distinctive bosses at the end of each mission, each bringing you one step closer to finding out who is trying to bring about the end of days!</desc>
-		<image>./mixart/Ugly Americans Apocalypsegeddon.png</image>
-		<video>./snap/Ugly Americans Apocalypsegeddon.mp4</video>
-		<marquee>./wheel/Ugly Americans Apocalypsegeddon.png</marquee>
-		<rating>0.44</rating>
-		<releasedate>19691231T200000</releasedate>
-		<genre>Action</genre>
-		<players>2</players>
+	<game>
+		<path>./Planet MiniGolf.m3u</path>
+		<name>Planet MiniGolf</name>
+		<desc>Visit four exotic locations featuring a total of 144 holes designed for maximum fun. Design your own courses with the powerful course editor, and share your creations with the Planet Minigolf community. Take on other Planet Minigolf fans in various local and online multiplayer game modes or in regular weekly tournaments.</desc>
+		<image>./mixart/Planet MiniGolf.png</image>
+		<video>./snap/Planet MiniGolf.mp4</video>
+		<marquee>./wheel/Planet MiniGolf.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20101125T000000</releasedate>
+		<developer>Zen Studios</developer>
+		<publisher>Zen Studios</publisher>
+		<genre>Sports, Golf</genre>
+		<players>6</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
