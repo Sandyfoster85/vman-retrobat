@@ -171,21 +171,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage Remake.lnk</path>
-		<name>'H'Streets of Rage Remake</name>
-		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
-		<image>./mixart/sorr.png</image>
-		<video>./snap/sorr.mp4</video>
-		<marquee>./wheel/sorr.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20110101T000000</releasedate>
-		<developer>FanGame</developer>
-		<publisher>FanGame</publisher>
-		<genre>Fighting</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Wolfenstein 3D - Coop.lnk</path>
 		<name>'H'Wolfenstein 3D Coop</name>
 		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
@@ -382,19 +367,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Rockin'Bliss!.lnk</path>
-		<name>Rockin'Bliss!</name>
-		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
-		<image>./mixart/Rockin'Bliss!.png</image>
-		<video>./snap/Rockin'Bliss!.mp4</video>
-		<marquee>./wheel/Rockin'Bliss!.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210719T000000</releasedate>
-		<genre>Rythem</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Xash3D.lnk</path>
 		<name>Half-Life</name>
 		<desc>Deep in the bowels of the Black Mesa Federal Research Facility, a decommissioned missile base, a top-secret experiment goes terribly wrong. As aliens come through the walls and a military death squad shoots everything in sight, young research associate Gordon Freeman must scramble to stay alive. Find your way through the monster-ridden areas of Black Mesa using your wits, limited security clearance, and a variety of weapons, ranging from a crowbar and pistols to a rocket launcher and grenades. With split-screen deathmatch and its exclusive "Decay" single-player and multiplayer cooperative modes, Half-Life is an action experience like no other.</desc>
@@ -437,21 +409,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Goldeneye XBLA.lnk</path>
-		<name>'H'GoldenEye 007 XBLA</name>
-		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
-		<image>./mixart/Goldeneye XBLA.png</image>
-		<video>./snap/Goldeneye XBLA.mp4</video>
-		<marquee>./wheel/Goldeneye XBLA.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210825T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Xbox/Nintendo</publisher>
-		<genre>Action-Shooter-Shooter / 1st person</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Star Wars - Tie Fighter Total Conversion.lnk</path>
 		<name>Star Wars - Tie Fighter Total Conversion</name>
 		<desc>Star Wars - X-Wing Alliance re-imagined/enhanced (fanmade)! Out of countless Star Wars video games, 1994’s TIE Fighter remains a beloved classic, throwing you into the titular Imperial starfighters and letting you blast away at rebels, pirates, and traitors. Twenty-five years later, a new fan mod has fully updated TIE Fighter with new graphics, widescreen support, new missions, and more. The result is an updated game that, as the mod team puts it, imagines “how TIE Fighter could've been had the technology of the time not limited it.”</desc>
@@ -492,18 +449,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./3dSen.lnk</path>
-		<name>3DSen</name>
-		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
-		<image>./mixart/3DSen.png</image>
-		<video>./snap/3DSen.mp4</video>
-		<marquee>./wheel/3DSen.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200719T000000</releasedate>
-		<genre>Emulator</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Quake.lnk</path>
 		<name>Quake</name>
 		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
@@ -519,6 +464,64 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<developer>ID Software</developer>
 		<publisher>ID Software</publisher>
 		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goldeneye XBLA.lnk</path>
+		<name>'H'GoldenEye 007 XBLA</name>
+		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
+		<image>./mixart/Goldeneye XBLA.png</image>
+		<video>./snap/Goldeneye XBLA.mp4</video>
+		<marquee>./wheel/Goldeneye XBLA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Xbox/Nintendo</publisher>
+		<genre>Action-Shooter-Shooter / 1st person</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rockin'Bliss!.lnk</path>
+		<name>Rockin'Bliss!</name>
+		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
+		<image>./mixart/Rockin'Bliss!.png</image>
+		<video>./snap/Rockin'Bliss!.mp4</video>
+		<marquee>./wheel/Rockin'Bliss!.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210719T000000</releasedate>
+		<genre>Rythem</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage Remake.lnk</path>
+		<name>'H'Streets of Rage Remake</name>
+		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
+		<image>./mixart/sorr.png</image>
+		<video>./snap/sorr.mp4</video>
+		<marquee>./wheel/sorr.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>FanGame</developer>
+		<publisher>FanGame</publisher>
+		<genre>Fighting</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

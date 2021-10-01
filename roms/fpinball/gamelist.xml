@@ -1472,22 +1472,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tron Light Cycle Arena.fpt</path>
-		<name>Tron Light Cycle Arena</name>
-		<desc>Flipper Tron Light Cycle Arena</desc>
-		<image>./mixart/Tron Light Cycle Arena.png</image>
-		<video>./snap/Tron Light Cycle Arena.mp4</video>
-		<marquee>./wheel/Tron Light Cycle Arena.png</marquee>
-		<rating>4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Metal Slug (Original) (2.0).fpt</path>
 		<name>Metal Slug (Original) (2.0)</name>
 		<desc>Flipper Metal Slug (Original) (2.0)</desc>
@@ -2079,5 +2063,21 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tron Light Cycle Arena.fpt</path>
+		<name>Tron Light Cycle Arena</name>
+		<desc>Flipper Tron Light Cycle Arena</desc>
+		<image>./mixart/Tron Light Cycle Arena.png</image>
+		<video>./snap/Tron Light Cycle Arena.mp4</video>
+		<marquee>./wheel/Tron Light Cycle Arena.png</marquee>
+		<rating>4</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

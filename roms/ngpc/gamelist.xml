@@ -280,20 +280,6 @@
 		<marquee>./wheel/Puzzle Link (Europe).png</marquee>
 		<video>./snap/Puzzle Link (Europe).mp4</video>
 	</game>
-	<game id="47048" source="ScreenScraper.fr">
-		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
-		<name>Samurai Shodown! 2 - Pocket Fighting Series</name>
-		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
-		<marquee>./wheel/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
-		<video>./snap/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
-	</game>
 	<game id="47049" source="ScreenScraper.fr">
 		<path>./Shanghai Mini (World) (En,Ja).zip</path>
 		<name>Shanghai Mini</name>
@@ -556,5 +542,19 @@
 		<players>2</players>
 		<lang>en,jp</lang>
 		<region>jp</region>
+	</game>
+	<game id="47048" source="ScreenScraper.fr">
+		<path>./Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).zip</path>
+		<name>Samurai Shodown! 2 - Pocket Fighting Series</name>
+		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
+		<image>./mixart/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</image>
+		<video>./snap/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).mp4</video>
+		<marquee>./wheel/Samurai Shodown! 2 - Pocket Fighting Series (World) (En,Ja).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 	</game>
 </gameList>

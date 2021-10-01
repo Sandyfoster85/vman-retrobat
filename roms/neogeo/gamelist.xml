@@ -1259,22 +1259,6 @@ It is also possible to jump on enemies or perform a sliding attack.</desc>
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./s1945p.zip</path>
-		<name>Strikers 1945 Plus</name>
-		<desc>The player chooses one of six planes or can opt for a random choice. The first four stages are in random order, while the last four are sequential. Players collect weapon powerups, bombs, and gold bars for points. Each plane has a unique "supershot" which is charged by damaging enemies and fired by holding then releasing the fire button. Supershots can be stored, although the number varies from plane to plane. Using a bomb results in a large friendly fighter swooping onto the screen and blocking shots while returning fire for a few seconds.
-
-After the player beats the final boss, the game starts again from the beginning, albeit at a much higher difficulty level. All level are similar to the ones in Strikers 1945 II. Only one of the four bosses that are randomly chosen and the sixth boss is changed.</desc>
-		<image>./mixart/s1945p.png</image>
-		<video>./snap/s1945p.mp4</video>
-		<marquee>./wheel/s1945p.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19991224T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Action-Shoot'em Up-Shoot'em up / Vertical</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./sdodgeb.zip</path>
 		<name>Super Dodge Ball</name>
 		<desc>Super Dodgeball uses the same basic gameplay used in the other games in the series with some minor differences. The game puts you in control of a team of 3 characters (with you controlling the lead character or the one with the ball at the time) that must defeat a selection of other teams in order to become the champion. This time around the teams are all formed by characters from the Nekketsu Kunio Kun universe, each representing different suburbs of Tokyo that compete in an amusement park for the ultimate title. Each character has their unique stats and special moves, which now depend on a power bar that can be charged-up by holding both attack buttons.</desc>
@@ -1372,20 +1356,6 @@ On offense you can perform short or long passes with the A and C buttons, respec
 		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
 		<genre>Action / Labyrinth-Puzzle-Game</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./kof94.zip</path>
-		<name>The King of Fighters '94</name>
-		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
-		<image>./mixart/kof94.png</image>
-		<video>./snap/kof94.mp4</video>
-		<marquee>./wheel/kof94.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19941001T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -2109,6 +2079,36 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./kof94.zip</path>
+		<name>The King of Fighters '94</name>
+		<desc>The King of Fighters '94 is notable in that it is one of the first known fighting games that pits a team of fighters against each other in single combat. Each team consists of three fighters for each player, the winner being the player who is able to eliminate the other team first. Each active character can charge up "Art of Fighting" style in order to gain access to "Desperation Moves", or "DMs" (moves which operate very much like Street Fighter's Super Combos). Playing against the computer, the player must defeat all 8 teams in the game in order to reach the final boss, Rugal Bernstein.</desc>
+		<image>./mixart/kof94.png</image>
+		<video>./snap/kof94.mp4</video>
+		<marquee>./wheel/kof94.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19941001T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./s1945p.zip</path>
+		<name>Strikers 1945 Plus</name>
+		<desc>The player chooses one of six planes or can opt for a random choice. The first four stages are in random order, while the last four are sequential. Players collect weapon powerups, bombs, and gold bars for points. Each plane has a unique "supershot" which is charged by damaging enemies and fired by holding then releasing the fire button. Supershots can be stored, although the number varies from plane to plane. Using a bomb results in a large friendly fighter swooping onto the screen and blocking shots while returning fire for a few seconds.
+
+After the player beats the final boss, the game starts again from the beginning, albeit at a much higher difficulty level. All level are similar to the ones in Strikers 1945 II. Only one of the four bosses that are randomly chosen and the sixth boss is changed.</desc>
+		<image>./mixart/s1945p.png</image>
+		<video>./snap/s1945p.mp4</video>
+		<marquee>./wheel/s1945p.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19991224T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Action-Shoot'em Up-Shoot'em up / Vertical</genre>
 		<players>2</players>
 	</game>
 </gameList>

@@ -6381,20 +6381,6 @@ What's good about the dog, you say? Well, if you tell it to, the dog will maul e
 		<marquee>./wheel/ShadowDancer_v1.2_0202.png</marquee>
 		<video>./snap/ShadowDancer_v1.2_0202.mp4</video>
 	</game>
-	<game id="92820" source="ScreenScraper.fr">
-		<path>./ShadowFighter_v1.0_AGA_0203.lha</path>
-		<name>Shadow Fighter</name>
-		<desc>Shadow Fighter was one of the few Mortal Kombat influenced beat 'em ups released for the Amiga. There are 16 fighters, each with their own home country and arena, plus Pupazz, a puppet you could repeatedly attack to practice moves. The usual sequence of best-of-3 fights is on offer, with variable difficulty and optional blood. The control system is designed around a one-button controller, but still offers 25 moves for each player, with special moves executed by spinning the joystick round 180 degrees. Each arena features multi-layer parallax, with up to 80 colors.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>NAPS Team</developer>
-		<publisher>Gremlin</publisher>
-		<players>1-2</players>
-		<hash>414D1F86</hash>
-		<image>./mixart/ShadowFighter_v1.0_AGA_0203.png</image>
-		<video>./snap/ShadowFighter_v1.0_AGA_0203.mp4</video>
-		<marquee>./wheel/ShadowFighter_v1.0_AGA_0203.png</marquee>
-	</game>
 	<game id="34108" source="ScreenScraper.fr">
 		<path>./ShadowOfTheBeast2_v1.3a_1359.lha</path>
 		<name>Shadow of the Beast II</name>
@@ -9540,18 +9526,6 @@ The plot centers around a "Sea Child" who was stolen, and Typhoon Thompson is se
 		<publisher>Origin Systems</publisher>
 	</game>
 	<game>
-		<path>./Ultima5_v1.3_0785.lha</path>
-		<name>Ultima V : Warriors of Destiny</name>
-		<desc>The Avatar, the embodiment of the Eight Virtues and the hero of Britannia, is called back to deal with a grave threat. Lord British, the country's benevolent monarch, has disappeared, and a man named Blackthorn has usurped his throne. The tyrant rules the land by enforcing the virtues upon the will of the people, corrupting their meaning in the process. His fundamentalist visions led him to create a police state, where failure to adhere to the virtues is punishable by death. Behind Blackthorn are the three Shadowlords, anti-thesis to the three principles of Truth, Love, and Courage. The Avatar must understand their meaning and origins, find a way to defeat them, rescue Lord British, and restore the former ethical principles of Britannia.</desc>
-		<image>./mixart/Ultima5_v1.3_0785.png</image>
-		<marquee>./wheel/Ultima5_v1.3_0785.png</marquee>
-		<video>./snap/Ultima5_v1.3_0785.mp4</video>
-		<rating>0</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Origin Systems</developer>
-		<publisher>Origin Systems</publisher>
-	</game>
-	<game>
 		<path>./UltimateGolf_v1.2_2129.lha</path>
 		<name>Ultimate! Golf</name>
 		<desc>The Great White Shark (Normans obligatory silly golfing nickname) has only recently been knocked off his number one spot by Nick Faldo Ã¢â¬â maybe he should practise a bit more on his own golfing sim!
@@ -10583,5 +10557,31 @@ The game does not feature any multi-ball but several play-modes and a highscore 
 		<publisher>Unique Development Studios Sweden</publisher>
 		<players>8</players>
 		<crc32>496DC7C0</crc32>
+	</game>
+	<game id="92820" source="ScreenScraper.fr">
+		<path>./ShadowFighter_v1.0_AGA_0203.lha</path>
+		<name>Shadow Fighter</name>
+		<desc>Shadow Fighter was one of the few Mortal Kombat influenced beat 'em ups released for the Amiga. There are 16 fighters, each with their own home country and arena, plus Pupazz, a puppet you could repeatedly attack to practice moves. The usual sequence of best-of-3 fights is on offer, with variable difficulty and optional blood. The control system is designed around a one-button controller, but still offers 25 moves for each player, with special moves executed by spinning the joystick round 180 degrees. Each arena features multi-layer parallax, with up to 80 colors.</desc>
+		<image>./mixart/ShadowFighter_v1.0_AGA_0203.png</image>
+		<video>./snap/ShadowFighter_v1.0_AGA_0203.mp4</video>
+		<marquee>./wheel/ShadowFighter_v1.0_AGA_0203.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>NAPS Team</developer>
+		<publisher>Gremlin</publisher>
+		<players>2</players>
+		<crc32>414D1F86</crc32>
+	</game>
+	<game>
+		<path>./Ultima5_v1.3_0785.lha</path>
+		<name>Ultima V : Warriors of Destiny</name>
+		<desc>The Avatar, the embodiment of the Eight Virtues and the hero of Britannia, is called back to deal with a grave threat. Lord British, the country's benevolent monarch, has disappeared, and a man named Blackthorn has usurped his throne. The tyrant rules the land by enforcing the virtues upon the will of the people, corrupting their meaning in the process. His fundamentalist visions led him to create a police state, where failure to adhere to the virtues is punishable by death. Behind Blackthorn are the three Shadowlords, anti-thesis to the three principles of Truth, Love, and Courage. The Avatar must understand their meaning and origins, find a way to defeat them, rescue Lord British, and restore the former ethical principles of Britannia.</desc>
+		<image>./mixart/Ultima5_v1.3_0785.png</image>
+		<video>./snap/Ultima5_v1.3_0785.mp4</video>
+		<marquee>./wheel/Ultima5_v1.3_0785.png</marquee>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Origin Systems</developer>
+		<publisher>Origin Systems</publisher>
 	</game>
 </gameList>

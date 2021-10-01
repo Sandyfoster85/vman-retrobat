@@ -434,19 +434,6 @@
 		<marquee>./wheel/Hunter X Hunter - Ishi o Tsugu Mono (Japan).png</marquee>
 		<video>./snap/Hunter X Hunter - Ishi o Tsugu Mono (Japan).mp4</video>
 	</game>
-	<game id="46260" source="ScreenScraper.fr">
-		<path>./Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip</path>
-		<name>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Bat</name>
-		<desc>Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen is a Strategy game, developed and published by Banpresto, which was released in Japan in 1999.</desc>
-		<rating>0</rating>
-		<releasedate>19990930T000000</releasedate>
-		<publisher>Banpresto</publisher>
-		<genre>Strategy</genre>
-		<players>1-2</players>
-		<image>./mixart/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</image>
-		<marquee>./wheel/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</marquee>
-		<video>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).mp4</video>
-	</game>
 	<game id="38501" source="ScreenScraper.fr">
 		<path>./Kaze no Klonoa - Moonlight Museum (Japan).zip</path>
 		<name>Kaze no Klonoa: Moonlight Museum</name>
@@ -1548,6 +1535,19 @@
 		<developer>ICCE Japan</developer>
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="46260" source="ScreenScraper.fr">
+		<path>./Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).zip</path>
+		<name>Kakutou Ryouri Densetsu Bistro Recipe - Wonder Bat</name>
+		<desc>Kakutou Ryouri Densetsu Bistro Recipe: Wonder Battle Hen is a Strategy game, developed and published by Banpresto, which was released in Japan in 1999.</desc>
+		<image>./mixart/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</image>
+		<video>./snap/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).mp4</video>
+		<marquee>./wheel/Kakutou Ryouri Densetsu Bistro Recipe - Wonder Battle Hen (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19990930T000000</releasedate>
+		<publisher>Banpresto</publisher>
+		<genre>Strategy</genre>
 		<players>2</players>
 	</game>
 </gameList>

@@ -3172,22 +3172,6 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<region>eu</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="9702" source="ScreenScraper.fr">
-		<path>./Cruis'n (USA) (En,Fr,Es).rvz</path>
-		<name>Cruis'n</name>
-		<desc>The race starts in New York's Times Square, and ends in Los Angeles's Muholland Drive. The objective of this game is to outrun seven different cars by cruising through twelve different courses, doing different kind of stunts, and using the new nitrous system. This game introduces the money system which you gain money to unlock new cars. When you start the game only four tracks and four cars where unlocked. Along the way you unlock different stages and cars by gaining money or racing in the Circuit Challenge. This game allows up to two players on the track.</desc>
-		<image>./mixart/Cruis'n (USA) (En,Fr,Es).png</image>
-		<video>./snap/Cruis'n (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Cruis'n (USA) (En,Fr,Es).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20071112T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="10075" source="ScreenScraper.fr">
 		<path>./Gradius ReBirth.wad</path>
 		<name>Gradius Rebirth</name>
@@ -3294,5 +3278,21 @@ Prepare to face daredevil jumps, crazy obstacles, and other racers in the newest
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="9702" source="ScreenScraper.fr">
+		<path>./Cruis'n (USA) (En,Fr,Es).rvz</path>
+		<name>Cruis'n</name>
+		<desc>The race starts in New York's Times Square, and ends in Los Angeles's Muholland Drive. The objective of this game is to outrun seven different cars by cruising through twelve different courses, doing different kind of stunts, and using the new nitrous system. This game introduces the money system which you gain money to unlock new cars. When you start the game only four tracks and four cars where unlocked. Along the way you unlock different stages and cars by gaining money or racing in the Circuit Challenge. This game allows up to two players on the track.</desc>
+		<image>./mixart/Cruis'n (USA) (En,Fr,Es).png</image>
+		<video>./snap/Cruis'n (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Cruis'n (USA) (En,Fr,Es).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20071112T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

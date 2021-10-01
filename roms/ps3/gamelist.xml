@@ -1645,23 +1645,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="25319" source="ScreenScraper.fr">
-		<path>./Dead Nation.m3u</path>
-		<name>Dead Nation</name>
-		<desc>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. But that’s just the start. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead. You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain!</desc>
-		<image>./mixart/Dead Nation.png</image>
-		<video>./snap/Dead Nation.mp4</video>
-		<marquee>./wheel/Dead Nation.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20101201T000000</releasedate>
-		<developer>Housemarque</developer>
-		<publisher>Sony</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./Everybody's Golf - World Tour.m3u</path>
 		<name>Everybody's Golf - World Tour</name>
@@ -1773,11 +1756,28 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<video>./snap/Tank Battles.mp4</video>
 		<marquee>./wheel/Tank Battles.png</marquee>
 		<rating>0.85</rating>
-		<genre>Action, Strategy</genre>
 		<releasedate>20090903T000000</releasedate>
 		<developer>Gameloft</developer>
 		<publisher>Gameloft</publisher>
+		<genre>Action, Strategy</genre>
 		<players>6</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="25319" source="ScreenScraper.fr">
+		<path>./Dead Nation.m3u</path>
+		<name>Dead Nation</name>
+		<desc>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. But that’s just the start. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead. You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain!</desc>
+		<image>./mixart/Dead Nation.png</image>
+		<video>./snap/Dead Nation.mp4</video>
+		<marquee>./wheel/Dead Nation.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>260</genreid>
 	</game>
 </gameList>

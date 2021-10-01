@@ -426,22 +426,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./daytona.zip</path>
-		<name>Daytona USA</name>
-		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
-		<image>./mixart/daytonat.png</image>
-		<video>./snap/daytonat.mp4</video>
-		<marquee>./wheel/daytonat.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./srallyc.zip</path>
 		<name>Sega Rally Championship</name>
 		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
@@ -488,6 +472,22 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>263</genreid>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./motoraid.zip</path>

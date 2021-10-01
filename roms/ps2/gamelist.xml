@@ -4343,23 +4343,6 @@ The story follows Liberty Coalition 2nd Lieutenant Nathan Frost, who is critical
 		<region>us</region>
 		<genreid>512</genreid>
 	</game>
-	<game id="22614" source="ScreenScraper.fr">
-		<path>./Psi-Ops - The Mindgate Conspiracy (USA).gz</path>
-		<name>Psi-Ops : The Mindgate Conspiracy</name>
-		<desc>Midway's Psi-Ops: The Mindgate Conspiracy offers a new twist on the burgeoning stealth genre by emphasizing psychic powers as a means to achieve objectives, in addition to the use of weapons and agility. Cast in the role of American Psi-Operative Nick Scryer, players must tap into their character's unique talents for telekinesis, pyrokinesis, remote viewing, mind draining, aura seeing, and mind control. In the not-so-distant future a terrorist group called the Movement, led by an elite army of psychic soldiers, has designs on world conquest.</desc>
-		<image>./mixart/Psi-Ops - The Mindgate Conspiracy (USA).png</image>
-		<video>./snap/Psi-Ops - The Mindgate Conspiracy (USA).mp4</video>
-		<marquee>./wheel/Psi-Ops - The Mindgate Conspiracy (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20040614T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>256</genreid>
-	</game>
 	<game id="22221" source="ScreenScraper.fr">
 		<path>./Psychonauts (USA).gz</path>
 		<name>Psychonauts</name>
@@ -7312,5 +7295,22 @@ There are four different modes you can compete in; Exhibition, which is a standa
 		<players>2-4</players>
 		<favorite>true</favorite>
 		<genreid>1536</genreid>
+	</game>
+	<game id="22614" source="ScreenScraper.fr">
+		<path>./Psi-Ops - The Mindgate Conspiracy (USA).gz</path>
+		<name>Psi-Ops : The Mindgate Conspiracy</name>
+		<desc>Midway's Psi-Ops: The Mindgate Conspiracy offers a new twist on the burgeoning stealth genre by emphasizing psychic powers as a means to achieve objectives, in addition to the use of weapons and agility. Cast in the role of American Psi-Operative Nick Scryer, players must tap into their character's unique talents for telekinesis, pyrokinesis, remote viewing, mind draining, aura seeing, and mind control. In the not-so-distant future a terrorist group called the Movement, led by an elite army of psychic soldiers, has designs on world conquest.</desc>
+		<image>./mixart/Psi-Ops - The Mindgate Conspiracy (USA).png</image>
+		<video>./snap/Psi-Ops - The Mindgate Conspiracy (USA).mp4</video>
+		<marquee>./wheel/Psi-Ops - The Mindgate Conspiracy (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040614T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

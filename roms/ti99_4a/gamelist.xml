@@ -22,13 +22,6 @@
 		<video>./snap/Ant-Eater.mp4</video>
 	</game>
 	<game>
-		<path>./astroftr.zip</path>
-		<name>Astro Fighter</name>
-		<image>./mixart/Astro Fighter.png</image>
-		<marquee>./wheel/Astro Fighter.png</marquee>
-		<video>./snap/Astro Fighter.mp4</video>
-	</game>
-	<game>
 		<path>./barrage.zip</path>
 		<name>Barrage</name>
 		<image>./mixart/Barrage.png</image>
@@ -358,13 +351,6 @@
 		<video>./snap/Q-Bert.mp4</video>
 	</game>
 	<game>
-		<path>./rabbit.zip</path>
-		<name>Rabbit Trail</name>
-		<image>./mixart/Rabbit Trail.png</image>
-		<marquee>./wheel/Rabbit Trail.png</marquee>
-		<video>./snap/Rabbit Trail.mp4</video>
-	</game>
-	<game>
 		<path>./retpirat.zip</path>
 		<name>Return to Pirate's Isle</name>
 		<image>./mixart/Return to Pirate's Isle.png</image>
@@ -609,19 +595,26 @@
 		<marquee>./wheel/Donkey Kong.png</marquee>
 	</game>
 	<game>
-		<path>./amazeing.zip</path>
-		<name>A-Maze-Ing</name>
-		<image>./mixart/A-Maze-Ing.png</image>
-		<video>./snap/A-Maze-Ing.mp4</video>
-		<marquee>./wheel/A-Maze-Ing.png</marquee>
-	</game>
-	<game>
 		<path>./wingwar.zip</path>
 		<name>Wing War</name>
 		<image>./mixart/Wing War.png</image>
 		<video>./snap/Wing War.mp4</video>
 		<marquee>./wheel/Wing War.png</marquee>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./crossfr.zip</path>
+		<name>Crossfire</name>
+		<image>./mixart/Crossfire.png</image>
+		<video>./snap/Crossfire.mp4</video>
+		<marquee>./wheel/Crossfire.png</marquee>
+	</game>
+	<game>
+		<path>./amazeing.zip</path>
+		<name>A-Maze-Ing</name>
+		<image>./mixart/A-Maze-Ing.png</image>
+		<video>./snap/A-Maze-Ing.mp4</video>
+		<marquee>./wheel/A-Maze-Ing.png</marquee>
 	</game>
 	<game>
 		<path>./parsec.zip</path>
@@ -634,10 +627,17 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./crossfr.zip</path>
-		<name>Crossfire</name>
-		<image>./mixart/Crossfire.png</image>
-		<video>./snap/Crossfire.mp4</video>
-		<marquee>./wheel/Crossfire.png</marquee>
+		<path>./astroftr.zip</path>
+		<name>Astro Fighter</name>
+		<image>./mixart/Astro Fighter.png</image>
+		<video>./snap/Astro Fighter.mp4</video>
+		<marquee>./wheel/Astro Fighter.png</marquee>
+	</game>
+	<game>
+		<path>./rabbit.zip</path>
+		<name>Rabbit Trail</name>
+		<image>./mixart/Rabbit Trail.png</image>
+		<video>./snap/Rabbit Trail.mp4</video>
+		<marquee>./wheel/Rabbit Trail.png</marquee>
 	</game>
 </gameList>

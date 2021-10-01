@@ -535,21 +535,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FNFSC.parrot</path>
-		<name>The Fast and the Furious SuperCars</name>
-		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/The Fast and the Furious SuperCars.png</image>
-		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
-		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./JusticeLeague.parrot</path>
 		<name>Justice League : Heroes United</name>
 		<desc>Justice League Heroes United is an arcade game based on the Justice League comic book.</desc>
@@ -660,5 +645,20 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Namco</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>The Fast and the Furious SuperCars</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

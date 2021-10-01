@@ -315,22 +315,6 @@ A player winning 10 consecutive points automatically wins the game.</desc>
 		<genre>Sports</genre>
 		<players>1-2</players>
 	</game>
-	<game id="65355" source="ScreenScraper">
-		<path>./Baltron (Japan).zip</path>
-		<name>Baltron</name>
-		<desc>In the space year of 2999, the powerful Bismark Empire has decided to launch an attack on the planet Earth. First however, they must occupy a small planet named Star Lenion so they can use it as a launching point for their main attack on the planet Earth.</desc>
-		<image>./mixart/Baltron (Japan).png</image>
-		<image />
-		<marquee>./wheel/Baltron (Japan).png</marquee>
-		<video>./snap/Baltron (Japan).mp4</video>
-		<thumbnail />
-		<rating>0.45</rating>
-		<releasedate>19860319T000000</releasedate>
-		<developer>Shouei</developer>
-		<publisher>Toei Animation</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-	</game>
 	<game id="18585" source="ScreenScraper">
 		<path>./Banana (Japan) (Translated En).zip</path>
 		<name>Banana</name>
@@ -6397,5 +6381,19 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
 		<marquee>./wheel/Splatterhouse - Wanpaku Graffiti (Japan) (Translated En).png</marquee>
 		<rating>0</rating>
 		<releasedate>01010101T000000</releasedate>
+	</game>
+	<game id="65355" source="ScreenScraper">
+		<path>./Baltron (Japan).zip</path>
+		<name>Baltron</name>
+		<desc>In the space year of 2999, the powerful Bismark Empire has decided to launch an attack on the planet Earth. First however, they must occupy a small planet named Star Lenion so they can use it as a launching point for their main attack on the planet Earth.</desc>
+		<image>./mixart/Baltron (Japan).png</image>
+		<video>./snap/Baltron (Japan).mp4</video>
+		<marquee>./wheel/Baltron (Japan).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19860319T000000</releasedate>
+		<developer>Shouei</developer>
+		<publisher>Toei Animation</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
 	</game>
 </gameList>

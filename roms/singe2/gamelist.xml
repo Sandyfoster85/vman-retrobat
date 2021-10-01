@@ -66,21 +66,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cliff Hanger HD.cmd</path>
-		<name>Cliff Hanger HD</name>
-		<desc>The classic 1983 Stern game in HD with 2 additional levels.</desc>
-		<image>./mixart/Cliff Hanger HD.png</image>
-		<video>./content/Cliff/Movie/menu-attract.mp4</video>
-		<marquee>./wheel/Cliff Hanger HD.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Karis</developer>
-		<publisher>Stern</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Conan.cmd</path>
 		<name>Conan il ragazzo del futuro</name>
 		<desc>After the world is nearly destroyed by a war, a young boy and his friends must fight to save the world from those who seek to conquer what is left of civilization.</desc>
@@ -459,6 +444,21 @@
 		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cliff Hanger HD.cmd</path>
+		<name>Cliff Hanger HD</name>
+		<desc>The classic 1983 Stern game in HD with 2 additional levels.</desc>
+		<image>./mixart/Cliff Hanger HD.png</image>
+		<video>./content/Cliff/Movie/menu-attract.mp4</video>
+		<marquee>./wheel/Cliff Hanger HD.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Karis</developer>
+		<publisher>Stern</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

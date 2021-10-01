@@ -9677,18 +9677,6 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 		<video>./snap/Metroid Super Zero Mission.mp4</video>
 		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
 	</game>
-	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="2560" source="ScreenScraper.fr">
 		<path>./A.S.P. - Air Strike Patrol (USA).7z</path>
 		<name>A.S.P. : Air Strike Patrol</name>
@@ -9755,25 +9743,6 @@ You can change receivers on the fly, throw maddening blitz plays at the QB, and 
 		<publisher>Sun Corporation of America</publisher>
 		<genre>Educational</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./ActRaiser (USA).7z</path>
-		<name>ActRaiser</name>
-		<desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil. 
-
-First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. 
-
-As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.</desc>
-		<image>./mixart/ActRaiser (USA).png</image>
-		<video>./snap/ActRaiser (USA).mp4</video>
-		<marquee>./wheel/ActRaiser (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911102T000000</releasedate>
-		<developer>Quintet</developer>
-		<publisher>Enix</publisher>
-		<genre>Simulation</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -11245,28 +11214,6 @@ As Gomez, you must tour the Addams mansion in search of your lost family, battli
 		<developer>Ocean</developer>
 		<publisher>Ocean</publisher>
 		<genre>Platform-Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="2194" source="ScreenScraper.fr">
-		<path>./Adventures of Batman &amp; Robin, The (USA).7z</path>
-		<name>The Adventures of Batman &amp; Robin</name>
-		<desc>Konami's game based on the 90s animated series starring the Caped Crusader sends him against his most famous enemies in a platforming/beat'em'up title.
-
-Each of the game's eight levels (or episodes) sends Batman against one particular villain. Most levels present Batman with a large number of henchmen to take out and environmental dangers to avoid on his way to one or more boss battles, but some deviate from the norm. For instance, Catwoman's stage is a large chase over Gotham City's rooftops with no enemies besides Catwoman herself. In the Penguin's level, Batman must navigate the dark corridors of Gotham City's museum, rescuing the staff. Two-Face's level is a driving sequence, seen from a top-down perspective.
-
-Besides kicks, throws and punches, Batman can use a variety of equipment against the enemies. Always available are Batarangs and the grappling hook. Before each mission, Batman can also select additional equipment, like knockout gas spray, throwing stars, smoke bombs and plastic explosives, all with limited ammunition. Special equipment required for certain levels include a flashlight, gas mask and X-ray goggles. If some necessary equipment is missing, it is always possible to return to the Batcave to change the gear and then restart the current level.
-
-Many of the situations and environments of the levels are based on episodes from the series and the game's graphics emulate the animation and drawing style of the show.</desc>
-		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
-		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
-		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19941201T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up-Platform-Action</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -14113,5 +14060,58 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./ActRaiser (USA).7z</path>
+		<name>ActRaiser</name>
+		<desc>ActRaiser was one of the early SNES games, drawing upon the success of side-scrolling platform action titles and the building model of Sim City. You play "The Master" (essentially God), and must save the world from evil. 
+
+First you purge the land by sending your spirit into a warrior with a big sword and magic powers. This side scrolling portion puts you in many different locales, from swamps and forests, to pyramids and snowy mountaintops. 
+
+As you eliminate evil from different parts of the land, you allow villagers to return and build their towns. You then control an angel who helps guide the villagers in their town building, and can send down miracles to aid them in their needs.</desc>
+		<image>./mixart/ActRaiser (USA).png</image>
+		<video>./snap/ActRaiser (USA).mp4</video>
+		<marquee>./wheel/ActRaiser (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911102T000000</releasedate>
+		<developer>Quintet</developer>
+		<publisher>Enix</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="2194" source="ScreenScraper.fr">
+		<path>./Adventures of Batman &amp; Robin, The (USA).7z</path>
+		<name>The Adventures of Batman &amp; Robin</name>
+		<desc>Konami's game based on the 90s animated series starring the Caped Crusader sends him against his most famous enemies in a platforming/beat'em'up title.
+
+Each of the game's eight levels (or episodes) sends Batman against one particular villain. Most levels present Batman with a large number of henchmen to take out and environmental dangers to avoid on his way to one or more boss battles, but some deviate from the norm. For instance, Catwoman's stage is a large chase over Gotham City's rooftops with no enemies besides Catwoman herself. In the Penguin's level, Batman must navigate the dark corridors of Gotham City's museum, rescuing the staff. Two-Face's level is a driving sequence, seen from a top-down perspective.
+
+Besides kicks, throws and punches, Batman can use a variety of equipment against the enemies. Always available are Batarangs and the grappling hook. Before each mission, Batman can also select additional equipment, like knockout gas spray, throwing stars, smoke bombs and plastic explosives, all with limited ammunition. Special equipment required for certain levels include a flashlight, gas mask and X-ray goggles. If some necessary equipment is missing, it is always possible to return to the Batcave to change the gear and then restart the current level.
+
+Many of the situations and environments of the levels are based on episodes from the series and the game's graphics emulate the animation and drawing style of the show.</desc>
+		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
+		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
+		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up-Platform-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
