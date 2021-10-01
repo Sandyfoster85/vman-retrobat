@@ -652,22 +652,6 @@ In the Xbox version, additional game modes, such as Storming the Mothership and 
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./mutnat.zip</path>
-		<name>Mutation Nation</name>
-		<desc>The Slum... an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town.
-
-Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</desc>
-		<image>./mixart/mutnat.png</image>
-		<video>./snap/mutnat.mp4</video>
-		<marquee>./wheel/mutnat.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Beat'em Up-Fight / 2.5D-Fight-Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./nam1975.zip</path>
 		<name>NAM-1975</name>
 		<desc>As a soldier, you and/or a friend must travel through Vietnam to stop the scientist and his world destroying laser machine. In the game, you must shoot enemy soldiers, tanks, helicopters, jeeps, and more by aiming the machine gun cursor and shooting at them. Within each location, you can pick up more powerful weapons such as machine guns and flame throwers, but these have a limited supply of ammunition. Pressing down on the joystick while running at the same time will cause your character to perform a somersault and be invincible for a second. At the end of every location, you will need to defeat a series of bosses, which are not the same every play. Cut-scenes are viewed in between locations, and contain dramatic digitized dialogue.</desc>
@@ -680,20 +664,6 @@ Mutation Nation is a 1-2 player action game where you must control your hero and
 		<publisher>SNK</publisher>
 		<genre>Action-Sports-Shoot'em Up-Shooter-Shooter / 3rd person</genre>
 		<players>1-2</players>
-	</game>
-	<game>
-		<path>./neobombe.zip</path>
-		<name>Neo Bomberman</name>
-		<desc>As Bomberman, you must kill all the enemies in the level before proceeding to the next. To do this, you clear a path of blocks by setting bombs that will detonate a few seconds later, and then use the bombs to wipe out enemies. Some blocks will uncover power-ups, and depending on which ones you collect, you will receive more bombs, more lives, more time, manual bomb detonation, expanded blast zone, and the ability to move faster. In some levels some blocks will reveal eggs that you can hatch to produce a bird that you can ride on and allows you to take an additional hit from an enemy or bomb blast without losing a life.</desc>
-		<image>./mixart/neobombe.png</image>
-		<video>./snap/neobombe.mp4</video>
-		<marquee>./wheel/neobombe.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>1-4</players>
 	</game>
 	<game>
 		<path>./neomrdo.zip</path>
@@ -767,22 +737,6 @@ There are five stages with five levels each, and each one of them has you throwi
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Beat'em Up-Fight-Fight / 2.5D-Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./ncommand.zip</path>
-		<name>Ninja Commando</name>
-		<desc>The Mars Corporation has caused a problem in the time continuum, and it's up to the Ninja Commandos to go after Spider, leader of the MC, and stop his evil work.
-
-As one of three Ninja Commandos, you must fight your opponents through different time periods, such as The Primitive Age, The Egyptian Era, and the Japanese Civil War Era. Each of the Ninja Commandos have their own specific style of attack and a special "ninja trick" super power. Boxes and other storage units can be broken to reveal power-ups that upgrade your weapons. The bosses are super-powered historical figures and include a dinosaur, a medieval samurai, an Egyptian pharaoh, etc. Cut-scenes occur between the different time periods.</desc>
-		<image>./mixart/ncommand.png</image>
-		<video>./snap/ncommand.mp4</video>
-		<marquee>./wheel/ncommand.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Beat'em Up-Shoot'em Up-Shooter-Shooter / Run and Shoot-Action</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -2036,23 +1990,6 @@ The PlayStation port introduces some extra features: there is a combat school wh
 		<players>2</players>
 	</game>
 	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers - 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
-
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
-		<image>./mixart/shocktr2.png</image>
-		<video>./snap/shocktr2.mp4</video>
-		<marquee>./wheel/shocktr2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./mslugx.zip</path>
 		<name>Metal Slug X - Super Vehicle-001</name>
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
@@ -2110,5 +2047,68 @@ After the player beats the final boss, the game starts again from the beginning,
 		<publisher>Psikyo</publisher>
 		<genre>Action-Shoot'em Up-Shoot'em up / Vertical</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./mutnat.zip</path>
+		<name>Mutation Nation</name>
+		<desc>The Slum... an area of town completely forgotten. No one could imagine the cruelness suffered by innocent people who were transformed into horrible mutant creatures by genetic experiments. They hovered everywhere and completely took control of the town.
+
+Mutation Nation is a 1-2 player action game where you must control your hero and beat up any mutant that gets in your way, by either using your fists or one of four special attacks. A boss at the end of each area needs to be defeated if you want to proceed further through the game.</desc>
+		<image>./mixart/mutnat.png</image>
+		<video>./snap/mutnat.mp4</video>
+		<marquee>./wheel/mutnat.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em Up-Fight / 2.5D-Fight-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./ncommand.zip</path>
+		<name>Ninja Commando</name>
+		<desc>The Mars Corporation has caused a problem in the time continuum, and it's up to the Ninja Commandos to go after Spider, leader of the MC, and stop his evil work.
+
+As one of three Ninja Commandos, you must fight your opponents through different time periods, such as The Primitive Age, The Egyptian Era, and the Japanese Civil War Era. Each of the Ninja Commandos have their own specific style of attack and a special "ninja trick" super power. Boxes and other storage units can be broken to reveal power-ups that upgrade your weapons. The bosses are super-powered historical figures and include a dinosaur, a medieval samurai, an Egyptian pharaoh, etc. Cut-scenes occur between the different time periods.</desc>
+		<image>./mixart/ncommand.png</image>
+		<video>./snap/ncommand.mp4</video>
+		<marquee>./wheel/ncommand.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em Up-Shoot'em Up-Shooter-Shooter / Run and Shoot-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./neobombe.zip</path>
+		<name>Neo Bomberman</name>
+		<desc>As Bomberman, you must kill all the enemies in the level before proceeding to the next. To do this, you clear a path of blocks by setting bombs that will detonate a few seconds later, and then use the bombs to wipe out enemies. Some blocks will uncover power-ups, and depending on which ones you collect, you will receive more bombs, more lives, more time, manual bomb detonation, expanded blast zone, and the ability to move faster. In some levels some blocks will reveal eggs that you can hatch to produce a bird that you can ride on and allows you to take an additional hit from an enemy or bomb blast without losing a life.</desc>
+		<image>./mixart/neobombe.png</image>
+		<video>./snap/neobombe.mp4</video>
+		<marquee>./wheel/neobombe.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
+		<image>./mixart/shocktr2.png</image>
+		<video>./snap/shocktr2.mp4</video>
+		<marquee>./wheel/shocktr2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -4623,23 +4623,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<genre>Race, Driving</genre>
 		<players>1</players>
 	</game>
-	<game>
-		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
-		<name>Dead or Alive 2 Limited Edition</name>
-		<desc>Limited Edition - The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
-		<image>./mixart/Dead or Alive 2 - Limited Edition (Japan).png</image>
-		<video>./snap/Dead or Alive 2 - Limited Edition (Japan).mp4</video>
-		<marquee>./wheel/Dead or Alive 2 - Limited Edition (Japan).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000229T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
 	<game id="13629" source="ScreenScraper.fr">
 		<path>./F1 World Grand Prix II for Dreamcast (Europe).chd</path>
 		<name>F1 World Grand Prix 2</name>
@@ -4653,25 +4636,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<publisher>Konami</publisher>
 		<genre>Race, Driving-Simulation</genre>
 		<players>2-4</players>
-	</game>
-	<game>
-		<path>./San Francisco Rush 2049 (USA).chd</path>
-		<name>San Francisco RUSH 2049</name>
-		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible.  Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts.  Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/San Francisco Rush 2049 (USA).png</image>
-		<video>./snap/San Francisco Rush 2049 (USA).mp4</video>
-		<marquee>./wheel/San Francisco Rush 2049 (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000922T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="13593" source="ScreenScraper.fr">
 		<path>./Soul Fighter (USA).chd</path>
@@ -4778,5 +4742,41 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<genre>Pinball-Action</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
+		<name>Dead or Alive 2 Limited Edition</name>
+		<desc>Limited Edition - The arcade conversion adds an improved tag feature, with new stadiums to fight in, new character moves to play with, and plenty of windows, walls and ledges to fall over and crash through. Unlike Tekken Tag Tournament, however, DOA2 also includes a single player mode, a dodge button (allowing you to move left and right away from attacks), and multi-level arenas.</desc>
+		<image>./mixart/Dead or Alive 2 - Limited Edition (Japan).png</image>
+		<video>./snap/Dead or Alive 2 - Limited Edition (Japan).mp4</video>
+		<marquee>./wheel/Dead or Alive 2 - Limited Edition (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000229T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./San Francisco Rush 2049 (USA).chd</path>
+		<name>San Francisco RUSH 2049</name>
+		<desc>Unlike the previous San Francisco Rush titles, this racing game is set in the future. The same rules apply though, get to the finish before everyone else while avoiding massive crashes and taking as many shortcuts as possible.  Along with the usual race style, you now have the ability to fly, allowing you even more speed, stunts and shortcuts to the finish line. While the tracks themselves include moving ramps and switches to other shortcuts.  Modes include time trials, stunt mode including unique track designs to get the most out of your stunts, and a four player 'Battlematch' mode that adds weapons to the action.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/San Francisco Rush 2049 (USA).png</image>
+		<video>./snap/San Francisco Rush 2049 (USA).mp4</video>
+		<marquee>./wheel/San Francisco Rush 2049 (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000922T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

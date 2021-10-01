@@ -28540,23 +28540,6 @@ Now get to the action and DROP THAT PUCK!</desc>
 		<region>us</region>
 	</game>
 	<game>
-		<path>./hyperpac.zip</path>
-		<name>Hyper Pacman</name>
-		<desc>This is an updated version of Namco's seminal "Pac-Man", featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be found on each level that increases the player's power and score. The power-ups themselves consist of a shield, helmet lasers, speed and jump shoes. Players will face a boss encounter every ten stages and the game ends after the 30th stage.</desc>
-		<image>./mixart/hyperpac.png</image>
-		<video>./snap/hyperpac.mp4</video>
-		<marquee>./wheel/hyperpac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SemiCom</developer>
-		<publisher>SemiCom</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./martmast.zip</path>
 		<name>Martial Masters</name>
 		<desc>At the end of the Qin's Dynasty, the government weakened by corruption was attacked by foreign influences.
@@ -47283,30 +47266,6 @@ At the end of each stage bonus points are awarded based on how quickly the stage
 		<region>us</region>
 	</game>
 	<game>
-		<path>./mrdo.zip</path>
-		<name>Mr. Do!</name>
-		<desc>Mr. Do! is a colourful and addictive maze game in which the player takes on the role of the eponymous Mr. Do, a circus clown, who must clear each level of either cherries or monsters. The game's single screen levels are made up of tunnels surrounded by a colourful, soil-like substance. This soil can be dug through to create new tunnels, allowing Mr. Do to escape his enemies and to reach the many cherries that litter the levels. A number of apples are also scattered around each level, and Mr. Do can push them along tunnels (to block and/or kill monsters) or can tunnel beneath them to drop them onto the heads of any pursuing enemies. Mr. Do himself can also be killed by a falling apple.
-
-Mr. Do is armed with a 'Powerball' that can be fired down a tunnel, it will then bounce around the tunnels until it either returns to Mr. Do, or comes into contact with, and kills, one of the level's monsters. The Powerball regenerates immediately the first time you use it, but takes longer each time it is used to return to your hands. As each level progresses, the monsters themselves start to dig tunnels of their own in their pursuit of Mr. Do. Monsters can also push the apples.
-
-Each screen has a doorway through which the monsters enter the level. Once all of the monsters have appeared, the doorway will turn into a 'prize', (ice cream, biscuits, etc.). If Mr. Do collects the prize, the 'Alphamonster' and his three 'Muncher' henchmen will appear. The Alphamonster may be in the EXTRA box at the top of the screen or be moving around the screen. The Alphamonster and the Munchers cannot be easily crushed under apples because they tend to eat them. They can be killed individually with the Powerball or by killing the Alphamonster itself, at which point any remaining Munchers will turn into apples.
-
-After every three levels, there is a brief intermission in which a tune is played and a large, animated Mr. Do appears, together with some of the game's monsters. The time to complete each level and the preferred method (monsters, cherries, Alphamonsters, or Diamond) is shown. The paths in the first level resemble a 'D', after this each level's tunnels resemble a digit, ('2', '3', '4' etc.) up to '0' for level 10.
-
-A level can be completed any one of several different ways: either by collecting all of the on-screen cherries; by killing all of the monsters, by completing the EXTRA box, or by collecting the diamond. The latter appears only very occasionally ('Special' awards an extra credit).</desc>
-		<image>./mixart/mrdo.png</image>
-		<video>./snap/mrdo.mp4</video>
-		<marquee>./wheel/mrdo.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Universal</developer>
-		<publisher>Universal</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./mrdrillr.zip</path>
 		<name>Mr. Driller</name>
 		<desc>A highly addictive puzzle game in which the player must drill down through an endless onslaught of blocks, attempting to get blocks of the same colour to touch and subsequently make them disappear. 'Undergrounder' bonuses can be picked up for bonus points and air capsules must be collected to restore the player's ever-diminishing air supply.</desc>
@@ -56430,26 +56389,6 @@ Super Turbo introduced several new play mechanics to the game system from the pr
 		<region>us</region>
 	</game>
 	<game>
-		<path>./ssf2xj.zip</path>
-		<name>Super Street Fighter II X: Grand Master Challenge</name>
-		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
-
-Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/ssf2xj.png</image>
-		<video>./snap/ssf2t.mp4</video>
-		<marquee>./wheel/ssf2xj.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
 		<path>./ssi.zip</path>
 		<name>Super Space Invaders '91</name>
 		<desc>Export versionof "Majestic Twelve - The Space Invaders Part IV".
@@ -56596,24 +56535,6 @@ Another major difference to the previous games in the series is that if an invad
 		<publisher>Tecmo</publisher>
 		<genre>Sports-Sports / Sumo</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./ssprint.zip</path>
-		<name>Super Sprint</name>
-		<desc>Like "Championship Sprint", released the same year, Super Sprint is an updated version of the old Atari Sprint series; with added the ability to allow players to upgrade their vehicles as the game progresses. Upgrades are won by collecting wrenches that appear once per track. After a player has collected four wrenches, they will be presented with an upgrade screen; giving them the opportunity to choose better traction, increased top speed, faster acceleration, or a faster helicopter. The only discernible difference between this and "Championship Sprint" is the addition of brand new tracks.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/ssprint.png</image>
-		<video>./snap/ssprint.mp4</video>
-		<marquee>./wheel/ssprint.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<players>3</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -63780,39 +63701,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4001&am
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37326">
-		<path>./dfkbl.zip</path>
-		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
-		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
-Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
-Ships can now fire both laser and shot simultaneously.
-Score counter's number letter sizes increase every 5th digit for easier viewing
-Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
-Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
-Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
-Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
-The bee bonus items in the stages function differently.
-Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
-Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
-All the music has been replaced.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/dfkbl.png</image>
-		<video>./snap/dfkbl.mp4</video>
-		<marquee>./wheel/dfkbl.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>DonPachi</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="58787">
 		<path>./ffreveng.zip</path>
 		<name>Final Fight Revenge</name>
@@ -64458,27 +64346,6 @@ Trophy Hunting is a 2-player head-to-head big game competition. The players can 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="44002">
-		<path>./vsnetscr.zip</path>
-		<name>Versus Net Soccer</name>
-		<desc>28 different national teams are selectable in this soccer game. You can select from two 3-D views: half-top view or side view. When two monitors are used, one screen can be in half-top and the other in side view during the game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/vsnetscr.png</image>
-		<video>./snap/vsnetscr.mp4</video>
-		<marquee>./wheel/vsnetscr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Soccer</genre>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>c527df335b156f264bec21fa3d65440e</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="44009" source="ScreenScraper.fr">
 		<path>./vstennis.zip</path>
 		<name>Vs. Tennis</name>
@@ -64793,28 +64660,6 @@ The main characters in this version are 'Hiro', 'Kiniro', 'Palm' and 'Reco'.</de
 		<players>4</players>
 		<favorite>true</favorite>
 		<md5>082a034e72f94d614fba760ea8648cde</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="78949">
-		<path>./mk4.zip</path>
-		<name>Mortal Kombat 4</name>
-		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/mk4.png</image>
-		<video>./snap/mk4.mp4</video>
-		<marquee>./wheel/mk4.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Mortal Kombat</family>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>f07469f7979d3faf74844064248ba73c</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -65919,26 +65764,6 @@ It has a selection of Japanese cars, mountain passes and their tracks. As usual 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="43077">
-		<path>./sidebsja.zip</path>
-		<name>Side By Side</name>
-		<desc>Side by Side is a racing game based on the popular Asian sports tour, where Japanese racers race through narrow mountain passes. It has a selection of Japanese cars, mountain passes and their tracks. As usual in this type of game, additional cars and tracks can be unlocked by winning races.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sidebsja.png</image>
-		<video>./snap/sidebsja.mp4</video>
-		<marquee>./wheel/sidebsja.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>1</players>
-		<md5>e177f52f6ac0c88e078f5247018626b4</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./nbagold.zip</path>
 		<name>SportStation: NBA Showtime NBA on NBC Gold Edition  / NFL Blitz 2000 Gold Edition</name>
@@ -67001,102 +66826,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&am
 		<region>us</region>
 	</game>
 	<game>
-		<path>./mace.zip</path>
-		<name>Mace: The Dark Age</name>
-		<desc>Arcade Video game published 25 years ago:
-
-Mace - The Dark Age (c) 1996 Atari Games Corp.
-
-1-on-1 3-D fighting game. The best fighters from around a mediaeval type planet are gathered and dispatched on a quest to recover the mysterious Mace of Tanis from a dark magician called Asmodeus.
-
-- TECHNICAL -
-
-Atari Seattle hardware
-
-Main CPU: R5000 (@ 150 Mhz)
-Sound CPU: ADSP2115 (@ 16 Mhz)
-Sound Chips: (2x) DMA-driven (@ 16 Mhz)
-
-Players: 4
-Control: 8-way joystick
-Buttons: 4
-
-- TRIVIA -
-
-Mace The Dark Age was released in October 1996 in USA.
-
-- TIPS AND TRICKS -
-
-* Play as Grendal: Starting in 2-player mode, one player must have 3 wins. Then on your next match in the select screen go to the Executioner and hold down START+EVADE. Grendal will appear. Continue to hold down those buttons and press an attack button to select. Now you control the RAGE known as Grendal!
-
-* Pojo Code: To be POJO, you must perform TARIA's execution in 1-player mode (and then continuing) or in 2-player mode. Then on your next match in the select screen, go to Taria and hold down START+EVADE. POJO will appear - press an attack button to select. Pojo will now unleash her awesome fighting prowess for you.
-
-* Stage Codes: To unlock each secret, move to each character listed and press Start after each one, then go to your desired character and select as usual. All of these secrets are for two-player mode except for the Random A.I.
-Battle in a Mini Golf Course (Koyasha, Mordos Kull, Takeshi)
-Battle at Machu Pichu (Namira, Koyasha, Taria)
-Battle in the Castle (Mordos Kull, Taria, Ragnar)
-Battle in San Francisco Rush (Xiao Long, Al' Rashid, Koyasha)
-Battle in Big Head Mode (Ragnar, Al' Rashid, Takeshi)
-Battle in Micronaut Mode (Takeshi, Al' Rashid, Ragnar, Xiao Long)
-Battle in Super Speed Grid Mode (Ichiro, Xiao Long, Koyasha)
-Battle the Random A.I. (Hell Knight, Xiao Long, Dregan, Namira)
-To select a particular stage in which to fight, go to the character's portrait in player select and press START four times. Then select your character as usual.
-
-* Cool View For Mordos Kull's Execution: Do a Execution on Taria's Stage in the Water. You get to see an overview of the execution and the person's body will come flying towards you.
-
-- STAFF -
-
-Lead programmer: Bruce Rogers
-Programmer: Roberto Rodriguez
-Art Director: Matt Harvey
-Character Models: Jeremy Mattson
-Character Textures: Patrice Moriarity, Matt Harvey
-Animators: Takeshi hasegawa, Steve Stacy
-Backgrounds: Matt Harvey, Bob Ingold
-Support Programming: Steven Bennetts
-Producer: Robert Daly
-Associate Producer: Loren Bryant
-Marketing Manager: Derryl Depriest
-Audio: Richard Marriott
-Technician: Dennis Nale
-Game Design: Roberto Rodriguez, Loren Bryant
-Lead Tester: Rob Reininger
-Testers: Larry Cadelina, Jerry Cruz
-Support Programmers: Dave Shepperd, Mike Albaugh, Mike Lynch, Todd Modjewski
-Hardware Design: Steve Correll, Andrew Dyer, Ross Shaffer, Ray Macika, Chris Krubel, 3dfx Interactive
-Hardware Support: Steve Norris, Don Thomas, Jeff Peters, Pat Cox, Scott Parrish
-DCS2 Audio: Matt Booty, Ed Keenan
-Sr. Engineering Tech.: Patrick Hubbell
-Additional Techinicians: Mark Hoendervoogt, Minh Nguyen, Pete Mokris
-Mechanical Engineers: Pete Takaichi, Mark Gruber, Ralph Perez, Ted Valavanis, Tom Sedor, Chris Bobrowski
-Cabinet Design: Matt Harvey, Nik Erlich, Jen Smith
-Marketing: Derryl DePriest, Mary Fujihara, Ray Bersabe, Randall Ng, Jackie Sherman
-Video Production: Greg Allen, Brent Englund
-Executive Producer: Mark Stephen Pierce
-
-- PORTS -
-
-* CONSOLES:
-Nintendo 64 (1997)
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1425&amp;o=2</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/mace.png</image>
-		<video>./snap/mace.mp4</video>
-		<marquee>./wheel/mace.png</marquee>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Atari Games</developer>
-		<publisher>Atari Games</publisher>
-		<genre>Fighter / Versus</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./mag_day.zip</path>
 		<name>A Day In Space</name>
 		<desc>Magnet System disk. published 34 years ago:
@@ -67472,28 +67201,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3800&am
 		<genre>Shooter / Flying Vertical</genre>
 		<players>4</players>
 		<md5>b86ebb5f2ebf8be1739574610a6e837e</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="60823">
-		<path>./offroadc.zip</path>
-		<name>Off Road Challenge</name>
-		<desc>Off Road Challenge is an off-road truck racing game. The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way. Gold picked up on the course or earned from racing can be used to upgrade the vehicle. Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/offroadc.png</image>
-		<video>./snap/offroadc.mp4</video>
-		<marquee>./wheel/offroadc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Off Road</family>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>3a0e2b21bb7c405a3861ea44d8bb8aa4</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -69417,27 +69124,6 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<region>us</region>
 	</game>
 	<game>
-		<path>./dmnfrnt.zip</path>
-		<name>Demon Front</name>
-		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
-
-20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
-
-A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
-		<image>./mixart/dmnfrnt.png</image>
-		<video>./snap/dmnfrnt.mp4</video>
-		<marquee>./wheel/dmnfrnt.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>IGS Corp.</developer>
-		<publisher>IGS</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./kinst.zip</path>
 		<name>Killer Instinct</name>
 		<desc>10 genetically engineered fighters engage in 1-on-1 combat in a tournament arranged by the sinister 'Ultratech', the organization behind the genetic creation of the fighters. The tournament soon turns into a battle for survival.    Each player starts the game with 2 energy bars, which represent the amount of health each player has for the entire game. Once the first bar is depleted, the player falls, gets up and starts to use the second energy bar. A voice will subsequently announce either 'Round Two' or 'Killer Instinct!'. The player who wins the first round gets to keep their remaining energy, and still has the second bar to use in future fights. This gives an advantage to the player who wins the first round.    Killer Instinct introduced incredibly complex combos to the fighting genre, as well as including the Fatalities and Humiliations made famous by Midway's "Mortal Kombat" Series.</desc>
@@ -69476,25 +69162,6 @@ It has all the standard features of such a title: passing a checkpoint adds more
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>51dd7f28555ca75313359a300fd73f3b</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./kinst2.zip</path>
-		<name>Killer Instinct 2</name>
-		<desc>A great sequel of the previous game include new features and new characters.     The plot follows on where the first installment left off. Eyedol's death at the hands of Orchid accidentally sets off a time warp, transporting some of the combatants back in time and allowing the Demon Lord Gargos to escape from Limbo.    Now, trapped 2000 years in the past, the warriors that survived Killer Instinct, along with several new faces, fight for the right to face Gargos in combat. Each character that survived the journey from the first game has a corresponding background story, while new characters on this installment are native inhabitants of this past time period. Some fighters, like T.J. Combo who survives from the original, just want to get home. Others, like new character Tusk, want to bring an end to Gargos and his reign of evil. This time there is no tournament or prize money, just a fight to the finish with the fate of the future hanging in the balance.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/kinst2.png</image>
-		<video>./snap/kinst2.mp4</video>
-		<marquee>./wheel/kinst2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Rare, Ltd.</developer>
-		<publisher>Rare, Ltd.</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -69665,6 +69332,238 @@ The game consists of eight stages, each with a boss fight at the end, and after 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="37326">
+		<path>./dfkbl.zip</path>
+		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
+		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
+Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
+Ships can now fire both laser and shot simultaneously.
+Score counter's number letter sizes increase every 5th digit for easier viewing
+Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
+Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
+Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
+Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
+The bee bonus items in the stages function differently.
+Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
+Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
+All the music has been replaced.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/dfkbl.png</image>
+		<video>./snap/dfkbl.mp4</video>
+		<marquee>./wheel/dfkbl.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./dmnfrnt.zip</path>
+		<name>Demon Front</name>
+		<desc>Demon Front is a platform run 'n' Gun game for up to four players (two simultaneously) that is very reminscent of SNK's "Metal Slug" series, although there are significant additions to the gameplay. 
+
+20 light years from Earth lies the planet of Andres, a peaceful and civilised place. In the year A.C. 2016 Andres experienced a solar eclipse that lasted for over three months. All living creatures were exposed to a strange, dark red light and many began to mutate in both appearance and character. Few inhabitants would survive the torture inflicted by these crazed mutants. 
+
+A lucky few escaped and lived in exile. Four of the survivers decided to join forces, to fight back and overthrow the evil that dominates the planet.</desc>
+		<image>./mixart/dmnfrnt.png</image>
+		<video>./snap/dmnfrnt.mp4</video>
+		<marquee>./wheel/dmnfrnt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>IGS Corp.</developer>
+		<publisher>IGS</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./hyperpac.zip</path>
+		<name>Hyper Pacman</name>
+		<desc>This is an updated version of Namco's seminal "Pac-Man", featuring forced-perspective 3-D graphics that allow the players to jump over the enemy ghosts; in a similar fashion to Namco's "Pac-Mania", released in 1987. There are secret items and food to be found on each level that increases the player's power and score. The power-ups themselves consist of a shield, helmet lasers, speed and jump shoes. Players will face a boss encounter every ten stages and the game ends after the 30th stage.</desc>
+		<image>./mixart/hyperpac.png</image>
+		<video>./snap/hyperpac.mp4</video>
+		<marquee>./wheel/hyperpac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./kinst2.zip</path>
+		<name>Killer Instinct 2</name>
+		<desc>A great sequel of the previous game include new features and new characters.     The plot follows on where the first installment left off. Eyedol's death at the hands of Orchid accidentally sets off a time warp, transporting some of the combatants back in time and allowing the Demon Lord Gargos to escape from Limbo.    Now, trapped 2000 years in the past, the warriors that survived Killer Instinct, along with several new faces, fight for the right to face Gargos in combat. Each character that survived the journey from the first game has a corresponding background story, while new characters on this installment are native inhabitants of this past time period. Some fighters, like T.J. Combo who survives from the original, just want to get home. Others, like new character Tusk, want to bring an end to Gargos and his reign of evil. This time there is no tournament or prize money, just a fight to the finish with the fate of the future hanging in the balance.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/kinst2.png</image>
+		<video>./snap/kinst2.mp4</video>
+		<marquee>./wheel/kinst2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Rare, Ltd.</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mace.zip</path>
+		<name>Mace: The Dark Age</name>
+		<desc>Arcade Video game published 25 years ago:
+
+Mace - The Dark Age (c) 1996 Atari Games Corp.
+
+1-on-1 3-D fighting game. The best fighters from around a mediaeval type planet are gathered and dispatched on a quest to recover the mysterious Mace of Tanis from a dark magician called Asmodeus.
+
+- TECHNICAL -
+
+Atari Seattle hardware
+
+Main CPU: R5000 (@ 150 Mhz)
+Sound CPU: ADSP2115 (@ 16 Mhz)
+Sound Chips: (2x) DMA-driven (@ 16 Mhz)
+
+Players: 4
+Control: 8-way joystick
+Buttons: 4
+
+- TRIVIA -
+
+Mace The Dark Age was released in October 1996 in USA.
+
+- TIPS AND TRICKS -
+
+* Play as Grendal: Starting in 2-player mode, one player must have 3 wins. Then on your next match in the select screen go to the Executioner and hold down START+EVADE. Grendal will appear. Continue to hold down those buttons and press an attack button to select. Now you control the RAGE known as Grendal!
+
+* Pojo Code: To be POJO, you must perform TARIA's execution in 1-player mode (and then continuing) or in 2-player mode. Then on your next match in the select screen, go to Taria and hold down START+EVADE. POJO will appear - press an attack button to select. Pojo will now unleash her awesome fighting prowess for you.
+
+* Stage Codes: To unlock each secret, move to each character listed and press Start after each one, then go to your desired character and select as usual. All of these secrets are for two-player mode except for the Random A.I.
+Battle in a Mini Golf Course (Koyasha, Mordos Kull, Takeshi)
+Battle at Machu Pichu (Namira, Koyasha, Taria)
+Battle in the Castle (Mordos Kull, Taria, Ragnar)
+Battle in San Francisco Rush (Xiao Long, Al' Rashid, Koyasha)
+Battle in Big Head Mode (Ragnar, Al' Rashid, Takeshi)
+Battle in Micronaut Mode (Takeshi, Al' Rashid, Ragnar, Xiao Long)
+Battle in Super Speed Grid Mode (Ichiro, Xiao Long, Koyasha)
+Battle the Random A.I. (Hell Knight, Xiao Long, Dregan, Namira)
+To select a particular stage in which to fight, go to the character's portrait in player select and press START four times. Then select your character as usual.
+
+* Cool View For Mordos Kull's Execution: Do a Execution on Taria's Stage in the Water. You get to see an overview of the execution and the person's body will come flying towards you.
+
+- STAFF -
+
+Lead programmer: Bruce Rogers
+Programmer: Roberto Rodriguez
+Art Director: Matt Harvey
+Character Models: Jeremy Mattson
+Character Textures: Patrice Moriarity, Matt Harvey
+Animators: Takeshi hasegawa, Steve Stacy
+Backgrounds: Matt Harvey, Bob Ingold
+Support Programming: Steven Bennetts
+Producer: Robert Daly
+Associate Producer: Loren Bryant
+Marketing Manager: Derryl Depriest
+Audio: Richard Marriott
+Technician: Dennis Nale
+Game Design: Roberto Rodriguez, Loren Bryant
+Lead Tester: Rob Reininger
+Testers: Larry Cadelina, Jerry Cruz
+Support Programmers: Dave Shepperd, Mike Albaugh, Mike Lynch, Todd Modjewski
+Hardware Design: Steve Correll, Andrew Dyer, Ross Shaffer, Ray Macika, Chris Krubel, 3dfx Interactive
+Hardware Support: Steve Norris, Don Thomas, Jeff Peters, Pat Cox, Scott Parrish
+DCS2 Audio: Matt Booty, Ed Keenan
+Sr. Engineering Tech.: Patrick Hubbell
+Additional Techinicians: Mark Hoendervoogt, Minh Nguyen, Pete Mokris
+Mechanical Engineers: Pete Takaichi, Mark Gruber, Ralph Perez, Ted Valavanis, Tom Sedor, Chris Bobrowski
+Cabinet Design: Matt Harvey, Nik Erlich, Jen Smith
+Marketing: Derryl DePriest, Mary Fujihara, Ray Bersabe, Randall Ng, Jackie Sherman
+Video Production: Greg Allen, Brent Englund
+Executive Producer: Mark Stephen Pierce
+
+- PORTS -
+
+* CONSOLES:
+Nintendo 64 (1997)
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=1425&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/mace.png</image>
+		<video>./snap/mace.mp4</video>
+		<marquee>./wheel/mace.png</marquee>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Fighter / Versus</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="78949">
+		<path>./mk4.zip</path>
+		<name>Mortal Kombat 4</name>
+		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/mk4.png</image>
+		<video>./snap/mk4.mp4</video>
+		<marquee>./wheel/mk4.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Mortal Kombat</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>f07469f7979d3faf74844064248ba73c</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mrdo.zip</path>
+		<name>Mr. Do!</name>
+		<desc>Mr. Do! is a colourful and addictive maze game in which the player takes on the role of the eponymous Mr. Do, a circus clown, who must clear each level of either cherries or monsters. The game's single screen levels are made up of tunnels surrounded by a colourful, soil-like substance. This soil can be dug through to create new tunnels, allowing Mr. Do to escape his enemies and to reach the many cherries that litter the levels. A number of apples are also scattered around each level, and Mr. Do can push them along tunnels (to block and/or kill monsters) or can tunnel beneath them to drop them onto the heads of any pursuing enemies. Mr. Do himself can also be killed by a falling apple.
+
+Mr. Do is armed with a 'Powerball' that can be fired down a tunnel, it will then bounce around the tunnels until it either returns to Mr. Do, or comes into contact with, and kills, one of the level's monsters. The Powerball regenerates immediately the first time you use it, but takes longer each time it is used to return to your hands. As each level progresses, the monsters themselves start to dig tunnels of their own in their pursuit of Mr. Do. Monsters can also push the apples.
+
+Each screen has a doorway through which the monsters enter the level. Once all of the monsters have appeared, the doorway will turn into a 'prize', (ice cream, biscuits, etc.). If Mr. Do collects the prize, the 'Alphamonster' and his three 'Muncher' henchmen will appear. The Alphamonster may be in the EXTRA box at the top of the screen or be moving around the screen. The Alphamonster and the Munchers cannot be easily crushed under apples because they tend to eat them. They can be killed individually with the Powerball or by killing the Alphamonster itself, at which point any remaining Munchers will turn into apples.
+
+After every three levels, there is a brief intermission in which a tune is played and a large, animated Mr. Do appears, together with some of the game's monsters. The time to complete each level and the preferred method (monsters, cherries, Alphamonsters, or Diamond) is shown. The paths in the first level resemble a 'D', after this each level's tunnels resemble a digit, ('2', '3', '4' etc.) up to '0' for level 10.
+
+A level can be completed any one of several different ways: either by collecting all of the on-screen cherries; by killing all of the monsters, by completing the EXTRA box, or by collecting the diamond. The latter appears only very occasionally ('Special' awards an extra credit).</desc>
+		<image>./mixart/mrdo.png</image>
+		<video>./snap/mrdo.mp4</video>
+		<marquee>./wheel/mrdo.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Universal</developer>
+		<publisher>Universal</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game>
 		<path>./nbajam.zip</path>
 		<name>NBA Jam</name>
@@ -69681,6 +69580,107 @@ The game consists of eight stages, each with a boss fight at the end, and after 
 		<genre>Sports-Sports / Basketball</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="60823">
+		<path>./offroadc.zip</path>
+		<name>Off Road Challenge</name>
+		<desc>Off Road Challenge is an off-road truck racing game. The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way. Gold picked up on the course or earned from racing can be used to upgrade the vehicle. Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/offroadc.png</image>
+		<video>./snap/offroadc.mp4</video>
+		<marquee>./wheel/offroadc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Off Road</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>3a0e2b21bb7c405a3861ea44d8bb8aa4</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="43077">
+		<path>./sidebsja.zip</path>
+		<name>Side By Side</name>
+		<desc>Side by Side is a racing game based on the popular Asian sports tour, where Japanese racers race through narrow mountain passes. It has a selection of Japanese cars, mountain passes and their tracks. As usual in this type of game, additional cars and tracks can be unlocked by winning races.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sidebsja.png</image>
+		<video>./snap/sidebsja.mp4</video>
+		<marquee>./wheel/sidebsja.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>1</players>
+		<md5>e177f52f6ac0c88e078f5247018626b4</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./ssf2xj.zip</path>
+		<name>Super Street Fighter II X: Grand Master Challenge</name>
+		<desc>Super Street Fighter II Turbo, released in Japan as Super Street Fighter II X: Grand Master Challenge, is a competitive fighting game released for the arcades by Capcom in 1994. It is the fifth arcade installment in the Street Fighter II sub-series of Street Fighter games, following Super Street Fighter II. Like its predecessor, it ran on the CP System II hardware.
+
+Super Turbo introduced several new play mechanics to the game system from the previous Street Fighter II installments, including the addition of powered-up Special Moves called Super Combos. It also introduced the hidden character of Akuma, who would go on to become a recurring character in later Street Fighter installments and other Capcom fighting games.</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/ssf2xj.png</image>
+		<video>./snap/ssf2t.mp4</video>
+		<marquee>./wheel/ssf2xj.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./ssprint.zip</path>
+		<name>Super Sprint</name>
+		<desc>Like "Championship Sprint", released the same year, Super Sprint is an updated version of the old Atari Sprint series; with added the ability to allow players to upgrade their vehicles as the game progresses. Upgrades are won by collecting wrenches that appear once per track. After a player has collected four wrenches, they will be presented with an upgrade screen; giving them the opportunity to choose better traction, increased top speed, faster acceleration, or a faster helicopter. The only discernible difference between this and "Championship Sprint" is the addition of brand new tracks.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/ssprint.png</image>
+		<video>./snap/ssprint.mp4</video>
+		<marquee>./wheel/ssprint.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="44002">
+		<path>./vsnetscr.zip</path>
+		<name>Versus Net Soccer</name>
+		<desc>28 different national teams are selectable in this soccer game. You can select from two 3-D views: half-top view or side view. When two monitors are used, one screen can be in half-top and the other in side view during the game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vsnetscr.png</image>
+		<video>./snap/vsnetscr.mp4</video>
+		<marquee>./wheel/vsnetscr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Soccer</genre>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>c527df335b156f264bec21fa3d65440e</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

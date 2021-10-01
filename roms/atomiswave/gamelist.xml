@@ -258,20 +258,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./rumblef2.zip</path>
-		<name>The Rumble Fish 2</name>
-		<desc>he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.    The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.    Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
-		<image>./mixart/rumblef2.png</image>
-		<video>./snap/rumblef2.mp4</video>
-		<marquee>./wheel/rumblef2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./sushibar.zip</path>
 		<name>Sushi Bar</name>
 		<desc>Sushi simulation Game.</desc>
@@ -366,20 +352,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./fotns.zip</path>
 		<name>Fist Of The North Star</name>
 		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
@@ -407,5 +379,33 @@
 		<genre>Fight</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./rumblef2.zip</path>
+		<name>The Rumble Fish 2</name>
+		<desc>he Rumble Fish 2 uses all of the elements from the first game and adds some new ones.    The Offense and Defense gauges have been divided into three sections each, allowing for more usage of Offensive and Defensive Arts, as well as techniques tied to each gauge. An addition to the system is the Boost Dive, which puts each character into a powered-up state according to their style.    Most characters have had modifications to their movelists in some way, such as new moves, new commands for old moves, and so forth.</desc>
+		<image>./mixart/rumblef2.png</image>
+		<video>./snap/rumblef2.mp4</video>
+		<marquee>./wheel/rumblef2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
 	</game>
 </gameList>

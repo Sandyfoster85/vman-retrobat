@@ -8078,22 +8078,6 @@ This will be the first time on a Game Boy System that 4 players can play multipl
 		<region>us</region>
 		<genreid>1536</genreid>
 	</game>
-	<game id="4877" source="ScreenScraper.fr">
-		<path>./Tony Hawk's Underground 2 (USA).rvz</path>
-		<name>Tony Hawk's Underground 2</name>
-		<desc>You've been chosen by Tony Hawk to compete against Bam Margera's team in the World Destruction Tour. In an all-new storyline, Tony Hawk's Underground 2 takes you to skateparks around the world, where you can spray your custom tag, slap stickers, and even create new skate lines. Now you can play as yourself, as your teammates, or as more than 20 special skaters. If you're feeling nostalgic for older Tony Hawk games, you can try Classic mode, which challenges you to accomplish your favorite goals, such as Secret Tape and High Score.</desc>
-		<image>./mixart/Tony Hawk's Underground 2 (USA).png</image>
-		<video>./snap/Tony Hawk's Underground 2 (USA).mp4</video>
-		<marquee>./wheel/Tony Hawk's Underground 2 (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20041008T000000</releasedate>
-		<developer>Neversoft Entertainment</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="65274" source="ScreenScraper.fr">
 		<path>./Top Angler - Real Bass Fishing (USA).rvz</path>
 		<name>Top Angler: Real Bass Fishing</name>
@@ -9025,6 +9009,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<developer>LucasArts</developer>
 		<publisher>Factor 5</publisher>
 		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="4877" source="ScreenScraper.fr">
+		<path>./Tony Hawk's Underground 2 (USA).rvz</path>
+		<name>Tony Hawk's Underground 2</name>
+		<desc>You've been chosen by Tony Hawk to compete against Bam Margera's team in the World Destruction Tour. In an all-new storyline, Tony Hawk's Underground 2 takes you to skateparks around the world, where you can spray your custom tag, slap stickers, and even create new skate lines. Now you can play as yourself, as your teammates, or as more than 20 special skaters. If you're feeling nostalgic for older Tony Hawk games, you can try Classic mode, which challenges you to accomplish your favorite goals, such as Secret Tape and High Score.</desc>
+		<image>./mixart/Tony Hawk's Underground 2 (USA).png</image>
+		<video>./snap/Tony Hawk's Underground 2 (USA).mp4</video>
+		<marquee>./wheel/Tony Hawk's Underground 2 (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20041008T000000</releasedate>
+		<developer>Neversoft Entertainment</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>

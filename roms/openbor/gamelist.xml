@@ -3113,28 +3113,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].pak</path>
-		<name>Mass Effect - Dark Corners Of The Galaxy</name>
-		<image>./mixart/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</image>
-		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
-		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Masters of the Universe.pak</path>
-		<name>Masters Of The Universe</name>
-		<image>./mixart/Masters of the Universe.png</image>
-		<video>./snap/Masters of the Universe.mp4</video>
-		<marquee>./wheel/Masters of the Universe.png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ninja.pak</path>
 		<name>Ninja</name>
 		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
@@ -3845,7 +3823,29 @@
 		<video>./snap/Splatterhouse - Deception of the Mask.mp4</video>
 		<marquee>./wheel/Splatterhouse - Deception of the Mask.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Krauser</developer>
+	</game>
+	<game>
+		<path>./Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].pak</path>
+		<name>Mass Effect - Dark Corners Of The Galaxy</name>
+		<image>./mixart/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</image>
+		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
+		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe.pak</path>
+		<name>Masters Of The Universe</name>
+		<image>./mixart/Masters of the Universe.png</image>
+		<video>./snap/Masters of the Universe.mp4</video>
+		<marquee>./wheel/Masters of the Universe.png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
