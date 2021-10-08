@@ -30,6 +30,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\Retro
 rem 3. 2021-08-05 - Corrent snap naming for High Octane - reported by Bilu
 ren "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
 
+rem 4. 2021-10-08 - rpcs3 emulator fix missing HDD PS3 games - reported by Virtualman/Hasinbinsene
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
