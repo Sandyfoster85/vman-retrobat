@@ -367,23 +367,6 @@
 		<region>wr</region>
 		<path>./Cybermorph (World) (Rev 1).j64</path>
 	</game>
-	<game id="14201" source="ScreenScraper.fr">
-		<path>./Defender 2000 (World).j64</path>
-		<name>Defender 2000</name>
-		<desc>Defender 2000 is an update of the classic arcade game by Eugene Jarvis.  This Jaguar game features a port of the original game, and two updated versions: Defender Plus and Defender 2000.  Defender combines a side scrolling shooter with a search and rescue game. You control a ship that travels left and right above the planets surface. Alien lander craft warp into the play area, and begin to descend to the surface. Along the surface, there are humanoids ripe for the picking.  The alien landers grab the humanoids and begin to carry them up the screen. You have to shoot the landers before they reach the top of the screen, and catch the humanoids before they fall to the surface.  The Defender Plus update features gameplay that is very similar to the original, and graphics that have a crazy, psychedelic look. The Defender 2000 update adds playfields that scroll in both directions, weapon power-ups, bonus rounds, improved graphics, and extremely high speed gameplay.</desc>
-		<image>./mixart/Defender 2000 (World).png</image>
-		<video>./snap/Defender 2000 (World).mp4</video>
-		<marquee>./wheel/Defender 2000 (World).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<path>./Defender 2000 (World).j64</path>
-	</game>
 	<game id="14140" source="ScreenScraper.fr">
 		<path>./Doom (World).j64</path>
 		<name>Doom</name>
@@ -930,22 +913,6 @@
 		<path>./Total Carnage (World).j64</path>
 	</game>
 	<game>
-		<path>./Wolfenstein 3D (World).j64</path>
-		<name>Wolfenstein 3D</name>
-		<desc>id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.  While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.  Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.  The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.</desc>
-		<image>./mixart/Wolfenstein 3D (World).png</image>
-		<video>./snap/Wolfenstein 3D (World).mp4</video>
-		<marquee>./wheel/Wolfenstein 3D (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>id Software</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./Atari Karts (World).j64</path>
 		<name>Atari Karts</name>
 		<desc>Atari Karts is a character-based go-kart racing game. It plays very similarly to Super Mario Kart. The emphasis in this game, like most kart games, is on making use of pick-up items found around the track to knock out your opponents.  There is only one game mode, a points based cup series.  There are four difficulty levels, each with 3 cups to race for. After completing all the cups for a difficulty level, you get to challenge a "boss" kart in a single race match.  If you beat the boss, he becomes a playable character.  The various cup races can be played in either single player or two player split screen modes.</desc>
@@ -958,6 +925,38 @@
 		<publisher>Atari</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="14201" source="ScreenScraper.fr">
+		<path>./Defender 2000 (World).j64</path>
+		<name>Defender 2000</name>
+		<desc>Defender 2000 is an update of the classic arcade game by Eugene Jarvis.  This Jaguar game features a port of the original game, and two updated versions: Defender Plus and Defender 2000.  Defender combines a side scrolling shooter with a search and rescue game. You control a ship that travels left and right above the planets surface. Alien lander craft warp into the play area, and begin to descend to the surface. Along the surface, there are humanoids ripe for the picking.  The alien landers grab the humanoids and begin to carry them up the screen. You have to shoot the landers before they reach the top of the screen, and catch the humanoids before they fall to the surface.  The Defender Plus update features gameplay that is very similar to the original, and graphics that have a crazy, psychedelic look. The Defender 2000 update adds playfields that scroll in both directions, weapon power-ups, bonus rounds, improved graphics, and extremely high speed gameplay.</desc>
+		<image>./mixart/Defender 2000 (World).png</image>
+		<video>./snap/Defender 2000 (World).mp4</video>
+		<marquee>./wheel/Defender 2000 (World).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (World).j64</path>
+		<name>Wolfenstein 3D</name>
+		<desc>id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.  While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.  Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.  The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.</desc>
+		<image>./mixart/Wolfenstein 3D (World).png</image>
+		<video>./snap/Wolfenstein 3D (World).mp4</video>
+		<marquee>./wheel/Wolfenstein 3D (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>

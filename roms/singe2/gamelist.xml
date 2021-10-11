@@ -277,21 +277,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sonic Fury.cmd</path>
-		<name>Sonic Fury</name>
-		<desc>Shoot it out with the bad guys in your fighter jet!</desc>
-		<image>./mixart/Sonic Fury.png</image>
-		<video>./snap/Sonic Fury.mp4</video>
-		<marquee>./wheel/Sonic Fury.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sucker Punch.cmd</path>
 		<name>Sucker Punch</name>
 		<desc>Based on the Sucker Punch Movie.</desc>
@@ -303,21 +288,6 @@
 		<developer>Fan Made</developer>
 		<publisher>Fan Made</publisher>
 		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./The Last Bounty Hunter.cmd</path>
-		<name>The Last Bounty Hunter</name>
-		<desc>The Last Bounty Hunter was a laserdisc game created by American Laser Games in 1994.  In this game, four outlaws have been terrorizing the county.   You must search the area for Handsome Harry, Nasty Dan, El Loco, and Cactus Kid.   You don't shoot to kill though.... you have to take them alive and bring them to justice!</desc>
-		<image>./mixart/The Last Bounty Hunter.png</image>
-		<video>./content/The_last_bounty_hunter_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/The Last Bounty Hunter.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -458,6 +428,36 @@
 		<developer>Karis</developer>
 		<publisher>Stern</publisher>
 		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Fury.cmd</path>
+		<name>Sonic Fury</name>
+		<desc>Shoot it out with the bad guys in your fighter jet!</desc>
+		<image>./mixart/Sonic Fury.png</image>
+		<video>./snap/Sonic Fury.mp4</video>
+		<marquee>./wheel/Sonic Fury.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Last Bounty Hunter.cmd</path>
+		<name>The Last Bounty Hunter</name>
+		<desc>The Last Bounty Hunter was a laserdisc game created by American Laser Games in 1994.  In this game, four outlaws have been terrorizing the county.   You must search the area for Handsome Harry, Nasty Dan, El Loco, and Cactus Kid.   You don't shoot to kill though.... you have to take them alive and bring them to justice!</desc>
+		<image>./mixart/The Last Bounty Hunter.png</image>
+		<video>./content/The_last_bounty_hunter_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/The Last Bounty Hunter.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

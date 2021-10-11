@@ -3586,22 +3586,6 @@ You can skate up or down in the screen, or even jump, to be safe from the pipes 
 		<players>1</players>
 	</game>
 	<game id="" source="ScreenScraper">
-		<path>./Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).zip</path>
-		<name />
-		<desc />
-		<image>./mixart/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).png</image>
-		<image />
-		<marquee>./wheel/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).png</marquee>
-		<video>./snap/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).mp4</video>
-		<thumbnail />
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="" source="ScreenScraper">
 		<path>./Minelvaton Saga - Ragon no Fukkatsu (Japan) (Translated En).zip</path>
 		<name />
 		<desc />
@@ -6395,5 +6379,14 @@ In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 hor
 		<publisher>Toei Animation</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).zip</path>
+		<name>Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En)</name>
+		<image>./mixart/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).png</image>
+		<video>./snap/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Mickey Mouse 3 - Yume Fuusen (Japan) (Translated En).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
 	</game>
 </gameList>

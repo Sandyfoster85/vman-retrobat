@@ -1253,6 +1253,24 @@ The graphics were faux-3D, as the planes were 2D sprites (natural, considering t
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="14262" source="ScreenScraper.fr">
+		<path>./Steel Talons (USA, Europe).zip</path>
+		<name>Steel Talons</name>
+		<desc>Steel Talons brought realism-oriented helicopter combat to the arcades, and later to home systems. The action is viewed from behind your helicopter, with the 3D polygon world rotating around you, taking in mountains, rivers and deserts. 
+
+There are 12 missions in total, each of which requires you to destroy targets in a set time limit. There are also training and head-to-head (against a CPU-controlled drone) modes. 
+
+You have a limited number of automatically-targeting missiles as well as a cannon. A tracking map tells you where you are on the level, and where the enemies are.Contact with the ground, mountains or other vehicles will damage or destroy your helicopter.</desc>
+		<image>./mixart/Steel Talons (USA, Europe).png</image>
+		<video>./snap/Steel Talons (USA, Europe).mp4</video>
+		<marquee>./wheel/Steel Talons (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<crc32>5B2308ED</crc32>
+	</game>
 	<game>
 		<path>./Power Factor (USA, Europe).zip</path>
 		<name>Power Factor</name>
@@ -1280,23 +1298,5 @@ The player starts with three lives, and there are no continues.  There are, howe
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>eu</region>
-	</game>
-	<game id="14262" source="ScreenScraper.fr">
-		<path>./Steel Talons (USA, Europe).zip</path>
-		<name>Steel Talons</name>
-		<desc>Steel Talons brought realism-oriented helicopter combat to the arcades, and later to home systems. The action is viewed from behind your helicopter, with the 3D polygon world rotating around you, taking in mountains, rivers and deserts. 
-
-There are 12 missions in total, each of which requires you to destroy targets in a set time limit. There are also training and head-to-head (against a CPU-controlled drone) modes. 
-
-You have a limited number of automatically-targeting missiles as well as a cannon. A tracking map tells you where you are on the level, and where the enemies are.Contact with the ground, mountains or other vehicles will damage or destroy your helicopter.</desc>
-		<image>./mixart/Steel Talons (USA, Europe).png</image>
-		<video>./snap/Steel Talons (USA, Europe).mp4</video>
-		<marquee>./wheel/Steel Talons (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<crc32>5B2308ED</crc32>
 	</game>
 </gameList>

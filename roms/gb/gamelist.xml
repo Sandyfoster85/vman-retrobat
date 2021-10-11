@@ -6,31 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="3254" source="ScreenScraper.fr">
-		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).7z</path>
-		<name>Adventure Island II: Aliens in Paradise</name>
-		<desc>Jeannie Jungle has been captured by aliens!
-
-She's stranded somewhere on one of eight islands and you, as the somewhat heroic Master Higgins, must find her. But be careful - each island is guarded by an enormous creature that's very hungry!
-
-Explore 8 levels
-Collect items such as: Axes, Skateboards, and boomerangs
-Enlist the help of the local dinosaurs
-Save your girlfriend from the menacing aliens
-
-Fortunately, you have a little help. There are five kinds of friendly dinosaurs waiting to give you a lift. They're stuck in eggs that you'll need to crack open! Hidden eggs are scattered all over the islands. By finding and breaking them open, you might get a bonus, or even a secret way to the next island! Just don't eat the eggplant...
-
-So hop on one of your dinosaur pals, and ride your way to Jeannie's rescue!</desc>
-		<rating>0.8</rating>
-		<releasedate>19930202T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Adventure Island II - Aliens in Paradise (USA, Europe).png</image>
-		<marquee>./wheel/Adventure Island II - Aliens in Paradise (USA, Europe).png</marquee>
-		<video>./snap/Adventure Island II - Aliens in Paradise (USA, Europe).mp4</video>
-	</game>
 	<game id="3025" source="ScreenScraper.fr">
 		<path>./Aladdin (USA).7z</path>
 		<name>Aladdin</name>
@@ -8789,20 +8764,6 @@ This computer implementation can generate a random board layout to take on and f
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Metroid II - Return of Samus (World).7z</path>
-		<name>Metroid II : Return of Samus</name>
-		<desc>This is the sequel to the very popular Metroid for the NES.  In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites.  After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy.  Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.
-</desc>
-		<image>./mixart/Metroid II - Return of Samus (World).png</image>
-		<video>./snap/Metroid II - Return of Samus (World).mp4</video>
-		<marquee>./wheel/Metroid II - Return of Samus (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-	</game>
-	<game>
 		<path>./Wario Land - Super Mario Land 3 (World).7z</path>
 		<name>Wario Land : Super Mario Land 3</name>
 		<desc>Wario, Mario's greedy rival from Super Mario Land 2: 6 Golden Coins, is more determined than ever to get a castle after being booted out of Mario's.  He has heard that the pirates of Kitchen Island have a golden Statue of Princess Toadstool that's worth a king's ransom!  Wario figures that if he swipes the Princess' statue for himself, as well as all the other loot the pirates have hoarded, he'll have more than enough cash for a castle that's even bigger and better than Mario's!
@@ -9053,5 +9014,43 @@ The Rescue of Princess Blobette tells the story of a young, male protagonist and
 		<genre>Puzzle-Game-Platform</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="3254" source="ScreenScraper.fr">
+		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).7z</path>
+		<name>Adventure Island II: Aliens in Paradise</name>
+		<desc>Jeannie Jungle has been captured by aliens!
+
+She's stranded somewhere on one of eight islands and you, as the somewhat heroic Master Higgins, must find her. But be careful - each island is guarded by an enormous creature that's very hungry!
+
+Explore 8 levels
+Collect items such as: Axes, Skateboards, and boomerangs
+Enlist the help of the local dinosaurs
+Save your girlfriend from the menacing aliens
+
+Fortunately, you have a little help. There are five kinds of friendly dinosaurs waiting to give you a lift. They're stuck in eggs that you'll need to crack open! Hidden eggs are scattered all over the islands. By finding and breaking them open, you might get a bonus, or even a secret way to the next island! Just don't eat the eggplant...
+
+So hop on one of your dinosaur pals, and ride your way to Jeannie's rescue!</desc>
+		<image>./mixart/Adventure Island II - Aliens in Paradise (USA, Europe).png</image>
+		<video>./snap/Adventure Island II - Aliens in Paradise (USA, Europe).mp4</video>
+		<marquee>./wheel/Adventure Island II - Aliens in Paradise (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930202T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Metroid II - Return of Samus (World).7z</path>
+		<name>Metroid II : Return of Samus</name>
+		<desc>This is the sequel to the very popular Metroid for the NES.  In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites.  After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy.  Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.</desc>
+		<image>./mixart/Metroid II - Return of Samus (World).png</image>
+		<video>./snap/Metroid II - Return of Samus (World).mp4</video>
+		<marquee>./wheel/Metroid II - Return of Samus (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
 	</game>
 </gameList>

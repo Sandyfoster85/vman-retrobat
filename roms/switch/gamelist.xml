@@ -582,21 +582,6 @@ Team up with friends and combine your skills to battle your way through waves of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="198483">
-		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
-		<name>Legend Of Zelda - Links Awakening, The</name>
-		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
-		<releasedate>20190920T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
 		<name>Super Mario 3D World + Bowser's Fury</name>
@@ -690,6 +675,36 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Nintendo</publisher>
 		<genre>Sports / Golf-Adventure</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Dread.xci</path>
+		<name>Metroid Dread</name>
+		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
+		<image>./mixart/Metroid Dread.jpg</image>
+		<video>./snap/Metroid Dread.mp4</video>
+		<marquee>./wheel/Metroid Dread.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>MercuryStream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 	</game>
 </gameList>

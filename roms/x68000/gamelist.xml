@@ -1183,19 +1183,6 @@ An interesting feature of this game is the health system. The timer at the top o
 		<publisher>Enix</publisher>
 	</game>
 	<game>
-		<path>./Akumajou Dracula.m3u</path>
-		<name>Akumajou Dracula</name>
-		<image>./mixart/Akumajou Dracula.png</image>
-		<video>./snap/Akumajou Dracula.mp4</video>
-		<marquee>./wheel/Akumajou Dracula.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./Argos No Senshi (1994)(Dempa).m3u</path>
 		<name>Argos No Senshi</name>
 		<image>./mixart/Argos No Senshi (1994)(Dempa).png</image>
@@ -1250,6 +1237,34 @@ An interesting feature of this game is the health system. The timer at the top o
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Hatenkou.m3u</path>
+		<name>Hatenkou</name>
+		<image>./mixart/Hatenkou.png</image>
+		<video>./snap/Hatenkou.mp4</video>
+		<marquee>./wheel/Hatenkou.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Hellhound (1994)(Breakthrough).m3u</path>
+		<name>Hellhound</name>
+		<image>./mixart/Hellhound (1994)(Breakthrough).png</image>
+		<video>./snap/Hellhound (1994)(Breakthrough).mp4</video>
+		<marquee>./wheel/Hellhound (1994)(Breakthrough).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Breakthrough</publisher>
+	</game>
+	<game>
+		<path>./Akumajou Dracula.m3u</path>
+		<name>Akumajou Dracula</name>
+		<image>./mixart/Akumajou Dracula.png</image>
+		<video>./snap/Akumajou Dracula.mp4</video>
+		<marquee>./wheel/Akumajou Dracula.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+	</game>
+	<game>
 		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
 		<name>Alien Syndrome</name>
 		<desc>Alien Syndrome is a scrolling shooter arcade conversion.
@@ -1268,24 +1283,5 @@ You can play as a single player or two people, taking turns (Player 2 starts the
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
-	</game>
-	<game>
-		<path>./Hatenkou.m3u</path>
-		<name>Hatenkou</name>
-		<image>./mixart/Hatenkou.png</image>
-		<video>./snap/Hatenkou.mp4</video>
-		<marquee>./wheel/Hatenkou.png</marquee>
-		<rating>0</rating>
-		<releasedate></releasedate>
-	</game>
-	<game>
-		<path>./Hellhound (1994)(Breakthrough).m3u</path>
-		<name>Hellhound</name>
-		<image>./mixart/Hellhound (1994)(Breakthrough).png</image>
-		<video>./snap/Hellhound (1994)(Breakthrough).mp4</video>
-		<marquee>./wheel/Hellhound (1994)(Breakthrough).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Breakthrough</publisher>
 	</game>
 </gameList>

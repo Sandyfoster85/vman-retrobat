@@ -294,21 +294,6 @@ Gunblade NY was pretty popular at the arcades mainly because you can shoot down 
 		<region>us</region>
 	</game>
 	<game>
-		<path>./indy500.zip</path>
-		<name>Indianapolis 500</name>
-		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
-		<image>./mixart/indy500.png</image>
-		<video>./snap/indy500.mp4</video>
-		<marquee>./wheel/indy500.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Various-Various / Electro- Mechanical-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./lastbrnx.zip</path>
 		<name>Last Bronx</name>
 		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
@@ -407,21 +392,6 @@ The game is made to be played with a two-joystick setup, known as the twin-stick
 		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
 		<genreid>260</genreid>
 	</game>
-	<game>
-		<path>./vcop2.zip</path>
-		<name>Virtua Cop 2</name>
-		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
-		<image>./mixart/vcop2.png</image>
-		<video>./snap/vcop2.mp4</video>
-		<marquee>./wheel/vcop2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="41073" source="ScreenScraper.fr">
 		<path>./dynamcop.zip</path>
 		<name>Dynamite Cop</name>
@@ -488,6 +458,38 @@ It has all the standard features of such a title: passing a checkpoint adds more
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game>
+		<path>./indy500.zip</path>
+		<name>Indianapolis 500</name>
+		<desc>Ladies and Gentlemen, Start Your Engines!!</desc>
+		<image>./mixart/indy500.png</image>
+		<video>./snap/indy500.mp4</video>
+		<marquee>./wheel/indy500.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Various-Various / Electro- Mechanical-Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game id="37495" source="ScreenScraper.fr">
 		<path>./vf2.zip</path>
 		<name>Virtua Fighter 2</name>
@@ -504,6 +506,8 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<genre>Fight</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 		<genreid>262</genreid>
 	</game>
 </gameList>

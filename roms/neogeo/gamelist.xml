@@ -335,22 +335,6 @@ Geese Howard may have been defeated, but that doesn't mean all is peaceful. A ne
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ganryu.zip</path>
-		<name>Ganryu</name>
-		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
-
-You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
-		<image>./mixart/ganryu.png</image>
-		<video>./snap/ganryu.mp4</video>
-		<marquee>./wheel/ganryu.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>SNK</publisher>
-		<genre>Beat'em Up-Platform-Fight-Plateform / Fighter Scrolling-Action</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./garou.zip</path>
 		<name>Garou - Mark of the Wolves</name>
 		<desc>It's been several years since Geese Howard was defeated in a battle with Terry Bogard, a young man looking to avenge his father. Rather than looking to be saved from death after falling off his office balcony, Geese instead decided to die, and left behind his young son, Rock. Terry took Rock in and became like a big brother to him, raising the boy throughout his life.
@@ -1944,20 +1928,6 @@ In 2020 Super Baseball is a fast-paced game with new rules, where you can select
 		<players>2</players>
 	</game>
 	<game>
-		<path>./neodrift.zip</path>
-		<name>Neo Drift Out - New Technology</name>
-		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
-		<image>./mixart/neodrift.png</image>
-		<video>./snap/neodrift.mp4</video>
-		<marquee>./wheel/neodrift.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./fbfrenzy.zip</path>
 		<name>Football Frenzy</name>
 		<desc>You'll never play another football game again, after you play Football Frenzy! Football Frenzy, with on-going play-by-play announcing, is hard-hitting action at its best! You will hear, in full stereo, every bone-crushing tackle and helmet-to-helmet, metal-on-metal hit. The piercing grunts and groans of players sacrificing their bodies for the team puts you right on the field with them! The camera zooms give you the most dazzling close-ups ever seen. So, bring your pads and helmet! Tournament mode, cinematic displays and over 10 teams to choose from make this football package complete. Play against the computer or a friend in this 46-MEG bone-jarring gridiron great... Football Frenzy!</desc>
@@ -2109,6 +2079,36 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<publisher>SNK</publisher>
 		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./ganryu.zip</path>
+		<name>Ganryu</name>
+		<desc>One month has passed since Musashi defeated his sworn enemy, Kojiro. Musashi was on the way to Kyoto, where his beloved Otsu was waiting for him. Around this time, many abductions had occurred by a mysterious group of ninjas, and Otsu was one of the missing. What is the true purpose of these ninjas? The time to fight has come again for Musashi!!
+
+You must guide Musashi or his sister, Suzame, around several locations defeating a horde of ninjas with only a sword. Weapon power-ups and life bonuses can be collected along the way. You can jump high and use your grappling hook to attach to and climb some ceilings, as well as attaching yourself to faraway objects. At the end of each location, you must defeat a guardian in order to continue the game. Cut-scenes are viewed between locations.</desc>
+		<image>./mixart/ganryu.png</image>
+		<video>./snap/ganryu.mp4</video>
+		<marquee>./wheel/ganryu.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em Up-Platform-Fight-Plateform / Fighter Scrolling-Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out - New Technology</name>
+		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
+		<image>./mixart/neodrift.png</image>
+		<video>./snap/neodrift.mp4</video>
+		<marquee>./wheel/neodrift.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
 		<favorite>true</favorite>
 	</game>
 </gameList>

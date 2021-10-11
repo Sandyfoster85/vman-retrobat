@@ -34,20 +34,6 @@
 		<marquee>./wheel/Crush Roller (World) (En,Ja).png</marquee>
 		<video>./snap/Crush Roller (World) (En,Ja).mp4</video>
 	</game>
-	<game id="47028" source="ScreenScraper.fr">
-		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
-		<name>Dark Arms - Beast Buster 1999</name>
-		<desc>Dark Arms: Beast Buster 1999 is a RPG for the Neo Geo Pocket Color. It's a spin-off from the arcade game Beast Busters.  Parallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.  The game features puzzles that have to be solved and a wide array of undead monsters that can be fed to your Dark Arms.</desc>
-		<rating>0.75</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Noise Factory</developer>
-		<publisher>SNK</publisher>
-		<genre>Action-Role playing games</genre>
-		<players>1-2</players>
-		<image>./mixart/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
-		<marquee>./wheel/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
-		<video>./snap/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
-	</game>
 	<game id="51151" source="ScreenScraper.fr">
 		<path>./Delta Warp (Japan) (En,Ja).zip</path>
 		<name>Delta Warp</name>
@@ -555,6 +541,20 @@
 		<developer>SNK</developer>
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game id="47028" source="ScreenScraper.fr">
+		<path>./Dark Arms - Beast Buster 1999 (World) (En,Ja).zip</path>
+		<name>Dark Arms - Beast Buster 1999</name>
+		<desc>Dark Arms: Beast Buster 1999 is a RPG for the Neo Geo Pocket Color. It's a spin-off from the arcade game Beast Busters.  Parallel to our world we find the Dark Realm. As the player, you find access to this parallel dimension after signing a pact with the Master of the Dark Realm. In his realm, you are supposed to catch monsters. These can be fed to your biological weapons: Dark Arms. You weapons gain abilities from consumed monsters and can evolve into more powerful equipment. You can also find seeds in the Dark Realm that turn into new weapons.  The game features puzzles that have to be solved and a wide array of undead monsters that can be fed to your Dark Arms.</desc>
+		<image>./mixart/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</image>
+		<video>./snap/Dark Arms - Beast Buster 1999 (World) (En,Ja).mp4</video>
+		<marquee>./wheel/Dark Arms - Beast Buster 1999 (World) (En,Ja).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Noise Factory</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Role playing games</genre>
 		<players>2</players>
 	</game>
 </gameList>

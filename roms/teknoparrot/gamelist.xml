@@ -1,24 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
-		<path>./Rambo.parrot</path>
-		<name>Rambo</name>
-		<desc>Rambo: is a gun shooting game based on the worldwide hit, "Rambo" series, following Rambo's history of rage; "First Blood- Protecting His Dignity", "Rambo: First Blood Part 2- Protecting POW's" and "Rambo 3- Protecting His Best Friend". In order to fully express the world Rambo creates, the game incorporates computer graphics and real movie pictures, and the woofer sound effect will give the player the cinematic feeling while playing.
-
-Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopters and become the ultimate warrior Rambo. The realistic look and feel of the machine gun along with the recoil action will give the player a true action experience as if they are actually in the movie. There are various types of enemies so the player is challenged to decipher which weapon will cause the most damage. The attack gauge above the enemies will allow players to know which enemies will attack, for when the gauge is full they will shoot. Identify the enemy and defeat them instantly!</desc>
-		<image>./mixart/Rambo.png</image>
-		<video>./snap/Rambo.mp4</video>
-		<marquee>./wheel/Rambo.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Arcade Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./FNFSB.parrot</path>
 		<name>The Fast and the Furious Super Bikes</name>
 		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
@@ -562,20 +544,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>1</players>
 	</game>
 	<game>
-		<path>./VF5C.parrot</path>
-		<name>Virtua Fighter 5</name>
-		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
-		<image>./mixart/Virtua Fighter 5.png</image>
-		<video>./snap/Virtua Fighter 5.mp4</video>
-		<marquee>./wheel/Virtua Fighter 5.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./H2Overdrive.parrot</path>
 		<name>H2Overdrive</name>
 		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
@@ -660,5 +628,37 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Rambo.parrot</path>
+		<name>Rambo</name>
+		<desc>Rambo: is a gun shooting game based on the worldwide hit, "Rambo" series, following Rambo's history of rage; "First Blood- Protecting His Dignity", "Rambo: First Blood Part 2- Protecting POW's" and "Rambo 3- Protecting His Best Friend". In order to fully express the world Rambo creates, the game incorporates computer graphics and real movie pictures, and the woofer sound effect will give the player the cinematic feeling while playing.
+
+Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopters and become the ultimate warrior Rambo. The realistic look and feel of the machine gun along with the recoil action will give the player a true action experience as if they are actually in the movie. There are various types of enemies so the player is challenged to decipher which weapon will cause the most damage. The attack gauge above the enemies will allow players to know which enemies will attack, for when the gauge is full they will shoot. Identify the enemy and defeat them instantly!</desc>
+		<image>./mixart/Rambo.png</image>
+		<video>./snap/Rambo.mp4</video>
+		<marquee>./wheel/Rambo.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./VF5C.parrot</path>
+		<name>Virtua Fighter 5</name>
+		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
+		<image>./mixart/Virtua Fighter 5.png</image>
+		<video>./snap/Virtua Fighter 5.mp4</video>
+		<marquee>./wheel/Virtua Fighter 5.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 </gameList>

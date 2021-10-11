@@ -1648,23 +1648,6 @@ The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, mus
 		<marquee>./wheel/Centurion - Defender of Rome (USA, Europe).png</marquee>
 		<video>./snap/Centurion - Defender of Rome (USA, Europe).mp4</video>
 	</game>
-	<game id="133" source="ScreenScraper.fr">
-		<path>./Chakan (USA, Europe).7z</path>
-		<name>Chakan</name>
-		<desc>Chakan is a fairly standard platform game in which you control a dead guy (Chakan has lost his soul) through many levels of hack and slash platforming. The ultimate goal is defeat all the bad-guys and so finally achieve inner-peace.
-
-The story-line (if you can call it that), does give this game an interesting image and it is much darker than most other titles available on the Genesis.
-</desc>
-		<rating>0.75</rating>
-		<releasedate>19921101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./mixart/Chakan (USA, Europe).png</image>
-		<marquee>./wheel/Chakan (USA, Europe).png</marquee>
-		<video>./snap/Chakan (USA, Europe).mp4</video>
-	</game>
 	<game id="639" source="ScreenScraper.fr">
 		<path>./Champions World Class Soccer (World).7z</path>
 		<name>Champions World Class Soccer</name>
@@ -12374,19 +12357,6 @@ There are three game modes: Season, Tournament (with three save slots for both) 
 		<genre>Sports / Basketball-Sports</genre>
 		<players>4</players>
 	</game>
-	<game>
-		<path>./Fix It Felix Jr.7z</path>
-		<name>'H'Fix-It Felix, Jr.</name>
-		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
-		<image>./mixart/Fix It Felix Jr.png</image>
-		<video>./snap/Fix It Felix Jr.mp4</video>
-		<marquee>./wheel/Fix It Felix Jr.png</marquee>
-		<rating>1</rating>
-		<releasedate>20130331T000000</releasedate>
-		<genre>Puzzle-Game</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="1026" source="ScreenScraper.fr">
 		<path>./Blockbuster World Video Game Championship II (USA).7z</path>
 		<name>Blockbuster World Video Game Championship II</name>
@@ -13441,5 +13411,34 @@ Unleash some mad blasting action onto the Colonel's army and don't let him bring
 		<publisher>Sega</publisher>
 		<genre>Beat'em Up-Action</genre>
 		<players>2</players>
+	</game>
+	<game id="133" source="ScreenScraper.fr">
+		<path>./Chakan (USA, Europe).7z</path>
+		<name>Chakan</name>
+		<desc>Chakan is a fairly standard platform game in which you control a dead guy (Chakan has lost his soul) through many levels of hack and slash platforming. The ultimate goal is defeat all the bad-guys and so finally achieve inner-peace.
+
+The story-line (if you can call it that), does give this game an interesting image and it is much darker than most other titles available on the Genesis.</desc>
+		<image>./mixart/Chakan (USA, Europe).png</image>
+		<video>./snap/Chakan (USA, Europe).mp4</video>
+		<marquee>./wheel/Chakan (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./Fix It Felix Jr.7z</path>
+		<name>'H'Fix-It Felix, Jr.</name>
+		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
+		<image>./mixart/Fix It Felix Jr.png</image>
+		<video>./snap/Fix It Felix Jr.mp4</video>
+		<marquee>./wheel/Fix It Felix Jr.png</marquee>
+		<rating>1</rating>
+		<releasedate>20130331T000000</releasedate>
+		<genre>Puzzle-Game</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

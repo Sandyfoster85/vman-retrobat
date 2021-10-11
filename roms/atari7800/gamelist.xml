@@ -592,20 +592,6 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./One-on-One Basketball (USA).7z</path>
-		<name>One-on-One Basketball</name>
-		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
-		<image>./mixart/One-on-One Basketball (USA).png</image>
-		<video>./snap/One-on-One Basketball (USA).mp4</video>
-		<marquee>./wheel/One-on-One Basketball (USA).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Computer Magic</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Basketbrawl (USA).7z</path>
 		<name>Basketbrawl</name>
 		<desc>In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.
@@ -1037,5 +1023,19 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./One-on-One Basketball (USA).7z</path>
+		<name>One-on-One Basketball</name>
+		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
+		<image>./mixart/One-on-One Basketball (USA).png</image>
+		<video>./snap/One-on-One Basketball (USA).mp4</video>
+		<marquee>./wheel/One-on-One Basketball (USA).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Computer Magic</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
 	</game>
 </gameList>

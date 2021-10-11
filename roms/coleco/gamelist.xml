@@ -1,30 +1,6 @@
 <?xml version="1.0"?>
 <gameList>
 	<game id="" source="">
-		<path>./BC's Quest for Tires (USA, Europe).zip</path>
-		<name>BC's Quest for Tires</name>
-		<desc />
-		<image>./mixart/BC's Quest for Tires (USA, Europe).png</image>
-		<marquee>./wheel/BC's Quest for Tires (USA, Europe).png</marquee>
-		<video>./snap/BC's Quest for Tires (USA, Europe).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
-		<path>./BC's Quest for Tires II - Grog's Revenge (USA, Europe).zip</path>
-		<name>BC's Quest for Tires II - Grog's Revenge</name>
-		<desc />
-		<image>./mixart/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</image>
-		<marquee>./wheel/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</marquee>
-		<video>./snap/BC's Quest for Tires II - Grog's Revenge (USA, Europe).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./Blockade Runner (USA).zip</path>
 		<name>Blockade Runner</name>
 		<desc />
@@ -1548,19 +1524,6 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<genre />
 	</game>
 	<game>
-		<path>./Artillery Duel (USA).zip</path>
-		<name>Artillery Duel</name>
-		<desc>In this two player game each player controls an artillery gun set in a mountain landscape with the goal of destroying the other player. Players take turns firing at each other; on each turn you have a limited amount of time in which the barrel angle and powder level can be set in order to control the direction and distance of the shot. When deciding on your shot, you will need to take the current conditions into account, which includes wind speed/direction and any mountains that may get in your way. Successfully destroying your opponents gun will earn you a point, and the first player to reach the set number of points wins the game. There are multiple skill levels available which set the amount of time you have to make a shot.</desc>
-		<image>./mixart/Artillery Duel (USA).png</image>
-		<video>./snap/Artillery Duel (USA).mp4</video>
-		<marquee>./wheel/Artillery Duel (USA).png</marquee>
-		<releasedate>19830316T000000</releasedate>
-		<developer>Xonox</developer>
-		<publisher>Xonox</publisher>
-		<genre>Action</genre>
-		<players />
-	</game>
-	<game>
 		<path>./Time Pilot (USA, Europe).zip</path>
 		<name>Time Pilot</name>
 		<desc>Time Pilot (夕イム・パイ口ツ卜) is a multi-directional scrolling shooter and free-roaming aerial combat arcade game designed by Yoshiki Okamoto, released by Konami in 1982, and distributed in the United States by Centuri. Debuting in the golden age of video arcade games, it is a time travel themed game that allowed the player's plane to freely move across open air space that can scroll indefinitely in all directions.[3][4][5] The Killer List of Videogames included Time Pilot in its list of top 100 arcade games of all time.[6</desc>
@@ -1648,18 +1611,6 @@ Style one is Welcome to Korea which features both styles of game switching back 
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
-	</game>
-	<game>
-		<path>./Beamrider (USA).zip</path>
-		<name>Beamrider</name>
-		<desc>A web of iridescent blue beams engulfs Earth-Space. You stand watching. Mesmerized at first, you now realize the beams support weapons, frightening creations in different forms. Will you just watch or will you take action? Action??!! Then roll up your sleeves, mount these beams and... ride! Animated graphics create a 3D perspective that virtually pulls you into the screen. Pulsating sound effects intensify the action as a dizzying array of objects zips from beam to beam.</desc>
-		<image>./mixart/Beamrider (USA).png</image>
-		<video>./snap/Beamrider (USA).mp4</video>
-		<marquee>./wheel/Beamrider (USA).png</marquee>
-		<releasedate />
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre />
 	</game>
 	<game>
 		<path>./2010 - The Graphic Action Game (USA, Europe).zip</path>
@@ -1761,6 +1712,53 @@ After beating all four levels, they loop with more difficult enemies and faster 
 		<region>eu</region>
 	</game>
 	<game>
+		<path>./Artillery Duel (USA).zip</path>
+		<name>Artillery Duel</name>
+		<desc>In this two player game each player controls an artillery gun set in a mountain landscape with the goal of destroying the other player. Players take turns firing at each other; on each turn you have a limited amount of time in which the barrel angle and powder level can be set in order to control the direction and distance of the shot. When deciding on your shot, you will need to take the current conditions into account, which includes wind speed/direction and any mountains that may get in your way. Successfully destroying your opponents gun will earn you a point, and the first player to reach the set number of points wins the game. There are multiple skill levels available which set the amount of time you have to make a shot.</desc>
+		<image>./mixart/Artillery Duel (USA).png</image>
+		<video>./snap/Artillery Duel (USA).mp4</video>
+		<marquee>./wheel/Artillery Duel (USA).png</marquee>
+		<releasedate>19830316T000000</releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BC's Quest for Tires (USA, Europe).zip</path>
+		<name>BC's Quest for Tires</name>
+		<image>./mixart/BC's Quest for Tires (USA, Europe).png</image>
+		<video>./snap/BC's Quest for Tires (USA, Europe).mp4</video>
+		<marquee>./wheel/BC's Quest for Tires (USA, Europe).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./BC's Quest for Tires II - Grog's Revenge (USA, Europe).zip</path>
+		<name>BC's Quest for Tires II - Grog's Revenge</name>
+		<image>./mixart/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</image>
+		<video>./snap/BC's Quest for Tires II - Grog's Revenge (USA, Europe).mp4</video>
+		<marquee>./wheel/BC's Quest for Tires II - Grog's Revenge (USA, Europe).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Beamrider (USA).zip</path>
+		<name>Beamrider</name>
+		<desc>A web of iridescent blue beams engulfs Earth-Space. You stand watching. Mesmerized at first, you now realize the beams support weapons, frightening creations in different forms. Will you just watch or will you take action? Action??!! Then roll up your sleeves, mount these beams and... ride! Animated graphics create a 3D perspective that virtually pulls you into the screen. Pulsating sound effects intensify the action as a dizzying array of objects zips from beam to beam.</desc>
+		<image>./mixart/Beamrider (USA).png</image>
+		<video>./snap/Beamrider (USA).mp4</video>
+		<marquee>./wheel/Beamrider (USA).png</marquee>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./Jumpman Junior (USA).zip</path>
 		<name>Jumpman Junior</name>
 		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
@@ -1775,5 +1773,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<publisher>Epyx</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

@@ -4623,24 +4623,6 @@ Gameplay involves walking Dizzy through the levels, picking up objects and using
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 	</game>
-	<game id="801" source="ScreenScraper.fr">
-		<path>./Fantasy Zone (World) (v1.2).7z</path>
-		<name>Fantasy Zone</name>
-		<desc>The Fantasy Zone is a solar system consisting of eight brightly colored, fantastic planets. The evil Menons are trying to take over all of the planets in the Fantasy Zone by using misappropriated foreign currency to build their forces. It is the player's job to recover all of the coins and save the solar system! 
-
-Fantasy Zone is an arcade style shooter for one or two players. The goal is to destroy all of the creatures on each planet and collect as many of the lost coins as possible. At the end of each level is a large enemy that will have to be defeated before moving on to the next world.  At various points in the game, the player will be able to find a parts shop, which allows purchasing improvements for his spaceship, including better weapons and faster engines.</desc>
-		<image>./mixart/Fantasy Zone (World) (v1.2).png</image>
-		<video>./snap/Fantasy Zone (World) (v1.2).mp4</video>
-		<marquee>./wheel/Fantasy Zone (World) (v1.2).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19860901T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
 	<game id="964" source="ScreenScraper.fr">
 		<path>./Fantasy Zone - The Maze (USA, Europe).7z</path>
 		<name>Fantasy Zone  : The Maze</name>
@@ -4902,5 +4884,23 @@ If you do happen to take a fall the controls are similar to Nintendos "Punch out
 		<publisher>Sega</publisher>
 		<genre>Fight-Sports</genre>
 		<players>2</players>
+	</game>
+	<game id="801" source="ScreenScraper.fr">
+		<path>./Fantasy Zone (World) (v1.2).7z</path>
+		<name>Fantasy Zone</name>
+		<desc>The Fantasy Zone is a solar system consisting of eight brightly colored, fantastic planets. The evil Menons are trying to take over all of the planets in the Fantasy Zone by using misappropriated foreign currency to build their forces. It is the player's job to recover all of the coins and save the solar system! 
+
+Fantasy Zone is an arcade style shooter for one or two players. The goal is to destroy all of the creatures on each planet and collect as many of the lost coins as possible. At the end of each level is a large enemy that will have to be defeated before moving on to the next world.  At various points in the game, the player will be able to find a parts shop, which allows purchasing improvements for his spaceship, including better weapons and faster engines.</desc>
+		<image>./mixart/Fantasy Zone (World) (v1.2).png</image>
+		<video>./snap/Fantasy Zone (World) (v1.2).mp4</video>
+		<marquee>./wheel/Fantasy Zone (World) (v1.2).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19860901T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
 	</game>
 </gameList>

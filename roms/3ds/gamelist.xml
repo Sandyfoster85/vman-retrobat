@@ -1187,28 +1187,6 @@ Bring out your inner super hero (or villain!) with the all-new Super Hero Creato
 		<video>./snap/Theatrhythm Final Fantasy (Usa).mp4</video>
 		<genreid>266</genreid>
 	</game>
-	<game id="11318" source="ScreenScraper.fr">
-		<path>./Wreck-It Ralph (Usa).3ds</path>
-		<name>Wreck-It Ralph</name>
-		<desc>The Wreck-It Ralph video game brings you all the action from the 2012 Walt Disney Animation Studios film of the same name. 
- 
-The video game's storyline takes place after the film's events, in which Wrect-It Ralph and Fix-It Felix Jr. discover a new Cy-Bug invasion and must save the video gaming world once again with their famed wrecking and repairing skills. 
- 
-The main gameplay consists of guiding Ralph and Felix through several platforming levels in 3 worlds (Fix-It Felix Jr., Sugar Rush and Hero's Duty) within Game Central (the game's main hub). Wreck-It Ralph's abilities include smashing wooden crates, a ground pound to defeat enemies and pushing and pulling several objects, while Fix-It Felix Jr.'s abilities include double-jumping, wall-jumping, throwing his prized hammer and even repairing broken objects. 
- 
-Scattered throughout the levels include coins (that add towards your score), Hero Medals and even Easter Eggs (which are stored in the Trophy Room, even unlocking bonus concept artwork from the film). Cutscenes in-between levels also include vocal dialogue for every character. 
- 
-</desc>
-		<releasedate>20121130T000000</releasedate>
-		<developer>ImaginEngine Corp.</developer>
-		<publisher>Activision</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<image>./mixart/Wreck-It Ralph (Usa).png</image>
-		<marquee>./wheel/Wreck-It Ralph (Usa).png</marquee>
-		<video>./snap/Wreck-It Ralph (Usa).mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="11364" source="ScreenScraper.fr">
 		<path>./Bit.Trip Saga (U).3ds</path>
 		<name>BIT.TRIP SAGA</name>
@@ -1962,20 +1940,6 @@ The rules are simple and easy to grasp. Anyone can do it!</desc>
 		<image>./mixart/Pushmo (USA).png</image>
 		<marquee>./wheel/Pushmo (USA).png</marquee>
 		<video>./snap/Pushmo (USA).mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Pyramids (USA).3ds</path>
-		<name>Pyramids</name>
-		<desc>Pyramids is a puzzle/platform game where an explorer tries to get out the pyramids with his loots. The task will not be easy. Many traps, monsters and dangers will put your dexterity and ingenuity to the test. The player will have to use TNT and a gun but his best friend remains his shovel which allows him to create and destruct bricks. These bricks will be used as stairs, bridges, protections â€¦ The explorer will venture through 54 challenging 3D levels divided in 6 worlds.</desc>
-		<rating>0.60</rating>
-		<releasedate>20111027T000000</releasedate>
-		<developer>Visual Impact</developer>
-		<publisher />
-		<genre>Puzzle</genre>
-		<players />
-		<image>./mixart/Pyramids (USA).png</image>
-		<marquee>./wheel/Pyramids (USA).png</marquee>
-		<video>./snap/Pyramids (USA).mp4</video>
 	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Retro City Rampage - DX (USA) (En,Fr,Es).3ds</path>
@@ -2990,23 +2954,6 @@ The story begins with Katrielle setting up the Layton Detective Agency, determin
 		<favorite>true</favorite>
 		<genreid>768</genreid>
 	</game>
-	<game>
-		<path>./Metroid - Samus Returns (USA).3ds</path>
-		<name>Metroid : Samus Returns</name>
-		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
-The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
-		<image>./mixart/Metroid - Samus Returns (USA).png</image>
-		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
-		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20170915T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="10997" source="ScreenScraper.fr">
 		<path>./The Legend of Zelda - A Link Between Worlds (Usa).3ds</path>
 		<name>The Legend of Zelda - A Link Between Worlds</name>
@@ -3241,7 +3188,7 @@ Features:
 		<image>./mixart/Poochy &amp; Yoshis Woolly World (USA).png</image>
 		<video>./snap/Poochy &amp; Yoshis Woolly World (USA).mp4</video>
 		<marquee>./wheel/Poochy &amp; Yoshis Woolly World (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Good-Feel</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform-Puzzle-Game</genre>
@@ -3261,5 +3208,54 @@ On Akane's quest, she will encounter deadly ambushes, invade enemy castle roofto
 		<releasedate>20120105T000000</releasedate>
 		<developer>UFO Interactive</developer>
 		<genre>Action</genre>
+	</game>
+	<game>
+		<path>./Metroid - Samus Returns (USA).3ds</path>
+		<name>Metroid : Samus Returns</name>
+		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
+The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
+		<image>./mixart/Metroid - Samus Returns (USA).png</image>
+		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
+		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20170915T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Pyramids (USA).3ds</path>
+		<name>Pyramids</name>
+		<desc>Pyramids is a puzzle/platform game where an explorer tries to get out the pyramids with his loots. The task will not be easy. Many traps, monsters and dangers will put your dexterity and ingenuity to the test. The player will have to use TNT and a gun but his best friend remains his shovel which allows him to create and destruct bricks. These bricks will be used as stairs, bridges, protections â€¦ The explorer will venture through 54 challenging 3D levels divided in 6 worlds.</desc>
+		<image>./mixart/Pyramids (USA).png</image>
+		<video>./snap/Pyramids (USA).mp4</video>
+		<marquee>./wheel/Pyramids (USA).png</marquee>
+		<rating>0.60</rating>
+		<releasedate>20111027T000000</releasedate>
+		<developer>Visual Impact</developer>
+		<genre>Puzzle</genre>
+	</game>
+	<game id="11318" source="ScreenScraper.fr">
+		<path>./Wreck-It Ralph (Usa).3ds</path>
+		<name>Wreck-It Ralph</name>
+		<desc>The Wreck-It Ralph video game brings you all the action from the 2012 Walt Disney Animation Studios film of the same name. 
+ 
+The video game's storyline takes place after the film's events, in which Wrect-It Ralph and Fix-It Felix Jr. discover a new Cy-Bug invasion and must save the video gaming world once again with their famed wrecking and repairing skills. 
+ 
+The main gameplay consists of guiding Ralph and Felix through several platforming levels in 3 worlds (Fix-It Felix Jr., Sugar Rush and Hero's Duty) within Game Central (the game's main hub). Wreck-It Ralph's abilities include smashing wooden crates, a ground pound to defeat enemies and pushing and pulling several objects, while Fix-It Felix Jr.'s abilities include double-jumping, wall-jumping, throwing his prized hammer and even repairing broken objects. 
+ 
+Scattered throughout the levels include coins (that add towards your score), Hero Medals and even Easter Eggs (which are stored in the Trophy Room, even unlocking bonus concept artwork from the film). Cutscenes in-between levels also include vocal dialogue for every character.</desc>
+		<image>./mixart/Wreck-It Ralph (Usa).png</image>
+		<video>./snap/Wreck-It Ralph (Usa).mp4</video>
+		<marquee>./wheel/Wreck-It Ralph (Usa).png</marquee>
+		<releasedate>20121130T000000</releasedate>
+		<developer>ImaginEngine Corp.</developer>
+		<publisher>Activision</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<genreid>257</genreid>
 	</game>
 </gameList>

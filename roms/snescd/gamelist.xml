@@ -319,27 +319,6 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
-		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./ActRaiser_2_(USA)_(MSU1).sfc</path>
 		<name>Actraiser 2</name>
 		<desc>Players control "The Master," a god-like spirit sent down from the heavens, and fight to eradicate evil from the land. This sequel to ActRaiser focuses entirely on the side-scrolling action of the original, and has 14 levels with new monsters, new abilities, and new super powers.  You still control a "Cloud Palace" across a zoomable map of the world, choosing your next area of battle. In addition, many of the sound effects from the original game make their reappearance, as well as some hidden RPG elements.   Changes from the original ActRaiser include the elimination of the village-building mode, a move from a battery-save to password-save system, and a new musical score.</desc>
@@ -1858,6 +1837,27 @@ The Alien Wars begin!!!</desc>
 		<genre>Shoot'em Up-Action-Race, Driving</genre>
 		<players>2</players>
 		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
+		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
 		<region>us</region>
 	</game>
 </gameList>

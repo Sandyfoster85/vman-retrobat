@@ -747,21 +747,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Elvis (2004).vpx</path>
-		<name>Elvis (2004)</name>
-		<desc>Flipper Elvis (2004)</desc>
-		<image>./mixart/Elvis (2004).jpg</image>
-		<video>./snap/Elvis (2004).mp4</video>
-		<marquee>./wheel/Elvis (2004).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Escape from New York (1981).vpx</path>
 		<name>Escape from New York (1981)</name>
 		<desc>Flipper Escape from New York</desc>
@@ -2874,5 +2859,20 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Elvis (2004).vpx</path>
+		<name>Elvis (2004)</name>
+		<desc>Flipper Elvis (2004)</desc>
+		<image>./mixart/Elvis (2004).jpg</image>
+		<video>./snap/Elvis (2004).mp4</video>
+		<marquee>./wheel/Elvis (2004).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

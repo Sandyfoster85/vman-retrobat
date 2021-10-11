@@ -9670,13 +9670,6 @@ The DS version has a wireless one-one-one multiplayer mode and includes the Puzz
 		<developer>Homebrew</developer>
 		<publisher>Non-commercial</publisher>
 	</game>
-	<game>
-		<path>./Metroid Super Zero Mission.7z</path>
-		<name>'H'Metroid Super Zero Mission</name>
-		<image>./mixart/Metroid Super Zero Mission.jpg</image>
-		<video>./snap/Metroid Super Zero Mission.mp4</video>
-		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
-	</game>
 	<game id="2560" source="ScreenScraper.fr">
 		<path>./A.S.P. - Air Strike Patrol (USA).7z</path>
 		<name>A.S.P. : Air Strike Patrol</name>
@@ -13988,25 +13981,6 @@ Included in Super Mario All-Stars are the following games:
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Super Metroid (Japan, USA).7z</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super Metroid (Japan, USA).png</image>
-		<video>./snap/Super Metroid (Japan, USA).mp4</video>
-		<marquee>./wheel/Super Metroid (Japan, USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Adventure</genre>
-	</game>
-	<game>
 		<path>./Super Punch-Out!! (USA).7z</path>
 		<name>Super Punch-Out!!</name>
 		<desc>Your dreams are finally going to come true! All the years of training...all for that day where you'd finally step into the ring, amidst the roar of the excited crowd, to square off against the best of the best...you tighten your fist and hear your gloves tighten with them...you take a step foward...the door opens before you...and the boxing ring beckons your name!
@@ -14110,8 +14084,34 @@ Many of the situations and environments of the levels are based on episodes from
 		<video>./snap/Hyper Street Kart.mp4</video>
 		<marquee>./wheel/Hyper Street Kart.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Super Zero Mission.7z</path>
+		<name>'H'Metroid Super Zero Mission</name>
+		<image>./mixart/Metroid Super Zero Mission.jpg</image>
+		<video>./snap/Metroid Super Zero Mission.mp4</video>
+		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
+	</game>
+	<game>
+		<path>./Super Metroid (Japan, USA).7z</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super Metroid (Japan, USA).png</image>
+		<video>./snap/Super Metroid (Japan, USA).mp4</video>
+		<marquee>./wheel/Super Metroid (Japan, USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Adventure</genre>
 	</game>
 </gameList>

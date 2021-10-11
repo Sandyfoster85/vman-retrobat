@@ -977,17 +977,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Metroid 5.fpt</path>
-		<name>Metroid 5</name>
-		<desc>Flipper Metroid 5</desc>
-		<image>./mixart/Metroid 4.png</image>
-		<video>./snap/Metroid 4.mp4</video>
-		<marquee>./wheel/Metroid 4.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Oblivion Movie.fpt</path>
 		<name>Oblivion Movie</name>
 		<desc>Flipper Oblivion Movie</desc>
@@ -2077,6 +2066,17 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid 5.fpt</path>
+		<name>Metroid 5</name>
+		<desc>Flipper Metroid 5</desc>
+		<image>./mixart/Metroid 4.png</image>
+		<video>./snap/Metroid 4.mp4</video>
+		<marquee>./wheel/Metroid 4.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -22,28 +22,6 @@ Borderline was ported to the SG-1000 in 1983, and has also been released as part
 		<marquee>./wheel/Borderline (Japan, Europe).png</marquee>
 		<video>./snap/Borderline (Japan, Europe).mp4</video>
 	</game>
-	<game id="65710" source="ScreenScraper.fr">
-		<path>./C_So! (Japan).zip</path>
-		<name>C_So!</name>
-		<desc>C_So! (C-SO!) is a 1985 SG-1000 game developed by Compile and published by Sega. It is a port of an MSX game from the same year, which was published by Pony Canyon.
-
-
-
-The game has the player collect various items and defeat monsters by using see-saws. In order to progress, all items must be collected and all monsters must be destroyed. There is also an edit mode, allowing the player to create their own levels.
-
-
-
-The game was only released in Japan.</desc>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<hash>BE7ED0EB</hash>
-		<image>./mixart/C_So! (Japan).png</image>
-		<marquee>./wheel/C_So! (Japan).png</marquee>
-		<video>./snap/C_So! (Japan).mp4</video>
-	</game>
 	<game id="65698" source="ScreenScraper.fr">
 		<path>./Champion Baseball (Japan).zip</path>
 		<name>Champion Baseball</name>
@@ -1035,5 +1013,27 @@ Curiously this SG-1000 version uses the katakana script for writing Chack'n Pop 
 		<publisher>Tsukuda Original</publisher>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game id="65710" source="ScreenScraper.fr">
+		<path>./C_So! (Japan).zip</path>
+		<name>C_So!</name>
+		<desc>C_So! (C-SO!) is a 1985 SG-1000 game developed by Compile and published by Sega. It is a port of an MSX game from the same year, which was published by Pony Canyon.
+
+
+
+The game has the player collect various items and defeat monsters by using see-saws. In order to progress, all items must be collected and all monsters must be destroyed. There is also an edit mode, allowing the player to create their own levels.
+
+
+
+The game was only released in Japan.</desc>
+		<image>./mixart/C_So! (Japan).png</image>
+		<video>./snap/C_So! (Japan).mp4</video>
+		<marquee>./wheel/C_So! (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<crc32>BE7ED0EB</crc32>
 	</game>
 </gameList>

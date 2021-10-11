@@ -13843,18 +13843,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<genre>Race, Driving</genre>
 	</game>
 	<game>
-		<path>./Metroid - Zero Mission (USA).7z</path>
-		<name>Metroid : Zero Mission</name>
-		<desc>She's battled baddies on nearly every Nintendo system, and now, Samus Aran returns to her roots. Metroid: Zero Mission relives the story that started it all--revealing for the first time full details of her meeting with the Metroids. The plotline will be familiar to longtime fans of the Metroid series, but the challenges are new, the power-ups are plentiful, and the graphics and sound are supercharged. Plus, if you thought that the original Metroid had a surprise ending, wait until you get past the Mother Brain in Metroid: Zero Mission. A new twist provides a deeper adventure than ever before.</desc>
-		<image>./mixart/Metroid - Zero Mission (USA).png</image>
-		<video>./snap/Metroid - Zero Mission (USA).mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20040209T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-	</game>
-	<game>
 		<path>./Prince of Persia - The Sands of Time (USA) (En,Fr,Es).7z</path>
 		<name>Prince of Persia: The Sands of Time</name>
 		<desc>Prince of Persia: The Sands of Time is a 3D platformer which focuses on acrobatics and agility. Throughout much of the game, the player must attempt to traverse the palace by running across walls, ascending or descending chasms by jumping back and forth between walls, avoiding traps, climbing structures and jumping from platform to platform, making other types of well-timed leaps, solving puzzles, and using discovered objects to progress.</desc>
@@ -14312,18 +14300,6 @@ Top Gun is choc full of seat-ejecting action. Mistakes in this adrenalin-fuelled
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Metroid Fusion (USA, Australia).7z</path>
-		<name>Metroid Fusion</name>
-		<desc>While lending mission support on planet SR388, interstellar bounty hunter Samus Aran is attacked by an X parasite, an organism with the ability to mimic the abilities of any creature it infects. Near death, Samus is saved by a vaccine made from the DNA of the last Metroid -- the X parasite's only natural predator. When the X spread to a research station in orbit around SR388, a weakened Samus is forced to exterminate them all ... or die trying.</desc>
-		<image>./mixart/Metroid Fusion (USA, Australia).png</image>
-		<video>./snap/Metroid Fusion (USA, Australia).mp4</video>
-		<rating>0.8</rating>
-		<releasedate>20021117T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Flushed Away (USA).7z</path>
 		<name>Flushed Away</name>
 		<desc>The only video game based on the DreamWorks Animation and Aardman, Flushed Away lets players relive the movie and beyond as they assume the roles of Roddy, Rita and take the wheel of the Jammy Dodger watercraft. Maneuver through a dangerous underground city filled with enemies, waterfalls and traps in a struggle against the villainous Toad and his evil plans.</desc>
@@ -14410,19 +14386,6 @@ Each table has a variety of scoring opportunities, including ramps, spinners, an
 		<developer>New Kid Co</developer>
 		<publisher>Ubisoft</publisher>
 		<genre>Various-Action-Pinball</genre>
-	</game>
-	<game>
-		<path>./Bruce Lee - Return of the Legend (USA).7z</path>
-		<name>Bruce Lee : Return of the Legend</name>
-		<desc>The legendary Bruce Lee is back as Hai Feng! Master Bruce's fists of fury, nunchaku and dozens of awesome moves as you travel across the globe to locations of mystery and intrigue in this epic martial arts adventure! Use the environment to your advantage, evade your enemies by scaling walls, fight like the Masterwith multiple combo and power-up attacks.</desc>
-		<image>./mixart/Bruce Lee - Return of the Legend (USA).png</image>
-		<video>./snap/Bruce Lee - Return of the Legend (USA).mp4</video>
-		<marquee>./wheel/Bruce Lee - Return of the Legend (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030321T000000</releasedate>
-		<developer>Vicarious Visions</developer>
-		<publisher>Vivendi Universal Games</publisher>
-		<genre>Action</genre>
 	</game>
 	<game>
 		<path>./Action Man - Robot Atak (Europe) (En,Fr,De,Es,It).7z</path>
@@ -14660,12 +14623,50 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<video>./snap/River City Ransom EX (USA).mp4</video>
 		<marquee>./wheel/River City Ransom EX (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Million</developer>
 		<publisher>Atlus</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Bruce Lee - Return of the Legend (USA).7z</path>
+		<name>Bruce Lee : Return of the Legend</name>
+		<desc>The legendary Bruce Lee is back as Hai Feng! Master Bruce's fists of fury, nunchaku and dozens of awesome moves as you travel across the globe to locations of mystery and intrigue in this epic martial arts adventure! Use the environment to your advantage, evade your enemies by scaling walls, fight like the Masterwith multiple combo and power-up attacks.</desc>
+		<image>./mixart/Bruce Lee - Return of the Legend (USA).png</image>
+		<video>./snap/Bruce Lee - Return of the Legend (USA).mp4</video>
+		<marquee>./wheel/Bruce Lee - Return of the Legend (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030321T000000</releasedate>
+		<developer>Vicarious Visions</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Metroid - Zero Mission (USA).7z</path>
+		<name>Metroid : Zero Mission</name>
+		<desc>She's battled baddies on nearly every Nintendo system, and now, Samus Aran returns to her roots. Metroid: Zero Mission relives the story that started it all--revealing for the first time full details of her meeting with the Metroids. The plotline will be familiar to longtime fans of the Metroid series, but the challenges are new, the power-ups are plentiful, and the graphics and sound are supercharged. Plus, if you thought that the original Metroid had a surprise ending, wait until you get past the Mother Brain in Metroid: Zero Mission. A new twist provides a deeper adventure than ever before.</desc>
+		<image>./mixart/Metroid - Zero Mission (USA).png</image>
+		<video>./snap/Metroid - Zero Mission (USA).mp4</video>
+		<rating>0.9</rating>
+		<releasedate>20040209T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+	</game>
+	<game>
+		<path>./Metroid Fusion (USA, Australia).7z</path>
+		<name>Metroid Fusion</name>
+		<desc>While lending mission support on planet SR388, interstellar bounty hunter Samus Aran is attacked by an X parasite, an organism with the ability to mimic the abilities of any creature it infects. Near death, Samus is saved by a vaccine made from the DNA of the last Metroid -- the X parasite's only natural predator. When the X spread to a research station in orbit around SR388, a weakened Samus is forced to exterminate them all ... or die trying.</desc>
+		<image>./mixart/Metroid Fusion (USA, Australia).png</image>
+		<video>./snap/Metroid Fusion (USA, Australia).mp4</video>
+		<rating>0.8</rating>
+		<releasedate>20021117T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
 	</game>
 </gameList>

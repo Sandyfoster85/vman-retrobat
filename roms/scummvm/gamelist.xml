@@ -84,21 +84,6 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dreamweb (CD DOS).svm/Dreamweb.scummvm</path>
-		<name>Dreamweb</name>
-		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells h</desc>
-		<image>./mixart/dreamweb.png</image>
-		<video>./snap/dreamweb.mp4</video>
-		<marquee>./wheel/dreamweb.png</marquee>
-		<rating>1</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Creative Reality</developer>
-		<publisher>Empire Interactive Entertainment</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
 		<name>Blade Runner</name>
 		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
@@ -154,20 +139,6 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<developer>Presto Studios</developer>
 		<publisher>Ubisoft</publisher>
 		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./tlj-win.cmd</path>
-		<name>The Longest Journey</name>
-		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
-		<image>./mixart/tlj.png</image>
-		<video>./snap/tlj.mp4</video>
-		<marquee>./wheel/tlj.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>Funcom</publisher>
-		<genre>Adventure / Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1801,6 +1772,35 @@ Puzzle-solving element is present, though reduced compared to most other adventu
 		<developer>Sierra On-Line</developer>
 		<publisher>Sierra On-Line</publisher>
 		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tlj-win.cmd</path>
+		<name>The Longest Journey</name>
+		<desc>Between science and magic, between order and chaos, between Stark and Arcadia, there is an ancient balance. For thousands of years, the Guardian of the Balance has perserved the Divide between the twin worlds. But now the Guardian has abandoned his tower, the armies of Chaos are advancing, and the fate of the worlds is in the hands of one person... Her name is April Ryan. She is eighteen years old, and she has no idea that her destiny has already been foretold in hundred tales. With the power to pass between worlds like others pass from waking to sleep, Aprils must embark on the longest journey of her life; a journey not only across twin worlds, but also into her own heart and soul.</desc>
+		<image>./mixart/tlj.png</image>
+		<video>./snap/tlj.mp4</video>
+		<marquee>./wheel/tlj.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>Funcom</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dreamweb (CD DOS).svm/Dreamweb.scummvm</path>
+		<name>Dreamweb</name>
+		<desc>Ryan, a bartender from a dystopian future can't sleep peacefully for months. His nights are sequences of nightmares and strange dreams, days with frequent black-outs with strange visions, until one night a figure in monk attire appears to him, and tells h</desc>
+		<image>./mixart/dreamweb.png</image>
+		<video>./snap/dreamweb.mp4</video>
+		<marquee>./wheel/dreamweb.png</marquee>
+		<rating>1</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Creative Reality</developer>
+		<publisher>Empire Interactive Entertainment</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

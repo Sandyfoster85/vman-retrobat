@@ -679,19 +679,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./gunsur2.zip</path>
-		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
-		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
-		<image>./mixart/gunsur2.png</image>
-		<video>./snap/gunsur2.mp4</video>
-		<marquee>./wheel/gunsur2.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-	</game>
-	<game>
 		<path>./illvelo.zip</path>
 		<name>Illmatic Envelope (Illmatic Envelope, Japan)</name>
 		<desc>Illmatic Envelope, commonly abbreviated Illvelo, is a 2008 cartoon style shoot-'em-up for the Sega NAOMI arcade platform by Milestone. They ported it to the Nintendo Wii later that year as Illvelo Wii, with Sega partnering in its release.</desc>
@@ -994,20 +981,6 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Music and Dance-Rhythm</genre>
-		<players>1-2</players>
-	</game>
-	<game>
-		<path>./shikgam2.bin</path>
-		<name>Shikigami no Shiro II (GDL-0021)</name>
-		<desc>Shikigami no Shiro II is a shoot'em up featuring 7 selectable characters. There are five levels of two stages each.</desc>
-		<image>./mixart/shikgam2.png</image>
-		<video>./snap/shikgam2.mp4</video>
-		<marquee>./wheel/shikgam2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Alfa System</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
 		<players>1-2</players>
 	</game>
 	<game>
@@ -1539,20 +1512,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./bdrdown.bin</path>
-		<name>Border Down (Rev A, GDL-0023A)</name>
-		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.  It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
-		<image>./mixart/bdrdown.png</image>
-		<video>./snap/bdrdown.mp4</video>
-		<marquee>./wheel/bdrdown.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>G.rev Ltd.</developer>
-		<publisher>G.rev Ltd.</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./capsnk.zip</path>
 		<name>Capcom vs. SNK: Millennium Fight 2000 (rev C)</name>
 		<desc>Fighting Game Fans Rejoice! 14 characters from Capcom's street fighter face off against 14 characters from SNK's king of Fighters.</desc>
@@ -1771,5 +1730,46 @@
 		<developer>Amusement Vision</developer>
 		<publisher>Sega</publisher>
 		<genre>Beat'em Up-Fight-Fight / 3D</genre>
+	</game>
+	<game>
+		<path>./bdrdown.bin</path>
+		<name>Border Down (Rev A, GDL-0023A)</name>
+		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.  It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
+		<image>./mixart/bdrdown.png</image>
+		<video>./snap/bdrdown.mp4</video>
+		<marquee>./wheel/bdrdown.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>G.rev Ltd.</developer>
+		<publisher>G.rev Ltd.</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./gunsur2.zip</path>
+		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
+		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
+		<image>./mixart/gunsur2.png</image>
+		<video>./snap/gunsur2.mp4</video>
+		<marquee>./wheel/gunsur2.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+	</game>
+	<game>
+		<path>./shikgam2.bin</path>
+		<name>Shikigami no Shiro II (GDL-0021)</name>
+		<desc>Shikigami no Shiro II is a shoot'em up featuring 7 selectable characters. There are five levels of two stages each.</desc>
+		<image>./mixart/shikgam2.png</image>
+		<video>./snap/shikgam2.mp4</video>
+		<marquee>./wheel/shikgam2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+		<players>2</players>
 	</game>
 </gameList>

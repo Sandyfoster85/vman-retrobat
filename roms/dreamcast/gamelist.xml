@@ -4141,21 +4141,6 @@ Whilst being a nice attempt to add some sparkle to a tired genre, many aspects o
 		<genre>Race, Driving</genre>
 		<players>2</players>
 	</game>
-	<game id="13513" source="ScreenScraper.fr">
-		<path>./Tomb Raider - The Last Revelation (Europe).chd</path>
-		<name>Tomb Raider : The Last Revelation</name>
-		<desc>Lara Croft faces the great dangers of an unleashed Egyptian god in her fourth tomb raiding adventure. Last Revelation's redesigned inventory system gives Tomb Raider brand-new gameplay. Combined with Lara's new moves and abilities, gameplay features greater scope than ever before. Clear objectives and smaller locations result in less time spent traveling between areas. Individual environments are more reminiscent of the original game - tightly focused and puzzle-orientated, but with higher levels of detail and a greater number of objects than seen before. An emphasis on ancient locations and tombs allows mystery, suspense and characteristic atmosphere to play key roles throughout.</desc>
-		<image>./mixart/Tomb Raider - The Last Revelation (Europe).png</image>
-		<video>./snap/Tomb Raider - The Last Revelation (Europe).mp4</video>
-		<marquee>./wheel/Tomb Raider - The Last Revelation (Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010413T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Action-Action / Adventure-Adventure</genre>
-		<players>1</players>
-		<genreid>256</genreid>
-	</game>
 	<game id="13523" source="ScreenScraper.fr">
 		<path>./Tomb Raider Chronicles (Europe).chd</path>
 		<name>Tomb Raider Chronicles</name>
@@ -4722,27 +4707,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<genre>Fight-Sports</genre>
 		<players>2</players>
 	</game>
-	<game id="78492" source="ScreenScraper.fr">
-		<path>./Pro Pinball Trilogy (Europe).cue</path>
-		<name>Pro Pinball Trilogy</name>
-		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
-Pro Pinball: Timeshock! 
-Pro Pinball: Big Race USA 
-Pro Pinball: Fantastic Journey 
-The first part of the series, Pro Pinball: The Web, is not included.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
-		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
-		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010608T000000</releasedate>
-		<developer>Cunning Developments</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Pinball-Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
 	<game>
 		<path>./Dead or Alive 2 - Limited Edition (Japan).chd</path>
 		<name>Dead or Alive 2 Limited Edition</name>
@@ -4778,5 +4742,41 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="78492" source="ScreenScraper.fr">
+		<path>./Pro Pinball Trilogy (Europe).cue</path>
+		<name>Pro Pinball Trilogy</name>
+		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
+Pro Pinball: Timeshock! 
+Pro Pinball: Big Race USA 
+Pro Pinball: Fantastic Journey 
+The first part of the series, Pro Pinball: The Web, is not included.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
+		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
+		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010608T000000</releasedate>
+		<developer>Cunning Developments</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Pinball-Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="13513" source="ScreenScraper.fr">
+		<path>./Tomb Raider - The Last Revelation (Europe).chd</path>
+		<name>Tomb Raider : The Last Revelation</name>
+		<desc>Lara Croft faces the great dangers of an unleashed Egyptian god in her fourth tomb raiding adventure. Last Revelation's redesigned inventory system gives Tomb Raider brand-new gameplay. Combined with Lara's new moves and abilities, gameplay features greater scope than ever before. Clear objectives and smaller locations result in less time spent traveling between areas. Individual environments are more reminiscent of the original game - tightly focused and puzzle-orientated, but with higher levels of detail and a greater number of objects than seen before. An emphasis on ancient locations and tombs allows mystery, suspense and characteristic atmosphere to play key roles throughout.</desc>
+		<image>./mixart/Tomb Raider - The Last Revelation (Europe).png</image>
+		<video>./snap/Tomb Raider - The Last Revelation (Europe).mp4</video>
+		<marquee>./wheel/Tomb Raider - The Last Revelation (Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010413T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Action-Action / Adventure-Adventure</genre>
+		<players>1</players>
+		<genreid>256</genreid>
 	</game>
 </gameList>

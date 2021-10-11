@@ -5425,18 +5425,6 @@ Before the flooz starts flowing from its randomly-selected starting position, th
 		<marquee>./wheel/PipeMania_v1.0_0220.png</marquee>
 		<video>./snap/PipeMania_v1.0_0220.mp4</video>
 	</game>
-	<game id="105479" source="ScreenScraper.fr">
-		<path>./Pirates_v1.4_0552.lha</path>
-		<name>Pirates!</name>
-		<desc>Sid MeierÃ¢â¬â¢s Pirates! is a video game created by Sid Meier and developed and published by MicroProse in 1987. It was the first game to include the name "Sid Meier" in its title as an effort by MicroProse to attract fans of Meier's earlier games, most of which were combat vehicle simulation video games. The game is a simulation of the life of a pirate, a privateer or a pirate hunter in the Spanish Main in the 16th, 17th and 18th centuries.</desc>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>MicroProse</publisher>
-		<hash>73EABEFA</hash>
-		<image>./mixart/Pirates_v1.4_0552.png</image>
-		<marquee>./wheel/Pirates_v1.4_0552.png</marquee>
-		<video>./snap/Pirates_v1.4_0552.mp4</video>
-	</game>
 	<game id="88963" source="ScreenScraper.fr">
 		<path>./Plan9FromOuterSpace_v1.2a.lha</path>
 		<name>Plan 9 from Outer Space</name>
@@ -10583,5 +10571,18 @@ The game does not feature any multi-ball but several play-modes and a highscore 
 		<releasedate>19890101T000000</releasedate>
 		<developer>Origin Systems</developer>
 		<publisher>Origin Systems</publisher>
+	</game>
+	<game id="105479" source="ScreenScraper.fr">
+		<path>./Pirates_v1.4_0552.lha</path>
+		<name>Pirates!</name>
+		<desc>Sid MeierÃ¢â¬â¢s Pirates! is a video game created by Sid Meier and developed and published by MicroProse in 1987. It was the first game to include the name "Sid Meier" in its title as an effort by MicroProse to attract fans of Meier's earlier games, most of which were combat vehicle simulation video games. The game is a simulation of the life of a pirate, a privateer or a pirate hunter in the Spanish Main in the 16th, 17th and 18th centuries.</desc>
+		<image>./mixart/Pirates_v1.4_0552.png</image>
+		<video>./snap/Pirates_v1.4_0552.mp4</video>
+		<marquee>./wheel/Pirates_v1.4_0552.png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>MicroProse</publisher>
+		<favorite>true</favorite>
+		<crc32>73EABEFA</crc32>
 	</game>
 </gameList>
