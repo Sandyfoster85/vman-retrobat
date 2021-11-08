@@ -5,3 +5,6 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 4|2021-07-18|"disable PCXS2 Multi-thread microVU1 for compatibility"||V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg|<string name="ps2.negdivhack" value="1" />|<string name="ps2.negdivhack" value="0" />
 5|2021-08-26|"Retroarch annoying messages: "Device disconnected from port #1 (sdl2)", by @VMAN"||V:\RetroBat\retrobat.ini|ShowMessage="true"|ShowMessage="false"
 8|2021-10-15|"PS3 : corrected After Burner Climax.m3u"||V:\RetroBat\roms\ps3\After Burner Climax.m3u|NPEB00260|NPEB00175
+9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_cd = "CD32"|puae_model_cd = "CD32FR"
+9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_fd = "A500"|puae_model_fd = "A500PLUS"
+9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_hd = "A600"|puae_model_hd = "A1200"
