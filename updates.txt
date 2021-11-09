@@ -8,3 +8,4 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_cd = "CD32"|puae_model_cd = "CD32FR"
 9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_fd = "A500"|puae_model_fd = "A500PLUS"
 9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_hd = "A600"|puae_model_hd = "A1200"
+10|2021-11-09|"Amiga : enable physical keyboard passthrough"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_physical_keyboard_pass_through = "disabled"|puae_physical_keyboard_pass_through = "enabled"
