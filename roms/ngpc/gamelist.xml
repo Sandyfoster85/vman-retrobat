@@ -103,20 +103,6 @@
 		<marquee>./wheel/Metal Slug - 1st Mission (World) (En,Ja).png</marquee>
 		<video>./snap/Metal Slug - 1st Mission (World) (En,Ja).mp4</video>
 	</game>
-	<game id="47041" source="ScreenScraper.fr">
-		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
-		<name>Metal Slug - 2nd Mission</name>
-		<desc>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Ukiyotei</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
-		<marquee>./wheel/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
-		<video>./snap/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
-	</game>
 	<game id="87564" source="ScreenScraper.fr">
 		<path>./Neo 21 - Real Casino Series (World).zip</path>
 		<name>Neo 21 - Real Casino Series</name>
@@ -556,5 +542,19 @@
 		<publisher>SNK</publisher>
 		<genre>Action-Role playing games</genre>
 		<players>2</players>
+	</game>
+	<game id="47041" source="ScreenScraper.fr">
+		<path>./Metal Slug - 2nd Mission (World) (En,Ja).zip</path>
+		<name>Metal Slug - 2nd Mission</name>
+		<desc>Take control of the Metal Slug tank on the NGPC once again, this time to defeat the rebel strike force "Phantom." Travel through 38 stages in a non-linear battle path defeating enemy troops and rescuing hostages. Pilot the Metal Slug tank, Slug Flyer combat jet, and the Slug Sub submarine and fire the heavy machine gun, rocket launcher, and fire gun. Two unique playable characters, a list of rescued hostages, and a time attack mode add depth to this side-scroller.</desc>
+		<image>./mixart/Metal Slug - 2nd Mission (World) (En,Ja).png</image>
+		<video>./snap/Metal Slug - 2nd Mission (World) (En,Ja).mp4</video>
+		<marquee>./wheel/Metal Slug - 2nd Mission (World) (En,Ja).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ukiyotei</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 	</game>
 </gameList>

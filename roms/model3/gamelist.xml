@@ -95,19 +95,6 @@
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./Harley Davidson LA Riders.zip</path>
-		<name>Harley Davidson LA Riders</name>
-		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
-		<image>./mixart/Harley Davidson LA Riders.png</image>
-		<video>./snap/Harley Davidson LA Riders.mp4</video>
-		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
-	</game>
-	<game>
 		<path>./Magical Truck Adventure.zip</path>
 		<name>Magical Truck Adventure</name>
 		<desc>Magical Truck Adventure gives the player the feel of actually riding a rail car. An action-pedal and truck lever assists the player in chasing, jumping, and dodging the evil villains that threaten to steal Alma's precious stone. 
@@ -167,21 +154,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<md5>1e2f9b2cfbf14baed77fb5d125853e13</md5>
 		<genreid>1537</genreid>
 	</game>
-	<game id="37515" source="ScreenScraper.fr">
-		<path>./Le Mans 24.zip</path>
-		<name>Le Mans 24</name>
-		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
-		<image>./mixart/Le Mans 24.png</image>
-		<video>./snap/Le Mans 24.mp4</video>
-		<marquee>./wheel/Le Mans 24.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<genreid>1537</genreid>
-	</game>
 	<game id="43284" source="ScreenScraper.fr">
 		<path>./Sega Rally 2.zip</path>
 		<name>Sega Rally 2</name>
@@ -239,21 +211,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<favorite>true</favorite>
 		<genreid>262</genreid>
 	</game>
-	<game id="37514" source="ScreenScraper.fr">
-		<path>./LA Machine Guns.zip</path>
-		<name>LA Machine Guns</name>
-		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
-		<image>./mixart/LA Machine Guns.png</image>
-		<video>./snap/LA Machine Guns.mp4</video>
-		<marquee>./wheel/LA Machine Guns.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>1</players>
-		<genreid>261</genreid>
-	</game>
 	<game id="37524" source="ScreenScraper.fr">
 		<path>./The Ocean Hunter.zip</path>
 		<name>The Ocean Hunter</name>
@@ -268,21 +225,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<genre>Race, Driving-Race 1st Pers. view-Shooter-Shoot'em Up</genre>
 		<players>2</players>
 		<genreid>1537</genreid>
-	</game>
-	<game>
-		<path>./Daytona USA 2 Power Edition.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<image>./mixart/Daytona USA 2 Power Edition.png</image>
-		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
-		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./Dirt Devils.zip</path>
@@ -325,6 +267,36 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<genreid>1537</genreid>
 	</game>
 	<game>
+		<path>./Daytona USA 2 Power Edition.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./mixart/Daytona USA 2 Power Edition.png</image>
+		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
+		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37514" source="ScreenScraper.fr">
+		<path>./LA Machine Guns.zip</path>
+		<name>LA Machine Guns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./mixart/LA Machine Guns.png</image>
+		<video>./snap/LA Machine Guns.mp4</video>
+		<marquee>./wheel/LA Machine Guns.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1</players>
+		<genreid>261</genreid>
+	</game>
+	<game>
 		<path>./Star Wars Trilogy.zip</path>
 		<name>Star Wars Trilogy</name>
 		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles. 
@@ -343,5 +315,33 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Harley Davidson LA Riders.zip</path>
+		<name>Harley Davidson LA Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./mixart/Harley Davidson LA Riders.png</image>
+		<video>./snap/Harley Davidson LA Riders.mp4</video>
+		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
+	</game>
+	<game id="37515" source="ScreenScraper.fr">
+		<path>./Le Mans 24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<image>./mixart/Le Mans 24.png</image>
+		<video>./snap/Le Mans 24.mp4</video>
+		<marquee>./wheel/Le Mans 24.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

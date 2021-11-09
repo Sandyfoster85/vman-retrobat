@@ -1551,20 +1551,6 @@ There is also support for a printer so that either the current board or the cont
 		<publisher>Intelligent Software - Amsoft</publisher>
 	</game>
 	<game>
-		<path>./Total Recall (UK) (1991).dsk</path>
-		<name>Total Recall</name>
-		<desc>Based on the movie of the same name, Total Recall puts you in charge of Douglas Quaid, who must find a way to Mars in order to find the answers to his two questions: why is he being hunted, and who is hunting him. In order to do this, Quaid must go through level after level of beating up bad guys that get in his way.
-
-Some of the levels differ in gameplay, and range between action and driving scenes. The action scenes mainly require you to collect some items before leaving the level. You have only one chance to complete the current level, which means that if your energy is lost, the game ends. Energy is lost if you are attacked by an obstacle, or if you are shot at by an enemy. You can gain more energy by either collecting some pills or a heart, depending on the platform.</desc>
-		<image>./mixart/Total Recall (UK) (1991).png</image>
-		<video>./snap/Total Recall (UK) (1991).mp4</video>
-		<marquee>./wheel/Total Recall (UK) (1991).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Ocean Software Ltd.</developer>
-		<publisher>Ocean Software Ltd.</publisher>
-	</game>
-	<game>
 		<path>./Impossible Mission 2 (UK) (1988).dsk</path>
 		<name>Impossible Mission 2</name>
 		<desc>You have 8 hours to prevent Elvin, a psychotic genius from destroying the world in this sequel to the highly successful Impossible Mission. Enter Elvin's tower fortress, avoid his robots, assemble security combinations for each tower, recover musical sequences and tie them together into a full melody to reach Elvin's central control room.</desc>
@@ -1775,5 +1761,19 @@ The car has high and low gears, and is susceptible to damage from contact with a
 		<players>2</players>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./Total Recall (UK) (1991).dsk</path>
+		<name>Total Recall</name>
+		<desc>Based on the movie of the same name, Total Recall puts you in charge of Douglas Quaid, who must find a way to Mars in order to find the answers to his two questions: why is he being hunted, and who is hunting him. In order to do this, Quaid must go through level after level of beating up bad guys that get in his way.
+
+Some of the levels differ in gameplay, and range between action and driving scenes. The action scenes mainly require you to collect some items before leaving the level. You have only one chance to complete the current level, which means that if your energy is lost, the game ends. Energy is lost if you are attacked by an obstacle, or if you are shot at by an enemy. You can gain more energy by either collecting some pills or a heart, depending on the platform.</desc>
+		<image>./mixart/Total Recall (UK) (1991).png</image>
+		<video>./snap/Total Recall (UK) (1991).mp4</video>
+		<marquee>./wheel/Total Recall (UK) (1991).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Ocean Software Ltd.</developer>
+		<publisher>Ocean Software Ltd.</publisher>
 	</game>
 </gameList>

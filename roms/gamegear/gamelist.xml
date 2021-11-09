@@ -3620,21 +3620,6 @@ Because the game follows the movie so closely, the first mission which involves 
 		<marquee>./wheel/Tom and Jerry - The Movie (USA).png</marquee>
 		<video>./snap/Tom and Jerry - The Movie (USA).mp4</video>
 	</game>
-	<game id="13005" source="ScreenScraper.fr">
-		<path>./True Lies (World).7z</path>
-		<name>True Lies</name>
-		<desc>Take charge of gun toting Arnie in this top down omni-scrolling action shooter. Arnie takes on the terrorists using a variety of weapons in all the locations from the movie of the same name.
-In each location you have a mission such as retrieve data or capture a terrorist.This usually involves searching around for your goal while dispatching enemies and trying to minimise civilian casualties. The emphasis is on action and weapons, in particular Arnold's favourites: flame thrower and the uzi. He also has a diving roll to help him dodge the enemies bullets and come back guns blazing..</desc>
-		<rating>0.55</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Beam Software</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/True Lies (World).png</image>
-		<marquee>./wheel/True Lies (World).png</marquee>
-		<video>./snap/True Lies (World).mp4</video>
-	</game>
 	<game id="13014" source="ScreenScraper.fr">
 		<path>./Ultimate Soccer (Japan, Europe) (En,Fr,De,Es,It).7z</path>
 		<name>Ultimate Soccer</name>
@@ -4312,5 +4297,20 @@ The basic mechanics of the game are punching, (double-)jumping and jump-kicking.
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
+	</game>
+	<game id="13005" source="ScreenScraper.fr">
+		<path>./True Lies (World).7z</path>
+		<name>True Lies</name>
+		<desc>Take charge of gun toting Arnie in this top down omni-scrolling action shooter. Arnie takes on the terrorists using a variety of weapons in all the locations from the movie of the same name.
+In each location you have a mission such as retrieve data or capture a terrorist.This usually involves searching around for your goal while dispatching enemies and trying to minimise civilian casualties. The emphasis is on action and weapons, in particular Arnold's favourites: flame thrower and the uzi. He also has a diving roll to help him dodge the enemies bullets and come back guns blazing..</desc>
+		<image>./mixart/True Lies (World).png</image>
+		<video>./snap/True Lies (World).mp4</video>
+		<marquee>./wheel/True Lies (World).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 	</game>
 </gameList>

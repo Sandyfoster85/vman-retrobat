@@ -198,37 +198,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./roadblaster.daphne</path>
-		<name>Road Blaster</name>
-		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
-		<image>./mixart/rb.png</image>
-		<video>./snap/rb.mp4</video>
-		<marquee>./wheel/rb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850515T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./ace.daphne</path>
 		<name>Space Ace</name>
 		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
@@ -255,6 +224,37 @@
 		<developer>RDI Video Systems</developer>
 		<publisher>RDI Video Systems</publisher>
 		<genre>Platform-Plateform / Run Jump</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./mixart/astron.png</image>
+		<video>./snap/astron.mp4</video>
+		<marquee>./wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

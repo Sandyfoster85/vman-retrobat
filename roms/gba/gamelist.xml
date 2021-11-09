@@ -8874,24 +8874,6 @@ Puyo Pop Fever features a Two Player Mode. Some versions allow for more people s
 		<marquee>./wheel/Racing Fever (Europe) (En,De,Es,It).png</marquee>
 		<video>./snap/Racing Fever (Europe) (En,De,Es,It).mp4</video>
 	</game>
-	<game id="4582" source="ScreenScraper.fr">
-		<path>./Racing Gears Advance (USA).7z</path>
-		<name>Racing Gears Advance</name>
-		<desc>This handheld racing game offers a range of licensed cars, several courses and circuits, and a challenging set of opponents. To these stock elements, it adds one more: weaponry. Now you can choose to nitro past the opponent ahead of you, or slow him down with a missile.
-
-With each vehicle and driver pair you can race in Practice Mode to familiarize yourself with tracks or choose a Championship Mode to progress through a series of circuits. After each race you'll need to spend some of the money you've earned (either by placing or picking up money icons during the race) to repair and -- if possible -- upgrade your car. The upgrades can improve your car as a racing machine (e.g. a larger engine or better brakes) or as a war machine (e.g. adding more weapons bays or buying a new type of weapon).
-
-The track design uses the isometric view, and almost never puts the car behind an obstacle. However, among the twisty roads are a few shortcuts that require you to think outside the lines of the road, and occasionally take a leap of faith.</desc>
-		<rating>0.75</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game-Race, Driving</genre>
-		<players>1-4</players>
-		<image>./mixart/Racing Gears Advance (USA).png</image>
-		<marquee>./wheel/Racing Gears Advance (USA).png</marquee>
-		<video>./snap/Racing Gears Advance (USA).mp4</video>
-	</game>
 	<game id="4641" source="ScreenScraper.fr">
 		<path>./Rampage - Puzzle Attack (USA, Europe).7z</path>
 		<name>Rampage : Puzzle Attack</name>
@@ -14512,22 +14494,6 @@ Ace Combat Advance is a top-down shooter. The player begins by picking an aircra
 		<lang>en</lang>
 		<region>eu</region>
 	</game>
-	<game id="84632" source="ScreenScraper.fr">
-		<path>./Sound of Thunder, A (USA) (En,Fr,De,Es,It).7z</path>
-		<name>A Sound of Thunder</name>
-		<desc>Based on the Franchise Pictures movie of the same name, A Sound of Thunder takes you to a future where time travel is possible. Things quickly go wrong when someone alters the past, creating a sequence of time ripples that mutate the present-day world. Now you must solve the mystery and sort out a mess that just might mean the end of human existence. You'll solve puzzles, manipulate items, interact with other characters, and eliminate mutant creatures and plants. In addition to a single-player mode, the game features both cooperative and competitive multiplayer modes.</desc>
-		<image>./mixart/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Sound of Thunder, A (USA) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20050201T000000</releasedate>
-		<developer>Mobius Entertainment</developer>
-		<publisher>Bam Entertainment</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-	</game>
 	<game>
 		<path>./007 - Everything or Nothing (USA, Europe) (En,Fr,De).7z</path>
 		<name>007 : Everything or Nothing</name>
@@ -14668,5 +14634,39 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+	</game>
+	<game id="4582" source="ScreenScraper.fr">
+		<path>./Racing Gears Advance (USA).7z</path>
+		<name>Racing Gears Advance</name>
+		<desc>This handheld racing game offers a range of licensed cars, several courses and circuits, and a challenging set of opponents. To these stock elements, it adds one more: weaponry. Now you can choose to nitro past the opponent ahead of you, or slow him down with a missile.
+
+With each vehicle and driver pair you can race in Practice Mode to familiarize yourself with tracks or choose a Championship Mode to progress through a series of circuits. After each race you'll need to spend some of the money you've earned (either by placing or picking up money icons during the race) to repair and -- if possible -- upgrade your car. The upgrades can improve your car as a racing machine (e.g. a larger engine or better brakes) or as a war machine (e.g. adding more weapons bays or buying a new type of weapon).
+
+The track design uses the isometric view, and almost never puts the car behind an obstacle. However, among the twisty roads are a few shortcuts that require you to think outside the lines of the road, and occasionally take a leap of faith.</desc>
+		<image>./mixart/Racing Gears Advance (USA).png</image>
+		<video>./snap/Racing Gears Advance (USA).mp4</video>
+		<marquee>./wheel/Racing Gears Advance (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game-Race, Driving</genre>
+		<players>4</players>
+	</game>
+	<game id="84632" source="ScreenScraper.fr">
+		<path>./Sound of Thunder, A (USA) (En,Fr,De,Es,It).7z</path>
+		<name>A Sound of Thunder</name>
+		<desc>Based on the Franchise Pictures movie of the same name, A Sound of Thunder takes you to a future where time travel is possible. Things quickly go wrong when someone alters the past, creating a sequence of time ripples that mutate the present-day world. Now you must solve the mystery and sort out a mess that just might mean the end of human existence. You'll solve puzzles, manipulate items, interact with other characters, and eliminate mutant creatures and plants. In addition to a single-player mode, the game features both cooperative and competitive multiplayer modes.</desc>
+		<image>./mixart/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Sound of Thunder, A (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Sound of Thunder, A (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20050201T000000</releasedate>
+		<developer>Mobius Entertainment</developer>
+		<publisher>Bam Entertainment</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
 	</game>
 </gameList>

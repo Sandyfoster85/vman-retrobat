@@ -31,20 +31,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./ggisuka.zip</path>
-		<name>Guilty Gear Isuka</name>
-		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
-		<image>./mixart/ggisuka.png</image>
-		<video>./snap/ggisuka.mp4</video>
-		<marquee>./wheel/ggisuka.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./ggx15.zip</path>
 		<name>Guilty Gear X Ver. 1.5</name>
 		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
@@ -407,5 +393,19 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./ggisuka.zip</path>
+		<name>Guilty Gear Isuka</name>
+		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
+		<image>./mixart/ggisuka.png</image>
+		<video>./snap/ggisuka.mp4</video>
+		<marquee>./wheel/ggisuka.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>4</players>
 	</game>
 </gameList>

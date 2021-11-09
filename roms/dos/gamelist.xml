@@ -6054,27 +6054,6 @@ Weapons come in handy, since Derceto is full of various monsters. Some monsters 
 		<region>in</region>
 	</game>
 	<game>
-		<path>./Dune_II_The_Building_Of_A_Dynasty.pc</path>
-		<name>Dune II: The Building of a Dynasty</name>
-		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.
-
-Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
-
-The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
-
-After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
-		<image>./mixart/Dune 2.png</image>
-		<video>./snap/Dune 2.mp4</video>
-		<marquee>./wheel/Dune 2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Westwood Studios</developer>
-		<publisher>Virgin</publisher>
-		<genre>Strategy</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Flashback - The Quest for Identity.pc</path>
 		<name>Flashback: The Quest for Identity</name>
 		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
@@ -7016,29 +6995,6 @@ The game is a space shooter but you also get surface missions on different plane
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Epic_Pinball.pc</path>
-		<name>Epic Pinball: The Complete Collection</name>
-		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
-
-Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
-Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
-Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
-Exclusive table African Safari
-
-Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Epic Pinball.png</image>
-		<video>./snap/Epic Pinball.mp4</video>
-		<marquee>./wheel/Epic Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Epic Games</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Indycar Racing 2.pc</path>
 		<name>IndyCar Racing II</name>
 		<desc>The fourth Papyrus racing game is the sequel to the 1993 IndyCar Racing. It uses many of the improvements which were introduced in NASCAR Racing. There are fifteen tracks in total, and the major features are 640x480 SVGA graphics, multiplayer support for two players, pi telemetry data for realism, interactive driving schools, enhanced artificial intelligence, in-game communication with the pit crew supporting speech recognition technology, and digital stereo sound.
@@ -7069,6 +7025,50 @@ You race in open-wheel cars and there are different driving views, with detailed
 		<developer>Bethesda Softworks</developer>
 		<publisher>Bethesda Softworks</publisher>
 		<genre>Shooter / 1st person</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dune_II_The_Building_Of_A_Dynasty.pc</path>
+		<name>Dune II: The Building of a Dynasty</name>
+		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.
+
+Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
+
+The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
+
+After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
+		<image>./mixart/Dune 2.png</image>
+		<video>./snap/Dune 2.mp4</video>
+		<marquee>./wheel/Dune 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Strategy</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Epic_Pinball.pc</path>
+		<name>Epic Pinball: The Complete Collection</name>
+		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
+
+Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
+Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
+Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
+Exclusive table African Safari
+
+Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Epic Pinball.png</image>
+		<video>./snap/Epic Pinball.mp4</video>
+		<marquee>./wheel/Epic Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic Games</publisher>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -3394,17 +3394,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ghouls'n Ghosts.pak</path>
-		<name>Ghouls N Ghosts</name>
-		<image>./mixart/Ghouls'n Ghosts.png</image>
-		<video>./snap/Ghouls'n Ghosts.mp4</video>
-		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Avengers [v.3.0 Build 4086].pak</path>
 		<name>Avengers - United Battle Force</name>
 		<desc>Avengers: United Battle Force is an remix of the old Captain America and Avengers arcade game with new chars and many cool things.     Its a 2 players beat-em-up game, featuring Avengers plus some guest chars from Marvel universe.     17 playable characters (+ unlockable characters)   20 supporting characters (between NPC and helpers)   3 chapters, with more than 15 stages   Many special powers, including devastating Hyper Moves   Alternative route   Alternative mode for some characters   Bonus stages and aerial stages   Intense boss fights   10+ bosses   Many items and traps   Custom voiced characters   Custom loading screens   Unique feature - Music tempo changes based on boss life. Works like in Street Fighter 2.</desc>
@@ -3575,16 +3564,6 @@
 		<image>./mixart/Double Dragon Revolution.png</image>
 		<video>./snap/Double Dragon Revolution.mp4</video>
 		<marquee>./wheel/Double Dragon Revolution.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Double Dragon SNK Final Edition.pak</path>
-		<name>Double Dragon Snk</name>
-		<image>./mixart/Double Dragon SNK Final Edition.png</image>
-		<video>./snap/Double Dragon SNK Final Edition.mp4</video>
-		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
 		<lang>en</lang>
@@ -3833,7 +3812,7 @@
 		<video>./snap/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].mp4</video>
 		<marquee>./wheel/Mass Effect - Dark Corners of the Galaxy [Ver. Demo][v.3.0 Build 4086].png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -3844,8 +3823,29 @@
 		<video>./snap/Masters of the Universe.mp4</video>
 		<marquee>./wheel/Masters of the Universe.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ghouls'n Ghosts.pak</path>
+		<name>Ghouls N Ghosts</name>
+		<image>./mixart/Ghouls'n Ghosts.png</image>
+		<video>./snap/Ghouls'n Ghosts.mp4</video>
+		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Double Dragon SNK Final Edition.pak</path>
+		<name>Double Dragon Snk</name>
+		<image>./mixart/Double Dragon SNK Final Edition.png</image>
+		<video>./snap/Double Dragon SNK Final Edition.mp4</video>
+		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
 		<lang>en</lang>
 	</game>
 </gameList>

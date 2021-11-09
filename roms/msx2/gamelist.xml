@@ -606,20 +606,6 @@ The main game then takes place in an isometric scrolling play-field that is simi
 		<marquee>./wheel/Gun Fright (Japan).png</marquee>
 		<video>./snap/Gun Fright (Japan).mp4</video>
 	</game>
-	<game id="95489" source="ScreenScraper.fr">
-		<path>./H.E.R.O. (Japan).zip</path>
-		<name>H.E.R.O.</name>
-		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls. You begin each mission with six sticks of dynamite which can be used to destroy these obstacles (be careful you don't blow yourself up, though!). If you run out of dynamite, your laser beam can also be used to destroy the walls, though this will take longer and use up more energy. As the levels progress, the mine shaft will become longer and more maze-like, creatures will more frequently block the path, and lava walls and pools will appear which are dangerous to the touch.</desc>
-		<rating>0.85</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Activision, Inc.</developer>
-		<publisher>Activision (UK) Limited</publisher>
-		<players>1</players>
-		<hash>8FDAD3AF</hash>
-		<image>./mixart/H.E.R.O. (Japan).png</image>
-		<marquee>./wheel/H.E.R.O. (Japan).png</marquee>
-		<video>./snap/H.E.R.O. (Japan).mp4</video>
-	</game>
 	<game id="95588" source="ScreenScraper.fr">
 		<path>./Hydlide II - Shine of Darkness (Japan).zip</path>
 		<name>Hydlide II - Shine of Darkness</name>
@@ -1496,5 +1482,19 @@ RoboWarrior comprises five level formats. In one, the player must obtain a key b
 		<releasedate>19880101T000000</releasedate>
 		<publisher>Hudson Soft</publisher>
 		<crc32>8CF0E6C0</crc32>
+	</game>
+	<game id="95489" source="ScreenScraper.fr">
+		<path>./H.E.R.O. (Japan).zip</path>
+		<name>H.E.R.O.</name>
+		<desc>There is trouble in the mines! Volcanic activity has trapped numerous miners, and it is your job to save them. As Roderick Hero, you need to make your way through the dangerous mineshaft avoiding the dangerous creatures and lava, and find out where the miners are located before you run out of energy. To help on your mission, Roderick Hero has several useful types of equipment. A prop pack will allow you to hover and fly around the mineshaft and (hopefully) avoid the many dangers within. Your helmet features a short range microlaser beam which can be used to destroy the bats, spiders, snakes, and other creatures you'll encounter in the mines. From time to time, your path through the mine may be blocked by stone or lava walls. You begin each mission with six sticks of dynamite which can be used to destroy these obstacles (be careful you don't blow yourself up, though!). If you run out of dynamite, your laser beam can also be used to destroy the walls, though this will take longer and use up more energy. As the levels progress, the mine shaft will become longer and more maze-like, creatures will more frequently block the path, and lava walls and pools will appear which are dangerous to the touch.</desc>
+		<image>./mixart/H.E.R.O. (Japan).png</image>
+		<video>./snap/H.E.R.O. (Japan).mp4</video>
+		<marquee>./wheel/H.E.R.O. (Japan).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Activision, Inc.</developer>
+		<publisher>Activision (UK) Limited</publisher>
+		<players>1</players>
+		<crc32>8FDAD3AF</crc32>
 	</game>
 </gameList>

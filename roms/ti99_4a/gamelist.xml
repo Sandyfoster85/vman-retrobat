@@ -617,16 +617,6 @@
 		<marquee>./wheel/A-Maze-Ing.png</marquee>
 	</game>
 	<game>
-		<path>./parsec.zip</path>
-		<name>Parsec</name>
-		<image>./mixart/Parsec.png</image>
-		<video>./snap/Parsec.mp4</video>
-		<marquee>./wheel/Parsec.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./astroftr.zip</path>
 		<name>Astro Fighter</name>
 		<image>./mixart/Astro Fighter.png</image>
@@ -639,5 +629,15 @@
 		<image>./mixart/Rabbit Trail.png</image>
 		<video>./snap/Rabbit Trail.mp4</video>
 		<marquee>./wheel/Rabbit Trail.png</marquee>
+	</game>
+	<game>
+		<path>./parsec.zip</path>
+		<name>Parsec</name>
+		<image>./mixart/Parsec.png</image>
+		<video>./snap/Parsec.mp4</video>
+		<marquee>./wheel/Parsec.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -577,21 +577,6 @@ The robots, rooms, and puzzle pieces will be switched around when starting over 
 		<genre>Action-Platform</genre>
 	</game>
 	<game>
-		<path>./Karateka (USA).7z</path>
-		<name>Karateka</name>
-		<desc>The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.
-
-The game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.</desc>
-		<image>./mixart/Karateka (USA).png</image>
-		<video>./snap/Karateka (USA).mp4</video>
-		<marquee>./wheel/Karateka (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Brøderbund Software, Inc.</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Basketbrawl (USA).7z</path>
 		<name>Basketbrawl</name>
 		<desc>In a desperate attempt to stop inner-city gang wars, the city leaders organized a basketball league.  The league is scheduled to play on three courts: a street, a junkyard, and a rooftop.  The mayor figured that a friendly game of hoops would be a much more peaceful way to settle disputes. He was wrong.
@@ -1037,5 +1022,22 @@ You are a mutant human, who by some freak of nature has the ability to shoot ene
 		<publisher>Atari</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Karateka (USA).7z</path>
+		<name>Karateka</name>
+		<desc>The evil Akuma has destroyed your homeland, killed many of your friends and kidnapped your Princess Mariko. Fortunately, you are skilled in Martial Arts, so your inevitable quest to reach Akuma's palace has a chance of success.
+
+The game is viewed from the side and features a succession of increasingly-difficult opponents. All the standard karate kicks and punches are available to both you and your foes. The game's design was serious and realistic, and the game featured lots of cutscenes to develop the story.</desc>
+		<image>./mixart/Karateka (USA).png</image>
+		<video>./snap/Karateka (USA).mp4</video>
+		<marquee>./wheel/Karateka (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Brøderbund Software, Inc.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

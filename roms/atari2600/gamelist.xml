@@ -4215,21 +4215,6 @@ Once the building is complete, you go all the way up the ladder and push up to c
 		<video>./snap/Master Builder (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="51256" source="ScreenScraper.fr">
-		<path>./Masters of the Universe - The Power of He-Man (USA).zip</path>
-		<name>Masters of the Universe : The Power of He-Man</name>
-		<desc>In Masters of the Universe, you control He-Man as he battles Skeletor in two different types of arcade action scenes. In the first part of the game, you control the Wind Raider flying towards Castle Grayskull. You have a limited amount of fuel with which to reach your destination, plus numerous fireballs will be flying around the screen trying to stop you and Skeletor will be running along the ground. The Wind Raider is equipped with bombs and guns which can be used to defend yourself from the fireballs, and also can earn bonus points if you can hit Skeletor. The second part of the game takes place on foot. When you've landed near the castle, He-Man needs to pursue Skeletor. Skeletor will be firing numerous lightning bolts which can be blocked with a shield. There is a time limit here, and you must get past all of the screens and catch Skeletor before time runs out. If you are successful, the game will repeat at a tougher skill level.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Mattel Electronics</developer>
-		<publisher>M Network - INTV</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Masters of the Universe - The Power of He-Man (USA).png</image>
-		<marquee>./wheel/Masters of the Universe - The Power of He-Man (USA).png</marquee>
-		<video>./snap/Masters of the Universe - The Power of He-Man (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="14137" source="ScreenScraper.fr">
 		<path>./Math Gran Prix (USA).zip</path>
 		<name>Math Gran Prix</name>
@@ -6734,23 +6719,6 @@ There is no time limit or penalty if you get something wrong.</desc>
 		<image>./mixart/Sneak 'n Peek (USA).png</image>
 		<marquee>./wheel/Sneak 'n Peek (USA).png</marquee>
 		<video>./snap/Sneak 'n Peek (USA).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="14033" source="ScreenScraper.fr">
-		<path>./Snoopy and the Red Baron (USA).zip</path>
-		<name>Snoopy and the Red Baron</name>
-		<desc>The dastardly Red Baron has stolen important food supplies from the allies during the war.  Hamburgers, ice cream cones, popcorn and other tasty treats have been taken by this evil aviator and sharpshooter. Your task is to help Snoopy shoot down the Red Baron and recover the stolen supplies.
-
-You begin your mission with four doghouses.  It takes eight direct hits to bring down the Red Baron, and for the Red baron to bring down Snoopy's doghouse.  If the Red Baron downs a doghouse, all accumulated treats will be lost.  Press the controller button to fire Snoopy's machine gun.</desc>
-		<rating>0.75</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Shoot'em Up</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Snoopy and the Red Baron (USA).png</image>
-		<marquee>./wheel/Snoopy and the Red Baron (USA).png</marquee>
-		<video>./snap/Snoopy and the Red Baron (USA).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="37845" source="ScreenScraper.fr">
@@ -11423,5 +11391,35 @@ The food calorie count, from lowest to highest, is:
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="51256" source="ScreenScraper.fr">
+		<path>./Masters of the Universe - The Power of He-Man (USA).zip</path>
+		<name>Masters of the Universe : The Power of He-Man</name>
+		<desc>In Masters of the Universe, you control He-Man as he battles Skeletor in two different types of arcade action scenes. In the first part of the game, you control the Wind Raider flying towards Castle Grayskull. You have a limited amount of fuel with which to reach your destination, plus numerous fireballs will be flying around the screen trying to stop you and Skeletor will be running along the ground. The Wind Raider is equipped with bombs and guns which can be used to defend yourself from the fireballs, and also can earn bonus points if you can hit Skeletor. The second part of the game takes place on foot. When you've landed near the castle, He-Man needs to pursue Skeletor. Skeletor will be firing numerous lightning bolts which can be blocked with a shield. There is a time limit here, and you must get past all of the screens and catch Skeletor before time runs out. If you are successful, the game will repeat at a tougher skill level.</desc>
+		<image>./mixart/Masters of the Universe - The Power of He-Man (USA).png</image>
+		<video>./snap/Masters of the Universe - The Power of He-Man (USA).mp4</video>
+		<marquee>./wheel/Masters of the Universe - The Power of He-Man (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>M Network - INTV</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+	</game>
+	<game id="14033" source="ScreenScraper.fr">
+		<path>./Snoopy and the Red Baron (USA).zip</path>
+		<name>Snoopy and the Red Baron</name>
+		<desc>The dastardly Red Baron has stolen important food supplies from the allies during the war.  Hamburgers, ice cream cones, popcorn and other tasty treats have been taken by this evil aviator and sharpshooter. Your task is to help Snoopy shoot down the Red Baron and recover the stolen supplies.
+
+You begin your mission with four doghouses.  It takes eight direct hits to bring down the Red Baron, and for the Red baron to bring down Snoopy's doghouse.  If the Red Baron downs a doghouse, all accumulated treats will be lost.  Press the controller button to fire Snoopy's machine gun.</desc>
+		<image>./mixart/Snoopy and the Red Baron (USA).png</image>
+		<video>./snap/Snoopy and the Red Baron (USA).mp4</video>
+		<marquee>./wheel/Snoopy and the Red Baron (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Shoot'em Up</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 	</game>
 </gameList>

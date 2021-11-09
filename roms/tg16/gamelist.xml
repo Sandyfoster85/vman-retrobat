@@ -293,21 +293,6 @@ There is no narrative in the game; the only story-related information comes in f
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 	</game>
-	<game id="14468" source="ScreenScraper">
-		<path>./Dragon's Curse (USA).zip</path>
-		<name>Dragon's Curse</name>
-		<desc>Known in Japan as 'Adventure Island' and being the same game as the European game 'Wonder Boy III: The Dragons Trap'  The evil Witch Doctor has swiped Princess Leilani from Master Higgins' side, taking her to the South Pacific island known as Adventure Is</desc>
-		<image>./mixart/Dragon's Curse (USA).png</image>
-		<marquee>./wheel/Dragon's Curse (USA).png</marquee>
-		<video>./snap/Dragon's Curse (USA).mp4</video>
-		<thumbnail />
-		<rating>0.9</rating>
-		<releasedate>19910000T000000</releasedate>
-		<developer>Westone</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-	</game>
 	<game id="78643" source="ScreenScraper">
 		<path>./Falcon (USA).zip</path>
 		<name>Falcon</name>
@@ -1582,23 +1567,6 @@ The main table is two screens high. There are at least 3 bonus games that are ac
 		<genre>Pinball</genre>
 	</game>
 	<game>
-		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
-		<name>Devil's Crush</name>
-		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
-		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
-		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
-		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19900000T000000</releasedate>
-		<developer>Naxat Soft</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Dungeon Explorer (USA).zip</path>
 		<name>Dungeon Explorer</name>
 		<desc>The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.
@@ -1669,11 +1637,42 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<image>./mixart/1941 - Counter Attack.png</image>
 		<video>./snap/1941 - Counter Attack.mp4</video>
 		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910823</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
+	</game>
+	<game id="14468" source="ScreenScraper">
+		<path>./Dragon's Curse (USA).zip</path>
+		<name>Dragon's Curse</name>
+		<desc>Known in Japan as 'Adventure Island' and being the same game as the European game 'Wonder Boy III: The Dragons Trap'  The evil Witch Doctor has swiped Princess Leilani from Master Higgins' side, taking her to the South Pacific island known as Adventure Is</desc>
+		<image>./mixart/Dragon's Curse (USA).png</image>
+		<video>./snap/Dragon's Curse (USA).mp4</video>
+		<marquee>./wheel/Dragon's Curse (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910000T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
+		<name>Devil's Crush</name>
+		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
+		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
+		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
+		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19900000T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

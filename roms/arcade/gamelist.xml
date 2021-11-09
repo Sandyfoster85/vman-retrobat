@@ -12771,25 +12771,6 @@ Four levels of power-ups are available for each weapon, however each level requi
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="39955">
-		<path>./airco22b.zip</path>
-		<name>Air Combat 22</name>
-		<desc>The sequel to "Air Combat" featuring better graphics.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/airco22b.png</image>
-		<video>./snap/airco22b.mp4</video>
-		<marquee>./wheel/airco22b.png</marquee>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter / Plane, 3rd person</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<md5>bd693068dccc61ef457e8cb608dd2dc0</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="40055">
 		<path>./arescueu.zip</path>
 		<name>Air Rescue</name>
@@ -12850,24 +12831,6 @@ Unique stand-up table design ideal for any size location.</desc>
 		<arcadesystemname>namco</arcadesystemname>
 		<players>2</players>
 		<md5>1f1d6da05e32e83b5f5b95a710dd97ae</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="39975">
-		<path>./aliencr.zip</path>
-		<name>Alien Crush</name>
-		<desc>Alien Crush is an alien-themed video pinball game. The graphics feature strong similarities to the art from the Alien movies, and everything has a dark and sinister look.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/aliencr.png</image>
-		<video>./snap/aliencr.mp4</video>
-		<marquee>./wheel/aliencr.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19890101T000000</releasedate>
-		<publisher>Hudson</publisher>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<md5>d42779b5014530d005f2f6a841d14900</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -14574,28 +14537,6 @@ The bee is still humming.</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37325">
-		<path>./deathsml.zip</path>
-		<name>Deathsmiles</name>
-		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
-Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the early 20th century, and is cared for by Dior, an elderly lord. Discovering there is no way home, Dior reveals to Windia that she is one of the 'lost children', those with magical powers chosen to protect the kingdom...</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/deathsml.png</image>
-		<video>./snap/deathsml.mp4</video>
-		<marquee>./wheel/deathsml.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Deathsmiles</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<md5>fdb4f4321a418b167a440abbb36c8ffb</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="40884">
 		<path>./deerhunt.zip</path>
 		<name>Deer Hunting Usa V4.3</name>
@@ -14986,27 +14927,6 @@ Depthcharge was one of the early video games. Action was simple. This game also 
 		<arcadesystemname>incredibletech</arcadesystemname>
 		<players>1</players>
 		<md5>01698a5cdc9854cef3819446fa336480</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="37329">
-		<path>./dsmbl.zip</path>
-		<name>Deathsmiles MegaBlack Label</name>
-		<desc>Enter the world of Gilverado, a kingdom plagued by hideous monsters and tortured souls. Choose from four angels with unique demonic familiars and battle against a storm of enemies pouring out of Hell's gates! Fight your way out of tight spots as you are surrounded by enemy units and bullets from both sides of the screen.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/dsmbl.png</image>
-		<video>./snap/dsmbl.mp4</video>
-		<marquee>./wheel/dsmbl.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20080101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<family>Deathsmiles</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<md5>f5e1f75df919f5cb13fc4d6b5a84603b</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -28761,39 +28681,6 @@ The in-game physics are skewed entirely toward arcade-style handling. The aforem
 		<genreid>1537</genreid>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./aburner2.zip</path>
 		<name>After Burner II</name>
 		<desc>After Burner is another Sega game rendered with their then-ubiquitous 3-D sprite-scaling technology; this time putting the player into the seat of a powerful F14 Tomcat jet fighter. 
@@ -33126,22 +33013,6 @@ We play as painter while painting his great canvas of beautiful females, but his
 		<region>us</region>
 	</game>
 	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>./mixart/captcomm.png</image>
-		<video>./snap/captcomm.mp4</video>
-		<marquee>./wheel/captcomm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./carjmbre.zip</path>
 		<name>Car Jamboree</name>
 		<desc>A one or two player Driving/Demolition game. 
@@ -33621,48 +33492,6 @@ The game puts the player in the role of Mr. Chack'n, who must rescue all of the 
 		<releasedate>19830101T000000</releasedate>
 		<publisher>Taito</publisher>
 		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./challeng.zip</path>
-		<name>Challenger</name>
-		<desc>CHALLENGER is the newest video game to be introduced by Centuri. With its vivid colors and lively setting, it is sure to lure the most ardent player into game action.
-
-The game consists of 16 sectors (rounds) of play. Sector 1 begins with Large Energy Rings floating randomly across the screen. The Spaceship must avoid colliding with the Rings, or it will explode into a starburst of brilliant colors. The Spaceship dodges the Energy Rings by moving right or left across the playfield, while bursting them with the Spaceship's 3-directional guns. Bursting the Large Rings (100 points) breaks them into Medium Rings. Bursting the Medium Rings (200 points) breaks them into Small Rings. Bursting the Small Rings (400 points) causes them to disintegrate.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/challeng.png</image>
-		<video>./snap/challeng.mp4</video>
-		<marquee>./wheel/challeng.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Game Plan</developer>
-		<publisher>Game Plan (Centuri license)</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./chameleo.zip</path>
-		<name>Chameleon</name>
-		<desc>A colourful platform game in which the player controls a long-tongued chameleon that must make around a series of single-screen, platform-strewn levels; stealing chicken eggs from their nests and being careful to avoid contact with angry chickens.
-
-As well as walking along the platforms and poles, the chameleon can use its tongue to pull itself up to higher platforms; and to escape from any nearby chickens. Each level also has a number of bombs placed at various points; the chameleon can hit these with its tongue to send them crashing towards nearby chickens. The player must keep an eye out for projectiles thrown by the chickens, such as flashing eggs.
-
-If the nesting eggs are left for too long, they will hatch into a baby chick. The player can eat the chick for bonus points, but if the chick is left alone for too long, it will grow into an adult chicken and start attacking the player.
-
-A level is over once all of the eggs have been collected and all of the chickens killed.</desc>
-		<image>./mixart/chameleo.png</image>
-		<video>./snap/chameleo.mp4</video>
-		<marquee>./wheel/chameleo.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -35758,21 +35587,6 @@ The player starts the game with three separate fighters and has to make it throu
 		<marquee>./wheel/dankuga.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./daraku.zip</path>
-		<name>Daraku Tenshi - The Fallen Angels</name>
-		<desc>A very solid 2-D fighting game with beautiful pre-rendered backgrounds. 8 selectable fighters and 2 end bosses.</desc>
-		<image>./mixart/daraku.png</image>
-		<video>./snap/daraku.mp4</video>
-		<marquee>./wheel/daraku.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<publisher>Psikyo</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -41177,21 +40991,6 @@ A player has two ways to advance to the next solar system. The first is to succe
 		<region>us</region>
 	</game>
 	<game>
-		<path>./gtmr2.zip</path>
-		<name>Mille Miglia 2: Great 1000 Miles Rally</name>
-		<desc>You have 60 seconds to get from the starting line to the finish line. Finishing within 60 seconds allows you to go on to the next race. If you lose, a continue option is available. The screen scrolls fast. The only way you know about a turn coming up is by a little indicator that flashes with a picture of the turn. There are zig-zags, hairpins and all other cool turns, most of which you have to steer into in order to make it though.</desc>
-		<image>./mixart/gtmr2.png</image>
-		<video>./snap/gtmr2.mp4</video>
-		<marquee>./wheel/gtmr2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./guardian.zip</path>
 		<name>Guardians of the 'Hood</name>
 		<desc>Dangerous gangs own the streets, and is up to four brave street vigilantes to do some much needed clean up. Train hard at the sparring rounds and prove your skill at some enemies bosses so they might join your posse! Gather a few buddies for this wild ride!:)</desc>
@@ -41936,22 +41735,6 @@ Now in order to save Serena, Simon heads to the demon castle</desc>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./hellfire.zip</path>
-		<name>Hellfire</name>
-		<desc>Hellfire is a nice horizontal shoot'em up feature a selectable shooting direction.</desc>
-		<image>./mixart/hellfire.png</image>
-		<video>./snap/hellfire.mp4</video>
-		<marquee>./wheel/hellfire.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Toaplan Co., Ltd.</developer>
-		<publisher>Toaplan (Taito license)</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -51397,26 +51180,6 @@ Can you survive to reach the final battle against Rafflesia himself?</desc>
 		<region>us</region>
 	</game>
 	<game>
-		<path>./raimais.zip</path>
-		<name>Raimais</name>
-		<desc>Raimais is a great maze chase game.
-
-The players take the lead of beautiful Rika Midorikawa, a heroine of bikers, in order to rescue her kidnapped brother, she must ride her 3 wheeled jet vehicle to challenge and explores the labyrinths while collect all the dots and pick the power-ups to defeat or avoid all the enemies in each stage, to open the exits and destroy the big bosses and win to rescue his captive brother.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/raimais.png</image>
-		<video>./snap/raimais.mp4</video>
-		<marquee>./wheel/raimais.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./rainbow.zip</path>
 		<name>Rainbow Islands</name>
 		<desc>Rainbow Islands - The Story of Bubble Bobble 2  is a sequel to the legendary "Bubble Bobble" - released a year earlier - one or two players (who, unlike 'Bubble Bobble', no longer play simultaneously) take on the role of Bub and Bob, who have now been returned to their original human form after their success in Bubble Bobble. The returning heroes have been asked to rescue the Rainbow Islands from the clutches of the various enemies who have overrun the islands in their absence.
@@ -51483,39 +51246,6 @@ In-game opponents consist of red enemy cars that try to ram into and destroy the
 		<publisher>Sega</publisher>
 		<genre>Shooter-Shooter / 3rd person</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./rampage.zip</path>
-		<name>Rampage</name>
-		<desc>Rampage is a classic B-movie inspired smash-em-up in which up to three players take on the roles of three mutated monsters - George the giant ape, Lizzie the giant lizard and Ralph the giant wolf - who move from city to city destroying skyscrapers and vehicles, while eating or killing any people that get in their way. 
-
-The monsters' health can be damaged in a number of ways: by being shot by National Guardsmen, by being hit by another monster, by falling from a building, by being hit by police cars or tanks, by going underwater, by being struck by lightning, or by eating something bad, such as dynamite. Health is replenished by eating food found in damaged buildings. 
-
-If the players' health gauge diminishes completely, the monsters will revert back to their original human form and walk sideways off the screen. Rampage has a "buy back in" option, however; if players chose to continue the game before the human figure leaves the play area, the game will continue from that stage. 
-
-Rampage is set over the course of 128 days in cities across North America. The game starts in Peoria, Illinois and ends in Plano, Illinois. In Plano, players receive a mega vitamin bonus which heals all the monsters and provides a large point bonus. After this, the cycle of cities repeats five times. After 768 days, the game resets back to Day One. 
-
-Examples of bonuses and hazards found inside damaged buildings: 
-Food: Milk, Turkey, Hot Toast, Fruit 
-Bonus: Flower Pot, TV Set, Money Bag 
-Hazard: Cactus, Poison, Toaster 
-
-Examples of bonuses and hazards found outside damaged buildings: 
-Bonus: Auto (or Truck), Commuter Train, Person in Manhole 
-Hazard: National Guard Tank, Police Car, Storm Cloud 
-
-Further bonus points can be earned by grabbing a fleeing 'Townie' from a building window. This has two benefits: 1) While holding the Townie, all swat team members disappear from the building windows and 2) accumulating points are scored during the time the Townie is held.</desc>
-		<image>./mixart/rampage.png</image>
-		<video>./snap/rampage.mp4</video>
-		<marquee>./wheel/rampage.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Barcrest / Red Gaming</publisher>
-		<genre>Platform-Adventure-Fight</genre>
-		<players>3</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -62696,36 +62426,6 @@ Hang-On's handling and superb graphics were unlike anything seen before in the a
 		<region>us</region>
 	</game>
 	<game>
-		<path>./mkla1.zip</path>
-		<name>Mortal Kombat</name>
-		<desc>Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
-
-Mortal Kombat characters list:
-JOHNNY CAGE
-KANO
-RAIDEN
-LIU KANG
-SCORPION
-SUB-ZERO
-SONYA BLADE
-
-Battles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/mk.png</image>
-		<video>./snap/mk.mp4</video>
-		<marquee>./wheel/mk.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19921008T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./pacman.zip</path>
 		<name>Pac-Man</name>
 		<desc>Export release by Bally/Midway for North America. Game developed by Namco and originally known as Puckman in Japan. For more information about the game itself, please see the original Japanese release entry, "Puckman [Upright model]".</desc>
@@ -64021,25 +63721,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4070&am
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>bd2f16a808287e2dc16c9ebaa8573335</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./rfjet.zip</path>
-		<name>Raiden Fighters Jet</name>
-		<desc>The third in the Raiden Fighters series. This opus retains the same intensity and manic gameplay as its predecessors, while introducing several new mechanics. The game contains Normal, Special, and Expert game modes.    The soundtrack consists of fast-paced rave and techno music in a departure from the more melodic pop orientated style of the original Raiden game series.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/rfjet.png</image>
-		<video>./snap/rfjet.mp4</video>
-		<marquee>./wheel/rfjet.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Seibu Kaihatsu</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -65381,30 +65062,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<publisher>Midway</publisher>
 		<genre>Fight / Versus-Fight</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42419">
-		<path>./plsmaswd.zip</path>
-		<name>Plasma Sword: Nightmare of Bilstein</name>
-		<desc>Plasma Sword: Nightmare of Bilstein is the successor of Star Gladiator released for Playstation. Like its predecessor it was first released on Arcade before being ported to the Dreamcast.
-
-The game features 22 anime-like characters in a 3-dimensional futuristic world, except for the backgrounds and the menus, which are plain 2D bitmaps without a lot of movement. The stages are unlimited in all directions, so it's not possible to fall off the edge. The speciality of this game are the so called "plasma moves", visually very appealing special moves which fill the screen and can be executed when you have collected enough "plasma power". Despite of the 22 characters there are only 11 different move layouts, as one layout is shared by two characters.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/plsmaswd.png</image>
-		<video>./snap/plsmaswd.mp4</video>
-		<marquee>./wheel/plsmaswd.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Star Gladiator</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>e2d7188d52f9223bde5905c22f985da8</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -68116,27 +67773,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3441&am
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="64487">
-		<path>./technodr.zip</path>
-		<name>Techno Drive</name>
-		<desc>A futuristic racing game simulator.
-
-The player takes the wheel of a high tech yellow car, through psicodelic futuristics courses, where they are tested on number of different areas. The game featuring nice techno music, and the gameplay is based on driving symbols that appear on the top right of the screen. These symbols correspond to different driving test such as Fast Thinking, Power Control, Smooth Driving, Drift King and more. A total of 15 tests are included in the game. Tests are grouped into three's, players either pass or fail the test and then continue onto the next one. You must accelerate fast and maintain control in tricky curves and jump ramps while dodging objects to win the race.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/technodr.png</image>
-		<video>./snap/technodr.mp4</video>
-		<marquee>./wheel/technodr.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<arcadesystemname>namco</arcadesystemname>
-		<favorite>true</favorite>
-		<md5>da283f11422ad2e7542efd01d3687935</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./tekken3.zip</path>
 		<name>Tekken 3</name>
@@ -69681,6 +69317,370 @@ While the core gameplay remains the same, new time-saving stunt moves have been 
 		<publisher>Data East</publisher>
 		<genre>Shooter-Shooter / Run and Shoot</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./gtmr2.zip</path>
+		<name>Mille Miglia 2: Great 1000 Miles Rally</name>
+		<desc>You have 60 seconds to get from the starting line to the finish line. Finishing within 60 seconds allows you to go on to the next race. If you lose, a continue option is available. The screen scrolls fast. The only way you know about a turn coming up is by a little indicator that flashes with a picture of the turn. There are zig-zags, hairpins and all other cool turns, most of which you have to steer into in order to make it though.</desc>
+		<image>./mixart/gtmr2.png</image>
+		<video>./snap/gtmr2.mp4</video>
+		<marquee>./wheel/gtmr2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="39955">
+		<path>./airco22b.zip</path>
+		<name>Air Combat 22</name>
+		<desc>The sequel to "Air Combat" featuring better graphics.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/airco22b.png</image>
+		<video>./snap/airco22b.mp4</video>
+		<marquee>./wheel/airco22b.png</marquee>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<md5>bd693068dccc61ef457e8cb608dd2dc0</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./mixart/captcomm.png</image>
+		<video>./snap/captcomm.mp4</video>
+		<marquee>./wheel/captcomm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./mkla1.zip</path>
+		<name>Mortal Kombat</name>
+		<desc>Mortal Kombat, first in the Mortal Kombat series, is a 1-on-1 fighting game featuring a cast of seven different characters. Mortal Kombat took ideas from Capcom's seminal Street Fighter II, such as the game's special moves and projectiles. It also introduced a cast of photo-realistic digitized fighters for players to fight either as or against. 
+
+Mortal Kombat characters list:
+JOHNNY CAGE
+KANO
+RAIDEN
+LIU KANG
+SCORPION
+SUB-ZERO
+SONYA BLADE
+
+Battles are fought over the best of three rounds. At the end of a battle, a voice instructs the winner to 'Finish Him/Her!' and players have only a couple of seconds to try and execute their character's 'fatality', which sees the winner killing the loser in a spectacular and grisly fashion.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/mk.png</image>
+		<video>./snap/mk.mp4</video>
+		<marquee>./wheel/mk.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19921008T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="64487">
+		<path>./technodr.zip</path>
+		<name>Techno Drive</name>
+		<desc>A futuristic racing game simulator.
+
+The player takes the wheel of a high tech yellow car, through psicodelic futuristics courses, where they are tested on number of different areas. The game featuring nice techno music, and the gameplay is based on driving symbols that appear on the top right of the screen. These symbols correspond to different driving test such as Fast Thinking, Power Control, Smooth Driving, Drift King and more. A total of 15 tests are included in the game. Tests are grouped into three's, players either pass or fail the test and then continue onto the next one. You must accelerate fast and maintain control in tricky curves and jump ramps while dodging objects to win the race.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/technodr.png</image>
+		<video>./snap/technodr.mp4</video>
+		<marquee>./wheel/technodr.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<arcadesystemname>namco</arcadesystemname>
+		<favorite>true</favorite>
+		<md5>da283f11422ad2e7542efd01d3687935</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42419">
+		<path>./plsmaswd.zip</path>
+		<name>Plasma Sword: Nightmare of Bilstein</name>
+		<desc>Plasma Sword: Nightmare of Bilstein is the successor of Star Gladiator released for Playstation. Like its predecessor it was first released on Arcade before being ported to the Dreamcast.
+
+The game features 22 anime-like characters in a 3-dimensional futuristic world, except for the backgrounds and the menus, which are plain 2D bitmaps without a lot of movement. The stages are unlimited in all directions, so it's not possible to fall off the edge. The speciality of this game are the so called "plasma moves", visually very appealing special moves which fill the screen and can be executed when you have collected enough "plasma power". Despite of the 22 characters there are only 11 different move layouts, as one layout is shared by two characters.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/plsmaswd.png</image>
+		<video>./snap/plsmaswd.mp4</video>
+		<marquee>./wheel/plsmaswd.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Star Gladiator</family>
+		<arcadesystemname>capcom</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>e2d7188d52f9223bde5905c22f985da8</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./rampage.zip</path>
+		<name>Rampage</name>
+		<desc>Rampage is a classic B-movie inspired smash-em-up in which up to three players take on the roles of three mutated monsters - George the giant ape, Lizzie the giant lizard and Ralph the giant wolf - who move from city to city destroying skyscrapers and vehicles, while eating or killing any people that get in their way. 
+
+The monsters' health can be damaged in a number of ways: by being shot by National Guardsmen, by being hit by another monster, by falling from a building, by being hit by police cars or tanks, by going underwater, by being struck by lightning, or by eating something bad, such as dynamite. Health is replenished by eating food found in damaged buildings. 
+
+If the players' health gauge diminishes completely, the monsters will revert back to their original human form and walk sideways off the screen. Rampage has a "buy back in" option, however; if players chose to continue the game before the human figure leaves the play area, the game will continue from that stage. 
+
+Rampage is set over the course of 128 days in cities across North America. The game starts in Peoria, Illinois and ends in Plano, Illinois. In Plano, players receive a mega vitamin bonus which heals all the monsters and provides a large point bonus. After this, the cycle of cities repeats five times. After 768 days, the game resets back to Day One. 
+
+Examples of bonuses and hazards found inside damaged buildings: 
+Food: Milk, Turkey, Hot Toast, Fruit 
+Bonus: Flower Pot, TV Set, Money Bag 
+Hazard: Cactus, Poison, Toaster 
+
+Examples of bonuses and hazards found outside damaged buildings: 
+Bonus: Auto (or Truck), Commuter Train, Person in Manhole 
+Hazard: National Guard Tank, Police Car, Storm Cloud 
+
+Further bonus points can be earned by grabbing a fleeing 'Townie' from a building window. This has two benefits: 1) While holding the Townie, all swat team members disappear from the building windows and 2) accumulating points are scored during the time the Townie is held.</desc>
+		<image>./mixart/rampage.png</image>
+		<video>./snap/rampage.mp4</video>
+		<marquee>./wheel/rampage.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Barcrest / Red Gaming</publisher>
+		<genre>Platform-Adventure-Fight</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="39975">
+		<path>./aliencr.zip</path>
+		<name>Alien Crush</name>
+		<desc>Alien Crush is an alien-themed video pinball game. The graphics feature strong similarities to the art from the Alien movies, and everything has a dark and sinister look.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/aliencr.png</image>
+		<video>./snap/aliencr.mp4</video>
+		<marquee>./wheel/aliencr.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Hudson</publisher>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<md5>d42779b5014530d005f2f6a841d14900</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37325">
+		<path>./deathsml.zip</path>
+		<name>Deathsmiles</name>
+		<desc>Windia, a young girl living in London, mysteriously vanishes after being drawn into a flash of light.
+Awakening in the Otherworld, Windia arrives in a Western city reminiscent of the early 20th century, and is cared for by Dior, an elderly lord. Discovering there is no way home, Dior reveals to Windia that she is one of the 'lost children', those with magical powers chosen to protect the kingdom...</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/deathsml.png</image>
+		<video>./snap/deathsml.mp4</video>
+		<marquee>./wheel/deathsml.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<md5>fdb4f4321a418b167a440abbb36c8ffb</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37329">
+		<path>./dsmbl.zip</path>
+		<name>Deathsmiles MegaBlack Label</name>
+		<desc>Enter the world of Gilverado, a kingdom plagued by hideous monsters and tortured souls. Choose from four angels with unique demonic familiars and battle against a storm of enemies pouring out of Hell's gates! Fight your way out of tight spots as you are surrounded by enemy units and bullets from both sides of the screen.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/dsmbl.png</image>
+		<video>./snap/dsmbl.mp4</video>
+		<marquee>./wheel/dsmbl.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<family>Deathsmiles</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<md5>f5e1f75df919f5cb13fc4d6b5a84603b</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./challeng.zip</path>
+		<name>Challenger</name>
+		<desc>CHALLENGER is the newest video game to be introduced by Centuri. With its vivid colors and lively setting, it is sure to lure the most ardent player into game action.
+
+The game consists of 16 sectors (rounds) of play. Sector 1 begins with Large Energy Rings floating randomly across the screen. The Spaceship must avoid colliding with the Rings, or it will explode into a starburst of brilliant colors. The Spaceship dodges the Energy Rings by moving right or left across the playfield, while bursting them with the Spaceship's 3-directional guns. Bursting the Large Rings (100 points) breaks them into Medium Rings. Bursting the Medium Rings (200 points) breaks them into Small Rings. Bursting the Small Rings (400 points) causes them to disintegrate.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/challeng.png</image>
+		<video>./snap/challeng.mp4</video>
+		<marquee>./wheel/challeng.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Game Plan</developer>
+		<publisher>Game Plan (Centuri license)</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./chameleo.zip</path>
+		<name>Chameleon</name>
+		<desc>A colourful platform game in which the player controls a long-tongued chameleon that must make around a series of single-screen, platform-strewn levels; stealing chicken eggs from their nests and being careful to avoid contact with angry chickens.
+
+As well as walking along the platforms and poles, the chameleon can use its tongue to pull itself up to higher platforms; and to escape from any nearby chickens. Each level also has a number of bombs placed at various points; the chameleon can hit these with its tongue to send them crashing towards nearby chickens. The player must keep an eye out for projectiles thrown by the chickens, such as flashing eggs.
+
+If the nesting eggs are left for too long, they will hatch into a baby chick. The player can eat the chick for bonus points, but if the chick is left alone for too long, it will grow into an adult chicken and start attacking the player.
+
+A level is over once all of the eggs have been collected and all of the chickens killed.</desc>
+		<image>./mixart/chameleo.png</image>
+		<video>./snap/chameleo.mp4</video>
+		<marquee>./wheel/chameleo.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./daraku.zip</path>
+		<name>Daraku Tenshi - The Fallen Angels</name>
+		<desc>A very solid 2-D fighting game with beautiful pre-rendered backgrounds. 8 selectable fighters and 2 end bosses.</desc>
+		<image>./mixart/daraku.png</image>
+		<video>./snap/daraku.mp4</video>
+		<marquee>./wheel/daraku.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<publisher>Psikyo</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./hellfire.zip</path>
+		<name>Hellfire</name>
+		<desc>Hellfire is a nice horizontal shoot'em up feature a selectable shooting direction.</desc>
+		<image>./mixart/hellfire.png</image>
+		<video>./snap/hellfire.mp4</video>
+		<marquee>./wheel/hellfire.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Toaplan Co., Ltd.</developer>
+		<publisher>Toaplan (Taito license)</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./raimais.zip</path>
+		<name>Raimais</name>
+		<desc>Raimais is a great maze chase game.
+
+The players take the lead of beautiful Rika Midorikawa, a heroine of bikers, in order to rescue her kidnapped brother, she must ride her 3 wheeled jet vehicle to challenge and explores the labyrinths while collect all the dots and pick the power-ups to defeat or avoid all the enemies in each stage, to open the exits and destroy the big bosses and win to rescue his captive brother.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/raimais.png</image>
+		<video>./snap/raimais.mp4</video>
+		<marquee>./wheel/raimais.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./rfjet.zip</path>
+		<name>Raiden Fighters Jet</name>
+		<desc>The third in the Raiden Fighters series. This opus retains the same intensity and manic gameplay as its predecessors, while introducing several new mechanics. The game contains Normal, Special, and Expert game modes.    The soundtrack consists of fast-paced rave and techno music in a departure from the more melodic pop orientated style of the original Raiden game series.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/rfjet.png</image>
+		<video>./snap/rfjet.mp4</video>
+		<marquee>./wheel/rfjet.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Seibu Kaihatsu</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

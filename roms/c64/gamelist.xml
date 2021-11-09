@@ -6525,20 +6525,6 @@
 		<marquee>./wheel/Vigilante.png</marquee>
 		<video>./snap/Vigilante.mp4</video>
 	</game>
-	<game id="36398" source="ScreenScraper.fr">
-		<path>./Vixen.d64</path>
-		<name>Vixen</name>
-		<desc>The Vixen is the last human on the planet Granath, which is now ruled by a race of dinosaurs. She has been raised by foxes, and intends to follow through on a promise she made to her elders to wipe them out and restore the planet to humanity.  Each level must be completed within a time limit, but progressing from left to right. She is armed with a whip, a useful weapon for attacking the denizens of dinosaurs on each level. Lots of bonus items can also be whipped to activate them - bonus lives and extra time for example. Tokens to turn into a fox can also be collected - enough of these takes you into a bonus level set underground.</desc>
-		<rating>0.4</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Intelligent Design</developer>
-		<publisher>Martech Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Vixen.png</image>
-		<marquee>./wheel/Vixen.png</marquee>
-		<video>./snap/Vixen.mp4</video>
-	</game>
 	<game id="116903" source="ScreenScraper.fr">
 		<path>./Walkerz.d64</path>
 		<name>Walkerz</name>
@@ -8111,6 +8097,24 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<video>./snap/X-15 Alpha Mission.mp4</video>
 	</game>
 	<game>
+		<path>./007 - A View to a Kill.d64</path>
+		<name>007 - A View to a Kill</name>
+		<desc>A View to a Kill - James Bond 007 is an arcade adventure in 3 parts which is based on the movie James Bond 007 - A View to a Kill. The aim of the game is to uncover the plans of Max Zorin and of course to hamstring them. You get the necessary information at the main places of the movie: Paris (meeting with agent May Day), the mysterious City Hall of San Francisco and in the Silver Mine of Silicon Valley. The adventure is played in real time against the clock. You take over the task of the world-famous agent of the Secret Service: 007 - James Bond.</desc>
+		<image>./mixart/007 - A View to a Kill.png</image>
+		<video>./snap/007 - A View to a Kill.mp4</video>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Domark</publisher>
+	</game>
+	<game>
+		<path>./Friday the 13th.t64</path>
+		<name>Friday The 13th</name>
+		<desc>The player can roam around freely in the scenery, walk in and outside of buildings. Jason, as well as other characters, do the same. It is the player's task to make sure his friends do not get killed by Jason, who often appears disguised as one of them, unless he is hit once and becomes visible as a man dressed in black. Various improvised weapons (e.g., chainsaw, pitchfork, machete, etc.) are scattered around the camp and various buildings (e.g., a barn, a church, a cabin), picked up, and used to confront Jason. There are five levels in the game and each time you play as another character. The character assignment is random at the start of the round. The game uses an early pseudo-3D view along with a more traditional side view, depending on the character's location. The game also features a "fear meter", in the form of a blonde woman's head with hair standing on end, to symbolize the players level of fright at the time, and a change in the situation. Unlike the later Nintendo Entertainment System (NES) title, the game included scenes of gore consistent with the film franchise. For example, when a character is killed by Jason, sometimes there is a scream followed by a quick cut to a graphic image of a head with a machete slicing into said. A similar startle effect would be used in the 1989 title Project Firestart.</desc>
+		<image>./mixart/Friday the 13th.png</image>
+		<video>./snap/Friday the 13th.mp4</video>
+		<rating>0</rating>
+	</game>
+	<game>
 		<path>./Bruce Lee.d64</path>
 		<name>Bruce Lee</name>
 		<desc>The late martial arts hero features in this platform game, with the aim of reaching a wizard in an underground lair, defeat of whom can offer him untold wealth.   In each area you must collect the many strategically-placed lanterns before exiting through the newly-revealed passageway. Some rooms also have escalator-type sections to run along, and the standard (although slightly illogical in this context) ladders.   On the way, you'll fight two enemies - a ninja and a green sumo warrior named Yamo. You can defeat them by punching, kicking, dropping on their heads or luring them into hazardous terrain, or even by making them accidentally hit each other. Even after they are killed, however, they keep coming back for more after a few seconds. Since they can move pretty intelligently (they even climb ladders), you should watch out for them.   There are lots of hazards to avoid by either walking round or jumping - walls of electrical charge and exploding bushes for example.</desc>
@@ -8125,16 +8129,6 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<players>2</players>
 	</game>
 	<game>
-		<path>./007 - A View to a Kill.d64</path>
-		<name>007 - A View to a Kill</name>
-		<desc>A View to a Kill - James Bond 007 is an arcade adventure in 3 parts which is based on the movie James Bond 007 - A View to a Kill. The aim of the game is to uncover the plans of Max Zorin and of course to hamstring them. You get the necessary information at the main places of the movie: Paris (meeting with agent May Day), the mysterious City Hall of San Francisco and in the Silver Mine of Silicon Valley. The adventure is played in real time against the clock. You take over the task of the world-famous agent of the Secret Service: 007 - James Bond.</desc>
-		<image>./mixart/007 - A View to a Kill.png</image>
-		<video>./snap/007 - A View to a Kill.mp4</video>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Domark</publisher>
-	</game>
-	<game>
 		<path>./Impossible Mission.d64</path>
 		<name>Impossible Mission</name>
 		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
@@ -8147,12 +8141,18 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Friday the 13th.t64</path>
-		<name>Friday The 13th</name>
-		<desc>The player can roam around freely in the scenery, walk in and outside of buildings. Jason, as well as other characters, do the same. It is the player's task to make sure his friends do not get killed by Jason, who often appears disguised as one of them, unless he is hit once and becomes visible as a man dressed in black. Various improvised weapons (e.g., chainsaw, pitchfork, machete, etc.) are scattered around the camp and various buildings (e.g., a barn, a church, a cabin), picked up, and used to confront Jason. There are five levels in the game and each time you play as another character. The character assignment is random at the start of the round. The game uses an early pseudo-3D view along with a more traditional side view, depending on the character's location. The game also features a "fear meter", in the form of a blonde woman's head with hair standing on end, to symbolize the players level of fright at the time, and a change in the situation. Unlike the later Nintendo Entertainment System (NES) title, the game included scenes of gore consistent with the film franchise. For example, when a character is killed by Jason, sometimes there is a scream followed by a quick cut to a graphic image of a head with a machete slicing into said. A similar startle effect would be used in the 1989 title Project Firestart.</desc>
-		<image>./mixart/Friday the 13th.png</image>
-		<video>./snap/Friday the 13th.mp4</video>
-		<rating>0</rating>
+	<game id="36398" source="ScreenScraper.fr">
+		<path>./Vixen.d64</path>
+		<name>Vixen</name>
+		<desc>The Vixen is the last human on the planet Granath, which is now ruled by a race of dinosaurs. She has been raised by foxes, and intends to follow through on a promise she made to her elders to wipe them out and restore the planet to humanity.  Each level must be completed within a time limit, but progressing from left to right. She is armed with a whip, a useful weapon for attacking the denizens of dinosaurs on each level. Lots of bonus items can also be whipped to activate them - bonus lives and extra time for example. Tokens to turn into a fox can also be collected - enough of these takes you into a bonus level set underground.</desc>
+		<image>./mixart/Vixen.png</image>
+		<video>./snap/Vixen.mp4</video>
+		<marquee>./wheel/Vixen.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Intelligent Design</developer>
+		<publisher>Martech Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

@@ -1027,19 +1027,6 @@
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./Amok (USA) (Unl).zip</path>
-		<name>Amok!</name>
-		<desc>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</desc>
-		<image>./mixart/Amok (USA) (Unl).png</image>
-		<video>./snaps/Amok (USA) (Unl).mp4</video>
-		<marquee>./wheel/Amok (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>John Dondzila</developer>
-		<publisher>John Dondzila</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./K.C. Munchkin (USA).zip</path>
 		<name>K.C. Munchkin</name>
 		<desc>K.C. Munchkin is a blue furry antennaed critter who's hungry for Munchies that float around in a maze. However, there are three antennaed Munchers who are hungry for K.C., so K.C. must avoid running into them unless he eats the special blinking Munchies t</desc>
@@ -1292,5 +1279,18 @@
 		<publisher>Philips Interactive Media</publisher>
 		<genre>Educational</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Amok (USA) (Unl).zip</path>
+		<name>Amok!</name>
+		<desc>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</desc>
+		<image>./mixart/Amok (USA) (Unl).png</image>
+		<video>./snaps/Amok (USA) (Unl).mp4</video>
+		<marquee>./wheel/Amok (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>John Dondzila</developer>
+		<publisher>John Dondzila</publisher>
+		<genre>Action</genre>
 	</game>
 </gameList>
