@@ -760,21 +760,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Flintstones ,The (Williams 1994) v1.25.vpx</path>
-		<name>Flintstones ,The (Williams 1994) v1.25</name>
-		<desc>Flipper Flintstones ,The (Williams 1994) v1.25</desc>
-		<image>./mixart/Flintstones ,The (Williams 1994) v1.25.jpg</image>
-		<video>./snap/Flintstones ,The (Williams 1994) v1.25.mp4</video>
-		<marquee>./wheel/Flintstones ,The (Williams 1994) v1.25.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Freddy A Nightmare On Elm Street (1994).vpx</path>
 		<name>Freddy A Nightmare On Elm Street (1994)</name>
 		<desc>Flipper Freddy A Nightmare On Elm Street (1994)</desc>
@@ -1075,20 +1060,6 @@
 		<image>./mixart/Medieval Madness Skitso mod 1.1.jpg</image>
 		<video>./snap/Medieval Madness Skitso mod 1.1.mp4</video>
 		<marquee>./wheel/Medieval Madness Skitso mod 1.1.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Metallica Premium Monsters (Stern 2013) 4Kv1.2.vpx</path>
-		<name>Metallica Premium Monsters (Stern 2013) 4Kv1.2</name>
-		<desc>Flipper Metallica Premium Monsters (Stern 2013) 4Kv1.2</desc>
-		<image>./mixart/Metallica Premium Monsters (Stern 2013) 4Kv1.2.jpg</image>
-		<video>./snap/Metallica Premium Monsters (Stern 2013) 4Kv1.2.mp4</video>
-		<marquee>./wheel/Metallica Premium Monsters (Stern 2013) 4Kv1.2.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -1439,20 +1410,6 @@
 		<image>./mixart/Simpsons Pinball Party, The (2003).jpg</image>
 		<video>./snap/Simpsons Pinball Party, The (2003).mp4</video>
 		<marquee>./wheel/Simpsons Pinball Party, The (2003).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./South Park (1999).vpx</path>
-		<name>South Park (1999)</name>
-		<desc>Flipper South Park (1999)</desc>
-		<image>./mixart/South Park (1999).jpg</image>
-		<video>./snap/South Park (1999).mp4</video>
-		<marquee>./wheel/South Park (1999).png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -1957,20 +1914,6 @@
 		<image>./mixart/WWF Royal Rumble (1994).jpg</image>
 		<video>./snap/WWF Royal Rumble (1994).mp4</video>
 		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Transformers v3.0.vpx</path>
-		<name>Transformers v3.0</name>
-		<desc>Flipper Transformers v3.0</desc>
-		<image>./mixart/Transformers v3.0.jpg</image>
-		<video>./snap/Transformers v3.0.mp4</video>
-		<marquee>./wheel/Transformers v3.0.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -2876,5 +2819,62 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flintstones ,The (Williams 1994) v1.25.vpx</path>
+		<name>Flintstones ,The (Williams 1994) v1.25</name>
+		<desc>Flipper Flintstones ,The (Williams 1994) v1.25</desc>
+		<image>./mixart/Flintstones ,The (Williams 1994) v1.25.jpg</image>
+		<video>./snap/Flintstones ,The (Williams 1994) v1.25.mp4</video>
+		<marquee>./wheel/Flintstones ,The (Williams 1994) v1.25.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metallica Premium Monsters (Stern 2013) 4Kv1.2.vpx</path>
+		<name>Metallica Premium Monsters (Stern 2013) 4Kv1.2</name>
+		<desc>Flipper Metallica Premium Monsters (Stern 2013) 4Kv1.2</desc>
+		<image>./mixart/Metallica Premium Monsters (Stern 2013) 4Kv1.2.jpg</image>
+		<video>./snap/Metallica Premium Monsters (Stern 2013) 4Kv1.2.mp4</video>
+		<marquee>./wheel/Metallica Premium Monsters (Stern 2013) 4Kv1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Transformers v3.0.vpx</path>
+		<name>Transformers v3.0</name>
+		<desc>Flipper Transformers v3.0</desc>
+		<image>./mixart/Transformers v3.0.jpg</image>
+		<video>./snap/Transformers v3.0.mp4</video>
+		<marquee>./wheel/Transformers v3.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./South Park (1999).vpx</path>
+		<name>South Park (1999)</name>
+		<desc>Flipper South Park (1999)</desc>
+		<image>./mixart/South Park (1999).jpg</image>
+		<video>./snap/South Park (1999).mp4</video>
+		<marquee>./wheel/South Park (1999).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 	</game>
 </gameList>

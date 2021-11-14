@@ -36,6 +36,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\em
 rem 5. 2021-11-08 - amigacd32 change controller remap to cd32 - reported by Virtualman/Bilu
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
+rem 6. 2021-11-14 - snes9x change controller remap for 'H' some home brew games - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\snes9x\ V:\RetroBat\emulators\snes9x\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 

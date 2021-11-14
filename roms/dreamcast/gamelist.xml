@@ -4426,21 +4426,6 @@ Designed by Chris and Erin Roberts, the creative force behind the Wing Commander
 		<region>jp</region>
 	</game>
 	<game>
-		<path>./Volgarr the Viking.cdi</path>
-		<name>Volgarr the Viking</name>
-		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
-		<image>./mixart/Volgarr the Viking.png</image>
-		<video>./snap/Volgarr the Viking.mp4</video>
-		<marquee>./wheel/Volgarr the Viking.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20150424T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].chd</path>
 		<name>Wild Metal</name>
 		<desc>Wild Metal Country is an action game in which one of five little tanks can be selected to control. Tank-like machines have gone wild on the three different planets of the Tehric system and the player's job is to defeat them.  The battles take place in desolate mountain environments. The big differences in altitude play an important role in the game. In the single player mode, complete levels by collecting 8 colored power cores, which are defended by the machines, and returning them to one of several hovering stores. The player has an infinite amount of lives. The weaponry consists of 8 types of missiles and 4 types of mines. Help is received from a pair of helicopters that drop ammo and provide healing.  The two tracks of the tank are operated independently. For example, make a quick spin by going forward with one track and backwards with the other. Moreover the turret can be turned in any direction. The camera always moves with the turret sometimes diverting the view towards the camera. The angle of the turret and the distance the rockets travel can be changed. The tank can only be controlled using the keyboard.  Noteworthy aspects of the game are: the physics modelling, the 3D engine and the amount of freedom the player has (no time constraints etc.).</desc>
@@ -4777,5 +4762,20 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<publisher>Konami</publisher>
 		<genre>Race, Driving-Simulation</genre>
 		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Volgarr the Viking.cdi</path>
+		<name>Volgarr the Viking</name>
+		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
+		<image>./mixart/Volgarr the Viking.png</image>
+		<video>./snap/Volgarr the Viking.mp4</video>
+		<marquee>./wheel/Volgarr the Viking.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20150424T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

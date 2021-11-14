@@ -1,43 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="" source="ScreenScraper">
-		<path>./Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).chd</path>
-		<name />
-		<desc />
-		<marquee />
-		<image>./mixart/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).png</image>
-		<marquee>./wheel/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).png</marquee>
-		<video>./snap/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).mp4</video>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game id="12716" source="ScreenScraper">
-		<path>./Batman Returns (USA).chd</path>
-		<name>Batman Returns</name>
-		<desc>Batman Returns on the SEGA CD is an enhanced version of the Genesis adaptation of the movie. It includes the entirety of the original platform game, but adds all-new driving levels.
-
-The game can be played in three ways: either as only the platform game, only the racing game, or a combination of both. Each option features a unique ending sequence.
-
-For every of the original version's five platform levels, there is a related driving section in which the player controls either the Batmobile or the Batskiboat. Both in perspective and gameplay, these sections are reminiscent of arcade titles like OutRun. Seen from above and behind, the player's vehicle must reach checkpoints before a timer runs out, receiving bonus points for any surplus seconds. The CD system's hardware is used for sprite scaling and other tricks, achieving a 3D effect.
-
-The game being based on an action-filled movie, there's not only driving but also shooting: both the car and the boat are armed with machine guns and heat-seeking missiles (with limited ammunition). Besides the roads being full of enemies in general, each level also ends in a boss fight against a big (and usually heavily armed) vehicle.
-
-The game features CD-based audio tracks, replacing those from the original.</desc>
-		<marquee />
-		<image>./mixart/Batman Returns (USA).png</image>
-		<marquee>./wheel/Batman Returns (USA).png</marquee>
-		<video>./snap/Batman Returns (USA).mp4</video>
-		<rating>0.75</rating>
-		<releasedate>19920000T000000</releasedate>
-		<developer>Malibu Games</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
 	<game id="12797" source="ScreenScraper">
 		<path>./BC Racers (USA).chd</path>
 		<name>BC Racers</name>
@@ -752,22 +714,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<players>1</players>
 	</game>
 	<game>
-		<path>./3 Ninjas Kick Back (USA).chd</path>
-		<name>3 Ninjas Kick Back</name>
-		<desc>You must help an old samurai to retrieve a dagger he once got as an award for his achievements in martial arts. The dagger was stolen by somebody who envied the old warrior - now he cannot give this prize to the warriors of the next generation. Choose one of the three young ninjas to help the old man!
-
-This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each one of the three ninjas has unique weapons and abilities. All three of them can run, duck, crawl, climb, jump, and hang on trees, ropes, etc. You'll encounter many obstacles and enemies, both regular and boss-like, which you'll have to overcome and defeat.</desc>
-		<image>./mixart/3 Ninjas Kick Back (USA).png</image>
-		<video>./snap/3 Ninjas Kick Back (USA).mp4</video>
-		<marquee>./wheel/3 Ninjas Kick Back (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940000T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Sony</publisher>
-		<genre />
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Snatcher (USA).chd</path>
 		<name>Snatcher</name>
 		<desc>A.D. 2047. Neo Kobe City, Japan, a place of madness and decadence... A mysterious Bio-roid life form has appeared. Its true nature and purpose are unknown. Is it some country's secret weapon, or an alien from another world? They slay their victims and take their place, earning them the nickname "SNATCHERS." A new police division - J.U.N.K.E.R.s - has been formed. They are trained specifically to combat the SNATCHERS. The fate of mankind hangs in the balance. The war between the SNATCHERS and J.U.N.K.E.R.s has begun!</desc>
@@ -1206,21 +1152,6 @@ The action is shown from a first-person view and fast-paced, while still maintai
 		<marquee>./wheel/Robo Aleste (USA).png</marquee>
 		<video>./snap/Robo Aleste (USA).mp4</video>
 	</game>
-	<game id="58725" source="ScreenScraper.fr">
-		<path>./Samurai Shodown (USA).chd</path>
-		<name>Samurai Shodown</name>
-		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
-Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>JVC Musical Industries</publisher>
-		<players>1-2</players>
-		<hash />
-		<image>./mixart/Samurai Shodown (USA).png</image>
-		<marquee>./wheel/Samurai Shodown (USA).png</marquee>
-		<video>./snap/Samurai Shodown (USA).mp4</video>
-	</game>
 	<game id="12777" source="ScreenScraper.fr">
 		<path>./Soulstar (USA).chd</path>
 		<name>Soul Star</name>
@@ -1449,19 +1380,6 @@ Double Switch stars Corey Haim and Deborah Harry, and features a musical score b
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./AH-3 Thunderstrike (USA).chd</path>
-		<name>AH-3 Thunderstrike (USA)</name>
-		<image>./mixart/AH-3 Thunderstrike (USA).png</image>
-		<video>./snap/AH-3 Thunderstrike (USA).mp4</video>
-		<marquee>./wheel/AH-3 Thunderstrike (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./Jaguar XJ220 (USA).chd</path>
 		<name>Jaguar XJ220</name>
 		<desc>In the early nineties, the Jaguar XJ220 was the fastest serial-produced car ever. Core Design acquired the right to build a game around it, in a move to counter Gremlin's immensely successful Lotus series.
@@ -1584,19 +1502,6 @@ Tomcat Alley was one of Sega's last TruVideo games, featuring what is called "Ac
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
-		<name>Adventures of Batman &amp; Robin, The (USA)</name>
-		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
-		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
-		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
 		<path>./Mad Dog McCree (USA).chd</path>
 		<name>Mad Dog McCree</name>
 		<desc>Mag Dog McCree and his gang have kidnapped the Mayor and his daughter, and its up to you to rescue them. You must blast through bars and bank robberies to take the gang out and save everything you regard as good and true. Where the game differed from other Operation Wolf-influenced shoot 'em ups was in the use of live video, with real people appearing on the screen before you shoot them down. You have unlimited continues with which to reach the end, so the actors will have their screen deaths seen by as many people as they would had they starred in a film.</desc>
@@ -1708,33 +1613,6 @@ Sonic CD has features that take advantage of the CD format such as CD audio, vid
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Android Assault - The Revenge of Bari-Arm (USA).chd</path>
-		<name>Android Assault - The Revenge of Bari-Arm (USA)</name>
-		<image>./mixart/Android Assault - The Revenge of Bari-Arm (USA).png</image>
-		<video>./snap/Android Assault - The Revenge of Bari-Arm (USA).mp4</video>
-		<marquee>./wheel/Android Assault - The Revenge of Bari-Arm (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-	</game>
-	<game>
-		<path>./AX-101 (USA).chd</path>
-		<name>AX-101</name>
-		<desc>AX-101 on Mega-CD is a first person futuristic shoot'em up where your goal is to protect humanity from UFO attacks. The player pilots a spaceship and has to handle cannon during space, air - and sometimes underground - battles. 3 kinds of weapons are available: simple cannon, reloaded cannon (way more powerful) and a limited stock of bombs (to be handled carefully).</desc>
-		<image>./mixart/AX-101 (USA).png</image>
-		<video>./snap/AX-101 (USA).mp4</video>
-		<marquee>./wheel/AX-101 (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940000T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players />
-	</game>
-	<game>
 		<path>./Battlecorps (USA).chd</path>
 		<name>Battlecorps</name>
 		<desc>Battlecorps is a giant-mech game that takes place on a mining planet known as Mandlebrot's World.  The colony supercomputer has been infected with a virus, and now the planet's giant machines are turning against the people who created them.  You must pilot your bipedal attack machine through 12 missions to reboot the computer.
@@ -1825,19 +1703,6 @@ The action is shown from a first-person view and fast-paced, while still maintai
 		<developer>Sony</developer>
 		<publisher>Sony</publisher>
 		<players>1-3</players>
-	</game>
-	<game>
-		<path>./Amazing Spider-Man vs. The Kingpin, The (USA).chd</path>
-		<name>Amazing Spider-Man vs. The Kingpin, The (USA)</name>
-		<image>./mixart/Amazing Spider-Man vs. The Kingpin, The (USA).png</image>
-		<video>./snap/Amazing Spider-Man vs. The Kingpin, The (USA).mp4</video>
-		<marquee>./wheel/Amazing Spider-Man vs. The Kingpin, The (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
 	</game>
 	<game>
 		<path>./Dune (USA).chd</path>
@@ -1951,23 +1816,6 @@ This release has the same story and general gameplay style as the earlier versio
 		<publisher>Namco</publisher>
 	</game>
 	<game>
-		<path>./After Burner III (USA).chd</path>
-		<name>After Burner III</name>
-		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
-
-A Sega CD exclusive, the title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
-
-Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
-		<image>./mixart/After Burner III (USA).png</image>
-		<video>./snap/After Burner III (USA).mp4</video>
-		<marquee>./wheel/After Burner III (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920000T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./ESPN National Hockey Night (USA).chd</path>
 		<name>ESPN National Hockey Night</name>
 		<desc>ESPN National Hockey Night was one of the many hockey games released back in the day.  This one featured all the NHL teams for its time, but lacked an official players license.
@@ -2058,63 +1906,6 @@ The player takes the role of the manga hero Cobra, who after walking into a bar,
 		<releasedate>19950101T000000</releasedate>
 		<developer>Hudson</developer>
 		<publisher>Hudson</publisher>
-	</game>
-	<game>
-		<path>./Heart of the Alien - Out of This World Parts I and II (USA).chd</path>
-		<name>Heart of the Alien - Out of This World Parts I and II (USA)</name>
-		<image>./mixart/Heart of the Alien - Out of This World Parts I and II (USA).png</image>
-		<video>./snap/Heart of the Alien - Out of This World Parts I and II (USA).mp4</video>
-		<marquee>./wheel/Heart of the Alien - Out of This World Parts I and II (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T000000</releasedate>
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Flink (USA).chd</path>
-		<name>Flink</name>
-		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
-
-Apart from the usual platformer elements, the game has a unique feature: Flink's ability to create spells. Whenever the game is paused, Flink can combine three ingredients to create a spell. Ingredients can be collected throughout the game. They are usually carried around by a certain type of enemy or hidden in treasure chests. There are ten different spells, the "recipes" which are contained in scrolls that are given to Flink by rescued elders or found within certain levels. The spells include different attack spells (for example a demon that accompanies Flink and attacks his enemies), a shield spell, a shrink spell, a quick grow spell that lets certain plants grow so that Flink can reach new areas of a level, magic keys that open locked treasure chests and more. 
-Casting spells uses up magic energy that can be replenished by collecting magic bottles or defeating enemies. Similar to the Sonic games, when Flink is hit, he looses all of his magic energy and has only limited time to pick it up again. If he is hit while having no magic energy, he loses a life.</desc>
-		<image>./mixart/Flink (USA).png</image>
-		<video>./snap/Flink (USA).mp4</video>
-		<marquee>./wheel/Flink (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Psygnosis</publisher>
-	</game>
-	<game id="12799" source="ScreenScraper.fr">
-		<path>./Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].chd</path>
-		<name>Annet Again</name>
-		<desc>The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction.    </desc>
-		<rating>0.65</rating>
-		<releasedate>19930330T000000</releasedate>
-		<developer>Wolf Team</developer>
-		<publisher>Wolf Team</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</image>
-		<marquee>./wheel/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</marquee>
-		<video>./snap/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].mp4</video>
-	</game>
-	<game id="97343" source="ScreenScraper.fr">
-		<path>./BattleTech - Gray Death Legion (USA) (Unl).chd</path>
-		<name>Battletech - Gray Death Legion</name>
-		<desc>The Gray Death Legion is a mercenary regiment within the Battletech universe. This game demo does not have audio, but is very playable and a blast at that! The game plays very similar to the excellent AH-3 Thunderstrike. Battletech: Gray Death Legion makes use of the Sega CD's scaling and rotation hardware to create an impressive 3D environment with a smooth frame rate. Features a very long 3D animated Battletech intro that is also very impressive.</desc>
-		<rating>0</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Imagineering</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/BattleTech - Gray Death Legion (USA) (Unl).png</image>
-		<marquee>./wheel/BattleTech - Gray Death Legion (USA) (Unl).png</marquee>
-		<video>./snap/BattleTech - Gray Death Legion (USA) (Unl).mp4</video>
 	</game>
 	<game id="12826" source="ScreenScraper.fr">
 		<path>./Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd</path>
@@ -2725,17 +2516,6 @@ Casting spells uses up magic energy that can be replenished by collecting magic 
 		<video>./snap/Smurfs, The (Europe) (En,Fr,De,Es,It).mp4</video>
 	</game>
 	<game>
-		<path>./Flashback - The Quest for Identity (USA).chd</path>
-		<name>Flashback - The Quest for Identity (USA)</name>
-		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
-		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T000000</releasedate>
-		<players />
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Dracula Unleashed (1993)(Sega)(US) [MK-4420] - (Disc 2 of 2).cue</path>
 		<name>Dracula Unleashed (Disc 2)</name>
 		<desc>Dracula Unleashed is an interactive movie in the same vein as Sherlock Holmes: Consulting Detective. Basically, you can choose from several locations to go to, and at each location you are shown different events through live-action video clips. Clues in the videos will point you to where you should go next. You also have an "inventory" which you can use to affect the outcome of certain clips (for example, if you enter an asylum with the blackjack you'll be able to defend yourself against any escaped inmates, but if you don't bring the blackjack with you you'll be killed). Time is constantly moving and new events will pop up at different times of the day.  In Dracula Unleashed it is the year 1899, ten years after the destruction of count Dracula chronicled in Bram Stoker's novel. You take the role of Alexander Morris, the younger brother of Texan Quincey Morris who died defeating Dracula. Alexander has come to London to investigate the circumstances of his brother's death, but became sidetracked when he fell in love with and proposed to a local girl named Annisette.  Now, the dawn of a new millennium approaches and an evil force is stalking the streets of London, draining victims of their blood and transforming innocent women into bloodthirsty vampiresses. With the aide of your brother's old friends, the survivors of Dracula's evil, you must uncover the identity of this new vampire and prevent him from transforming Annisette into his queen of the night. Do not fail her, or she will personally rip your throat out.</desc>
@@ -2845,21 +2625,6 @@ Night Trap was the very first game that used the FMV (full-motion video) technol
 		<genre>Adventure</genre>
 	</game>
 	<game>
-		<path>./prize fighter disc 1.cue</path>
-		<name>Prize Fighter (Disc 1)</name>
-		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/prize fighter disc 2.png</image>
-		<video>./snap/prize fighter disc 1.mp4</video>
-		<marquee>./wheel/prize fighter disc 2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports-Fight</genre>
-	</game>
-	<game>
 		<path>./prize fighter disc 2.cue</path>
 		<name>Prize Fighter (Disc 2)</name>
 		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
@@ -2965,26 +2730,6 @@ Night Trap was the very first game that used the FMV (full-motion video) technol
 		<genre>Action-Fight-Adventure</genre>
 	</game>
 	<game>
-		<path>./Terminator, The (USA).chd</path>
-		<name>The Terminator</name>
-		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
-
-The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
-
-Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
-
-Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
-		<image>./mixart/Terminator, The (USA).png</image>
-		<video>./snap/Terminator, The (USA).mp4</video>
-		<marquee>./wheel/Terminator, The (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Dune (USA).chd</path>
 		<name>Dune (USA)</name>
 		<image>./mixart/Dune (USA).png</image>
@@ -3043,6 +2788,263 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<releasedate>19950000T000000</releasedate>
 		<developer>Alexandria, Inc.</developer>
 		<publisher>Acclaim Entertainment</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./3 Ninjas Kick Back (USA).chd</path>
+		<name>3 Ninjas Kick Back</name>
+		<desc>You must help an old samurai to retrieve a dagger he once got as an award for his achievements in martial arts. The dagger was stolen by somebody who envied the old warrior - now he cannot give this prize to the warriors of the next generation. Choose one of the three young ninjas to help the old man!
+
+This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each one of the three ninjas has unique weapons and abilities. All three of them can run, duck, crawl, climb, jump, and hang on trees, ropes, etc. You'll encounter many obstacles and enemies, both regular and boss-like, which you'll have to overcome and defeat.</desc>
+		<image>./mixart/3 Ninjas Kick Back (USA).png</image>
+		<video>./snap/3 Ninjas Kick Back (USA).mp4</video>
+		<marquee>./wheel/3 Ninjas Kick Back (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940000T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Sony</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).chd</path>
+		<name>Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA)</name>
+		<image>./mixart/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).png</image>
+		<video>./snap/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).mp4</video>
+		<marquee>./wheel/Advanced Dungeons &amp; Dragons - Eye of the Beholder (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
+		<name>Adventures of Batman &amp; Robin, The (USA)</name>
+		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
+		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
+		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./After Burner III (USA).chd</path>
+		<name>After Burner III</name>
+		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
+
+A Sega CD exclusive, the title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
+
+Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
+		<image>./mixart/After Burner III (USA).png</image>
+		<video>./snap/After Burner III (USA).mp4</video>
+		<marquee>./wheel/After Burner III (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920000T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./AH-3 Thunderstrike (USA).chd</path>
+		<name>AH-3 Thunderstrike (USA)</name>
+		<image>./mixart/AH-3 Thunderstrike (USA).png</image>
+		<video>./snap/AH-3 Thunderstrike (USA).mp4</video>
+		<marquee>./wheel/AH-3 Thunderstrike (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Amazing Spider-Man vs. The Kingpin, The (USA).chd</path>
+		<name>Amazing Spider-Man vs. The Kingpin, The (USA)</name>
+		<image>./mixart/Amazing Spider-Man vs. The Kingpin, The (USA).png</image>
+		<video>./snap/Amazing Spider-Man vs. The Kingpin, The (USA).mp4</video>
+		<marquee>./wheel/Amazing Spider-Man vs. The Kingpin, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Android Assault - The Revenge of Bari-Arm (USA).chd</path>
+		<name>Android Assault - The Revenge of Bari-Arm (USA)</name>
+		<image>./mixart/Android Assault - The Revenge of Bari-Arm (USA).png</image>
+		<video>./snap/Android Assault - The Revenge of Bari-Arm (USA).mp4</video>
+		<marquee>./wheel/Android Assault - The Revenge of Bari-Arm (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12799" source="ScreenScraper.fr">
+		<path>./Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].chd</path>
+		<name>Annet Again</name>
+		<desc>The story takes place two years after 'El Viento'. After being rescued from certain sacrifice by Earnest Evans, Annet travels across Europe and encounters a group that wants a pendant in her possession. After being ambushed by them she escapes and begins a quest to protect the world from destruction.</desc>
+		<image>./mixart/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</image>
+		<video>./snap/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].mp4</video>
+		<marquee>./wheel/Anett Futatabi (1993)(Wolf Team)(JP) [T-32104].png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930330T000000</releasedate>
+		<developer>Wolf Team</developer>
+		<publisher>Wolf Team</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./AX-101 (USA).chd</path>
+		<name>AX-101</name>
+		<desc>AX-101 on Mega-CD is a first person futuristic shoot'em up where your goal is to protect humanity from UFO attacks. The player pilots a spaceship and has to handle cannon during space, air - and sometimes underground - battles. 3 kinds of weapons are available: simple cannon, reloaded cannon (way more powerful) and a limited stock of bombs (to be handled carefully).</desc>
+		<image>./mixart/AX-101 (USA).png</image>
+		<video>./snap/AX-101 (USA).mp4</video>
+		<marquee>./wheel/AX-101 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940000T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="12716" source="ScreenScraper">
+		<path>./Batman Returns (USA).chd</path>
+		<name>Batman Returns</name>
+		<desc>Batman Returns on the SEGA CD is an enhanced version of the Genesis adaptation of the movie. It includes the entirety of the original platform game, but adds all-new driving levels.
+
+The game can be played in three ways: either as only the platform game, only the racing game, or a combination of both. Each option features a unique ending sequence.
+
+For every of the original version's five platform levels, there is a related driving section in which the player controls either the Batmobile or the Batskiboat. Both in perspective and gameplay, these sections are reminiscent of arcade titles like OutRun. Seen from above and behind, the player's vehicle must reach checkpoints before a timer runs out, receiving bonus points for any surplus seconds. The CD system's hardware is used for sprite scaling and other tricks, achieving a 3D effect.
+
+The game being based on an action-filled movie, there's not only driving but also shooting: both the car and the boat are armed with machine guns and heat-seeking missiles (with limited ammunition). Besides the roads being full of enemies in general, each level also ends in a boss fight against a big (and usually heavily armed) vehicle.
+
+The game features CD-based audio tracks, replacing those from the original.</desc>
+		<image>./mixart/Batman Returns (USA).png</image>
+		<video>./snap/Batman Returns (USA).mp4</video>
+		<marquee>./wheel/Batman Returns (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920000T000000</releasedate>
+		<developer>Malibu Games</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="97343" source="ScreenScraper.fr">
+		<path>./BattleTech - Gray Death Legion (USA) (Unl).chd</path>
+		<name>Battletech - Gray Death Legion</name>
+		<desc>The Gray Death Legion is a mercenary regiment within the Battletech universe. This game demo does not have audio, but is very playable and a blast at that! The game plays very similar to the excellent AH-3 Thunderstrike. Battletech: Gray Death Legion makes use of the Sega CD's scaling and rotation hardware to create an impressive 3D environment with a smooth frame rate. Features a very long 3D animated Battletech intro that is also very impressive.</desc>
+		<image>./mixart/BattleTech - Gray Death Legion (USA) (Unl).png</image>
+		<video>./snap/BattleTech - Gray Death Legion (USA) (Unl).mp4</video>
+		<marquee>./wheel/BattleTech - Gray Death Legion (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Imagineering</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity (USA).chd</path>
+		<name>Flashback - The Quest for Identity (USA)</name>
+		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
+		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Flink (USA).chd</path>
+		<name>Flink</name>
+		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
+
+Apart from the usual platformer elements, the game has a unique feature: Flink's ability to create spells. Whenever the game is paused, Flink can combine three ingredients to create a spell. Ingredients can be collected throughout the game. They are usually carried around by a certain type of enemy or hidden in treasure chests. There are ten different spells, the "recipes" which are contained in scrolls that are given to Flink by rescued elders or found within certain levels. The spells include different attack spells (for example a demon that accompanies Flink and attacks his enemies), a shield spell, a shrink spell, a quick grow spell that lets certain plants grow so that Flink can reach new areas of a level, magic keys that open locked treasure chests and more. 
+Casting spells uses up magic energy that can be replenished by collecting magic bottles or defeating enemies. Similar to the Sonic games, when Flink is hit, he looses all of his magic energy and has only limited time to pick it up again. If he is hit while having no magic energy, he loses a life.</desc>
+		<image>./mixart/Flink (USA).png</image>
+		<video>./snap/Flink (USA).mp4</video>
+		<marquee>./wheel/Flink (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Psygnosis</publisher>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Heart of the Alien - Out of This World Parts I and II (USA).chd</path>
+		<name>Heart of the Alien - Out of This World Parts I and II (USA)</name>
+		<image>./mixart/Heart of the Alien - Out of This World Parts I and II (USA).png</image>
+		<video>./snap/Heart of the Alien - Out of This World Parts I and II (USA).mp4</video>
+		<marquee>./wheel/Heart of the Alien - Out of This World Parts I and II (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./prize fighter disc 1.cue</path>
+		<name>Prize Fighter (Disc 1)</name>
+		<desc>Prize Fighter is a FMV boxing game which puts the player in the body  of "The Kid" against four opponents: Honeyboy Fernandez, Mega Joe Falco, Rex Hawkins, and the ultimate challenge, Nuke "The Duke" Johnson, divided over two CDs.  While the game requires a completely different approach than sprite or polygonal games, the tactics are still the same - jab, punch and deliver uppercuts when the opponent has his defenses down, and block and bob as he makes his moves. After a win the player can improve his left and right glove abilities and stamina by assigning "Power Points" to each area.  The only sprites visible during the bouts are the player gloves and the health indicators - the boxers and the rest of the ring are black and white FMV. Like with other FMV games, the player can enable  tips, which indicates to hit certain butttons when required.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/prize fighter disc 2.png</image>
+		<video>./snap/prize fighter disc 1.mp4</video>
+		<marquee>./wheel/prize fighter disc 2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports-Fight</genre>
+		<lang>en</lang>
+	</game>
+	<game id="58725" source="ScreenScraper.fr">
+		<path>./Samurai Shodown (USA).chd</path>
+		<name>Samurai Shodown</name>
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<image>./mixart/Samurai Shodown (USA).png</image>
+		<video>./snap/Samurai Shodown (USA).mp4</video>
+		<marquee>./wheel/Samurai Shodown (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>JVC Musical Industries</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).chd</path>
+		<name>The Terminator</name>
+		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
+
+The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
+
+Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
+
+Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>

@@ -376,21 +376,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Addams Family, The ULTIMATE Pro 1.05.fpt</path>
-		<name>Addams Family, The ULTIMATE Pro 1.05</name>
-		<desc>Flipper Addams Family, The ULTIMATE Pro 1.05</desc>
-		<image>./mixart/Addams Family, The ULTIMATE Pro 1.05.jpg</image>
-		<video>./snap/Addams Family, The ULTIMATE Pro 1.05.mp4</video>
-		<marquee>./wheel/Addams Family, The ULTIMATE Pro 1.05.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Aerosmith (2.0).fpt</path>
 		<name>Aerosmith</name>
 		<desc>Flipper Aerosmith</desc>
@@ -1254,15 +1239,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Metalica Platinum 1.02.fpt</path>
-		<name>Metalica Platinum 1.02</name>
-		<desc>Flipper Metalica Platinum</desc>
-		<image>./mixart/Metalica Platinum 1.02.png</image>
-		<video>./snap/Metalica Platinum 1.02.mp4</video>
-		<marquee>./wheel/Metalica Platinum 1.02.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-	</game>
-	<game>
 		<path>./Mortal Kombat Pinball.fpt</path>
 		<name>Mortal Kombat Pinball</name>
 		<desc>Flipper Mortal Kombat Pinball</desc>
@@ -2079,5 +2055,29 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Addams Family, The ULTIMATE Pro 1.05.fpt</path>
+		<name>Addams Family, The ULTIMATE Pro 1.05</name>
+		<desc>Flipper Addams Family, The ULTIMATE Pro 1.05</desc>
+		<image>./mixart/Addams Family, The ULTIMATE Pro 1.05.jpg</image>
+		<video>./snap/Addams Family, The ULTIMATE Pro 1.05.mp4</video>
+		<marquee>./wheel/Addams Family, The ULTIMATE Pro 1.05.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metalica Platinum 1.02.fpt</path>
+		<name>Metalica Platinum 1.02</name>
+		<desc>Flipper Metalica Platinum</desc>
+		<image>./mixart/Metalica Platinum 1.02.png</image>
+		<video>./snap/Metalica Platinum 1.02.mp4</video>
+		<marquee>./wheel/Metalica Platinum 1.02.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 	</game>
 </gameList>

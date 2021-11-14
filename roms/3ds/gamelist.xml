@@ -876,20 +876,6 @@ For series veterans, Classic mode offers the traditional Etrian Odyssey gameplay
 		<marquee>./wheel/SpiderMan Edge of Time (Usa).png</marquee>
 		<video>./snap/SpiderMan Edge of Time (Usa).mp4</video>
 	</game>
-	<game id="11200" source="ScreenScraper.fr">
-		<path>./Tom Clancys Ghost Recon - Shadow Wars (USA).3ds</path>
-		<name>Tom Clancy's Ghost Recon - Shadow Wars</name>
-		<desc>Shadow Wars involves a behind-the-scenes plot by "ultranationalist" conspirators to revert Russia back to the days of the Iron Curtain, Communism, and the Cold War. A large part of the plot involves the Russian conspirators meddling in the affairs of neighboring countries, wherein the Ghost Recon team is dispatched to clear things up. There are six characters acting as individual units similar to Nintendo's own Fire Emblem series, each with special abilities. The six classes are Commando, Gunner, Sniper, Recon, Engineer, and Medic. Players must learn to use each strategically to survive missions. Missions also tend to have multiple objectives, and difficulties may be selected prior to engaging each stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>20110327T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Strategy</genre>
-		<image>./mixart/Tom Clancys Ghost Recon - Shadow Wars (USA).png</image>
-		<marquee>./wheel/Tom Clancys Ghost Recon - Shadow Wars (USA).png</marquee>
-		<video>./snap/Tom Clancys Ghost Recon - Shadow Wars (USA).mp4</video>
-		<genreid>1280</genreid>
-	</game>
 	<game id="10988" source="ScreenScraper.fr">
 		<path>./The Legend Of Zelda Majoras Mask 3D (Usa).3ds</path>
 		<name>The Legend Of Zelda Majoras Mask 3D</name>
@@ -3257,5 +3243,19 @@ Scattered throughout the levels include coins (that add towards your score), Her
 		<players>2-8</players>
 		<favorite>true</favorite>
 		<genreid>1537</genreid>
+	</game>
+	<game id="11200" source="ScreenScraper.fr">
+		<path>./Tom Clancys Ghost Recon - Shadow Wars (USA).3ds</path>
+		<name>Tom Clancy's Ghost Recon - Shadow Wars</name>
+		<desc>Shadow Wars involves a behind-the-scenes plot by "ultranationalist" conspirators to revert Russia back to the days of the Iron Curtain, Communism, and the Cold War. A large part of the plot involves the Russian conspirators meddling in the affairs of neighboring countries, wherein the Ghost Recon team is dispatched to clear things up. There are six characters acting as individual units similar to Nintendo's own Fire Emblem series, each with special abilities. The six classes are Commando, Gunner, Sniper, Recon, Engineer, and Medic. Players must learn to use each strategically to survive missions. Missions also tend to have multiple objectives, and difficulties may be selected prior to engaging each stage.</desc>
+		<image>./mixart/Tom Clancys Ghost Recon - Shadow Wars (USA).png</image>
+		<video>./snap/Tom Clancys Ghost Recon - Shadow Wars (USA).mp4</video>
+		<marquee>./wheel/Tom Clancys Ghost Recon - Shadow Wars (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110327T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Strategy</genre>
+		<genreid>1280</genreid>
 	</game>
 </gameList>

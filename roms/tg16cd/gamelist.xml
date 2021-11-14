@@ -496,23 +496,6 @@ Players start with only three soldiers but can encounter other soldiers that can
 		<marquee>./wheel/Gain Ground SX.png</marquee>
 		<video>./snap/Gain Ground SX.mp4</video>
 	</game>
-	<game id="141157" source="ScreenScraper.fr">
-		<path>./Galaxy Keiji Gayvan.chd</path>
-		<name>Galaxy Keiji Gayvan</name>
-		<desc>Earth is the most beautiful planet in the galaxy, and its peaceful existence is threatened by the criminal mastermind Ballas. The galaxy police sends two agents to deal with the threat: Hiro Aoyama and Michiko Akasaka, who can transform into the powerful super-fighters Gayvan and Mittchi, respectively, and are alone able to stop Ballas.
-
-Galaxy Deka Gayvan is a brawler. Players can choose to control either of the two heroes, or both of them in a co-op mode. Like in other beat-em-up games, the player must defeat all the enemies on screen in hand-to-hand combat before being able to proceed. Both Hiro and Michiko can accumulate special energy (dropped by the enemies along with health power-ups and money) that allows them to transfer into the superheroes Gayvan and Mittchi and stay in that form until they run out of energy. The superhero forms are stronger and are able to execute special attacks.
-
-In addition, a two-player versus fighting mode is included. Players can choose either the protagonists or three enemy characters to compete against each other in one-on-one fighting.</desc>
-		<rating>0</rating>
-		<releasedate>19931029T000000</releasedate>
-		<developer>Fill in Café Co., Ltd.</developer>
-		<publisher>Intec Inc.</publisher>
-		<hash>00000000</hash>
-		<image>./mixart/Galaxy Keiji Gayvan.png</image>
-		<marquee>./wheel/Galaxy Keiji Gayvan.png</marquee>
-		<video>./snap/Galaxy Keiji Gayvan.mp4</video>
-	</game>
 	<game id="106965" source="ScreenScraper.fr">
 		<path>./Garou Densetsu II - Aratanaru Tatakai.chd</path>
 		<name>Garou Densetsu 2 - Aratanaru Tatakai</name>
@@ -2420,6 +2403,23 @@ Nexzr is a vertically scrolling shoot-em-up similar to Super Star Soldier. The p
 		<releasedate>19921211T000000</releasedate>
 		<developer>Inter State Co., Ltd.</developer>
 		<publisher>Naxat Soft</publisher>
+		<crc32>00000000</crc32>
+	</game>
+	<game id="141157" source="ScreenScraper.fr">
+		<path>./Galaxy Keiji Gayvan.chd</path>
+		<name>Galaxy Keiji Gayvan</name>
+		<desc>Earth is the most beautiful planet in the galaxy, and its peaceful existence is threatened by the criminal mastermind Ballas. The galaxy police sends two agents to deal with the threat: Hiro Aoyama and Michiko Akasaka, who can transform into the powerful super-fighters Gayvan and Mittchi, respectively, and are alone able to stop Ballas.
+
+Galaxy Deka Gayvan is a brawler. Players can choose to control either of the two heroes, or both of them in a co-op mode. Like in other beat-em-up games, the player must defeat all the enemies on screen in hand-to-hand combat before being able to proceed. Both Hiro and Michiko can accumulate special energy (dropped by the enemies along with health power-ups and money) that allows them to transfer into the superheroes Gayvan and Mittchi and stay in that form until they run out of energy. The superhero forms are stronger and are able to execute special attacks.
+
+In addition, a two-player versus fighting mode is included. Players can choose either the protagonists or three enemy characters to compete against each other in one-on-one fighting.</desc>
+		<image>./mixart/Galaxy Keiji Gayvan.png</image>
+		<video>./snap/Galaxy Keiji Gayvan.mp4</video>
+		<marquee>./wheel/Galaxy Keiji Gayvan.png</marquee>
+		<rating>0</rating>
+		<releasedate>19931029T000000</releasedate>
+		<developer>Fill in Café Co., Ltd.</developer>
+		<publisher>Intec Inc.</publisher>
 		<crc32>00000000</crc32>
 	</game>
 </gameList>

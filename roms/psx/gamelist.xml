@@ -12505,21 +12505,6 @@ After surviving the events of Parasite Eve Aya left her job as a cop and became 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Pepsiman - The Running Hero (Japan).chd</path>
-		<name>Pepsiman - The Running Hero</name>
-		<desc>Pepsiman is an action video game developed and published by KID for the PS1. It was released in Japan in March 1999, and is based on American carbonated soft drink Pepsi's superhero mascot.</desc>
-		<image>./mixart/Pepsiman - The Running Hero (Japan).png</image>
-		<video>./snap/Pepsiman - The Running Hero (Japan).mp4</video>
-		<marquee>./wheel/Pepsiman - The Running Hero (Japan).png</marquee>
-		<rating>1</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>KID</developer>
-		<publisher>KID</publisher>
-		<genre>Action</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
 	<game id="129777" source="ScreenScraper.fr">
 		<path>./Perfect Weapon (USA).chd</path>
 		<name>Perfect Weapon</name>
@@ -20010,5 +19995,20 @@ Options include setting the number of laps (3,6,9,12 or 15), the difficulty leve
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Pepsiman - The Running Hero (Japan).chd</path>
+		<name>Pepsiman - The Running Hero</name>
+		<desc>Pepsiman is an action video game developed and published by KID for the PS1. It was released in Japan in March 1999, and is based on American carbonated soft drink Pepsi's superhero mascot.</desc>
+		<image>./mixart/Pepsiman - The Running Hero (Japan).png</image>
+		<video>./snap/Pepsiman - The Running Hero (Japan).mp4</video>
+		<marquee>./wheel/Pepsiman - The Running Hero (Japan).png</marquee>
+		<rating>1</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>KID</developer>
+		<publisher>KID</publisher>
+		<genre>Action</genre>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

@@ -714,22 +714,6 @@ Once you collect the target quota of gems, you must escape from each level throu
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Dragonstone (Europe) (En,Fr,De).chd</path>
-		<name>Dragonstone</name>
-		<desc>The pseudo-sequel to Darkmere, Dragonstone has a look and feel influenced by Zelda games. Agon is the villain whose hordes you must destroy. The game is split across 7 multi-directional levels, taking in forests and caves in a fantasy setting. You are armed with a sword and a special energy-bolt attack, which can be charged up. Some vanquished enemies discard food or gold; there are shops in which to spend this.</desc>
-		<image>./mixart/Dragonstone (Europe) (En,Fr,De).png</image>
-		<video>./snap/Dragonstone (Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/Dragonstone (Europe) (En,Fr,De).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Emerald Mines (Europe).chd</path>
 		<name>Emerald Mines</name>
 		<desc>The Emerald Mines CD contains the Boulder Dash-clone Emerald Mine and a collection of 177 level sets for it, each of them containing 80 levels. The player can also choose to customize their playing experience by selecting different graphics or sound effects sets before starting the game. Most of the levels were created by Emerald Mine fan club members.</desc>
@@ -1047,22 +1031,6 @@ Gulp! isnâ€™t a bad game at all. Although it sometimes can get very confuse
 		<genre>Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
-		<path>./HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).chd</path>
-		<name>Hero Quest 2 - Legacy Of Sorasil</name>
-		<desc>HeroQuest II: Legacy of Sorasil is an isometric role-playing game that was released on Amiga 1200 and CD32 in 1994 by Gremlin Graphics. The game is the sequel to HeroQuest.</desc>
-		<image>./mixart/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).png</image>
-		<video>./snap/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Gremlin Interactive</developer>
-		<publisher>Gremlin Interactive</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>de,en,fr</lang>
 		<region>eu</region>
 	</game>
 	<game>
@@ -2615,6 +2583,38 @@ Defender of the Crown II is the sequel to the smash hit Defender of the Crown. I
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Dragonstone (Europe) (En,Fr,De).chd</path>
+		<name>Dragonstone</name>
+		<desc>The pseudo-sequel to Darkmere, Dragonstone has a look and feel influenced by Zelda games. Agon is the villain whose hordes you must destroy. The game is split across 7 multi-directional levels, taking in forests and caves in a fantasy setting. You are armed with a sword and a special energy-bolt attack, which can be charged up. Some vanquished enemies discard food or gold; there are shops in which to spend this.</desc>
+		<image>./mixart/Dragonstone (Europe) (En,Fr,De).png</image>
+		<video>./snap/Dragonstone (Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/Dragonstone (Europe) (En,Fr,De).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).chd</path>
+		<name>Hero Quest 2 - Legacy Of Sorasil</name>
+		<desc>HeroQuest II: Legacy of Sorasil is an isometric role-playing game that was released on Amiga 1200 and CD32 in 1994 by Gremlin Graphics. The game is the sequel to HeroQuest.</desc>
+		<image>./mixart/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).png</image>
+		<video>./snap/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/HeroQuest II - Legacy of Sorasil (Europe) (En,Fr,De).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>de,en,fr</lang>
 		<region>eu</region>
 	</game>
 </gameList>
