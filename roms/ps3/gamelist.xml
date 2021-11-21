@@ -1539,24 +1539,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<genre>Shoot'em Up</genre>
 		<genreid>260</genreid>
 	</game>
-	<game id="26516" source="ScreenScraper.fr">
-		<path>./3 On 3 NHL Arcade.m3u</path>
-		<name>3 On 3 NHL Arcade</name>
-		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
- 
-Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
-		<image>./mixart/3 On 3 NHL Arcade.png</image>
-		<video>./snap/3 On 3 NHL Arcade.mp4</video>
-		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090202T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<genreid>1536</genreid>
-	</game>
 	<game>
 		<path>./Alien Breed 2 - Assault.m3u</path>
 		<name>Alien Breed 2 - Assault</name>
@@ -1775,5 +1757,23 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>768</genreid>
+	</game>
+	<game id="26516" source="ScreenScraper.fr">
+		<path>./3 On 3 NHL Arcade.m3u</path>
+		<name>3 On 3 NHL Arcade</name>
+		<desc>on 3 NHL Arcade is a fast-paced, loose replication of ice hockey allowing players to pick three out of 40 of the NHL's top players, and pit them against a team of three opponents. 
+ 
+Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or all-around, with obvious advantages and disadvantages for each. Conventional hockey rules are not enforced, and players are encouraged to physically block and check their opponents often. Big hits result in arcade-style powerups, like giant goalies, speed skating, and freeze-tag.</desc>
+		<image>./mixart/3 On 3 NHL Arcade.png</image>
+		<video>./snap/3 On 3 NHL Arcade.mp4</video>
+		<marquee>./wheel/3 On 3 NHL Arcade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090202T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<genreid>1536</genreid>
 	</game>
 </gameList>

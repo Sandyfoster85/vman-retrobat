@@ -7433,22 +7433,6 @@ The game features innovative graphics given the hardware limitations - there is 
 		<marquee>./wheel/Ranger X (USA).png</marquee>
 		<video>./snap/Ranger X (USA).mp4</video>
 	</game>
-	<game id="550" source="ScreenScraper.fr">
-		<path>./Rastan Saga II (USA).7z</path>
-		<name>Rastan Saga II</name>
-		<desc>The "Rastania" was a sacred place, in which the sacred temple, "Skyscraper", soared into the sky. It is said that whoever conquer the "Skyscraper" would rule the "Rastania". A wicked group has invaded the "Skyscraper" and has tried to make it their own. If the situation is left as it is, the place would eventually be controlled by the wicked group.
-
-Rastan Saga 2 is the sequel to Rastan,   containing the same hack-em'/slash-'em gameplay as the original. You are a warrior who must get through a number of levels, and trying to collect gems which can only be obtained by defeating the end-of-level bosses.  Collecting power-ups along the way awards you with extra life or better weapons.</desc>
-		<rating>0.45</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<image>./mixart/Rastan Saga II (USA).png</image>
-		<marquee>./wheel/Rastan Saga II (USA).png</marquee>
-		<video>./snap/Rastan Saga II (USA).mp4</video>
-	</game>
 	<game id="228" source="ScreenScraper.fr">
 		<path>./Red Zone (USA, Europe).7z</path>
 		<name>Red Zone</name>
@@ -11507,22 +11491,6 @@ Ys III breaks away from the "bumping into enemies" battle system of the first tw
 		<marquee>./wheel/Zero the Kamikaze Squirrel (USA).png</marquee>
 		<video>./snap/Zero the Kamikaze Squirrel (USA).mp4</video>
 	</game>
-	<game id="361" source="ScreenScraper.fr">
-		<path>./Zero Tolerance (USA, Europe).7z</path>
-		<name>Zero Tolerance</name>
-		<desc>The space station Europe-1 has been overrun by aliens. During one of the fights the nuclear cooling system has been damaged, resulting in a meltdown within hours. Your mission, as a team of five of the toughest persons in the Corps, is to infiltrate and gain control of Europe-1. You must sweep the entire station clean of aliens.
-
-One of a few first-person-shooters on this console. It is required that you kill every single alien on each of the levels (hence the name). The five members of your team, who have different skills, start out with different weapons, are your five chances of seeing this through. This adds a level of strategy to the game.</desc>
-		<rating>0.6</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Accolade</developer>
-		<publisher>Accolade - Technopop</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Zero Tolerance (USA, Europe).png</image>
-		<marquee>./wheel/Zero Tolerance (USA, Europe).png</marquee>
-		<video>./snap/Zero Tolerance (USA, Europe).mp4</video>
-	</game>
 	<game id="326" source="ScreenScraper.fr">
 		<path>./Zero Wing (Europe).7z</path>
 		<name>Zero Wing</name>
@@ -13440,5 +13408,37 @@ The story-line (if you can call it that), does give this game an interesting ima
 		<genre>Puzzle-Game</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="550" source="ScreenScraper.fr">
+		<path>./Rastan Saga II (USA).7z</path>
+		<name>Rastan Saga II</name>
+		<desc>The "Rastania" was a sacred place, in which the sacred temple, "Skyscraper", soared into the sky. It is said that whoever conquer the "Skyscraper" would rule the "Rastania". A wicked group has invaded the "Skyscraper" and has tried to make it their own. If the situation is left as it is, the place would eventually be controlled by the wicked group.
+
+Rastan Saga 2 is the sequel to Rastan,   containing the same hack-em'/slash-'em gameplay as the original. You are a warrior who must get through a number of levels, and trying to collect gems which can only be obtained by defeating the end-of-level bosses.  Collecting power-ups along the way awards you with extra life or better weapons.</desc>
+		<image>./mixart/Rastan Saga II (USA).png</image>
+		<video>./snap/Rastan Saga II (USA).mp4</video>
+		<marquee>./wheel/Rastan Saga II (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+	</game>
+	<game id="361" source="ScreenScraper.fr">
+		<path>./Zero Tolerance (USA, Europe).7z</path>
+		<name>Zero Tolerance</name>
+		<desc>The space station Europe-1 has been overrun by aliens. During one of the fights the nuclear cooling system has been damaged, resulting in a meltdown within hours. Your mission, as a team of five of the toughest persons in the Corps, is to infiltrate and gain control of Europe-1. You must sweep the entire station clean of aliens.
+
+One of a few first-person-shooters on this console. It is required that you kill every single alien on each of the levels (hence the name). The five members of your team, who have different skills, start out with different weapons, are your five chances of seeing this through. This adds a level of strategy to the game.</desc>
+		<image>./mixart/Zero Tolerance (USA, Europe).png</image>
+		<video>./snap/Zero Tolerance (USA, Europe).mp4</video>
+		<marquee>./wheel/Zero Tolerance (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Accolade</developer>
+		<publisher>Accolade - Technopop</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 	</game>
 </gameList>

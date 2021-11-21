@@ -1018,22 +1018,6 @@ Gulp! isnâ€™t a bad game at all. Although it sometimes can get very confuse
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Heimdall 2 - Into the Hall of Worlds (Europe).chd</path>
-		<name>Heimdall 2 - Into The Hall Of Worlds</name>
-		<desc>Heimdall 2 (also known as Heimdall 2: into the Hall of Worlds) is an isometric action-adventure video game developed by The 8th Day and published by Core Design for Amiga, Amiga CD32 and MS-DOS platforms in 1994. It is set in a world based on Norse mythology and is the sequel to Heimdall, released in 1992. The CD-ROM versions contain a CD audio soundtrack composed by Martin Iveson.</desc>
-		<image>./mixart/Heimdall 2 - Into the Hall of Worlds (Europe).png</image>
-		<video>./snap/Heimdall 2 - Into the Hall of Worlds (Europe).mp4</video>
-		<marquee>./wheel/Heimdall 2 - Into the Hall of Worlds (Europe).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>8th Day</developer>
-		<publisher>Core Design</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Humans 1 and 2 (1994)(Gametek)(M5)[!][compilation].chd</path>
 		<name>Humans</name>
 		<desc>The Humans is a Lemmings-influenced arcade puzzler, released on CD alongside its expansion pack, Humans 2.</desc>
@@ -1339,22 +1323,6 @@ Litil Divil has puzzle-solving and action elements, including platforming and co
 		<developer>Thomas Rolfs, Andrew McCabe</developer>
 		<publisher>Gremlin Interactive</publisher>
 		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
-		<path>./Lost Vikings, The (Europe).chd</path>
-		<name>Lost Vikings, The</name>
-		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.</desc>
-		<image>./mixart/Lost Vikings, The (Europe).png</image>
-		<video>./snap/Lost Vikings, The (Europe).mp4</video>
-		<marquee>./wheel/Lost Vikings, The (Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Silicon &amp; Synapse</developer>
-		<publisher>Interplay</publisher>
-		<genre>Thinking</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
@@ -2491,26 +2459,6 @@ Gameplay is turn-based. Each turn, the player can control one specific worm from
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Zool - Ninja of the Nth Dimension (Europe).chd</path>
-		<name>Zool - Ninja of the Nth Dimension</name>
-		<desc>His name is Zool, and he is a gremlin-like creature from another dimension. He is forced to land on the Earth, but his sole goal is to attain the prestigious ranking of a Ninja. To do that, Zool will have to travel through six worlds, each divided into three stages, defeat his enemies, and prove himself worthy of that title.
-
-Zool is a fast-paced side-scrolling platformer. The protagonist can run, jump, climb walls, and shoot enemies. Power-ups for Zool are scattered across the levels. These include life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes imitates the original's motions a few seconds after he performs them.
-
-In the options menu the player can change the difficulty and the game speed (two times), the number of continues, and the background music (rock or funk).</desc>
-		<image>./mixart/Zool - Ninja of the Nth Dimension (Europe).png</image>
-		<video>./snap/Zool - Ninja of the Nth Dimension (Europe).mp4</video>
-		<marquee>./wheel/Zool - Ninja of the Nth Dimension (Europe).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Gremlin Interactive</developer>
-		<publisher>Gremlin Interactive</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Zool 2 (Europe).chd</path>
 		<name>Zool 2</name>
 		<desc>The intergalactic gremlin ninja Zool returns, and this time his enemies in the game were named Krool and his assistant Mental Block, whose goal is to stifle the world's imagination, causing rampant boredom. In his fight Zool is aided by his female companion, named Zooz (in a red costume), and his faithful dog Zoon. The ending contained a hint at a possible further sequel.</desc>
@@ -2615,6 +2563,59 @@ Defender of the Crown II is the sequel to the smash hit Defender of the Crown. I
 		<genre>Role playing games</genre>
 		<players>1</players>
 		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Heimdall 2 - Into the Hall of Worlds (Europe).chd</path>
+		<name>Heimdall 2 - Into The Hall Of Worlds</name>
+		<desc>Heimdall 2 (also known as Heimdall 2: into the Hall of Worlds) is an isometric action-adventure video game developed by The 8th Day and published by Core Design for Amiga, Amiga CD32 and MS-DOS platforms in 1994. It is set in a world based on Norse mythology and is the sequel to Heimdall, released in 1992. The CD-ROM versions contain a CD audio soundtrack composed by Martin Iveson.</desc>
+		<image>./mixart/Heimdall 2 - Into the Hall of Worlds (Europe).png</image>
+		<video>./snap/Heimdall 2 - Into the Hall of Worlds (Europe).mp4</video>
+		<marquee>./wheel/Heimdall 2 - Into the Hall of Worlds (Europe).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>8th Day</developer>
+		<publisher>Core Design</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Lost Vikings, The (Europe).chd</path>
+		<name>Lost Vikings, The</name>
+		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.</desc>
+		<image>./mixart/Lost Vikings, The (Europe).png</image>
+		<video>./snap/Lost Vikings, The (Europe).mp4</video>
+		<marquee>./wheel/Lost Vikings, The (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<genre>Thinking</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Zool - Ninja of the Nth Dimension (Europe).chd</path>
+		<name>Zool - Ninja of the Nth Dimension</name>
+		<desc>His name is Zool, and he is a gremlin-like creature from another dimension. He is forced to land on the Earth, but his sole goal is to attain the prestigious ranking of a Ninja. To do that, Zool will have to travel through six worlds, each divided into three stages, defeat his enemies, and prove himself worthy of that title.
+
+Zool is a fast-paced side-scrolling platformer. The protagonist can run, jump, climb walls, and shoot enemies. Power-ups for Zool are scattered across the levels. These include life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes imitates the original's motions a few seconds after he performs them.
+
+In the options menu the player can change the difficulty and the game speed (two times), the number of continues, and the background music (rock or funk).</desc>
+		<image>./mixart/Zool - Ninja of the Nth Dimension (Europe).png</image>
+		<video>./snap/Zool - Ninja of the Nth Dimension (Europe).mp4</video>
+		<marquee>./wheel/Zool - Ninja of the Nth Dimension (Europe).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
 		<region>eu</region>
 	</game>
 </gameList>

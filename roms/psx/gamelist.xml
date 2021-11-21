@@ -5835,20 +5835,6 @@ While wandering around the island, you'll find many documents and letters to rea
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Disruptor (USA).chd</path>
-		<name>Disruptor</name>
-		<desc>Disruptor is a FPS with a few twists such as cut-scenes with actors, psionics as well as weapons and specific goals on your missions.  As a member of earths psionic troops you must perform missions for the security of the planet.  As you progress through the stages you get access to bigger weapons as well as more psionic implants that give you special abilities.</desc>
-		<image>./mixart/Disruptor (USA).png</image>
-		<video>./snap/Disruptor (USA).mp4</video>
-		<marquee>./wheel/Disruptor (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19961120T000000</releasedate>
-		<developer>Insomniac Games</developer>
-		<publisher>Sony</publisher>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Divide, The - Enemies Within (USA).chd</path>
 		<name>The Divide : Enemies Within</name>
 		<desc>In The Divide: Enemies Within, the player takes control of an explorer on an alien planet. After they land to investigate, they are attacked, where the player is frozen and their partner kidnapped. After being thawed, the player takes control of a mech and sets out to rescue their partner and destroy the alien menace.   The basic gameplay has the player explore through eight different worlds with a total of over 100 different stages in a 3-D environment. The player explores the levels, collecting new weapons and power-ups to fight out the 20 different enemies scattered throughout the level. At the end of each level, the player must fight off an enemy boss before fighting the final boss at the end of the game.   STORY:   The last thing you remember is getting the tar beaten out of you by a group of unknown foes. When you finally get your head on straight, you realize that they have kidnapped your partner and haven stolen your spaceship. Redemption and revenge are foremost on your mind, and like the old adage says, "There's no time like the present".Welcome to DIVIDE: ENEMIES WITHIN, your chance for revenge...sweet revenge!!</desc>
@@ -18974,21 +18960,6 @@ Within 3D arenas you will be able to claw and mangle your dinosaur opponents wit
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Wild 9 (USA).chd</path>
-		<name>Wild 9</name>
-		<desc>Wild 9 is a 2D platformer with 3D graphics, featuring gameplay similar in vein to the company's 2D Earthworm Jim games. Unique to Wild 9 is the 'rig', a weapon your character wields to carry enemies to torture and maim them to solve puzzles and progress through the game's ten levels. Basically, it's an interesting twist and homage to more old-school Super NES video gaming.</desc>
-		<image>./mixart/Wild 9 (USA).png</image>
-		<video>./snap/Wild 9 (USA).mp4</video>
-		<marquee>./wheel/Wild 9 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19981001T000000</releasedate>
-		<developer>Shiny Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform-Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Wild Arms (USA).chd</path>
 		<name>Wild Arms</name>
 		<desc>Wild Arms is a classic style RPG with some wild west aspects such as guns (called ARMS) thrown in.  The main map view is done with graphics similar in style to those found on SNES RPGs but to a higher quality.  Combat is a typical turn based mode in 3D mode where you designate each characters actions at the start of each round.
@@ -20010,5 +19981,34 @@ Options include setting the number of laps (3,6,9,12 or 15), the difficulty leve
 		<genre>Action</genre>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game>
+		<path>./Disruptor (USA).chd</path>
+		<name>Disruptor</name>
+		<desc>Disruptor is a FPS with a few twists such as cut-scenes with actors, psionics as well as weapons and specific goals on your missions.  As a member of earths psionic troops you must perform missions for the security of the planet.  As you progress through the stages you get access to bigger weapons as well as more psionic implants that give you special abilities.</desc>
+		<image>./mixart/Disruptor (USA).png</image>
+		<video>./snap/Disruptor (USA).mp4</video>
+		<marquee>./wheel/Disruptor (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19961120T000000</releasedate>
+		<developer>Insomniac Games</developer>
+		<publisher>Sony</publisher>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Wild 9 (USA).chd</path>
+		<name>Wild 9</name>
+		<desc>Wild 9 is a 2D platformer with 3D graphics, featuring gameplay similar in vein to the company's 2D Earthworm Jim games. Unique to Wild 9 is the 'rig', a weapon your character wields to carry enemies to torture and maim them to solve puzzles and progress through the game's ten levels. Basically, it's an interesting twist and homage to more old-school Super NES video gaming.</desc>
+		<image>./mixart/Wild 9 (USA).png</image>
+		<video>./snap/Wild 9 (USA).mp4</video>
+		<marquee>./wheel/Wild 9 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19981001T000000</releasedate>
+		<developer>Shiny Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform-Action</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

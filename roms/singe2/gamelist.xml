@@ -111,21 +111,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dragon's Lair TV.cmd</path>
-		<name>Dragon's Lair TV</name>
-		<desc>The series chronicles the adventures of Dirk the Daring, who is the best knight in the kingdom of King Ethelred. Dirk performs all sorts of great deeds while protecting the kingdom and his love Princess Daphne from the forces of the evil dragon Singe.</desc>
-		<image>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-poster.png</image>
-		<video>./content/dragon_s_lair_tv_show_singe_2/video/menu-attract.mp4</video>
-		<marquee>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-marquee.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Poiu</developer>
-		<publisher>Poiu</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hydrosub 2021.cmd</path>
 		<name>Hydrosub: 2021</name>
 		<desc>Shootout beneath the ocean!</desc>
@@ -431,21 +416,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Fire and Ice.cmd</path>
-		<name>Fire and Ice</name>
-		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
-		<image>./mixart/Fire and Ice.png</image>
-		<video>./content/Fire_and_Ice/Movie/menu-attract.mp4</video>
-		<marquee>./wheel/Fire and Ice.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20190101T000000</releasedate>
-		<developer>Karis</developer>
-		<publisher>Karis</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hologram Time Traveler.cmd</path>
 		<name>Hologram Time Traveler</name>
 		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
@@ -459,6 +429,36 @@
 		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon's Lair TV.cmd</path>
+		<name>Dragon's Lair TV</name>
+		<desc>The series chronicles the adventures of Dirk the Daring, who is the best knight in the kingdom of King Ethelred. Dirk performs all sorts of great deeds while protecting the kingdom and his love Princess Daphne from the forces of the evil dragon Singe.</desc>
+		<image>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-poster.png</image>
+		<video>./content/dragon_s_lair_tv_show_singe_2/video/menu-attract.mp4</video>
+		<marquee>./content/dragon_s_lair_tv_show_singe_2/Overlay/menu-marquee.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Poiu</developer>
+		<publisher>Poiu</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fire and Ice.cmd</path>
+		<name>Fire and Ice</name>
+		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
+		<image>./mixart/Fire and Ice.png</image>
+		<video>./content/Fire_and_Ice/Movie/menu-attract.mp4</video>
+		<marquee>./wheel/Fire and Ice.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Karis</developer>
+		<publisher>Karis</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

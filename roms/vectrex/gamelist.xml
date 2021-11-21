@@ -22,20 +22,6 @@
 		<hidden>false</hidden>
 	</game>
 	<game>
-		<path>./HyperChase - Auto Race (World).zip</path>
-		<name>Hyperchase</name>
-		<desc>Watch our for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Try to stay alive through city streets and country roads. Start your engine - the start lights are counting down!</desc>
-		<image>./mixart/HyperChase - Auto Race (World).png</image>
-		<video>./snap/HyperChase - Auto Race (World).mp4</video>
-		<marquee>./wheel/HyperChase - Auto Race (World).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving / Race-Race, Driving</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Mine Storm (World).zip</path>
 		<name>Mine Storm</name>
 		<desc>Bios imaage used to initialise the Vectrex and control it's functions.</desc>
@@ -380,6 +366,20 @@ The most evil wizard, Narzod, gained the power to enslave all mankind. You are t
 		<developer>GCE</developer>
 		<publisher>GCE</publisher>
 		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./HyperChase - Auto Race (World).zip</path>
+		<name>Hyperchase</name>
+		<desc>Watch our for the guardrail! You're behind the wheel of your formula one racer about to start the world's toughest grand prix. Try to stay alive through city streets and country roads. Start your engine - the start lights are counting down!</desc>
+		<image>./mixart/HyperChase - Auto Race (World).png</image>
+		<video>./snap/HyperChase - Auto Race (World).mp4</video>
+		<marquee>./wheel/HyperChase - Auto Race (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving / Race-Race, Driving</genre>
 		<players>2</players>
 	</game>
 </gameList>

@@ -911,21 +911,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Robocop ULTIMATE Pro 1.03.fpt</path>
-		<name>Robocop ULTIMATE Pro 1.03</name>
-		<desc>Flipper Robocop ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Robocop ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Robocop ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Robocop ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sons Of Anarchy - Jipar.fpt</path>
 		<name>Sons Of Anarchy - Jipar</name>
 		<desc>Flipper Sons Of Anarchy</desc>
@@ -1802,38 +1787,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
-		<name>Blade Runner ULTIMATE Pro 1.04</name>
-		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
-		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
-		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
-		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Black Knight ULTIMATE 1.01.fpt</path>
 		<name>Black Knight ULTIMATE 1.01</name>
 		<desc>Flipper Black Knight ULTIMATE</desc>
@@ -2079,5 +2032,52 @@
 		<video>./snap/Metalica Platinum 1.02.mp4</video>
 		<marquee>./wheel/Metalica Platinum 1.02.png</marquee>
 		<releasedate>19940101T000000</releasedate>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Robocop ULTIMATE Pro 1.03.fpt</path>
+		<name>Robocop ULTIMATE Pro 1.03</name>
+		<desc>Flipper Robocop ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Robocop ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Robocop ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Robocop ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

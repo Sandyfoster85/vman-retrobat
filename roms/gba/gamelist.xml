@@ -11579,20 +11579,6 @@ Explore fun high school locations including classrooms, library, computer lab, o
 		<marquee>./wheel/Grim Adventures of Billy &amp; Mandy, The (USA).png</marquee>
 		<video>./snap/Grim Adventures of Billy &amp; Mandy, The (USA).mp4</video>
 	</game>
-	<game id="3836" source="ScreenScraper.fr">
-		<path>./Hobbit, The (USA).7z</path>
-		<name>The Hobbit</name>
-		<desc>Bilbo le Hobbit sur GBA est un jeu d'action/aventure restituant fidèlement l'univers du Seigneur des Anneaux imaginé par Tolkien. Comme dans le livre, on y retrouve les hobbits, les elfes, les gobelins et toutes les autres créatures peuplant la Terre du Milieu. Incarnez Bilbo, jeune hobbit choisi par Gandalf pour reprendre le trésor volé par Smaug le Dragon, il y a de cela bien longtemps, celui-là même qui détruisit le Royaume des Nains.</desc>
-		<rating>0.8</rating>
-		<releasedate>20031107T000000</releasedate>
-		<developer>Saffire</developer>
-		<publisher>Vivendi Universal Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<image>./mixart/Hobbit, The (USA).png</image>
-		<marquee>./wheel/Hobbit, The (USA).png</marquee>
-		<video>./snap/Hobbit, The (USA).mp4</video>
-	</game>
 	<game id="84787" source="ScreenScraper.fr">
 		<path>./Incredible Hulk, The (USA).7z</path>
 		<name>The Incredible Hulk</name>
@@ -14668,5 +14654,19 @@ The track design uses the isometric view, and almost never puts the car behind a
 		<players>1</players>
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
+	</game>
+	<game id="3836" source="ScreenScraper.fr">
+		<path>./Hobbit, The (USA).7z</path>
+		<name>The Hobbit</name>
+		<desc>Bilbo le Hobbit sur GBA est un jeu d'action/aventure restituant fidèlement l'univers du Seigneur des Anneaux imaginé par Tolkien. Comme dans le livre, on y retrouve les hobbits, les elfes, les gobelins et toutes les autres créatures peuplant la Terre du Milieu. Incarnez Bilbo, jeune hobbit choisi par Gandalf pour reprendre le trésor volé par Smaug le Dragon, il y a de cela bien longtemps, celui-là même qui détruisit le Royaume des Nains.</desc>
+		<image>./mixart/Hobbit, The (USA).png</image>
+		<video>./snap/Hobbit, The (USA).mp4</video>
+		<marquee>./wheel/Hobbit, The (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031107T000000</releasedate>
+		<developer>Saffire</developer>
+		<publisher>Vivendi Universal Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

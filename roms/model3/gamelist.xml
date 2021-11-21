@@ -36,21 +36,6 @@
 		<video>./snap/Spike Out Digital Battle Online.mp4</video>
 		<genreid>263</genreid>
 	</game>
-	<game id="37522" source="ScreenScraper.fr">
-		<path>./Spike Out Final Edition.zip</path>
-		<name>Spikeout Final Edition</name>
-		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / 3D-Fight-Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Spike Out Final Edition.png</image>
-		<marquee>./wheel/Spike Out Final Edition.png</marquee>
-		<video>./snap/Spike Out Final Edition.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="37526" source="ScreenScraper.fr">
 		<path>./Virtua Striker 2.zip</path>
 		<name>Virtua Striker 2</name>
@@ -227,14 +212,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<genreid>1537</genreid>
 	</game>
 	<game>
-		<path>./Dirt Devils.zip</path>
-		<name>Dirt Devils</name>
-		<image>./mixart/Dirt Devils.png</image>
-		<video>./snap/Dirt Devils.mp4</video>
-		<marquee>./wheel/Dirt Devils.png</marquee>
-		<md5>866edf08e552185d411602d8da01b36d</md5>
-	</game>
-	<game>
 		<path>./Daytona USA 2.zip</path>
 		<name>Daytona USA 2: Battle on the Edge</name>
 		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
@@ -329,6 +306,14 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<publisher>Sega</publisher>
 		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
 	</game>
+	<game>
+		<path>./Dirt Devils.zip</path>
+		<name>Dirt Devils</name>
+		<image>./mixart/Dirt Devils.png</image>
+		<video>./snap/Dirt Devils.mp4</video>
+		<marquee>./wheel/Dirt Devils.png</marquee>
+		<md5>866edf08e552185d411602d8da01b36d</md5>
+	</game>
 	<game id="37515" source="ScreenScraper.fr">
 		<path>./Le Mans 24.zip</path>
 		<name>Le Mans 24</name>
@@ -343,5 +328,20 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<genre>Race, Driving</genre>
 		<players>1</players>
 		<genreid>1537</genreid>
+	</game>
+	<game id="37522" source="ScreenScraper.fr">
+		<path>./Spike Out Final Edition.zip</path>
+		<name>Spikeout Final Edition</name>
+		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
+		<image>./mixart/Spike Out Final Edition.png</image>
+		<video>./snap/Spike Out Final Edition.mp4</video>
+		<marquee>./wheel/Spike Out Final Edition.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / 3D-Fight-Beat'em Up</genre>
+		<players>1</players>
+		<genreid>262</genreid>
 	</game>
 </gameList>

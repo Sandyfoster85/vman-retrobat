@@ -629,6 +629,22 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Daytona3.parrot</path>
+		<name>Daytona 3 / Daytona Championship</name>
+		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
+		<image>./mixart/Daytona 3.png</image>
+		<video>./snap/Daytona 3.mp4</video>
+		<marquee>./wheel/Daytona 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
 		<path>./or2spdlx.parrot</path>
 		<name>Outrun 2 Special Tours Deluxe</name>
 		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
@@ -642,22 +658,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Daytona3.parrot</path>
-		<name>Daytona 3 / Daytona Championship</name>
-		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
-		<image>./mixart/Daytona 3.png</image>
-		<video>./snap/Daytona 3.mp4</video>
-		<marquee>./wheel/Daytona 3.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Driving</genre>
-		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
