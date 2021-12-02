@@ -34420,21 +34420,6 @@ Despite the number of options available this is not an excessively fancy game. I
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./UltimatePinballQuest_v1.1.lha</path>
-		<name>Ultimate Pinball Quest, The</name>
-		<desc>The Ultimate Pinball Quest is an Action game, developed by Interactivision and published by Infogrames, which was released in 1993.</desc>
-		<image>./mixart/UltimatePinballQuest_v1.1.png</image>
-		<video>./snap/UltimatePinballQuest_v1.1.mp4</video>
-		<marquee>./wheel/UltimatePinballQuest_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Interactivision</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Navigation, Pinball, Reaction, Topdown, Vertical</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./UltimateRide_v1.0_2306.lha</path>
 		<name>Ultimate Ride, The</name>
 		<desc>The Ultimate Ride is a Racing game, developed by Gray Matter and published by Mindscape, which was released in 1990.</desc>
@@ -38636,6 +38621,21 @@ As in the first game, you start without weaponry but can pick up swords and dagg
 		<developer>Digital Magic</developer>
 		<publisher>Digital Magic</publisher>
 		<genre>Horizontal, Shootemup, Shooter, Sideways</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./UltimatePinballQuest_v1.1.lha</path>
+		<name>Ultimate Pinball Quest, The</name>
+		<desc>The Ultimate Pinball Quest is an Action game, developed by Interactivision and published by Infogrames, which was released in 1993.</desc>
+		<image>./mixart/UltimatePinballQuest_v1.1.png</image>
+		<video>./snap/UltimatePinballQuest_v1.1.mp4</video>
+		<marquee>./wheel/UltimatePinballQuest_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Interactivision</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Navigation, Pinball, Reaction, Topdown, Vertical</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

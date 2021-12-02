@@ -3743,19 +3743,6 @@ The Game Boy Color version is completely in 2D. In good Micro Machines tradition
 		<marquee>./wheel/Microsoft - The Best of Entertainment Pack (USA).png</marquee>
 		<video>./snap/Microsoft - The Best of Entertainment Pack (USA).mp4</video>
 	</game>
-	<game id="82463" source="ScreenScraper.fr">
-		<path>./Microsoft Pinball Arcade (USA).7z</path>
-		<name>Microsoft Pinball Arcade</name>
-		<desc>The programmers at Microsoft are porting a game from their operating system over to the Game Boy Color with MICROSOFT PINBALL ARCADE. This pinball game was great fun on the PC, and now it is in a form that can be taken anywhere. There are seven different tables that are actually representative of real boards made by pinball giant Gottlieb throughout the last century. Each board carries a different theme, whether it is space travel or a haunted house. The boards also contain a varying number of paddles and paddle locations to make each a different playing experience. The graphics in this version are not as shiny as its computer counterpart, but they do translate well to the small color screen. The sound effects and music remain largely the same, adding to the game's arcade feel. The cartridge also contains a short but detailed history of pinball and how it has evolved over the years. MICROSOFT PINBALL ARCADE gives players the classic game with enough boards and extras to keep even the experts busy for quite a while.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Saffire</developer>
-		<publisher>Classified Games</publisher>
-		<genre>Action-Pinball</genre>
-		<image>./mixart/Microsoft Pinball Arcade (USA).png</image>
-		<marquee>./wheel/Microsoft Pinball Arcade (USA).png</marquee>
-		<video>./snap/Microsoft Pinball Arcade (USA).mp4</video>
-	</game>
 	<game id="82471" source="ScreenScraper.fr">
 		<path>./Missile Command (USA).7z</path>
 		<name>Missile Command</name>
@@ -7859,5 +7846,18 @@ The game is similar in style and gameplay to early Metal Gear games. It is viewe
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="82463" source="ScreenScraper.fr">
+		<path>./Microsoft Pinball Arcade (USA).7z</path>
+		<name>Microsoft Pinball Arcade</name>
+		<desc>The programmers at Microsoft are porting a game from their operating system over to the Game Boy Color with MICROSOFT PINBALL ARCADE. This pinball game was great fun on the PC, and now it is in a form that can be taken anywhere. There are seven different tables that are actually representative of real boards made by pinball giant Gottlieb throughout the last century. Each board carries a different theme, whether it is space travel or a haunted house. The boards also contain a varying number of paddles and paddle locations to make each a different playing experience. The graphics in this version are not as shiny as its computer counterpart, but they do translate well to the small color screen. The sound effects and music remain largely the same, adding to the game's arcade feel. The cartridge also contains a short but detailed history of pinball and how it has evolved over the years. MICROSOFT PINBALL ARCADE gives players the classic game with enough boards and extras to keep even the experts busy for quite a while.</desc>
+		<image>./mixart/Microsoft Pinball Arcade (USA).png</image>
+		<video>./snap/Microsoft Pinball Arcade (USA).mp4</video>
+		<marquee>./wheel/Microsoft Pinball Arcade (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Saffire</developer>
+		<publisher>Classified Games</publisher>
+		<genre>Action-Pinball</genre>
 	</game>
 </gameList>

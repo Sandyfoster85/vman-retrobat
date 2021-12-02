@@ -3351,22 +3351,6 @@
 		<developer>Madgear</developer>
 	</game>
 	<game>
-		<path>./Retro Gamer Adventure.pak</path>
-		<name>Retro Gamer Adventure 2.0</name>
-		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
-		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
-		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
 		<name>Bruce Lee Revenge of the Dragon</name>
 		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
@@ -3846,6 +3830,22 @@
 		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retro Gamer Adventure.pak</path>
+		<name>Retro Gamer Adventure 2.0</name>
+		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
+		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
+		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

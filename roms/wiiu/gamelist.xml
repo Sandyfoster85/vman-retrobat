@@ -1425,23 +1425,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<md5>bd448ed91eb9bfeaa489b52a50c3f58f</md5>
 	</game>
 	<game>
-		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
-		<name>New Super Mario Bros. U + New Super Luigi U</name>
-		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
-		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
-		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
-		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20131101T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Captain Toad Treasure Tracker/code/Kinopio.rpx</path>
 		<name>Captain Toad Treasure Tracker</name>
 		<desc>Captain Toad Treasure Tracker est un jeu de réflexion et de plates-formes sur Wii U. Toad se lance dans sa première aventure solo inspirée des stages spéciaux de Super Mario 3D World. L'objectif est de déjouer les pièges de l'environnement en modifiant les perspectives à l'aide de la caméra pour atteindre la sortie des niveaux avec un maximum de pièces et de gemmes cachées.</desc>
@@ -1573,21 +1556,6 @@ Gear up for the most intense challenges only Hot Wheels can deliver! Pick your t
 		<md5>d3044d85bd45aa5ca3ad77ee6dd61796</md5>
 		<lang>en</lang>
 	</game>
-	<game id="12634">
-		<path>./Mario Tennis Ultra Smash [AVXP0101]/code/main.rpx</path>
-		<name>Mario Tennis Ultra Smash</name>
-		<desc>Compete with friends in the multiplayer Mario Tennis: Ultra Smash game on the Wii U system. Along with the fun and dynamic gameplay known to the franchise, surprise your opponents with a new move to the series, the Jumpshot, which sends the ball flying down the court. Change the sport up with new Mega Battles, using the Mega Mushroom to gain an advantage over the competition. Claim your spot in Mario Tennis lore in singles (1v1) or doubles (2v2) as you play with and against family, friends or the CPU using returning and new characters to the series.</desc>
-		<image>./mixart/Mario Tennis Ultra Smash.png</image>
-		<video>./snap/Mario Tennis Ultra Smash [AVXP0101].mp4</video>
-		<marquee>./wheel/Mario Tennis_ Ultra Smash-02.png</marquee>
-		<rating>0.58</rating>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<favorite>true</favorite>
-		<md5>0ca011f2947aefd907421607a98652bf</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Mighty Switch Force!™ Hyper Drive Edition [000500001011B100]/code/Mighty3_WiiU.rpx</path>
 		<name>Mighty Switch Force! Hyper Drive Edition</name>
@@ -1632,6 +1600,38 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<players>4+</players>
 		<favorite>true</favorite>
 		<md5>1357c833acd98ec03218eb773296824a</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12634">
+		<path>./Mario Tennis Ultra Smash [AVXP0101]/code/main.rpx</path>
+		<name>Mario Tennis Ultra Smash</name>
+		<desc>Compete with friends in the multiplayer Mario Tennis: Ultra Smash game on the Wii U system. Along with the fun and dynamic gameplay known to the franchise, surprise your opponents with a new move to the series, the Jumpshot, which sends the ball flying down the court. Change the sport up with new Mega Battles, using the Mega Mushroom to gain an advantage over the competition. Claim your spot in Mario Tennis lore in singles (1v1) or doubles (2v2) as you play with and against family, friends or the CPU using returning and new characters to the series.</desc>
+		<image>./mixart/Mario Tennis Ultra Smash.png</image>
+		<video>./snap/Mario Tennis Ultra Smash [AVXP0101].mp4</video>
+		<marquee>./wheel/Mario Tennis_ Ultra Smash-02.png</marquee>
+		<rating>0.58</rating>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<favorite>true</favorite>
+		<md5>0ca011f2947aefd907421607a98652bf</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
+		<name>New Super Mario Bros. U + New Super Luigi U</name>
+		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
+		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
+		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20131101T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

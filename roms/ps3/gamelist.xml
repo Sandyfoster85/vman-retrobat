@@ -599,22 +599,6 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<releasedate />
 		<lang>en</lang>
 	</game>
-	<game id="26549" source="ScreenScraper.fr">
-		<path>./Crash commando.m3u</path>
-		<name>Crash Commando</name>
-		<desc>Crash Commando is a fast-paced, side-scrolling humorous multiplayer action game with over-the-top, slap-stick action that features exaggerated gore and effects. Combining the thrill of frenzied multiplayer combat with the straightforward nature of a classic side-scrolling platform title, Crash Commando is a combination of modern, sophisticated technology and traditional arcade gameplay. The player controls a commando soldier and navigates through the maps on foot and with a high-powered jet pack. Each map consists of two gameplay layers the player can seamlessly move between via portals in the environment. Enemies will attack from the sides, as well as from above and below. With a host of both multiplayer and single player modes included, players can enjoy Crash Commando either on or offline.</desc>
-		<image>./mixart/Crash commando.png</image>
-		<video>./snap/Crash commando.mp4</video>
-		<marquee>./wheel/Crash commando.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20081218T000000</releasedate>
-		<developer>EPOS Studios</developer>
-		<publisher>Sony</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2-12</players>
-		<lang>en</lang>
-		<genreid>260</genreid>
-	</game>
 	<game id="25147" source="ScreenScraper.fr">
 		<path>./Dante's Inferno (USA) (En,Fr,Es).m3u</path>
 		<name>Dante's Inferno</name>
@@ -755,22 +739,6 @@ battle map, many of which are unique to Disgaea. As the 4th installment in the s
 		<genre>Puzzle-Game</genre>
 		<lang>en</lang>
 		<genreid>2816</genreid>
-	</game>
-	<game id="25462" source="ScreenScraper.fr">
-		<path>./Folklore (EUR).m3u</path>
-		<name>Folklore</name>
-		<desc>Folklore is a unique, dark fantasy adventure inspired by western fairy tales. Set in the mysterious town of Doolin, two strangers, Keats and Ellen, are drawn together to uncover a mysterious legend in a remote village that exists on the border between dreams and reality. They soon learn that the town serves as a gateway to fantastic realms, full of creatures, spirits and monsters. In order to solve the mystery of the town, and their past, the pair must journey through these worlds to uncover its secrets.</desc>
-		<image>./mixart/Folklore (USA) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Folklore (USA) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Folklore (USA) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20071009T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Game Republic</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<genreid>512</genreid>
 	</game>
 	<game id="25979" source="ScreenScraper.fr">
 		<path>./Fracture (EUR).m3u</path>
@@ -1775,5 +1743,37 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>4</players>
 		<lang>en</lang>
 		<genreid>1536</genreid>
+	</game>
+	<game id="26549" source="ScreenScraper.fr">
+		<path>./Crash commando.m3u</path>
+		<name>Crash Commando</name>
+		<desc>Crash Commando is a fast-paced, side-scrolling humorous multiplayer action game with over-the-top, slap-stick action that features exaggerated gore and effects. Combining the thrill of frenzied multiplayer combat with the straightforward nature of a classic side-scrolling platform title, Crash Commando is a combination of modern, sophisticated technology and traditional arcade gameplay. The player controls a commando soldier and navigates through the maps on foot and with a high-powered jet pack. Each map consists of two gameplay layers the player can seamlessly move between via portals in the environment. Enemies will attack from the sides, as well as from above and below. With a host of both multiplayer and single player modes included, players can enjoy Crash Commando either on or offline.</desc>
+		<image>./mixart/Crash commando.png</image>
+		<video>./snap/Crash commando.mp4</video>
+		<marquee>./wheel/Crash commando.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20081218T000000</releasedate>
+		<developer>EPOS Studios</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2-12</players>
+		<lang>en</lang>
+		<genreid>260</genreid>
+	</game>
+	<game id="25462" source="ScreenScraper.fr">
+		<path>./Folklore (EUR).m3u</path>
+		<name>Folklore</name>
+		<desc>Folklore is a unique, dark fantasy adventure inspired by western fairy tales. Set in the mysterious town of Doolin, two strangers, Keats and Ellen, are drawn together to uncover a mysterious legend in a remote village that exists on the border between dreams and reality. They soon learn that the town serves as a gateway to fantastic realms, full of creatures, spirits and monsters. In order to solve the mystery of the town, and their past, the pair must journey through these worlds to uncover its secrets.</desc>
+		<image>./mixart/Folklore (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Folklore (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Folklore (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20071009T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Game Republic</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>512</genreid>
 	</game>
 </gameList>

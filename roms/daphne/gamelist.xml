@@ -72,22 +72,6 @@
 		<path>./gpworld.daphne</path>
 	</game>
 	<game>
-		<path>./interstellar.daphne</path>
-		<name>Interstellar Laser Fantasy</name>
-		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
-		<image>./mixart/interstellar.png</image>
-		<video>./snap/interstellar.mp4</video>
-		<marquee>./wheel/interstellar.png</marquee>
-		<rating />
-		<releasedate>19830101T0000001201T000000</releasedate>
-		<developer>FUNAI</developer>
-		<publisher>FUNAI</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<path>./interstellar.daphne</path>
-	</game>
-	<game>
 		<path>./mach3.daphne</path>
 		<name>M.a.c.h. 3</name>
 		<desc>In M.A.C.H. 3, you pilot either a Fighter plane or a Bomber plane and must fly around hitting targets on the ground or in the air while avoiding enemy fire. M.A.C.H. 3 used video footage from the laser disc and overlaid computer graphics for your ship and the enemy ships.</desc>
@@ -227,6 +211,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./astron.daphne</path>
 		<name>Astron Belt</name>
 		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
@@ -242,19 +242,18 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./roadblaster.daphne</path>
-		<name>Road Blaster</name>
-		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
-		<image>./mixart/rb.png</image>
-		<video>./snap/rb.mp4</video>
-		<marquee>./wheel/rb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850515T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./mixart/interstellar.png</image>
+		<video>./snap/interstellar.mp4</video>
+		<marquee>./wheel/interstellar.png</marquee>
+		<rating></rating>
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

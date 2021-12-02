@@ -48,20 +48,6 @@
 		<marquee>./wheel/Towers II (World).png</marquee>
 		<video>./snap/Towers II (World).mp4</video>
 	</game>
-	<game id="14186" source="ScreenScraper.fr">
-		<path>./Trevor McFur in the Crescent Galaxy (World).j64</path>
-		<name>Trevor McFur in the Crescent Galaxy</name>
-		<desc>The Crescent Galaxy has been attacked by an entity known as Odd-it. This creatures goal is to make everything odd, like it. You play Trevor McFur, a corporal in the Crescent Galaxy's chapter of the Interplanetary Defense squad and are sent in along with your feline partner Cutter to defeat Odd-it. The game is a side scrolling shooter featuring a wide variety of worlds and enemies to conquer. Throughout the game you can power your ship with newer and better weapons by shooting certain enemies and collecting the bonuses left behind.</desc>
-		<rating>0.45</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1</players>
-		<image>./mixart/Trevor McFur in the Crescent Galaxy (World).png</image>
-		<marquee>./wheel/Trevor McFur in the Crescent Galaxy (World).png</marquee>
-		<video>./snap/Trevor McFur in the Crescent Galaxy (World).mp4</video>
-	</game>
 	<game id="14187" source="ScreenScraper.fr">
 		<path>./Troy Aikman NFL Football (World).j64</path>
 		<name>Troy Aikman NFL Football</name>
@@ -400,23 +386,6 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<path>./Double Dragon V - The Shadow Falls (World).j64</path>
-	</game>
-	<game id="14182" source="ScreenScraper.fr">
-		<path>./Evolution - Dino Dudes (World).j64</path>
-		<name>Evolution : Dino Dudes</name>
-		<desc>The gameplay of The Humans has similarities to Lode Runner and Lemmings. Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success.</desc>
-		<image>./mixart/Evolution - Dino Dudes (World).png</image>
-		<video>./snap/Evolution - Dino Dudes (World).mp4</video>
-		<marquee>./wheel/Evolution - Dino Dudes (World).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Imagitec Design</developer>
-		<publisher>Atari</publisher>
-		<genre>Puzzle-Game-Strategy</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<path>./Evolution - Dino Dudes (World).j64</path>
 	</game>
 	<game id="14166" source="ScreenScraper.fr">
 		<path>./Fever Pitch Soccer (World) (En,Fr,De,Es,It).j64</path>
@@ -958,6 +927,38 @@
 		<publisher>id Software</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="14182" source="ScreenScraper.fr">
+		<path>./Evolution - Dino Dudes (World).j64</path>
+		<name>Evolution : Dino Dudes</name>
+		<desc>The gameplay of The Humans has similarities to Lode Runner and Lemmings. Your job in this action puzzler is to help prehistoric man to evolve by helping them discover tools, the wheel, weapons, or even fire. Each level in the game will have a given task to help in this, and you are allotted a number of characters who must accomplish the task. The player can switch from person to person while moving the characters around each scrolling puzzle, and teamwork is essential to success.</desc>
+		<image>./mixart/Evolution - Dino Dudes (World).png</image>
+		<video>./snap/Evolution - Dino Dudes (World).mp4</video>
+		<marquee>./wheel/Evolution - Dino Dudes (World).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Imagitec Design</developer>
+		<publisher>Atari</publisher>
+		<genre>Puzzle-Game-Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game id="14186" source="ScreenScraper.fr">
+		<path>./Trevor McFur in the Crescent Galaxy (World).j64</path>
+		<name>Trevor McFur in the Crescent Galaxy</name>
+		<desc>The Crescent Galaxy has been attacked by an entity known as Odd-it. This creatures goal is to make everything odd, like it. You play Trevor McFur, a corporal in the Crescent Galaxy's chapter of the Interplanetary Defense squad and are sent in along with your feline partner Cutter to defeat Odd-it. The game is a side scrolling shooter featuring a wide variety of worlds and enemies to conquer. Throughout the game you can power your ship with newer and better weapons by shooting certain enemies and collecting the bonuses left behind.</desc>
+		<image>./mixart/Trevor McFur in the Crescent Galaxy (World).png</image>
+		<video>./snap/Trevor McFur in the Crescent Galaxy (World).mp4</video>
+		<marquee>./wheel/Trevor McFur in the Crescent Galaxy (World).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

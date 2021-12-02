@@ -176,41 +176,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
 	</game>
-	<game id="37525" source="ScreenScraper.fr">
-		<path>./Virtua Fighter 3.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
- 
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
- 
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./mixart/Virtua Fighter 3.png</image>
-		<video>./snap/Virtua Fighter 3.mp4</video>
-		<marquee>./wheel/Virtua Fighter 3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>262</genreid>
-	</game>
-	<game id="37524" source="ScreenScraper.fr">
-		<path>./The Ocean Hunter.zip</path>
-		<name>The Ocean Hunter</name>
-		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
-		<image>./mixart/The Ocean Hunter.png</image>
-		<video>./snap/The Ocean Hunter.mp4</video>
-		<marquee>./wheel/The Ocean Hunter.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 1st Pers. view-Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Daytona USA 2.zip</path>
 		<name>Daytona USA 2: Battle on the Edge</name>
@@ -342,6 +307,41 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<publisher>Sega</publisher>
 		<genre>Fight / 3D-Fight-Beat'em Up</genre>
 		<players>1</players>
+		<genreid>262</genreid>
+	</game>
+	<game id="37524" source="ScreenScraper.fr">
+		<path>./The Ocean Hunter.zip</path>
+		<name>The Ocean Hunter</name>
+		<desc>Players will encounter an array of marine life, which dominate the seven seas, while exploring ancient ruins indicating the fascinated by the spectrum of colors, created by the sun light shining through the water, The battle is not only against the threatening marine life, but the titanic icebergs, which are capable of sinking the Ocean Hunter. Featuring spectacular underwater graphics and effects through seven stages.</desc>
+		<image>./mixart/The Ocean Hunter.png</image>
+		<video>./snap/The Ocean Hunter.mp4</video>
+		<marquee>./wheel/The Ocean Hunter.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 1st Pers. view-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37525" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
+ 
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
+ 
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./mixart/Virtua Fighter 3.png</image>
+		<video>./snap/Virtua Fighter 3.mp4</video>
+		<marquee>./wheel/Virtua Fighter 3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<genreid>262</genreid>
 	</game>
 </gameList>

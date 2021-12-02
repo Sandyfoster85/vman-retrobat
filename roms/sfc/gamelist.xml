@@ -227,22 +227,6 @@ The single-player mode involves fighting through various worlds and removing all
 		<marquee>./wheel/Battle Master - Kyuukyoku no Senshi-tachi (Japan).png</marquee>
 		<video>./snap/Battle Master - Kyuukyoku no Senshi-tachi (Japan).mp4</video>
 	</game>
-	<game id="38602" source="ScreenScraper.fr">
-		<path>./Battle Pinball (Japan).zip</path>
-		<name>Battle Pinball</name>
-		<desc>Battle Pinball is a multi-table pinball game exclusive for the Super Famicom and part of Banpresto's "Compati Hero Series" that brings together the licenses for Ultraman, Kamen Rider and Gundam. As with other games in the series, all the characters have been super-deformed to normalize the heights of the differently-sized heroes.
-
-The game contains four tables, each themed to a different hero: Kamen Rider, who fights in dusty wastelands with a number of his recurring enemies; Ultraman, who fights in a city against various kaiju; Knight Gundam, who fights in space; and Banpresto's own original character Fighter Roar, whose stage is set under the ocean. Each table also has three screens, each with their own set of paddles, and the player attempts to earn highscores from the various features on each table.</desc>
-		<rating>0.75</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Banpresto</publisher>
-		<players>1</players>
-		<hash>16D46E2D</hash>
-		<image>./mixart/Battle Pinball (Japan).png</image>
-		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
-		<video>./snap/Battle Pinball (Japan).mp4</video>
-	</game>
 	<game id="38603" source="ScreenScraper.fr">
 		<path>./Battle Racers (Japan).zip</path>
 		<name>Battle Racers</name>
@@ -8048,5 +8032,21 @@ Play takes place over five levels, first of your launch on Mars, then the approa
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game id="38602" source="ScreenScraper.fr">
+		<path>./Battle Pinball (Japan).zip</path>
+		<name>Battle Pinball</name>
+		<desc>Battle Pinball is a multi-table pinball game exclusive for the Super Famicom and part of Banpresto's "Compati Hero Series" that brings together the licenses for Ultraman, Kamen Rider and Gundam. As with other games in the series, all the characters have been super-deformed to normalize the heights of the differently-sized heroes.
+
+The game contains four tables, each themed to a different hero: Kamen Rider, who fights in dusty wastelands with a number of his recurring enemies; Ultraman, who fights in a city against various kaiju; Knight Gundam, who fights in space; and Banpresto's own original character Fighter Roar, whose stage is set under the ocean. Each table also has three screens, each with their own set of paddles, and the player attempts to earn highscores from the various features on each table.</desc>
+		<image>./mixart/Battle Pinball (Japan).png</image>
+		<video>./snap/Battle Pinball (Japan).mp4</video>
+		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<players>1</players>
+		<crc32>16D46E2D</crc32>
 	</game>
 </gameList>

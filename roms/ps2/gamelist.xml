@@ -2257,24 +2257,6 @@ You can control any of these races (although in the single player mode, you have
 		<region>us</region>
 		<genreid>1280</genreid>
 	</game>
-	<game id="22061" source="ScreenScraper.fr">
-		<path>./God Hand (USA).gz</path>
-		<name>God Hand</name>
-		<desc>God Hand stars a solemn transient named Gene, an unwitting benefactor of a celestial gift after losing his right arm while trying to save a girl in danger. Upon regaining conscious, Gene realizes his arm has been replaced with the revered God Hand, a limb imbued with untold powers. So begins this unusual Western-themed brawler from the development team behind Okami and the Viewtiful Joe series. 
- Players guide Gene in an epic struggle against demons that covet his arm for their own nefarious purposes. Played from a third-person perspective, God Hand involves punching, kicking, and crushing all manner of demons across a series of environments. Joining Gene in his journeys is the girl he rescued, Olivia, who helps him collect orbs to power-up the mighty God Hand.</desc>
-		<image>./mixart/God Hand (USA).png</image>
-		<video>./snap/God Hand (USA).mp4</video>
-		<marquee>./wheel/God Hand (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061010T000000</releasedate>
-		<developer>Clover Studios</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action-Beat'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>263</genreid>
-	</game>
 	<game>
 		<path>./God of War (USA).gz</path>
 		<name>God of War</name>
@@ -3573,24 +3555,6 @@ The character is controlled by the player and can move freely within areas by ru
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<genre>Shooter-Action-Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>257</genreid>
-	</game>
-	<game id="22378" source="ScreenScraper.fr">
-		<path>./Mega Man X8 (USA).gz</path>
-		<name>Mega Man X8</name>
-		<desc>Like its immediate predecessor, Megaman X8 presents its 2D-style platform-shooter action in a 3D game world. Mega Man X is joined in this adventure by two close associates, Zero and Axle, and each character has different strengths and abilities. Players can switch between two characters in the heat of battle, to solve a platform puzzle or fend of a particular enemy type, and the two characters not controlled by the player will try to help out in combat if the leading character becomes overwhelmed. 
- Characters not controlled by the player recover more quickly when the hero onscreen is performing well. As in most games in the long-running Mega Man series, defeating a boss character earns the ability to use its special weapon. Other defeated enemies may leave behind metal bits, which can be collected and used to create custom power-ups. In addition to the side-scrolling platform levels, some boss fights and other events are played from alternate perspectives.</desc>
-		<image>./mixart/Mega Man X8 (USA).png</image>
-		<video>./snap/Mega Man X8 (USA).mp4</video>
-		<marquee>./wheel/Mega Man X8 (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20041207T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action-Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -7334,5 +7298,41 @@ The player has many different weapons at his or her disposal, including shotguns
 		<genre>Puzzle</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game id="22061" source="ScreenScraper.fr">
+		<path>./God Hand (USA).gz</path>
+		<name>God Hand</name>
+		<desc>God Hand stars a solemn transient named Gene, an unwitting benefactor of a celestial gift after losing his right arm while trying to save a girl in danger. Upon regaining conscious, Gene realizes his arm has been replaced with the revered God Hand, a limb imbued with untold powers. So begins this unusual Western-themed brawler from the development team behind Okami and the Viewtiful Joe series. 
+ Players guide Gene in an epic struggle against demons that covet his arm for their own nefarious purposes. Played from a third-person perspective, God Hand involves punching, kicking, and crushing all manner of demons across a series of environments. Joining Gene in his journeys is the girl he rescued, Olivia, who helps him collect orbs to power-up the mighty God Hand.</desc>
+		<image>./mixart/God Hand (USA).png</image>
+		<video>./snap/God Hand (USA).mp4</video>
+		<marquee>./wheel/God Hand (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061010T000000</releasedate>
+		<developer>Clover Studios</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action-Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>263</genreid>
+	</game>
+	<game id="22378" source="ScreenScraper.fr">
+		<path>./Mega Man X8 (USA).gz</path>
+		<name>Mega Man X8</name>
+		<desc>Like its immediate predecessor, Megaman X8 presents its 2D-style platform-shooter action in a 3D game world. Mega Man X is joined in this adventure by two close associates, Zero and Axle, and each character has different strengths and abilities. Players can switch between two characters in the heat of battle, to solve a platform puzzle or fend of a particular enemy type, and the two characters not controlled by the player will try to help out in combat if the leading character becomes overwhelmed. 
+ Characters not controlled by the player recover more quickly when the hero onscreen is performing well. As in most games in the long-running Mega Man series, defeating a boss character earns the ability to use its special weapon. Other defeated enemies may leave behind metal bits, which can be collected and used to create custom power-ups. In addition to the side-scrolling platform levels, some boss fights and other events are played from alternate perspectives.</desc>
+		<image>./mixart/Mega Man X8 (USA).png</image>
+		<video>./snap/Mega Man X8 (USA).mp4</video>
+		<marquee>./wheel/Mega Man X8 (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041207T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action-Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
 	</game>
 </gameList>
