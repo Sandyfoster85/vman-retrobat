@@ -210,23 +210,6 @@ To defeat the enemies in each stage, you must shot at weak spots on their armor 
 		<marquee>./wheel/Battle Clash (USA).png</marquee>
 		<video>./snap/Battle Clash (USA).mp4</video>
 	</game>
-	<game id="2139" source="ScreenScraper.fr">
-		<path>./Battletoads &amp; Double Dragon (USA).7z</path>
-		<name>Battletoads &amp; Double Dragon</name>
-		<desc>Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.
-
-The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.
-</desc>
-		<rating>0.7</rating>
-		<releasedate>19931001T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Rare - Tradewest</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1-2</players>
-		<image>./mixart/Battletoads &amp; Double Dragon (USA).png</image>
-		<marquee>./wheel/Battletoads &amp; Double Dragon (USA).png</marquee>
-		<video>./snap/Battletoads &amp; Double Dragon (USA).mp4</video>
-	</game>
 	<game id="2140" source="ScreenScraper.fr">
 		<path>./Battletoads in Battlemaniacs (USA).7z</path>
 		<name>Battletoads in Battlemaniacs</name>
@@ -14149,5 +14132,21 @@ In Cooly Skunk the player takes the role of an anthropomorphic skunk and the gam
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
 		<publisher>Non-commercial</publisher>
+	</game>
+	<game id="2139" source="ScreenScraper.fr">
+		<path>./Battletoads &amp; Double Dragon (USA).7z</path>
+		<name>Battletoads &amp; Double Dragon</name>
+		<desc>Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.
+
+The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.</desc>
+		<image>./mixart/Battletoads &amp; Double Dragon (USA).png</image>
+		<video>./snap/Battletoads &amp; Double Dragon (USA).mp4</video>
+		<marquee>./wheel/Battletoads &amp; Double Dragon (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rare - Tradewest</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
 	</game>
 </gameList>

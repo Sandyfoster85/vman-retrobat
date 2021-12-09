@@ -653,21 +653,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Goonies, The CAB.fpt</path>
-		<name>Goonies, The CAB</name>
-		<desc>Flipper Goonies, The CAB</desc>
-		<image>./mixart/Goonies, The CAB.jpg</image>
-		<video>./snap/Goonies, The CAB.mp4</video>
-		<marquee>./wheel/Goonies, The CAB.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Gorgon (2.0).fpt</path>
 		<name>Gorgon (2.0)</name>
 		<desc>Flipper Gorgon</desc>
@@ -792,16 +777,6 @@
 		<image>./mixart/Jipar-JUMANJI.png</image>
 		<video>./snap/Jipar-JUMANJI.mp4</video>
 		<marquee>./wheel/Jipar-JUMANJI.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Jipar-TINTIN.fpt</path>
-		<name>Jipar-TINTIN</name>
-		<desc>Flipper TINTIN</desc>
-		<image>./mixart/Jipar-TINTIN.png</image>
-		<video>./snap/Jipar-TINTIN.mp4</video>
-		<marquee>./wheel/Jipar-TINTIN.png</marquee>
 		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
 	</game>
@@ -1738,22 +1713,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blue Vs Pink V1.0(DOFLinx).fpt</path>
-		<name>Blue Vs Pink V1.0(DOFLinx)</name>
-		<desc>Flipper Blue Vs Pink V1.0(DOFLinx)</desc>
-		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
-		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
-		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Elvis Stern.fpt</path>
 		<name>Elvis Stern</name>
 		<desc>Flipper Elvis Stern</desc>
@@ -2104,5 +2063,75 @@
 		<marquee>./wheel/Mano Mars.png</marquee>
 		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink V1.0(DOFLinx).fpt</path>
+		<name>Blue Vs Pink V1.0(DOFLinx)</name>
+		<desc>Flipper Blue Vs Pink V1.0(DOFLinx)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goonies, The CAB.fpt</path>
+		<name>Goonies, The CAB</name>
+		<desc>Flipper Goonies, The CAB</desc>
+		<image>./mixart/Goonies, The CAB.jpg</image>
+		<video>./snap/Goonies, The CAB.mp4</video>
+		<marquee>./wheel/Goonies, The CAB.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Jipar-TINTIN.fpt</path>
+		<name>Jipar-TINTIN</name>
+		<desc>Flipper TINTIN</desc>
+		<image>./mixart/Jipar-TINTIN.png</image>
+		<video>./snap/Jipar-TINTIN.mp4</video>
+		<marquee>./wheel/Jipar-TINTIN.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GalaGa Pinball (1.1).fpt</path>
+		<name>GalaGa Pinball</name>
+		<desc>Flipper GalaGa Pinball (1.1)</desc>
+		<image>./mixart/GalaGa Pinball (1.1).jpg</image>
+		<video>./snap/GalaGa Pinball (1.1).mp4</video>
+		<marquee>./wheel/GalaGa Pinball (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Megaman.fpt</path>
+		<name>Megaman</name>
+		<desc>Flipper Megaman (1.0)</desc>
+		<image>./mixart/Megaman.png</image>
+		<video>./snap/Megaman.mp4</video>
+		<marquee>./wheel/Megaman.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

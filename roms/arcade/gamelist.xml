@@ -20062,26 +20062,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3962&am
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="40263">
-		<path>./blitz.zip</path>
-		<name>Nfl Blitz</name>
-		<desc>NFL Blitz is an amplified, exaggerated version of NFL football.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/blitz.png</image>
-		<video>./snap/blitz.mp4</video>
-		<marquee>./wheel/blitz.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports / Football</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<md5>22b76ac6360328e093e051b65a2cb0f1</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./newsin7.zip</path>
 		<name>New Sinbad 7 (set 1)</name>
@@ -21420,56 +21400,6 @@ With each victory you win your opponent's animal which is then added to yours. S
 		<genre>Fight / Versus</genre>
 		<players>2</players>
 		<md5>129cef10ae126daebe4ba42dfbc43201</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42663">
-		<path>./raccoon.zip</path>
-		<name>Raccoon World</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/raccoon.png</image>
-		<video>./snap/raccoon.mp4</video>
-		<marquee>./wheel/raccoon.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Eolith Co., Ltd.</developer>
-		<publisher>Eolith</publisher>
-		<genre>Platform / Run Jump</genre>
-		<players>2</players>
-		<md5>22bbe085fadfd15d548710fd864614f2</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42664">
-		<path>./racedriv.zip</path>
-		<name>Race Drivin'</name>
-		<desc>Race Drivin' includes all of the innovative game features that made "Hard Drivin'" the industry's first true driving simulation game, plus many more new features: 
-
-Improved Handling - Faster microprocessor and more efficient software code provides a now imperceptible lag time between control input and screen graphic response. Race Drivin' feels even more like a real car! 
-
-New Tracks - The Super Stunt track will challenge even the best "Hard Drivin'" stunt racers. New tests of skill include a corkscrew loop, a jump loop, and a full pipe. 
-
-The autocross track with a built-in pace car provides feedback to hone competitive driving skills. The vector-drawn pace car is actually a recorded view of the player's best lap. 
-
-Buddy Race - 2-player sequential race in which the computer records the performance of Player 1, and Player 2 races head-to-head against the first player and the clock. 
-
-Linked Race - Install a simple cable between two simulator cabinets, adjust game options, and the buddy race becomes a true head-to-head competition. 
-
-Select a Car - Players can select from several different sports cars to suit the race track chosen. The Race Drivin' cars are modeled after the performance features of several well-known sports cars. Each car has its own handling characteristics of off-the-line quickness, top speed, and cornering.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/racedriv.png</image>
-		<video>./snap/racedriv.mp4</video>
-		<marquee>./wheel/racedriv.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving / Race 1st Pers. view</genre>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<md5>445e34c4a92e46509a57b1798369948e</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -28361,29 +28291,6 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<developer>Strata</developer>
 		<publisher>Strata/Incredible Technologies</publisher>
 		<genre>Sports-Sports / Football</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./hitice.zip</path>
-		<name>Hit the Ice</name>
-		<desc>Welcome to no holds barred hockey brought to you by the Video Hockey League.  It's the Reds versus the Blues, the VHL's biggest rivalry.
-
-The same hockey rules apply, pass the puck around around the ice rink and shoot it past the opposite goalie to score. You can also check your opponent just like real hockey, only each character has their own bone-crushing way of checking, each with maximum impact and zero tolerance for your well-being.  Players can also start fights with one another to really spice things up.
-
-For an additional credit, players can purchase a 'power drink' that will make them 'Skate Faster and Shoot Harder' at the start of the period for one minute.
-
-Now get to the action and DROP THAT PUCK!</desc>
-		<image>./mixart/hitice.png</image>
-		<video>./snap/hitice.mp4</video>
-		<marquee>./wheel/hitice.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Williams, Inc.</developer>
-		<publisher>Taito Corporation (Williams license)</publisher>
-		<genre>Sports-Sports / Hockey</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -36426,22 +36333,6 @@ As with the first game, Dig Dug is still armed with a pump that allows him to in
 		<publisher>Ashby Computers and Graphics Ltd.</publisher>
 		<genre>Action / Labyrinth-Action</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./dino.zip</path>
-		<name>Cadillacs and Dinosaurs</name>
-		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
-		<image>./mixart/dino.png</image>
-		<video>./snap/dino.mp4</video>
-		<marquee>./wheel/dino.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>3</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -53225,22 +53116,6 @@ The left joystick moves Robop, while the right joystick fires. The joystick butt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./sdfight.zip</path>
-		<name>SD Fighters</name>
-		<desc>A Korean fighting game featuring 8 Super Deformed characters.</desc>
-		<image>./mixart/sdfight.png</image>
-		<video>./snap/sdfight.mp4</video>
-		<marquee>./wheel/sdfight.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SemiCom</developer>
-		<publisher>SemiCom</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./sdgndmps.zip</path>
 		<name>SD Gundam Psycho Salamander no Kyoui</name>
 		<desc>The title of this game translates from Japanese as "Mobile Suit Super Deformed Gundam - Menace of Psycho Salamander".</desc>
@@ -58153,22 +58028,6 @@ The legendary music Horizon by Olof 'Blaizer' Gustafsson found in many Amiga Cra
 		<region>us</region>
 	</game>
 	<game>
-		<path>./tigeroad.zip</path>
-		<name>Tora e no Michi</name>
-		<desc>Tiger Road is an arcade style side-scrolling beat 'em up.</desc>
-		<image>./mixart/tigeroad.png</image>
-		<video>./snap/tigeroad.mp4</video>
-		<marquee>./wheel/tigeroad.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./timber.zip</path>
 		<name>Timber</name>
 		<desc>Timber is an abstract action game in which one or two players assume the role of a lumberjack and have a limited amount of time to chop down a given number of trees that pop up from the ground. The game is controlled with two joysticks, with one stick controlling the player's movement and the other corresponding to left or right chops with the player's axe. Difficulty increases with each level, with the number of trees needed to be chopped down gradually increasing (maxing out at 19) and the allotted time decreasing. 
@@ -61865,22 +61724,6 @@ Zoo Keeper features two different, alternating play fields, with each level havi
 		<region>us</region>
 	</game>
 	<game>
-		<path>./zupapa.zip</path>
-		<name>Zupapa</name>
-		<desc>Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay.</desc>
-		<image>./mixart/zupapa.png</image>
-		<video>./snap/zupapa.mp4</video>
-		<marquee>./wheel/zupapa.png</marquee>
-		<rating>0</rating>
-		<releasedate>20010901T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./zwackery.zip</path>
 		<name>Zwackery</name>
 		<desc>Zwackery was a sword-fighting and spell-casting game in which the player controls a cartoony wizard Zak Thwacker on a quest to restore an enchanted frog back into the buxom princess she once was. A platform-style exploration game, the world that Zak explores is actually dozens of different screens which the player exits and enters through doorways and tunnels in search of spell and other powerups that will help him defeat the Evil Ghoulum. The Sword can be used to stab, or it can be spun around the player. The Shield, which can be wielded in the same manner, provides protection. Spells include Bouncing Boots, Shooting Swords, Invisibility Potions, Magic flutes, and a Dragons Egg, which put Leapin Fungoes to sleep and allows safe passage through the Dragon's Lair.</desc>
@@ -64591,30 +64434,6 @@ The players controls one of two witches, first player controls Cotton and her si
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="41397">
-		<path>./gauntleg.zip</path>
-		<name>Gauntlet Legends</name>
-		<desc>Gauntlet Legends is a fantasy themed action game, a sequel to 1985's popular "Gauntlet" and 1986's "Gauntlet II". Its unusual features for an arcade game included passwords and characters that could be saved, enabling players to play over the course of a long period of time. It was a role-playing game, though with very limited role-playing.
-
-The simplicity of the original Gauntlet series is still here: You have to find your way out of a maze using keys, secret passages, and switches. In your way are hordes and hordes of enemies, endlessly reproducing themselves from generators painfully spread around the gigantic, menacing levels.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/gauntleg.png</image>
-		<video>./snap/gauntleg.mp4</video>
-		<marquee>./wheel/gauntleg.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth</genre>
-		<family>Gauntlet</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>1a999dba86fde22acbe1db42f0276564</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="41551">
 		<path>./gticlub.zip</path>
 		<name>Gti Club</name>
@@ -64680,52 +64499,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<publisher>Midway</publisher>
 		<genre>Fight / Versus-Fight</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42675">
-		<path>./radikalb.zip</path>
-		<name>Radikal Bikers</name>
-		<desc>A game set in a Mediterranean environment in which, for the first time, players have the chance to show off their motor-cycle skills in a typically Italian urban setting. The game is a competition between two pizza delivery couriers in a race to see who can deliver their pizza first. The urban circuit allows interaction with all kinds of elements: cars, vans, windows, fences, people, etc. To help you complete your mission, you can collect icons giving you more speed, power or time. Hidden shortcuts help you gain valuable seconds.
-
-You must choose from four pizza couriers each with his or her own particular abilities. There are three game levels: Margherita (easy), Capricciosa (medium) &amp; Diavolo (difficult). There are four different races at each level which allow you to show the other biker who has the most skill, daring and ability.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/radikalb.png</image>
-		<video>./snap/radikalb.mp4</video>
-		<marquee>./wheel/radikalb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Gaelco</developer>
-		<publisher>Gaelco</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<arcadesystemname>gaelco</arcadesystemname>
-		<players>1</players>
-		<md5>92886c23be4e86f64dbbc1d9254a8c0c</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42702">
-		<path>./raystorm.zip</path>
-		<name>Ray Storm</name>
-		<desc>Ray Storm is a sequel of RayForce that does not follow the main plot "Con-Human" storyline, to this time the plot consists of eight stages taking place between August 4 and August 7, 2219 AD; the first three stages take place on Earth, the last three at the fictional planet Secilia, and two between them in the orbits of Earth and Secilia, respectively. Whereas RayForce players must head toward Earth to destroy it, RayStorm players start at and move away from the planet. The plot of the game is exposed minimally during play, with only dates and place names given at the start of each of its first seven stages. An "Extra Mode" included with home versions of the game displays maps before the first seven stages and a closing crawl after completing the game, which further illustrate the plot; the map for the fifth stage, for example, shows that a "gravity catapult" at the Moon is used to travel from Earth orbit to Secilia orbit.
-
-In a future where space travel has existed since 2119. Humans explored space, and within 100 years Earth established a twenty-colony Star Federation extending to Orion, with each colony kept under martial law. The colonies then mutinied against the Federation: they took control of the major colony Secilia, formed the Secilia Federation and defeated Earth's forces after many battles. After Earth's surrender, all of its inhabitants had been transferred to the colonies. The Secilia Federation suppressed colonial opposition and sent out a force to destroy the planet completely. However, by then the R-Gray, a aircraft made with parts salvaged from 13 different Secilia ships, is completed and deployed to carry out OPERATION RAYSTORM, a desperate attempt to defend Earth from the Federation.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/raystorm.png</image>
-		<video>./snap/raystorm.mp4</video>
-		<marquee>./wheel/raystorm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Gunlock</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>1ef0424d8f7ea37f4f8681ab4ed91975</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -67880,28 +67653,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4423&am
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="43615">
 		<path>./timecris.zip</path>
 		<name>Time Crisis</name>
@@ -69263,39 +69014,6 @@ Players could chose to race on any one of four courses: Africa, Asia, America an
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37326">
-		<path>./dfkbl.zip</path>
-		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
-		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
-Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
-Ships can now fire both laser and shot simultaneously.
-Score counter's number letter sizes increase every 5th digit for easier viewing
-Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
-Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
-Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
-Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
-The bee bonus items in the stages function differently.
-Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
-Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
-All the music has been replaced.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/dfkbl.png</image>
-		<video>./snap/dfkbl.mp4</video>
-		<marquee>./wheel/dfkbl.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>DonPachi</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="40929">
 		<path>./dirtdash.zip</path>
 		<name>Dirt Dash</name>
@@ -69681,6 +69399,312 @@ Whereas Cotton 2 was more of a tactical shooter (whenever that is applicable to 
 		<players>2</players>
 		<favorite>true</favorite>
 		<md5>26384f35c8899544aaa7c4d66885ed96</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./dino.zip</path>
+		<name>Cadillacs and Dinosaurs</name>
+		<desc>Cadillacs and Dinosaurs: The Arcade Game, known in Japan as Cadillacs: Dinosaurs of a New Century is a 1993 arcade game released by Capcom. It is a side-scrolling beat 'em up based on the comic book series Xenozoic Tales. The game was produced as a tie-in to the Cadillacs and Dinosaurs animated series which was aired during the same year the game was released.</desc>
+		<image>./mixart/dino.png</image>
+		<video>./snap/dino.mp4</video>
+		<marquee>./wheel/dino.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="41397">
+		<path>./gauntleg.zip</path>
+		<name>Gauntlet Legends</name>
+		<desc>Gauntlet Legends is a fantasy themed action game, a sequel to 1985's popular "Gauntlet" and 1986's "Gauntlet II". Its unusual features for an arcade game included passwords and characters that could be saved, enabling players to play over the course of a long period of time. It was a role-playing game, though with very limited role-playing.
+
+The simplicity of the original Gauntlet series is still here: You have to find your way out of a maze using keys, secret passages, and switches. In your way are hordes and hordes of enemies, endlessly reproducing themselves from generators painfully spread around the gigantic, menacing levels.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/gauntleg.png</image>
+		<video>./snap/gauntleg.mp4</video>
+		<marquee>./wheel/gauntleg.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth</genre>
+		<family>Gauntlet</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>1a999dba86fde22acbe1db42f0276564</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42663">
+		<path>./raccoon.zip</path>
+		<name>Raccoon World</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/raccoon.png</image>
+		<video>./snap/raccoon.mp4</video>
+		<marquee>./wheel/raccoon.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Eolith Co., Ltd.</developer>
+		<publisher>Eolith</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>2</players>
+		<md5>22bbe085fadfd15d548710fd864614f2</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42664">
+		<path>./racedriv.zip</path>
+		<name>Race Drivin'</name>
+		<desc>Race Drivin' includes all of the innovative game features that made "Hard Drivin'" the industry's first true driving simulation game, plus many more new features: 
+
+Improved Handling - Faster microprocessor and more efficient software code provides a now imperceptible lag time between control input and screen graphic response. Race Drivin' feels even more like a real car! 
+
+New Tracks - The Super Stunt track will challenge even the best "Hard Drivin'" stunt racers. New tests of skill include a corkscrew loop, a jump loop, and a full pipe. 
+
+The autocross track with a built-in pace car provides feedback to hone competitive driving skills. The vector-drawn pace car is actually a recorded view of the player's best lap. 
+
+Buddy Race - 2-player sequential race in which the computer records the performance of Player 1, and Player 2 races head-to-head against the first player and the clock. 
+
+Linked Race - Install a simple cable between two simulator cabinets, adjust game options, and the buddy race becomes a true head-to-head competition. 
+
+Select a Car - Players can select from several different sports cars to suit the race track chosen. The Race Drivin' cars are modeled after the performance features of several well-known sports cars. Each car has its own handling characteristics of off-the-line quickness, top speed, and cornering.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/racedriv.png</image>
+		<video>./snap/racedriv.mp4</video>
+		<marquee>./wheel/racedriv.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>445e34c4a92e46509a57b1798369948e</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42675">
+		<path>./radikalb.zip</path>
+		<name>Radikal Bikers</name>
+		<desc>A game set in a Mediterranean environment in which, for the first time, players have the chance to show off their motor-cycle skills in a typically Italian urban setting. The game is a competition between two pizza delivery couriers in a race to see who can deliver their pizza first. The urban circuit allows interaction with all kinds of elements: cars, vans, windows, fences, people, etc. To help you complete your mission, you can collect icons giving you more speed, power or time. Hidden shortcuts help you gain valuable seconds.
+
+You must choose from four pizza couriers each with his or her own particular abilities. There are three game levels: Margherita (easy), Capricciosa (medium) &amp; Diavolo (difficult). There are four different races at each level which allow you to show the other biker who has the most skill, daring and ability.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/radikalb.png</image>
+		<video>./snap/radikalb.mp4</video>
+		<marquee>./wheel/radikalb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>gaelco</arcadesystemname>
+		<players>1</players>
+		<md5>92886c23be4e86f64dbbc1d9254a8c0c</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./sdfight.zip</path>
+		<name>SD Fighters</name>
+		<desc>A Korean fighting game featuring 8 Super Deformed characters.</desc>
+		<image>./mixart/sdfight.png</image>
+		<video>./snap/sdfight.mp4</video>
+		<marquee>./wheel/sdfight.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./tigeroad.zip</path>
+		<name>Tora e no Michi</name>
+		<desc>Tiger Road is an arcade style side-scrolling beat 'em up.</desc>
+		<image>./mixart/tigeroad.png</image>
+		<video>./snap/tigeroad.mp4</video>
+		<marquee>./wheel/tigeroad.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./zupapa.zip</path>
+		<name>Zupapa</name>
+		<desc>Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay.</desc>
+		<image>./mixart/zupapa.png</image>
+		<video>./snap/zupapa.mp4</video>
+		<marquee>./wheel/zupapa.png</marquee>
+		<rating>0</rating>
+		<releasedate>20010901T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="40263">
+		<path>./blitz.zip</path>
+		<name>Nfl Blitz</name>
+		<desc>NFL Blitz is an amplified, exaggerated version of NFL football.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/blitz.png</image>
+		<video>./snap/blitz.mp4</video>
+		<marquee>./wheel/blitz.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports / Football</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<md5>22b76ac6360328e093e051b65a2cb0f1</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./hitice.zip</path>
+		<name>Hit the Ice</name>
+		<desc>Welcome to no holds barred hockey brought to you by the Video Hockey League.  It's the Reds versus the Blues, the VHL's biggest rivalry.
+
+The same hockey rules apply, pass the puck around around the ice rink and shoot it past the opposite goalie to score. You can also check your opponent just like real hockey, only each character has their own bone-crushing way of checking, each with maximum impact and zero tolerance for your well-being.  Players can also start fights with one another to really spice things up.
+
+For an additional credit, players can purchase a 'power drink' that will make them 'Skate Faster and Shoot Harder' at the start of the period for one minute.
+
+Now get to the action and DROP THAT PUCK!</desc>
+		<image>./mixart/hitice.png</image>
+		<video>./snap/hitice.mp4</video>
+		<marquee>./wheel/hitice.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Williams, Inc.</developer>
+		<publisher>Taito Corporation (Williams license)</publisher>
+		<genre>Sports-Sports / Hockey</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37326">
+		<path>./dfkbl_Dodonpachi_Saidaioujou_Knuckles.zip</path>
+		<name>DoDonPachi Saidaioujou Knuckles</name>
+		<desc>This is an updated version of "DoDonPachi Saidaioujou and Knuckles" from Sonic with the following changes:
+After years of waiting and hoping, the Dodonpachi SDOJ Rom has been made publicly available on the internet (to CAVE's displeasure I am sure). This is significant because up until the point the only ways to play SaiDaiOuJou was on either the really laggy and funky Xbox 360 port, on the ultra-rare and expensive arcade PCB, or on the expensive EXA Arcadia version which seems cool, but is still a pile of money. The form of this rom release is a little bit funny because it has a cosmetic hack and has been renamed to "Dodonpachi Saidaioujou &amp; Knuckles" and includes some minor cosmetic sprite swaps, but underneath is the real game. Also, since this an "unofficial" MAME release (which I find funny as a concept), you will need to make sure to rename the rom and run it in a manner to force MAME to accept it and play.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/dfkbl.png</image>
+		<video>./snap/dfkbl.mp4</video>
+		<marquee>./wheel/dfkbl.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37326">
+		<path>./dfkbl.zip</path>
+		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
+		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
+Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
+Ships can now fire both laser and shot simultaneously.
+Score counter's number letter sizes increase every 5th digit for easier viewing
+Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
+Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
+Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
+Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
+The bee bonus items in the stages function differently.
+Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
+Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
+All the music has been replaced.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/dfkbl.png</image>
+		<video>./snap/dfkbl.mp4</video>
+		<marquee>./wheel/dfkbl.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42702">
+		<path>./raystorm.zip</path>
+		<name>Ray Storm</name>
+		<desc>Ray Storm is a sequel of RayForce that does not follow the main plot "Con-Human" storyline, to this time the plot consists of eight stages taking place between August 4 and August 7, 2219 AD; the first three stages take place on Earth, the last three at the fictional planet Secilia, and two between them in the orbits of Earth and Secilia, respectively. Whereas RayForce players must head toward Earth to destroy it, RayStorm players start at and move away from the planet. The plot of the game is exposed minimally during play, with only dates and place names given at the start of each of its first seven stages. An "Extra Mode" included with home versions of the game displays maps before the first seven stages and a closing crawl after completing the game, which further illustrate the plot; the map for the fifth stage, for example, shows that a "gravity catapult" at the Moon is used to travel from Earth orbit to Secilia orbit.
+
+In a future where space travel has existed since 2119. Humans explored space, and within 100 years Earth established a twenty-colony Star Federation extending to Orion, with each colony kept under martial law. The colonies then mutinied against the Federation: they took control of the major colony Secilia, formed the Secilia Federation and defeated Earth's forces after many battles. After Earth's surrender, all of its inhabitants had been transferred to the colonies. The Secilia Federation suppressed colonial opposition and sent out a force to destroy the planet completely. However, by then the R-Gray, a aircraft made with parts salvaged from 13 different Secilia ships, is completed and deployed to carry out OPERATION RAYSTORM, a desperate attempt to defend Earth from the Federation.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/raystorm.png</image>
+		<video>./snap/raystorm.mp4</video>
+		<marquee>./wheel/raystorm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Gunlock</family>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>1ef0424d8f7ea37f4f8681ab4ed91975</md5>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

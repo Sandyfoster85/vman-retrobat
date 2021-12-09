@@ -1139,22 +1139,6 @@ Straight after his return to the present day, Bond realizes that he's still aliv
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="12117">
-		<path>./Hyrule Warriors [000500001017D800]/code/ProjectZ.rpx</path>
-		<name>Hyrule Warriors</name>
-		<desc>Hyrule Warriors, known in Japan as Zelda Mus, is a hack and slash action video game released in Japan on August 14, 2014, and scheduled to be released in the West in September. Developed by Omega Force and Team Ninja for the Wii U video game console, the game is a collaboration between Koei Tecmo and Nintendo, and contains elements of Nintendo's The Legend of Zelda series and Koei Tecmo's Dynasty Warriors series.</desc>
-		<image>./mixart/Hyrule Warriors.png</image>
-		<video>./snap/Hyrule Warriors.mp4</video>
-		<marquee>./wheel/Hyrule Warriors.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140926T000000</releasedate>
-		<developer>OMEGA Force</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>fad6a4884c0c918c2835bd1afb9a69b1</md5>
-	</game>
 	<game>
 		<path>./Splatoon/code/Gambit.rpx</path>
 		<name>Splatoon</name>
@@ -1632,6 +1616,23 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<players>4</players>
 		<favorite>true</favorite>
 		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12117">
+		<path>./Hyrule Warriors [000500001017D800]/code/ProjectZ.rpx</path>
+		<name>Hyrule Warriors</name>
+		<desc>Hyrule Warriors, known in Japan as Zelda Mus, is a hack and slash action video game released in Japan on August 14, 2014, and scheduled to be released in the West in September. Developed by Omega Force and Team Ninja for the Wii U video game console, the game is a collaboration between Koei Tecmo and Nintendo, and contains elements of Nintendo's The Legend of Zelda series and Koei Tecmo's Dynasty Warriors series.</desc>
+		<image>./mixart/Hyrule Warriors.png</image>
+		<video>./snap/Hyrule Warriors.mp4</video>
+		<marquee>./wheel/Hyrule Warriors.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140926T000000</releasedate>
+		<developer>OMEGA Force</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>fad6a4884c0c918c2835bd1afb9a69b1</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -3097,22 +3097,6 @@
 		<video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
 	</game>
 	<game>
-		<path>./HD_Monster_Girl_Dimensions.pak</path>
-		<name>Monster Girl Dimensions</name>
-		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
-		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
-		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ninja.pak</path>
 		<name>Ninja</name>
 		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
@@ -3309,33 +3293,6 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles.pak</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Karate Kid.pak</path>
-		<name>Super Karate Kid</name>
-		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
-		<image>./mixart/Super Karate Kid.png</image>
-		<video>./snap/Super Karate Kid.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -3845,6 +3802,49 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HD_Monster_Girl_Dimensions.pak</path>
+		<name>Monster Girl Dimensions</name>
+		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
+		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
+		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Karate Kid.pak</path>
+		<name>Super Karate Kid</name>
+		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
+		<image>./mixart/Super Karate Kid.png</image>
+		<video>./snap/Super Karate Kid.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles.pak</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -1471,22 +1471,6 @@ Dynamic Stadium does not feature an official NPB license, so all the team names 
 		<marquee>./wheel/Dynamic Stadium (Japan).png</marquee>
 		<video>./snap/Dynamic Stadium (Japan).mp4</video>
 	</game>
-	<game id="18942" source="ScreenScraper.fr">
-		<path>./Edono Kiba (Japan).zip</path>
-		<name>Edono Kiba</name>
-		<desc>Tokyo, 2050 AD. Terrorists are running wild in the streets, and only one armored police officer is fast enough to hunt them down.
-
-In Edo no Kiba you are always moving forward, either running or walking (or, in some levels, flying), although you can still move around the screen as in most belt-scrolling games. Your avatar attacks by slashing to the right with his energy sword, and he can also hold his sword defensively to deflect some bullets. By then holding forward and releasing attack he can throw the sword like a boomerang. He can also jump. A bomb follows the avatar around on any on-foot level that can be used to destroy all enemies onscreen at any time, and it will be replaced whenever a life is lost. Environments range from city streets to sewers and a flying battleship. Each level ends with a boss fight against an enemy that can withstand many attacks.</desc>
-		<rating>0.5</rating>
-		<releasedate>19930312T000000</releasedate>
-		<developer>Riot</developer>
-		<publisher>Micronet Co. Ltd.</publisher>
-		<players>1</players>
-		<hash>066E1F49</hash>
-		<image>./mixart/Edono Kiba (Japan).png</image>
-		<marquee>./wheel/Edono Kiba (Japan).png</marquee>
-		<video>./snap/Edono Kiba (Japan).mp4</video>
-	</game>
 	<game id="38742" source="ScreenScraper.fr">
 		<path>./Eien no Filena (Japan) (Translated En).zip</path>
 		<name>Eien no Filerna</name>
@@ -8048,5 +8032,21 @@ The game contains four tables, each themed to a different hero: Kamen Rider, who
 		<publisher>Banpresto</publisher>
 		<players>1</players>
 		<crc32>16D46E2D</crc32>
+	</game>
+	<game id="18942" source="ScreenScraper.fr">
+		<path>./Edono Kiba (Japan).zip</path>
+		<name>Edono Kiba</name>
+		<desc>Tokyo, 2050 AD. Terrorists are running wild in the streets, and only one armored police officer is fast enough to hunt them down.
+
+In Edo no Kiba you are always moving forward, either running or walking (or, in some levels, flying), although you can still move around the screen as in most belt-scrolling games. Your avatar attacks by slashing to the right with his energy sword, and he can also hold his sword defensively to deflect some bullets. By then holding forward and releasing attack he can throw the sword like a boomerang. He can also jump. A bomb follows the avatar around on any on-foot level that can be used to destroy all enemies onscreen at any time, and it will be replaced whenever a life is lost. Environments range from city streets to sewers and a flying battleship. Each level ends with a boss fight against an enemy that can withstand many attacks.</desc>
+		<image>./mixart/Edono Kiba (Japan).png</image>
+		<video>./snap/Edono Kiba (Japan).mp4</video>
+		<marquee>./wheel/Edono Kiba (Japan).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930312T000000</releasedate>
+		<developer>Riot</developer>
+		<publisher>Micronet Co. Ltd.</publisher>
+		<players>1</players>
+		<crc32>066E1F49</crc32>
 	</game>
 </gameList>
