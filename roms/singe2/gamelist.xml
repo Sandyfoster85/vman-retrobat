@@ -461,4 +461,19 @@
 		<players>1</players>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Triad Stone.cmd</path>
+		<name>Triad Stone</name>
+		<desc>Triad Stone , classic FMV game from LASERACTIVE version. The map of the original game, all narrations during the game, and importantly the gameplay with distorted levels. The classic "POWER" bar replace it with something new, in the LASERACTIVE version in many points of the game the moves can vary, so even if you know the moves will not be easy to finish it with a credit.</desc>
+		<image>./mixart/Triad Stone.jpg</image>
+		<video>./snap/Triad Stone.mp4</video>
+		<marquee>./wheel/Triad Stone.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>LaserActive</developer>
+		<publisher>Mega LD</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 </gameList>

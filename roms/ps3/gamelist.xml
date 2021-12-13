@@ -1463,22 +1463,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="26419" source="ScreenScraper.fr">
-		<path>./OutRun Online Arcade.m3u</path>
-		<name>OutRun Online Arcade</name>
-		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
-		<image>./mixart/OutRun Online Arcade.png</image>
-		<video>./snap/OutRun Online Arcade.mp4</video>
-		<marquee>./wheel/OutRun Online Arcade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Planet MiniGolf.m3u</path>
 		<name>Planet MiniGolf</name>
@@ -1778,5 +1762,21 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<genre>Sports, Basketball</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

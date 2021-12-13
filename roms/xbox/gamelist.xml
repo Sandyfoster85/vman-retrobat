@@ -1490,24 +1490,6 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game id="15287" source="ScreenScraper.fr">
-		<path>./Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).iso</path>
-		<name>Ultimate Pro Pinball</name>
-		<desc>Ultimate Pro Pinball sur Xbox est un jeu de flipper vous proposant un choix de trois tableaux différents. Vous savez, ces machines emblématiques des bistrots qui engloutissaient avidement nos pièces de monnaie alors qu'on essayait encore et toujours d'obtenir la fatidique "extra ball"...</desc>
-		<image>./mixart/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20050715T000000</releasedate>
-		<developer>Atomic Planet</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Pinball</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<genreid>1792</genreid>
-	</game>
 	<game>
 		<path>./Dead or Alive Extreme Beach Volleyball.iso</path>
 		<name>Dead or Alive: Xtreme Beach Volleyball</name>
@@ -1718,5 +1700,23 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
+	</game>
+	<game id="15287" source="ScreenScraper.fr">
+		<path>./Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Ultimate Pro Pinball</name>
+		<desc>Ultimate Pro Pinball sur Xbox est un jeu de flipper vous proposant un choix de trois tableaux différents. Vous savez, ces machines emblématiques des bistrots qui engloutissaient avidement nos pièces de monnaie alors qu'on essayait encore et toujours d'obtenir la fatidique "extra ball"...</desc>
+		<image>./mixart/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Ultimate Pro Pinball (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20050715T000000</releasedate>
+		<developer>Atomic Planet</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Pinball</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>1792</genreid>
 	</game>
 </gameList>
