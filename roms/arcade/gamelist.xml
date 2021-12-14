@@ -8811,28 +8811,6 @@ Side Arms is a horizontally - and occasionally vertically - scrolling shoot-em-u
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="149954">
-		<path>./simpsons.zip</path>
-		<name>The Simpsons</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
-
-The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
-		<image>./mixart/simpsons.png</image>
-		<video>./snap/simpsons.mp4</video>
-		<marquee>./wheel/simpsons.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910403T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight / 2.5D</genre>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>1-4</players>
-		<md5>12c4590aaeaa647e3ae87dedffd8a55b</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="78841">
 		<path>./skingame.zip</path>
 		<name>Major Title 2</name>
@@ -58974,25 +58952,6 @@ Each time you make a complete circuit around the track and pass the start marker
 		<cheevosHash>EF14F9E2596DD7147BAB0DCD90E27D32</cheevosHash>
 	</game>
 	<game>
-		<path>./simpsons2pj.zip</path>
-		<name>The Simpsons</name>
-		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
-
-The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
-		<image>./mixart/simpsons.png</image>
-		<video>./snap/simpsons.mp4</video>
-		<marquee>./wheel/simpsons.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910403T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight / 2.5D-Fight</genre>
-		<players>4</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>C06F2F46F4EE6D00E8595D4710DC456E</cheevosHash>
-	</game>
-	<game>
 		<path>./sindbadm.zip</path>
 		<name>Sindbad Mystery</name>
 		<desc>Described as an Intelligent Puzzle Game on the title screen, the player uses a 4-way joystick to take control of the Sindbad, and direct him around various different mazes to collect thirty question marks to reveal the parts of the maze on a treasure map at the top of the screen, while avoiding the various enemies. Once he collects one question mark in a particular part of the maze it will reveal the location of a treasure item for that round. Sindbad will then have to dig up that spot to find the treasure item. Once this is done, he will receive the remaining value of the round's timer as a bonus.</desc>
@@ -72701,5 +72660,45 @@ Sunset Riders features eight stages of play.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C3439EE4A8BBCDADF913F59B2FF04DAA</cheevosHash>
+	</game>
+	<game id="149954">
+		<path>./simpsons.zip</path>
+		<name>The Simpsons (4 players)</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
+
+The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
+		<image>./mixart/simpsons.png</image>
+		<video>./snap/simpsons.mp4</video>
+		<marquee>./wheel/simpsons.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910403T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight / 2.5D</genre>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>4</players>
+		<md5>12c4590aaeaa647e3ae87dedffd8a55b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>39B4FB4846C99C1D41A4E015DA0B60BC</cheevosHash>
+	</game>
+	<game>
+		<path>./simpsons2pj.zip</path>
+		<name>The Simpsons</name>
+		<desc>A jewel heist gone wrong sees Mr Burns's sidekick, Smithers, kidnapping Maggie and making his escape. Between one and four players take on the role of either Homer, Marge, Lisa, or Bart in this colorful, horizontally-scrolling beat-em-up from Konami. Each Simpsons character possesses an attacking move specific to them; Marge is armed with a vacuum cleaner, Lisa has a skipping rope, Bart has his skateboard, and Homer fights with his fists. The players must battle their way through a variety of Simpsons-themed levels - such as Springfield and Krustyland - fighting goons, thugs, zombies, drunks, firemen, and several Simpsons regulars. Many Simpsons characters that don't appear as enemies have 'cameo' scenes in the game (Otto working at a burgerstand in Krustyland, for example). The archetypal 'boss' character awaits the players at the end of every stage. The game ends with a final showdown with the evil Mr. Burns in his luxurious mansion.
+
+The Simpsons was designed to Konami's typically-high production standards and was, like the 'Ninja Turtles' games that appeared a couple of years' earlier, very faithful to its source material. The colorful, smoothly-animated sprites captured the spirit of the legendary cartoon superbly, and the game's many humorous touches were timed to perfection.</desc>
+		<image>./mixart/simpsons.png</image>
+		<video>./snap/simpsons.mp4</video>
+		<marquee>./wheel/simpsons.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910403T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight / 2.5D-Fight</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>C06F2F46F4EE6D00E8595D4710DC456E</cheevosHash>
 	</game>
 </gameList>
