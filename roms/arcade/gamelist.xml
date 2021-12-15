@@ -18046,27 +18046,6 @@ Trixie</desc>
 		<region>us</region>
 		<cheevosHash>83446C76B266F2ABEAB18133C7AE086B</cheevosHash>
 	</game>
-	<game id="46469">
-		<path>./armorar.zip</path>
-		<name>Armor Attack</name>
-		<desc>A wireframe, top-down shoot-em-up in which the player controls a small jeep and must destroy the many tanks and helicopters that populate the war-torn cityscape that represents the game's single play area. As with many games of the time ("Space Invaders", "Battlezone", etc.), Armor Attack's graphics were simple monochrome, with a colour overlay added to the cabinet to give the impression of multicolour graphics.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/armorar.png</image>
-		<video>./snap/armorar.mp4</video>
-		<marquee>./wheel/armorar.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Tim Skelly</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Action / Labyrinth</genre>
-		<arcadesystemname>cinematronics</arcadesystemname>
-		<players>1</players>
-		<md5>68a2feaa4c7c534c290adf03a247aa12</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D308844C2F989BBB61E4FCB8C75609CB</cheevosHash>
-	</game>
 	<game>
 		<path>./armorcar.zip</path>
 		<name>Armored Car</name>
@@ -23306,27 +23285,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4913&am
 		<region>us</region>
 		<cheevosHash>B6397361D33457EC403604122074D886</cheevosHash>
 	</game>
-	<game id="40454">
-		<path>./cartfury.zip</path>
-		<name>Cart Fury</name>
-		<desc>CART Fury Championship Racing, also known as simply CART Fury, is a 2000 open wheel-themed racing video game developed by Midway Games based on Championship Auto Racing Teams (CART). Originally released to arcades, a version was also released for the PlayStation 2.
-Some of its famous drivers like Juan Pablo Montoya, Michael Andretti and Christian Fittipaldi are included in the game. The game features the voice of Danny Sullivan. Licensed music by Disturbed and Outkast are used as the official soundtrack of this game</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/cartfury.png</image>
-		<video>./snap/cartfury.mp4</video>
-		<marquee>./wheel/cartfury.png</marquee>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>1</players>
-		<md5>0c547eb5c8d8c7fee86ce0c1bcc2a07a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AFAEC37E2460E3DBAE9EC78D2A16222D</cheevosHash>
-	</game>
 	<game>
 		<path>./castfant.zip</path>
 		<name>Astro Fantasia (DECO Cassette)</name>
@@ -28212,28 +28170,6 @@ If all humanoids are successfully abducted, the planet will explode in a blindin
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EBB201EDEB03C4B31E557DF470C8BFDA</cheevosHash>
-	</game>
-	<game id="40894">
-		<path>./denjinmk.zip</path>
-		<name>Denjin Makai</name>
-		<desc>Many years after the third world war, a new country has emerged. This country is not controlled by a god, demon, or man, but by a huge network system, a super computer the computer has a name but I have forgotten what it was called. This super computer controls and monitors the city and everyone in it, and no one can ever escape or get by the computer. Recently there have been people showing up whos actions cannot be seen or monitored by the computer. These people are known as Ghosts. Because of this, the Ghosts have been freely committing crimes across the city. In response to this a Ghost Police Force or Ghost Defence Force has been created, members of this group are known as Ghost Chasers. There are SIX characters to choose from all with their own unique movelist which is quite large and only matched by its sequel, Denjin Makai II: Guardians.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/denjinmk.png</image>
-		<video>./snap/denjinmk.mp4</video>
-		<marquee>./wheel/denjinmk.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Winky Soft</developer>
-		<publisher>Banpresto</publisher>
-		<genre>Fight / 2.5D</genre>
-		<family>Denjin Makai</family>
-		<arcadesystemname>seibukaihatsu</arcadesystemname>
-		<players>2</players>
-		<md5>36cca5b456e7b6ca2af2f51376c2d9f8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CA5E77E43EDD58F6816991CD59779E4E</cheevosHash>
 	</game>
 	<game id="40896">
 		<path>./depthcho.zip</path>
@@ -48955,30 +48891,6 @@ Gold - Destroy all enemies on screen, score depends on closeness to player prior
 		<region>us</region>
 		<cheevosHash>383D2B532E7A0896E9DAF0E618294716</cheevosHash>
 	</game>
-	<game id="46396">
-		<path>./omegrace.zip</path>
-		<name>Omega Race</name>
-		<desc>Omega Race is a vector-based single-screen shoot-em-up set in the year 2003, in which the Omegan system has developed a way of training its warriors to protect their star colonies against invading alien androids. Players must pilot an Omegan Space Fighter to engage and destroy the aliens and the mines they have planted. 
-
-The Omegan Fighter can rotate through 360 degrees and thrust to move forwards, it's also armed with forward-firing lasers with which to shoot the enemy ships. Battles take place in an enclosed area and when the player's ship reaches the edge of the screen it bounces off an invisible barrier, although the barrier briefly appears when hit or shot. 
-
-As well as firing lasers at the player, some enemy ships also drop mines that must be shot or avoided. As players progress through the waves, the number of enemy attackers and their aggression increases.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/omegrace.png</image>
-		<video>./snap/omegrace.mp4</video>
-		<marquee>./wheel/omegrace.png</marquee>
-		<rating>0.9</rating>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shoot'em Up</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<md5>85b494b7bd7d628bdea0dbfa82a9b19f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>162E267E57BB327262BFEAB10B3BFA28</cheevosHash>
-	</game>
 	<game id="79087">
 		<path>./oneshot.zip</path>
 		<name>One Shot One Kill</name>
@@ -60336,28 +60248,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=2509&am
 		<region>us</region>
 		<cheevosHash>5C5E7AA9763D30728F7C0F413ED30EB5</cheevosHash>
 	</game>
-	<game id="46401">
-		<path>./spacduel.zip</path>
-		<name>Space Duel</name>
-		<desc>Space Duel is a 1- or 2-player game with a color X-Y video display. This display, with its 3-color guns and higher voltage, has the same technology that was used in previous Atari black-and-white X-Y displays. However, the screen now displays dazzling color and unique visual effects in a spectacular multi-dimensional video display.
-
-Space Duel offers players a choice of 4 different game versions. One player can control a fighter or a space station. Two players, playing at the same time, can control fighters or a space station. The game offers players 12 different targets (7 split when hit), and 18 different waves. At the beginning of each wave, objects enter from the screen edge. The player(s) then tries to shoot and destroy the objects. The wave ends when all the objects are destroyed.</desc>
-		<image>./mixart/spacduel.png</image>
-		<video>./snap/spacduel.mp4</video>
-		<marquee>./wheel/spacduel.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>Asteroids</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<md5>76e8b24bb776fb378c103f8288f7b0a1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1488AB9573EE5F5C9B6758D6C0CA98F8</cheevosHash>
-	</game>
 	<game>
 		<path>./spacecr.zip</path>
 		<name>Space Cruiser</name>
@@ -62995,22 +62885,6 @@ Set in a dystopian future in the year 2048, Meio has been watching Earth from hi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A27E29F4186914735EE68E23357012F8</cheevosHash>
-	</game>
-	<game>
-		<path>./strkfgtr.zip</path>
-		<name>Strike Fighter</name>
-		<desc>Strike Fighter is a single player sprite-scaled shoot-em-up in which the player takes the seat of an F-14 flight combat simulator with a view to shooting down swathes of enemy planes, avoiding incoming gunfire and missiles.</desc>
-		<image>./mixart/strkfgtr.png</image>
-		<video>./snap/strkfgtr.mp4</video>
-		<marquee>./wheel/strkfgtr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Plane, 1st person</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>55B755611BD86B1D5C2F173379ED84A4</cheevosHash>
 	</game>
 	<game>
 		<path>./strkforc.zip</path>
@@ -65685,35 +65559,6 @@ The two-player simultaneous mode can be played either competitively or cooperati
 		<region>us</region>
 		<cheevosHash>F22152AFEC12017F351F1CB7A6285863</cheevosHash>
 	</game>
-	<game id="43615">
-		<path>./timecris.zip</path>
-		<name>Time Crisis</name>
-		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
-
-As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
-
-The game offers the player two different game modes: 
-STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
-TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/timecris.png</image>
-		<video>./snap/timecris.mp4</video>
-		<marquee>./wheel/timecris.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter</genre>
-		<family>Time Crisis</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>96bb7a575995c425c35c4434edc546c7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5704F775C6F21E9B284CA88E9987B0DA</cheevosHash>
-	</game>
 	<game>
 		<path>./timefgtr.zip</path>
 		<name>Time Fighter</name>
@@ -65871,26 +65716,6 @@ Killing all enemies in a maze advances the player to the next stage; however, in
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>345E980A4F6E659F9E7F97831D08C486</cheevosHash>
-	</game>
-	<game id="43630">
-		<path>./titlefu.zip</path>
-		<name>Title Fight</name>
-		<desc>Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/titlefu.png</image>
-		<video>./snap/titlefu.mp4</video>
-		<marquee>./wheel/titlefu.png</marquee>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Boxing</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<md5>24ba5a2fdc0f9ba553523ba75ece70e5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B823EBEBBD6D1B9F5739A9971ED898AD</cheevosHash>
 	</game>
 	<game id="37354">
 		<path>./tjumpman.zip</path>
@@ -72364,26 +72189,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<region>us</region>
 		<cheevosHash>6311BDA4830FADFB4CB19BB64E0AAABC</cheevosHash>
 	</game>
-	<game id="40676">
-		<path>./coolridr.zip</path>
-		<name>Cool Riders</name>
-		<desc>Cool Riders is a funny motorcycle racing game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/coolridr.png</image>
-		<video>./snap/coolridr.mp4</video>
-		<marquee>./wheel/coolridr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<md5>b711067a5a95e62ed76903e8f098eafc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>12D3C9B20DA71857B083EC32B19976AF</cheevosHash>
-	</game>
 	<game id="40737">
 		<path>./crysking.zip</path>
 		<name>The Crystal of Kings</name>
@@ -72700,5 +72505,267 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>C06F2F46F4EE6D00E8595D4710DC456E</cheevosHash>
+	</game>
+	<game id="40676">
+		<path>./coolridr.zip</path>
+		<name>Cool Riders</name>
+		<desc>Cool Riders is a funny motorcycle racing game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/coolridr.png</image>
+		<video>./snap/coolridr.mp4</video>
+		<marquee>./wheel/coolridr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Motorcycle Race, 3rd Pers.</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<favorite>true</favorite>
+		<md5>b711067a5a95e62ed76903e8f098eafc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>12D3C9B20DA71857B083EC32B19976AF</cheevosHash>
+	</game>
+	<game id="43630">
+		<path>./titlefu.zip</path>
+		<name>Title Fight</name>
+		<desc>Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/titlefu.png</image>
+		<video>./snap/titlefu.mp4</video>
+		<marquee>./wheel/titlefu.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Boxing</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>24ba5a2fdc0f9ba553523ba75ece70e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B823EBEBBD6D1B9F5739A9971ED898AD</cheevosHash>
+	</game>
+	<game id="46469">
+		<path>./armorar.zip</path>
+		<name>Armor Attack</name>
+		<desc>A wireframe, top-down shoot-em-up in which the player controls a small jeep and must destroy the many tanks and helicopters that populate the war-torn cityscape that represents the game's single play area. As with many games of the time ("Space Invaders", "Battlezone", etc.), Armor Attack's graphics were simple monochrome, with a colour overlay added to the cabinet to give the impression of multicolour graphics.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/armorar.png</image>
+		<video>./snap/armorar.mp4</video>
+		<marquee>./wheel/armorar.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Tim Skelly</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action / Labyrinth</genre>
+		<arcadesystemname>cinematronics</arcadesystemname>
+		<players>1</players>
+		<md5>68a2feaa4c7c534c290adf03a247aa12</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D308844C2F989BBB61E4FCB8C75609CB</cheevosHash>
+	</game>
+	<game id="40454">
+		<path>./cartfury.zip</path>
+		<name>Cart Fury</name>
+		<desc>CART Fury Championship Racing, also known as simply CART Fury, is a 2000 open wheel-themed racing video game developed by Midway Games based on Championship Auto Racing Teams (CART). Originally released to arcades, a version was also released for the PlayStation 2.
+Some of its famous drivers like Juan Pablo Montoya, Michael Andretti and Christian Fittipaldi are included in the game. The game features the voice of Danny Sullivan. Licensed music by Disturbed and Outkast are used as the official soundtrack of this game</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/cartfury.png</image>
+		<video>./snap/cartfury.mp4</video>
+		<marquee>./wheel/cartfury.png</marquee>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>0c547eb5c8d8c7fee86ce0c1bcc2a07a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AFAEC37E2460E3DBAE9EC78D2A16222D</cheevosHash>
+	</game>
+	<game id="40894">
+		<path>./denjinmk.zip</path>
+		<name>Denjin Makai</name>
+		<desc>Many years after the third world war, a new country has emerged. This country is not controlled by a god, demon, or man, but by a huge network system, a super computer the computer has a name but I have forgotten what it was called. This super computer controls and monitors the city and everyone in it, and no one can ever escape or get by the computer. Recently there have been people showing up whos actions cannot be seen or monitored by the computer. These people are known as Ghosts. Because of this, the Ghosts have been freely committing crimes across the city. In response to this a Ghost Police Force or Ghost Defence Force has been created, members of this group are known as Ghost Chasers. There are SIX characters to choose from all with their own unique movelist which is quite large and only matched by its sequel, Denjin Makai II: Guardians.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/denjinmk.png</image>
+		<video>./snap/denjinmk.mp4</video>
+		<marquee>./wheel/denjinmk.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Winky Soft</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Fight / 2.5D</genre>
+		<family>Denjin Makai</family>
+		<arcadesystemname>seibukaihatsu</arcadesystemname>
+		<players>2</players>
+		<md5>36cca5b456e7b6ca2af2f51376c2d9f8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CA5E77E43EDD58F6816991CD59779E4E</cheevosHash>
+	</game>
+	<game id="46396">
+		<path>./omegrace.zip</path>
+		<name>Omega Race</name>
+		<desc>Omega Race is a vector-based single-screen shoot-em-up set in the year 2003, in which the Omegan system has developed a way of training its warriors to protect their star colonies against invading alien androids. Players must pilot an Omegan Space Fighter to engage and destroy the aliens and the mines they have planted. 
+
+The Omegan Fighter can rotate through 360 degrees and thrust to move forwards, it's also armed with forward-firing lasers with which to shoot the enemy ships. Battles take place in an enclosed area and when the player's ship reaches the edge of the screen it bounces off an invisible barrier, although the barrier briefly appears when hit or shot. 
+
+As well as firing lasers at the player, some enemy ships also drop mines that must be shot or avoided. As players progress through the waves, the number of enemy attackers and their aggression increases.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/omegrace.png</image>
+		<video>./snap/omegrace.mp4</video>
+		<marquee>./wheel/omegrace.png</marquee>
+		<rating>0.9</rating>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shoot'em Up</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<md5>85b494b7bd7d628bdea0dbfa82a9b19f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>162E267E57BB327262BFEAB10B3BFA28</cheevosHash>
+	</game>
+	<game id="46401">
+		<path>./spacduel.zip</path>
+		<name>Space Duel</name>
+		<desc>Space Duel is a 1- or 2-player game with a color X-Y video display. This display, with its 3-color guns and higher voltage, has the same technology that was used in previous Atari black-and-white X-Y displays. However, the screen now displays dazzling color and unique visual effects in a spectacular multi-dimensional video display.
+
+Space Duel offers players a choice of 4 different game versions. One player can control a fighter or a space station. Two players, playing at the same time, can control fighters or a space station. The game offers players 12 different targets (7 split when hit), and 18 different waves. At the beginning of each wave, objects enter from the screen edge. The player(s) then tries to shoot and destroy the objects. The wave ends when all the objects are destroyed.</desc>
+		<image>./mixart/spacduel.png</image>
+		<video>./snap/spacduel.mp4</video>
+		<marquee>./wheel/spacduel.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>Asteroids</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<md5>76e8b24bb776fb378c103f8288f7b0a1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1488AB9573EE5F5C9B6758D6C0CA98F8</cheevosHash>
+	</game>
+	<game>
+		<path>./strkfgtr.zip</path>
+		<name>Strike Fighter</name>
+		<desc>Strike Fighter is a single player sprite-scaled shoot-em-up in which the player takes the seat of an F-14 flight combat simulator with a view to shooting down swathes of enemy planes, avoiding incoming gunfire and missiles.</desc>
+		<image>./mixart/strkfgtr.png</image>
+		<video>./snap/strkfgtr.mp4</video>
+		<marquee>./wheel/strkfgtr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Plane, 1st person</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>55B755611BD86B1D5C2F173379ED84A4</cheevosHash>
+	</game>
+	<game id="43615">
+		<path>./timecris.zip</path>
+		<name>Time Crisis</name>
+		<desc>A superb, on-the-rails lightgun game in which the player takes on the role of a lone mercenary who must rescue the President's daughter, Rachel, from the clutches of the evil 'Sherudo' and his terrorist gang. The game takes the player into and around Sherudo's clifftop, castle hideout.
+
+As the game's title suggests, time is one of the player's biggest enemies, as each area must be cleared within a strict time limit. Extra time is occasionally awarded, however, when some of the more powerful enemy soldiers are killed.
+
+The game offers the player two different game modes: 
+STORY MODE: the player must defeat all of the enemies on the level to proceed to the next level.
+TIME ATTACK: the player selects one of four stages and must defeat all enemies in the time allowed. The player is given unlimited lives in this mode, but is constantly fighting against a very tight time limit.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/timecris.png</image>
+		<video>./snap/timecris.mp4</video>
+		<marquee>./wheel/timecris.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter</genre>
+		<family>Time Crisis</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>96bb7a575995c425c35c4434edc546c7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5704F775C6F21E9B284CA88E9987B0DA</cheevosHash>
+	</game>
+	<game id="40408" source="ScreenScraper.fr">
+		<path>./buriki.zip</path>
+		<name>Buriki One</name>
+		<desc>A 3-D fighting game. Choose one of 11 different fighters from around the world, each with their own unique fighting style, and compete in the world grappling tournament. Use throws, or various punches and kicks to knock your opponent out, or win by decision. 
+ 
+The Control system is of special interest as the buttons are used for movement and the joystick is used to attack.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/buriki.png</image>
+		<video>./snap/buriki.mp4</video>
+		<marquee>./wheel/buriki.png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3B3F9F341929EDD6669BBC5A1C61E634</cheevosHash>
+		<genreid>262</genreid>
+	</game>
+	<game id="79099" source="ScreenScraper.fr">
+		<path>./orleg2.zip</path>
+		<name>Oriental Legend 2</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/orleg2.png</image>
+		<video>./snap/orleg2.mp4</video>
+		<marquee>./wheel/orleg2.png</marquee>
+		<rating>0</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>IGS</publisher>
+		<genre>Fight / 2.5D-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF073B9B1454800B87E2E8E10A4854BC</cheevosHash>
+		<genreid>262</genreid>
+	</game>
+	<game id="43643" source="ScreenScraper.fr">
+		<path>./tmek.zip</path>
+		<name>T-mek</name>
+		<desc>T-Mek es esencialmente una actualización de  Battlezone. Eres un guerrero luchando en la competición T-Mek, un evento muy popular en el futuro. Controlas un aerodeslizador e intentas volar a todos los demás.
+
+La acción se ve desde tu perspectiva mientras viajas por el escenario. También tienes una visión general de dónde están tus oponentes. Las superficies y características del terreno varían en cada batalla. En la mayoría de los niveles es necesario alcanzar una determinada puntuación para progresar.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/tmek.png</image>
+		<video>./snap/tmek.mp4</video>
+		<marquee>./wheel/tmek.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving-Race 1st Pers. view-Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3FF90AC2889998BA1CBC9EC7CAB6A755</cheevosHash>
+		<genreid>1537</genreid>
 	</game>
 </gameList>
