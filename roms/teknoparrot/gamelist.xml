@@ -583,21 +583,34 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>2</players>
 	</game>
 	<game>
-		<path>./StarWars.parrot</path>
-		<name>Star Wars Battle Pod</name>
-		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
-		<image>./mixart/Star Wars - Battle Pod.png</image>
-		<video>./snap/Star Wars - Battle Pod.mp4</video>
-		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20141201T000000</releasedate>
+		<path>./Daytona3.parrot</path>
+		<name>Daytona 3 / Daytona Championship</name>
+		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
+		<image>./mixart/Daytona 3.png</image>
+		<video>./snap/Daytona 3.mp4</video>
+		<marquee>./wheel/Daytona 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Arcade Shooter</genre>
+		<genre>Driving</genre>
 		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./VF5C.parrot</path>
+		<name>Virtua Fighter 5</name>
+		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
+		<image>./mixart/Virtua Fighter 5.png</image>
+		<video>./snap/Virtua Fighter 5.mp4</video>
+		<marquee>./wheel/Virtua Fighter 5.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 	</game>
 	<game>
 		<path>./FNFSC.parrot</path>
@@ -613,22 +626,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Daytona3.parrot</path>
-		<name>Daytona 3 / Daytona Championship</name>
-		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
-		<image>./mixart/Daytona 3.png</image>
-		<video>./snap/Daytona 3.mp4</video>
-		<marquee>./wheel/Daytona 3.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./or2spdlx.parrot</path>
@@ -648,17 +645,20 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./VF5C.parrot</path>
-		<name>Virtua Fighter 5</name>
-		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
-		<image>./mixart/Virtua Fighter 5.png</image>
-		<video>./snap/Virtua Fighter 5.mp4</video>
-		<marquee>./wheel/Virtua Fighter 5.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
+		<path>./StarWars.parrot</path>
+		<name>Star Wars Battle Pod</name>
+		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
+		<genre>Arcade Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

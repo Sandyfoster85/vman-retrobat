@@ -3697,23 +3697,6 @@ The game features all of the cities, vehicles, and music from Midnight Club 3: D
 		<region>us</region>
 		<genreid>512</genreid>
 	</game>
-	<game id="127432" source="ScreenScraper.fr">
-		<path>./Mobile Light Force 2 (USA).gz</path>
-		<name>Mobile Light Force 2</name>
-		<desc>Though advertised as a sequel to the PSOne game of a similar name (which was actually a localized Gunbird), Mobile Light Force 2 is in actuality the American repackaging of Alfa System's Japanese shooter Shikigami no Shiro. Changing its original inspiration's storyline completely, the game sends the US-only MLF team to Tokyo in an effort to combat hordes of invading demons. Along the way, one or two players can team up for simultaneous blasting with six different characters through four unique stages of traditional top-down shooting. The Japanese version of the game, however, utilizes completely different plot devices, has transitional cutscenes between each level, and has the option to increase the size of your viewable area.</desc>
-		<image>./mixart/Mobile Light Force 2 (USA).png</image>
-		<video>./snap/Mobile Light Force 2 (USA).mp4</video>
-		<marquee>./wheel/Mobile Light Force 2 (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030319T000000</releasedate>
-		<developer>Alfa System</developer>
-		<publisher>XS Games</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>260</genreid>
-	</game>
 	<game id="22079" source="ScreenScraper.fr">
 		<path>./Monster Hunter (USA).gz</path>
 		<name>Monster Hunter</name>
@@ -7334,5 +7317,22 @@ The player has many different weapons at his or her disposal, including shotguns
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>257</genreid>
+	</game>
+	<game id="127432" source="ScreenScraper.fr">
+		<path>./Mobile Light Force 2 (USA).gz</path>
+		<name>Mobile Light Force 2</name>
+		<desc>Though advertised as a sequel to the PSOne game of a similar name (which was actually a localized Gunbird), Mobile Light Force 2 is in actuality the American repackaging of Alfa System's Japanese shooter Shikigami no Shiro. Changing its original inspiration's storyline completely, the game sends the US-only MLF team to Tokyo in an effort to combat hordes of invading demons. Along the way, one or two players can team up for simultaneous blasting with six different characters through four unique stages of traditional top-down shooting. The Japanese version of the game, however, utilizes completely different plot devices, has transitional cutscenes between each level, and has the option to increase the size of your viewable area.</desc>
+		<image>./mixart/Mobile Light Force 2 (USA).png</image>
+		<video>./snap/Mobile Light Force 2 (USA).mp4</video>
+		<marquee>./wheel/Mobile Light Force 2 (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030319T000000</releasedate>
+		<developer>Alfa System</developer>
+		<publisher>XS Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

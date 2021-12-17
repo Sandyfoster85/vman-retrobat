@@ -1765,32 +1765,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Superman 1.03.fpt</path>
-		<name>Superman 1.03</name>
-		<desc>Flipper Superman</desc>
-		<image>./mixart/Superman 1.03.png</image>
-		<video>./snap/Superman 1.03.mp4</video>
-		<marquee>./wheel/Superman 1.03.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./The Matrix 2.0.fpt</path>
-		<name>The Matrix 2.0</name>
-		<desc>Flipper The Matrix</desc>
-		<image>./mixart/The Matrix 2.0.png</image>
-		<video>./snap/The Matrix 2.0.mp4</video>
-		<marquee>./wheel/The Matrix 2.0.png</marquee>
-		<rating>4</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Tron Light Cycle Arena.fpt</path>
 		<name>Tron Light Cycle Arena</name>
 		<desc>Flipper Tron Light Cycle Arena</desc>
@@ -2133,5 +2107,31 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman 1.03.fpt</path>
+		<name>Superman 1.03</name>
+		<desc>Flipper Superman</desc>
+		<image>./mixart/Superman 1.03.png</image>
+		<video>./snap/Superman 1.03.mp4</video>
+		<marquee>./wheel/Superman 1.03.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Matrix 2.0.fpt</path>
+		<name>The Matrix 2.0</name>
+		<desc>Flipper The Matrix</desc>
+		<image>./mixart/The Matrix 2.0.png</image>
+		<video>./snap/The Matrix 2.0.mp4</video>
+		<marquee>./wheel/The Matrix 2.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

@@ -890,15 +890,6 @@ Most levels contain some custom element, which varies from level to level. Press
 		<cheevosHash>60603E9B8740156F1250CA6F52CE8C43</cheevosHash>
 	</game>
 	<game>
-		<path>./Mr. Do! (USA, Europe).zip</path>
-		<name>Mr. Do!</name>
-		<image>./mixart/Mr. Do! (USA, Europe).png</image>
-		<video>./snap/Mr. Do! (USA, Europe).mp4</video>
-		<marquee>./wheel/Mr. Do! (USA, Europe).png</marquee>
-		<releasedate />
-		<cheevosHash>DE0B1B1EC005BB1765E1CEFFDFA3E92E</cheevosHash>
-	</game>
-	<game>
 		<path>./Nova Blast (USA).zip</path>
 		<name>Nova Blast</name>
 		<image>./mixart/Nova Blast (USA).png</image>
@@ -1587,5 +1578,14 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<region>us</region>
 		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
 		<cheevosId>6339</cheevosId>
+	</game>
+	<game>
+		<path>./Mr. Do! (USA, Europe).zip</path>
+		<name>Mr. Do!</name>
+		<image>./mixart/Mr. Do! (USA, Europe).png</image>
+		<video>./snap/Mr. Do! (USA, Europe).mp4</video>
+		<marquee>./wheel/Mr. Do! (USA, Europe).png</marquee>
+		<releasedate></releasedate>
+		<cheevosHash>DE0B1B1EC005BB1765E1CEFFDFA3E92E</cheevosHash>
 	</game>
 </gameList>

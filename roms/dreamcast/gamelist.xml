@@ -556,20 +556,6 @@
 		<marquee>./wheel/Evolution - The World of Sacred Device (USA).png</marquee>
 		<video>./snap/Evolution - The World of Sacred Device (USA).mp4</video>
 	</game>
-	<game id="13640" source="ScreenScraper.fr">
-		<path>./Expendable (USA).chd</path>
-		<name>Expendable</name>
-		<desc>In 2463 a race of vicious aliens has invaded human planets, wiping out the population of Novocastria first. Only the Millennium Soldier can lead the human fightback.   In this sci-fi action game, reflex shooting dominates over planning or tactical play. Expect non-stop action from fighting and relentlessly killing off tons of bad guys across more than 20 levels of 3rd person 3D action, taking place inside and outside. Powering up your weaponry is crucial - there are 18 different ones to collect, from pulse cannons to particle accelerators and rockets to missiles. Two player cooperative and deathmatch modes are provided. </desc>
-		<rating>0.65</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Rage Software</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Shooter</genre>
-		<players>1-2</players>
-		<image>./mixart/Expendable (USA).png</image>
-		<marquee>./wheel/Expendable (USA).png</marquee>
-		<video>./snap/Expendable (USA).mp4</video>
-	</game>
 	<game id="13644" source="ScreenScraper.fr">
 		<path>./F1 World Grand Prix (USA).chd</path>
 		<name>F1 World Grand Prix for Dreamcast</name>
@@ -4785,5 +4771,19 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="13640" source="ScreenScraper.fr">
+		<path>./Expendable (USA).chd</path>
+		<name>Expendable</name>
+		<desc>In 2463 a race of vicious aliens has invaded human planets, wiping out the population of Novocastria first. Only the Millennium Soldier can lead the human fightback.   In this sci-fi action game, reflex shooting dominates over planning or tactical play. Expect non-stop action from fighting and relentlessly killing off tons of bad guys across more than 20 levels of 3rd person 3D action, taking place inside and outside. Powering up your weaponry is crucial - there are 18 different ones to collect, from pulse cannons to particle accelerators and rockets to missiles. Two player cooperative and deathmatch modes are provided.</desc>
+		<image>./mixart/Expendable (USA).png</image>
+		<video>./snap/Expendable (USA).mp4</video>
+		<marquee>./wheel/Expendable (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Rage Software</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
 	</game>
 </gameList>

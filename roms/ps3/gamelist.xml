@@ -599,23 +599,6 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<releasedate />
 		<lang>en</lang>
 	</game>
-	<game id="25147" source="ScreenScraper.fr">
-		<path>./Dante's Inferno (USA) (En,Fr,Es).m3u</path>
-		<name>Dante's Inferno</name>
-		<desc>Dante's Inferno will take gamers to the western world's most definitive view of the afterlife as created in the 13th Century by the Italian poet Dante Alighieri in part one of his epic classic, "The Divine Comedy." Dante's Inferno tells an adapted story that focuses on delivering a blockbuster third-person action game experience while bringing Alighieri's depiction of Hell to the medium.Players assume the role of Dante, who descends into Hell after returning home to find his beloved Beatrice murdered, with Lucifer seducing her soul into the underworld. Dante sets out on a rescue mission to save Beatrice, but he soon realises he is also in Hell to face his own demons and ultimately to redeem himself. Players will take Dante through nine unique circles of Hell as mapped out and described by Alighieri: limbo, lust, gluttony, greed, anger, heresy, violence, fraud and treachery.</desc>
-		<image>./mixart/Dante's Inferno (USA) (En,Fr,Es).png</image>
-		<video>./snap/Dante's Inferno (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Dante's Inferno (USA) (En,Fr,Es).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20100204T000000</releasedate>
-		<developer>Visceral Games</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-		<genreid>263</genreid>
-	</game>
 	<game id="25834" source="ScreenScraper.fr">
 		<path>./Dead to Rights - Retribution (EUR).m3u</path>
 		<name>Dead to Rights : Retribution</name>
@@ -1778,5 +1761,22 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>1537</genreid>
+	</game>
+	<game id="25147" source="ScreenScraper.fr">
+		<path>./Dante's Inferno (USA) (En,Fr,Es).m3u</path>
+		<name>Dante's Inferno</name>
+		<desc>Dante's Inferno will take gamers to the western world's most definitive view of the afterlife as created in the 13th Century by the Italian poet Dante Alighieri in part one of his epic classic, "The Divine Comedy." Dante's Inferno tells an adapted story that focuses on delivering a blockbuster third-person action game experience while bringing Alighieri's depiction of Hell to the medium.Players assume the role of Dante, who descends into Hell after returning home to find his beloved Beatrice murdered, with Lucifer seducing her soul into the underworld. Dante sets out on a rescue mission to save Beatrice, but he soon realises he is also in Hell to face his own demons and ultimately to redeem himself. Players will take Dante through nine unique circles of Hell as mapped out and described by Alighieri: limbo, lust, gluttony, greed, anger, heresy, violence, fraud and treachery.</desc>
+		<image>./mixart/Dante's Inferno (USA) (En,Fr,Es).png</image>
+		<video>./snap/Dante's Inferno (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Dante's Inferno (USA) (En,Fr,Es).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20100204T000000</releasedate>
+		<developer>Visceral Games</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+		<genreid>263</genreid>
 	</game>
 </gameList>

@@ -124,21 +124,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sucker Punch.cmd</path>
-		<name>Sucker Punch</name>
-		<desc>Based on the Sucker Punch Movie.</desc>
-		<image>./mixart/Sucker Punch.png</image>
-		<video>./snap/Sucker Punch.mp4</video>
-		<marquee>./wheel/Sucker Punch.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Fan Made</developer>
-		<publisher>Fan Made</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Timegal.cmd</path>
 		<name>Timegal HD</name>
 		<desc>The classic Taito game restored in HD.</desc>
@@ -458,6 +443,21 @@
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sucker Punch.cmd</path>
+		<name>Sucker Punch</name>
+		<desc>Based on the Sucker Punch Movie.</desc>
+		<image>./mixart/Sucker Punch.png</image>
+		<video>./snap/Sucker Punch.mp4</video>
+		<marquee>./wheel/Sucker Punch.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
