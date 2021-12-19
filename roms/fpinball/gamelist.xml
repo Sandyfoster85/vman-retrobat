@@ -2064,36 +2064,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./GalaGa Pinball (1.1).fpt</path>
-		<name>GalaGa Pinball</name>
-		<desc>Flipper GalaGa Pinball (1.1)</desc>
-		<image>./mixart/GalaGa Pinball (1.1).jpg</image>
-		<video>./snap/GalaGa Pinball (1.1).mp4</video>
-		<marquee>./wheel/GalaGa Pinball (1.1).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Megaman.fpt</path>
-		<name>Megaman</name>
-		<desc>Flipper Megaman (1.0)</desc>
-		<image>./mixart/Megaman.png</image>
-		<video>./snap/Megaman.mp4</video>
-		<marquee>./wheel/Megaman.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Three Angels (Original) (2006) (Ultimate) (1.02).fpt</path>
 		<name>Three Angels (Original) (2006) (Ultimate) (1.02)</name>
 		<desc>Flipper Three Angels (Original) (2006) (Ultimate) (1.02)</desc>
@@ -2128,6 +2098,36 @@
 		<marquee>./wheel/The Matrix 2.0.png</marquee>
 		<rating>4</rating>
 		<releasedate>19990101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./GalaGa Pinball (1.1).fpt</path>
+		<name>GalaGa Pinball</name>
+		<desc>Flipper GalaGa Pinball (1.1)</desc>
+		<image>./mixart/GalaGa Pinball (1.1).jpg</image>
+		<video>./snap/GalaGa Pinball (1.1).mp4</video>
+		<marquee>./wheel/GalaGa Pinball (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Megaman.fpt</path>
+		<name>Megaman</name>
+		<desc>Flipper Megaman (1.0)</desc>
+		<image>./mixart/Megaman.png</image>
+		<video>./snap/Megaman.mp4</video>
+		<marquee>./wheel/Megaman.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

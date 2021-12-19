@@ -1508,16 +1508,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<region>ru</region>
 		<genreid>262</genreid>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./TMNT Turtles In Time Re-Shelled.m3u</path>
-		<name>TMNT Turtles In Time Re-Shelled</name>
-		<desc>The arcade classic has been revamped with all new 3-D graphics, but with the same classic beat-'em-up gameplay. Take on the Foot and bosses alone or in a team of four. Cowabunga, dudes! New graphics, classic gameplay: The game has upgraded 3-D graphics, but still features the same side-scrolling beat-'em-up gameplay we all love. Multiplayer: Play the four-player co-op and survival modes available online and locally.</desc>
-		<image>./mixart/TMNT Turtles In Time Re-Shelled.png</image>
-		<video>./snap/TMNT Turtles In Time Re-Shelled.mp4</video>
-		<marquee>./wheel/TMNT Turtles In Time Re-Shelled.png</marquee>
-		<rating>0.55</rating>
-		<releasedate />
-	</game>
 	<game>
 		<path>./Tony Hawk's Pro Skater HD.m3u</path>
 		<name>Tony Hawk's Pro Skater HD</name>
@@ -1778,5 +1768,15 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<genreid>263</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./TMNT Turtles In Time Re-Shelled.m3u</path>
+		<name>TMNT Turtles In Time Re-Shelled</name>
+		<desc>The arcade classic has been revamped with all new 3-D graphics, but with the same classic beat-'em-up gameplay. Take on the Foot and bosses alone or in a team of four. Cowabunga, dudes! New graphics, classic gameplay: The game has upgraded 3-D graphics, but still features the same side-scrolling beat-'em-up gameplay we all love. Multiplayer: Play the four-player co-op and survival modes available online and locally.</desc>
+		<image>./mixart/TMNT Turtles In Time Re-Shelled.png</image>
+		<video>./snap/TMNT Turtles In Time Re-Shelled.mp4</video>
+		<marquee>./wheel/TMNT Turtles In Time Re-Shelled.png</marquee>
+		<rating>0.55</rating>
+		<releasedate></releasedate>
 	</game>
 </gameList>

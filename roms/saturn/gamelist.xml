@@ -2088,7 +2088,7 @@
 		<video>./snap/Frank Thomas Big Hurt Baseball (USA).mp4</video>
 		<marquee>./wheel/Frank Thomas Big Hurt Baseball (USA).png</marquee>
 		<rating>0.7</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Iguana Entertainment</developer>
 		<publisher>Acclaim</publisher>
 		<genre>Sports-Sports / Baseball</genre>
@@ -2105,7 +2105,7 @@
 		<video>./snap/Frankenstein - Through the Eyes of the Monster (Europe).mp4</video>
 		<marquee>./wheel/Frankenstein - Through the Eyes of the Monster (Europe).png</marquee>
 		<rating>0.5</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Amazing Media</developer>
 		<publisher>Interplay</publisher>
 		<genre>Adventure</genre>
@@ -3816,7 +3816,7 @@
 		<video>./snap/Return Fire (USA).mp4</video>
 		<marquee>./wheel/Return Fire (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Prolific</developer>
 		<publisher>Williams Entertainment</publisher>
 		<genre>Action</genre>
@@ -4593,7 +4593,7 @@
 		<video>./snap/Swagman (Europe).mp4</video>
 		<marquee>./wheel/Swagman (Europe).png</marquee>
 		<rating>0.9</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Core Design</developer>
 		<publisher>Eidos Interactive</publisher>
 		<genre>Adventure</genre>
@@ -4756,7 +4756,7 @@
 		<video>./snap/Trash It (Europe).mp4</video>
 		<marquee>./wheel/Trash It (Europe).png</marquee>
 		<rating>0.45</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Rage Software</developer>
 		<publisher>GT Interactive</publisher>
 		<genre>Action</genre>
@@ -4950,23 +4950,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>905ED7D181F9CD229708A5711E26E84B</cheevosHash>
-	</game>
-	<game>
-		<path>./Virtua Fighter Remix (USA).chd</path>
-		<name>Virtua Fighter Remix</name>
-		<desc>Akira Yuki, the only active master of the powerful Kung Fu technique known as Hakkyoku ken (“The Eight Point Fist") travels the world in search of enlightenment and worthy opponents. He has found them in in the World Fighting Tournament, where the strongest fighters determine who the master of hand-to-hand combat is. All techniques are allowed as long as the contestants use no weapons but their own bodies.  After weeks of trials, only seven other warriors remain: Sarah Bryant and her brother Jacky, Lau Chan and his daughter Pai, Jeffry McWild, Wolf Hawkfield and the ninja Kagemaru.  Virtua Fighter PC (aka - Virtua Fighter PC Remix) is an enhanced port of Sega's arcade hit Virtua Fighter. It features the original characters and stages with higher polygon counts and texture mapping (a la Virtua Fighter 2) and various minor gameplay tweaks.</desc>
-		<image>./mixart/Virtua Fighter Remix (USA).png</image>
-		<video>./snap/Virtua Fighter Remix (USA).mp4</video>
-		<marquee>./wheel/Virtua Fighter Remix (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19951002T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6FC3D526F2480AE335A0ABA97A6159A2</cheevosHash>
 	</game>
 	<game>
 		<path>./Virtual Casino (USA).chd</path>
@@ -5394,12 +5377,29 @@
 		<video>./snap/Z (Europe).mp4</video>
 		<marquee>./wheel/Z (Europe).png</marquee>
 		<rating>0.7</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>The Bitmap Brothers</developer>
 		<publisher>GT Interactive</publisher>
 		<genre>Simulation</genre>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>0562ECEB8363164BDE98247B6D9147F2</cheevosHash>
+	</game>
+	<game>
+		<path>./Virtua Fighter Remix (USA).chd</path>
+		<name>Virtua Fighter Remix</name>
+		<desc>Akira Yuki, the only active master of the powerful Kung Fu technique known as Hakkyoku ken (“The Eight Point Fist") travels the world in search of enlightenment and worthy opponents. He has found them in in the World Fighting Tournament, where the strongest fighters determine who the master of hand-to-hand combat is. All techniques are allowed as long as the contestants use no weapons but their own bodies.  After weeks of trials, only seven other warriors remain: Sarah Bryant and her brother Jacky, Lau Chan and his daughter Pai, Jeffry McWild, Wolf Hawkfield and the ninja Kagemaru.  Virtua Fighter PC (aka - Virtua Fighter PC Remix) is an enhanced port of Sega's arcade hit Virtua Fighter. It features the original characters and stages with higher polygon counts and texture mapping (a la Virtua Fighter 2) and various minor gameplay tweaks.</desc>
+		<image>./mixart/Virtua Fighter Remix (USA).png</image>
+		<video>./snap/Virtua Fighter Remix (USA).mp4</video>
+		<marquee>./wheel/Virtua Fighter Remix (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19951002T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6FC3D526F2480AE335A0ABA97A6159A2</cheevosHash>
 	</game>
 </gameList>

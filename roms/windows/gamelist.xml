@@ -116,21 +116,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Nex Machina.lnk</path>
-		<name>Nex Machina</name>
-		<desc>Nex Machina is an intense arcade style twin-stick shooter from Housemarque. Taking hints from both Robotron and Smash TV, Nex Machina focuses on pure action, voxel destruction and competition in the distant, cablepunk themed future. Housemarque, the creators of Resogun, and Eugene Jarvis invite you on a trip back to the age of arcades and play Nex Machina, the twinstick shooter of this generation. Destroy the evil robots, free the humans and defeat your friends' high scores along with their dreams of success. Do you have what it takes to make it to the top?</desc>
-		<image>./mixart/Nex Machina.png</image>
-		<video>./snap/Nex Machina.mp4</video>
-		<marquee>./wheel/Nex Machina.png</marquee>
-		<rating>4.56</rating>
-		<releasedate>20170620T000000</releasedate>
-		<developer>Housemarque</developer>
-		<publisher>Housemarque</publisher>
-		<genre>Action, Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Project AETHER First Contact.lnk</path>
 		<name>Project AETHER First Contact</name>
 		<desc>As a threat from beyond looms over the solar system, take control of the AETHER prototype in this rhythmic and tactical space shooter - fusing classic arcade-style action with stunning 3D environments and an engaging sci-fi story.</desc>
@@ -2594,21 +2579,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<publisher>SkyGoblin</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Mortal Kombat Komplete Edition.lnk</path>
-		<name>Mortal Kombat Komplete Edition</name>
-		<desc>After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable...the Past. Driven by an all new graphics engine, the fan favorite series is back and presented in more gory detail than ever before.</desc>
-		<image>./mixart/Mortal Kombat Komplete Edition.png</image>
-		<video>./snap/Mortal Kombat Komplete Edition.mp4</video>
-		<marquee>./wheel/Mortal Kombat Komplete Edition.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>NetherRealm Studios</developer>
-		<publisher>Warner Bros</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Horizon Chase Turbo.lnk</path>
@@ -5133,5 +5103,35 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Platform Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Mortal Kombat Komplete Edition.lnk</path>
+		<name>Mortal Kombat Komplete Edition</name>
+		<desc>After centuries of Mortal Kombat, Emperor Shao Kahn has finally defeated Raiden and his allies. Faced with extinction, Raiden has one last chance to save Earthrealm. To undo the Emperor's victory, he must strike Shao Kahn where he is vulnerable...the Past. Driven by an all new graphics engine, the fan favorite series is back and presented in more gory detail than ever before.</desc>
+		<image>./mixart/Mortal Kombat Komplete Edition.png</image>
+		<video>./snap/Mortal Kombat Komplete Edition.mp4</video>
+		<marquee>./wheel/Mortal Kombat Komplete Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>NetherRealm Studios</developer>
+		<publisher>Warner Bros</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nex Machina.lnk</path>
+		<name>Nex Machina</name>
+		<desc>Nex Machina is an intense arcade style twin-stick shooter from Housemarque. Taking hints from both Robotron and Smash TV, Nex Machina focuses on pure action, voxel destruction and competition in the distant, cablepunk themed future. Housemarque, the creators of Resogun, and Eugene Jarvis invite you on a trip back to the age of arcades and play Nex Machina, the twinstick shooter of this generation. Destroy the evil robots, free the humans and defeat your friends' high scores along with their dreams of success. Do you have what it takes to make it to the top?</desc>
+		<image>./mixart/Nex Machina.png</image>
+		<video>./snap/Nex Machina.mp4</video>
+		<marquee>./wheel/Nex Machina.png</marquee>
+		<rating>4.56</rating>
+		<releasedate>20170620T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Housemarque</publisher>
+		<genre>Action, Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -9,7 +9,7 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<image>./mixart/1941 - Counter Attack.png</image>
 		<video>./snap/1941 - Counter Attack.mp4</video>
 		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910823</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -61,7 +61,7 @@ Nearing the year 2020, the societies of mankind fall into global depression just
 		<image>./mixart/Aldynes.png</image>
 		<video>./snap/Aldynes.mp4</video>
 		<marquee>./wheel/Aldynes.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910222</releasedate>
 		<developer>Produce Co., Ltd.</developer>
 		<publisher>Hudson</publisher>
@@ -1661,24 +1661,6 @@ At the start of the race, you choose how many spare engines, tires, brakes, and 
 		<players>1</players>
 		<cheevosHash>BC4361C967514EF29293778AD748A6B7</cheevosHash>
 	</game>
-	<game id="14560" source="ScreenScraper">
-		<path>./Vigilante (USA).zip</path>
-		<name>Vigilante</name>
-		<desc>Vigilante is a side-scrolling beat-em-up, based on the popular coin-up. It features an anonymous tough hero that roams the streets to beat up The Rogues gang that kidnapped his girlfriend Maria. 
-
-The game offers five distinct locations, such as city streets and a junkyard, with many different thugs with different strengths. You fight with your fists, feet and a chain. Each level features an end boss which requires a special tactic in order to progress.</desc>
-		<image>./mixart/Vigilante (USA).png</image>
-		<video>./snap/Vigilante (USA).mp4</video>
-		<marquee>./wheel/Vigilante (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19890000T000000</releasedate>
-		<developer>NEC Avenue</developer>
-		<publisher>Irem</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<cheevosHash>589F7CEB0BD851F6442E53858A0DC51C</cheevosHash>
-		<cheevosId>2339</cheevosId>
-	</game>
 	<game id="59836" source="ScreenScraper">
 		<path>./World Class Baseball (USA).zip</path>
 		<name>World Class Baseball</name>
@@ -1739,5 +1721,23 @@ The game offers five distinct locations, such as city streets and a junkyard, wi
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>8AAAD7004680EBEDE55B2C39AF87BB3B</cheevosHash>
+	</game>
+	<game id="14560" source="ScreenScraper">
+		<path>./Vigilante (USA).zip</path>
+		<name>Vigilante</name>
+		<desc>Vigilante is a side-scrolling beat-em-up, based on the popular coin-up. It features an anonymous tough hero that roams the streets to beat up The Rogues gang that kidnapped his girlfriend Maria. 
+
+The game offers five distinct locations, such as city streets and a junkyard, with many different thugs with different strengths. You fight with your fists, feet and a chain. Each level features an end boss which requires a special tactic in order to progress.</desc>
+		<image>./mixart/Vigilante (USA).png</image>
+		<video>./snap/Vigilante (USA).mp4</video>
+		<marquee>./wheel/Vigilante (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890000T000000</releasedate>
+		<developer>NEC Avenue</developer>
+		<publisher>Irem</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<cheevosHash>589F7CEB0BD851F6442E53858A0DC51C</cheevosHash>
+		<cheevosId>2339</cheevosId>
 	</game>
 </gameList>

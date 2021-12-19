@@ -4352,23 +4352,6 @@ Designed by Chris and Erin Roberts, the creative force behind the Wing Commander
 		<region>us</region>
 		<genreid>260</genreid>
 	</game>
-	<game id="13816" source="ScreenScraper.fr">
-		<path>./Trizeal (Japan).chd</path>
-		<name>Trizeal</name>
-		<desc>A sci-fi vertical-scrolling shooter directly ported from its arcade incarnation.  Using polygonal graphics, but retaining a completely 2D gameplay, Trizeal puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.  Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.  Features a unique Bonus mode with additional stages not included in the arcade original, and 2-player cooperative gameplay.</desc>
-		<image>./mixart/Trizeal (Japan).png</image>
-		<video>./snap/Trizeal (Japan).mp4</video>
-		<marquee>./wheel/Trizeal (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050407T000000</releasedate>
-		<developer>Triangle Service</developer>
-		<publisher>Triangle Service</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
 	<game>
 		<path>./Wild Metal v1.003 (2000)(Take 2)(PAL)(M6)[!].chd</path>
 		<name>Wild Metal</name>
@@ -4785,5 +4768,22 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<publisher>Infogrames</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+	</game>
+	<game id="13816" source="ScreenScraper.fr">
+		<path>./Trizeal (Japan).chd</path>
+		<name>Trizeal</name>
+		<desc>A sci-fi vertical-scrolling shooter directly ported from its arcade incarnation.  Using polygonal graphics, but retaining a completely 2D gameplay, Trizeal puts you in command of two tiny starfighter as you attempt to clear several stages filled with enemy ships and creatures gunning for you.  Your ship is able to morph into three distinct configurations, each with their own speed and armor as well as unique weapon system (basic machine gun, homing missiles and laser), by picking up power-ups you can upgrade each form and increase its abilities and the point of the game is to keep your ship balanced enough to survive in all situations.  Features a unique Bonus mode with additional stages not included in the arcade original, and 2-player cooperative gameplay.</desc>
+		<image>./mixart/Trizeal (Japan).png</image>
+		<video>./snap/Trizeal (Japan).mp4</video>
+		<marquee>./wheel/Trizeal (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050407T000000</releasedate>
+		<developer>Triangle Service</developer>
+		<publisher>Triangle Service</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

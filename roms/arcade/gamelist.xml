@@ -29247,25 +29247,6 @@ As Mr Do! moves around a screen, he trails a line behind him. Players can join t
 		<cheevosHash>D41901276B65244E6C49A413F7CBB0DC</cheevosHash>
 	</game>
 	<game>
-		<path>./dotron.zip</path>
-		<name>Discs of Tron</name>
-		<desc>As Tron, you fling discs at Sark in an attempt to knock him off his platform. Knocking off Sark will advance you to the next level. Other levels vary the level and number of platforms to jump between.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/dotron.png</image>
-		<video>./snap/dotron.mp4</video>
-		<marquee>./wheel/dotron.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Sports-Various</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E1180A8DA92B07ED9481ED69F3A499CF</cheevosHash>
-	</game>
-	<game>
 		<path>./doubledr.zip</path>
 		<name>Double Dragon</name>
 		<desc>Released around the same time as the film of the same name and loosely based on its story, this installment in the Double Dragon series also moves away from the traditional roam-the-streets-fighting to a pure one-on-one fighter. There are ten characters to choose from, including Billy and Jimmy and the game has colorful interactive backgrounds, screen zooming, over-the-top special moves and with the inclusion of double jumps, combos, charges for the losing player and counter hits, there is plenty of room for advanced fighting strategies.</desc>
@@ -35327,30 +35308,6 @@ balls, the enemy eventually charges tile after tile, which makes it dangerous fo
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>38336C79CF015719CE28248E9A71CC24</cheevosHash>
-	</game>
-	<game id="37542">
-		<path>./groovef.zip</path>
-		<name>Groove on Fight - Gouketsuji Ichizoku 3</name>
-		<desc>A Tag-Team 2-D fighting game from Atlus. Select a team of 2 characters and face off against the rest. Players can 'tag' their ally watching from the sideline to recover stamina.
-
-The game features an original cast of characters, and also features the Goketsuji sister Oume and Utane (Stuck together back-to back) from "Power Instinct 2", and Popura - who is similar to Kurara from PI2.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/groovef.png</image>
-		<video>./snap/groovef.mp4</video>
-		<marquee>./wheel/groovef.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atlus</developer>
-		<publisher>Atlus</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Power Instinct</family>
-		<arcadesystemname>segastv</arcadesystemname>
-		<players>2</players>
-		<md5>28f0740cab0d1af6abf75003cc380311</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E1B512D09DDFAB32289A54CCC69ED6BB</cheevosHash>
 	</game>
 	<game>
 		<path>./groundfx.zip</path>
@@ -57433,25 +57390,6 @@ The other major change over the Street Fighter 2 series are the Alpha counters. 
 		<cheevosHash>DCC996520E7182B88CEC4C1F9A3B20A8</cheevosHash>
 	</game>
 	<game>
-		<path>./sfexp.zip</path>
-		<name>Street Fighter EX Plus</name>
-		<desc>This arcade-only update of Street Fighter EX makes some hidden characters selectable.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/sfexp.png</image>
-		<video>./snap/sfexp.mp4</video>
-		<marquee>./wheel/sfexp.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting 3D</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9E4C39069E0E2BB197D40D0B5F29DD4D</cheevosHash>
-	</game>
-	<game>
 		<path>./sfiii.zip</path>
 		<name>Street Fighter III: New Generation</name>
 		<desc>Street Fighter III - New Generation is a New Generation of Street Fighters! Features larger characters sprites than previous Street Fighter games with the smoothest, most detailed 2-D animation ever made at the time of its release, a level of quality that is yet to be matched by any other 2-D game outside of the Street Fighter III series as of 2004; some complain that too many things are animated and each animation contains too many frames, slowing down the pace of the game.</desc>
@@ -72229,27 +72167,6 @@ The Simpsons was designed to Konami's typically-high production standards and wa
 		<region>us</region>
 		<cheevosHash>12D3C9B20DA71857B083EC32B19976AF</cheevosHash>
 	</game>
-	<game id="43630">
-		<path>./titlefu.zip</path>
-		<name>Title Fight</name>
-		<desc>Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/titlefu.png</image>
-		<video>./snap/titlefu.mp4</video>
-		<marquee>./wheel/titlefu.png</marquee>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Boxing</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>24ba5a2fdc0f9ba553523ba75ece70e5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B823EBEBBD6D1B9F5739A9971ED898AD</cheevosHash>
-	</game>
 	<game id="46469">
 		<path>./armorar.zip</path>
 		<name>Armor Attack</name>
@@ -72767,5 +72684,181 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6F0D77F05CBED98FF5A088019FC89E81</cheevosHash>
+	</game>
+	<game>
+		<path>./dotron.zip</path>
+		<name>Discs of Tron</name>
+		<desc>As Tron, you fling discs at Sark in an attempt to knock him off his platform. Knocking off Sark will advance you to the next level. Other levels vary the level and number of platforms to jump between.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/dotron.png</image>
+		<video>./snap/dotron.mp4</video>
+		<marquee>./wheel/dotron.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Sports-Various</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E1180A8DA92B07ED9481ED69F3A499CF</cheevosHash>
+	</game>
+	<game id="37542">
+		<path>./groovef.zip</path>
+		<name>Groove on Fight - Gouketsuji Ichizoku 3</name>
+		<desc>A Tag-Team 2-D fighting game from Atlus. Select a team of 2 characters and face off against the rest. Players can 'tag' their ally watching from the sideline to recover stamina.
+
+The game features an original cast of characters, and also features the Goketsuji sister Oume and Utane (Stuck together back-to back) from "Power Instinct 2", and Popura - who is similar to Kurara from PI2.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/groovef.png</image>
+		<video>./snap/groovef.mp4</video>
+		<marquee>./wheel/groovef.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>Atlus</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Power Instinct</family>
+		<arcadesystemname>segastv</arcadesystemname>
+		<players>2</players>
+		<md5>28f0740cab0d1af6abf75003cc380311</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E1B512D09DDFAB32289A54CCC69ED6BB</cheevosHash>
+	</game>
+	<game>
+		<path>./sfexp.zip</path>
+		<name>Street Fighter EX Plus</name>
+		<desc>This arcade-only update of Street Fighter EX makes some hidden characters selectable.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/sfexp.png</image>
+		<video>./snap/sfexp.mp4</video>
+		<marquee>./wheel/sfexp.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting 3D</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9E4C39069E0E2BB197D40D0B5F29DD4D</cheevosHash>
+	</game>
+	<game id="43630">
+		<path>./titlefu.zip</path>
+		<name>Title Fight</name>
+		<desc>Boxing arcade game where the protagonist is see-through and outlined. The player controls the boxer's punches, blocks, and dodges with two joysticks.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/titlefu.png</image>
+		<video>./snap/titlefu.mp4</video>
+		<marquee>./wheel/titlefu.png</marquee>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Boxing</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>24ba5a2fdc0f9ba553523ba75ece70e5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B823EBEBBD6D1B9F5739A9971ED898AD</cheevosHash>
+	</game>
+	<game id="40178" source="ScreenScraper.fr">
+		<path>./bbust2.zip</path>
+		<name>Beast Busters 2nd Nightmare</name>
+		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds. 
+ 
+The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/bbust2.png</image>
+		<marquee>./wheel/bbust2.png</marquee>
+		<video>./snap/bbust2.mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lightgun Shooter-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="41179" source="ScreenScraper.fr">
+		<path>./fatfurwa.zip</path>
+		<name>Fatal Fury: Wild Ambition</name>
+		<desc>Fatal Fury: Wild Ambition is SNK's attempt to bring Fatal Fury into 3D.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/fatfurwa.png</image>
+		<marquee>./wheel/fatfurwa.png</marquee>
+		<video>./snap/fatfurwa.mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game id="150415" source="ScreenScraper.fr">
+		<path>./roadedge.zip</path>
+		<name>Roads Edge</name>
+		<desc>An exciting racing game up to four players linkable, featuring four challenging courses and four SUV cars to choose, different camera angles and for selectable soundtracks make this game a fun ride. The internal vibration inside the seat is a nice addition to the driving experience.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/roadedge.png</image>
+		<marquee>./wheel/roadedge.png</marquee>
+		<video>./snap/roadedge.mp4</video>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>4</players>
+	</game>
+	<game id="79409" source="ScreenScraper.fr">
+		<path>./sams64.zip</path>
+		<name>Samurai Shodown 64</name>
+		<desc>Samurai Shodown 64 (c) 1997 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 02  Main CPU : R4600 (@ 12.5 Mhz), V30 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1997.  This game is kno</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64.png</image>
+		<marquee>./wheel/sams64.png</marquee>
+		<video>./snap/sams64.mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game id="42879" source="ScreenScraper.fr">
+		<path>./sams64_2.zip</path>
+		<name>Samurai Shodown: Warrior's Rage</name>
+		<desc>Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64_2.png</image>
+		<marquee>./wheel/sams64_2.png</marquee>
+		<video>./snap/sams64_2.mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+	</game>
+	<game id="79425" source="ScreenScraper.fr">
+		<path>./xrally.zip</path>
+		<name>Xtreme Rally / Off Beat Racer!</name>
+		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/xrally.png</image>
+		<marquee>./wheel/xrally.png</marquee>
+		<video>./snap/xrally.mp4</video>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
 	</game>
 </gameList>
