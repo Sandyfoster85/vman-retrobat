@@ -221,23 +221,6 @@
 		<players>1</players>
 		<genreid>1024</genreid>
 	</game>
-	<game>
-		<path>./Auto Modellista (USA).rvz</path>
-		<name>Auto Modellista</name>
-		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
-		<image>./mixart/Auto Modellista (USA).png</image>
-		<video>./snap/Auto Modellista (USA).mp4</video>
-		<marquee>./wheel/Auto Modellista (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030930T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4880" source="ScreenScraper.fr">
 		<path>./007 - Agent Under Fire (USA) (Rev 1).rvz</path>
 		<name>James Bond 007 in Agent Under Fire</name>
@@ -3915,22 +3898,6 @@ Dupe the dopes?Defeat Count Olaf and his troupe of villains who assume many disg
 		<publisher>Electronic Arts</publisher>
 		<genre>Action-Platform</genre>
 		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="4775" source="ScreenScraper.fr">
-		<path>./Lord of the Rings, The - The Return of the King (USA).rvz</path>
-		<name>Lord of the Rings The Return of the King</name>
-		<desc>Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy. Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring. Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor. The fate of Middle-earth is in your hands.</desc>
-		<image>./mixart/Lord of the Rings, The - The Return of the King (USA).png</image>
-		<video>./snap/Lord of the Rings, The - The Return of the King (USA).mp4</video>
-		<marquee>./wheel/Lord of the Rings, The - The Return of the King (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20031114T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -9026,6 +8993,39 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<publisher>Vicarious Visions</publisher>
 		<genre>Race, Driving</genre>
 		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Auto Modellista (USA).rvz</path>
+		<name>Auto Modellista</name>
+		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
+		<image>./mixart/Auto Modellista (USA).png</image>
+		<video>./snap/Auto Modellista (USA).mp4</video>
+		<marquee>./wheel/Auto Modellista (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030930T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="4775" source="ScreenScraper.fr">
+		<path>./Lord of the Rings, The - The Return of the King (USA).rvz</path>
+		<name>Lord of the Rings The Return of the King</name>
+		<desc>Return to Middle-earth in a game based on the epic final chapter of the The Lord of the Rings movie trilogy. Developed using the same digital assets as the films, The Return of the King recreates in stunning detail the final events of the War of the Ring. Become the heroes who determine the fate of Middle-earth as you traverse the haunted Paths of the Dead, defend Minas Tirith, and even play co-op multiplayer with a friend as you march against the impenetrable Black Gates of Mordor. The fate of Middle-earth is in your hands.</desc>
+		<image>./mixart/Lord of the Rings, The - The Return of the King (USA).png</image>
+		<video>./snap/Lord of the Rings, The - The Return of the King (USA).mp4</video>
+		<marquee>./wheel/Lord of the Rings, The - The Return of the King (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031114T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

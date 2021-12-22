@@ -1925,21 +1925,6 @@ Frogger Returns takes the heart-pounding challenge of arcade Frogger and takes i
 		<publisher>Konami</publisher>
 		<genre>Various</genre>
 	</game>
-	<game id="9140" source="ScreenScraper.fr">
-		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
-		<name>Geometry Wars Galaxies</name>
-		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
-		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
-		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
-		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>Kuju Entertainment</developer>
-		<publisher>Sierra</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<genreid>260</genreid>
-	</game>
 	<game id="9027">
 		<path>./Ghostbusters - The Video Game (USA) (En,Fr,Es) (Rev 1).rvz</path>
 		<name>Ghostbusters: The Video Game</name>
@@ -2129,42 +2114,6 @@ Meanwhile, Yin-Yarn captures King Dedede and Meta Knight and places them under h
 		<publisher>Ubisoft</publisher>
 		<genre>Shooter / 1st person-Shooter-Action</genre>
 		<players>4+</players>
-	</game>
-	<game id="9099">
-		<path>./La-Mulana (USA) (WiiWare).wad</path>
-		<name>La-mulana</name>
-		<desc>Are you ready to survive all types of traps and discover all the secrets of LA-MULANA?
-
-LA-MULANA is the most complete "archaeology action and exploration" game ever created.
-
-Take control of Professor Lemeza and his inseparable whip to discover the mysteries of Humanity!
-
-Face all types of traps, enemies and Guardians in the greatest adventure every created for WiiWare.
-
-In LA-MULANA you will explore vast temples and, most importantly, you will have the feeling of total immersion.
-
-Each mechanism, trap or puzzle you solve will be a great achievement.
-
-Features:
-
-- The best "archaeology action and exploration" game.
-- Over 40 hours of play.
-- Hundreds of puzzles and secrets to be discovered.
-- Wide variety of weapons and objects you can use.
-- Use the "Mobile Super X" computer to run help software.
-- Large quantity of enemies with spectacular guardians.</desc>
-		<image>./mixart/La-Mulana (USA) (WiiWare).png</image>
-		<video>./snap/La-Mulana (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/La-Mulana (USA) (WiiWare).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20110621T000000</releasedate>
-		<developer>EnjoyUp Games</developer>
-		<publisher>Nigoro</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<md5>022705c7952cc307b12526a5c8936303</md5>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="8852">
 		<path>./Little King's Story (USA) (En,Fr,Es).rvz</path>
@@ -3294,5 +3243,56 @@ Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinbal
 		<players>4</players>
 		<favorite>true</favorite>
 		<genreid>262</genreid>
+	</game>
+	<game id="9099">
+		<path>./La-Mulana (USA) (WiiWare).wad</path>
+		<name>La-mulana</name>
+		<desc>Are you ready to survive all types of traps and discover all the secrets of LA-MULANA?
+
+LA-MULANA is the most complete "archaeology action and exploration" game ever created.
+
+Take control of Professor Lemeza and his inseparable whip to discover the mysteries of Humanity!
+
+Face all types of traps, enemies and Guardians in the greatest adventure every created for WiiWare.
+
+In LA-MULANA you will explore vast temples and, most importantly, you will have the feeling of total immersion.
+
+Each mechanism, trap or puzzle you solve will be a great achievement.
+
+Features:
+
+- The best "archaeology action and exploration" game.
+- Over 40 hours of play.
+- Hundreds of puzzles and secrets to be discovered.
+- Wide variety of weapons and objects you can use.
+- Use the "Mobile Super X" computer to run help software.
+- Large quantity of enemies with spectacular guardians.</desc>
+		<image>./mixart/La-Mulana (USA) (WiiWare).png</image>
+		<video>./snap/La-Mulana (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/La-Mulana (USA) (WiiWare).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110621T000000</releasedate>
+		<developer>EnjoyUp Games</developer>
+		<publisher>Nigoro</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>022705c7952cc307b12526a5c8936303</md5>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="9140" source="ScreenScraper.fr">
+		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
+		<name>Geometry Wars Galaxies</name>
+		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
+		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
+		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
+		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<genreid>260</genreid>
 	</game>
 </gameList>

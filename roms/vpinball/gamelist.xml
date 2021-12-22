@@ -1679,20 +1679,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Pole Position (Sonic 1987)1.3.0.vpx</path>
-		<name>Pole Position (Sonic 1987)</name>
-		<desc>Flipper Pole Position (Sonic 1987)1.3.0</desc>
-		<image>./mixart/Pole Position (Sonic 1987)1.3.0.png</image>
-		<video>./snap/Pole Position (Sonic 1987)1.3.0.mp4</video>
-		<marquee>./wheel/Pole Position (Sonic 1987)1.3.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Austin Powers (Stern 2001)_VPWmod_1.0.3.vpx</path>
 		<name>Austin Powers (Stern 2001)_VPWmod_1.0.3</name>
 		<desc>Flipper Austin Powers (Stern 2001), VPWmod 1.0.3</desc>
@@ -2788,22 +2774,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
-		<name>Black Tiger Pinball (Williams 1981)</name>
-		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
-		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
-		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
-		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.vpx</path>
 		<name>Buck Rogers (Gottlieb 1980)</name>
 		<desc>Flipper Buck Rogers (Gottlieb 1980) Sound MOD v1.11a</desc>
@@ -2924,5 +2894,35 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Black Tiger Pinball (Williams 1981).vpx</path>
+		<name>Black Tiger Pinball (Williams 1981)</name>
+		<desc>Flipper Black Tiger Pinball (Williams 1981)</desc>
+		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
+		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
+		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pole Position (Sonic 1987)1.3.0.vpx</path>
+		<name>Pole Position (Sonic 1987)</name>
+		<desc>Flipper Pole Position (Sonic 1987)1.3.0</desc>
+		<image>./mixart/Pole Position (Sonic 1987)1.3.0.png</image>
+		<video>./snap/Pole Position (Sonic 1987)1.3.0.mp4</video>
+		<marquee>./wheel/Pole Position (Sonic 1987)1.3.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 	</game>
 </gameList>

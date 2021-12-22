@@ -3611,22 +3611,6 @@ This version also contains modifications and enhancements to the original Melty 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="21895" source="ScreenScraper.fr">
-		<path>./Metal Gear Solid 2 - Sons of Liberty (USA).gz</path>
-		<name>Metal Gear Solid 2 : Sons of Liberty</name>
-		<desc>A stealth action video game directed by Hideo Kojima, developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the sixth canonical game in the Metal Gear series and the sequel to Metal Gear Solid. The story revolves around a massive offshore clean-up facility that has been seized by terrorists calling themselves the "Sons of Liberty." They demand a massive ransom in exchange for the life of the President of the United States, and threaten to destroy the facility and create a cataclysmic environmental disaster if their demands are not met. The motives and identities of many of the antagonists and allies change rapidly, as the heroes discover a world-shaking conspiracy constructed by a powerful organization known as the Patriots.</desc>
-		<image>./mixart/Metal Gear Solid 2 - Sons of Liberty (USA).png</image>
-		<video>./snap/Metal Gear Solid 2 - Sons of Liberty (USA).mp4</video>
-		<marquee>./wheel/Metal Gear Solid 2 - Sons of Liberty (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20020308T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Adventure-Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="21892" source="ScreenScraper.fr">
 		<path>./Metal Gear Solid 3 - Snake Eater (USA).gz</path>
 		<name>Metal Gear Solid 3 : Snake Eater</name>
@@ -4777,25 +4761,6 @@ This installment of the  Shadow Hearts series utilizes almost the same gameplay 
 		<releasedate>20011122T000000</releasedate>
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>512</genreid>
-	</game>
-	<game id="22129" source="ScreenScraper.fr">
-		<path>./Shadow of Rome (USA).gz</path>
-		<name>Shadow of Rome</name>
-		<desc>Shadow of Rome is a third-person, action-adventure game with some elements of racing. The game has two types of gameplay: close quarters combat levels involving Agrippa and stealth-based, puzzle-solving adventure levels involving Octavianus.[2] There are also levels in which Agrippa competes in chariot races.[3] 
-Agrippa uses various gladiator weapons to fight, including swords, maces, spears, among others.[3] Agrippa can use special moves such as "Red Volcano"â€”a move used to slice enemies in halfâ€” to please the crowds.[2] As a result, the crowd will throw down items to help Agrippa.[4] Once a weapon is used enough, it will break, and the player will have to find a new one inside the area.[3] 
-In Octavianus' levels, the player sneaks around various locations in Rome. Octavianus cannot kill enemies, he can only knock them out. Other ways to pass these levels are by hiding in large pots or by stealing clothes and impersonating someone.[3]</desc>
-		<image>./mixart/Shadow of Rome (USA).png</image>
-		<video>./snap/Shadow of Rome (USA).mp4</video>
-		<marquee>./wheel/Shadow of Rome (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050208T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
@@ -7334,5 +7299,40 @@ The player has many different weapons at his or her disposal, including shotguns
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>260</genreid>
+	</game>
+	<game id="21895" source="ScreenScraper.fr">
+		<path>./Metal Gear Solid 2 - Sons of Liberty (USA).gz</path>
+		<name>Metal Gear Solid 2 : Sons of Liberty</name>
+		<desc>A stealth action video game directed by Hideo Kojima, developed by Konami Computer Entertainment Japan and published by Konami for the PlayStation 2 in 2001. It is the sixth canonical game in the Metal Gear series and the sequel to Metal Gear Solid. The story revolves around a massive offshore clean-up facility that has been seized by terrorists calling themselves the "Sons of Liberty." They demand a massive ransom in exchange for the life of the President of the United States, and threaten to destroy the facility and create a cataclysmic environmental disaster if their demands are not met. The motives and identities of many of the antagonists and allies change rapidly, as the heroes discover a world-shaking conspiracy constructed by a powerful organization known as the Patriots.</desc>
+		<image>./mixart/Metal Gear Solid 2 - Sons of Liberty (USA).png</image>
+		<video>./snap/Metal Gear Solid 2 - Sons of Liberty (USA).mp4</video>
+		<marquee>./wheel/Metal Gear Solid 2 - Sons of Liberty (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20020308T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="22129" source="ScreenScraper.fr">
+		<path>./Shadow of Rome (USA).gz</path>
+		<name>Shadow of Rome</name>
+		<desc>Shadow of Rome is a third-person, action-adventure game with some elements of racing. The game has two types of gameplay: close quarters combat levels involving Agrippa and stealth-based, puzzle-solving adventure levels involving Octavianus.[2] There are also levels in which Agrippa competes in chariot races.[3] 
+Agrippa uses various gladiator weapons to fight, including swords, maces, spears, among others.[3] Agrippa can use special moves such as "Red Volcano"â€”a move used to slice enemies in halfâ€” to please the crowds.[2] As a result, the crowd will throw down items to help Agrippa.[4] Once a weapon is used enough, it will break, and the player will have to find a new one inside the area.[3] 
+In Octavianus' levels, the player sneaks around various locations in Rome. Octavianus cannot kill enemies, he can only knock them out. Other ways to pass these levels are by hiding in large pots or by stealing clothes and impersonating someone.[3]</desc>
+		<image>./mixart/Shadow of Rome (USA).png</image>
+		<video>./snap/Shadow of Rome (USA).mp4</video>
+		<marquee>./wheel/Shadow of Rome (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050208T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>512</genreid>
 	</game>
 </gameList>

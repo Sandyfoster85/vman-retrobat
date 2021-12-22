@@ -488,17 +488,6 @@ As you eliminate evil from different parts of the land, you allow villagers to r
 		<cheevosHash>74CDF2130A0DCD142EB111767F77FDD4</cheevosHash>
 	</game>
 	<game source="ScreenScraper">
-		<path>./BS Zelda Map 1 (MSU-1).smc</path>
-		<name>BS Zelda Map 1 (MSU-1)</name>
-		<image>./mixart/BS Zelda Map 1 (MSU-1).png</image>
-		<video>./snap/BS Zelda Map 1 (MSU-1).mp4</video>
-		<marquee>./wheel/BS Zelda Map 1 (MSU-1).png</marquee>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<lang>en</lang>
-		<cheevosHash>0A52A517F73D0DB208523AD0750C4D95</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
 		<path>./BS Zelda Map 2 (MSU-1).smc</path>
 		<name>BS Zelda Map 2 (MSU-1)</name>
 		<image>./mixart/BS Zelda Map 2 (MSU-1).png</image>
@@ -2018,5 +2007,16 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>jp</region>
 		<cheevosHash>F05E59AE38AED40DE271E7AA8E392FE8</cheevosHash>
 		<cheevosId>4002</cheevosId>
+	</game>
+	<game source="ScreenScraper">
+		<path>./BS Zelda Map 1 (MSU-1).smc</path>
+		<name>BS Zelda Map 1 (MSU-1)</name>
+		<image>./mixart/BS Zelda Map 1 (MSU-1).png</image>
+		<video>./snap/BS Zelda Map 1 (MSU-1).mp4</video>
+		<marquee>./wheel/BS Zelda Map 1 (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>0A52A517F73D0DB208523AD0750C4D95</cheevosHash>
 	</game>
 </gameList>

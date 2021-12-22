@@ -1303,28 +1303,6 @@ Alundra is an action role playing game (RPG) somewhat similar to the famous Zeld
 		<cheevosHash>59CC43F33236FA5DA9247DCBA7FB1522</cheevosHash>
 	</game>
 	<game>
-		<path>./Apocalypse (USA).chd</path>
-		<name>Apocalypse</name>
-		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
-
-Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
-		<emulator>libretro</emulator>
-		<core>duckstation</core>
-		<image>./mixart/Apocalypse (USA).png</image>
-		<video>./snap/Apocalypse (USA).mp4</video>
-		<marquee>./wheel/Apocalypse (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881031T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
-		<cheevosId>14345</cheevosId>
-	</game>
-	<game>
 		<path>./Aquanaut's Holiday (USA).chd</path>
 		<name>Aquanaut's Holiday</name>
 		<desc>In this game, players are put into the role of a submersible to explore the ocean depths at their leisure. Along the way, players can cruise the depths of the ocean from a first-person perspective, climbing or diving the waters as they see fit to discover the wonders of the ocean.  Along the way, players can locate sunken ships, statues, and other aquatic treasures, or attempt to communicate with the various sea life through sonar, whether it's a whale, or one of the more bizarre creatures found within the darkest depths of the ocean.Players can also leave underwater stations to mark points of interest for future study, or even assist in building a customizable coral reef that will continue to grow and attract marine life.Aquanaut's Holiday focuses on the subtleties of discovery over fast-paced action sequences or point accumulation.</desc>
@@ -21488,5 +21466,27 @@ The game is over once all lives or continues are used up. The player is then tak
 		<region>us</region>
 		<cheevosHash>113A06FDB9815C4BC6177D2950E28946</cheevosHash>
 		<cheevosId>11283</cheevosId>
+	</game>
+	<game>
+		<path>./Apocalypse (USA).chd</path>
+		<name>Apocalypse</name>
+		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
+
+Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
+		<emulator>libretro</emulator>
+		<core>duckstation</core>
+		<image>./mixart/Apocalypse (USA).png</image>
+		<video>./snap/Apocalypse (USA).mp4</video>
+		<marquee>./wheel/Apocalypse (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881031T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
+		<cheevosId>14345</cheevosId>
 	</game>
 </gameList>

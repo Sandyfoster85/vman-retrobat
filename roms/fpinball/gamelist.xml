@@ -698,16 +698,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hulk_1_0.fpt</path>
-		<name>Hulk_1_0</name>
-		<desc>Flipper Hulk</desc>
-		<image>./mixart/Hulk_1_0.png</image>
-		<video>./snap/Hulk_1_0.mp4</video>
-		<marquee>./wheel/Hulk_1_0.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Wipeout (DOFLinx MX).fpt</path>
 		<name>Wipeout (DOFLinx MX)</name>
 		<desc>Flipper Wipeout</desc>
@@ -1358,21 +1348,6 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./F-14 Tomcat ULTIMATE Pro 1.01.fpt</path>
-		<name>F-14 Tomcat ULTIMATE Pro 1.01</name>
-		<desc>Flipper F-14 Tomcat ULTIMATE Pro 1.01</desc>
-		<image>./mixart/F-14 Tomcat ULTIMATE Pro 1.01.jpg</image>
-		<video>./snap/F-14 Tomcat ULTIMATE Pro 1.01.mp4</video>
-		<marquee>./wheel/F-14 Tomcat ULTIMATE Pro 1.01.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Alice Cooper.fpt</path>
@@ -2133,5 +2108,30 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./F-14 Tomcat ULTIMATE Pro 1.01.fpt</path>
+		<name>F-14 Tomcat ULTIMATE Pro 1.01</name>
+		<desc>Flipper F-14 Tomcat ULTIMATE Pro 1.01</desc>
+		<image>./mixart/F-14 Tomcat ULTIMATE Pro 1.01.jpg</image>
+		<video>./snap/F-14 Tomcat ULTIMATE Pro 1.01.mp4</video>
+		<marquee>./wheel/F-14 Tomcat ULTIMATE Pro 1.01.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hulk_1_0.fpt</path>
+		<name>Hulk_1_0</name>
+		<desc>Flipper Hulk</desc>
+		<image>./mixart/Hulk_1_0.png</image>
+		<video>./snap/Hulk_1_0.mp4</video>
+		<marquee>./wheel/Hulk_1_0.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
 	</game>
 </gameList>

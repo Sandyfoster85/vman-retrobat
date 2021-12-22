@@ -6337,24 +6337,6 @@ Command &amp; Conquer: Red Alert can be considered a prequel to Command &amp; Co
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./Twinsens Odyssey.pc</path>
-		<name>Twinsen's Odyssey</name>
-		<desc>Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. 
-
-When strange aliens arrive from a neighboring planet and begin kidnapping magicians and children, Twinsen uncovers a diabolical plot to obliterate his homeworld. 
-
-In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, to save his planet.</desc>
-		<image>./mixart/Twinsens Odyssey.png</image>
-		<video>./snap/Little Big Adventure 2.mp4</video>
-		<marquee>./wheel/Twinsens Odyssey.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970601T000000</releasedate>
-		<developer>Adeline Software International</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Warcraft_Orcs_And_Humans.pc</path>
 		<name>WarCraft: Orcs &amp; Humans</name>
 		<desc>The Kingdom of Azeroth was relatively peaceful and ruled by King Llane. That was until a powerful mage named Medivh commanded forces that opened up a portal in the Swamp of Sorrow, leading to another world. This ushered in the Age of Chaos, as Orcs were summoned to this world and attempted to establish an empire. As the Orcish hordes swarmed from the portal, they met with the Humans of Azeroth and battles ensured. Peaceful co-existence is not an option. Only one race will attain dominance over the land.
@@ -7071,5 +7053,23 @@ Weapons come in handy, since Derceto is full of various monsters. Some monsters 
 		<genre>Adventure / Survival Horror</genre>
 		<lang>in</lang>
 		<region>in</region>
+	</game>
+	<game>
+		<path>./Twinsens Odyssey.pc</path>
+		<name>Twinsen's Odyssey</name>
+		<desc>Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. 
+
+When strange aliens arrive from a neighboring planet and begin kidnapping magicians and children, Twinsen uncovers a diabolical plot to obliterate his homeworld. 
+
+In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, to save his planet.</desc>
+		<image>./mixart/Twinsens Odyssey.png</image>
+		<video>./snap/Little Big Adventure 2.mp4</video>
+		<marquee>./wheel/Twinsens Odyssey.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Adeline Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

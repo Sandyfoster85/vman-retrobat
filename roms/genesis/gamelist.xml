@@ -6502,22 +6502,6 @@ Light Crusader is an isometric action/puzzle adventure with RPG elements, along 
 		<players>1</players>
 		<cheevosHash>2869E0D4AD512A1FBD9B79D6937D9446</cheevosHash>
 	</game>
-	<game id="55" source="ScreenScraper.fr">
-		<path>./Lightening Force - Quest for the Darkstar (USA).7z</path>
-		<name>Lightening Force : Quest for the Darkstar</name>
-		<desc>Thunder Force IV, known in North America as Lightening Force: Quest for the Darkstar [sic], is a 1992 side-scrolling shoot 'em up video game developed and published by Technosoft for the Sega Genesis as the fourth installment of the Thunder Force series. The game was released in Japan on July 24, 1992, in North America in September 1992 and in Europe in December 1992.</desc>
-		<image>./mixart/Lightening Force - Quest for the Darkstar (USA).png</image>
-		<video>./snap/Lightening Force - Quest for the Darkstar (USA).mp4</video>
-		<marquee>./wheel/Lightening Force - Quest for the Darkstar (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Technosoft</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1</players>
-		<cheevosHash>BB6B10927E6238206E9A7BA8C7D91A14</cheevosHash>
-		<cheevosId>293</cheevosId>
-	</game>
 	<game id="9" source="ScreenScraper.fr">
 		<path>./Lion King, The (World).7z</path>
 		<name>The Lion King</name>
@@ -14329,5 +14313,21 @@ There are changes in both graphics (characters now are bigger, more detailed and
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FF5B4FB7B955E00EF652FBB808F9D0AF</cheevosHash>
+	</game>
+	<game id="55" source="ScreenScraper.fr">
+		<path>./Lightening Force - Quest for the Darkstar (USA).7z</path>
+		<name>Lightening Force : Quest for the Darkstar</name>
+		<desc>Thunder Force IV, known in North America as Lightening Force: Quest for the Darkstar [sic], is a 1992 side-scrolling shoot 'em up video game developed and published by Technosoft for the Sega Genesis as the fourth installment of the Thunder Force series. The game was released in Japan on July 24, 1992, in North America in September 1992 and in Europe in December 1992.</desc>
+		<image>./mixart/Lightening Force - Quest for the Darkstar (USA).png</image>
+		<video>./snap/Lightening Force - Quest for the Darkstar (USA).mp4</video>
+		<marquee>./wheel/Lightening Force - Quest for the Darkstar (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Technosoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1</players>
+		<cheevosHash>BB6B10927E6238206E9A7BA8C7D91A14</cheevosHash>
+		<cheevosId>293</cheevosId>
 	</game>
 </gameList>

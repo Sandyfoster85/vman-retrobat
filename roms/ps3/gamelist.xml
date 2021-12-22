@@ -1570,21 +1570,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./Everybody's Golf - World Tour.m3u</path>
-		<name>Everybody's Golf - World Tour</name>
-		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
-		<image>./mixart/Everybody's Golf - World Tour.png</image>
-		<video>./snap/Everybody's Golf - World Tour.mp4</video>
-		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="25507" source="ScreenScraper.fr">
 		<path>./3D Dot Game Heroes.m3u</path>
 		<name>3d Dot Game Heroes</name>
@@ -1736,22 +1721,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
-	<game id="26419" source="ScreenScraper.fr">
-		<path>./OutRun Online Arcade.m3u</path>
-		<name>OutRun Online Arcade</name>
-		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
-		<image>./mixart/OutRun Online Arcade.png</image>
-		<video>./snap/OutRun Online Arcade.mp4</video>
-		<marquee>./wheel/OutRun Online Arcade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game id="25147" source="ScreenScraper.fr">
 		<path>./Dante's Inferno (USA) (En,Fr,Es).m3u</path>
 		<name>Dante's Inferno</name>
@@ -1777,6 +1746,37 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<video>./snap/TMNT Turtles In Time Re-Shelled.mp4</video>
 		<marquee>./wheel/TMNT Turtles In Time Re-Shelled.png</marquee>
 		<rating>0.55</rating>
-		<releasedate></releasedate>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Everybody's Golf - World Tour.m3u</path>
+		<name>Everybody's Golf - World Tour</name>
+		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
+		<image>./mixart/Everybody's Golf - World Tour.png</image>
+		<video>./snap/Everybody's Golf - World Tour.mp4</video>
+		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports, Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

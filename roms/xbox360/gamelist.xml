@@ -128,20 +128,6 @@ In Comic Jumper players control Captain Smiley, a comic book hero whose comics a
 		<lang>en</lang>
 	</game>
 	<game source="ScreenScraper.fr">
-		<path>./Geometry Wars Evolved 2.m3u</path>
-		<name>Geometry Wars: Retro Evolved 2</name>
-		<desc>Geometry Wars: Retro Evolved 2 contains six different game modes: Deadline, King, Evolved, Pacifism, Waves and Sequence. Multiplayer was introduced in this sequel.</desc>
-		<image>./mixart/Geometry Wars - Retro Evolved 2.png</image>
-		<marquee>./wheel/Geometry Wars - Retro Evolved 2.png</marquee>
-		<releasedate>20080730T000000</releasedate>
-		<developer>Bizarre Creations, Ltd.</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Shooter</genre>
-		<players>4</players>
-		<md5>1f765c375e805bb92b99329210346332</md5>
-		<lang>en</lang>
-	</game>
-	<game source="ScreenScraper.fr">
 		<path>./Go! Go! Break Steady.m3u</path>
 		<name>Go! Go! Break Steady</name>
 		<desc>Take on DJ Scruffy and the Beatniks in this combination rhythm and puzzle game. Featuring original gameplay, a unique visual style, and six amazing characters breakdancing to 20 finger-tapping songs, Go! Go! Break Steady is the ultimate hybrid of two popular and challenging genres. Will Hydro and his "All City Crew" become the Break Steady Tournament Champs and take home the most prizes? The answer depends on your own rhythm and smarts. Play it solo, team up with your friends, or play online to see who has the real Break Steady "skillz!"</desc>
@@ -254,7 +240,7 @@ Play with a friend in co-op mode or switch between any of the three beautiful pl
 		<name>Shrek n Roll</name>
 		<desc>Shrek-N-Roll is a small game based off the characters of the animated Shrek films, with Shrek as the giant green ogre and a host of friends and enemies, such as Fiona, Donkey, Puss-in-Boots, Charming, ... Completing every level eventually makes 24 characters available, with only aesthetic differences and no influence on the gameplay. Gameplay is based around balancing a baby Shrek snack in the form of a ball in levels usually in the form of a tower.</desc>
 		<image>./mixart/Shrek n' Roll.png</image>
-		<releasedate></releasedate>
+		<releasedate />
 		<md5>c84941738c52fbdeca29eba016c171d7</md5>
 		<lang>en</lang>
 	</game>
@@ -282,6 +268,20 @@ Play with a friend in co-op mode or switch between any of the three beautiful pl
 		<genre>Strategy</genre>
 		<players>4</players>
 		<md5>1a0b5fb07af6ddd55f83df93f1116d11</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Geometry Wars Evolved 2.m3u</path>
+		<name>Geometry Wars: Retro Evolved 2</name>
+		<desc>Geometry Wars: Retro Evolved 2 contains six different game modes: Deadline, King, Evolved, Pacifism, Waves and Sequence. Multiplayer was introduced in this sequel.</desc>
+		<image>./mixart/Geometry Wars - Retro Evolved 2.png</image>
+		<marquee>./wheel/Geometry Wars - Retro Evolved 2.png</marquee>
+		<releasedate>20080730T000000</releasedate>
+		<developer>Bizarre Creations, Ltd.</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Shooter</genre>
+		<players>4</players>
+		<md5>1f765c375e805bb92b99329210346332</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

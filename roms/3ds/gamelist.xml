@@ -2441,21 +2441,6 @@ Apollo also has a special talent - the ability to perceive people's nervous habi
 		<marquee>./wheel/Azure Striker Gunvolt - Striker Pack (USA).png</marquee>
 		<video>./snap/Azure Striker Gunvolt - Striker Pack (USA).mp4</video>
 	</game>
-	<game id="11252" source="ScreenScraper.fr">
-		<path>./Asphalt 3D (USA) (En,Fr,Es).3ds</path>
-		<name>Asphalt 3D</name>
-		<desc>Asphalt 3D brings all the excitement and speed of the Asphalt franchise to stereoscopic 3D, featuring more than 40 licensed vehicles, 17 exotic track locations and complete StreetPass functionality.</desc>
-		<rating>0.6</rating>
-		<releasedate>20110325T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-6</players>
-		<image>./mixart/Asphalt 3D (USA) (En,Fr,Es).png</image>
-		<marquee>./wheel/Asphalt 3D (USA) (En,Fr,Es).png</marquee>
-		<video>./snap/Asphalt 3D (USA) (En,Fr,Es).mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="11182" source="ScreenScraper.fr">
 		<path>./Combat of Giants - Dinosaurs 3D (USA) (En,Fr,Es).3ds</path>
 		<name>Combat of Giants - Dinosaurs 3D</name>
@@ -3257,5 +3242,20 @@ Scattered throughout the levels include coins (that add towards your score), Her
 		<publisher>Ubisoft</publisher>
 		<genre>Strategy</genre>
 		<genreid>1280</genreid>
+	</game>
+	<game id="11252" source="ScreenScraper.fr">
+		<path>./Asphalt 3D (USA) (En,Fr,Es).3ds</path>
+		<name>Asphalt 3D</name>
+		<desc>Asphalt 3D brings all the excitement and speed of the Asphalt franchise to stereoscopic 3D, featuring more than 40 licensed vehicles, 17 exotic track locations and complete StreetPass functionality.</desc>
+		<image>./mixart/Asphalt 3D (USA) (En,Fr,Es).png</image>
+		<video>./snap/Asphalt 3D (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Asphalt 3D (USA) (En,Fr,Es).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110325T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>6</players>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

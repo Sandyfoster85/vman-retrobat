@@ -420,20 +420,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./UDX.parrot</path>
-		<name>Under Defeat HD+</name>
-		<desc>Under Defeat is a shoot 'em up arcade game by G.rev. The game takes place in an alternate reality based on World War II, and, in a controversial twist, players control German-speaking characters (under the banner of "the Empire"), fighting against enemies ("the Union") that speak English and possess weapons patterned after those of both real-life Allied and Axis powers.</desc>
-		<image>./mixart/Under Defeat HD+.png</image>
-		<video>./snap/Under Defeat HD+.mp4</video>
-		<marquee>./wheel/Under Defeat HD+.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>G.Rev</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./KingofFightersMaximumImpactRegulationA.parrot</path>
 		<name>The King of Fighters: Maximum Impact Regulation A</name>
 		<desc>KOF: Maximum Impact Regulation A was released for the Taito Type X2 arcade system in July 2007. It is the only arcade release made for the KOF: MI series and has the inclusion of Ash Crimson, Blue Mary, Makoto Mizoguchi from Fighter's History, and newcomer Xiao Lon, who is a Hizoku Assassin like her brother, Duo Lon, into its character roster. Regulation "A" is a remake of Maximum Impact 2, but with the classic 3 on 3 gameplay added from the 2D KOF series added in hopes of winning over the series fanbase as well as new players. Regulation "A" does not feature a story mode. Despite the addition of four new characters, Armor Ralf has been removed, as have several stages, as well as the story and challenge modes from Maximum Impact 2. In addition, all of the characters have lost half of their outfits in both normal and alternate types. Some new music, including songs from the original Maximum Impact and Sengoku 3, have been added, in addition to new alternate versions of stages and a new level for Makoto Mizoguchi.</desc>
@@ -473,20 +459,6 @@
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Tekken7FR.parrot</path>
-		<name>Tekken 7 Fated Retribution</name>
-		<desc>Tekken 7 is a fighting game developed and published by Bandai Namco Entertainment. It is the seventh canonical installment in the Tekken series (ninth overall main title) following Tekken Tag Tournament 2, also it is the final chapter of The Mishima Saga Story and was the first to make use of the Unreal Engine. Tekken 7 had a limited arcade release in March 2015.</desc>
-		<image>./mixart/Tekken 7 Fated Retribution.png</image>
-		<video>./snap/Tekken 7 Fated Retribution.mp4</video>
-		<marquee>./wheel/Tekken 7 Fated Retribution.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20151201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fighting</genre>
 		<players>2</players>
 	</game>
 	<game>
@@ -615,23 +587,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./or2spdlx.parrot</path>
-		<name>Outrun 2 Special Tours Deluxe</name>
-		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
-		<image>./mixart/Outrun 2 SP SDX.png</image>
-		<video>./snap/Outrun 2 SP SDX.mp4</video>
-		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./SDR.parrot</path>
 		<name>Dream Raiders</name>
 		<desc>Dive into a dream world of adventures! Climb on board this beautifully modelled dream machine and be transported to a new level of excitement. Choose your dream ride and raid as many treasures as you can whilst fending off attacks by strange and incredible enemies with your Dream Blasters. Successfully complete your raid and be carried off into new realms in thrilling bonus stages. Nine unique dream experiences await you in this fantastic new deluxe game from Sega. Ride a dragon, pilot a UFO, get on horseback or put on your super suits and head for the skies! Dream Raiders features an exciting mix of exhilarating experiences that everyone will enjoy. The combination of intense motion, wind, sound and visuals combine to give players an arcade experience like none other!</desc>
@@ -660,5 +615,50 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>JapanMade</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Tekken7FR.parrot</path>
+		<name>Tekken 7 Fated Retribution</name>
+		<desc>Tekken 7 is a fighting game developed and published by Bandai Namco Entertainment. It is the seventh canonical installment in the Tekken series (ninth overall main title) following Tekken Tag Tournament 2, also it is the final chapter of The Mishima Saga Story and was the first to make use of the Unreal Engine. Tekken 7 had a limited arcade release in March 2015.</desc>
+		<image>./mixart/Tekken 7 Fated Retribution.png</image>
+		<video>./snap/Tekken 7 Fated Retribution.mp4</video>
+		<marquee>./wheel/Tekken 7 Fated Retribution.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./UDX.parrot</path>
+		<name>Under Defeat HD+</name>
+		<desc>Under Defeat is a shoot 'em up arcade game by G.rev. The game takes place in an alternate reality based on World War II, and, in a controversial twist, players control German-speaking characters (under the banner of "the Empire"), fighting against enemies ("the Union") that speak English and possess weapons patterned after those of both real-life Allied and Axis powers.</desc>
+		<image>./mixart/Under Defeat HD+.png</image>
+		<video>./snap/Under Defeat HD+.mp4</video>
+		<marquee>./wheel/Under Defeat HD+.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+	</game>
+	<game>
+		<path>./or2spdlx.parrot</path>
+		<name>Outrun 2 Special Tours Deluxe</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/Outrun 2 SP SDX.png</image>
+		<video>./snap/Outrun 2 SP SDX.mp4</video>
+		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>
