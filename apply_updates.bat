@@ -39,6 +39,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBa
 rem 6. 2021-11-14 - snes9x change controller remap for 'H' some home brew games - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\snes9x\ V:\RetroBat\emulators\snes9x\ /S /NFL /NDL /IS /MT:4
 
+rem 7. 2021-12-24 - sync vman custom collections - reported by MrPippet
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\collections\ V:\RetroBat\emulationstation\.emulationstation\collections\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
