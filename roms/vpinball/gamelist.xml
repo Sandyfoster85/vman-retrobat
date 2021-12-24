@@ -2925,4 +2925,19 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 	</game>
+	<game>
+		<path>./National Lampoons Xmas.vpx</path>
+		<name>National Lampoons Xmas</name>
+		<desc>Flipper National Lampoons Xmas Pinball</desc>
+		<image>./mixart/National Lampoons Xmas.png</image>
+		<video>./snap/National Lampoons Xmas.mp4</video>
+		<marquee>./wheel/National Lampoons Xmas.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
 </gameList>
