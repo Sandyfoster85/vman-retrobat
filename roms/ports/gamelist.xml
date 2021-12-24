@@ -62,19 +62,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Duke Nuclear Winter.lnk</path>
-		<name>Duke: Nuclear Winter</name>
-		<desc>This is an authorized add-on pack for Duke Nukem 3D. It adds 7 new maps to the game which put the player to North Pole. Here he must battle alien scum to help Santa Claus survive. The pack also adds new special arctic monsters and new artwork to the game.</desc>
-		<image>./mixart/Duke Nuclear Winter.png</image>
-		<video>./snap/Duke Nuclear Winter.mp4</video>
-		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
-		<rating>0.85</rating>
-		<releasedate />
-		<developer>WizardWorks</developer>
-		<publisher>WizardWorks</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Duke Nukem 3D.lnk</path>
 		<name>Duke Nukem 3D</name>
 		<desc>Duke Nukem 3D is a First Person Shooter game developed by 3D Realms in 1996.</desc>
@@ -86,21 +73,6 @@
 		<developer>3d Realms</developer>
 		<publisher>3d Realms</publisher>
 		<genre>Shooter</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Jazz Jackrabbit.lnk</path>
-		<name>Jazz Jackrabbit OpenJAZZ</name>
-		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
-		<image>./mixart/Jazz Jackrabbit.png</image>
-		<video>./snap/Jazz Jackrabbit.mp4</video>
-		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>OpenSource</developer>
-		<publisher>OpenSource</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -518,10 +490,38 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<video>./snap/Half-Life.mp4</video>
 		<marquee>./wheel/Half-Life.png</marquee>
 		<rating>0.75</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Valve</developer>
 		<publisher>Valve</publisher>
 		<genre>Action-Shooter / 3rd person-Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Duke Nuclear Winter.lnk</path>
+		<name>Duke: Nuclear Winter</name>
+		<desc>This is an authorized add-on pack for Duke Nukem 3D. It adds 7 new maps to the game which put the player to North Pole. Here he must battle alien scum to help Santa Claus survive. The pack also adds new special arctic monsters and new artwork to the game.</desc>
+		<image>./mixart/Duke Nuclear Winter.png</image>
+		<video>./snap/Duke Nuclear Winter.mp4</video>
+		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
+		<rating>0.85</rating>
+		<releasedate></releasedate>
+		<developer>WizardWorks</developer>
+		<publisher>WizardWorks</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jazz Jackrabbit.lnk</path>
+		<name>Jazz Jackrabbit OpenJAZZ</name>
+		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
+		<image>./mixart/Jazz Jackrabbit.png</image>
+		<video>./snap/Jazz Jackrabbit.mp4</video>
+		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>OpenSource</developer>
+		<publisher>OpenSource</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

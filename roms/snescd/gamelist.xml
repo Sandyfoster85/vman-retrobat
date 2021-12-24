@@ -654,24 +654,6 @@ All the familiar enemies and helpful friends return, along with some new charact
 		<lang>en</lang>
 		<cheevosHash>14ACBD9FA1DD6BFAFF6A9BEDB9B49032</cheevosHash>
 	</game>
-	<game id="172217" source="ScreenScraper.fr">
-		<path>./Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).sfc</path>
-		<name>Donkey Kong Country 3 - Dixie Kong's Double Trouble!</name>
-		<desc>This time both Donkey Kong and Diddy Kong have been kong-napped by a mysterious new leader of the Kremlings, and it's up to Dixie and new team mate Kiddy Kong to save the day.  New elements to the series includes the Brother Bears, thirteen Bears who, if you pay them with Bear Coins found in each level, will aid you in your quest by building certain items. Also, new bonus mission have you playing a 1st/3rd person shooter style party game. Plus a host of new enemies, the usual huge end of world bosses and a collection of the Kong family who will help you out as best they can.</desc>
-		<image>./mixart/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).png</image>
-		<video>./snap/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19961122T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en,cn</lang>
-		<region>cn</region>
-		<cheevosHash>F8DC16289A2AA1C6144B841AD505164C</cheevosHash>
-		<cheevosId>473</cheevosId>
-	</game>
 	<game id="172346" source="ScreenScraper.fr">
 		<path>./E.V.O._-_Search_for_Eden_(USA)_(MSU1).sfc</path>
 		<name>E. V. O. - Search For Eden</name>
@@ -2018,5 +2000,23 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<releasedate>01010101T000000</releasedate>
 		<lang>en</lang>
 		<cheevosHash>0A52A517F73D0DB208523AD0750C4D95</cheevosHash>
+	</game>
+	<game id="172217" source="ScreenScraper.fr">
+		<path>./Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).sfc</path>
+		<name>Donkey Kong Country 3 - Dixie Kong's Double Trouble!</name>
+		<desc>This time both Donkey Kong and Diddy Kong have been kong-napped by a mysterious new leader of the Kremlings, and it's up to Dixie and new team mate Kiddy Kong to save the day.  New elements to the series includes the Brother Bears, thirteen Bears who, if you pay them with Bear Coins found in each level, will aid you in your quest by building certain items. Also, new bonus mission have you playing a 1st/3rd person shooter style party game. Plus a host of new enemies, the usual huge end of world bosses and a collection of the Kong family who will help you out as best they can.</desc>
+		<image>./mixart/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).png</image>
+		<video>./snap/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Donkey_Kong_Country_3_-_Dixie_Kong's_Double_Trouble!_(USA)_(MSU1).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19961122T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en,cn</lang>
+		<region>cn</region>
+		<cheevosHash>F8DC16289A2AA1C6144B841AD505164C</cheevosHash>
+		<cheevosId>473</cheevosId>
 	</game>
 </gameList>

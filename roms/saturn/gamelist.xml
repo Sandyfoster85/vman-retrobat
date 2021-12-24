@@ -1229,22 +1229,6 @@
 		<cheevosHash>A865A66F6CA9E2E4F57DB639CE3D0D50</cheevosHash>
 	</game>
 	<game>
-		<path>./Christmas NiGHTS (USA).chd</path>
-		<name>Christmas NiGHTS into Dreams...</name>
-		<desc>Christmas NiGHTS into Dreams is a one level themed "demo" of NiGHTS into Dreams. It was originally released in November 1996 for the Sega Saturn.nnDue to its freebie nature, Christmas NiGHTS is a much smaller game than NiGHTS into Dreams - there is only one level (Spring Valley - almost identical to the level seen in regular NiGHTS) however unlike the original it is playable as Elliot as well as Claris. When playing as Elliot the stage is mirrored.nnChristmas NiGHTS is Christmas-themed, and so its graphics and music have been replaced with winter-esque versions of the original stage (but only in winter). For example, Ideya Captures are now giant floating Christmas trees, and NiGHTS wears red attire rather than purple. Gameplay is largely identical to the original game, including the A-Life system altered by defeating enemies.</desc>
-		<image>./mixart/Christmas NiGHTS (USA).png</image>
-		<video>./snap/Christmas NiGHTS (USA).mp4</video>
-		<marquee>./wheel/Christmas NiGHTS (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19961212T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F3349305B47DEC32EB9B6B2416F5382E</cheevosHash>
-	</game>
-	<game>
 		<path>./Clockwork Knight (USA).chd</path>
 		<name>Clockwork Knight : Pepperouchau's Adventure</name>
 		<desc>Clockwork Knight is a game that depicts the sometimes friendly, sometimes combative, secret lives of toys. Betsy has a huge number of toys that come to life in the absence of humans and normally play nicely with each other. In the opening introduction, the somewhat inept clockwork knight Pepperouchau is competing with some other knights for the affections of a princess who lives in the clock. Everyone is having a grand time until a rogue toy shows up through the air vent, absconds with the princess, and turns many of the other toys against Pepperouchau.  The gameplay consists of side scrolling action through various stages constructed of elaborate series of toys, traps, and common household items. The first stage is a quest through Betsy's room with lots of letter blocks, sharp crayons, and dollhouses precariously balanced on robots that tend to fall on you. Pepperouchau is armed with a key sword that has offensive use as well as the ability to open boxes that functions as warps to other areas. The second stage takes place in Betsy's brother's room. Kevin has a lot of engineering skill and has built an impressive network of cranes and trains that Pepperouchau will need to activate in order to clear the area. Watch out for the jet transformer boss at the end of the room.  Other stages include missions through other areas of the house including the kitchen and the attic. Throughout the game you also collect coins. 20 coins are worth a continue when you run out of lives. Further, you meet other friendly toys between levels who give you the opportunity to gamble with your earned coins.</desc>
@@ -5401,5 +5385,23 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6FC3D526F2480AE335A0ABA97A6159A2</cheevosHash>
+	</game>
+	<game>
+		<path>./Christmas NiGHTS (USA).chd</path>
+		<name>Christmas NiGHTS into Dreams...</name>
+		<desc>Christmas NiGHTS into Dreams is a one level themed "demo" of NiGHTS into Dreams. It was originally released in November 1996 for the Sega Saturn.nnDue to its freebie nature, Christmas NiGHTS is a much smaller game than NiGHTS into Dreams - there is only one level (Spring Valley - almost identical to the level seen in regular NiGHTS) however unlike the original it is playable as Elliot as well as Claris. When playing as Elliot the stage is mirrored.nnChristmas NiGHTS is Christmas-themed, and so its graphics and music have been replaced with winter-esque versions of the original stage (but only in winter). For example, Ideya Captures are now giant floating Christmas trees, and NiGHTS wears red attire rather than purple. Gameplay is largely identical to the original game, including the A-Life system altered by defeating enemies.</desc>
+		<emulator>libretro</emulator>
+		<core>kronos</core>
+		<image>./mixart/Christmas NiGHTS (USA).png</image>
+		<video>./snap/Christmas NiGHTS (USA).mp4</video>
+		<marquee>./wheel/Christmas NiGHTS (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19961212T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F3349305B47DEC32EB9B6B2416F5382E</cheevosHash>
 	</game>
 </gameList>

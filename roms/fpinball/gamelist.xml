@@ -1892,21 +1892,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./HomeAlone 2_V1.0.fpt</path>
-		<name>HomeAlone 2</name>
-		<desc>Flipper HomeAlone 2</desc>
-		<image>./mixart/HomeAlone 2_V1.0.jpg</image>
-		<video>./snap/HomeAlone 2_V1.0.mp4</video>
-		<marquee>./wheel/HomeAlone 2_V1.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Star Fox.fpt</path>
 		<name>Star Fox</name>
 		<desc>Flipper Star Fox</desc>
@@ -2133,5 +2118,20 @@
 		<marquee>./wheel/Hulk_1_0.png</marquee>
 		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HomeAlone 2_V1.0.fpt</path>
+		<name>HomeAlone 2</name>
+		<desc>Flipper HomeAlone 2</desc>
+		<image>./mixart/HomeAlone 2_V1.0.jpg</image>
+		<video>./snap/HomeAlone 2_V1.0.mp4</video>
+		<marquee>./wheel/HomeAlone 2_V1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

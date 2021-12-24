@@ -11374,18 +11374,6 @@ Nilam concocted a spell that enchanted Santa and locked him in her magic lands. 
 		<cheevosHash>FBD187500572B8AF52C505F4F8A4BD9B</cheevosHash>
 		<cheevosId>2481</cheevosId>
 	</game>
-	<game id="84546" source="ScreenScraper.fr">
-		<path>./Santa Clause 3, The - The Escape Clause (USA).7z</path>
-		<name>The Santa Clause 3 : The Escape Clause</name>
-		<desc>Can you help Santa and his elves stop Jack Frost from wreaking major holiday havoc? You'll have to overcome treacherous falling icicles, evil snowmen, powerful gusts of wind and lots of other obstacles. Take to the skies with Santa in his sleigh and battle the elements to deliver gifts to good boys and girls (and coal to the naughty.) Also included are puzzle-based challenges where you must help Santa's elves build toys in time for Christmas.</desc>
-		<image>./mixart/Santa Clause 3, The - The Escape Clause (USA).png</image>
-		<video>./snap/Santa Clause 3, The - The Escape Clause (USA).mp4</video>
-		<marquee>./wheel/Santa Clause 3, The - The Escape Clause (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<cheevosHash>B3A719F647A84F5496C0AD97D5DE6370</cheevosHash>
-		<cheevosId>7158</cheevosId>
-	</game>
 	<game id="4099" source="ScreenScraper.fr">
 		<path>./Scooby-Doo (USA).7z</path>
 		<name>Scooby-Doo</name>
@@ -15909,12 +15897,24 @@ Gameplay consists of navigating through several areas using your Drill Dozer rob
 		<image>./mixart/Drill Dozer (USA).png</image>
 		<video>./snap/Drill Dozer (USA).mp4</video>
 		<rating>0.75</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Game Freak</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<players>1</players>
 		<cheevosHash>14DAB12E795098988D46B96885170538</cheevosHash>
 		<cheevosId>760</cheevosId>
+	</game>
+	<game id="84546" source="ScreenScraper.fr">
+		<path>./Santa Clause 3, The - The Escape Clause (USA).7z</path>
+		<name>The Santa Clause 3 : The Escape Clause</name>
+		<desc>Can you help Santa and his elves stop Jack Frost from wreaking major holiday havoc? You'll have to overcome treacherous falling icicles, evil snowmen, powerful gusts of wind and lots of other obstacles. Take to the skies with Santa in his sleigh and battle the elements to deliver gifts to good boys and girls (and coal to the naughty.) Also included are puzzle-based challenges where you must help Santa's elves build toys in time for Christmas.</desc>
+		<image>./mixart/Santa Clause 3, The - The Escape Clause (USA).png</image>
+		<video>./snap/Santa Clause 3, The - The Escape Clause (USA).mp4</video>
+		<marquee>./wheel/Santa Clause 3, The - The Escape Clause (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<cheevosHash>B3A719F647A84F5496C0AD97D5DE6370</cheevosHash>
+		<cheevosId>7158</cheevosId>
 	</game>
 </gameList>
