@@ -78,23 +78,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dark Summit.iso</path>
-		<name>Dark Summit</name>
-		<desc>Snowboarders have never felt welcome on Mt. Garrick, a once quiet and peaceful ski resort. Chief O' Leary, the resident ranger, has led the charge against boarders and limited their access to certain sections of the mountain. But the situation has progressed. Chief O'Leary has mysteriously closed the summit to all boarders and is trying desperately to drive them off the mountain.
- Shred, jib and stomp sick tricks in the first</desc>
-		<image>./mixart/Dark Summit.png</image>
-		<marquee>./wheel/Dark Summit.png</marquee>
-		<video>./snap/Dark Summit.mp4</video>
-		<rating>0.65</rating>
-		<releasedate>20011115T000000</releasedate>
-		<developer>Radical Entertainment Inc.</developer>
-		<publisher>THQ</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Family Guy.iso</path>
 		<name>Family Guy</name>
 		<desc>Play through three stories that intersect in typical Family Guy fashion. Be Stewie and match wits against his brother and arch-nemesis Bertram as they vie to take over the world. Take control of Peter and fight to stop Mr. Belvedere who he thinks is trying to take over the world. Slip on a collar and down a martini as Brian attempt to escape prison and prove your innocence in a puppy parental case gone awry.</desc>
@@ -618,21 +601,6 @@ Vince was just a voodoo doll in a French Quarter shop, but when his maker was ki
 		<genre>Race, Driving</genre>
 		<players>1</players>
 		<genreid>1537</genreid>
-	</game>
-	<game id="14705" source="ScreenScraper.fr">
-		<path>./Dead or Alive 3.iso</path>
-		<name>Dead Or Alive 3</name>
-		<desc>Dead or Alive 3 (Japanese: ?3 Hepburn: Deddo Oa Araibu Sur, abbreviated as DOA3 ) is a fighting game in the Dead or Alive series. It was released in 2001, exclusively on the Xbox as a launch title.</desc>
-		<image>./mixart/Dead or Alive 3.png</image>
-		<video>./snap/Dead or Alive 3.mp4</video>
-		<marquee>./wheel/Dead or Alive 3.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20020314T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<genreid>262</genreid>
 	</game>
 	<game id="15074" source="ScreenScraper.fr">
 		<path>./Deathrow (Europe) (En Fr De).iso</path>
@@ -1718,5 +1686,37 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 		<genreid>1792</genreid>
+	</game>
+	<game>
+		<path>./Dark Summit.iso</path>
+		<name>Dark Summit</name>
+		<desc>Snowboarders have never felt welcome on Mt. Garrick, a once quiet and peaceful ski resort. Chief O' Leary, the resident ranger, has led the charge against boarders and limited their access to certain sections of the mountain. But the situation has progressed. Chief O'Leary has mysteriously closed the summit to all boarders and is trying desperately to drive them off the mountain.
+ Shred, jib and stomp sick tricks in the first</desc>
+		<image>./mixart/Dark Summit.png</image>
+		<video>./snap/Dark Summit.mp4</video>
+		<marquee>./wheel/Dark Summit.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Radical Entertainment Inc.</developer>
+		<publisher>THQ</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game id="14705" source="ScreenScraper.fr">
+		<path>./Dead or Alive 3.iso</path>
+		<name>Dead Or Alive 3</name>
+		<desc>Dead or Alive 3 (Japanese: ?3 Hepburn: Deddo Oa Araibu Sur, abbreviated as DOA3 ) is a fighting game in the Dead or Alive series. It was released in 2001, exclusively on the Xbox as a launch title.</desc>
+		<image>./mixart/Dead or Alive 3.png</image>
+		<video>./snap/Dead or Alive 3.mp4</video>
+		<marquee>./wheel/Dead or Alive 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20020314T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<genreid>262</genreid>
 	</game>
 </gameList>
