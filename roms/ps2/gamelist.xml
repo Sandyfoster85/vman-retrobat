@@ -3755,22 +3755,6 @@ Keeping in tradition, Monster Rancher EVO features the series' unique media disc
 		<region>us</region>
 		<genreid>768</genreid>
 	</game>
-	<game>
-		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
-		<name>Mortal Kombat : Armageddon</name>
-		<desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
-		<image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
-		<video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
-		<marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061027T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight</genre>
-		<players>2-8</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="23579" source="ScreenScraper.fr">
 		<path>./MTV Celebrity Deathmatch (USA).gz</path>
 		<name>MTV Celebrity Deathmatch</name>
@@ -5860,21 +5844,6 @@ Tom Clancy's Ghost Recon Advanced Warfighter 2, the game's direct sequel, was re
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="22473" source="ScreenScraper.fr">
-		<path>./Twisted Metal - Black (USA).gz</path>
-		<name>Twisted Metal : Black</name>
-		<desc>Twisted Metal: Black is a demolition derby that permits the usage of ballistic projectiles. Players choose a vehicle and an arena?or a series of arenas in the story mode?to engage in battle with opposing drivers. A variety of weapons and upgrades are obtainable by pick-ups scattered throughout the stage. The objective of the game is to be the last one standing.</desc>
-		<image>./mixart/Twisted Metal - Black (USA).png</image>
-		<video>./snap/Twisted Metal - Black (USA).mp4</video>
-		<marquee>./wheel/Twisted Metal - Black (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010618T000000</releasedate>
-		<developer>Incognito</developer>
-		<publisher>Sony</publisher>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="23166" source="ScreenScraper.fr">
 		<path>./Twisted Metal - Head-On - Extra Twisted Edition (USA).gz</path>
 		<name>Twisted Metal : Head-On, Extra Twisted Edition</name>
@@ -7334,5 +7303,36 @@ In Octavianus' levels, the player sneaks around various locations in Rome. Octav
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>512</genreid>
+	</game>
+	<game>
+		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
+		<name>Mortal Kombat : Armageddon</name>
+		<desc>The fighting genre's poster (whipping?) boy for gruesome violence makes its final appearance on PlayStation 2 before moving in a new direction for Xbox 360 and PlayStation 3. Mortal Kombat: Armageddon is thus a hostile homage to its frenzied fans, a love letter of sorts that tears away the heart-tugging sentiment for the still-beating heart. Armageddon offers the most significant throng of Mortal Kombat fighters thus far, with a roster spanning 62 combatants -- every minor and major character that has appeared in the series to date. The entire cast is also immediately playable from the opening screen.</desc>
+		<image>./mixart/Mortal Kombat - Armageddon (USA) (Premium Edition).png</image>
+		<video>./snap/Mortal Kombat - Armageddon (USA) (Premium Edition).mp4</video>
+		<marquee>./wheel/Mortal Kombat - Armageddon (USA) (Premium Edition).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061027T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight</genre>
+		<players>2-8</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="22473" source="ScreenScraper.fr">
+		<path>./Twisted Metal - Black (USA).gz</path>
+		<name>Twisted Metal : Black</name>
+		<desc>Twisted Metal: Black is a demolition derby that permits the usage of ballistic projectiles. Players choose a vehicle and an arena?or a series of arenas in the story mode?to engage in battle with opposing drivers. A variety of weapons and upgrades are obtainable by pick-ups scattered throughout the stage. The objective of the game is to be the last one standing.</desc>
+		<image>./mixart/Twisted Metal - Black (USA).png</image>
+		<video>./snap/Twisted Metal - Black (USA).mp4</video>
+		<marquee>./wheel/Twisted Metal - Black (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010618T000000</releasedate>
+		<developer>Incognito</developer>
+		<publisher>Sony</publisher>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

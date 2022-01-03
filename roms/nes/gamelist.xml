@@ -23547,22 +23547,6 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<cheevosHash>CA606BD8A875A396D52735C3BB84FA67</cheevosHash>
 		<cheevosId>1491</cheevosId>
 	</game>
-	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
-	</game>
 	<game id="1639" source="ScreenScraper.fr">
 		<path>./Pac-Mania (USA) (Unl).zip</path>
 		<name>Pac-Mania</name>
@@ -29129,5 +29113,21 @@ The game is a side-scrolling shooter in which the player can control Namakubi's 
 		<players>2</players>
 		<favorite>true</favorite>
 		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
 	</game>
 </gameList>

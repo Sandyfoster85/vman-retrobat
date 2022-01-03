@@ -4660,21 +4660,6 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<genre>Race, Driving-Simulation</genre>
 		<players>2-4</players>
 	</game>
-	<game>
-		<path>./Volgarr the Viking.cdi</path>
-		<name>Volgarr the Viking</name>
-		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
-		<image>./mixart/Volgarr the Viking.png</image>
-		<video>./snap/Volgarr the Viking.mp4</video>
-		<marquee>./wheel/Volgarr the Viking.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20150424T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="13752" source="ScreenScraper.fr">
 		<path>./NFL Blitz 2000 (USA).chd</path>
 		<name>NFL Blitz 2000</name>
@@ -4785,5 +4770,20 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game>
+		<path>./Volgarr the Viking.cdi</path>
+		<name>Volgarr the Viking</name>
+		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
+		<image>./mixart/Volgarr the Viking.png</image>
+		<video>./snap/Volgarr the Viking.mp4</video>
+		<marquee>./wheel/Volgarr the Viking.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20150424T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

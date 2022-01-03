@@ -2112,24 +2112,6 @@ Puff and Blow each have a Methane Gas Gun which fires a cloud of immobilising ga
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Stardust (Europe).chd</path>
-		<name>Super Stardust</name>
-		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques.
-
-The game features both overhead and 3D sections. In the overhead part, you must eliminate enemy ships and asteroids across several zones in each world. The 3D sections consist of underwater tunnels that link one world to another and they are each defended by a guardian you must defeat.</desc>
-		<image>./mixart/Super Stardust (Europe).png</image>
-		<video>./snap/Super Stardust (Europe).mp4</video>
-		<marquee>./wheel/Super Stardust (Europe).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Bloodhouse</developer>
-		<publisher>Team 17</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Super Street Fighter II Turbo (1995)(Gametek)[!].chd</path>
 		<name>Super Street Fighter 2 Turbo</name>
 		<desc>Fighting game ported from the classic and wildly popular "Street Fighter 2" franchise. Choose from a variety of characters and use their fighting skills to beat opponents and become the world champion fighter.
@@ -2615,6 +2597,24 @@ The game is largely non-linear, as most levels have multiple exits, and the game
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Super Stardust (Europe).chd</path>
+		<name>Super Stardust</name>
+		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques.
+
+The game features both overhead and 3D sections. In the overhead part, you must eliminate enemy ships and asteroids across several zones in each world. The 3D sections consist of underwater tunnels that link one world to another and they are each defended by a guardian you must defeat.</desc>
+		<image>./mixart/Super Stardust (Europe).png</image>
+		<video>./snap/Super Stardust (Europe).mp4</video>
+		<marquee>./wheel/Super Stardust (Europe).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Bloodhouse</developer>
+		<publisher>Team 17</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>eu</region>
 	</game>

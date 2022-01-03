@@ -3009,26 +3009,6 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<players>1</players>
 		<genreid>260</genreid>
 	</game>
-	<game id="9202" source="ScreenScraper.fr">
-		<path>./Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad</path>
-		<name>Sonic the Hedgehog 4 : Episode I</name>
-		<desc>Sonic the Hedgehog 4is an episodic platform video game as part of the Sonic the Hedgehog series. The game was developed by Dimps alongside members of Sonic Team[7] and is intended to be a return to the roots of the Sonic the Hedgehog series. 
- 
-Episode 1 was released in October 2010 with slight variations in exact date and price amongst its four platforms, iOS, PlayStation Network, WiiWare, and Xbox Live Arcade.</desc>
-		<image>./mixart/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</image>
-		<video>./snap/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20101015T000000</releasedate>
-		<developer>Dimps</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>257</genreid>
-	</game>
 	<game>
 		<path>./Excitebike - World Rally (USA) (WiiWare).wad</path>
 		<name>Excitebike : World Rally</name>
@@ -3279,6 +3259,26 @@ Features:
 		<md5>022705c7952cc307b12526a5c8936303</md5>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="9202" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).wad</path>
+		<name>Sonic the Hedgehog 4 : Episode I</name>
+		<desc>Sonic the Hedgehog 4is an episodic platform video game as part of the Sonic the Hedgehog series. The game was developed by Dimps alongside members of Sonic Team[7] and is intended to be a return to the roots of the Sonic the Hedgehog series. 
+ 
+Episode 1 was released in October 2010 with slight variations in exact date and price amongst its four platforms, iOS, PlayStation Network, WiiWare, and Xbox Live Arcade.</desc>
+		<image>./mixart/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</image>
+		<video>./snap/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Sonic the Hedgehog 4 - Episode I (USA) (WiiWare).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20101015T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
 	</game>
 	<game id="9140" source="ScreenScraper.fr">
 		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>

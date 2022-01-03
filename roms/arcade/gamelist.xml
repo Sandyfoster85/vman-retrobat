@@ -20019,29 +20019,6 @@ This game actually plays 'Rydeen' from the Yellow Magic Orchestra, as well as 'H
 		<region>us</region>
 		<cheevosHash>BFAFD92E2FE3CDA5B5AE7C041071DDD2</cheevosHash>
 	</game>
-	<game id="149461">
-		<path>./beastrzr.zip</path>
-		<name>Beastorizer</name>
-		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/beastrzr.png</image>
-		<video>./snap/beastrzr.mp4</video>
-		<marquee>./wheel/beastrzr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SCE</developer>
-		<publisher>Raizing</publisher>
-		<genre>Fight</genre>
-		<family>Bloody Roar</family>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>818a139614682de20fe948e31a9a1603</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C9324352AB268A2EC8229FEADE20DE7E</cheevosHash>
-	</game>
 	<game>
 		<path>./beathead.zip</path>
 		<name>BeatHead</name>
@@ -24534,25 +24511,6 @@ Each stage is packed with rival squad cars, as well as civilian traffic such as 
 		<region>us</region>
 		<cheevosHash>50C0CBFA53962DA6DFB3103A8B7636CB</cheevosHash>
 	</game>
-	<game>
-		<path>./ckong.zip</path>
-		<name>Crazy Kong</name>
-		<desc>Japanese clone of Donkey Kong. Uses Modified Crazy Climber samples for some sounds, and runs on Crazy Climber hardware, possibly despite the name "Crazy Kong"</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/ckong.png</image>
-		<video>./snap/ckong.mp4</video>
-		<marquee>./wheel/ckong.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Falcon</developer>
-		<publisher>Kyoei / Falcon</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8D86398835C5D14A1DDD65BCB3EE6259</cheevosHash>
-	</game>
 	<game id="40571">
 		<path>./ckongpt2.zip</path>
 		<name>Crazy Kong Part II</name>
@@ -27682,40 +27640,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
-	</game>
-	<game>
-		<path>./ddragon2.zip</path>
-		<name>Double Dragon II - The Revenge</name>
-		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
-
-The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
-
-The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
-
-Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
-Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
-Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
-Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
-Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
-Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
-Jeff - Same as his original self, but now carries grenades.
-Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
-Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
-Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
-Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
-The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
-		<image>./mixart/ddragon2.png</image>
-		<video>./snap/ddragon2.mp4</video>
-		<marquee>./wheel/ddragon2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Technos</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F40FF507C93E1F907BAF6D9941123F0D</cheevosHash>
 	</game>
 	<game>
 		<path>./ddragon3.zip</path>
@@ -72498,32 +72422,6 @@ Each player character has a different weapon or power that can be used throughou
 		<cheevosHash>1DA0BAC388E8E0409A83E121E1AF6EF4</cheevosHash>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
-	</game>
-	<game>
 		<path>./stratof.zip</path>
 		<name>Raiga - Strato Fighter</name>
 		<desc>A horizontal scrolling shooter.</desc>
@@ -72862,5 +72760,107 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BC237104F4130857653E7B546BF44B9E</cheevosHash>
+	</game>
+	<game>
+		<path>./ddragon2.zip</path>
+		<name>Double Dragon II - The Revenge</name>
+		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
+
+The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
+
+The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
+
+Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
+Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
+Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
+Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
+Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
+Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
+Jeff - Same as his original self, but now carries grenades.
+Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
+Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
+Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
+Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
+The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
+		<image>./mixart/ddragon2.png</image>
+		<video>./snap/ddragon2.mp4</video>
+		<marquee>./wheel/ddragon2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Technos</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F40FF507C93E1F907BAF6D9941123F0D</cheevosHash>
+	</game>
+	<game id="149461">
+		<path>./beastrzr.zip</path>
+		<name>Beastorizer</name>
+		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/beastrzr.png</image>
+		<video>./snap/beastrzr.mp4</video>
+		<marquee>./wheel/beastrzr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SCE</developer>
+		<publisher>Raizing</publisher>
+		<genre>Fight</genre>
+		<family>Bloody Roar</family>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>818a139614682de20fe948e31a9a1603</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C9324352AB268A2EC8229FEADE20DE7E</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game>
+		<path>./ckong.zip</path>
+		<name>Crazy Kong</name>
+		<desc>Japanese clone of Donkey Kong. Uses Modified Crazy Climber samples for some sounds, and runs on Crazy Climber hardware, possibly despite the name "Crazy Kong"</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/ckong.png</image>
+		<video>./snap/ckong.mp4</video>
+		<marquee>./wheel/ckong.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Falcon</developer>
+		<publisher>Kyoei / Falcon</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8D86398835C5D14A1DDD65BCB3EE6259</cheevosHash>
 	</game>
 </gameList>

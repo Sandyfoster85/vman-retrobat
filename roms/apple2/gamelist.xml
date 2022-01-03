@@ -13286,25 +13286,6 @@ Originally released for Apple II home computers, Choplifter! was later ported to
 		<md5>844c9c845381faa92482cc56fc8ca9f4</md5>
 		<lang>en</lang>
 	</game>
-	<game id="52598" source="ScreenScraper.fr">
-		<path>./Death Sword (19xx)(Palace).dsk</path>
-		<name>Death Sword</name>
-		<desc>The evil magician Drax is terrorizing the jeweled city and cast a spell over the beautiful princess Marina who is forced to obey him. From the lands to the north, a hero is sent to help the city and free the princess. He is Gorth, the strongest of the barbarian warriors. With his sword in hand, he has to beat eight of Drax's best warriors and at last the magician himself. He will fight them in the woods, on the mountaintop, in the dungeon... finally reaching Drax's palace itself.
-
-This is essentially a one- or two-player fighting game where you control a big barbarian and fight another player or a computer AI.  There are several kinds of hits, and some hits take off half a point while others take off a whole point. Each player has six of these "power points". They also have a special hard to perform "death sword" which decapitates your opponent, killing him with one fell swoop.</desc>
-		<image>./mixart/Death Sword (19xx)(Palace).png</image>
-		<video>./snap/Death Sword (19xx)(Palace)-video.mp4</video>
-		<marquee>./wheel/Death Sword (19xx)(Palace)-marquee.png</marquee>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Palace</developer>
-		<publisher>Epyx</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<crc32>8ECE6BD5</crc32>
-		<md5>641c10fdf936cff316cea7bcd3b18314</md5>
-		<lang>en</lang>
-	</game>
 	<game id="53075" source="ScreenScraper.fr">
 		<path>./Goonies, The (19xx)(Datasoft)[cr].dsk</path>
 		<name>The Goonies</name>
@@ -13575,6 +13556,25 @@ The Xbox Live version offers competitive or co-op play to go for the highest sco
 		<name>Wizardry Scenary Editor (19xx)(-)</name>
 		<hidden>true</hidden>
 	</game>
+	<game id="52598" source="ScreenScraper.fr">
+		<path>./Death Sword (19xx)(Palace).dsk</path>
+		<name>Death Sword</name>
+		<desc>The evil magician Drax is terrorizing the jeweled city and cast a spell over the beautiful princess Marina who is forced to obey him. From the lands to the north, a hero is sent to help the city and free the princess. He is Gorth, the strongest of the barbarian warriors. With his sword in hand, he has to beat eight of Drax's best warriors and at last the magician himself. He will fight them in the woods, on the mountaintop, in the dungeon... finally reaching Drax's palace itself.
+
+This is essentially a one- or two-player fighting game where you control a big barbarian and fight another player or a computer AI.  There are several kinds of hits, and some hits take off half a point while others take off a whole point. Each player has six of these "power points". They also have a special hard to perform "death sword" which decapitates your opponent, killing him with one fell swoop.</desc>
+		<image>./mixart/Death Sword (19xx)(Palace).png</image>
+		<video>./snap/Death Sword (19xx)(Palace)-video.mp4</video>
+		<marquee>./wheel/Death Sword (19xx)(Palace)-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Palace</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<crc32>8ECE6BD5</crc32>
+		<md5>641c10fdf936cff316cea7bcd3b18314</md5>
+		<lang>en</lang>
+	</game>
 	<game id="52211" source="ScreenScraper.fr">
 		<path>./A-E (1982)(Broderbund)(Disk 1 of 1 Side A)[cr Black Bag].dsk</path>
 		<name>A-E</name>
@@ -13586,6 +13586,7 @@ The Xbox Live version offers competitive or co-op play to go for the highest sco
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 		<genreid>260</genreid>
 	</game>
 	<game id="52233" source="ScreenScraper.fr">
@@ -13602,6 +13603,7 @@ As in the wacky movie, your goal here is ultimately to overcome a potentially pl
 		<genre>Adventure / Text-Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 		<genreid>513</genreid>
 	</game>
 </gameList>

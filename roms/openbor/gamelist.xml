@@ -916,15 +916,6 @@
 		<marquee>./wheel/MixMasters.png</marquee>
 		<video>./snap/MixMasters.mp4</video>
 	</game>
-	<game id="192345" source="ScreenScraper.fr">
-		<path>./Mortal Kombat - The Chosen One.pak</path>
-		<name>Mortal Kombat - The Chosen One</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Mortal Kombat - The Chosen One.png</image>
-		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
-		<video>./snap/Mortal Kombat - The Chosen One.mp4</video>
-	</game>
 	<game id="191472" source="ScreenScraper.fr">
 		<path>./Mortal Kombat Adventure.pak</path>
 		<name>Mortal Kombat Adventure</name>
@@ -3223,22 +3214,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The City of Kaos.pak</path>
-		<name>The City of Kaos</name>
-		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
-		<image>./mixart/The City of Kaos.png</image>
-		<video>./snap/The City of Kaos.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./A Tale of Vengeance.pak</path>
 		<name>A Tale of Vengeance</name>
 		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
@@ -3844,7 +3819,32 @@
 		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
 		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
 		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="192345" source="ScreenScraper.fr">
+		<path>./Mortal Kombat - The Chosen One.pak</path>
+		<name>Mortal Kombat - The Chosen One</name>
+		<image>./mixart/Mortal Kombat - The Chosen One.png</image>
+		<video>./snap/Mortal Kombat - The Chosen One.mp4</video>
+		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
+		<rating>4</rating>
 		<releasedate></releasedate>
+	</game>
+	<game>
+		<path>./The City of Kaos.pak</path>
+		<name>The City of Kaos</name>
+		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
+		<image>./mixart/The City of Kaos.png</image>
+		<video>./snap/The City of Kaos.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

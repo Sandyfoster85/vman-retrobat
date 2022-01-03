@@ -211,20 +211,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Transformers.parrot</path>
-		<name>Transformers - Human Alliance</name>
-		<desc>Sega's action adventure game, TRANSFORMERS Human Alliance, partners players with one of three of the movie's stars, Optimus Prime, Bumblebee or Sideswipe. Players must battle their way across America, Africa and Europe destroying the Decepticons before they find the All Spark, a material capable of bringing any mechanical or electronic object to life.</desc>
-		<image>./mixart/Transformers - Human Alliance.png</image>
-		<video>./snap/Transformers - Human Alliance.mp4</video>
-		<marquee>./wheel/Transformers - Human Alliance.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20151201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Nameco</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./abc.parrot</path>
 		<name>After Burner Climax</name>
 		<desc>After Burner Climax is a sequel to the long-running After Burner series. Just like the previous games players command an aircraft from a third-person view, engaging enemies, dodging enemy fire and rockets and navigating through canyons and narrow passages. Gameplay requires quick reflexes and is arcade-like in design. The iconic F-14 Super Tomcat of the previous games has been replaced by a F-14D Super Tomcat with the addition of two new aircraft, F/A-18E Super Hornet and F-15E Strike Eagle. In the standard EX arcade mode there is a branching mission path with various objectives. Sometimes enemies need to be engaged, while other times friendly fighters help along, stealth must be used, or a specific target needs to be pursued and taken out. There are two main weapons: regular cannon fire for close distances and rockets that can only be used when they are locked on. There is also a Climax gauge that can be activated when it is full.</desc>
@@ -660,5 +646,19 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Transformers.parrot</path>
+		<name>Transformers - Human Alliance</name>
+		<desc>Sega's action adventure game, TRANSFORMERS Human Alliance, partners players with one of three of the movie's stars, Optimus Prime, Bumblebee or Sideswipe. Players must battle their way across America, Africa and Europe destroying the Decepticons before they find the All Spark, a material capable of bringing any mechanical or electronic object to life.</desc>
+		<image>./mixart/Transformers - Human Alliance.png</image>
+		<video>./snap/Transformers - Human Alliance.mp4</video>
+		<marquee>./wheel/Transformers - Human Alliance.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nameco</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
 	</game>
 </gameList>

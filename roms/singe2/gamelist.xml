@@ -323,22 +323,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Maddog McCree.cmd</path>
-		<name>Maddog McCree</name>
-		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
-		<image>./mixart/Maddog McCree.png</image>
-		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Maddog McCree.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Rescue of Pops Ghostly.cmd</path>
 		<name>Rescue of Pops Ghostly, The</name>
 		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
@@ -474,6 +458,22 @@
 		<publisher>Mega LD</publisher>
 		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maddog McCree.cmd</path>
+		<name>Maddog McCree</name>
+		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
+		<image>./mixart/Maddog McCree.png</image>
+		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Maddog McCree.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

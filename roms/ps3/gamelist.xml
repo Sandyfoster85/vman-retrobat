@@ -1219,21 +1219,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Prince of Persia Classic.m3u</path>
-		<name>Prince of Persia Classic</name>
-		<desc>The original action adventure game comes to the PlayStation®Network! Rescue the Princess from the clutches of the evil Jaffar in a re-make of the original 1989 action-adventure that redefined the genre. All set for the HD-era, this enhanced and updated version features new character designs, animations, visuals, and lighting effects, all brought to you in glorious 1080p!</desc>
-		<image>./mixart/Prince of Persia Classic.png</image>
-		<video>./snap/Prince of Persia Classic.mp4</video>
-		<marquee>./wheel/Prince of Persia Classic.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Rock of Ages.m3u</path>
 		<name>Rock of Ages</name>
 		<desc>Rock of Ages is a tower defense racing video game developed by ACE Team and published by Atlus USA. It uses by the Unreal Engine 3. The game was released for Xbox 360 in August 2011, for Microsoft Windows in September 2011, and for PlayStation 3 in May 2012.</desc>
@@ -1334,21 +1319,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<developer>Codemasters</developer>
 		<publisher>Codemasters</publisher>
 		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Super StarDust HD.m3u</path>
-		<name>Super Stardust HD</name>
-		<desc>Super Stardust is an asteroid arcade shooter viewed from above. Super Stardust HD for the PlayStation 3 system is a fully updated version of the classic game Stardust. Your mission is simple: destroy everything in sight! Visit different planets and fend off giant asteroids and waves of enemies by utilizing three upgradeable weapons to save your home solar system from total annihilation. With five highly detailed 3D planets to save, hordes of enemies and asteroids to destroy, and various game play modes, Super Stardust HD presents super intense action.</desc>
-		<image>./mixart/Super StarDust HD.png</image>
-		<video>./snap/Super StarDust HD.mp4</video>
-		<marquee>./wheel/Super StarDust HD.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071125T000000</releasedate>
-		<developer>Housemarque</developer>
-		<publisher>Sony</publisher>
-		<genre>Shoot'em Up-Action</genre>
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
@@ -1778,5 +1748,35 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Prince of Persia Classic.m3u</path>
+		<name>Prince of Persia Classic</name>
+		<desc>The original action adventure game comes to the PlayStation®Network! Rescue the Princess from the clutches of the evil Jaffar in a re-make of the original 1989 action-adventure that redefined the genre. All set for the HD-era, this enhanced and updated version features new character designs, animations, visuals, and lighting effects, all brought to you in glorious 1080p!</desc>
+		<image>./mixart/Prince of Persia Classic.png</image>
+		<video>./snap/Prince of Persia Classic.mp4</video>
+		<marquee>./wheel/Prince of Persia Classic.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super StarDust HD.m3u</path>
+		<name>Super Stardust HD</name>
+		<desc>Super Stardust is an asteroid arcade shooter viewed from above. Super Stardust HD for the PlayStation 3 system is a fully updated version of the classic game Stardust. Your mission is simple: destroy everything in sight! Visit different planets and fend off giant asteroids and waves of enemies by utilizing three upgradeable weapons to save your home solar system from total annihilation. With five highly detailed 3D planets to save, hordes of enemies and asteroids to destroy, and various game play modes, Super Stardust HD presents super intense action.</desc>
+		<image>./mixart/Super StarDust HD.png</image>
+		<video>./snap/Super StarDust HD.mp4</video>
+		<marquee>./wheel/Super StarDust HD.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071125T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

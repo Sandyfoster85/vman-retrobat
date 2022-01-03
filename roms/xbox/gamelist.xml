@@ -1298,22 +1298,6 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game id="14614" source="ScreenScraper.fr">
-		<path>./Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
-		<name>Halo 2</name>
-		<desc>Halo 2 is the sequel to the highly successful and critically acclaimed Halo®: Combat Evolved. In Halo 2, the saga continues as Master Chief?a genetically enhanced super-soldier?is the only thing standing between the relentless Covenant and the destruction of all humankind.</desc>
-		<image>./mixart/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</image>
-		<video>./snap/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).mp4</video>
-		<marquee>./wheel/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041109T000000</releasedate>
-		<developer>Bungie</developer>
-		<publisher>Microsoft Game Studios</publisher>
-		<genre>Shooter-Shooter / 1st person-Action</genre>
-		<players>2-16</players>
-		<favorite>true</favorite>
-		<genreid>259</genreid>
-	</game>
 	<game>
 		<path>./Tony Hawk's Pro Skater 2X.iso</path>
 		<name>Tony Hawk's Pro Skater 2X</name>
@@ -1394,20 +1378,6 @@ Given its rule-bending recipe, Soccer Slam is an exciting and original game, in 
 		<players>4</players>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
-	</game>
-	<game id="15586">
-		<path>./Triple Play 2002 (USA).iso</path>
-		<name>Triple Play 2002</name>
-		<desc>Step up to the plate and swing for the fences with Triple Play 2002 for the Xbox. The action on the field comes to life with real player models and dramatic out-of-play sequences, giving players the chance to experience big game moments such as a game-winning hit or a key strikeout.</desc>
-		<image>./mixart/Triple Play 2002 (USA).png</image>
-		<video>./snap/Triple Play 2002 (USA).mp4</video>
-		<marquee>./wheel/Triple Play 2002 (USA).png</marquee>
-		<releasedate>20020318T000000</releasedate>
-		<developer>Pandemic Studios</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Genma Onimusha.iso</path>
@@ -1517,20 +1487,6 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game id="15305">
-		<path>./Alter Echo.iso</path>
-		<name>Alter Echo</name>
-		<desc>In Alter Echo, interstellar corporations mine a new organic skin called Plast and use it to make biomachines. Nevin, who can physically alter Plast and time itself, discovers that illegal experiments have infected Plast with human consciousness, and now he must fight for survival against a world gone mad. As you battle wave after wave of biomechanical enemies, you can morph between Melee, Gun, and Stealth modes. A Time Dilation system allows players to freeze the action and cue up an unstoppable flurry of moves and special attacks.</desc>
-		<image>./mixart/Alter Echo.png</image>
-		<video>./snap/Alter Echo.mp4</video>
-		<marquee>./wheel/Alter Echo.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20030819T000000</releasedate>
-		<developer>Outrage Entertainment</developer>
-		<publisher>THQ</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-	</game>
 	<game>
 		<path>./Amped 2.iso</path>
 		<name>Amped 2</name>
@@ -1562,21 +1518,6 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<players>1</players>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
-	</game>
-	<game id="15249" source="ScreenScraper.fr">
-		<path>./Armed and Dangerous.iso</path>
-		<name>Armed And Dangerous</name>
-		<desc>Take a band of gun-toting rebels - a robot, a madman, a mole and a criminal mastermind. Put them in a vividly stunning fantasy realm. Then give them an impossible mission - pulling off the biggest heist of all time in the middle of a war. All you have to do is battle your way through dastardly enemies, giant war machines and an army of psychopathic robots. But don't worry; you have plenty of ammo and absolutely no common sense. Victory is yours in 12,000 bullets or less!</desc>
-		<image>./mixart/Armed and Dangerous.png</image>
-		<video>./snap/Armed and Dangerous.mp4</video>
-		<marquee>./wheel/Armed and Dangerous.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040227T000000</releasedate>
-		<developer>Planet Moon</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<genreid>256</genreid>
 	</game>
 	<game>
 		<path>./Battlestar Galactica.iso</path>
@@ -1718,5 +1659,70 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<genre>Fight</genre>
 		<players>4</players>
 		<genreid>262</genreid>
+	</game>
+	<game id="14614" source="ScreenScraper.fr">
+		<path>./Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
+		<name>Halo 2</name>
+		<desc>Halo 2 is the sequel to the highly successful and critically acclaimed Halo®: Combat Evolved. In Halo 2, the saga continues as Master Chief?a genetically enhanced super-soldier?is the only thing standing between the relentless Covenant and the destruction of all humankind.</desc>
+		<image>./mixart/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</image>
+		<video>./snap/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).mp4</video>
+		<marquee>./wheel/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Game Studios</publisher>
+		<genre>Shooter-Shooter / 1st person-Action</genre>
+		<players>2-16</players>
+		<favorite>true</favorite>
+		<lang>de,en,jp,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>259</genreid>
+	</game>
+	<game id="15586">
+		<path>./Triple Play 2002 (USA).iso</path>
+		<name>Triple Play 2002</name>
+		<desc>Step up to the plate and swing for the fences with Triple Play 2002 for the Xbox. The action on the field comes to life with real player models and dramatic out-of-play sequences, giving players the chance to experience big game moments such as a game-winning hit or a key strikeout.</desc>
+		<image>./mixart/Triple Play 2002 (USA).png</image>
+		<video>./snap/Triple Play 2002 (USA).mp4</video>
+		<marquee>./wheel/Triple Play 2002 (USA).png</marquee>
+		<releasedate>20020318T000000</releasedate>
+		<developer>Pandemic Studios</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="15305">
+		<path>./Alter Echo.iso</path>
+		<name>Alter Echo</name>
+		<desc>In Alter Echo, interstellar corporations mine a new organic skin called Plast and use it to make biomachines. Nevin, who can physically alter Plast and time itself, discovers that illegal experiments have infected Plast with human consciousness, and now he must fight for survival against a world gone mad. As you battle wave after wave of biomechanical enemies, you can morph between Melee, Gun, and Stealth modes. A Time Dilation system allows players to freeze the action and cue up an unstoppable flurry of moves and special attacks.</desc>
+		<image>./mixart/Alter Echo.png</image>
+		<video>./snap/Alter Echo.mp4</video>
+		<marquee>./wheel/Alter Echo.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20030819T000000</releasedate>
+		<developer>Outrage Entertainment</developer>
+		<publisher>THQ</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="15249" source="ScreenScraper.fr">
+		<path>./Armed and Dangerous.iso</path>
+		<name>Armed And Dangerous</name>
+		<desc>Take a band of gun-toting rebels - a robot, a madman, a mole and a criminal mastermind. Put them in a vividly stunning fantasy realm. Then give them an impossible mission - pulling off the biggest heist of all time in the middle of a war. All you have to do is battle your way through dastardly enemies, giant war machines and an army of psychopathic robots. But don't worry; you have plenty of ammo and absolutely no common sense. Victory is yours in 12,000 bullets or less!</desc>
+		<image>./mixart/Armed and Dangerous.png</image>
+		<video>./snap/Armed and Dangerous.mp4</video>
+		<marquee>./wheel/Armed and Dangerous.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040227T000000</releasedate>
+		<developer>Planet Moon</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
 	</game>
 </gameList>
