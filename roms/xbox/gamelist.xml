@@ -1242,29 +1242,6 @@ Team Ninja continued to update the game after its release: two Hurricane Packs w
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Panzer Dragoon Orta.iso</path>
-		<name>Panzer Dragoon Orta</name>
-		<desc>The fourth installment of the Panzer Dragoon series has you playing Orta, a young girl who has been imprisoned by the Empire. Under a wave of attack, the prison camp is broken through by a mysterious dragon, and Orta takes it upon herself to ride the dragon, and destroy the Empire once and for all. Along the way, she will also discover her own destiny, and the mystery surrounding her new friend.
-
-Simply put, you have limited control of the dragon for most of the game, as your trigger finger will be shooting non-stop at the enemies that fly around the area. Orta will be your main source of fire-power when you simply press the fire button, but by pressing and holding, the aim cursor will change, allowing you to fire a burst of power from the dragon at whatever the cursor aims at.
-
-The dragon itself can change into three forms at a press of a button. Each form has a different style of attack and power ability.
-
-A port of the original Panzer Dragoon is included.</desc>
-		<image>./mixart/Panzer Dragoon Orta.png</image>
-		<video>./snap/Panzer Dragoon Orta.mp4</video>
-		<marquee>./wheel/Panzer Dragoon Orta.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20030112T000000</releasedate>
-		<developer>Smilebit</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
 	<game id="14796" source="ScreenScraper.fr">
 		<path>./Sega GT 2002 (USA) (En Ja).iso</path>
 		<name>Sega Gt 2002</name>
@@ -1724,5 +1701,28 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<players>1</players>
 		<lang>en</lang>
 		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Panzer Dragoon Orta.iso</path>
+		<name>Panzer Dragoon Orta</name>
+		<desc>The fourth installment of the Panzer Dragoon series has you playing Orta, a young girl who has been imprisoned by the Empire. Under a wave of attack, the prison camp is broken through by a mysterious dragon, and Orta takes it upon herself to ride the dragon, and destroy the Empire once and for all. Along the way, she will also discover her own destiny, and the mystery surrounding her new friend.
+
+Simply put, you have limited control of the dragon for most of the game, as your trigger finger will be shooting non-stop at the enemies that fly around the area. Orta will be your main source of fire-power when you simply press the fire button, but by pressing and holding, the aim cursor will change, allowing you to fire a burst of power from the dragon at whatever the cursor aims at.
+
+The dragon itself can change into three forms at a press of a button. Each form has a different style of attack and power ability.
+
+A port of the original Panzer Dragoon is included.</desc>
+		<image>./mixart/Panzer Dragoon Orta.png</image>
+		<video>./snap/Panzer Dragoon Orta.mp4</video>
+		<marquee>./wheel/Panzer Dragoon Orta.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030112T000000</releasedate>
+		<developer>Smilebit</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

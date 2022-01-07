@@ -161,21 +161,6 @@
 		<players>1</players>
 		<genreid>1537</genreid>
 	</game>
-	<game>
-		<path>./Daytona USA 2 Power Edition.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<image>./mixart/Daytona USA 2 Power Edition.png</image>
-		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
-		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37522" source="ScreenScraper.fr">
 		<path>./Spike Out Final Edition.zip</path>
 		<name>Spikeout Final Edition</name>
@@ -357,6 +342,21 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<publisher>Sega</publisher>
 		<genre>Shoot'em Up</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona USA 2 Power Edition.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./mixart/Daytona USA 2 Power Edition.png</image>
+		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
+		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

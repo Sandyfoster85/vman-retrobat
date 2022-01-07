@@ -17754,24 +17754,6 @@ The game ends when the player has recovered the Jewel of Seven Colours, saved th
 		<cheevosHash>41DA1494BB2F6B0778DD0966638ED2AA</cheevosHash>
 	</game>
 	<game>
-		<path>./arcadecl.zip</path>
-		<name>Arcade Classics</name>
-		<desc>2 games in one means double the fun.</desc>
-		<emulator>angle</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/arcadecl.png</image>
-		<video>./snap/arcadecl.mp4</video>
-		<marquee>./wheel/arcadecl.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C17189199595DBEC7E5989549B7BD220</cheevosHash>
-	</game>
-	<game>
 		<path>./arcadian.zip</path>
 		<name>Arcadia</name>
 		<desc>Arcadia is a vertical shooter, developed and published by NMK, which was released in Japan in 1994. Nihon Maicom Kaihatsu, simply known as NMK, is a defunct Japanese game developer. The game it's been created by some of the programmers of "Thunder Dragon 2"</desc>
@@ -67850,24 +67832,6 @@ The Enemies consist of a infinitely respawning smaller hordes of moving enemies,
 		<cheevosHash>0A9D9AD46EC7575C4FC3BD8B4E823715</cheevosHash>
 	</game>
 	<game>
-		<path>./vamphalf.zip</path>
-		<name>Vamf x1/2</name>
-		<desc>On a peaceful day, some strange energy suddenly emanates from the sky. All of a sudden, people become restless and the neighborhood becomes desolate.  Four boys, O'Hara from the wolf clan, Kang Chihwan from the bear clan, Sonic from the leopard clan, and Wang Kanghan from the human clan think what has happened is strange and set out on a journey to find out just what is going on.</desc>
-		<image>./mixart/vamphalf.png</image>
-		<video>./snap/vamphalf.mp4</video>
-		<marquee>./wheel/vamphalf.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Danbi</developer>
-		<publisher>Danbi</publisher>
-		<genre>Beat 'Em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CA996C8E06014E5386680A696A483199</cheevosHash>
-	</game>
-	<game>
 		<path>./vandyke.zip</path>
 		<name>Vandyke</name>
 		<desc>Vandyke (c) 1990 UPL.  - TECHNICAL -  Game ID : UPL-90064  Main CPU : 68000 (@ 10 Mhz) Sound Chips : YM2203 (@ 1.5 Mhz), (2x) OKI6295 (@ 24.242 Khz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in February 1991.  Also licensed t</desc>
@@ -72862,5 +72826,41 @@ The game's stages, in addition to having their own unique visual theme, often di
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8D86398835C5D14A1DDD65BCB3EE6259</cheevosHash>
+	</game>
+	<game>
+		<path>./arcadecl.zip</path>
+		<name>Arcade Classics</name>
+		<desc>2 games in one means double the fun.</desc>
+		<emulator>angle</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/arcadecl.png</image>
+		<video>./snap/arcadecl.mp4</video>
+		<marquee>./wheel/arcadecl.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C17189199595DBEC7E5989549B7BD220</cheevosHash>
+	</game>
+	<game>
+		<path>./vamphalf.zip</path>
+		<name>Vamf x1/2</name>
+		<desc>On a peaceful day, some strange energy suddenly emanates from the sky. All of a sudden, people become restless and the neighborhood becomes desolate.  Four boys, O'Hara from the wolf clan, Kang Chihwan from the bear clan, Sonic from the leopard clan, and Wang Kanghan from the human clan think what has happened is strange and set out on a journey to find out just what is going on.</desc>
+		<image>./mixart/vamphalf.png</image>
+		<video>./snap/vamphalf.mp4</video>
+		<marquee>./wheel/vamphalf.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Danbi</developer>
+		<publisher>Danbi</publisher>
+		<genre>Beat 'Em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CA996C8E06014E5386680A696A483199</cheevosHash>
 	</game>
 </gameList>

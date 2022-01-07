@@ -3037,20 +3037,6 @@ The tracks are set in canals of major cities, like London, Amsterdam and New Yor
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Daytona USA (USA).chd</path>
-		<name>Daytona USA</name>
-		<desc>Just like the arcade version, pick one of three tracks (beginner, advanced, or expert) and either automatic or standard transmission. A pounding music soundtrack kicks in as you are slapped into your car to await the green light. The game offers both a traditional arcade mode with checkpoint time splits and a special PC mode that pits you against the other cars over different race distances. The PC mode also offers more car choices, with a variety of speed, acceleration, and grip characteristics. It even rewards successful players (meaning those finishing first, second, or third in the difficult setting) by offering up to ten more upgraded cars to drive. Once underway, the goal is to work from last to first as smoothly and quickly as possible</desc>
-		<image>./mixart/Daytona USA (USA).png</image>
-		<video>./snap/Daytona USA (USA).mp4</video>
-		<marquee>./wheel/Daytona USA (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20010314T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-	</game>
-	<game>
 		<path>./Biohazard - Code - Veronica - Kanzenban (Japan) (Translated En).m3u</path>
 		<name>Biohazard Code: Veronica - Kanzenban</name>
 		<desc>Experience another terrifying chapter in the Resident Evil series with Resident Evil: Code Veronica X. After narrowly surviving the horrific onslaught in Raccoon City, Claire Redfield now seeks clues in search of her missing brother, Chris. Join Claire as she uncovers the insidious activities of the Umbrella Corporation. Avoid or eliminate flesh-eating zombies and horrific beasts. Use a variety weapons, items, and clues scattered around Raccoon City to help you survive the nightmare and make sure the virus doesn't spread any farther.</desc>
@@ -4785,5 +4771,19 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Daytona USA (USA).chd</path>
+		<name>Daytona USA</name>
+		<desc>Just like the arcade version, pick one of three tracks (beginner, advanced, or expert) and either automatic or standard transmission. A pounding music soundtrack kicks in as you are slapped into your car to await the green light. The game offers both a traditional arcade mode with checkpoint time splits and a special PC mode that pits you against the other cars over different race distances. The PC mode also offers more car choices, with a variety of speed, acceleration, and grip characteristics. It even rewards successful players (meaning those finishing first, second, or third in the difficult setting) by offering up to ten more upgraded cars to drive. Once underway, the goal is to work from last to first as smoothly and quickly as possible</desc>
+		<image>./mixart/Daytona USA (USA).png</image>
+		<video>./snap/Daytona USA (USA).mp4</video>
+		<marquee>./wheel/Daytona USA (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010314T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
 	</game>
 </gameList>

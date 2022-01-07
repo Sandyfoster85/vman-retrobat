@@ -1786,18 +1786,6 @@ You get a set amount of nitro boost to use during each race, although bonus nitr
 		<cheevosId>502</cheevosId>
 	</game>
 	<game source="ScreenScraper">
-		<path>./Top Gear Horizon Chase (MSU-1).sfc</path>
-		<name>Top Gear Horizon Chase (MSU-1)</name>
-		<image>./mixart/Top Gear Horizon Chase (MSU-1).png</image>
-		<video>./snap/Top Gear Horizon Chase (MSU-1).mp4</video>
-		<marquee>./wheel/Top Gear Horizon Chase (MSU-1).png</marquee>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<lang>en</lang>
-		<cheevosHash>B1BDC9CAF5BB8191EBAF3F2F42410969</cheevosHash>
-		<cheevosId>502</cheevosId>
-	</game>
-	<game source="ScreenScraper">
 		<path>./Top Gear Remastered (MSU-1).sfc</path>
 		<name>Top Gear Remastered (MSU-1)</name>
 		<image>./mixart/Top Gear Remastered (MSU-1).png</image>
@@ -2018,5 +2006,17 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>cn</region>
 		<cheevosHash>F8DC16289A2AA1C6144B841AD505164C</cheevosHash>
 		<cheevosId>473</cheevosId>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Top Gear Horizon Chase (MSU-1).sfc</path>
+		<name>Top Gear Horizon Chase (MSU-1)</name>
+		<image>./mixart/Top Gear Horizon Chase (MSU-1).png</image>
+		<video>./snap/Top Gear Horizon Chase (MSU-1).mp4</video>
+		<marquee>./wheel/Top Gear Horizon Chase (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>B1BDC9CAF5BB8191EBAF3F2F42410969</cheevosHash>
+		<cheevosId>502</cheevosId>
 	</game>
 </gameList>
