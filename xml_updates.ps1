@@ -37,6 +37,12 @@ $es_settings.SelectSingleNode("//string[@name='amigacd32.zoom_mode']")
 $amigacd32_zoom = $es_settings.SelectSingleNode("//string[@name='amigacd32.zoom_mode']")
 $amigacd32_zoom.ParentNode.RemoveChild($amigacd32_zoom)
 
+# 11. 2022-01-11 - Updated description for VIC-20, Amiga and CD32
+$vic20 = $es_systems.SelectSingleNode("//system[name='c20']")
+$vic20.fullname = 'Commodore VIC-20'
+$amiga.fullname = 'Commodore Amiga'
+$amigacd32.fullname = 'Commodore Amiga CD32'
+
 $es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
