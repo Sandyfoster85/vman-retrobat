@@ -449,22 +449,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./daytona.zip</path>
-		<name>Daytona USA</name>
-		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
-		<image>./mixart/daytonat.png</image>
-		<video>./snap/daytonat.mp4</video>
-		<marquee>./wheel/daytonat.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37492" source="ScreenScraper.fr">
 		<path>./topskatr.zip</path>
 		<name>Top Skater</name>
@@ -510,5 +494,21 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<genre>Sports</genre>
 		<players>2</players>
 		<genreid>1536</genreid>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

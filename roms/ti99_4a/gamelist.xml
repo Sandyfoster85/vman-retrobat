@@ -50,13 +50,6 @@
 		<video>./snap/Burgertime.mp4</video>
 	</game>
 	<game>
-		<path>./carwars.zip</path>
-		<name>Car Wars</name>
-		<image>./mixart/Car Wars.png</image>
-		<marquee>./wheel/Car Wars.png</marquee>
-		<video>./snap/Car Wars.mp4</video>
-	</game>
-	<game>
 		<path>./cardshp.zip</path>
 		<name>Card Sharp</name>
 		<image>./mixart/Card Sharp.png</image>
@@ -631,6 +624,13 @@
 		<marquee>./wheel/Rabbit Trail.png</marquee>
 	</game>
 	<game>
+		<path>./carwars.zip</path>
+		<name>Car Wars</name>
+		<image>./mixart/Car Wars.png</image>
+		<video>./snap/Car Wars.mp4</video>
+		<marquee>./wheel/Car Wars.png</marquee>
+	</game>
+	<game>
 		<path>./parsec.zip</path>
 		<name>Parsec</name>
 		<image>./mixart/Parsec.png</image>
@@ -639,5 +639,6 @@
 		<rating>0.8</rating>
 		<releasedate>19700101T000000</releasedate>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

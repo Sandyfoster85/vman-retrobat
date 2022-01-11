@@ -916,15 +916,6 @@
 		<marquee>./wheel/MixMasters.png</marquee>
 		<video>./snap/MixMasters.mp4</video>
 	</game>
-	<game id="192345" source="ScreenScraper.fr">
-		<path>./Mortal Kombat - The Chosen One.pak</path>
-		<name>Mortal Kombat - The Chosen One</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Mortal Kombat - The Chosen One.png</image>
-		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
-		<video>./snap/Mortal Kombat - The Chosen One.mp4</video>
-	</game>
 	<game id="191472" source="ScreenScraper.fr">
 		<path>./Mortal Kombat Adventure.pak</path>
 		<name>Mortal Kombat Adventure</name>
@@ -3097,22 +3088,6 @@
 		<video>./snap/Legend of the Double Dragon v1.5 Cinematic Edition.mp4</video>
 	</game>
 	<game>
-		<path>./HD_Monster_Girl_Dimensions.pak</path>
-		<name>Monster Girl Dimensions</name>
-		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
-		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
-		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ninja.pak</path>
 		<name>Ninja</name>
 		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
@@ -3239,22 +3214,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The City of Kaos.pak</path>
-		<name>The City of Kaos</name>
-		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
-		<image>./mixart/The City of Kaos.png</image>
-		<video>./snap/The City of Kaos.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./A Tale of Vengeance.pak</path>
 		<name>A Tale of Vengeance</name>
 		<desc>A 2D fighting forces with all great characeters from A Tale of Vengeance</desc>
@@ -3313,33 +3272,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Teenage Mutant Ninja Turtles.pak</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
-		<rating>4</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Karate Kid.pak</path>
-		<name>Super Karate Kid</name>
-		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
-		<image>./mixart/Super Karate Kid.png</image>
-		<video>./snap/Super Karate Kid.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Battletoads Double Dragon - The T.Bird Mission.PAK</path>
 		<name>Battletoads Double Dragon - The T.bird Mission</name>
 		<desc>This is a new part of a famous crossover with the participation of characters from the game series Battletoads and Double Dragon!nnnnThree human-like toads, Rash, Zitz, Pimple and dragon brothers Billy and Jimmy Lee must save professor T. Bird in their new adventures. He is a teacher and a master of the toads, who was kidnapped by the Queen of Dark, who rules Ragnarok planet. It is going to be a really serious battle, toads and dragons will have to fight against numerous enemies and bosses, which are sent by the Queen of Dark. Moreover, evil Queen called Shadow Boss to help her, they act as one team. Choose one of three toads or one of two dragons and conquer the space with the help of your fists!nnThere are 9 different missions in this game, each of them is divided into several parts.</desc>
@@ -3349,22 +3281,6 @@
 		<rating>0.8</rating>
 		<releasedate>20100101T000000</releasedate>
 		<developer>Madgear</developer>
-	</game>
-	<game>
-		<path>./Retro Gamer Adventure.pak</path>
-		<name>Retro Gamer Adventure 2.0</name>
-		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
-		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
-		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
@@ -3846,6 +3762,90 @@
 		<marquee>./wheel/Double Dragon SNK Final Edition.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retro Gamer Adventure.pak</path>
+		<name>Retro Gamer Adventure 2.0</name>
+		<desc>A 2D fighting forces with all great characeters Retro Glory Day's</desc>
+		<image>./mixart/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].png</image>
+		<video>./snap/Retro Gamer Adventure [Ver. 1.0.3][v.3.0 Build 405X].mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HD_Monster_Girl_Dimensions.pak</path>
+		<name>Monster Girl Dimensions</name>
+		<desc>A 2D fighting forces with all great characeters from Bad School Japan Anime</desc>
+		<image>./mixart/HD_Monster_Girl_Dimensions.png</image>
+		<video>./snap/HD_Monster_Girl_Dimensions.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Karate Kid.pak</path>
+		<name>Super Karate Kid</name>
+		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
+		<image>./mixart/Super Karate Kid.png</image>
+		<video>./snap/Super Karate Kid.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles.pak</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles.png</marquee>
+		<rating>4</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="192345" source="ScreenScraper.fr">
+		<path>./Mortal Kombat - The Chosen One.pak</path>
+		<name>Mortal Kombat - The Chosen One</name>
+		<image>./mixart/Mortal Kombat - The Chosen One.png</image>
+		<video>./snap/Mortal Kombat - The Chosen One.mp4</video>
+		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
+	</game>
+	<game>
+		<path>./The City of Kaos.pak</path>
+		<name>The City of Kaos</name>
+		<desc>A 2D fighting forces with all great characeters from SNK.</desc>
+		<image>./mixart/The City of Kaos.png</image>
+		<video>./snap/The City of Kaos.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

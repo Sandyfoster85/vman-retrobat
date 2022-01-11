@@ -876,20 +876,6 @@ For series veterans, Classic mode offers the traditional Etrian Odyssey gameplay
 		<marquee>./wheel/SpiderMan Edge of Time (Usa).png</marquee>
 		<video>./snap/SpiderMan Edge of Time (Usa).mp4</video>
 	</game>
-	<game id="11200" source="ScreenScraper.fr">
-		<path>./Tom Clancys Ghost Recon - Shadow Wars (USA).3ds</path>
-		<name>Tom Clancy's Ghost Recon - Shadow Wars</name>
-		<desc>Shadow Wars involves a behind-the-scenes plot by "ultranationalist" conspirators to revert Russia back to the days of the Iron Curtain, Communism, and the Cold War. A large part of the plot involves the Russian conspirators meddling in the affairs of neighboring countries, wherein the Ghost Recon team is dispatched to clear things up. There are six characters acting as individual units similar to Nintendo's own Fire Emblem series, each with special abilities. The six classes are Commando, Gunner, Sniper, Recon, Engineer, and Medic. Players must learn to use each strategically to survive missions. Missions also tend to have multiple objectives, and difficulties may be selected prior to engaging each stage.</desc>
-		<rating>0.8</rating>
-		<releasedate>20110327T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Strategy</genre>
-		<image>./mixart/Tom Clancys Ghost Recon - Shadow Wars (USA).png</image>
-		<marquee>./wheel/Tom Clancys Ghost Recon - Shadow Wars (USA).png</marquee>
-		<video>./snap/Tom Clancys Ghost Recon - Shadow Wars (USA).mp4</video>
-		<genreid>1280</genreid>
-	</game>
 	<game id="10988" source="ScreenScraper.fr">
 		<path>./The Legend Of Zelda Majoras Mask 3D (Usa).3ds</path>
 		<name>The Legend Of Zelda Majoras Mask 3D</name>
@@ -2455,21 +2441,6 @@ Apollo also has a special talent - the ability to perceive people's nervous habi
 		<marquee>./wheel/Azure Striker Gunvolt - Striker Pack (USA).png</marquee>
 		<video>./snap/Azure Striker Gunvolt - Striker Pack (USA).mp4</video>
 	</game>
-	<game id="11252" source="ScreenScraper.fr">
-		<path>./Asphalt 3D (USA) (En,Fr,Es).3ds</path>
-		<name>Asphalt 3D</name>
-		<desc>Asphalt 3D brings all the excitement and speed of the Asphalt franchise to stereoscopic 3D, featuring more than 40 licensed vehicles, 17 exotic track locations and complete StreetPass functionality.</desc>
-		<rating>0.6</rating>
-		<releasedate>20110325T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>1-6</players>
-		<image>./mixart/Asphalt 3D (USA) (En,Fr,Es).png</image>
-		<marquee>./wheel/Asphalt 3D (USA) (En,Fr,Es).png</marquee>
-		<video>./snap/Asphalt 3D (USA) (En,Fr,Es).mp4</video>
-		<genreid>1537</genreid>
-	</game>
 	<game id="11182" source="ScreenScraper.fr">
 		<path>./Combat of Giants - Dinosaurs 3D (USA) (En,Fr,Es).3ds</path>
 		<name>Combat of Giants - Dinosaurs 3D</name>
@@ -3193,23 +3164,6 @@ On Akane's quest, she will encounter deadly ambushes, invade enemy castle roofto
 		<developer>UFO Interactive</developer>
 		<genre>Action</genre>
 	</game>
-	<game>
-		<path>./Metroid - Samus Returns (USA).3ds</path>
-		<name>Metroid : Samus Returns</name>
-		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
-The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
-		<image>./mixart/Metroid - Samus Returns (USA).png</image>
-		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
-		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20170915T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Pyramids (USA).3ds</path>
 		<name>Pyramids</name>
@@ -3257,5 +3211,51 @@ Scattered throughout the levels include coins (that add towards your score), Her
 		<players>2-8</players>
 		<favorite>true</favorite>
 		<genreid>1537</genreid>
+	</game>
+	<game id="11200" source="ScreenScraper.fr">
+		<path>./Tom Clancys Ghost Recon - Shadow Wars (USA).3ds</path>
+		<name>Tom Clancy's Ghost Recon - Shadow Wars</name>
+		<desc>Shadow Wars involves a behind-the-scenes plot by "ultranationalist" conspirators to revert Russia back to the days of the Iron Curtain, Communism, and the Cold War. A large part of the plot involves the Russian conspirators meddling in the affairs of neighboring countries, wherein the Ghost Recon team is dispatched to clear things up. There are six characters acting as individual units similar to Nintendo's own Fire Emblem series, each with special abilities. The six classes are Commando, Gunner, Sniper, Recon, Engineer, and Medic. Players must learn to use each strategically to survive missions. Missions also tend to have multiple objectives, and difficulties may be selected prior to engaging each stage.</desc>
+		<image>./mixart/Tom Clancys Ghost Recon - Shadow Wars (USA).png</image>
+		<video>./snap/Tom Clancys Ghost Recon - Shadow Wars (USA).mp4</video>
+		<marquee>./wheel/Tom Clancys Ghost Recon - Shadow Wars (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110327T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Strategy</genre>
+		<genreid>1280</genreid>
+	</game>
+	<game id="11252" source="ScreenScraper.fr">
+		<path>./Asphalt 3D (USA) (En,Fr,Es).3ds</path>
+		<name>Asphalt 3D</name>
+		<desc>Asphalt 3D brings all the excitement and speed of the Asphalt franchise to stereoscopic 3D, featuring more than 40 licensed vehicles, 17 exotic track locations and complete StreetPass functionality.</desc>
+		<image>./mixart/Asphalt 3D (USA) (En,Fr,Es).png</image>
+		<video>./snap/Asphalt 3D (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Asphalt 3D (USA) (En,Fr,Es).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110325T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>6</players>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Metroid - Samus Returns (USA).3ds</path>
+		<name>Metroid : Samus Returns</name>
+		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
+The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
+		<image>./mixart/Metroid - Samus Returns (USA).png</image>
+		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
+		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20170915T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

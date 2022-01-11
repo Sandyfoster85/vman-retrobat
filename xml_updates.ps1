@@ -14,6 +14,10 @@ $wiiu.extension = '.iso .rpx .wud .m3u .ISO .RPX .WUD .M3U .wux .WUX'
 $amiga = $es_systems.SelectSingleNode("//system[name='amiga']")
 $amiga.extension = '.zip .ZIP .hdf .HDF .uae .UAE .ipf .IPF .dms .DMS .adz .ADZ .lha .LHA .chd .CHD'
 
+# 11. 2021-11-12 - Added .chd to Amiga bundle for CD32
+$amigacd32 = $es_systems.SelectSingleNode("//system[name='amigacd32']")
+$amigacd32.extension = '.iso .cso .cue .zip .lha .ISO .CSO .CUE .ZIP .LHA .rp9 .RP9 .chd .CHD'
+
 # 10. 2021-11-09 - Improved configurations for Amiga 500/1200/CDTV
 $es_settings.SelectSingleNode("//string[@name='amiga.core']").SetAttribute("value","puae")
 $es_settings.SelectSingleNode("//string[@name='amiga.cpu_compatibility']").SetAttribute("value","exact")

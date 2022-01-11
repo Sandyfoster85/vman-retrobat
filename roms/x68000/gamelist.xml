@@ -1050,16 +1050,6 @@ A long time period passed and the dimension controlling force Doh has again come
 		<publisher>System Sacom</publisher>
 	</game>
 	<game>
-		<path>./Atomic Runner Chelnov (1993)(Dempa).m3u</path>
-		<name>Atomic Runner Chelnov</name>
-		<image>./mixart/Atomic Runner Chelnov (1993)(Dempa).png</image>
-		<video>./snap/Atomic Runner Chelnov (1993)(Dempa).mp4</video>
-		<marquee>./wheel/Atomic Runner Chelnov (1993)(Dempa).png</marquee>
-		<rating>0</rating>
-		<releasedate>19930101T000000</releasedate>
-		<publisher>Dempa</publisher>
-	</game>
-	<game>
 		<path>./Baraduke (1995)(Dempa).m3u</path>
 		<name>Baraduke</name>
 		<image>./mixart/Baraduke (1995)(Dempa).png</image>
@@ -1262,7 +1252,7 @@ An interesting feature of this game is the health system. The timer at the top o
 		<video>./snap/Akumajou Dracula.mp4</video>
 		<marquee>./wheel/Akumajou Dracula.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 	</game>
 	<game>
 		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
@@ -1283,5 +1273,15 @@ You can play as a single player or two people, taking turns (Player 2 starts the
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game>
+		<path>./Atomic Runner Chelnov (1993)(Dempa).m3u</path>
+		<name>Atomic Runner Chelnov</name>
+		<image>./mixart/Atomic Runner Chelnov (1993)(Dempa).png</image>
+		<video>./snap/Atomic Runner Chelnov (1993)(Dempa).mp4</video>
+		<marquee>./wheel/Atomic Runner Chelnov (1993)(Dempa).png</marquee>
+		<rating>0</rating>
+		<releasedate>19930101T000000</releasedate>
+		<publisher>Dempa</publisher>
 	</game>
 </gameList>

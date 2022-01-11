@@ -1,6 +1,22 @@
 <?xml version="1.0"?>
 <gameList>
 	<game>
+		<path>./NorthSeaInferno_v1.1.lha</path>
+		<name>Persian Gulf Inferno, The</name>
+		<image>./mixart/NorthSeaInferno_v1.1.png</image>
+		<marquee>./wheel/NorthSeaInferno_v1.1.png</marquee>
+		<video>./snap/NorthSeaInferno_v1.1.mp4</video>
+		<rating>0.6</rating>
+		<desc>The story is told quick enough: in 1990, terrorists capture the world's largest oil reserve and threaten to blow up an atomic bomb if their demands are not met. You are (as always) the only hope of mankind and so on.
+
+Persian Gulf Inferno is a side scrolling action/shooting game. You control your character, who is at first equipped with a handgun and two explosives, around the oil rig, shooting terrorists left &amp; right and trying to disarm the bomb before it goes boom. You can of course aquire more weapons like the SPA-S semi shotgun and machine guns.</desc>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Magic Bytes</developer>
+		<publisher>Magic Bytes</publisher>
+		<genre>Various</genre>
+		<players>1</players>
+	</game>
+	<game>
 		<path>./1000ccTurbo_v1.0.lha</path>
 		<name>1000cc Turbo</name>
 		<desc>1000cc Turbo is inspired by Super Hang-On. It is a motorcycle racing game viewed from behind the bike. Road and enduro racing are featured among the 4 bikes offered. Race lengths can be between 1 and 9 laps, and you can race with either sound effects or music.</desc>
@@ -32,21 +48,6 @@ Atmospheric conditions change throughout the race: sometimes the weather will be
 		<publisher>Simulmondo</publisher>
 		<genre>Sports</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./1869_v1.0_AGA.lha</path>
-		<name>1869 - Erlebte Geschichte Teil I</name>
-		<desc>Experience at first-hand the era of great political and economic change, the exodus from the old British Empire, to the finding of a better life in the new world. The age of the great Clippers and their struggle for survival against the gradual domination of the steam ship.</desc>
-		<image>./mixart/1869_v1.0_AGA.png</image>
-		<video>./snap/1869_v1.0_AGA.mp4</video>
-		<marquee>./wheel/1869_v1.0_AGA.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Max Design</developer>
-		<publisher>Max Design</publisher>
-		<genre>Simulation</genre>
-		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -726,25 +727,6 @@ The game is similar to Elite in that you are relatively free to travel to wherev
 		<publisher>Coktel Vision</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>16</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Agony_v2.1_0960.lha</path>
-		<name>Agony</name>
-		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.
-
-These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
-		<image>./mixart/Agony_v2.1_0960.png</image>
-		<video>./snap/Agony_v2.1_0960.mp4</video>
-		<marquee>./wheel/Agony_v2.1_0960.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Art &amp; Magic</developer>
-		<publisher>Psygnosis Limited</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<kidgame>true</kidgame>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2911,7 +2893,7 @@ Liar's Dice is a game where you bet on how many of a certain number you roll on 
 		<publisher>Accolade</publisher>
 		<genre>Adult, Games, Multievent</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<kidgame>true</kidgame>
 		<lang>en</lang>
 	</game>
@@ -3092,6 +3074,25 @@ Using a Chinese variation of the game of Chess, pieces like the Queen and Bishop
 		<marquee>./wheel/BattleChess2_v1.0_0264.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>19920101T000000</releasedate>
+		<developer>Interplay</developer>
+		<publisher>Interplay</publisher>
+		<genre>Board game</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BattleChess_v1.1_CDTV.lha</path>
+		<name>Battle Chess</name>
+		<desc>Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured. You can also play in 2D without animation. 
+
+The game's opening library includes 30,000 different moves, ensuring a variety of games will unfold across the 10 skill levels. 
+
+Multi-player support can be extended to modem and/or serial port play.</desc>
+		<image>./mixart/BattleChess_v1.1_CDTV.png</image>
+		<video>./snap/BattleChess_v1.1_CDTV.mp4</video>
+		<marquee>./wheel/BattleChess_v1.1_CDTV.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19880101T000000</releasedate>
 		<developer>Interplay</developer>
 		<publisher>Interplay</publisher>
 		<genre>Board game</genre>
@@ -4190,6 +4191,29 @@ The game is a shoot 'em up which scrolls both horizontally and vertically, while
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./BloodNet_v2.0_AGA_1667.lha</path>
+		<name>Bloodnet - A Cyberpunk Gothic</name>
+		<desc>BloodNet is an adventure game with RPG elements.
+
+You play as Ransom Stark, a computer hacker, scrounger or mercenary (depending on how the player answers the opening questions when they start a new game) who finds himself caught up in a sinister affair involving an evil global megacorporation, TransTechnicals, Manhattan, a fight for Cyberspace and vampires!
+
+Ransom Stark became stricken with Hopkins-Brie Ontology Syndrome whilst working at TransTechnicals, due to his forced extended exposure to Cyberspace while he worked there. As soon as he was diagnosed he was dismissed from TransTech and found himself homeless and hopeless. Thankfully an ingenious woman, with a personal vendetta against TransTech, named Deirdre Tackett saved his life by inserting a prototype brain implant of her own design and this restoring his grip on reality.
+
+Over the following year Ransom became known as a reliable freelance until one day he got a job worth much more than he bargained for! His employers turned out to be vampires and as part of his 'payment', Ransom was turned into a follower of the evil head-vampire, Abraham Van Helsing -- except his brain implant kicked in allowing him to keep temporary control of his humanity.
+
+Now Ransom must put a stop to Van Helsing's plans to take over Manhattan and control Cyberspace and hopefully save himself from being a vampire before its too late!</desc>
+		<image>./mixart/BloodNet_v2.0_AGA_1667.png</image>
+		<video>./snap/BloodNet_v2.0_AGA_1667.mp4</video>
+		<marquee>./wheel/BloodNet_v2.0_AGA_1667.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>MicroProse</developer>
+		<publisher>GameTek</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Bloodwych&amp;ExtendedLevels_v2.51_0439&amp;0043.lha</path>
 		<name>Bloodwych</name>
 		<desc>The land of Trazere was once ruled by the powerful and benevolent organization of mages known as Bloodwych. Governed by the Grand Dragon, the Bloodwych supervised over the balance in the land, protecting it from evil and driving it to prosperity. However, the second-in-command of Bloodwych, named Zendick, turned against his group, banished his opponents to the astral plane, and began working on a mad plan - summon the ultimate evil, the Lord of Entropy. The player controls the champion of Trazere, whose ultimate goal is to stop Zendick and restore peace in the country.
@@ -4224,7 +4248,7 @@ In the game there is an 8x8 board. Each space in the board contains a point valu
 		<publisher>Magic Bytes</publisher>
 		<genre>Adult, Puzzle-Game</genre>
 		<players>2</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4453,7 +4477,7 @@ The multiplayer game features an additional surreal mini-game, where the alpha p
 		<publisher>Mediagogo</publisher>
 		<genre>Strategy</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -6015,7 +6039,7 @@ The game is highly strategic, with icon-based controls and a turn-based structur
 		<publisher>Artworx</publisher>
 		<genre>Strategy</genre>
 		<players>2</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -7446,26 +7470,6 @@ Players control Duckula. The count must explore the pyramid, solving puzzles and
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./CoverGirlStripPoker_v1.1.lha</path>
-		<name>Cover Girl Strip Poker</name>
-		<desc>Yet another strip poker game. What is there to say about it? 
-
-Well, here you can play with up to three players against one of eight digitized women. Each time you make a girl lose all her money, she takes off some of her clothes (4 of the 8 girls feature "movies" of the strip, which consist of half a dozen frames).
-
-At the beginning of the game, you may select your language at the beginning and can also choose to turn the girl's comments on or off. Finally, the game features a zoom function with which you can get even bigger pixels.</desc>
-		<image>./mixart/CoverGirlStripPoker_v1.1.png</image>
-		<video>./snap/CoverGirlStripPoker_v1.1.mp4</video>
-		<marquee>./wheel/CoverGirlStripPoker_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Emotional Pictures</developer>
-		<publisher>Storm</publisher>
-		<genre>Playing cards</genre>
-		<players>1</players>
-		<hidden>true</hidden>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./CovertAction_v1.0_1834.lha</path>
 		<name>Covert Action</name>
 		<desc>Special agent Max Remington goes to work in an international espionage simulation that portrays this clandestine world the way it really is. Espionage in the 1990s thrives on technology. Tap phone lines, crack complex codes, defeat computerized defense systems. Track suspects around the globe as you put together the pieces to a worldwide criminal plot. In the shrouded world of Cover Action, ingenuity is the best weapon you can have.</desc>
@@ -8536,6 +8540,25 @@ Characters from Death Knights of Krynn can be transferred.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./DarkSeed_v1.4_2141.lha</path>
+		<name>Darkseed</name>
+		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.
+
+You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...
+
+... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
+		<image>./mixart/DarkSeed_v1.4_2141.png</image>
+		<video>./snap/DarkSeed_v1.4_2141.mp4</video>
+		<marquee>./wheel/DarkSeed_v1.4_2141.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Incentive Software</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./DarkSide_v1.1_1099.lha</path>
 		<name>Dark Side</name>
 		<desc>In Driller, the Ketars attempted to blow up the moon Mitral, but you stopped them. Now, they have Energy Collection Devices collectively known as EGOs, and hope to stock them up to use towards the Zephyr One device, and direct its energy at the planet Evath, resulting in a catastrophic radiation overload. 
@@ -9083,7 +9106,7 @@ Data disks contain more woman opponents.</desc>
 		<publisher>Artworx</publisher>
 		<genre>Adult, Cards, Poker</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -9172,6 +9195,23 @@ Some of the holes in the ground are deadly while others lead to secret rooms. Fo
 		<genre>Horizontal, Jumper, Movie, Platform, Sideways</genre>
 		<players>1</players>
 		<kidgame>true</kidgame>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DesertStrike_v3.1_0112.lha</path>
+		<name>Desert Strike : Return to the Gulf</name>
+		<desc>Manual:
+https://www.lemonamiga.com/games/docs.php?id=462
+Desert Strike, is a shoot 'em up inspired by the Gulf War and depicts a conflict between an insane Middle Eastern dictator, General Kilbaba, and the United States. The player controls an Apache helicopter and attempts to destroy enemy weapons and installations, rescue hostages and capture enemy personnel, while managing supplies of fuel and ammunition.</desc>
+		<image>./mixart/DesertStrike_v3.1_0112.png</image>
+		<video>./snap/DesertStrike_v3.1_0112.mp4</video>
+		<marquee>./wheel/DesertStrike_v3.1_0112.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>EA</developer>
+		<publisher>EA Games</publisher>
+		<genre>Shooter, Shoot'em Up</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -11919,7 +11959,7 @@ Fantasy World Dizzy was the first Dizzy adventure to feature many elements which
 		<publisher>Tomahawk</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -12082,7 +12122,7 @@ Femme Fatale is nothing more than a memory puzzle by Raffi Demerjian. After a co
 		<publisher>Graphic Expressions</publisher>
 		<genre>Puzzle-Game</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -13114,21 +13154,6 @@ The game features a two-player mode, with two ships moving against the aliens at
 		<developer>MicroDeal Ltd.</developer>
 		<publisher>MicroDeal</publisher>
 		<genre>Action, Action / Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Frontier_v1.2_1960.lha</path>
-		<name>Frontier - Elite II</name>
-		<desc>Frontier: Elite 2 is, of course, the sequel to Elite and it continues in much the same way. You have a ship and limited funds, and nowhere to go but out into space. Trade, fight, hunt criminals, work for the various governments, anything goes in Frontier. There are few, if any, limits on what you can do or where you can go. And Frontier's universe (with approx. 100,000,000,000 planets and moons) is so big you'll never see the end of it.</desc>
-		<image>./mixart/Frontier_v1.2_1960.png</image>
-		<video>./snap/Frontier_v1.2_1960.mp4</video>
-		<marquee>./wheel/Frontier_v1.2_1960.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19931006T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -15338,23 +15363,6 @@ WhatÃ¢â‚¬â„¢s worse, is that the gameplay is uninteresting and dull. S
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./HellRaisers_v1.0.lha</path>
-		<name>HellRaisers</name>
-		<desc>Don't the Hellraisers ever quit?
-They've seized the defence systems on the Planet Hazbal, a junction of major space trade routes. Interstellar commerce is at a standstill and starvation will soon hit the outer worlds unless you can destroy the evil Hellraisers! 
-Only then can you go on leave...</desc>
-		<image>./mixart/HellRaisers_v1.0.png</image>
-		<video>./snap/HellRaisers_v1.0.mp4</video>
-		<marquee>./wheel/HellRaisers_v1.0.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Exocet</developer>
-		<publisher>Exocet</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./HellrunMachine_v1.0.lha</path>
 		<name>Hellrun Machine, The</name>
 		<desc>Hellrun Machine is an Action game, developed and published by Amiga Fun, which was released in Europe in 1992.</desc>
@@ -15724,7 +15732,7 @@ Just like all the others, Hollywood Poker Pro is a good laugh with the boys, and
 		<publisher>reLINE</publisher>
 		<genre>Various</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -15740,7 +15748,7 @@ Just like all the others, Hollywood Poker Pro is a good laugh with the boys, and
 		<publisher>Diamond</publisher>
 		<genre>Adult, Cards, Poker</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -20275,7 +20283,7 @@ The gameplay is very similar to Ancos older game Strip Poker II+. In the game it
 		<publisher>Anco</publisher>
 		<genre>Adult, Cards, Christmas, Poker</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -20447,6 +20455,24 @@ Two modes are available: a platform mode and a 3D mode where the player drives a
 		<publisher>Tynesoft</publisher>
 		<genre>Simulation</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./McDonaldLand_v1.4.1_0970.lha</path>
+		<name>McDonaldland</name>
+		<desc>The Hamburglar has stolen Ronald's bag of magic tricks! In this 2D platformer, it's up to you to play as Mick or Mac and get it back. Go across various lands and meet McDonald's characters as you travel to places like Ronald's Clubhouse, Birdie's Treehouse, and the Hamburglar's Hideout as you collect Ronald's cards. 
+
+To kill the many animal enemies you will find, you must collect bricks and throw them. In some sections you will travel along water in a dinghy; also watch for moving platforms and bonus sections, The game features seven different worlds with over 30 main levels and nine bonus levels.</desc>
+		<image>./mixart/McDonaldLand_v1.4.1_0970.png</image>
+		<video>./snap/McDonaldLand_v1.4.1_0970.mp4</video>
+		<marquee>./wheel/McDonaldLand_v1.4.1_0970.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform / Run Jump</genre>
+		<players>2</players>
+		<kidgame>true</kidgame>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -20915,23 +20941,6 @@ Very nicely done, but an unutterably dull game beneath the attractive facade. Fo
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./MicroMachines_v1.1_0357.lha</path>
-		<name>Micro Machines</name>
-		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
-
-These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.</desc>
-		<image>./mixart/MicroMachines_v1.1_0357.png</image>
-		<video>./snap/MicroMachines_v1.1_0357.mp4</video>
-		<marquee>./wheel/MicroMachines_v1.1_0357.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./MicroProseGolf_v1.0.lha</path>
 		<name>Greens: The Ultimate 3-D Golf Simulation</name>
 		<desc>Simulation experts MicroProse also wanted to enter this game genre Ã¢â‚¬â€œ their answer was a serious golf simulation using a 3D vector graphics engine usually found only on their flight sims - the game was called Greens: The Ultimate 3-D Golf Simulation (In North America or MicroProse Golf in the rest of the world).
@@ -21124,6 +21133,25 @@ Each level is split into two parts; an action zone and a Royal Palace room. The 
 		<developer>Tecmo</developer>
 		<publisher>Elite Systems</publisher>
 		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MikroMortalTennis_v1.0.lha</path>
+		<name>Mikro Mortal Tennis</name>
+		<desc>As you can guess from the title, Mikro Mortal Tennis is basically founded on tennis game, but its goal is to eliminate your opponents, not simply to defeat them! To this purpose, players might make use of loads of Mortal-Kombat and Street-Fighter-like special moves, in addition to many others, directly taken from lots of famous videogames or films. Besides, there are bombs, Fire'n'forget rockets, heat-seeking missiles at their complete disposal... The game boasts an amusing animated intro which will explain the reason of such a strange tournament - by the way, your order is to climb a high mountain, just like the second episode of the Mortal Kombat saga; moreover, it features several victory and defeat pictures and an even more crazy final sequence than the intro!
+
+Players can choose their characters from a range of twelve different guys, each distinguished with typical characteristics, which can be edited in the proper menu. Beyond every human conceiving, the game is spangled with lots of mad things, like referee-slaughtering, animals which will appear in the field, VIPs which will perform during the match, and a mysterious tapir named Fart (main character of the game, as you can be able to guess from the introduction) which will perform in a number of funny anims. At the beginning of the match the players will enter the field and choose the field in which play with an incredible money trowing!
+
+Of course, the sporting side of the game is not to be underestimated. You'll always have to win your match! From this point of view, the game is classically structured: pitch type, number of sets to win, type of game (single, double or training), as well as the type of tournament to join; you'll be able to select, in addition to the above-mentioned MK-style tournament, an UNFRIENDLY tournament in which up to eight human players are allowed to take part, or a full season, where player will have to win as much as possible to travel all over the world, and in order to buy weapons and points which will help him in his short career. It's possible to save and subsequently restore your season from disc as well as every change made in the players editing menu, where you're able to change the name, the characteristics and the shirt colour of all the characters... Well, that's all, there's nothing left but wishing you to enjoy Mikro Mortal Tennis! Mikro Mortal Tennis supports all Amiga models with at least 1 Meg of Ram.</desc>
+		<image>./mixart/MikroMortalTennis_v1.0.png</image>
+		<video>./snap/MikroMortalTennis_v1.0.mp4</video>
+		<marquee>./wheel/MikroMortalTennis_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Skywards</developer>
+		<publisher>Epic Marketing</publisher>
+		<genre>Sports / Tennis</genre>
 		<players>2</players>
 		<lang>en</lang>
 	</game>
@@ -23747,7 +23775,7 @@ Two opponents (the second either human or AI) compete on a 8x8 grid field. The p
 		<publisher>Magic Bytes</publisher>
 		<genre>Adult, Puzzle-Game</genre>
 		<players>2</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -24479,21 +24507,6 @@ A typical Sierra parser game built with the popular AGI engine, Police Quest dif
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PoolsOfDarkness_v1.1.lha</path>
-		<name>Advanced Dungeons &amp; Dragons - Pools of Darkness</name>
-		<desc>Pools of Darkness is the fourth of Gold Box series of classic-style AD&amp;D-based role-playing games. The gameplay is quite similar to other games of this type. At the start of the game, the player creates a party of characters (up to 6). Classic AD&amp;D races (dwarf, elf, half-elf, gnome, etc.), character classes (fighter, paladin, monk, wizard, etc.), alignments (Good/Evil and Lawful/Chaotic axis), and statistics (strength, intelligence, wisdom, etc.) are there for the player to choose and adjust. Once the party is created, the player begins the exploration of the city of Phlan. Upon exiting the city, the player explores a top-down map, visiting dungeons and other locations of interest, as well as engaging in combat.</desc>
-		<image>./mixart/PoolsOfDarkness_v1.1.png</image>
-		<video>./snap/PoolsOfDarkness_v1.1.mp4</video>
-		<marquee>./wheel/PoolsOfDarkness_v1.1.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19920309T000000</releasedate>
-		<developer>SSI Special Projects Group</developer>
-		<publisher>Strategic Simulations</publisher>
-		<genre>Angle, Dungeoncrawler, Dungeonsanddragons, Fantasy, Firstperson, Rpg, Swordsandsorcerey</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pool_v1.0_2177.lha</path>
 		<name>Pub Pool</name>
 		<desc>Pool is a game about pool billiard. There is one opponent to compete against (either controlled by the AI or another player) without further possibilities for customization. The control method is divided into two distinct parts: first the basic position of the cue is set in a top down view. After that the game switches to a first-person perspective where the player can fine-tune the cue to select the spin (the game gives the parameters of the current position). Finally the shot is performed with a mouse click. For both parts the player is on a time limit of about ten seconds each.</desc>
@@ -25076,6 +25089,27 @@ On your way to Altrax you learn that a pleasure craft ignored warning beacons an
 		<developer>Optimus</developer>
 		<publisher>Codemasters</publisher>
 		<genre>Sports / Boxing</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ProjectXSE_v1.5_0927.lha</path>
+		<name>Project-X</name>
+		<desc>Six levels of horizontally-scrolling shooting await in this R-Type style action game. The attack waves vary in style, with some attacking you from quite fiendish angles.
+
+These give off blue power-up tokens, which are used towards selecting one of many weapons. There are 4 front-firing options (guns, plasma, magma and laser-beams - guns can be built up quickly but lack top-end power compared to the others) as well as speed-up (only requires one token), side-shot, up to 3 homing missiles, build (a quick super-destructive blast that only functions when you aren't using auto-fire) and stealth (a period of invulnerability).
+
+Each level has a very different setting, and an end-of-level boss to defeat. The chance to resume from the level you died at is offered up to level 3.
+
+Unusually, the game has an option to emulate an auto-fire function using software (this makes it one of the few Amiga shoot 'em ups you can hope to get as far through on an emulator on keyboard as on joystick on the real thing).</desc>
+		<image>./mixart/ProjectXSE_v1.5_0927.png</image>
+		<video>./snap/ProjectXSE_v1.5_0927.mp4</video>
+		<marquee>./wheel/ProjectXSE_v1.5_0927.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Shoot'em Up, Shoot'em up / Horizontal</genre>
 		<players>2</players>
 		<lang>en</lang>
 	</game>
@@ -26339,6 +26373,23 @@ Starting in the Flying Saucer which has landed in Hyde Park, shooting off to the
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./RickDangerous_v1.3_2294.lha</path>
+		<name>Rick Dangerous</name>
+		<desc>You play Rick Dangerous, an Indiana Jones type who's on a quest to find the lost Coolu Amazon tribe.  However, his plane crashes in the middle of a bunch of crazed Coolus. Hopefully he's up to the challenge of escaping. If he is, he will find himself in the pyramid of Egypt with no easy way past leaders and their minions, and then engulfed in a web of traps in a Nazi base.
+
+Rick Dangerous is a platform game across over 100 screens, in which Rick has his gun in one hand, and dynamite sticks in another. You must take a methodical approach to clearing each screen, as there are traps in place which will need memorizing and preempting where possible. Use the dynamite wisely, for enemies you can't get into the purely-horizontal range of your gun.</desc>
+		<image>./mixart/RickDangerous_v1.3_2294.png</image>
+		<video>./snap/RickDangerous_v1.3_2294.mp4</video>
+		<marquee>./wheel/RickDangerous_v1.3_2294.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Core Design</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Ringside_v1.0_1611.lha</path>
 		<name>Ringside</name>
 		<desc>In Ringside you can chart your aspiring fighter's progress from untried stripling to awesome killing machine, well, almost, but you can rise up the world ratings by challenging and beating opponents.
@@ -26395,27 +26446,6 @@ There are two side-scrolling action sequences in the game; both can be bypassed 
 		<publisher>Sierra</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./RiseOfTheRobots_v1.3_AGA_1763.lha</path>
-		<name>Rise Of The Robots</name>
-		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
-
-In terms of pure beat-em-up action, Rise of the Robots is outclassed by the barely-better-than-16-bit BODY BLOWS games. ROTR is quite poor in the "special moves" area of beat-em-up gaming. The graphics? Well... the animations are good. The characters, when still, look very good too. When moving they are anything but realistic looking. Their movements are jerky and very repetitive. What's different in each version? Not a lot. All of them suffer from the poor control and jerky animation.
-
-The non-AGA version takes less time to install on the hard drive than the AGA version because some of the Ã¢â‚¬Å“cinematicsÃ¢â‚¬Â have been taken out. They're not much of a loss really. This version also looks pretty good considering the number of colors onscreen. It seems to play a tad faster too.
-
-Disappointment is the key word here. The game promised so much and delivered so little. I guess one good thing is that, for once, the PC suffers from the exact same problems.</desc>
-		<image>./mixart/RiseOfTheRobots_v1.3_AGA_1763.png</image>
-		<video>./snap/RiseOfTheRobots_v1.3_AGA_1763.mp4</video>
-		<marquee>./wheel/RiseOfTheRobots_v1.3_AGA_1763.png</marquee>
-		<rating>0.25</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Mirage</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -26589,6 +26619,23 @@ All three of the platform stages present RoboCop with a set goal: destroying the
 		<developer>Special FX Ltd.</developer>
 		<publisher>Ocean</publisher>
 		<genre>Futuristic, Horizontal, Movie, Platform, Scifi, Scrolling, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RoboCop3_v1.3_0979.lha</path>
+		<name>RoboCop 3</name>
+		<desc>F29 Retaliator authors DID developed this particular use of the Robocop license, and produced something different from most film licenses. While it featured a succession of levels based around sections of the movie, these were highly varied and presented in polygon 3D graphics. These can be played in any order in the Arcade mode, or in planned sequence in the Movie Adventure mode, which follows the film's plot of Japanese investors wishing to replace Robocop with their Robot Ninja designs, and thus expecting him to prove himself as superior.
+
+The first task is a car chase resembling Chase HQ, in which a mazey section of road must be followed efficiently. There are several first-person 3D shooing sections,. in which you must use a target to shoot down punks and invaders, without harming civilians. Robocop also takes to the skies in a simulation of his new Gyropack flying device. Also, he must do battle with his intended replacement in a fixed-perspective beat 'em up section.</desc>
+		<image>./mixart/RoboCop3_v1.3_0979.png</image>
+		<video>./snap/RoboCop3_v1.3_0979.mp4</video>
+		<marquee>./wheel/RoboCop3_v1.3_0979.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Digital Image</developer>
+		<publisher>Ocean</publisher>
+		<genre>3d, Beatemup, Car, Driving, Firstperson, Futuristic, Movie, Multigenre, Scifi, Shooter</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -26924,44 +26971,6 @@ Doc Croc's Outrageous Adventures - The wackiest game this side of the Planet Ven
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./RType2_v1.1_2065.lha</path>
-		<name>R-Type II</name>
-		<desc>R-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R-Type series.
-
-The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given homing capabilities. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.
-
-Though the number of levels was decreased from the prequel, the number of enemies, their durability, and the number of bullets they shoot were greatly increased. Enemy movements and terrain were also made trickier, bringing the game's difficulty up considerably. The same revival system is used as in the prequel, where the player is brought back to a checkpoint whenever their ship is destroyed.</desc>
-		<image>./mixart/RType2_v1.1_2065.png</image>
-		<video>./snap/RType2_v1.1_2065.mp4</video>
-		<marquee>./wheel/RType2_v1.1_2065.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Activision</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./RType_v1.4.1_0940.lha</path>
-		<name>R-Type</name>
-		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay.  You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.
-
-The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots. By holding down the fire button, it can be loaded up so as to release a large burst of energy, eliminating all but the strongest enemies in its path. From time to time, pods will come flying in your direction. Upon being shot, they release an upgrade. The first one will invariably be the one called "The Force", which is a weapons pod that clings either to the front or the back of your ship, absorbing any enemy bullets or acting as a bumper with which you can fly head-on into them. You can also use it as an offensive weapon by firing it and pulling it back in. Mastering the Force is vital to surviving in R-Type, since it must be used both as protection against bullet clusters, as a remote controlled cannon, and in order to clear the screen from obstacles. Other upgrades give you target-seeking missiles or a bigger main gun. Different gun types, differentiated by their colour, serve different purposes. The blue one sends laser beams bouncing across the screen (good for tunnels), the red one fires straight ahead, and the yellow one follows any walls it may encounter (good for artillery emplacements).
-
-The stages of R-Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R-Type's contemporary rival, Gradius.</desc>
-		<image>./mixart/RType_v1.4.1_0940.png</image>
-		<video>./snap/RType_v1.4.1_0940.mp4</video>
-		<marquee>./wheel/RType_v1.4.1_0940.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Electric Dreams Software</developer>
-		<publisher>Irem</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Rubicon_v2.1_0573.lha</path>
 		<name>Rubicon</name>
 		<desc>Rather tastelessly, the plot of this one concerns a catastrophic nuclear accident in Russia. You must trek through seven levels inhabited by mutated super-intelligent animals in order to diffuse each nuclear reactor.
@@ -27023,21 +27032,6 @@ The search starts on the surface of the planet, but also takes Ruff underground 
 		<publisher>Domark</publisher>
 		<genre>Sports - Rugby</genre>
 		<players>16</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./RunningMan_v1.0_0382.lha</path>
-		<name>Running Man, The</name>
-		<desc>Inspired on the movie with the same name with A. Schwarzenegger, you are an ex-cop presumed guilty for the murder of many civils. In jail, one day, you can escape and go to the airport to go away. Unfortunately, you are captured again but for other person now. Not the state, a director of a show called running man. This show is the most popular hobby in future, everybody play money. A guy (you) are hunted by professional killers, he must runs and stay alive for win money. So with the four levels, you must fight with your hunters and go quickly to the end of levels if you want recovery freedom one day...</desc>
-		<image>./mixart/RunningMan_v1.0_0382.png</image>
-		<video>./snap/RunningMan_v1.0_0382.mp4</video>
-		<marquee>./wheel/RunningMan_v1.0_0382.png</marquee>
-		<rating>0.25</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Emerald Software</developer>
-		<publisher>Grandslam Entertainment Ltd.</publisher>
-		<genre>Action, Horizontal, Movie, Multiytype, Sideways</genre>
-		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -27421,23 +27415,6 @@ This game is based on the Chambers English Dictionary and the Official Scrabble 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SecondSamurai_v1.1_AGA_1624.lha</path>
-		<name>Second Samurai</name>
-		<desc>At the end of First Samurai, the Demon King was able to flee back in time to ancient Japan, so our hero follows him back in time, and has 10 levels awaiting him. Unlike the original, each world is split into sub-levels, with a boss at the end of each one, emphasising the arcade side of the gameplay, which still combines hacking and slashing with puzzle-solving.
-
-As in the first game, you start without weaponry but can pick up swords and daggers as you progress through the levels. There are lots of hidden sections as you progress, which open up more of the end sequence to you, as well as several subgames including a shoot 'em up mode.</desc>
-		<image>./mixart/SecondSamurai_v1.1_AGA_1624.png</image>
-		<video>./snap/SecondSamurai_v1.1_AGA_1624.mp4</video>
-		<marquee>./wheel/SecondSamurai_v1.1_AGA_1624.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Vivid Image</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./SecondsOut_v1.1_2760.lha</path>
 		<name>Seconds Out</name>
 		<desc>Seconds Out is a Sports game, developed and published by Tynesoft, which was released in Europe in 1988.</desc>
@@ -27450,6 +27427,26 @@ As in the first game, you start without weaponry but can pick up swords and dagg
 		<publisher>Prism Leisure</publisher>
 		<genre>Boxing, Sports</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SecretOfMonkeyIsland_v3.5_1625.lha</path>
+		<name>Secret of Monkey Island, The</name>
+		<desc>The Secret of Monkey Island (Demo Version) is a demo version for The Secret of Monkey Island. Guybrush Threepwood finds himself in the harbor town of Melee Island but is trapped from leaving it: a troll blocks the exit and won't let Guybrush pass until he knows the magic phrase.
+
+To solve the game the player has to explore the (shortened) town and solve a few basic puzzles which are partly not present in the full version of the game. He also needs to chat with several persons known from the game which all have new dialogue, e.g. the voodoo lady talks about some features of the commercial version and Guybrush constantly cracks jokes about this being a demo.
+
+The game uses the same control scheme as the most Lucasfilm adventures at the time. On the bottom of the screen are nine verbs displayed. The player clicks on of these verbs and then on an item in the game world to issue a command, e.g. picking something up.</desc>
+		<image>./mixart/SecretOfMonkeyIsland_v3.5_1625.png</image>
+		<video>./snap/SecretOfMonkeyIsland_v3.5_1625.mp4</video>
+		<marquee>./wheel/SecretOfMonkeyIsland_v3.5_1625.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -27612,6 +27609,26 @@ The game features customisable league and cup competitions as well as pre-set on
 		<publisher>Sensible Software</publisher>
 		<genre>Sports</genre>
 		<players>6</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SensibleWorldOfSoccer9697_v1.7_0842.lha</path>
+		<name>Sensible World of Soccer '96-'97</name>
+		<desc>The updated Sensible World of Soccer, with more up-to-date-teams and less of the bugs from the previous version.
+
+SWOS is a top down football/management game, with either quick game or 20-year career player-manager options. The games are set to last 3 minutes, but the 20-year career can suck in your entire life for a few months. The graphics are kept very small so the player can orientate themselves on the pitch without need for a radar. The controls are simple, easy to get used to and very effective. In the full career mode you can jump from club-to-club buying any of the game's 29000+ players, as well as play around with team tactics.
+
+And you can choose from 1400 teams over the five continents.</desc>
+		<image>./mixart/SensibleWorldOfSoccer9697_v1.7_0842.png</image>
+		<video>./snap/SensibleWorldOfSoccer9697_v1.7_0842.mp4</video>
+		<marquee>./wheel/SensibleWorldOfSoccer9697_v1.7_0842.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19961106T000000</releasedate>
+		<developer>Renegade Software</developer>
+		<publisher>Sensible Software</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -29026,6 +29043,21 @@ Overall, a great disappointment that is best avoided.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./SorceryPlus_v1.02_1562.lha</path>
+		<name>Sorcery+</name>
+		<desc>Sorcery+ is an expanded re-release of Sorcery. Besides new graphics and sound, it features an additional scenario which is played after finishing the original content. Here the player visits 28 new locations in a quest to destroy the necromancer.</desc>
+		<image>./mixart/SorceryPlus_v1.02_1562.png</image>
+		<video>./snap/SorceryPlus_v1.02_1562.mp4</video>
+		<marquee>./wheel/SorceryPlus_v1.02_1562.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Gang of Five</developer>
+		<publisher>Amsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Sorefist_v1.0.lha</path>
 		<name>Sorefist</name>
 		<desc>Sorefist is a Beat-'em-up game, developed and published by Snakesoft, which was released in 1996.</desc>
@@ -29421,6 +29453,22 @@ Under cover, outnumbered and alone.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Speedball2_v1.0_2897.lha</path>
+		<name>Speedball 2 : Brutal Deluxe</name>
+		<desc>Speedball 2: Brutal Deluxe is a 1990 video game based on a violent futuristic cyberpunk sport that draws on elements of handball and ice hockey, and rewards violent play as well as goals. The concept of the game is very reminiscent of the 1975 film Rollerball. The original game was developed by Bitmap Brothers, with various remakes for many platforms since being published. It is a sequel to the 1988 game Speedball.</desc>
+		<image>./mixart/Speedball2_v1.0_2897.png</image>
+		<video>./snap/Speedball2_v1.0_2897.mp4</video>
+		<marquee>./wheel/Speedball2_v1.0_2897.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Imageworks</developer>
+		<publisher>The Bitmap Brothers</publisher>
+		<genre>Sports / Handball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Speedball_v2.1_0581.lha</path>
 		<name>Speedball</name>
 		<desc>The original future sport game, Speedball is played out on a small court with five players on each team, making it more frantic than the more famous sequel. The ball must be thrown into the goal at your opponent's end. Any amount of physical contact can be made, and there are no illegal ways to get the ball or the goal.
@@ -29617,6 +29665,23 @@ Spirit of Excalibur has so many things going for it. The strategy and role-playi
 		<publisher>Virgin Mastertronic</publisher>
 		<genre>Adventure, Kingarthur, Mythological, Strategy</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SpittingImage_v1.0.lha</path>
+		<name>Spitting Image</name>
+		<desc>Spitting Image is based on the long-running British satirical television show with puppet likenesses of political figures and celebrities. A prophet determines that a world war will occur in seven years instigated by a mysterious leader. To avoid this, one ruler of the world must be determined in this beat 'em up involving six rulers: U.S.A.'s Ronald Regan, the U.K.'s Margaret Thatcher, the USSR's Mikhail Gorbachev, South Africa's PW Botha, Iran's Ayathollah Khomeini, and Pope John Paul II.
+
+Having chosen which to play as, you travel to an opponent's country to engage in a best-of-three fight that is judged by Queen Elizabeth II on a postage stamp. You attack each opponent on the ground as well as jumping in the air and each character has a special move like Thatcher's head-butt or Khomeini's beard whip. You can also call for help twice from an aide who will usually throw a projectile at your opponent. If you manage to defeat all 5 opponents, you will meet the mysterious leader in a final showdown in a mud-wrestling pit in the dark where you will only be able to see the eyes of the characters. You can also play 2-player fights, one against another on the same computer.</desc>
+		<image>./mixart/SpittingImage_v1.0.png</image>
+		<video>./snap/SpittingImage_v1.0.mp4</video>
+		<marquee>./wheel/SpittingImage_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Walking Circles Software</developer>
+		<publisher>Domark</publisher>
+		<genre>Beatemup, Competitive, Humor, Sideways, Tv</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -30433,7 +30498,7 @@ As captain of the fleet you can switch between different ships of your fleet and
 		<publisher>Anco</publisher>
 		<genre>Adult</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -30449,7 +30514,7 @@ As captain of the fleet you can switch between different ships of your fleet and
 		<publisher>CDS Micro Systems</publisher>
 		<genre>Casino</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -30465,7 +30530,7 @@ As captain of the fleet you can switch between different ships of your fleet and
 		<publisher>Artworx</publisher>
 		<genre>Playing cards</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -30481,7 +30546,7 @@ As captain of the fleet you can switch between different ships of your fleet and
 		<publisher>Fin Soft</publisher>
 		<genre>Adult, Fruitmachine, Gambling</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -31316,23 +31381,6 @@ The gameplay is platform and ladders based, set both inside and outside. The lay
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SWIV_v1.7_0038.lha</path>
-		<name>S.W.I.V.</name>
-		<desc>SWIV was an original vertical scrolling shooter that was an unofficial follow-up to Sales Curve's hit conversion of the side scroller Tecmo arcade game Silkworm.
-
-One player controlled a helicopter and the other a jeep, with the jeep transforming into a boat when the vehicles passed over water. As well as a host of blaster fodder the game also included a mid-level enemy inspired by the "Goose" enemy from the earlier title Silkworm. Pieces of this enemy would fly onto the screen and assemble into one vehicle before commencing to fire at the players' vehicles. When destroyed the "goose" would drop power-ups.</desc>
-		<image>./mixart/SWIV_v1.7_0038.png</image>
-		<video>./snap/SWIV_v1.7_0038.mp4</video>
-		<marquee>./wheel/SWIV_v1.7_0038.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910228T000000</releasedate>
-		<developer>Storm</developer>
-		<publisher>Sales Curve</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Swooper_v1.0.lha</path>
 		<name>Swooper</name>
 		<desc>Swooper is an Action game, developed and published by Diamond, which was released in Europe in 1987.</desc>
@@ -31458,6 +31506,26 @@ Travel through the 8 parallel worlds (you'll note many similarities) to find the
 		<publisher>Titan Computer</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Syndicate_v2.2_0739.lha</path>
+		<name>Syndicate</name>
+		<desc>In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
+
+The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.
+
+You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
+		<image>./mixart/Syndicate_v2.2_0739.png</image>
+		<video>./snap/Syndicate_v2.2_0739.mp4</video>
+		<marquee>./wheel/Syndicate_v2.2_0739.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Bullfrog</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -31860,40 +31928,6 @@ Source:[Wikipedia](http://en.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_(19
 		<developer>Daisysoft</developer>
 		<publisher>Image Works (Mirrorsoft) / Konami</publisher>
 		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./TeenageMutantNinjaTurtles_v1.2_2994.lha</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>With April O'Neil held hostage by The Shredder's thugs, Bebop and Rocksteady, once again, it's up to the Teenage Mutant Ninja Turtles to come to her rescue!  Play as all four of the turtle heroes, rescue April, and then rescue your sensei Splinter from Mecha-Turtles clutches than go after The Shredder deep in the bowels of The Technodrome itself.
-
-Teenage Mutant Ninja Turtles is an action game based on the late eighties/early nineties cartoon series of the same name. Play as Leonardo, Michaelangelo, Donatello and Raphael (one turtle only, but the ability to swap between turtles at any time) as you save your friends and battle The Shredder and his cronies. There are no 'lives', as such - when you lose a turtle, he becomes 'captured', and you cannot use him again until you rescue him from a place hidden in the overworld.
-
-Gameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.</desc>
-		<image>./mixart/TeenageMutantNinjaTurtles_v1.2_2994.png</image>
-		<video>./snap/TeenageMutantNinjaTurtles_v1.2_2994.mp4</video>
-		<marquee>./wheel/TeenageMutantNinjaTurtles_v1.2_2994.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>UltraGames</developer>
-		<publisher>Konami</publisher>
-		<genre>Arcade - Miscellaneous</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./TeenageQueen_v1.1_0225.lha</path>
-		<name>Teenage Queen</name>
-		<desc>In this interactive poker game you meet in a park the beautiful female roller-skater, who is very interested in strip playing. During the game you come to night club, where the female shows her real body...</desc>
-		<image>./mixart/TeenageQueen_v1.1_0225.png</image>
-		<video>./snap/TeenageQueen_v1.1_0225.mp4</video>
-		<marquee>./wheel/TeenageQueen_v1.1_0225.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Ere Informatique</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Playing cards</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>
@@ -33678,21 +33712,6 @@ The game takes place in a maze world containing a number of distinct sectors, ea
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TrainedAssassin_v1.1.lha</path>
-		<name>Trained Assassin</name>
-		<desc>Trained Assassin is an Action game, developed and published by Digital Magic, which was released in Europe in 1989.</desc>
-		<image>./mixart/TrainedAssassin_v1.1.png</image>
-		<video>./snap/TrainedAssassin_v1.1.mp4</video>
-		<marquee>./wheel/TrainedAssassin_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Digital Magic</developer>
-		<publisher>Digital Magic</publisher>
-		<genre>Horizontal, Shootemup, Shooter, Sideways</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Transarctica_v1.4_AGA.lha</path>
 		<name>Transarctica</name>
 		<desc>The Viking Union has a very dominant role in your society, as they control the vast railway networks. Could they be to blame for the disappearance of the sun and the resultant ice age? As a train captain, you must find out and overthrow them.
@@ -34401,21 +34420,6 @@ Despite the number of options available this is not an excessively fancy game. I
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./UltimatePinballQuest_v1.1.lha</path>
-		<name>Ultimate Pinball Quest, The</name>
-		<desc>The Ultimate Pinball Quest is an Action game, developed by Interactivision and published by Infogrames, which was released in 1993.</desc>
-		<image>./mixart/UltimatePinballQuest_v1.1.png</image>
-		<video>./snap/UltimatePinballQuest_v1.1.mp4</video>
-		<marquee>./wheel/UltimatePinballQuest_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Interactivision</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Navigation, Pinball, Reaction, Topdown, Vertical</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./UltimateRide_v1.0_2306.lha</path>
 		<name>Ultimate Ride, The</name>
 		<desc>The Ultimate Ride is a Racing game, developed by Gray Matter and published by Mindscape, which was released in 1990.</desc>
@@ -34629,23 +34633,6 @@ On each level you will be faced with puzzles and battles and you need to get the
 		<publisher>Grand Products</publisher>
 		<genre>Behind, Intoscreen, Shooter, Singlescreen, Submarine</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Uridium2_v0801.1_2MB_1526.lha</path>
-		<name>Uridium 2 vP1.00-D1.00</name>
-		<desc>Re-enter your manta in the sequel to one of the fastest 8-bit action games. You are sent out to take out half a dozen enemy battle groups, each consisting of four huge spaceships. Similar to the first Uridium, you face increasing numbers of unfriendly fighter wings and stationary defenses while sweeping over the carriers. The real challenge here is to avoid the many walls on the back of the vessel while you are under attack.
-After the exterior has been cleaned from most of the enemy presence you take care of the ships' reactor core in a jump-and-run-like sequence. While floating in a non-gravity surrounding, lower the core's shields and then destroy it.
-The game also gives you a number of extra weapons that can be collected by either flying over pick-ups left from dead enemy wings or by catching them after the power generator has been destroyed.</desc>
-		<image>./mixart/Uridium2_v0801.1_2MB_1526.png</image>
-		<video>./snap/Uridium2_v0801.1_2MB_1526.mp4</video>
-		<marquee>./wheel/Uridium2_v0801.1_2MB_1526.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Graftgold</developer>
-		<publisher>Renegade Software</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -35248,7 +35235,7 @@ The action is viewed from the side, scrolling horizontally as you progress, and 
 		<publisher>Rainbow Arts (Softgold)</publisher>
 		<genre>Batandball, Breakout, Navigation, Reaction, Topdown</genre>
 		<players>1</players>
-		<hidden>true</hidden>
+		<hidden>false</hidden>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -37223,6 +37210,26 @@ Try to find a weapon with which to attack the zombies - bare-hands fighting only
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Zool2_v1.0_AGA_0415.lha</path>
+		<name>Zool 2</name>
+		<desc>The sequel to Zool sees him take on the bad guys Mental Block and Krool across 15 levels.
+
+Zool 2 is a platform game where you control the titular "Ninja of the Nth Dimension" (or his girlfriend, Zooz, who can complete each level in a slightly different way) as he rampages through a variety of levels, collecting countless tasty treats, shooting any enemies that he encounters and finding bonuses (there's a variety of special power-ups Zool can find - for example, a bomb that follows him and can be blown up at any time to remove on-screen enemies, or a temporary invulnerability). New to the sequel is Zool's ability to scale walls and his new spinning attacks. 
+
+On each level you have to collect a certain amount of the featured fruit within an allocated time limit, and then find the exit across the multi-directionally-scrolling levels. There are lots of hidden areas to see, including a bonus Breakout game starring Zool's pet 2-headed dog.</desc>
+		<image>./mixart/Zool2_v1.0_AGA_0415.png</image>
+		<video>./snap/Zool2_v1.0_AGA_0415.mp4</video>
+		<marquee>./wheel/Zool2_v1.0_AGA_0415.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Gremlin Interactive</developer>
+		<publisher>Gremlin Interactive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Zool_v2.0_AGA_1675.lha</path>
 		<name>Zool - Ninja Of The 'nth' Dimension</name>
 		<desc>His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. 
@@ -37329,6 +37336,32 @@ Two players can compete in split-screen mode, where each removed line turns the 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./AnotherWorld_v2.4_0425.lha</path>
+		<name>Out of this World</name>
+		<desc>Another World, also known as Out of This World in North America and Outer World (ã‚¢ã‚¦ã‚¿ãƒ¼ãƒ¯ãƒ¼ãƒ«ãƒ‰ AutÄ WÄrudo?) in Japan, is a 1991 cinematic platformer action-adventure game designed by Ã‰ric Chahi for Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself in a dangerous alien world where he is forced to fight for his survival.
+
+Originally developed for the Amiga and Atari ST and later released for the Apple IIGS and DOS platforms, the game was widely ported to other contemporary systems. Later efforts resulted in several game engine recreations for the game that permitted it to run on modern computers, consoles and mobile phones. In 2006, Chahi independently released a 15th Anniversary Edition for Windows which allowed the game to be played on modern computers with original or enhanced visuals; following up in 2011 for its 20th anniversary, ports of the game were prepared for iOS and Android based devices.
+
+Another World was highly innovative in its use of cinematic effects in both real-time and cutscenes, which granted the game praise amongst critics and commercial success. It also influenced a number of other video games and designers.
+
+Another World is a platform game, featuring a control scheme wherin the player uses either the keyboard, joystick or gamepad to make the protagonist run, jump, attack and perform other, situation specific actions such as rocking a cage back and forth. In the initial part of the game, Lester is unarmed, as he is able to kick at small creatures but is otherwise defenseless.
+
+Later in the game, the player acquires a laser pistol from a fallen foe. The pistol has three capabilities: a standard fire mode, the ability to create force fields to block enemy fire, and a powerful charged shot that can break through force fields and some walls.[3] Eventually, Lester also gains a plasma ball that can be used like a grenade to defeat foes (not featured in the original Amiga release). Enemies also have the same capabilities, requiring the player to take advantage of the three gun modes and the environment to overcome them.
+
+Lester and his alien ally cannot sustain any damage, and the game ends immediately if either of them is struck by a projectile or comes in contact with an animal or an environmental hazard.[4] However, the game uses numerous checkpoints enabling the player to keep restarting at the last point indefinitely. On the Amiga and older</desc>
+		<image>./mixart/AnotherWorld_v2.4_0425.png</image>
+		<video>./snap/AnotherWorld_v2.4_0425.mp4</video>
+		<marquee>./wheel/AnotherWorld_v2.4_0425.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./AstroMarineCorps_v1.2.lha</path>
 		<name>A.M.C. : Astro Marine Corps</name>
 		<desc>AMC is a 2D game with horizontal scrolling in 2 phases (typical of Spanish games), in the same style as Gryzor. In the first phase, one plays a commando that is sent on the planet DENDAR to trap the ship of the Death Bringers, the bearers of death. There are 11 different enemies to meet you, and Krauer, the Death Bringers leader who protects the ship and is 4 meters tall.
@@ -37412,6 +37445,24 @@ The accurately modelled tracks meant that the player could actually recognise th
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Lemmings2_v1.6_1MB_0351.lha</path>
+		<name>Lemmings 2 : The Tribes</name>
+		<desc>The sequel to Lemmings has a plot describing how the Lemmings have split into 12 distinct tribes, each of which has their own landscape and their own cultural identity - they include Egyptian, Circus and Highland. However, Lemming Island is now in danger, and you must complete 10 levels for each tribe in order for them to reunite and reassemble the Talisman from the 12 pieces.
+
+Across the 120 levels there are over 60 skills, although no more than 10 are in use on each screen. The Classic tribe has the ones from the original and is perhaps the best option for first-time players.</desc>
+		<image>./mixart/Lemmings2_v1.6_1MB_0351.png</image>
+		<video>./snap/Lemmings2_v1.6_1MB_0351.mp4</video>
+		<marquee>./wheel/Lemmings2_v1.6_1MB_0351.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>DMA Design</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./ManiacMansion_v1.6_1571.lha</path>
 		<name>Maniac Mansion</name>
 		<desc>The Edison mansion has always been a creepy old house on the edge of town. There have been rumors of strange experiments going on and of odd creatures living amongst the Edison family. There is even a story that a meteorite once crashed near the home nearly 20 years ago. More immediately, a girl named Sandy has gone missing from the local highschool and her boyfriend Dave swears that he saw Dr. Fred abducting her. Dave knows that he cannot do it alone and will need help from two other students if he has any hope of infiltrating the mansion and rescuing Sandy.
@@ -37448,6 +37499,23 @@ Players start by choosing 2 students to accompany Dave to the Edison mansion, an
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./MonkeyIsland2_v1.3_0020.lha</path>
+		<name>Monkey Island 2 : LeChuck's Revenge</name>
+		<desc>Guybrush Threepwood, the mighty pirate who can hold his breath for ten minutes, could have lived quietly and happily with his sweetheart Elaine, the governor of Melee Island. But the restless pirate spirit won't let Guybrush in peace. Things don't go very well with Elaine, and Guybrush (now with a beard) embarks on a new adventure: searching for the legendary treasure of Big Whoop. However, the evil ghost pirate LeChuck hasn't left the stage yet. His subordinates are trying to bring him back from the dead one more time. Will Guybrush be able to defeat his archenemy again?</desc>
+		<image>./mixart/MonkeyIsland2_v1.3_0020.png</image>
+		<video>./snap/MonkeyIsland2_v1.3_0020.mp4</video>
+		<marquee>./wheel/MonkeyIsland2_v1.3_0020.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Qwak_v1.2_0715.lha</path>
 		<name>Qwak</name>
 		<desc>In this game, you play a duck and the object of the game is to get the highest score without losing all your lives. This can be achieved by getting all the fruit and gems in the level, or killing off enemies. There are 80 levels to complete and once you complete all of them, the levels are repeated. 
@@ -37474,6 +37542,44 @@ Qwak can be played as either a one or two player game. The game was released at 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./RainbowIslands_v1.4.1_0012.lha</path>
+		<name>Rainbow Islands</name>
+		<desc>Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.
+
+Using the power to cast rainbows, trapping anything underneath, the boys must ascend vertically 4 levels each island, with a big, bad boss at the end of each.
+
+By trapping beasts under your rainbows, then jumping on them to break them you can collect seven different colored gems, and there are also power-ups for extra speed and rainbows.</desc>
+		<image>./mixart/RainbowIslands_v1.4.1_0012.png</image>
+		<video>./snap/RainbowIslands_v1.4.1_0012.mp4</video>
+		<marquee>./wheel/RainbowIslands_v1.4.1_0012.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Roadkill_v2.2_AGA_1108.lha</path>
+		<name>Roadkill</name>
+		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature inbuilt hazards and treacherous shortcuts
+
+Money is a big factor in all of this - the higher you finish in a race, the more you get; it can be collected during the race; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.</desc>
+		<image>./mixart/Roadkill_v2.2_AGA_1108.png</image>
+		<video>./snap/Roadkill_v2.2_AGA_1108.mp4</video>
+		<marquee>./wheel/Roadkill_v2.2_AGA_1108.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Vision Software</developer>
+		<publisher>Acid</publisher>
+		<genre>Car, Multidirectional, Racing, Topdown</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Settlers_v1.6_0143.lha</path>
 		<name>Settlers, The</name>
 		<desc>The Settlers (also known as Serf City: Life is Feudal, original German title Die Siedler) is a slow-paced strategy video game by Blue Byte Software, released in 1993 for Commodore Amiga and in 1994 for the PC. The player is tasked with building a medieval settlement populated by an army of workers, each of whom perform their own individual task. The player competes against computer controlled opponents or another human player for supremacy of the land and resources.</desc>
@@ -37486,6 +37592,74 @@ Qwak can be played as either a one or two player game. The game was released at 
 		<publisher>Blue Byte</publisher>
 		<genre>Various</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SimonTheSorcerer_v1.3_AGA_0898.lha</path>
+		<name>Simon The Sorcerer</name>
+		<desc>Simon is just an ordinary boy in an extra-ordinary world. A world in which he must rescue Calypso the Wizard by embarking on a long challenging quest.</desc>
+		<image>./mixart/SimonTheSorcerer_v1.3_AGA_0898.png</image>
+		<video>./snap/SimonTheSorcerer_v1.3_AGA_0898.mp4</video>
+		<marquee>./wheel/SimonTheSorcerer_v1.3_AGA_0898.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Adventure Soft</developer>
+		<publisher>Adventure Soft</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Skidmarks_v1.0_AGA_0204.lha</path>
+		<name>Skidmarks</name>
+		<desc>The first instalment in the Skidmarks series is a slightly-from-above racer for one or two players in the vein of Super Sprint. There are four different cars to choose from: a rally sports car, a high-wheeled muscle car, a monster truck and a buggy. There are two sets of six tracks each, each track measuring roughly three by two screens in size. Apart from the usual simultaneous two-player option, where both play on the same computer, there is a (null) modem link option, allowing four players to compete at the same time. Additionally, messages can be sent via the serial line, so as to taunt the opposing team. Depending on the available memory, there are either one, two or four kinds of cars partaking in the race.
+
+An additional AGA enhancement disk, for Amiga 1200 and 4000 systems, updates the game to use sub-pixel scrolling and makes the sprites high resolution with greater colour depth.</desc>
+		<image>./mixart/Skidmarks_v1.0_AGA_0204.png</image>
+		<video>./snap/Skidmarks_v1.0_AGA_0204.mp4</video>
+		<marquee>./wheel/Skidmarks_v1.0_AGA_0204.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Acid</developer>
+		<publisher>Acid</publisher>
+		<genre>Arcade, Car, Competitive, Isometric, Multidirectional, Racing, Scrolling, Splitscreen</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superfrog_v1.4_0035.lha</path>
+		<name>Superfrog</name>
+		<desc>Superfrog is a one of these rare traditional jump &amp; run games. You’re – surprise – a frog. Your enemies are all animals – like bees, hedgehogs or snails. You have no weapons. The only way to kill the enemies is to jump on them. Every stage has a timelimit. In this limit you have to collect a pretended number of coins.
+
+Each of the 6 worlds has 4 stages. Every stage has a password. After all you can type your name into a hi score table.</desc>
+		<image>./mixart/Superfrog_v1.4_0035.png</image>
+		<video>./snap/Superfrog_v1.4_0035.mp4</video>
+		<marquee>./wheel/Superfrog_v1.4_0035.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TrapsNTreasures_v1.0.lha</path>
+		<name>Traps 'n Treasures</name>
+		<desc>Captain Jeremy FlynnÃ¢â‚¬â„¢s crew have been kidnapped in the Caribbean, and he must venture through 4 large baddy-infested levels to retrieve them. Along the way, you can collect money from handily-placed treasure chests, which can be spent in various shops to gain extra weaponry.</desc>
+		<image>./mixart/TrapsNTreasures_v1.0.png</image>
+		<video>./snap/TrapsNTreasures_v1.0.mp4</video>
+		<marquee>./wheel/TrapsNTreasures_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Roman Werner</developer>
+		<publisher>Starbyte</publisher>
+		<genre>Adventure, Jumper, Multidirectional, Pirates, Platform, Sideways</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -37504,6 +37678,44 @@ Qwak can be played as either a one or two player game. The game was released at 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Virocop_v1.4_AGA_1920.lha</path>
+		<name>Virocop</name>
+		<desc>In Virocop you enter the Gamedisk, a virtual holiday theme park that is under the threat of destruction of viruses. Your job is to take control of a virocop, D.A.V.E. (Digital Armoured Virus Exterminator) and eliminate the enemies before it's too late. The levels are split into worlds with four levels each, and each world has its own theme. For example the first world is sport themed so you will drive over football fields, billiard tables and racing courses. 
+
+The gameplay is the one of an isometric shooter, where you roll around the levels and shoot the enemies with one of several weapons. The weapons covers the whole range from fast but not so powerful weapons to more powerful (but slow) like mortars. The action can be enjoyed by one or two players both turn-by-turn or simultaneous where one player controls movement and the other the weapons.</desc>
+		<image>./mixart/Virocop_v1.4_AGA_1920.png</image>
+		<video>./snap/Virocop_v1.4_AGA_1920.mp4</video>
+		<marquee>./wheel/Virocop_v1.4_AGA_1920.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Graftgold</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Angle, Cyborgs, Multidirectional, Robot, Scifi, Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wings_v1.0_0410.lha</path>
+		<name>Wings</name>
+		<desc>You are an allied fighter pilot in WW1, duking it out with the "Huns" up in the sky in over 200 missions.
+
+The missions usually come in three flavors: Top-down view bombing missions where you have to take out strategically important targets, isometric strafing runs where you get to blast anything that you fancy blasting with an unlimited supply of ammo, and of course the main part: Dogfights in the sky. Rendered in 3D, seems from behind your head.
+
+The game is set in the years 1916 through 1918, and to loosen things up a little, we get to read a page of our character's new entry for the diary-like journal in his company between every mission.</desc>
+		<image>./mixart/Wings_v1.0_0410.png</image>
+		<video>./snap/Wings_v1.0_0410.mp4</video>
+		<marquee>./wheel/Wings_v1.0_0410.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Cinemaware</developer>
+		<publisher>Cinemaware</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Xenon2_v1.7_CDTV.lha</path>
 		<name>Xenon 2 : Megablast</name>
 		<desc>Xenon 2: Megablast is vertically scrolling space shooter, in which you have to pass several levels, filled with waves of enemies, that all end with a level boss creature. Each group of enemies you destroy grants you a cash reward and every once in a while you enter Colin's Bargain Basement, where you can use this cash to purchase upgrades for your ship like better weapons, speed &amp; health upgrades etc. Some upgrades can also be picked up during the levels.The first part of the game has an organic feel to it, while the second part of the game features mechanical enemies. As there are some maze-like sections with dead-ends in the game, your spaceship scrolls backwards when you keep pressing the down key.</desc>
@@ -37516,6 +37728,22 @@ Qwak can be played as either a one or two player game. The game was released at 
 		<publisher>Image Works</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./YoJoe_v1.0_0750.lha</path>
+		<name>Yo! Joe!</name>
+		<desc>Yo! Joe! Beat the Ghosts is a platform game featuring two characters. The protagonists can jump, crawl, kick, beat, slide, and swim. They are even able to hold their breath when under water. If you are playing the game solely, "Joe" is your character of choice. A friend can take on Nat's part at the same PC.</desc>
+		<image>./mixart/YoJoe_v1.0_0750.png</image>
+		<video>./snap/YoJoe_v1.0_0750.mp4</video>
+		<marquee>./wheel/YoJoe_v1.0_0750.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Scipio</developer>
+		<publisher>Play Byte</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -37534,267 +37762,57 @@ Qwak can be played as either a one or two player game. The game was released at 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./BubbleBobble_v2.0_2518.lha</path>
-		<name>Bubble Bobble</name>
-		<desc>Bubble Bobble is an arcade comical action platformer video game by Taito, first released in 1986 and later ported to numerous home computers and game consoles. The game, starring the twin Bubble Dragons Bub and Bob, tasks players with travelling through one hundred stages, blowing and bursting bubbles, jumping on and off blown bubbles to navigate level obstacles, dodging and eliminating enemies, and collecting a variety of items including some that carry 'power ups' and significant bonuses.</desc>
-		<image>./mixart/BubbleBobble_v2.0_2518.png</image>
-		<video>./snap/BubbleBobble_v2.0_2518.mp4</video>
-		<marquee>./wheel/BubbleBobble_v2.0_2518.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Software Creations</developer>
-		<publisher>Firebird Software Ltd.</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./McDonaldLand_v1.4.1_0970.lha</path>
-		<name>McDonaldland</name>
-		<desc>The Hamburglar has stolen Ronald's bag of magic tricks! In this 2D platformer, it's up to you to play as Mick or Mac and get it back. Go across various lands and meet McDonald's characters as you travel to places like Ronald's Clubhouse, Birdie's Treehouse, and the Hamburglar's Hideout as you collect Ronald's cards. 
-
-To kill the many animal enemies you will find, you must collect bricks and throw them. In some sections you will travel along water in a dinghy; also watch for moving platforms and bonus sections, The game features seven different worlds with over 30 main levels and nine bonus levels.</desc>
-		<image>./mixart/McDonaldLand_v1.4.1_0970.png</image>
-		<video>./snap/McDonaldLand_v1.4.1_0970.mp4</video>
-		<marquee>./wheel/McDonaldLand_v1.4.1_0970.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Virgin</developer>
-		<publisher>Virgin</publisher>
-		<genre>Platform / Run Jump</genre>
-		<players>2</players>
-		<kidgame>true</kidgame>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./NorthSeaInferno_v1.1.lha</path>
-		<name>Persian Gulf Inferno, The</name>
-		<desc>The story is told quick enough: in 1990, terrorists capture the world's largest oil reserve and threaten to blow up an atomic bomb if their demands are not met. You are (as always) the only hope of mankind and so on.
-
-Persian Gulf Inferno is a side scrolling action/shooting game. You control your character, who is at first equipped with a handgun and two explosives, around the oil rig, shooting terrorists left &amp; right and trying to disarm the bomb before it goes boom. You can of course aquire more weapons like the SPA-S semi shotgun and machine guns.</desc>
-		<image>./mixart/NorthSeaInferno_v1.1.png</image>
-		<video>./snap/NorthSeaInferno_v1.1.mp4</video>
-		<marquee>./wheel/NorthSeaInferno_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Magic Bytes</developer>
-		<publisher>Magic Bytes</publisher>
-		<genre>Various</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./ProjectXSE_v1.5_0927.lha</path>
-		<name>Project-X</name>
-		<desc>Six levels of horizontally-scrolling shooting await in this R-Type style action game. The attack waves vary in style, with some attacking you from quite fiendish angles.
-
-These give off blue power-up tokens, which are used towards selecting one of many weapons. There are 4 front-firing options (guns, plasma, magma and laser-beams - guns can be built up quickly but lack top-end power compared to the others) as well as speed-up (only requires one token), side-shot, up to 3 homing missiles, build (a quick super-destructive blast that only functions when you aren't using auto-fire) and stealth (a period of invulnerability).
-
-Each level has a very different setting, and an end-of-level boss to defeat. The chance to resume from the level you died at is offered up to level 3.
-
-Unusually, the game has an option to emulate an auto-fire function using software (this makes it one of the few Amiga shoot 'em ups you can hope to get as far through on an emulator on keyboard as on joystick on the real thing).</desc>
-		<image>./mixart/ProjectXSE_v1.5_0927.png</image>
-		<video>./snap/ProjectXSE_v1.5_0927.mp4</video>
-		<marquee>./wheel/ProjectXSE_v1.5_0927.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Shoot'em Up, Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./RickDangerous_v1.3_2294.lha</path>
-		<name>Rick Dangerous</name>
-		<desc>You play Rick Dangerous, an Indiana Jones type who's on a quest to find the lost Coolu Amazon tribe.  However, his plane crashes in the middle of a bunch of crazed Coolus. Hopefully he's up to the challenge of escaping. If he is, he will find himself in the pyramid of Egypt with no easy way past leaders and their minions, and then engulfed in a web of traps in a Nazi base.
-
-Rick Dangerous is a platform game across over 100 screens, in which Rick has his gun in one hand, and dynamite sticks in another. You must take a methodical approach to clearing each screen, as there are traps in place which will need memorizing and preempting where possible. Use the dynamite wisely, for enemies you can't get into the purely-horizontal range of your gun.</desc>
-		<image>./mixart/RickDangerous_v1.3_2294.png</image>
-		<video>./snap/RickDangerous_v1.3_2294.mp4</video>
-		<marquee>./wheel/RickDangerous_v1.3_2294.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Firebird</developer>
-		<publisher>Core Design</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./RoboCop3_v1.3_0979.lha</path>
-		<name>RoboCop 3</name>
-		<desc>F29 Retaliator authors DID developed this particular use of the Robocop license, and produced something different from most film licenses. While it featured a succession of levels based around sections of the movie, these were highly varied and presented in polygon 3D graphics. These can be played in any order in the Arcade mode, or in planned sequence in the Movie Adventure mode, which follows the film's plot of Japanese investors wishing to replace Robocop with their Robot Ninja designs, and thus expecting him to prove himself as superior.
-
-The first task is a car chase resembling Chase HQ, in which a mazey section of road must be followed efficiently. There are several first-person 3D shooing sections,. in which you must use a target to shoot down punks and invaders, without harming civilians. Robocop also takes to the skies in a simulation of his new Gyropack flying device. Also, he must do battle with his intended replacement in a fixed-perspective beat 'em up section.</desc>
-		<image>./mixart/RoboCop3_v1.3_0979.png</image>
-		<video>./snap/RoboCop3_v1.3_0979.mp4</video>
-		<marquee>./wheel/RoboCop3_v1.3_0979.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Digital Image</developer>
-		<publisher>Ocean</publisher>
-		<genre>3d, Beatemup, Car, Driving, Firstperson, Futuristic, Movie, Multigenre, Scifi, Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./AlienBreed_v2.3a_0998.lha</path>
-		<name>Alien Breed</name>
-		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
-
-Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
-		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
-		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
-		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911014T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./BackToTheFuturePart2_v1.2_0005.lha</path>
-		<name>Back to the Future Part II</name>
-		<desc>Back to the Future II is a collection of five arcade and puzzle games.
-
-Based on the second installment of the popular Hollywood series Back to the Future, this movie conversion has Marty McFly and Doc Brown travel through time to stop their arch-rival Biff from changing the future. The game consists of five parts, each inspired by one of the movie's most memorable scenes:
-
-1. Hoverboard Chase: A Paperboy clone without newspapers, but with isometric levels and lots of enemies to dodge.
-2. Jennifer Rescue: Guide Marty's girlfriend Jennifer out of the house without her meeting one of the four family members. Open and close doors to make the persons go from one room to the next in this top-down puzzle sequence.
-3. Beat Biff: A side-scrolling beat-em-up sequence in the tradition of Double Dragon. Fight your way through a grim 1985 by jumping, hitting and kicking at Biff's lackeys.
-4. Band Puzzle: Rearrange the mixed-up parts of an animated picture of the school band in this sliding block puzzle. The clock is ticking.
-5. Hoverboard Chase 2: Another hoverboard sequence, similar to the first one, only this time set in 1955.</desc>
-		<image>./mixart/BackToTheFuturePart2_v1.2_0005.png</image>
-		<video>./snap/BackToTheFuturePart2_v1.2_0005.mp4</video>
-		<marquee>./wheel/BackToTheFuturePart2_v1.2_0005.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Images Software Ltd.</developer>
-		<publisher>Imageworks</publisher>
-		<genre>Action, Futuristic, Movie, Multigenre, Scifi, Timetravel</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SpittingImage_v1.0.lha</path>
-		<name>Spitting Image</name>
-		<desc>Spitting Image is based on the long-running British satirical television show with puppet likenesses of political figures and celebrities. A prophet determines that a world war will occur in seven years instigated by a mysterious leader. To avoid this, one ruler of the world must be determined in this beat 'em up involving six rulers: U.S.A.'s Ronald Regan, the U.K.'s Margaret Thatcher, the USSR's Mikhail Gorbachev, South Africa's PW Botha, Iran's Ayathollah Khomeini, and Pope John Paul II.
-
-Having chosen which to play as, you travel to an opponent's country to engage in a best-of-three fight that is judged by Queen Elizabeth II on a postage stamp. You attack each opponent on the ground as well as jumping in the air and each character has a special move like Thatcher's head-butt or Khomeini's beard whip. You can also call for help twice from an aide who will usually throw a projectile at your opponent. If you manage to defeat all 5 opponents, you will meet the mysterious leader in a final showdown in a mud-wrestling pit in the dark where you will only be able to see the eyes of the characters. You can also play 2-player fights, one against another on the same computer.</desc>
-		<image>./mixart/SpittingImage_v1.0.png</image>
-		<video>./snap/SpittingImage_v1.0.mp4</video>
-		<marquee>./wheel/SpittingImage_v1.0.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Walking Circles Software</developer>
-		<publisher>Domark</publisher>
-		<genre>Beatemup, Competitive, Humor, Sideways, Tv</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./AlienBreedTowerAssault_v1.3_AGA_2331.lha</path>
-		<name>Alien Breed : Tower Assault</name>
-		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.</desc>
-		<image>./mixart/AlienBreedTowerAssault_v1.3_AGA_2331.png</image>
-		<video>./snap/AlienBreedTowerAssault_v1.3_AGA_2331.mp4</video>
-		<marquee>./wheel/AlienBreedTowerAssault_v1.3_AGA_2331.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Shooter / Run and Shoot</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./AnotherWorld_v2.4_0425.lha</path>
-		<name>Out of this World</name>
-		<desc>Another World, also known as Out of This World in North America and Outer World (ã‚¢ã‚¦ã‚¿ãƒ¼ãƒ¯ãƒ¼ãƒ«ãƒ‰ AutÄ WÄrudo?) in Japan, is a 1991 cinematic platformer action-adventure game designed by Ã‰ric Chahi for Delphine Software. The game tells a story of Lester, a young scientist who, as a result of an experiment gone wrong, finds himself in a dangerous alien world where he is forced to fight for his survival.
-
-Originally developed for the Amiga and Atari ST and later released for the Apple IIGS and DOS platforms, the game was widely ported to other contemporary systems. Later efforts resulted in several game engine recreations for the game that permitted it to run on modern computers, consoles and mobile phones. In 2006, Chahi independently released a 15th Anniversary Edition for Windows which allowed the game to be played on modern computers with original or enhanced visuals; following up in 2011 for its 20th anniversary, ports of the game were prepared for iOS and Android based devices.
-
-Another World was highly innovative in its use of cinematic effects in both real-time and cutscenes, which granted the game praise amongst critics and commercial success. It also influenced a number of other video games and designers.
-
-Another World is a platform game, featuring a control scheme wherin the player uses either the keyboard, joystick or gamepad to make the protagonist run, jump, attack and perform other, situation specific actions such as rocking a cage back and forth. In the initial part of the game, Lester is unarmed, as he is able to kick at small creatures but is otherwise defenseless.
-
-Later in the game, the player acquires a laser pistol from a fallen foe. The pistol has three capabilities: a standard fire mode, the ability to create force fields to block enemy fire, and a powerful charged shot that can break through force fields and some walls.[3] Eventually, Lester also gains a plasma ball that can be used like a grenade to defeat foes (not featured in the original Amiga release). Enemies also have the same capabilities, requiring the player to take advantage of the three gun modes and the environment to overcome them.
-
-Lester and his alien ally cannot sustain any damage, and the game ends immediately if either of them is struck by a projectile or comes in contact with an animal or an environmental hazard.[4] However, the game uses numerous checkpoints enabling the player to keep restarting at the last point indefinitely. On the Amiga and older</desc>
-		<image>./mixart/AnotherWorld_v2.4_0425.png</image>
-		<video>./snap/AnotherWorld_v2.4_0425.mp4</video>
-		<marquee>./wheel/AnotherWorld_v2.4_0425.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Interplay</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Banshee_v3.3_AGA_0633.lha</path>
-		<name>Banshee</name>
-		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
-
-There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
-		<image>./mixart/Banshee_v3.3_AGA_0633.png</image>
-		<video>./snap/Banshee_v3.3_AGA_0633.mp4</video>
-		<marquee>./wheel/Banshee_v3.3_AGA_0633.png</marquee>
+		<path>./Universe_v1.3_0894.lha</path>
+		<name>Universe</name>
+		<desc>You are Boris Verne, a normal guy who is been cast in a parallel universe because of your uncle's Virtual Dimension Inducer. There you'll have to find the fabled lost star as well as a way to defeat the Golden King...
+This is a classic old-style adventure game with a point&amp;click interface. It uses the Rotoscope system to manage game characters and scores really beautiful 256-colour graphic.</desc>
+		<image>./mixart/Universe_v1.3_0894.png</image>
+		<video>./snap/Universe_v1.3_0894.mp4</video>
+		<marquee>./wheel/Universe_v1.3_0894.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
 		<developer>Core Design</developer>
 		<publisher>Core Design</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RuffNTumble_v2.3_0199.lha</path>
+		<name>Ruff 'n' Tumble</name>
+		<desc>Ruff Rogers has lost his marbles - in the literal sense of the small round balls used to play a game on drains. He's been armed with a gun to retrieve them from 16 levels of side-scrolling platform shooting.
+
+The gun you start with isn't especially powerful, but various machine guns and flamethrowers can be collected, which make much lighter work of the enemies. Your character can jump and duck responsively, and fire at all angles.
+
+There are 3 different colours of marbles, which a quota to recover from each level. Collecting enough of each particular colour sees all similar ones turned to coins, which can go towards extra lives and points bonuses. Switches are built into the levels; these act as restart points.</desc>
+		<image>./mixart/RuffNTumble_v2.3_0199.png</image>
+		<video>./snap/RuffNTumble_v2.3_0199.mp4</video>
+		<marquee>./wheel/RuffNTumble_v2.3_0199.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Wunderkind</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./BattleChess_v1.1_CDTV.lha</path>
-		<name>Battle Chess</name>
-		<desc>Battle Chess is a quite typical chess game, but it comes with a twist: all pieces are represented by small, realistic figures that walk around on the chessboard, and when one piece takes another, they both take part in an animated battle. There is a different animation for each permutation, depending on which pieces are capturing or being captured. You can also play in 2D without animation. 
+		<path>./SoccerKid_v2.1_AGA_1150.lha</path>
+		<name>Soccer Kid</name>
+		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
 
-The game's opening library includes 30,000 different moves, ensuring a variety of games will unfold across the 10 skill levels. 
+Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
 
-Multi-player support can be extended to modem and/or serial port play.</desc>
-		<image>./mixart/BattleChess_v1.1_CDTV.png</image>
-		<video>./snap/BattleChess_v1.1_CDTV.mp4</video>
-		<marquee>./wheel/BattleChess_v1.1_CDTV.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Interplay</developer>
-		<publisher>Interplay</publisher>
-		<genre>Board game</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./BloodNet_v2.0_AGA_1667.lha</path>
-		<name>Bloodnet - A Cyberpunk Gothic</name>
-		<desc>BloodNet is an adventure game with RPG elements.
-
-You play as Ransom Stark, a computer hacker, scrounger or mercenary (depending on how the player answers the opening questions when they start a new game) who finds himself caught up in a sinister affair involving an evil global megacorporation, TransTechnicals, Manhattan, a fight for Cyberspace and vampires!
-
-Ransom Stark became stricken with Hopkins-Brie Ontology Syndrome whilst working at TransTechnicals, due to his forced extended exposure to Cyberspace while he worked there. As soon as he was diagnosed he was dismissed from TransTech and found himself homeless and hopeless. Thankfully an ingenious woman, with a personal vendetta against TransTech, named Deirdre Tackett saved his life by inserting a prototype brain implant of her own design and this restoring his grip on reality.
-
-Over the following year Ransom became known as a reliable freelance until one day he got a job worth much more than he bargained for! His employers turned out to be vampires and as part of his 'payment', Ransom was turned into a follower of the evil head-vampire, Abraham Van Helsing -- except his brain implant kicked in allowing him to keep temporary control of his humanity.
-
-Now Ransom must put a stop to Van Helsing's plans to take over Manhattan and control Cyberspace and hopefully save himself from being a vampire before its too late!</desc>
-		<image>./mixart/BloodNet_v2.0_AGA_1667.png</image>
-		<video>./snap/BloodNet_v2.0_AGA_1667.mp4</video>
-		<marquee>./wheel/BloodNet_v2.0_AGA_1667.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>MicroProse</developer>
-		<publisher>GameTek</publisher>
-		<genre>Role playing games</genre>
+There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
+		<image>./mixart/SoccerKid_v2.1_AGA_1150.png</image>
+		<video>./snap/SoccerKid_v2.1_AGA_1150.mp4</video>
+		<marquee>./wheel/SoccerKid_v2.1_AGA_1150.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Krisalis Software</developer>
+		<publisher>Krisalis Software</publisher>
+		<genre>Platform</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -37825,6 +37843,21 @@ Laughs, blood</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./BubbleBobble_v2.0_2518.lha</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble is an arcade comical action platformer video game by Taito, first released in 1986 and later ported to numerous home computers and game consoles. The game, starring the twin Bubble Dragons Bub and Bob, tasks players with travelling through one hundred stages, blowing and bursting bubbles, jumping on and off blown bubbles to navigate level obstacles, dodging and eliminating enemies, and collecting a variety of items including some that carry 'power ups' and significant bonuses.</desc>
+		<image>./mixart/BubbleBobble_v2.0_2518.png</image>
+		<video>./snap/BubbleBobble_v2.0_2518.mp4</video>
+		<marquee>./wheel/BubbleBobble_v2.0_2518.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Software Creations</developer>
+		<publisher>Firebird Software Ltd.</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./ChaosEngine_v1.2_AGA_1324.lha</path>
 		<name>Chaos Engine, The</name>
 		<desc>Sixteen levels (in four groups of four) await you in this long-developed Bitmap Brothers title. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and such in the maps. The visuals are in the 'metallic and blue' style the Bitmaps appeared to favor.
@@ -37839,96 +37872,6 @@ There were 6 characters available in the game, each with different strengths and
 		<publisher>The Bitmap Brothers</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./CrazyCars3_v2.1.lha</path>
-		<name>Crazy Cars 3</name>
-		<desc>You've just arrived in the United States with your heart set on becoming a millionaire. As your only skill is advanced race-driver training, you decide to enter the Saturday Night Races tournament of illegal highway challenges. As chance would have it, you run into an old friend down on his luck. In order to recoup some of his lost wealth, he sells you his prized Lamborghini Diablo at a rock-bottom price. This uses up all but a few thousand dollars of your life savings. Despite your lack of funds, your sights are firmly set on reaching the first division of this competition. To do this, you must start by winning easy races in Division 4, until you have enough skill and money to enter more difficult ones.
-
-When you feel confident enough in your driving abilities, you may try the Division Challenge. If you succeed, you will progress to the next division. Races become more challenging as you progress, but you can buy more sophisticated equipment and win greater prices.</desc>
-		<image>./mixart/CrazyCars3_v2.1.png</image>
-		<video>./snap/CrazyCars3_v2.1.mp4</video>
-		<marquee>./wheel/CrazyCars3_v2.1.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Titus</developer>
-		<publisher>Titus Interactive, S.A..</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<kidgame>true</kidgame>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./DarkSeed_v1.4_2141.lha</path>
-		<name>Darkseed</name>
-		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.
-
-You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...
-
-... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
-		<image>./mixart/DarkSeed_v1.4_2141.png</image>
-		<video>./snap/DarkSeed_v1.4_2141.mp4</video>
-		<marquee>./wheel/DarkSeed_v1.4_2141.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Incentive Software</developer>
-		<publisher>Cinemaware</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./DesertStrike_v3.1_0112.lha</path>
-		<name>Desert Strike : Return to the Gulf</name>
-		<desc>Manual:
-https://www.lemonamiga.com/games/docs.php?id=462
-Desert Strike, is a shoot 'em up inspired by the Gulf War and depicts a conflict between an insane Middle Eastern dictator, General Kilbaba, and the United States. The player controls an Apache helicopter and attempts to destroy enemy weapons and installations, rescue hostages and capture enemy personnel, while managing supplies of fuel and ammunition.</desc>
-		<image>./mixart/DesertStrike_v3.1_0112.png</image>
-		<video>./snap/DesertStrike_v3.1_0112.mp4</video>
-		<marquee>./wheel/DesertStrike_v3.1_0112.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>EA</developer>
-		<publisher>EA Games</publisher>
-		<genre>Shooter, Shoot'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Dune2_v1.1_1548.lha</path>
-		<name>Dune II - The Battle for Arrakis</name>
-		<desc>Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
-
-The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.</desc>
-		<image>./mixart/Dune2_v1.1_1548.png</image>
-		<video>./snap/Dune2_v1.1_1548.mp4</video>
-		<marquee>./wheel/Dune2_v1.1_1548.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Virgin</developer>
-		<publisher>Westwood Studios</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<kidgame>true</kidgame>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./FightinSpirit_v1.2_AGA.lha</path>
-		<name>Fightin' Spirit</name>
-		<desc>Fightin 'Spirit is a classic fighting game in which ten characters fight off against each other to gain ranks in order to join the big mafia organization that is behind the tournament. The characters all have special moves and can turn into animal forms.</desc>
-		<image>./mixart/FightinSpirit_v1.2_AGA.png</image>
-		<video>./snap/FightinSpirit_v1.2_AGA.mp4</video>
-		<marquee>./wheel/FightinSpirit_v1.2_AGA.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Light Shock</developer>
-		<publisher>neo</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -38029,59 +37972,24 @@ The gameplay takes place across worlds themed around particular types of toys, s
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Lemmings2_v1.6_1MB_0351.lha</path>
-		<name>Lemmings 2 : The Tribes</name>
-		<desc>The sequel to Lemmings has a plot describing how the Lemmings have split into 12 distinct tribes, each of which has their own landscape and their own cultural identity - they include Egyptian, Circus and Highland. However, Lemming Island is now in danger, and you must complete 10 levels for each tribe in order for them to reunite and reassemble the Talisman from the 12 pieces.
+		<path>./RiseOfTheRobots_v1.3_AGA_1763.lha</path>
+		<name>Rise Of The Robots</name>
+		<desc>Rise of the Robots emerges from the hype and reveals itself as a good-looking but rather unwieldy beat-em-up. The game, in all of the currently available versions, is just not that good.
 
-Across the 120 levels there are over 60 skills, although no more than 10 are in use on each screen. The Classic tribe has the ones from the original and is perhaps the best option for first-time players.</desc>
-		<image>./mixart/Lemmings2_v1.6_1MB_0351.png</image>
-		<video>./snap/Lemmings2_v1.6_1MB_0351.mp4</video>
-		<marquee>./wheel/Lemmings2_v1.6_1MB_0351.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>DMA Design</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Lionheart_v2.2_0845.lha</path>
-		<name>Lionheart</name>
-		<desc>As Valdyn aka "Lionheart", you will have to travel deep into the territory of your king's enemy to retrieve a stolen holy relic which happens to be named "Lionheart" as well.
+In terms of pure beat-em-up action, Rise of the Robots is outclassed by the barely-better-than-16-bit BODY BLOWS games. ROTR is quite poor in the "special moves" area of beat-em-up gaming. The graphics? Well... the animations are good. The characters, when still, look very good too. When moving they are anything but realistic looking. Their movements are jerky and very repetitive. What's different in each version? Not a lot. All of them suffer from the poor control and jerky animation.
 
-The game itself is a platform/hack'n'slay affair, similar to Rastan. You proceed through the world that is scrolling in all directions and cut everything to pieces with your trusty sword that is cocky enough to come close to you.</desc>
-		<image>./mixart/Lionheart_v2.2_0845.png</image>
-		<video>./snap/Lionheart_v2.2_0845.mp4</video>
-		<marquee>./wheel/Lionheart_v2.2_0845.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Thalion Software</developer>
-		<publisher>Thalion Software</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./LostVikings_v2.0_2235.lha</path>
-		<name>Lost Vikings, The</name>
-		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.
+The non-AGA version takes less time to install on the hard drive than the AGA version because some of the Ã¢â‚¬Å“cinematicsÃ¢â‚¬Â have been taken out. They're not much of a loss really. This version also looks pretty good considering the number of colors onscreen. It seems to play a tad faster too.
 
-The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.
-
-The player controls one Viking at a time, but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points, and if he loses them all from confrontations with dangers, he dies (some threats kill instantly), and the level must be restarted.</desc>
-		<image>./mixart/LostVikings_v2.0_2235.png</image>
-		<video>./snap/LostVikings_v2.0_2235.mp4</video>
-		<marquee>./wheel/LostVikings_v2.0_2235.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Silicon &amp; Synapse</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
+Disappointment is the key word here. The game promised so much and delivered so little. I guess one good thing is that, for once, the PC suffers from the exact same problems.</desc>
+		<image>./mixart/RiseOfTheRobots_v1.3_AGA_1763.png</image>
+		<video>./snap/RiseOfTheRobots_v1.3_AGA_1763.mp4</video>
+		<marquee>./wheel/RiseOfTheRobots_v1.3_AGA_1763.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Mirage</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -38108,39 +38016,162 @@ You can play through the set of tracks either full-screen or in split-screen mod
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./MikroMortalTennis_v1.0.lha</path>
-		<name>Mikro Mortal Tennis</name>
-		<desc>As you can guess from the title, Mikro Mortal Tennis is basically founded on tennis game, but its goal is to eliminate your opponents, not simply to defeat them! To this purpose, players might make use of loads of Mortal-Kombat and Street-Fighter-like special moves, in addition to many others, directly taken from lots of famous videogames or films. Besides, there are bombs, Fire'n'forget rockets, heat-seeking missiles at their complete disposal... The game boasts an amusing animated intro which will explain the reason of such a strange tournament - by the way, your order is to climb a high mountain, just like the second episode of the Mortal Kombat saga; moreover, it features several victory and defeat pictures and an even more crazy final sequence than the intro!
+		<path>./Frontier_v1.2_1960.lha</path>
+		<name>Frontier - Elite II</name>
+		<desc>Frontier: Elite 2 is, of course, the sequel to Elite and it continues in much the same way. You have a ship and limited funds, and nowhere to go but out into space. Trade, fight, hunt criminals, work for the various governments, anything goes in Frontier. There are few, if any, limits on what you can do or where you can go. And Frontier's universe (with approx. 100,000,000,000 planets and moons) is so big you'll never see the end of it.</desc>
+		<image>./mixart/Frontier_v1.2_1960.png</image>
+		<video>./snap/Frontier_v1.2_1960.mp4</video>
+		<marquee>./wheel/Frontier_v1.2_1960.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19931006T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Worms_v1.0_2MB_0230.lha</path>
+		<name>Worms</name>
+		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
 
-Players can choose their characters from a range of twelve different guys, each distinguished with typical characteristics, which can be edited in the proper menu. Beyond every human conceiving, the game is spangled with lots of mad things, like referee-slaughtering, animals which will appear in the field, VIPs which will perform during the match, and a mysterious tapir named Fart (main character of the game, as you can be able to guess from the introduction) which will perform in a number of funny anims. At the beginning of the match the players will enter the field and choose the field in which play with an incredible money trowing!
+Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
 
-Of course, the sporting side of the game is not to be underestimated. You'll always have to win your match! From this point of view, the game is classically structured: pitch type, number of sets to win, type of game (single, double or training), as well as the type of tournament to join; you'll be able to select, in addition to the above-mentioned MK-style tournament, an UNFRIENDLY tournament in which up to eight human players are allowed to take part, or a full season, where player will have to win as much as possible to travel all over the world, and in order to buy weapons and points which will help him in his short career. It's possible to save and subsequently restore your season from disc as well as every change made in the players editing menu, where you're able to change the name, the characteristics and the shirt colour of all the characters... Well, that's all, there's nothing left but wishing you to enjoy Mikro Mortal Tennis! Mikro Mortal Tennis supports all Amiga models with at least 1 Meg of Ram.</desc>
-		<image>./mixart/MikroMortalTennis_v1.0.png</image>
-		<video>./snap/MikroMortalTennis_v1.0.mp4</video>
-		<marquee>./wheel/MikroMortalTennis_v1.0.png</marquee>
+There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
+
+There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.</desc>
+		<image>./mixart/Worms_v1.0_2MB_0230.png</image>
+		<video>./snap/Worms_v1.0_2MB_0230.mp4</video>
+		<marquee>./wheel/Worms_v1.0_2MB_0230.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Agony_v2.1_0960.lha</path>
+		<name>Agony</name>
+		<desc>This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.
+
+These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected. The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.</desc>
+		<image>./mixart/Agony_v2.1_0960.png</image>
+		<video>./snap/Agony_v2.1_0960.mp4</video>
+		<marquee>./wheel/Agony_v2.1_0960.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Art &amp; Magic</developer>
+		<publisher>Psygnosis Limited</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AlienBreedTowerAssault_v1.3_AGA_2331.lha</path>
+		<name>Alien Breed : Tower Assault</name>
+		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.</desc>
+		<image>./mixart/AlienBreedTowerAssault_v1.3_AGA_2331.png</image>
+		<video>./snap/AlienBreedTowerAssault_v1.3_AGA_2331.mp4</video>
+		<marquee>./wheel/AlienBreedTowerAssault_v1.3_AGA_2331.png</marquee>
 		<rating>0.6</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Skywards</developer>
-		<publisher>Epic Marketing</publisher>
-		<genre>Sports / Tennis</genre>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Shooter / Run and Shoot</genre>
 		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./MonkeyIsland2_v1.3_0020.lha</path>
-		<name>Monkey Island 2 : LeChuck's Revenge</name>
-		<desc>Guybrush Threepwood, the mighty pirate who can hold his breath for ten minutes, could have lived quietly and happily with his sweetheart Elaine, the governor of Melee Island. But the restless pirate spirit won't let Guybrush in peace. Things don't go very well with Elaine, and Guybrush (now with a beard) embarks on a new adventure: searching for the legendary treasure of Big Whoop. However, the evil ghost pirate LeChuck hasn't left the stage yet. His subordinates are trying to bring him back from the dead one more time. Will Guybrush be able to defeat his archenemy again?</desc>
-		<image>./mixart/MonkeyIsland2_v1.3_0020.png</image>
-		<video>./snap/MonkeyIsland2_v1.3_0020.mp4</video>
-		<marquee>./wheel/MonkeyIsland2_v1.3_0020.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Adventure</genre>
+		<path>./AlienBreed_v2.3a_0998.lha</path>
+		<name>Alien Breed</name>
+		<desc>Alien Breed is a top-down science fiction shooter somewhat inspired by the movie Alien in terms of plot and atmosphere. Gameplay, though, was obviously inspired by the Atari arcade classic Gauntlet. The game tells a typical sci-fi story of an alien invasion on the space station ISRC-4. Two space marines, Johnson and Stone, are the only human beings left to clear the base of aliens.
+
+Moving around an alien-infested complex in a top-down view, you must at all times keep an eye not only on your energy level, but also be conservative with ammunition. Though you will find new ammo cartridges strewn around the levels, they are consumed quickly by respawning aliens that may come crawling out of the floors and walls when you least expect it. On the floors, you will also find keys for passing through locked doors. Keys must also be used with care, or you may find yourself locked out of a room containing the remaining keys that you will need in order to complete the level. Other doors are one-way, and will electrocute you if you try to pass it in the other direction.</desc>
+		<image>./mixart/AlienBreed_v2.3a_0998.png</image>
+		<video>./snap/AlienBreed_v2.3a_0998.mp4</video>
+		<marquee>./wheel/AlienBreed_v2.3a_0998.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911014T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Banshee_v3.3_AGA_0633.lha</path>
+		<name>Banshee</name>
+		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
+
+There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
+		<image>./mixart/Banshee_v3.3_AGA_0633.png</image>
+		<video>./snap/Banshee_v3.3_AGA_0633.mp4</video>
+		<marquee>./wheel/Banshee_v3.3_AGA_0633.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CrazyCars3_v2.1.lha</path>
+		<name>Crazy Cars 3</name>
+		<desc>You've just arrived in the United States with your heart set on becoming a millionaire. As your only skill is advanced race-driver training, you decide to enter the Saturday Night Races tournament of illegal highway challenges. As chance would have it, you run into an old friend down on his luck. In order to recoup some of his lost wealth, he sells you his prized Lamborghini Diablo at a rock-bottom price. This uses up all but a few thousand dollars of your life savings. Despite your lack of funds, your sights are firmly set on reaching the first division of this competition. To do this, you must start by winning easy races in Division 4, until you have enough skill and money to enter more difficult ones.
+
+When you feel confident enough in your driving abilities, you may try the Division Challenge. If you succeed, you will progress to the next division. Races become more challenging as you progress, but you can buy more sophisticated equipment and win greater prices.</desc>
+		<image>./mixart/CrazyCars3_v2.1.png</image>
+		<video>./snap/CrazyCars3_v2.1.mp4</video>
+		<marquee>./wheel/CrazyCars3_v2.1.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Titus</developer>
+		<publisher>Titus Interactive, S.A..</publisher>
+		<genre>Race, Driving</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<kidgame>true</kidgame>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FightinSpirit_v1.2_AGA.lha</path>
+		<name>Fightin' Spirit</name>
+		<desc>Fightin 'Spirit is a classic fighting game in which ten characters fight off against each other to gain ranks in order to join the big mafia organization that is behind the tournament. The characters all have special moves and can turn into animal forms.</desc>
+		<image>./mixart/FightinSpirit_v1.2_AGA.png</image>
+		<video>./snap/FightinSpirit_v1.2_AGA.mp4</video>
+		<marquee>./wheel/FightinSpirit_v1.2_AGA.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Light Shock</developer>
+		<publisher>neo</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MicroMachines_v1.1_0357.lha</path>
+		<name>Micro Machines</name>
+		<desc>If you're bored of racing Formula 1 cars, rally cars or MotoGP bikes in their natural habitats, the Micro Machines series could be for you. It involves racing miniatures representing particular vehicle types across a particular terrain found around the house. The Sports Cars race on the desktop, 4x4s in the sandpit, Formula 1 cars on a snooker table, and so on.
+
+These levels were packed with variation. The Snooker tables has the track painted on, although this is open to deviation (as are most levels), and had you racing through the pockets and across the rim of the table. Tanks raced as well, with the chance of shooting out your opponent if they got directly in front of you. The desktop levels include binders to jump across, pencil-sharpeners to avoid, and lots of visual jokes in the open homework.</desc>
+		<image>./mixart/MicroMachines_v1.1_0357.png</image>
+		<video>./snap/MicroMachines_v1.1_0357.mp4</video>
+		<marquee>./wheel/MicroMachines_v1.1_0357.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -38156,29 +38187,6 @@ Of course, the sporting side of the game is not to be underestimated. You'll alw
 		<publisher>Mindscape</publisher>
 		<genre>Action / Adventure</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./PinballDreams_v1.5_0377.lha</path>
-		<name>Pinball Dreams</name>
-		<desc>Pinball Dreams is a pinball simulation video game developed by Digital Illusions Creative Entertainment (DICE) and originally released for the Amiga in 1992.
-
-The game's four tables each had a theme, as do most real life pinball &amp; Panchinko machines.
-
-"Ignition", themed around a rocket launch, planets, and space exploration.
-"Steel Wheel", themed around steam trains and the Old West.
-"Beat Box", themed around the music industry, charts, bands and tours.
-"Nightmare", themed around a graveyard, ghosts, demons, nightmares and generally evil things.</desc>
-		<image>./mixart/PinballDreams_v1.5_0377.png</image>
-		<video>./snap/PinballDreams_v1.5_0377.mp4</video>
-		<marquee>./wheel/PinballDreams_v1.5_0377.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>DiCE</developer>
-		<publisher>21st Century Entertainment Ltd.</publisher>
-		<genre>Arcade - Pinball</genre>
-		<players>8</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -38219,134 +38227,42 @@ New to this version is multiball: Pinball Illusions supports up to six balls sim
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./RainbowIslands_v1.4.1_0012.lha</path>
-		<name>Rainbow Islands</name>
-		<desc>Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.
+		<path>./RType2_v1.1_2065.lha</path>
+		<name>R-Type II</name>
+		<desc>R-Type II is a horizontal scrolling shooter arcade game developed and published by Irem in 1989. It is the second game in the R-Type series.
 
-Using the power to cast rainbows, trapping anything underneath, the boys must ascend vertically 4 levels each island, with a big, bad boss at the end of each.
+The player controls a ship called the R-9C (or R-9 Custom), which is an improved version of its predecessor game's ship; the R-9. The ship's design was changed slightly, and the wave cannon was given homing capabilities. Two new types of weapons (the Search Laser and Shotgun Laser) were added, bringing the total number of weapon types up to five. A new anti-ground unit bomb was also added to the missile inventory.
 
-By trapping beasts under your rainbows, then jumping on them to break them you can collect seven different colored gems, and there are also power-ups for extra speed and rainbows.</desc>
-		<image>./mixart/RainbowIslands_v1.4.1_0012.png</image>
-		<video>./snap/RainbowIslands_v1.4.1_0012.mp4</video>
-		<marquee>./wheel/RainbowIslands_v1.4.1_0012.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Taito</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Roadkill_v2.2_AGA_1108.lha</path>
-		<name>Roadkill</name>
-		<desc>Set in the future, Roadkill is a racing game featuring all manner of gruesome additions. There are 9 computer opponents in each race, and you must finish in the top 3 every time. Rockets and homing missiles can be collected so as to shoot the rival cars out. The tracks feature inbuilt hazards and treacherous shortcuts
-
-Money is a big factor in all of this - the higher you finish in a race, the more you get; it can be collected during the race; each car you destroy gives you more money than the previous one, as you go for the Jackpot and then the Super Jackpot.</desc>
-		<image>./mixart/Roadkill_v2.2_AGA_1108.png</image>
-		<video>./snap/Roadkill_v2.2_AGA_1108.mp4</video>
-		<marquee>./wheel/Roadkill_v2.2_AGA_1108.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Vision Software</developer>
-		<publisher>Acid</publisher>
-		<genre>Car, Multidirectional, Racing, Topdown</genre>
+Though the number of levels was decreased from the prequel, the number of enemies, their durability, and the number of bullets they shoot were greatly increased. Enemy movements and terrain were also made trickier, bringing the game's difficulty up considerably. The same revival system is used as in the prequel, where the player is brought back to a checkpoint whenever their ship is destroyed.</desc>
+		<image>./mixart/RType2_v1.1_2065.png</image>
+		<video>./snap/RType2_v1.1_2065.mp4</video>
+		<marquee>./wheel/RType2_v1.1_2065.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Activision</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./RuffNTumble_v2.3_0199.lha</path>
-		<name>Ruff 'n' Tumble</name>
-		<desc>Ruff Rogers has lost his marbles - in the literal sense of the small round balls used to play a game on drains. He's been armed with a gun to retrieve them from 16 levels of side-scrolling platform shooting.
+		<path>./RType_v1.4.1_0940.lha</path>
+		<name>R-Type</name>
+		<desc>R-Type is a side scrolling shoot 'em up best known for its extremely tough and strategic gameplay.  You control the R-9 spaceship as it launches a last-ditch effort to repel the evil Bydo empire.
 
-The gun you start with isn't especially powerful, but various machine guns and flamethrowers can be collected, which make much lighter work of the enemies. Your character can jump and duck responsively, and fire at all angles.
+The R-9 comes equipped as standard with a small gun which can only take down the smallest of enemies without firing several shots. By holding down the fire button, it can be loaded up so as to release a large burst of energy, eliminating all but the strongest enemies in its path. From time to time, pods will come flying in your direction. Upon being shot, they release an upgrade. The first one will invariably be the one called "The Force", which is a weapons pod that clings either to the front or the back of your ship, absorbing any enemy bullets or acting as a bumper with which you can fly head-on into them. You can also use it as an offensive weapon by firing it and pulling it back in. Mastering the Force is vital to surviving in R-Type, since it must be used both as protection against bullet clusters, as a remote controlled cannon, and in order to clear the screen from obstacles. Other upgrades give you target-seeking missiles or a bigger main gun. Different gun types, differentiated by their colour, serve different purposes. The blue one sends laser beams bouncing across the screen (good for tunnels), the red one fires straight ahead, and the yellow one follows any walls it may encounter (good for artillery emplacements).
 
-There are 3 different colours of marbles, which a quota to recover from each level. Collecting enough of each particular colour sees all similar ones turned to coins, which can go towards extra lives and points bonuses. Switches are built into the levels; these act as restart points.</desc>
-		<image>./mixart/RuffNTumble_v2.3_0199.png</image>
-		<video>./snap/RuffNTumble_v2.3_0199.mp4</video>
-		<marquee>./wheel/RuffNTumble_v2.3_0199.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Wunderkind</developer>
-		<publisher>Renegade Software</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SecretOfMonkeyIsland_v3.5_1625.lha</path>
-		<name>Secret of Monkey Island, The</name>
-		<desc>The Secret of Monkey Island (Demo Version) is a demo version for The Secret of Monkey Island. Guybrush Threepwood finds himself in the harbor town of Melee Island but is trapped from leaving it: a troll blocks the exit and won't let Guybrush pass until he knows the magic phrase.
-
-To solve the game the player has to explore the (shortened) town and solve a few basic puzzles which are partly not present in the full version of the game. He also needs to chat with several persons known from the game which all have new dialogue, e.g. the voodoo lady talks about some features of the commercial version and Guybrush constantly cracks jokes about this being a demo.
-
-The game uses the same control scheme as the most Lucasfilm adventures at the time. On the bottom of the screen are nine verbs displayed. The player clicks on of these verbs and then on an item in the game world to issue a command, e.g. picking something up.</desc>
-		<image>./mixart/SecretOfMonkeyIsland_v3.5_1625.png</image>
-		<video>./snap/SecretOfMonkeyIsland_v3.5_1625.mp4</video>
-		<marquee>./wheel/SecretOfMonkeyIsland_v3.5_1625.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SensibleWorldOfSoccer9697_v1.7_0842.lha</path>
-		<name>Sensible World of Soccer '96-'97</name>
-		<desc>The updated Sensible World of Soccer, with more up-to-date-teams and less of the bugs from the previous version.
-
-SWOS is a top down football/management game, with either quick game or 20-year career player-manager options. The games are set to last 3 minutes, but the 20-year career can suck in your entire life for a few months. The graphics are kept very small so the player can orientate themselves on the pitch without need for a radar. The controls are simple, easy to get used to and very effective. In the full career mode you can jump from club-to-club buying any of the game's 29000+ players, as well as play around with team tactics.
-
-And you can choose from 1400 teams over the five continents.</desc>
-		<image>./mixart/SensibleWorldOfSoccer9697_v1.7_0842.png</image>
-		<video>./snap/SensibleWorldOfSoccer9697_v1.7_0842.mp4</video>
-		<marquee>./wheel/SensibleWorldOfSoccer9697_v1.7_0842.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19961106T000000</releasedate>
-		<developer>Renegade Software</developer>
-		<publisher>Sensible Software</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SimonTheSorcerer_v1.3_AGA_0898.lha</path>
-		<name>Simon The Sorcerer</name>
-		<desc>Simon is just an ordinary boy in an extra-ordinary world. A world in which he must rescue Calypso the Wizard by embarking on a long challenging quest.</desc>
-		<image>./mixart/SimonTheSorcerer_v1.3_AGA_0898.png</image>
-		<video>./snap/SimonTheSorcerer_v1.3_AGA_0898.mp4</video>
-		<marquee>./wheel/SimonTheSorcerer_v1.3_AGA_0898.png</marquee>
+The stages of R-Type are made in an organic style, certainly inspired by H. R. Giger's artwork for the Alien movies. When it came out, it was considered trend-setting since it broke off from the stereotypical sci-fi mould of other shoot'em'ups. In part, the levels themselves are your enemy, which is exemplified by the fourth, where spider-like creatures weave webs that cover the screen and block your path, or levels with intricate tunnel systems. Still, the levels are best handled with a combination of strategy and reflexes, without the memorisation that is required of R-Type's contemporary rival, Gradius.</desc>
+		<image>./mixart/RType_v1.4.1_0940.png</image>
+		<video>./snap/RType_v1.4.1_0940.mp4</video>
+		<marquee>./wheel/RType_v1.4.1_0940.png</marquee>
 		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Adventure Soft</developer>
-		<publisher>Adventure Soft</publisher>
-		<genre>Adventure</genre>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Electric Dreams Software</developer>
+		<publisher>Irem</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Skidmarks_v1.0_AGA_0204.lha</path>
-		<name>Skidmarks</name>
-		<desc>The first instalment in the Skidmarks series is a slightly-from-above racer for one or two players in the vein of Super Sprint. There are four different cars to choose from: a rally sports car, a high-wheeled muscle car, a monster truck and a buggy. There are two sets of six tracks each, each track measuring roughly three by two screens in size. Apart from the usual simultaneous two-player option, where both play on the same computer, there is a (null) modem link option, allowing four players to compete at the same time. Additionally, messages can be sent via the serial line, so as to taunt the opposing team. Depending on the available memory, there are either one, two or four kinds of cars partaking in the race.
-
-An additional AGA enhancement disk, for Amiga 1200 and 4000 systems, updates the game to use sub-pixel scrolling and makes the sprites high resolution with greater colour depth.</desc>
-		<image>./mixart/Skidmarks_v1.0_AGA_0204.png</image>
-		<video>./snap/Skidmarks_v1.0_AGA_0204.mp4</video>
-		<marquee>./wheel/Skidmarks_v1.0_AGA_0204.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Acid</developer>
-		<publisher>Acid</publisher>
-		<genre>Arcade, Car, Competitive, Isometric, Multidirectional, Racing, Scrolling, Splitscreen</genre>
-		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -38369,108 +38285,166 @@ Included in SlamTilt are four new tables designed from the start for AGA-capable
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SoccerKid_v2.1_AGA_1150.lha</path>
-		<name>Soccer Kid</name>
-		<desc>Aliens attempting to steal the World Cup have crashed as they tried to flee, and the Cup has been broken, its pieces scattered around the globe. As Soccer Kid, you must retrieve it. During your journey you will visit Britain, Italy, Russia, Japan, and finally the States.
+		<path>./SWIV_v1.7_0038.lha</path>
+		<name>S.W.I.V.</name>
+		<desc>SWIV was an original vertical scrolling shooter that was an unofficial follow-up to Sales Curve's hit conversion of the side scroller Tecmo arcade game Silkworm.
 
-Soccer Kid is a platform game with some unique elements.  As the name implies, you have to kill your enemies with your ball. Football-style tricks of keeping the ball in the air and under control are especially useful - headers and overhead kicks can be played with practice. You gain access to the pieces by collecting 11 Player Cards across each world.
-
-There is a saving feature that gives you the ability to save between each country (but not between individual levels).</desc>
-		<image>./mixart/SoccerKid_v2.1_AGA_1150.png</image>
-		<video>./snap/SoccerKid_v2.1_AGA_1150.mp4</video>
-		<marquee>./wheel/SoccerKid_v2.1_AGA_1150.png</marquee>
-		<rating>0.85</rating>
+One player controlled a helicopter and the other a jeep, with the jeep transforming into a boat when the vehicles passed over water. As well as a host of blaster fodder the game also included a mid-level enemy inspired by the "Goose" enemy from the earlier title Silkworm. Pieces of this enemy would fly onto the screen and assemble into one vehicle before commencing to fire at the players' vehicles. When destroyed the "goose" would drop power-ups.</desc>
+		<image>./mixart/SWIV_v1.7_0038.png</image>
+		<video>./snap/SWIV_v1.7_0038.mp4</video>
+		<marquee>./wheel/SWIV_v1.7_0038.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910228T000000</releasedate>
+		<developer>Storm</developer>
+		<publisher>Sales Curve</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Uridium2_v0801.1_2MB_1526.lha</path>
+		<name>Uridium 2 vP1.00-D1.00</name>
+		<desc>Re-enter your manta in the sequel to one of the fastest 8-bit action games. You are sent out to take out half a dozen enemy battle groups, each consisting of four huge spaceships. Similar to the first Uridium, you face increasing numbers of unfriendly fighter wings and stationary defenses while sweeping over the carriers. The real challenge here is to avoid the many walls on the back of the vessel while you are under attack.
+After the exterior has been cleaned from most of the enemy presence you take care of the ships' reactor core in a jump-and-run-like sequence. While floating in a non-gravity surrounding, lower the core's shields and then destroy it.
+The game also gives you a number of extra weapons that can be collected by either flying over pick-ups left from dead enemy wings or by catching them after the power generator has been destroyed.</desc>
+		<image>./mixart/Uridium2_v0801.1_2MB_1526.png</image>
+		<video>./snap/Uridium2_v0801.1_2MB_1526.mp4</video>
+		<marquee>./wheel/Uridium2_v0801.1_2MB_1526.png</marquee>
+		<rating>0.95</rating>
 		<releasedate>19930101T000000</releasedate>
-		<developer>Krisalis Software</developer>
-		<publisher>Krisalis Software</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SorceryPlus_v1.02_1562.lha</path>
-		<name>Sorcery+</name>
-		<desc>Sorcery+ is an expanded re-release of Sorcery. Besides new graphics and sound, it features an additional scenario which is played after finishing the original content. Here the player visits 28 new locations in a quest to destroy the necromancer.</desc>
-		<image>./mixart/SorceryPlus_v1.02_1562.png</image>
-		<video>./snap/SorceryPlus_v1.02_1562.mp4</video>
-		<marquee>./wheel/SorceryPlus_v1.02_1562.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Gang of Five</developer>
-		<publisher>Amsoft</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Speedball2_v1.0_2897.lha</path>
-		<name>Speedball 2 : Brutal Deluxe</name>
-		<desc>Speedball 2: Brutal Deluxe is a 1990 video game based on a violent futuristic cyberpunk sport that draws on elements of handball and ice hockey, and rewards violent play as well as goals. The concept of the game is very reminiscent of the 1975 film Rollerball. The original game was developed by Bitmap Brothers, with various remakes for many platforms since being published. It is a sequel to the 1988 game Speedball.</desc>
-		<image>./mixart/Speedball2_v1.0_2897.png</image>
-		<video>./snap/Speedball2_v1.0_2897.mp4</video>
-		<marquee>./wheel/Speedball2_v1.0_2897.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Imageworks</developer>
-		<publisher>The Bitmap Brothers</publisher>
-		<genre>Sports / Handball</genre>
+		<developer>Graftgold</developer>
+		<publisher>Renegade Software</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Superfrog_v1.4_0035.lha</path>
-		<name>Superfrog</name>
-		<desc>Superfrog is a one of these rare traditional jump &amp; run games. You’re – surprise – a frog. Your enemies are all animals – like bees, hedgehogs or snails. You have no weapons. The only way to kill the enemies is to jump on them. Every stage has a timelimit. In this limit you have to collect a pretended number of coins.
+		<path>./WormsDirectorsCut_v1.3_AGA_0605.lha</path>
+		<name>Worms - The Director's Cut</name>
+		<desc>Worms: The Director's Cut is a sequel to Worms. Like its predecessor, it is a turn-based artillery game. The game format remains the same: players control small armies of four Worms (whose names can be altered) with the sole purpose of blowing up all the other Worms on the map. Players can compete either against computer-controlled Worms or against each other. 
 
-Each of the 6 worlds has 4 stages. Every stage has a password. After all you can type your name into a hi score table.</desc>
-		<image>./mixart/Superfrog_v1.4_0035.png</image>
-		<video>./snap/Superfrog_v1.4_0035.mp4</video>
-		<marquee>./wheel/Superfrog_v1.4_0035.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
+The weapons are more extensive (and destructive) than in the previous game, including the first appearances of the Kenny-on-a-Rope, Concrete Donkey, Priceless Ming Vase, Old Woman and Holy Hand Grenade. Also included is a level editor that allows players to create their own battlefields.</desc>
+		<image>./mixart/WormsDirectorsCut_v1.3_AGA_0605.png</image>
+		<video>./snap/WormsDirectorsCut_v1.3_AGA_0605.mp4</video>
+		<marquee>./wheel/WormsDirectorsCut_v1.3_AGA_0605.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970304T000000</releasedate>
 		<developer>Team 17</developer>
 		<publisher>Team 17</publisher>
+		<genre>Strategy - Miscellaneous</genre>
+		<players>8</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BackToTheFuturePart2_v1.2_0005.lha</path>
+		<name>Back to the Future Part II</name>
+		<desc>Back to the Future II is a collection of five arcade and puzzle games.
+
+Based on the second installment of the popular Hollywood series Back to the Future, this movie conversion has Marty McFly and Doc Brown travel through time to stop their arch-rival Biff from changing the future. The game consists of five parts, each inspired by one of the movie's most memorable scenes:
+
+1. Hoverboard Chase: A Paperboy clone without newspapers, but with isometric levels and lots of enemies to dodge.
+2. Jennifer Rescue: Guide Marty's girlfriend Jennifer out of the house without her meeting one of the four family members. Open and close doors to make the persons go from one room to the next in this top-down puzzle sequence.
+3. Beat Biff: A side-scrolling beat-em-up sequence in the tradition of Double Dragon. Fight your way through a grim 1985 by jumping, hitting and kicking at Biff's lackeys.
+4. Band Puzzle: Rearrange the mixed-up parts of an animated picture of the school band in this sliding block puzzle. The clock is ticking.
+5. Hoverboard Chase 2: Another hoverboard sequence, similar to the first one, only this time set in 1955.</desc>
+		<image>./mixart/BackToTheFuturePart2_v1.2_0005.png</image>
+		<video>./snap/BackToTheFuturePart2_v1.2_0005.mp4</video>
+		<marquee>./wheel/BackToTheFuturePart2_v1.2_0005.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Images Software Ltd.</developer>
+		<publisher>Imageworks</publisher>
+		<genre>Action, Futuristic, Movie, Multigenre, Scifi, Timetravel</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dune2_v1.1_1548.lha</path>
+		<name>Dune II - The Battle for Arrakis</name>
+		<desc>Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
+
+The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.</desc>
+		<image>./mixart/Dune2_v1.1_1548.png</image>
+		<video>./snap/Dune2_v1.1_1548.mp4</video>
+		<marquee>./wheel/Dune2_v1.1_1548.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Westwood Studios</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<kidgame>true</kidgame>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lionheart_v2.2_0845.lha</path>
+		<name>Lionheart</name>
+		<desc>As Valdyn aka "Lionheart", you will have to travel deep into the territory of your king's enemy to retrieve a stolen holy relic which happens to be named "Lionheart" as well.
+
+The game itself is a platform/hack'n'slay affair, similar to Rastan. You proceed through the world that is scrolling in all directions and cut everything to pieces with your trusty sword that is cocky enough to come close to you.</desc>
+		<image>./mixart/Lionheart_v2.2_0845.png</image>
+		<video>./snap/Lionheart_v2.2_0845.mp4</video>
+		<marquee>./wheel/Lionheart_v2.2_0845.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Thalion Software</developer>
+		<publisher>Thalion Software</publisher>
 		<genre>Platform</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Syndicate_v2.2_0739.lha</path>
-		<name>Syndicate</name>
-		<desc>In the future, the world is controlled by a handful of global corporations (syndicates).  You are the Marketing director (hit man) for one of these companies.  It is your job to take control away from the competitors.  The job is not one of diplomacy, but one of brute force and physical control.  Advance your way to the top of the corporation by successfully completing your missions and managing the money you make from your territories.
-
-The gameplay is visually reminiscent of X-Com, with an angled top-down perspective, but it is real time rather than turn based. You have missions ranging from infiltrate and capture, to seek and destroy. In each of these you direct a team of four agents as they move through the world shooting at anything that gets in their way.
-
-You can upgrade and modify your agents, as well as equip them with tools you have researched or liberated from opposing syndicates.  As you complete missions, you gain more funds to use for purchasing agents or researching upgrades and equipment.</desc>
-		<image>./mixart/Syndicate_v2.2_0739.png</image>
-		<video>./snap/Syndicate_v2.2_0739.mp4</video>
-		<marquee>./wheel/Syndicate_v2.2_0739.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Bullfrog</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<favorite>true</favorite>
+		<path>./1869_v1.0_AGA.lha</path>
+		<name>1869 - Erlebte Geschichte Teil I</name>
+		<desc>Experience at first-hand the era of great political and economic change, the exodus from the old British Empire, to the finding of a better life in the new world. The age of the great Clippers and their struggle for survival against the gradual domination of the steam ship.</desc>
+		<image>./mixart/1869_v1.0_AGA.png</image>
+		<video>./snap/1869_v1.0_AGA.mp4</video>
+		<marquee>./wheel/1869_v1.0_AGA.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Max Design</developer>
+		<publisher>Max Design</publisher>
+		<genre>Simulation</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TrapsNTreasures_v1.0.lha</path>
-		<name>Traps 'n Treasures</name>
-		<desc>Captain Jeremy FlynnÃ¢â‚¬â„¢s crew have been kidnapped in the Caribbean, and he must venture through 4 large baddy-infested levels to retrieve them. Along the way, you can collect money from handily-placed treasure chests, which can be spent in various shops to gain extra weaponry.</desc>
-		<image>./mixart/TrapsNTreasures_v1.0.png</image>
-		<video>./snap/TrapsNTreasures_v1.0.mp4</video>
-		<marquee>./wheel/TrapsNTreasures_v1.0.png</marquee>
+		<path>./TeenageMutantNinjaTurtles_v1.2_2994.lha</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>With April O'Neil held hostage by The Shredder's thugs, Bebop and Rocksteady, once again, it's up to the Teenage Mutant Ninja Turtles to come to her rescue!  Play as all four of the turtle heroes, rescue April, and then rescue your sensei Splinter from Mecha-Turtles clutches than go after The Shredder deep in the bowels of The Technodrome itself.
+
+Teenage Mutant Ninja Turtles is an action game based on the late eighties/early nineties cartoon series of the same name. Play as Leonardo, Michaelangelo, Donatello and Raphael (one turtle only, but the ability to swap between turtles at any time) as you save your friends and battle The Shredder and his cronies. There are no 'lives', as such - when you lose a turtle, he becomes 'captured', and you cannot use him again until you rescue him from a place hidden in the overworld.
+
+Gameplay takes place in two perspectives: a top-down view, which lets you run around and explore buildings, sewers and other places. When entering places from the top-down view, the perspective shifts to a side-scrolling view, where most of the battling takes place. In addition to each turtle's main weapon, sub-weapons (such as shuriken) can be acquired, to use at foes - these have a limited use.</desc>
+		<image>./mixart/TeenageMutantNinjaTurtles_v1.2_2994.png</image>
+		<video>./snap/TeenageMutantNinjaTurtles_v1.2_2994.mp4</video>
+		<marquee>./wheel/TeenageMutantNinjaTurtles_v1.2_2994.png</marquee>
 		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Roman Werner</developer>
-		<publisher>Starbyte</publisher>
-		<genre>Adventure, Jumper, Multidirectional, Pirates, Platform, Sideways</genre>
+		<releasedate>19900101T000000</releasedate>
+		<developer>UltraGames</developer>
+		<publisher>Konami</publisher>
+		<genre>Arcade - Miscellaneous</genre>
 		<players>1</players>
-		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TeenageQueen_v1.1_0225.lha</path>
+		<name>Teenage Queen</name>
+		<desc>In this interactive poker game you meet in a park the beautiful female roller-skater, who is very interested in strip playing. During the game you come to night club, where the female shows her real body...</desc>
+		<image>./mixart/TeenageQueen_v1.1_0225.png</image>
+		<video>./snap/TeenageQueen_v1.1_0225.mp4</video>
+		<marquee>./wheel/TeenageQueen_v1.1_0225.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ere Informatique</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -38494,132 +38468,25 @@ Unlike other games of its type, this game contains three levels of horizontal sh
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Universe_v1.3_0894.lha</path>
-		<name>Universe</name>
-		<desc>You are Boris Verne, a normal guy who is been cast in a parallel universe because of your uncle's Virtual Dimension Inducer. There you'll have to find the fabled lost star as well as a way to defeat the Golden King...
-This is a classic old-style adventure game with a point&amp;click interface. It uses the Rotoscope system to manage game characters and scores really beautiful 256-colour graphic.</desc>
-		<image>./mixart/Universe_v1.3_0894.png</image>
-		<video>./snap/Universe_v1.3_0894.mp4</video>
-		<marquee>./wheel/Universe_v1.3_0894.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Virocop_v1.4_AGA_1920.lha</path>
-		<name>Virocop</name>
-		<desc>In Virocop you enter the Gamedisk, a virtual holiday theme park that is under the threat of destruction of viruses. Your job is to take control of a virocop, D.A.V.E. (Digital Armoured Virus Exterminator) and eliminate the enemies before it's too late. The levels are split into worlds with four levels each, and each world has its own theme. For example the first world is sport themed so you will drive over football fields, billiard tables and racing courses. 
+		<path>./PinballDreams_v1.5_0377.lha</path>
+		<name>Pinball Dreams</name>
+		<desc>Pinball Dreams is a pinball simulation video game developed by Digital Illusions Creative Entertainment (DICE) and originally released for the Amiga in 1992.
 
-The gameplay is the one of an isometric shooter, where you roll around the levels and shoot the enemies with one of several weapons. The weapons covers the whole range from fast but not so powerful weapons to more powerful (but slow) like mortars. The action can be enjoyed by one or two players both turn-by-turn or simultaneous where one player controls movement and the other the weapons.</desc>
-		<image>./mixart/Virocop_v1.4_AGA_1920.png</image>
-		<video>./snap/Virocop_v1.4_AGA_1920.mp4</video>
-		<marquee>./wheel/Virocop_v1.4_AGA_1920.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Graftgold</developer>
-		<publisher>Renegade Software</publisher>
-		<genre>Angle, Cyborgs, Multidirectional, Robot, Scifi, Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Wings_v1.0_0410.lha</path>
-		<name>Wings</name>
-		<desc>You are an allied fighter pilot in WW1, duking it out with the "Huns" up in the sky in over 200 missions.
+The game's four tables each had a theme, as do most real life pinball &amp; Panchinko machines.
 
-The missions usually come in three flavors: Top-down view bombing missions where you have to take out strategically important targets, isometric strafing runs where you get to blast anything that you fancy blasting with an unlimited supply of ammo, and of course the main part: Dogfights in the sky. Rendered in 3D, seems from behind your head.
-
-The game is set in the years 1916 through 1918, and to loosen things up a little, we get to read a page of our character's new entry for the diary-like journal in his company between every mission.</desc>
-		<image>./mixart/Wings_v1.0_0410.png</image>
-		<video>./snap/Wings_v1.0_0410.mp4</video>
-		<marquee>./wheel/Wings_v1.0_0410.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Cinemaware</developer>
-		<publisher>Cinemaware</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./WormsDirectorsCut_v1.3_AGA_12MB_0605.lha</path>
-		<name>Worms - The Director's Cut</name>
-		<desc>Worms: The Director's Cut is a sequel to Worms. Like its predecessor, it is a turn-based artillery game. The game format remains the same: players control small armies of four Worms (whose names can be altered) with the sole purpose of blowing up all the other Worms on the map. Players can compete either against computer-controlled Worms or against each other. 
-
-The weapons are more extensive (and destructive) than in the previous game, including the first appearances of the Kenny-on-a-Rope, Concrete Donkey, Priceless Ming Vase, Old Woman and Holy Hand Grenade. Also included is a level editor that allows players to create their own battlefields.</desc>
-		<image>./mixart/WormsDirectorsCut_v1.3_AGA_12MB_0605.png</image>
-		<video>./snap/WormsDirectorsCut_v1.3_AGA_12MB_0605.mp4</video>
-		<marquee>./wheel/WormsDirectorsCut_v1.3_AGA_12MB_0605.png</marquee>
+"Ignition", themed around a rocket launch, planets, and space exploration.
+"Steel Wheel", themed around steam trains and the Old West.
+"Beat Box", themed around the music industry, charts, bands and tours.
+"Nightmare", themed around a graveyard, ghosts, demons, nightmares and generally evil things.</desc>
+		<image>./mixart/PinballDreams_v1.5_0377.png</image>
+		<video>./snap/PinballDreams_v1.5_0377.mp4</video>
+		<marquee>./wheel/PinballDreams_v1.5_0377.png</marquee>
 		<rating>0.6</rating>
-		<releasedate>19970304T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Strategy - Miscellaneous</genre>
+		<releasedate>19920101T000000</releasedate>
+		<developer>DiCE</developer>
+		<publisher>21st Century Entertainment Ltd.</publisher>
+		<genre>Arcade - Pinball</genre>
 		<players>8</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Worms_v1.0_2MB_0230.lha</path>
-		<name>Worms</name>
-		<desc>Worms is a turn-based strategy game. It features up to 4 teams of 4 worms, aiming to destroy the others on a generated terrain. Each worm has 100 hit points, and dies when his hit points fall to 0. Upon death, a worm explodes, causing damage to everyone around.
-
-Gameplay is turn-based. Each turn, the player can control one specific worm from his team. The worm can crawl left and right or jump. However, there is a time limit to make a move; also, if the worm falls from a great height, it loses health and the turn ends immediately; and if a worm falls into water or offscreen, it dies. Each turn, a worm can also make a single attack: the player can aim up and down, choose a weapon and then fire it. After attacking, the turn ends. 
-
-There's a lot of weapons available - the standard ones as bazookas (which is affected by the (random) wind settings and gravity) and grenades. The others include a Fire Punch, dynamite, air strikes, and utilities such as ropes and girders.
-
-There are 10 styles of terrain, ranging from forests and deserts to Candy land and the moon (complete with affected gravity). Shots leave craters in the ground, and complex tunnels can be formed.</desc>
-		<image>./mixart/Worms_v1.0_2MB_0230.png</image>
-		<video>./snap/Worms_v1.0_2MB_0230.mp4</video>
-		<marquee>./wheel/Worms_v1.0_2MB_0230.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Strategy</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./YoJoe_v1.0_0750.lha</path>
-		<name>Yo! Joe!</name>
-		<desc>Yo! Joe! Beat the Ghosts is a platform game featuring two characters. The protagonists can jump, crawl, kick, beat, slide, and swim. They are even able to hold their breath when under water. If you are playing the game solely, "Joe" is your character of choice. A friend can take on Nat's part at the same PC.</desc>
-		<image>./mixart/YoJoe_v1.0_0750.png</image>
-		<video>./snap/YoJoe_v1.0_0750.mp4</video>
-		<marquee>./wheel/YoJoe_v1.0_0750.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Scipio</developer>
-		<publisher>Play Byte</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Zool2_v1.0_AGA_0415.lha</path>
-		<name>Zool 2</name>
-		<desc>The sequel to Zool sees him take on the bad guys Mental Block and Krool across 15 levels.
-
-Zool 2 is a platform game where you control the titular "Ninja of the Nth Dimension" (or his girlfriend, Zooz, who can complete each level in a slightly different way) as he rampages through a variety of levels, collecting countless tasty treats, shooting any enemies that he encounters and finding bonuses (there's a variety of special power-ups Zool can find - for example, a bomb that follows him and can be blown up at any time to remove on-screen enemies, or a temporary invulnerability). New to the sequel is Zool's ability to scale walls and his new spinning attacks. 
-
-On each level you have to collect a certain amount of the featured fruit within an allocated time limit, and then find the exit across the multi-directionally-scrolling levels. There are lots of hidden areas to see, including a bonus Breakout game starring Zool's pet 2-headed dog.</desc>
-		<image>./mixart/Zool2_v1.0_AGA_0415.png</image>
-		<video>./snap/Zool2_v1.0_AGA_0415.mp4</video>
-		<marquee>./wheel/Zool2_v1.0_AGA_0415.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Gremlin Interactive</developer>
-		<publisher>Gremlin Interactive</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -38637,6 +38504,139 @@ On each level you have to collect a certain amount of the featured fruit within 
 		<genre>Shooter</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CoverGirlStripPoker_v1.1.lha</path>
+		<name>Cover Girl Strip Poker</name>
+		<desc>Yet another strip poker game. What is there to say about it? 
+
+Well, here you can play with up to three players against one of eight digitized women. Each time you make a girl lose all her money, she takes off some of her clothes (4 of the 8 girls feature "movies" of the strip, which consist of half a dozen frames).
+
+At the beginning of the game, you may select your language at the beginning and can also choose to turn the girl's comments on or off. Finally, the game features a zoom function with which you can get even bigger pixels.</desc>
+		<image>./mixart/CoverGirlStripPoker_v1.1.png</image>
+		<video>./snap/CoverGirlStripPoker_v1.1.mp4</video>
+		<marquee>./wheel/CoverGirlStripPoker_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Emotional Pictures</developer>
+		<publisher>Storm</publisher>
+		<genre>Playing cards</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LostVikings_v2.0_2235.lha</path>
+		<name>Lost Vikings, The</name>
+		<desc>Three Vikings, Eric the Swift, Olaf the Stout and Baleog the Fierce, were kidnapped by the alien Tomator, the evil Croutonian ruler, who is collecting unique life forms to display in his gallery. The three Vikings will have to combine their unique skills to defeat Tomator, as well as a vast array of aliens, robots, giant snails, big lizards and more.
+
+The Lost Vikings is a side-scrolling platform puzzle game with a twist. Instead of one character who can jump, run, shoot, collect items, flip switches and so on, there are three different characters, each with his own skills. Eric the Swift can jump, run and bash through walls with his tough helmet. Olaf the Stout has a shield which can block attacks, function as an air glider or as a step to stand on. Baleog the Fierce can shoot things with his arrows (including switches) or kill things with his sword. The player has to use the three Vikings as a team if he wants to get past the increasingly difficult levels and puzzles.
+
+The player controls one Viking at a time, but can switch between them at any point. The Vikings have limited space in their inventory which they can use to keep various items. Each Viking has three health points, and if he loses them all from confrontations with dangers, he dies (some threats kill instantly), and the level must be restarted.</desc>
+		<image>./mixart/LostVikings_v2.0_2235.png</image>
+		<video>./snap/LostVikings_v2.0_2235.mp4</video>
+		<marquee>./wheel/LostVikings_v2.0_2235.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PoolsOfDarkness_v1.1.lha</path>
+		<name>Advanced Dungeons &amp; Dragons - Pools of Darkness</name>
+		<desc>Pools of Darkness is the fourth of Gold Box series of classic-style AD&amp;D-based role-playing games. The gameplay is quite similar to other games of this type. At the start of the game, the player creates a party of characters (up to 6). Classic AD&amp;D races (dwarf, elf, half-elf, gnome, etc.), character classes (fighter, paladin, monk, wizard, etc.), alignments (Good/Evil and Lawful/Chaotic axis), and statistics (strength, intelligence, wisdom, etc.) are there for the player to choose and adjust. Once the party is created, the player begins the exploration of the city of Phlan. Upon exiting the city, the player explores a top-down map, visiting dungeons and other locations of interest, as well as engaging in combat.</desc>
+		<image>./mixart/PoolsOfDarkness_v1.1.png</image>
+		<video>./snap/PoolsOfDarkness_v1.1.mp4</video>
+		<marquee>./wheel/PoolsOfDarkness_v1.1.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19920309T000000</releasedate>
+		<developer>SSI Special Projects Group</developer>
+		<publisher>Strategic Simulations</publisher>
+		<genre>Angle, Dungeoncrawler, Dungeonsanddragons, Fantasy, Firstperson, Rpg, Swordsandsorcerey</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HellRaisers_v1.0.lha</path>
+		<name>HellRaisers</name>
+		<desc>Don't the Hellraisers ever quit?
+They've seized the defence systems on the Planet Hazbal, a junction of major space trade routes. Interstellar commerce is at a standstill and starvation will soon hit the outer worlds unless you can destroy the evil Hellraisers! 
+Only then can you go on leave...</desc>
+		<image>./mixart/HellRaisers_v1.0.png</image>
+		<video>./snap/HellRaisers_v1.0.mp4</video>
+		<marquee>./wheel/HellRaisers_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Exocet</developer>
+		<publisher>Exocet</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RunningMan_v1.0_0382.lha</path>
+		<name>Running Man, The</name>
+		<desc>Inspired on the movie with the same name with A. Schwarzenegger, you are an ex-cop presumed guilty for the murder of many civils. In jail, one day, you can escape and go to the airport to go away. Unfortunately, you are captured again but for other person now. Not the state, a director of a show called running man. This show is the most popular hobby in future, everybody play money. A guy (you) are hunted by professional killers, he must runs and stay alive for win money. So with the four levels, you must fight with your hunters and go quickly to the end of levels if you want recovery freedom one day...</desc>
+		<image>./mixart/RunningMan_v1.0_0382.png</image>
+		<video>./snap/RunningMan_v1.0_0382.mp4</video>
+		<marquee>./wheel/RunningMan_v1.0_0382.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Emerald Software</developer>
+		<publisher>Grandslam Entertainment Ltd.</publisher>
+		<genre>Action, Horizontal, Movie, Multiytype, Sideways</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SecondSamurai_v1.1_AGA_1624.lha</path>
+		<name>Second Samurai</name>
+		<desc>At the end of First Samurai, the Demon King was able to flee back in time to ancient Japan, so our hero follows him back in time, and has 10 levels awaiting him. Unlike the original, each world is split into sub-levels, with a boss at the end of each one, emphasising the arcade side of the gameplay, which still combines hacking and slashing with puzzle-solving.
+
+As in the first game, you start without weaponry but can pick up swords and daggers as you progress through the levels. There are lots of hidden sections as you progress, which open up more of the end sequence to you, as well as several subgames including a shoot 'em up mode.</desc>
+		<image>./mixart/SecondSamurai_v1.1_AGA_1624.png</image>
+		<video>./snap/SecondSamurai_v1.1_AGA_1624.mp4</video>
+		<marquee>./wheel/SecondSamurai_v1.1_AGA_1624.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Vivid Image</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TrainedAssassin_v1.1.lha</path>
+		<name>Trained Assassin</name>
+		<desc>Trained Assassin is an Action game, developed and published by Digital Magic, which was released in Europe in 1989.</desc>
+		<image>./mixart/TrainedAssassin_v1.1.png</image>
+		<video>./snap/TrainedAssassin_v1.1.mp4</video>
+		<marquee>./wheel/TrainedAssassin_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Digital Magic</developer>
+		<publisher>Digital Magic</publisher>
+		<genre>Horizontal, Shootemup, Shooter, Sideways</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./UltimatePinballQuest_v1.1.lha</path>
+		<name>Ultimate Pinball Quest, The</name>
+		<desc>The Ultimate Pinball Quest is an Action game, developed by Interactivision and published by Infogrames, which was released in 1993.</desc>
+		<image>./mixart/UltimatePinballQuest_v1.1.png</image>
+		<video>./snap/UltimatePinballQuest_v1.1.mp4</video>
+		<marquee>./wheel/UltimatePinballQuest_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Interactivision</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Navigation, Pinball, Reaction, Topdown, Vertical</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

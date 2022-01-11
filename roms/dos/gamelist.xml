@@ -6033,27 +6033,6 @@ The gameplay is a side-scrolling action game, where the player travels throughou
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Alone_In_The_Dark.pc</path>
-		<name>Alone in the Dark</name>
-		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape. 
-
-Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models. 
-
-To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons. 
-
-Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
-		<image>./mixart/Alone In The Dark.png</image>
-		<video>./snap/Alone In The Dark.mp4</video>
-		<marquee>./wheel/Alone In The Dark.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Infogrames</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Adventure / Survival Horror</genre>
-		<lang>in</lang>
-		<region>in</region>
-	</game>
-	<game>
 		<path>./Flashback - The Quest for Identity.pc</path>
 		<name>Flashback: The Quest for Identity</name>
 		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
@@ -6356,24 +6335,6 @@ Command &amp; Conquer: Red Alert can be considered a prequel to Command &amp; Co
 		<developer>Factor 5</developer>
 		<publisher>Rainbow Arts</publisher>
 		<genre>Platform</genre>
-	</game>
-	<game>
-		<path>./Twinsens Odyssey.pc</path>
-		<name>Twinsen's Odyssey</name>
-		<desc>Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. 
-
-When strange aliens arrive from a neighboring planet and begin kidnapping magicians and children, Twinsen uncovers a diabolical plot to obliterate his homeworld. 
-
-In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, to save his planet.</desc>
-		<image>./mixart/Twinsens Odyssey.png</image>
-		<video>./snap/Little Big Adventure 2.mp4</video>
-		<marquee>./wheel/Twinsens Odyssey.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970601T000000</releasedate>
-		<developer>Adeline Software International</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Warcraft_Orcs_And_Humans.pc</path>
@@ -7071,5 +7032,44 @@ Each table has up to four flippers, giving the player the possibility to control
 		<publisher>Epic Games</publisher>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alone_In_The_Dark.pc</path>
+		<name>Alone in the Dark</name>
+		<desc>Jeremy Hartwood has committed suicide in his Louisiana mansion, Derceto. You take the role of either Edward Carnby, a private investigator, or Emily Hartwood, Jeremy's niece, and investigate the suspicious death. The three-floor mansion is reputed to be haunted by its eccentric past owner. Very quickly, you realise that it is. Warped rats, zombies and giant worms are among the foes who are after you, and you must somehow escape. 
+
+Alone in the Dark is an action-adventure survival horror game. The action is displayed from a number of fixed viewpoints. The backgrounds are 2D painted images, while the player character, all items and monsters are rendered as 3D models. 
+
+To escape the mansion, you'll have to solve a number of puzzles. They usually involve finding an item and using it in a proper place. Apart from items necessary for the puzzles, you can also find books and documents that can be read, healing items which can be consumed to restore hit points, and weapons. 
+
+Weapons come in handy, since Derceto is full of various monsters. Some monsters can be killed with weapons, but others are either impossible to kill or require a bit of thinking to take down. Note also that you have limited amounts of ammunition, so you have to use firearms carefully.</desc>
+		<image>./mixart/Alone In The Dark.png</image>
+		<video>./snap/Alone In The Dark.mp4</video>
+		<marquee>./wheel/Alone In The Dark.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Adventure / Survival Horror</genre>
+		<lang>in</lang>
+		<region>in</region>
+	</game>
+	<game>
+		<path>./Twinsens Odyssey.pc</path>
+		<name>Twinsen's Odyssey</name>
+		<desc>Twinsen, the plucky hero of Relentless, returns to face his greatest challenge ever. 
+
+When strange aliens arrive from a neighboring planet and begin kidnapping magicians and children, Twinsen uncovers a diabolical plot to obliterate his homeworld. 
+
+In an epic adventure that will propel him across the galaxy, Twinsen must defeat the aliens and their evil god, the Dark Monk, to save his planet.</desc>
+		<image>./mixart/Twinsens Odyssey.png</image>
+		<video>./snap/Little Big Adventure 2.mp4</video>
+		<marquee>./wheel/Twinsens Odyssey.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970601T000000</releasedate>
+		<developer>Adeline Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 	</game>
 </gameList>

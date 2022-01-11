@@ -44,19 +44,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./sdq.daphne</path>
-		<name>Super Don Quix-ote</name>
-		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
-		<image>./mixart/sdq.png</image>
-		<video>./snap/sdq.mp4</video>
-		<marquee>./wheel/sdq.png</marquee>
-		<rating />
-		<releasedate>19840101T000000</releasedate>
-		<developer>Universal</developer>
-		<genre>Action</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./gpworld.daphne</path>
 		<name>GP World</name>
 		<desc>GP World was produced by Sega in 1984. In this laserdisc racing game, you have the choice between one of the three circuits proposed to compete with computer-controlled racing cars.  It is a rather average game in the realization where it is difficult to feel the feeling of speed despite the projection of the real circuits filmed as scenery.  But it is moving away from the traditional laserdisc spirit, interactive cartoons and shoot'em up, which changes a bit.</desc>
@@ -70,22 +57,6 @@
 		<genre>Race, Driving-Race 1st Pers. view</genre>
 		<lang>en</lang>
 		<path>./gpworld.daphne</path>
-	</game>
-	<game>
-		<path>./interstellar.daphne</path>
-		<name>Interstellar Laser Fantasy</name>
-		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
-		<image>./mixart/interstellar.png</image>
-		<video>./snap/interstellar.mp4</video>
-		<marquee>./wheel/interstellar.png</marquee>
-		<rating />
-		<releasedate>19830101T0000001201T000000</releasedate>
-		<developer>FUNAI</developer>
-		<publisher>FUNAI</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<path>./interstellar.daphne</path>
 	</game>
 	<game>
 		<path>./mach3.daphne</path>
@@ -137,20 +108,6 @@
 		<marquee>./wheel/cobraab.png</marquee>
 		<rating />
 		<releasedate />
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./uvt.daphne</path>
-		<name>Us Vs Them</name>
-		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics. nnUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
-		<image>./mixart/uvt.png</image>
-		<video>./snap/uvt.mp4</video>
-		<marquee>./wheel/uvt.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Mylstar</developer>
-		<publisher>Mylstar</publisher>
-		<genre>Shoot'em Up</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -213,17 +170,19 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./tq.daphne</path>
-		<name>Thayer's Quest</name>
-		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
-		<image>./mixart/tq.png</image>
-		<video>./snap/tq.mp4</video>
-		<marquee>./wheel/tq.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>RDI Video Systems</developer>
-		<publisher>RDI Video Systems</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -242,19 +201,59 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./roadblaster.daphne</path>
-		<name>Road Blaster</name>
-		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
-		<image>./mixart/rb.png</image>
-		<video>./snap/rb.mp4</video>
-		<marquee>./wheel/rb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850515T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./mixart/interstellar.png</image>
+		<video>./snap/interstellar.mp4</video>
+		<marquee>./wheel/interstellar.png</marquee>
+		<rating />
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./sdq.daphne</path>
+		<name>Super Don Quix-ote</name>
+		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
+		<image>./mixart/sdq.png</image>
+		<video>./snap/sdq.mp4</video>
+		<marquee>./wheel/sdq.png</marquee>
+		<rating></rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Universal</developer>
 		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tq.daphne</path>
+		<name>Thayer's Quest</name>
+		<desc>Thayer Alconred, last of the bloodline of the Elder Kings, searches five kingdoms in search of five relics which combine to form the Hand of Quoid. Thayer's adversary, Sorsabal The Twisted assisted by his henchman, The Black Magician, seeks to use the Hand's power to take control of the land.</desc>
+		<image>./mixart/tq.png</image>
+		<video>./snap/tq.mp4</video>
+		<marquee>./wheel/tq.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>RDI Video Systems</developer>
+		<publisher>RDI Video Systems</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./uvt.daphne</path>
+		<name>Us Vs Them</name>
+		<desc>They are among us, who? Invaders, aliens or aliens, in short, little green guys! Obviously to make a game they must be bad and want to take possession of our beautiful planet, otherwise it's not funny. As you have guessed, freedom lies on your shoulders and depends on your accuracy in shooting and acrobatics. nnUs vs. Them is an aerial shoot game with a rather classic and unpretentious realization where your ship is more or less inlaid in a background animated by videos. To make the interludes more dynamic, scenes with real actors punctuate the story in a spirit close to the TV series of the 80s. The game will appeal to lovers of science fiction, shoot and low budget TV series. Others will more readily turn to titles like M.A.C.H. 3.</desc>
+		<image>./mixart/uvt.png</image>
+		<video>./snap/uvt.mp4</video>
+		<marquee>./wheel/uvt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Mylstar</developer>
+		<publisher>Mylstar</publisher>
+		<genre>Shoot'em Up</genre>
 		<lang>en</lang>
 	</game>
 </gameList>
