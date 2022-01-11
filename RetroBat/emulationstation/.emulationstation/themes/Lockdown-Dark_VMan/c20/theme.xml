@@ -1,0 +1,23 @@
+<theme>
+<formatVersion>4</formatVersion>
+<include>./../theme.xml</include>
+
+<view name="detailed, video">
+ <image name="systemboxart" extra="true">
+    <origin>1 0</origin>
+    <pos>1 0</pos>
+    <maxSize>1 1</maxSize>
+    <path>./_inc/system2.png</path>
+    <zIndex>98</zIndex>            
+</image>
+</view>	
+
+<view name="system, basic, detailed, video, grid">
+  <text name="shortdescription" extra="true">
+   <text>1980  ·  8-BIT COMPUTER</text>
+  </text>
+  <text name="longdescription" extra="true">
+   <text>The Commodore VIC-20 (known as the VC-20 in Germany and the VIC-1001 in Japan) is an home computer that was sold by Commodore Business Machines.</text>
+  </text>
+ </view>
+</theme>
