@@ -33,7 +33,7 @@ ren "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
 rem 4. 2021-10-08 - rpcs3 emulator fix missing HDD PS3 games - reported by Virtualman/Hasinbinsene
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
 
-rem 5. 2021-11-08 - amigacd32 change controller remap to cd32 - reported by Virtualman/Bilu
+rem 5. 2021-11-08 - amigacd32 change controller remap to cd32 + extra emulator configs (vic-20) - reported by Virtualman/Bilu
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
 rem 6. 2021-11-14 - snes9x change controller remap for 'H' some home brew games - reported by Virtualman

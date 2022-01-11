@@ -7132,23 +7132,6 @@ The player has many different weapons at his or her disposal, including shotguns
 		<region>eu</region>
 		<genreid>260</genreid>
 	</game>
-	<game>
-		<path>./Gradius V (USA).gz</path>
-		<name>Gradius V</name>
-		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
-		<image>./mixart/Gradius V (USA).png</image>
-		<video>./snap/Gradius V (USA).mp4</video>
-		<marquee>./wheel/Gradius V (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041004T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="22332" source="ScreenScraper.fr">
 		<path>./7 Sins (Europe).gz</path>
 		<name>7 Sins</name>
@@ -7332,6 +7315,23 @@ In Octavianus' levels, the player sneaks around various locations in Rome. Octav
 		<developer>Incognito</developer>
 		<publisher>Sony</publisher>
 		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Gradius V (USA).gz</path>
+		<name>Gradius V</name>
+		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
+		<image>./mixart/Gradius V (USA).png</image>
+		<video>./snap/Gradius V (USA).mp4</video>
+		<marquee>./wheel/Gradius V (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

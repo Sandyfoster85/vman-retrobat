@@ -450,36 +450,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./HOTD4.parrot</path>
-		<name>The House of the Dead 4</name>
-		<desc>The House of the Dead 4 is an arcade game that takes place shortly after The House of the Dead 4 for up to two players working cooperatively. Kate Green from the original game teams up with G to deal with another zombie infestation. This leads them to the Magician, a boss character from the first two games in the series. Next to the Magician, Justice is another boss character encountered in the game. Just like the original title the player holds an uzi gun to attack the zombies from a first-person perspective. There are two large screens, the seats can shake and air is blown when taking damage. As a rail shooter movement is done automatically, the player only aims and shoots. Some sections of the game are done on foot and others in a vehicle. There are also moments where a branching path can be chosen and there are various cut-scenes shown from a third-person perspective. Entirely new for the series is the addition for a green life bar near the bottom of the screen, allowing for multiple hits, taking damage, before the game is over.</desc>
-		<image>./mixart/The House of the Dead 4.png</image>
-		<video>./snap/The House of the Dead 4.mp4</video>
-		<marquee>./wheel/The House of the Dead 4.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-	</game>
-	<game>
-		<path>./Daytona3.parrot</path>
-		<name>Daytona 3 / Daytona Championship</name>
-		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
-		<image>./mixart/Daytona 3.png</image>
-		<video>./snap/Daytona 3.mp4</video>
-		<marquee>./wheel/Daytona 3.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./VF5C.parrot</path>
 		<name>Virtua Fighter 5</name>
 		<desc>Virtua Fighter 5 is the fifth and final installment in Sega's Virtua Fighter series of arcade fighting games. The original version was released on the Sega Lindbergh arcade system board. The first location tests took place on November 26, 2005 [11] leading to the official release on July 12, 2006 in Japanese arcades. An export version, based on Version B, was released to arcades outside of Japan in February 2007.</desc>
@@ -507,37 +477,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Arcade Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./DariusBurst.parrot</path>
-		<name>Dariusburst: Another Chronicle</name>
-		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
-		<image>./mixart/Dariusburst Another Chronicle.png</image>
-		<video>./snap/Dariusburst Another Chronicle.mp4</video>
-		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>Pyramide</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./H2Overdrive.parrot</path>
-		<name>H2Overdrive</name>
-		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
-		<image>./mixart/H2Overdrive.png</image>
-		<video>./snap/H2Overdrive.mp4</video>
-		<marquee>./wheel/H2Overdrive.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091201T000000</releasedate>
-		<developer>Specular Interactive</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -660,5 +599,81 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Nameco</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./H2Overdrive.parrot</path>
+		<name>H2Overdrive</name>
+		<desc>Players race using powerboats with various levels of difficulty against other boats, as well as seven other players on nearby cabinets. During the races, players can run into crates that give them power-ups that can range from speed boosts to MegaHull and HullCrusher abilities, which can be used to destroy opposing boats. On the cabinet, a throttle is used to move the boat, instead of pedals. On the throttle, a red button is used to boost the boat. Unlike in Hydro Thunder, boats can now perform stunts, as well as various acrobatic maneuvers.</desc>
+		<image>./mixart/H2Overdrive.png</image>
+		<video>./snap/H2Overdrive.mp4</video>
+		<marquee>./wheel/H2Overdrive.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091201T000000</releasedate>
+		<developer>Specular Interactive</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./DariusBurst.parrot</path>
+		<name>Dariusburst: Another Chronicle</name>
+		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
+		<image>./mixart/Dariusburst Another Chronicle.png</image>
+		<video>./snap/Dariusburst Another Chronicle.mp4</video>
+		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Pyramide</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona3.parrot</path>
+		<name>Daytona 3 / Daytona Championship</name>
+		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
+		<image>./mixart/Daytona 3.png</image>
+		<video>./snap/Daytona 3.mp4</video>
+		<marquee>./wheel/Daytona 3.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./HOTD4.parrot</path>
+		<name>The House of the Dead 4</name>
+		<desc>The House of the Dead 4 is an arcade game that takes place shortly after The House of the Dead 4 for up to two players working cooperatively. Kate Green from the original game teams up with G to deal with another zombie infestation. This leads them to the Magician, a boss character from the first two games in the series. Next to the Magician, Justice is another boss character encountered in the game. Just like the original title the player holds an uzi gun to attack the zombies from a first-person perspective. There are two large screens, the seats can shake and air is blown when taking damage. As a rail shooter movement is done automatically, the player only aims and shoots. Some sections of the game are done on foot and others in a vehicle. There are also moments where a branching path can be chosen and there are various cut-scenes shown from a third-person perspective. Entirely new for the series is the addition for a green life bar near the bottom of the screen, allowing for multiple hits, taking damage, before the game is over.</desc>
+		<image>./mixart/The House of the Dead 4.png</image>
+		<video>./snap/The House of the Dead 4.mp4</video>
+		<marquee>./wheel/The House of the Dead 4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./HOTDSD.parrot</path>
+		<name>House of the Dead: Scarlet Dawn</name>
+		<desc>House of the Dead: Scarlet Dawn is the fifth arcade game in the House of the Dead series. It takes place in 2006, between the events of The House of the Dead 4 and The House of the Dead III. The game's story follows AMS agents Kate Green and Ryan Taylor who infiltrate Scarecrow Manor just as a horde of bioengineered creatures attack. From then on they have to fight their way to safety while exploring the mansion and uncovering who is behind the outbreak. Like in previous games in the series, the player uses a gun controller to shoot enemies as they appear on the screen. Each creature has a weak spot that deals extra damage when hit. In addition to the monsters, there are also civilians that have to be avoided. The player also has to keep track of the partner who at any time might need to be rescued. Failure to do so before time runs out leads to a life penalty. A new feature to the series is the introduction of quick-time events in which the player needs to quickly shoot a specific target. Reloading is automatic but can also be done manually by pointing outside the screen. In addition to the main machine gun, the player can choose two more items (shotgun, grenade, rocket launcher, etc.) ahead of each level. In the Japanese version, items are bought with coins which are awarded for successful actions such as critical shots, collectibles obtained and saved civilians while in the international versions items can be chosen freely. Another Japan-exclusive feature is the use of Aime cards. They are used for storing progress, keeping collected coins, completing achievements, checking high scores and taking part in national leaderboards. Part of the Aime functionality is also a level system where players earn experience for each stage completed and are rewarded with coins for every level up. The game has two game modes: normal mode and master mode. The normal mode is for first time players and includes assistance events. The master mode is for advanced players and has stronger and faster enemies.</desc>
+		<image>./mixart/House of the Dead-Scarlet Dawn.jpg</image>
+		<video>./snap/House of the Dead-Scarlet Dawn.mp4</video>
+		<marquee>./wheel/House of the Dead-Scarlet Dawn.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

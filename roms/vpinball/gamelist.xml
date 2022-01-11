@@ -1832,21 +1832,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Doom Classic Edition (TBA 2019).vpx</path>
-		<name>Doom Classic Edition (TBA 2019)</name>
-		<desc>Flipper Doom Classic Edition (TBA 2019)</desc>
-		<image>./mixart/Doom Classic Edition (TBA 2019).jpg</image>
-		<video>./snap/Doom Classic Edition (TBA 2019).mp4</video>
-		<marquee>./wheel/Doom Classic Edition (TBA 2019).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Flash, The (Original 2018).vpx</path>
 		<name>Flash, The (Original 2018)</name>
 		<desc>Flipper The Flash</desc>
@@ -2918,21 +2903,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ELF Pinball XL.vpx</path>
-		<name>ELF Pinball XL</name>
-		<desc>Flipper ELF Pinball XL</desc>
-		<image>./mixart/ELF Pinball XL.png</image>
-		<video>./snap/ELF Pinball XL.mp4</video>
-		<marquee>./wheel/ELF Pinball XL.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Godzilla limited edition.vpx</path>
 		<name>Godzilla Limited Edition</name>
 		<desc>Flipper Godzilla limited edition</desc>
@@ -2981,19 +2951,19 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Space Cadet 1.03.vpx</path>
-		<name>Space Cadet 1.03</name>
-		<desc>Flipper Space Cadet</desc>
-		<image>./mixart/Space Cadet 1.03.png</image>
-		<video>./snap/Space Cadet 1.03.mp4</video>
-		<marquee>./wheel/Space Cadet 1.03.png</marquee>
-		<rating>4</rating>
+		<path>./Doom Classic Edition (TBA 2019).vpx</path>
+		<name>Doom Classic Edition (TBA 2019)</name>
+		<desc>Flipper Doom Classic Edition (TBA 2019)</desc>
+		<image>./mixart/Doom Classic Edition (TBA 2019).jpg</image>
+		<video>./snap/Doom Classic Edition (TBA 2019).mp4</video>
+		<marquee>./wheel/Doom Classic Edition (TBA 2019).png</marquee>
+		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Back To The Future 1.4 PF Mod.vpx</path>
@@ -3010,5 +2980,63 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ELF Pinball XL.vpx</path>
+		<name>ELF Pinball XL</name>
+		<desc>Flipper ELF Pinball XL</desc>
+		<image>./mixart/ELF Pinball XL.png</image>
+		<video>./snap/ELF Pinball XL.mp4</video>
+		<marquee>./wheel/ELF Pinball XL.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Drunken Santa.vpx</path>
+		<name>Drunken Santa</name>
+		<desc>Flipper Drunken Santa</desc>
+		<image>./mixart/Drunken Santa.png</image>
+		<video>./snap/Drunken Santa.mp4</video>
+		<marquee>./wheel/Drunken Santa.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Space Cadet 1.03.vpx</path>
+		<name>Space Cadet 1.03</name>
+		<desc>Flipper Space Cadet</desc>
+		<image>./mixart/Space Cadet 1.03.png</image>
+		<video>./snap/Space Cadet 1.03.mp4</video>
+		<marquee>./wheel/Space Cadet 1.03.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Queen Limited.vpx</path>
+		<name>Queen Limited</name>
+		<desc>Flipper Queen Limited</desc>
+		<image>./mixart/Queen Limited.png</image>
+		<video>./snap/Queen Limited.mp4</video>
+		<marquee>./wheel/Queen Limited.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
