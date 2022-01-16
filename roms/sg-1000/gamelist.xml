@@ -700,20 +700,6 @@ The player can swap between robot and starship modes freely, though both come wi
 		<cheevosHash>0F45FA8E9B985FD5C6545645462B9400</cheevosHash>
 		<cheevosId>17745</cheevosId>
 	</game>
-	<game>
-		<path>./Pacar (Japan, Europe).zip</path>
-		<name>Pacar</name>
-		<desc>PACAR, a mischievous car, runs through the 3D routes freely advancing and reversing at fast and slow speeds. Try to delete all the dots on the screen while avoiding the 2 kinds of enemy cars. When you pass through the special dots, PACAR becomes more and more invincible as it increases its power and will be free from damage even when it crashes into the enemy car. Keep up the torrid pace and destroy as many of the enemy cars as possible!</desc>
-		<image>./mixart/Pacar (Japan, Europe).png</image>
-		<video>./snap/Pacar (Japan, Europe).mp4</video>
-		<marquee>./wheel/Pacar (Japan, Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<cheevosHash>8F46800E6FC7D5A40716045F6D739932</cheevosHash>
-		<cheevosId>17771</cheevosId>
-	</game>
 	<game id="65740" source="ScreenScraper.fr">
 		<path>./Pachinko (Japan).zip</path>
 		<name>Pachinko</name>
@@ -1110,5 +1096,19 @@ Though most home ports of the game are based on Planet of Zoom, Zoom 909 was bro
 		<players>2</players>
 		<crc32>093830D8</crc32>
 		<cheevosHash>4E457A6C5B4B613F2AAC3472F6827A89</cheevosHash>
+	</game>
+	<game>
+		<path>./Pacar (Japan, Europe).zip</path>
+		<name>Pacar</name>
+		<desc>PACAR, a mischievous car, runs through the 3D routes freely advancing and reversing at fast and slow speeds. Try to delete all the dots on the screen while avoiding the 2 kinds of enemy cars. When you pass through the special dots, PACAR becomes more and more invincible as it increases its power and will be free from damage even when it crashes into the enemy car. Keep up the torrid pace and destroy as many of the enemy cars as possible!</desc>
+		<image>./mixart/Pacar (Japan, Europe).png</image>
+		<video>./snap/Pacar (Japan, Europe).mp4</video>
+		<marquee>./wheel/Pacar (Japan, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<cheevosHash>8F46800E6FC7D5A40716045F6D739932</cheevosHash>
+		<cheevosId>17771</cheevosId>
 	</game>
 </gameList>

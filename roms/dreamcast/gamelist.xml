@@ -2803,19 +2803,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Triggerheart Exelica (Japan).chd</path>
-		<name>Trigger Heart Exelica</name>
-		<desc>In the distant future humanity will develop intelligent weapons called Trigger Hearts. Despite their awesome offensive strengths, Trigger Hearts aesthetically closely resemble humans, and overtime even develop unique personalities. Of three existing Trigger Hearts one, named Faintear, has mysteriously vanished two years ago. The story begins as the two remaining Trigger Hearts - Exelica and Crueltear (who took on the personality of Exelica's big sister) are summoned to quell a mysterious rebellion of military machines against their human creators.  Trigger Heart Exelica is an arcade-style top-down shooter and is composed of 5 stages of shooting mayhem. Most levels take place in futuristic environments such as sky cities and space stations. The player is given a choice of one of the two Trigger Hearts at the beginning of the game - Exelica, who emits a wide fan of weak shots, and Crueltear, who fires a narrowly concentrated barrage of projectiles. However, the firing pattern of guns matters little during the game, as Trigger Heart's most awesome weapon is common to both models, and is called the Anchor Shot. By using the Anchor Shot Trigger Hearts are able to grab, swing, use as a shield, and hurl back any flying enemy vehicle in the game, including even the most giant of enemy battle cruisers. When thrown, the enemy cuts a path of destruction across the entire screen, causing explosive chain reactions between adjacent ships and occasionally even obliterating bosses in one hit. The Anchor Shot is a tricky weapon to use, as it requires the player to circle the joystick in order to give enemy ships more inertia while continuing to dodge enemy fire. The trajectory of the released enemy is also somewhat difficult to predict. Another innovative feature of Trigger Heart Exelica is AI-adjusted boss difficulty level, which will cut more slack to the inexperienced player, while attempting to punish the pros.  In addition to the original Arcade mode the home version of the game includes a Story mode, which adds fully voiced cutscenes, additional endings and bosses throughout the game, and Arranged Mode, which is just like the arcade mode, but is limited to Normal difficulty, no continues, and only two lives, and serves as a challenge to the most experienced players.  The PS2 port includes a new opening movie, story mode and CG sequences. TH44 Faintear is now a player selectable fighter and The Triggerheart Backupper C'r_na, originally only a story concept, now appears in the game.</desc>
-		<image>./mixart/Triggerheart Exelica (Japan).png</image>
-		<video>./snap/Triggerheart Exelica (Japan).mp4</video>
-		<marquee>./wheel/Triggerheart Exelica (Japan).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20070222T000000</releasedate>
-		<developer>Warashi</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-	</game>
-	<game>
 		<path>./Virtua Striker 2 (USA).chd</path>
 		<name>Virtua Striker 2</name>
 		<desc>It's here, Virtua Striker 2 V2000.1 has come to Dreamcast in all its arcade-perfect glory. Play any of the new modes - including 'Ranking' and 'Leagues' - or just sit back and enjoy the original arcade mode from the comfort of your armchair. You can save the best goal on your VM unit and use it when your competing in two-player mode.   Football has never looked so good and felt so right... you can almost taste the pie and Bovril at half time. </desc>
@@ -4785,5 +4772,20 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<publisher>Sega</publisher>
 		<genre>Race, Driving</genre>
 		<players>2-4</players>
+	</game>
+	<game>
+		<path>./Triggerheart Exelica (Japan).chd</path>
+		<name>Trigger Heart Exelica</name>
+		<desc>In the distant future humanity will develop intelligent weapons called Trigger Hearts. Despite their awesome offensive strengths, Trigger Hearts aesthetically closely resemble humans, and overtime even develop unique personalities. Of three existing Trigger Hearts one, named Faintear, has mysteriously vanished two years ago. The story begins as the two remaining Trigger Hearts - Exelica and Crueltear (who took on the personality of Exelica's big sister) are summoned to quell a mysterious rebellion of military machines against their human creators.  Trigger Heart Exelica is an arcade-style top-down shooter and is composed of 5 stages of shooting mayhem. Most levels take place in futuristic environments such as sky cities and space stations. The player is given a choice of one of the two Trigger Hearts at the beginning of the game - Exelica, who emits a wide fan of weak shots, and Crueltear, who fires a narrowly concentrated barrage of projectiles. However, the firing pattern of guns matters little during the game, as Trigger Heart's most awesome weapon is common to both models, and is called the Anchor Shot. By using the Anchor Shot Trigger Hearts are able to grab, swing, use as a shield, and hurl back any flying enemy vehicle in the game, including even the most giant of enemy battle cruisers. When thrown, the enemy cuts a path of destruction across the entire screen, causing explosive chain reactions between adjacent ships and occasionally even obliterating bosses in one hit. The Anchor Shot is a tricky weapon to use, as it requires the player to circle the joystick in order to give enemy ships more inertia while continuing to dodge enemy fire. The trajectory of the released enemy is also somewhat difficult to predict. Another innovative feature of Trigger Heart Exelica is AI-adjusted boss difficulty level, which will cut more slack to the inexperienced player, while attempting to punish the pros.  In addition to the original Arcade mode the home version of the game includes a Story mode, which adds fully voiced cutscenes, additional endings and bosses throughout the game, and Arranged Mode, which is just like the arcade mode, but is limited to Normal difficulty, no continues, and only two lives, and serves as a challenge to the most experienced players.  The PS2 port includes a new opening movie, story mode and CG sequences. TH44 Faintear is now a player selectable fighter and The Triggerheart Backupper C'r_na, originally only a story concept, now appears in the game.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Triggerheart Exelica (Japan).png</image>
+		<video>./snap/Triggerheart Exelica (Japan).mp4</video>
+		<marquee>./wheel/Triggerheart Exelica (Japan).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070222T000000</releasedate>
+		<developer>Warashi</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
 	</game>
 </gameList>

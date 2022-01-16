@@ -822,21 +822,6 @@ While celebrating Donkey Kong's birthday the Kong family witnesses how an invasi
 		<md5>236ba24c45c026beb1f04edb3e39c407</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Dr. Luigi [WAQE01]/code/rgm012.rpx</path>
-		<name>Dr. Luigi</name>
-		<desc>Dr. Luigi est un puzzle-game disponible sur Wii U. Reprenant le principe des Dr. Mario, Cet opus met en scène Luig qui doit lutter contre les virus à grands coups de pilules colorées. Quatre modes de jeu différents sont disponibles, du plus classique au plus complexe, en passant par le mode multijoueur en ligne.</desc>
-		<image>./mixart/Dr. Luigi-01.png</image>
-		<video>./snap/Dr. Luigi.mp4</video>
-		<marquee>./wheel/Dr. Luigi-02.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20140116T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game</genre>
-		<md5>22ff114797f17322c846e6e016a1ffcd</md5>
-		<lang>en</lang>
-	</game>
 	<game id="12293">
 		<path>./Family Party - 30 Great Games Obstacle Arcade (USA).wux</path>
 		<name>Family Party : 30 Great Games Obstacle Arcade</name>
@@ -1440,22 +1425,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Nano Assault Neo [WASEJXJX]/code/project.rpx</path>
-		<name>Nano Assault Neo</name>
-		<desc>Nano Assault Neo is a shoot'em up on Wii U. Drive a nano-ship and go explore cells to fight a powerful virus. A panoply of weapons is obviously at your disposal to exterminate the vermin.</desc>
-		<image>./mixart/Nano Assault Neo.png</image>
-		<video>./snap/Nano Assault Neo.mp4</video>
-		<marquee>./wheel/Nano Assault Neo-01.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20121130T000000</releasedate>
-		<developer>Shin'en</developer>
-		<publisher>Majesco</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<md5>69030628e509473ac39b8fe84c6f42a9</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Guacamelee! Super Turbo Championship Edition [0005000010176800]/code/Guacamelee.rpx</path>
 		<name>Guacamelee! Super Turbo Championship Edition</name>
 		<desc>Evil chose the wrong day to double-dip. Carlos Calaca has kidnapped El Presidente's Daughter, and he plans to sacrifice her in order to merge the World of the Living with the World of the Dead. Juan Aguacate, an agave farmer who stumbles upon a Legendary Luchador mask, must find the strength and courage to become the Hero he's always dreamed of being and put a stop to this. Guacamelee! STCE is a Metroidvania-style action-platformer set in a magical world inspired by traditional Mexican culture and folklore. The game features melee combat, parallel dimensions and same-screen co-op. The Super Turbo Championship Edition also includes extra abilities, new level content and enhanced graphics. Also chickens.</desc>
@@ -1538,17 +1507,6 @@ Gear up for the most intense challenges only Hot Wheels can deliver! Pick your t
 		<md5>2bfa1c674bc53eb871210ae4e3837375</md5>
 		<lang>en</lang>
 	</game>
-	<game id="246311">
-		<path>./NES Remix Pack (USA).wux</path>
-		<name>NES Remix Pack</name>
-		<image>./mixart/NES Remix Pack-01.png</image>
-		<video>./snap/NES Remix.mp4</video>
-		<marquee>./wheel/NES Remix Pack-01.png</marquee>
-		<rating>0.86</rating>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="12119">
 		<path>./MARIO KART 8/code/Turbo.rpx</path>
 		<name>Mario Kart 8</name>
@@ -1617,6 +1575,48 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<favorite>true</favorite>
 		<md5>fad6a4884c0c918c2835bd1afb9a69b1</md5>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dr. Luigi [WAQE01]/code/rgm012.rpx</path>
+		<name>Dr. Luigi</name>
+		<desc>Dr. Luigi est un puzzle-game disponible sur Wii U. Reprenant le principe des Dr. Mario, Cet opus met en scène Luig qui doit lutter contre les virus à grands coups de pilules colorées. Quatre modes de jeu différents sont disponibles, du plus classique au plus complexe, en passant par le mode multijoueur en ligne.</desc>
+		<image>./mixart/Dr. Luigi-01.png</image>
+		<video>./snap/Dr. Luigi.mp4</video>
+		<marquee>./wheel/Dr. Luigi-02.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20140116T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>22ff114797f17322c846e6e016a1ffcd</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Nano Assault Neo [WASEJXJX]/code/project.rpx</path>
+		<name>Nano Assault Neo</name>
+		<desc>Nano Assault Neo is a shoot'em up on Wii U. Drive a nano-ship and go explore cells to fight a powerful virus. A panoply of weapons is obviously at your disposal to exterminate the vermin.</desc>
+		<image>./mixart/Nano Assault Neo.png</image>
+		<video>./snap/Nano Assault Neo.mp4</video>
+		<marquee>./wheel/Nano Assault Neo-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121130T000000</releasedate>
+		<developer>Shin'en</developer>
+		<publisher>Majesco</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<md5>69030628e509473ac39b8fe84c6f42a9</md5>
+		<lang>en</lang>
+	</game>
+	<game id="246311">
+		<path>./NES Remix Pack (USA).wux</path>
+		<name>NES Remix Pack</name>
+		<image>./mixart/NES Remix Pack-01.png</image>
+		<video>./snap/NES Remix.mp4</video>
+		<marquee>./wheel/NES Remix Pack-01.png</marquee>
+		<rating>0.86</rating>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game id="241512">
 		<path>./The Legend of Zelda Breath of the Wild/code/The Legend of Zelda Breath of the Wild.rpx</path>

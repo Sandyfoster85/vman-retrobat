@@ -208,21 +208,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Batman (Data East 1991).vpx</path>
-		<name>Batman (Data East 1991)</name>
-		<desc>Flipper Batman (Data East 1991)</desc>
-		<image>./mixart/Batman (Data East 1991).jpg</image>
-		<video>./snap/Batman (Data East 1991).mp4</video>
-		<marquee>./wheel/Batman (Data East 1991).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Batman 66 (Original 2018).vpx</path>
 		<name>Batman 66 (Original 2018)</name>
 		<desc>Flipper Batman 66 (Original 2018)</desc>
@@ -1802,21 +1787,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Elvis (2004).vpx</path>
-		<name>Elvis (2004)</name>
-		<desc>Flipper Elvis (2004)</desc>
-		<image>./mixart/Elvis (2004).jpg</image>
-		<video>./snap/Elvis (2004).mp4</video>
-		<marquee>./wheel/Elvis (2004).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dark Crystal 1.2.vpx</path>
 		<name>Dark Crystal 1.2</name>
 		<desc>Flipper Dark Crystal 1.2</desc>
@@ -2609,22 +2579,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).vpx</path>
-		<name>Tron Legacy</name>
-		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience!</desc>
-		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
-		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
-		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
-		<rating>4.12</rating>
-		<releasedate>20110924T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Stern</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Turrican (TBA 2018).vpx</path>
 		<name>Turrican (TBA 2018)</name>
 		<desc>Flipper Turrican (TBA 2018)</desc>
@@ -3038,5 +2992,66 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Batman (Data East 1991).vpx</path>
+		<name>Batman (Data East 1991)</name>
+		<desc>Flipper Batman (Data East 1991)</desc>
+		<image>./mixart/Batman (Data East 1991).jpg</image>
+		<video>./snap/Batman (Data East 1991).mp4</video>
+		<marquee>./wheel/Batman (Data East 1991).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elvis (2004).vpx</path>
+		<name>Elvis (2004)</name>
+		<desc>Flipper Elvis (2004)</desc>
+		<image>./mixart/Elvis (2004).jpg</image>
+		<video>./snap/Elvis (2004).mp4</video>
+		<marquee>./wheel/Elvis (2004).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FDTD.vpx</path>
+		<name>From Dusk till Dawn</name>
+		<desc>Flipper From Dusk till Dawn</desc>
+		<image>./mixart/FDTD.png</image>
+		<video>./snap/FDTD.mp4</video>
+		<marquee>./wheel/FDTD.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).vpx</path>
+		<name>Tron Legacy</name>
+		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience!</desc>
+		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
+		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
+		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
+		<rating>4.12</rating>
+		<releasedate>20110924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Stern</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

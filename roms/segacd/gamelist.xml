@@ -1261,7 +1261,7 @@ Double Switch stars Corey Haim and Deborah Harry, and features a musical score b
 		<video>./snap/Dune (USA).mp4</video>
 		<marquee>./wheel/Dune (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>B0E9B92AFA241DFE4ECEF261FBA4E227</cheevosHash>
 	</game>
 	<game id="12724" source="ScreenScraper">
@@ -1808,25 +1808,6 @@ The twists of the game are true-3D level connectors, based on the CG sequences o
 		<publisher>Rocket Science Games</publisher>
 		<players>1</players>
 		<cheevosHash>95C1AADC2453BFEDD9D6A0A06B82E102</cheevosHash>
-	</game>
-	<game id="12767" source="ScreenScraper.fr">
-		<path>./Lords of Thunder (USA).chd</path>
-		<name>Lords of Thunder</name>
-		<desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
-
-Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
-
-The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
-		<image>./mixart/Lords of Thunder (USA).png</image>
-		<video>./snap/Lords of Thunder (USA).mp4</video>
-		<marquee>./wheel/Lords of Thunder (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Red Company</developer>
-		<publisher>Hudson</publisher>
-		<players>2</players>
-		<cheevosHash>9D7B20D30326563892681EBC0AD0AF7E</cheevosHash>
-		<cheevosId>16031</cheevosId>
 	</game>
 	<game>
 		<path>./Lunar - Eternal Blue (USA).chd</path>
@@ -2723,7 +2704,7 @@ Sonic CD has features that take advantage of the CD format such as CD audio, vid
 		<image>./mixart/Sonic MegaMix (USA) (Unl).png</image>
 		<video>./snap/Sonic MegaMix (USA) (Unl).mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>3C12FEAA765FF91A126AA62C7EB24DE7</cheevosHash>
 	</game>
 	<game id="12777" source="ScreenScraper.fr">
@@ -2824,7 +2805,7 @@ The player takes the role of the manga hero Cobra, who after walking into a bar,
 		<image>./mixart/Super Strike Trilogy (USA).png</image>
 		<video>./snap/Super Strike Trilogy (USA).mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>D1A6F85500A8BCE204D97D2ECCDDB5FC</cheevosHash>
 	</game>
 	<game>
@@ -2936,7 +2917,7 @@ Between levels, the game shows small digitized clips from the film that advance 
 		<video>./snap/Time Cop (PAL).mp4</video>
 		<marquee>./wheel/Time Cop (PAL).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Cryo</developer>
 		<publisher>JVC</publisher>
 		<genre>Action</genre>
@@ -3134,5 +3115,26 @@ There are a plethora of game modes to choose from including a regular single-fal
 		<genre>Adventure</genre>
 		<players>1</players>
 		<cheevosHash>5E6BBC4BD70A1F1C3352594E81B0B12D</cheevosHash>
+	</game>
+	<game id="12767" source="ScreenScraper.fr">
+		<path>./Lords of Thunder (USA).chd</path>
+		<name>Lords of Thunder</name>
+		<desc>In the once peaceful land of Mistral, legend holds of a brave knight named Drak who has sealed an evil god named Deoric beneath the six continents of the land. However, peace never lasts. The Garuda Empire has invaded the lands of Mistral, and the six Dark Generals, led by Sornbul, have conquered the continents. Sornbul's ambition is nothing less than to resurrect Deoric and plunge the land into chaos.
+
+Duran, descendant of Drak, is the only one who can stop the Garuda Empire's mad plan, and with the power of Drak's mystic armors, he heads off to stop Sornbul at any cost.
+
+The six continents of Mistral can be challenged in any order, each of which are filled with hordes of demons and one of Sornbul's Dark Generals. After completing all six continents the player will face Sornbul on the final island. Before a level the player can choose from one of four elemental armors, each with its own bullet spread and unique bomb. The armor's attack can be powered up several levels by finding jewels dropped by enemies. This power level, as well as the armor's health, is reduced when hit. Enemies also drop crystals that are used in a between-level shop to buy additional health, bombs, and continues.</desc>
+		<image>./mixart/Lords of Thunder (USA).png</image>
+		<video>./snap/Lords of Thunder (USA).mp4</video>
+		<marquee>./wheel/Lords of Thunder (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Red Company</developer>
+		<publisher>Hudson</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9D7B20D30326563892681EBC0AD0AF7E</cheevosHash>
+		<cheevosId>16031</cheevosId>
 	</game>
 </gameList>

@@ -409,21 +409,6 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<video>./snap/Tokyo Jungle.mp4</video>
 		<genreid>768</genreid>
 	</game>
-	<game id="25036" source="ScreenScraper.fr">
-		<path>./PlayStation All-Stars Battle Royale.m3u</path>
-		<name>Playstation All-stars Battle Royale</name>
-		<desc>PlayStation All-Stars Battle Royale is a free-for-all brawler showcasing the best and brightest of PlayStation's characters and worlds! From Kratos to Sly Cooper, Sweet Tooth to Parappa the Rapper, Sony characters from all over the gaming spectrum are brought together in a fighting adventure that's both easy to play, and hard to master. Take the battle online for competitive multiplayer action, or go head to head with a group of friends on the couch and prove once and for all who's really the best!</desc>
-		<rating>0.75</rating>
-		<releasedate>20121120T000000</releasedate>
-		<developer>SuperBot Entertainment</developer>
-		<publisher>Sony</publisher>
-		<genre>Fight</genre>
-		<players>2-4</players>
-		<image>./mixart/PlayStation All-Stars Battle Royale.png</image>
-		<marquee>./wheel/PlayStation All-Stars Battle Royale.png</marquee>
-		<video>./snap/PlayStation All-Stars Battle Royale.mp4</video>
-		<genreid>262</genreid>
-	</game>
 	<game id="25557" source="ScreenScraper.fr">
 		<path>./Pure.m3u</path>
 		<name>Pure</name>
@@ -1118,21 +1103,6 @@ Gather a team of two, thrust into battle, and go crazy with your attacks! From b
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Elevator Action Deluxe.m3u</path>
-		<name>Elevator Action Deluxe</name>
-		<desc>You are a legendary super spy. Your mission: steal the documents and escape. But this isn't the same game you remember from the arcades! New bad guys, new traps, and new challenges all await you. Enjoy ELEVATOR ACTION for the first time with HD graphics, and challenge your friends in up to 4 player local multiplayer action. And, as an added bonus, you'll get the original ELEVATOR ACTION free along with your purchase of ELEVATOR ACTION DELUXE. The game has been upgraded. Are you good enough to survive?</desc>
-		<image>./mixart/Elevator Action Deluxe.png</image>
-		<video>./snap/Elevator Action Deluxe.mp4</video>
-		<marquee>./wheel/Elevator Action Deluxe.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20111125T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Action, Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Fat Princess.m3u</path>
 		<name>Fat Princess</name>
 		<desc>Fat Princess is an action real-time strategy video game for the PlayStation 3, developed by Titan Studios and published by Sony Computer Entertainment. It was released in North America and Europe on July 30, 2009,[1] and in Japan on December 25, 2009. It was included on the "Best of PlayStation Network Vol. 1" compilation disc, released June 18, 2013.[2] A PSP version called Fat Princess: Fistful of Cake was released in 2010. Fat Princess is a multiplayer game for up to 32 players, with the basic goal of rescuing the Princess and bringing her back to the team's base.</desc>
@@ -1705,22 +1675,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>4</players>
 		<genreid>1537</genreid>
 	</game>
-	<game id="26419" source="ScreenScraper.fr">
-		<path>./OutRun Online Arcade.m3u</path>
-		<name>OutRun Online Arcade</name>
-		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
-		<image>./mixart/OutRun Online Arcade.png</image>
-		<video>./snap/OutRun Online Arcade.mp4</video>
-		<marquee>./wheel/OutRun Online Arcade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Tony Hawk's Pro Skater HD.m3u</path>
 		<name>Tony Hawk's Pro Skater HD</name>
@@ -1779,6 +1733,22 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<players>4</players>
 		<favorite>true</favorite>
 	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
 	<game>
 		<path>./Daytona USA.m3u</path>
 		<name>Daytona USA</name>
@@ -1793,5 +1763,38 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elevator Action Deluxe.m3u</path>
+		<name>Elevator Action Deluxe</name>
+		<desc>You are a legendary super spy. Your mission: steal the documents and escape. But this isn't the same game you remember from the arcades! New bad guys, new traps, and new challenges all await you. Enjoy ELEVATOR ACTION for the first time with HD graphics, and challenge your friends in up to 4 player local multiplayer action. And, as an added bonus, you'll get the original ELEVATOR ACTION free along with your purchase of ELEVATOR ACTION DELUXE. The game has been upgraded. Are you good enough to survive?</desc>
+		<image>./mixart/Elevator Action Deluxe.png</image>
+		<video>./snap/Elevator Action Deluxe.mp4</video>
+		<marquee>./wheel/Elevator Action Deluxe.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20111125T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="25036" source="ScreenScraper.fr">
+		<path>./PlayStation All-Stars Battle Royale.m3u</path>
+		<name>Playstation All-stars Battle Royale</name>
+		<desc>PlayStation All-Stars Battle Royale is a free-for-all brawler showcasing the best and brightest of PlayStation's characters and worlds! From Kratos to Sly Cooper, Sweet Tooth to Parappa the Rapper, Sony characters from all over the gaming spectrum are brought together in a fighting adventure that's both easy to play, and hard to master. Take the battle online for competitive multiplayer action, or go head to head with a group of friends on the couch and prove once and for all who's really the best!</desc>
+		<image>./mixart/PlayStation All-Stars Battle Royale.png</image>
+		<video>./snap/PlayStation All-Stars Battle Royale.mp4</video>
+		<marquee>./wheel/PlayStation All-Stars Battle Royale.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20121120T000000</releasedate>
+		<developer>SuperBot Entertainment</developer>
+		<publisher>Sony</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<genreid>262</genreid>
 	</game>
 </gameList>

@@ -121,20 +121,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./rumblef.zip</path>
-		<name>The Rumble Fish</name>
-		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
-		<image>./mixart/rumblef.png</image>
-		<video>./snap/rumblef.mp4</video>
-		<marquee>./wheel/rumblef.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./kofnw.lst</path>
 		<name>The King of Fighters NeoWave</name>
 		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
@@ -407,5 +393,19 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>4</players>
+	</game>
+	<game>
+		<path>./rumblef.zip</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./mixart/rumblef.png</image>
+		<video>./snap/rumblef.mp4</video>
+		<marquee>./wheel/rumblef.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
 	</game>
 </gameList>
