@@ -1382,23 +1382,6 @@
 		<cheevosHash>335CE3973AE33C062C92825D8DF083D7</cheevosHash>
 	</game>
 	<game>
-		<path>./F-1 World Grand Prix (USA).n64</path>
-		<name>F-1 World Grand Prix</name>
-		<desc>The 1997 Formula One World Championship, won by Canadian Jacques Villeneuve in dramatic fashion after a final-race collision with Germany's Michael Schumacher, is recreated in this racing simulation. You have the chance to set up the car to perfect the handling for each of the 17 diverse circuits. Wet racing is incorporated, with gradual weather chances, as well as tyre wear requiring pitstops.  In total there are five distinct gameplay modes. A solo player can play through the entire championship, with practice and qualifying as well as the race against 21 other cars. A Challenge mode including key situations allows you to try to alter the course of history. There is also a 2-player head-to-head mode, Time Attack and one-off races of any length.</desc>
-		<image>./mixart/F-1 World Grand Prix (USA).png</image>
-		<video>./snap/F-1 World Grand Prix (USA).mp4</video>
-		<marquee>./wheel/F-1 World Grand Prix (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19980731T000000</releasedate>
-		<developer>Paradigm Entertainment</developer>
-		<publisher>Video System</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>82DCD2B311352AD9B571089AFF6B6171</cheevosHash>
-	</game>
-	<game>
 		<path>./F-1 World Grand Prix II (Europe) (En,Fr,De,Es).n64</path>
 		<name>F-1 World Grand Prix II</name>
 		<desc>The second F1 experience from Paradigm, the direct sequel to F-1 World Grand Prix, has more of the same high speed antics around the Formula 1 circuit.  Following the 1998 season, you'll experience all the drivers, tracks and teams and compete in a number of different racing modes, from the usual Grand Prix and Training to Challenge mode, where you'll attempt to complete a range of critical events based on the deal.</desc>
@@ -5156,5 +5139,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B8C98E55712842E6DC07C1A5E9EBC612</cheevosHash>
+	</game>
+	<game>
+		<path>./F-1 World Grand Prix (USA).n64</path>
+		<name>F-1 World Grand Prix</name>
+		<desc>The 1997 Formula One World Championship, won by Canadian Jacques Villeneuve in dramatic fashion after a final-race collision with Germany's Michael Schumacher, is recreated in this racing simulation. You have the chance to set up the car to perfect the handling for each of the 17 diverse circuits. Wet racing is incorporated, with gradual weather chances, as well as tyre wear requiring pitstops.  In total there are five distinct gameplay modes. A solo player can play through the entire championship, with practice and qualifying as well as the race against 21 other cars. A Challenge mode including key situations allows you to try to alter the course of history. There is also a 2-player head-to-head mode, Time Attack and one-off races of any length.</desc>
+		<image>./mixart/F-1 World Grand Prix (USA).png</image>
+		<video>./snap/F-1 World Grand Prix (USA).mp4</video>
+		<marquee>./wheel/F-1 World Grand Prix (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19980731T000000</releasedate>
+		<developer>Paradigm Entertainment</developer>
+		<publisher>Video System</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>82DCD2B311352AD9B571089AFF6B6171</cheevosHash>
 	</game>
 </gameList>

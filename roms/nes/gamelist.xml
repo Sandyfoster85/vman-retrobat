@@ -25061,24 +25061,6 @@ The game offers 24 unique and fictional players to pick from each with their own
 		<players>4</players>
 		<cheevosHash>6A876D7D3E7EB6741F2195101FF193EC</cheevosHash>
 	</game>
-	<game id="1369" source="ScreenScraper.fr">
-		<path>./Rush'n Attack (USA).zip</path>
-		<name>Rush'n Attack</name>
-		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
-
-There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
-		<image>./mixart/Rush'n Attack (USA).png</image>
-		<video>./snap/Rush'n Attack (USA).mp4</video>
-		<marquee>./wheel/Rush'n Attack (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19870402T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>0B423BF38720009871742388B9414878</cheevosHash>
-		<cheevosId>1929</cheevosId>
-	</game>
 	<game>
 		<path>./Rygar (USA).zip</path>
 		<name>Rygar</name>
@@ -29129,5 +29111,23 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<players>2</players>
 		<cheevosHash>CA606BD8A875A396D52735C3BB84FA67</cheevosHash>
 		<cheevosId>1491</cheevosId>
+	</game>
+	<game id="1369" source="ScreenScraper.fr">
+		<path>./Rush'n Attack (USA).zip</path>
+		<name>Rush'n Attack</name>
+		<desc>Depending on which title you use, and how you interpret it, this game is about a guy who a)rushes in before attacking b)attacks Russians (this was the mid-80s, when the US helped bin Laden do the same), or c)wears a rather goofy hat. One way or another, this arcade conversion arms you with a knife and sends you on a kamikaze mission against hordes of enemy fighters.
+
+There are four distinct sections of gameplay, taking in a Missile Base, a Harbour, a Bridge, and an enemy Prison Camp. Extra weapons with limited ammunition can be collected along the way, which will make the task a lot easier. The level is divided into 3 horizontal levels, which can be moved between either by jumping or using ladders, and this gives a chance to avoid the more threatening mobs of enemy fighters</desc>
+		<image>./mixart/Rush'n Attack (USA).png</image>
+		<video>./snap/Rush'n Attack (USA).mp4</video>
+		<marquee>./wheel/Rush'n Attack (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19870402T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<cheevosHash>0B423BF38720009871742388B9414878</cheevosHash>
+		<cheevosId>1929</cheevosId>
 	</game>
 </gameList>

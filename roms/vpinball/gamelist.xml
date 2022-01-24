@@ -494,21 +494,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Elvira and the Party Monsters (Bally 1989).vpx</path>
-		<name>Elvira and the Party Monsters (Bally 1989)</name>
-		<desc>Flipper Elvira and the Party Monsters (Bally 1989)</desc>
-		<image>./mixart/Elvira and the Party Monsters (Bally 1989).jpg</image>
-		<video>./snap/Elvira and the Party Monsters (Bally 1989).mp4</video>
-		<marquee>./wheel/Elvira and the Party Monsters (Bally 1989).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Escape from the Lost World (1987).vpx</path>
 		<name>Escape from the Lost World (1987)</name>
 		<desc>Flipper Escape from the Lost World</desc>
@@ -3053,5 +3038,80 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elvira and the Party Monsters (Bally 1989).vpx</path>
+		<name>Elvira and the Party Monsters (Bally 1989)</name>
+		<desc>Flipper Elvira and the Party Monsters (Bally 1989)</desc>
+		<image>./mixart/Elvira and the Party Monsters (Bally 1989).jpg</image>
+		<video>./snap/Elvira and the Party Monsters (Bally 1989).mp4</video>
+		<marquee>./wheel/Elvira and the Party Monsters (Bally 1989).png</marquee>
+		<rating>3</rating>
+		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Elvis (King of Rock n' Roll).vpx</path>
+		<name>Elvis (King of Rock n' Roll)</name>
+		<desc>Flipper Elvis (King of Rock n' Roll)</desc>
+		<image>./mixart/Elvis (King of Rock n' Roll).png</image>
+		<video>./snap/Elvis (King of Rock n' Roll).mp4</video>
+		<marquee>./wheel/Elvis (King of Rock n' Roll).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fog, The (Gottlieb 1979).vpx</path>
+		<name>The Fog (Gottlieb 1979)</name>
+		<desc>Flipper Fog, The (Gottlieb 1979)</desc>
+		<image>./mixart/Fog, The (Gottlieb 1979).png</image>
+		<video>./snap/Fog, The (Gottlieb 1979).mp4</video>
+		<marquee>./wheel/Fog, The (Gottlieb 1979).png</marquee>
+		<rating>3</rating>
+		<releasedate>19791231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Maverick (Data East 1994) VPW v1.3.vpx</path>
+		<name>Maverick (Data East 1994) VPW</name>
+		<desc>Flipper Maverick (Data East 1994) VPW</desc>
+		<image>./mixart/Maverick (Data East 1994) VPW v1.3.png</image>
+		<video>./snap/Maverick (Data East 1994) VPW v1.3.mp4</video>
+		<marquee>./wheel/Maverick (Data East 1994) VPW v1.3.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The Witcher.vpx</path>
+		<name>The Witcher</name>
+		<desc>Flipper The Witcher</desc>
+		<image>./mixart/The Witcher.png</image>
+		<video>./snap/The Witcher.mp4</video>
+		<marquee>./wheel/The Witcher.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

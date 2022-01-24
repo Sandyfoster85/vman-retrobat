@@ -8083,21 +8083,6 @@ The gameplay of Cybercon III revolves around exploration and puzzle-solving as t
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./CyberCop_v1.0.lha</path>
-		<name>Cyber Cop</name>
-		<desc>Four levels, no bosses, gameplay consists of monotonous trekking as many as seven screens back and forth through a barrage of respawning enemies that follow you to other screens, lasers, mines, spikes, swinging maces and mine carts to get the ever increasing amount of pods.</desc>
-		<image>./mixart/CyberCop_v1.0.png</image>
-		<video>./snap/CyberCop_v1.0.mp4</video>
-		<marquee>./wheel/CyberCop_v1.0.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Chris J. Denman</developer>
-		<publisher>Impressions</publisher>
-		<genre>Platformer</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./CyberGames_v1.0.lha</path>
 		<name>Cyber Games</name>
 		<desc>You will face different opponents ranging in skills from mediocre to very tough to beat.  There are 35 opponents and six locations in the complete game. Since this is a fighting game, the object obviously is to smash the other guy. You can either beat him with your weapon until he has lost all of his energy, or you can make it short by separating his head from the body (A Swedish shave).
@@ -38636,6 +38621,21 @@ As in the first game, you start without weaponry but can pick up swords and dagg
 		<developer>Interactivision</developer>
 		<publisher>Infogrames</publisher>
 		<genre>Navigation, Pinball, Reaction, Topdown, Vertical</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./CyberCop_v1.0.lha</path>
+		<name>Cyber Cop</name>
+		<desc>Four levels, no bosses, gameplay consists of monotonous trekking as many as seven screens back and forth through a barrage of respawning enemies that follow you to other screens, lasers, mines, spikes, swinging maces and mine carts to get the ever increasing amount of pods.</desc>
+		<image>./mixart/CyberCop_v1.0.png</image>
+		<video>./snap/CyberCop_v1.0.mp4</video>
+		<marquee>./wheel/CyberCop_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Chris J. Denman</developer>
+		<publisher>Impressions</publisher>
+		<genre>Platformer</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

@@ -748,23 +748,6 @@ You get out your slingshot and begin hitting the marauding creatures. But you ha
 		<cheevosHash>EC1F38AE5B5E638E1AC84016EE1C0019</cheevosHash>
 	</game>
 	<game>
-		<path>./Dig Dug (USA).7z</path>
-		<name>Dig Dug</name>
-		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
-		<image>./mixart/Dig Dug (USA).png</image>
-		<video>./snap/Dig Dug (USA).mp4</video>
-		<marquee>./wheel/Dig Dug (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3976ABF29E9D6AA000BFF8268C0D534E</cheevosHash>
-	</game>
-	<game>
 		<path>./Donkey Kong (USA).7z</path>
 		<name>Donkey Kong</name>
 		<desc>Released in the arcades in 1981, Donkey Kong was not only Nintendo's first real smash hit for the company, but marked the introduction for two of their most popular mascots: Mario (originally "Jumpman") and Donkey Kong.
@@ -1164,5 +1147,22 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>176E6378F1D0E769DC6145FDDE0A5081</cheevosHash>
+	</game>
+	<game>
+		<path>./Dig Dug (USA).7z</path>
+		<name>Dig Dug</name>
+		<desc>Dig Dug is a 1-2 player arcade game in which you have to use your shovel to dig your way through the earth. Stopping you from doing this are two monsters, called Pooka and Fygar, who will continually chase you around. The only weapon that you carry is an air pump, which you can use to inflate the monsters to the point where they explode. (if you start to inflate them but stop doing so, the monsters will get turned back to their normal selves.) Furthermore, rocks are scattered throughout the earth, and you can use these rocks to squash them. If the monsters do not find you for several seconds, they will eventually get turned into ghosts, which are able to walk through the earth. They are invincible and cannot be killed. From time to time, vegetables will appear in the center, and you can get these for points.</desc>
+		<image>./mixart/Dig Dug (USA).png</image>
+		<video>./snap/Dig Dug (USA).mp4</video>
+		<marquee>./wheel/Dig Dug (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3976ABF29E9D6AA000BFF8268C0D534E</cheevosHash>
 	</game>
 </gameList>

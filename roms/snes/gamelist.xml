@@ -6863,26 +6863,6 @@ The SNES version features two additional moves for Marko (the ability to balance
 		<players>1</players>
 		<cheevosHash>3982F2846969F59F19B02CB1238713F3</cheevosHash>
 	</game>
-	<game id="2319" source="ScreenScraper.fr">
-		<path>./Marvel Super Heroes - War of the Gems (USA).7z</path>
-		<name>Marvel Super Heroes in War of the Gems</name>
-		<desc>Marvel Super Heroes in War of the Gems is a side-scrolling platformer/beat 'em up based on the Infinity Gauntlet storyline from the comics.  Adam Warlock calls on the heroes to recover the 6 Infinity Gems before they are used for evil.
-
-You may choose ones of five heroes: Spider-Man, Hulk, Captain America, Iron Man and Wolverine.  Each one has different stats and abilities.  (i.e. Spider-Man is agile. Hulk is strong, Iron Man can double-jump with his rocket boots, etc.)  Initially you can choose a training area in Avenger headquarters or four levels.  As you complete levels, most open up.  Each hero can be equipped with gems to boost their abilities in each section.  These must be obtained by finding them in the levels.
-
-Gameplay is fairly similar to X-Men-Mutant Apocalypse.  Combat is all on a 2D plane.  Each hero has basic jumps and attacks and special moves that can be executed with button combinations like quarter-rolls.  Enemies include various villains from the Marvel Universe and evil doubles of various Marvel heroes.</desc>
-		<image>./mixart/Marvel Super Heroes - War of the Gems (USA).png</image>
-		<video>./snap/Marvel Super Heroes - War of the Gems (USA).mp4</video>
-		<marquee>./wheel/Marvel Super Heroes - War of the Gems (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19961001T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up-Platform-Action</genre>
-		<players>1</players>
-		<cheevosHash>D3C46F884C50F50236639C5F6303EEF7</cheevosHash>
-		<cheevosId>1016</cheevosId>
-	</game>
 	<game id="2713" source="ScreenScraper.fr">
 		<path>./Mary Shelley's Frankenstein (USA).7z</path>
 		<name>Mary Shelley's Frankenstein</name>
@@ -15175,5 +15155,25 @@ New elements to the series includes the Brother Bears, thirteen Bears who, if yo
 		<players>2</players>
 		<cheevosHash>120ABF304F0C40FE059F6A192ED4F947</cheevosHash>
 		<cheevosId>473</cheevosId>
+	</game>
+	<game id="2319" source="ScreenScraper.fr">
+		<path>./Marvel Super Heroes - War of the Gems (USA).7z</path>
+		<name>Marvel Super Heroes in War of the Gems</name>
+		<desc>Marvel Super Heroes in War of the Gems is a side-scrolling platformer/beat 'em up based on the Infinity Gauntlet storyline from the comics.  Adam Warlock calls on the heroes to recover the 6 Infinity Gems before they are used for evil.
+
+You may choose ones of five heroes: Spider-Man, Hulk, Captain America, Iron Man and Wolverine.  Each one has different stats and abilities.  (i.e. Spider-Man is agile. Hulk is strong, Iron Man can double-jump with his rocket boots, etc.)  Initially you can choose a training area in Avenger headquarters or four levels.  As you complete levels, most open up.  Each hero can be equipped with gems to boost their abilities in each section.  These must be obtained by finding them in the levels.
+
+Gameplay is fairly similar to X-Men-Mutant Apocalypse.  Combat is all on a 2D plane.  Each hero has basic jumps and attacks and special moves that can be executed with button combinations like quarter-rolls.  Enemies include various villains from the Marvel Universe and evil doubles of various Marvel heroes.</desc>
+		<image>./mixart/Marvel Super Heroes - War of the Gems (USA).png</image>
+		<video>./snap/Marvel Super Heroes - War of the Gems (USA).mp4</video>
+		<marquee>./wheel/Marvel Super Heroes - War of the Gems (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19961001T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up-Platform-Action</genre>
+		<players>1</players>
+		<cheevosHash>D3C46F884C50F50236639C5F6303EEF7</cheevosHash>
+		<cheevosId>1016</cheevosId>
 	</game>
 </gameList>

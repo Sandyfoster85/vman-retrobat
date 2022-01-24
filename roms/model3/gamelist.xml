@@ -6,21 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="94370" source="ScreenScraper.fr">
-		<path>./Get Bass.zip</path>
-		<name>Sega Bass Fishing</name>
-		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Hunting and Fishing-Fishing-Sports</genre>
-		<players>1</players>
-		<image>./mixart/Get Bass.png</image>
-		<marquee>./wheel/Get Bass.png</marquee>
-		<video>./snap/Get Bass.mp4</video>
-		<genreid>1027</genreid>
-	</game>
 	<game id="37521" source="ScreenScraper.fr">
 		<path>./Spike Out Digital Battle Online.zip</path>
 		<name>Spikeout Digital Battle Online</name>
@@ -311,26 +296,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./Star Wars Trilogy.zip</path>
-		<name>Star Wars Trilogy</name>
-		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles. 
- 
-Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities. 
- 
-Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
-		<image>./mixart/Star Wars Trilogy.png</image>
-		<video>./snap/Star Wars Trilogy.mp4</video>
-		<marquee>./wheel/Star Wars Trilogy.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Daytona USA 2 Power Edition.zip</path>
 		<name>Daytona USA 2: Power Edition</name>
 		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
@@ -359,5 +324,40 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<genre>Race, Driving-Race 3rd Pers. view</genre>
 		<players>1</players>
 		<genreid>1537</genreid>
+	</game>
+	<game id="94370" source="ScreenScraper.fr">
+		<path>./Get Bass.zip</path>
+		<name>Sega Bass Fishing</name>
+		<desc>Get Bass - Sega Bass Fishing is a fishing game from Sega.</desc>
+		<image>./mixart/Get Bass.png</image>
+		<video>./snap/Get Bass.mp4</video>
+		<marquee>./wheel/Get Bass.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Hunting and Fishing-Fishing-Sports</genre>
+		<players>1</players>
+		<genreid>1027</genreid>
+	</game>
+	<game>
+		<path>./Star Wars Trilogy.zip</path>
+		<name>Star Wars Trilogy</name>
+		<desc>Star Wars Trilogy Arcade is a Model 3 shooter allowing the player to ride, fly, and shoot in galactic vehicles. 
+ 
+Players will travel through 6 incredibly detailed intergalactic stages, featuring scenes from A New Hope, Empire Strikes Back, and Return of the Jedi, both challenging the players shooting accuracy as well as vehicle maneuvering capabilities. 
+ 
+Hidden secrets, located in all stages, allow the player to alter the course of the stage, making each game an unconventional and thrilling experience.</desc>
+		<image>./mixart/Star Wars Trilogy.png</image>
+		<video>./snap/Star Wars Trilogy.mp4</video>
+		<marquee>./wheel/Star Wars Trilogy.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

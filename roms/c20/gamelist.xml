@@ -33,23 +33,6 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="112432">
-		<path>./Demon Attack.NTSC.prg</path>
-		<name>Demon Attack</name>
-		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser cannon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your cannon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
-		<image>./mixart/demon attack.jpg</image>
-		<video>./snap/demon attack.mp4</video>
-		<marquee>./wheel/Demon Attack.png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Imagic</developer>
-		<publisher>Imagic</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>6d940ab5e11dae660efd3b5887290b57</md5>
-		<lang>en</lang>
-	</game>
 	<game id="151016">
 		<path>./Dragonfire.prg</path>
 		<name>Dragonfire</name>
@@ -2198,6 +2181,23 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<genre>Board game, Strategy</genre>
 		<players>1</players>
 		<md5>6931fe46c47b7d44315809166fd2662f</md5>
+		<lang>en</lang>
+	</game>
+	<game id="112432">
+		<path>./Demon Attack.NTSC.prg</path>
+		<name>Demon Attack</name>
+		<desc>Demon Attack is an arcade action game with gameplay similar to Space Invaders. You control a laser cannon at the bottom of the screen, and need to destroy wave after wave of brightly colored demons. The demons bounce around the screen in bizarre patterns, and try to destroy your cannon with bombs or lasers. When you shoot a demon, it will be replaced with another or will split into two smaller demons depending on which wave you are playing. When the required number of demons for the current round is finally destroyed, you can move on to the next, more difficult round.</desc>
+		<image>./mixart/demon attack.jpg</image>
+		<video>./snap/demon attack.mp4</video>
+		<marquee>./wheel/Demon Attack.png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>6d940ab5e11dae660efd3b5887290b57</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
