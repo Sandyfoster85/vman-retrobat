@@ -4,8 +4,8 @@
 		<path>./The_Legend_of_Zelda_Breath_of_the_Wild.xci</path>
 		<name>The Legend of Zelda: Breath of the Wild</name>
 		<desc>Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration, and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series. Travel across vast fields, through forests, and to mountain peaks as you discover what has become of the kingdom of Hyrule in this stunning Open-Air Adventure. Now on Nintendo Switch, your journey is freer and more open than ever. Take your system anywhere, and adventure as Link any way you like.</desc>
-		<image>./images/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
-		<marquee>./images/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
+		<image>./mixart/The_Legend_of_Zelda_Breath_of_the_Wild-image.png</image>
+		<marquee>./wheel/The_Legend_of_Zelda_Breath_of_the_Wild-marquee.png</marquee>
 		<rating>0.95</rating>
 		<releasedate>20170303T000000</releasedate>
 		<developer>Nintendo</developer>
@@ -307,8 +307,8 @@
 		<name>Hyrule Warriors - Definitive Edition</name>
 		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
 Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
-		<image>./images/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-image.png</image>
-		<marquee>./images/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-marquee.png</marquee>
+		<image>./mixart/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-image.png</image>
+		<marquee>./wheel/Hyrule Warriors Definitive Edition [0100AE00096EA800][v65536]-marquee.png</marquee>
 		<rating>0</rating>
 		<releasedate>20180518T000000</releasedate>
 		<developer>Koei</developer>
@@ -323,7 +323,7 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 		<path>./content/updates/Rayman Legends Definitive Edition [01005FF002E2A800][v131072].nsp</path>
 		<name>Rayman Legends - Definitive Edition</name>
 		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
-		<image>./images/Rayman Legends Definitive Edition [01005FF002E2A800][v131072]-image.png</image>
+		<image>./mixart/Rayman Legends Definitive Edition [01005FF002E2A800][v131072]-image.png</image>
 		<rating>0</rating>
 		<releasedate>20170912T000000</releasedate>
 		<developer>Ubisoft</developer>
@@ -379,35 +379,6 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 		<hidden>true</hidden>
 		<md5>efd26ca07536ea926033a41282de30eb</md5>
 	</game>
-	<game id="196015">
-		<path>./Hyrule_Warriors_Definitive_Edition.xci</path>
-		<name>Hyrule Warriors - Definitive Edition</name>
-		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
-Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
-		<image>./images/Hyrule_Warriors_Definitive_Edition-image.png</image>
-		<marquee>./images/Hyrule_Warriors_Definitive_Edition-marquee.png</marquee>
-		<video>./videos/Hyrule_Warriors_Definitive_Edition.mp4</video>
-		<releasedate>20180518T000000</releasedate>
-		<developer>Koei</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game id="195955">
-		<path>./Kirby_Star_Allies.xci</path>
-		<name>Kirby Star Allies</name>
-		<desc>When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!</desc>
-		<image>./images/Kirby_Star_Allies-image.png</image>
-		<marquee>./images/Kirby_Star_Allies-marquee.png</marquee>
-		<video>./videos/Kirby_Star_Allies.mp4</video>
-		<releasedate>20180316T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./New_Super_Mario_Bros._U_Deluxe.xci</path>
 		<name>New Super Mario Bros. U Deluxe</name>
@@ -416,7 +387,7 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 Join Mario, Luigi, and pals for single-player or multiplayer fun anytime, anywhere! Take on two family-friendly, side-scrolling adventures with up to three friends* as you try to save the Mushroom Kingdom. Includes the New Super Mario Bros. U and harder, faster New Super Luigi U games—both of which include Nabbit and Toadette as playable characters!
 
 Two games in one, for double the fun! Simple, straightforward controls, new playable characters optimized for younger and less-experienced players, and a wealth of bonus content—like a Hints gallery and helpful reference videos**—make this a perfect choice for anyone looking to introduce their family to the wonderful world of Mario. All a player needs is one Joy-Con™ controller, so two people can team up right out of the box! Tackle 164 platforming courses in the two main game modes and enjoy extra replayability with three additional game modes in which you can also play as a Mii™ character: Challenges, Boost Rush, and Coin Battle!</desc>
-		<image>./images/New_Super_Mario_Bros._U_Deluxe-image.jpg</image>
+		<image>./mixart/New_Super_Mario_Bros._U_Deluxe-image.jpg</image>
 		<releasedate>20190111T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
@@ -424,20 +395,6 @@ Two games in one, for double the fun! Simple, straightforward controls, new play
 		<players>4</players>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="195855">
-		<path>./Rayman_Legends_Definitive_Edition.xci</path>
-		<name>Rayman Legends - Definitive Edition</name>
-		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
-		<image>./images/Rayman_Legends_Definitive_Edition-image.png</image>
-		<marquee>./images/Rayman_Legends_Definitive_Edition-marquee.png</marquee>
-		<video>./videos/Rayman_Legends_Definitive_Edition.mp4</video>
-		<releasedate>20170912T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./content/updates/Diablo_III_Eternal_Collection_Update_v2.6.10.72837.nsp</path>
@@ -508,9 +465,9 @@ This Complete Edition includes the original Scott Pilgrim vs. The World: The Gam
 Play as your favorite characters - Scott Pilgrim, Ramona Flowers, Knives Chau, Stephen Stills, and more. Level-up and learn new awesome abilities, unlock secret items and modes, summon powerful allies, and more!
 
 Team up with friends and combine your skills to battle your way through waves of tough enemies, or compete with them in awesome mini-games like Dodgeball; all on your way to defeat the League of Ramona's Evil Exes!</desc>
-		<image>./images/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
-		<video>./videos/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
-		<marquee>./images/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
+		<image>./mixart/Scott_Pilgrim_vs_The_World_The_Game-image.jpg</image>
+		<video>./snap/Scott_Pilgrim_vs_The_World_The_Game-video.mp4</video>
+		<marquee>./wheel/Scott_Pilgrim_vs_The_World_The_Game-marquee.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>20210115T000000</releasedate>
 		<developer>Ubisoft Montreal</developer>
@@ -524,47 +481,15 @@ Team up with friends and combine your skills to battle your way through waves of
 		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
 		<name>Virtua Racing</name>
 		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1". The results were so encouraging, that Virtua Racing was fully developed into a standalone arcade title. Though its use of 3D polygonal graphics was predated by arcade rivals Namco (Winning Run in 1988) and Atari (Hard Drivin' in 1989), Virtua Racing had vastly improved visuals in terms of polygon count, frame rate, and overall scene complexity, and displayed multiple camera angles and 3D human non-player characters, which all contributed to a greater sense of immersion. Virtua Racing is regarded as one of the most influential video games of all time, for laying the foundations for subsequent 3D racing games and for popularizing 3D polygonal graphics among a wider audience</desc>
-		<image>./images/SEGA_AGES_Virtua_Racing-image.png</image>
-		<video>./videos/SEGA_AGES_Virtua_Racing-video.mp4</video>
-		<marquee>./images/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
+		<image>./mixart/SEGA_AGES_Virtua_Racing-image.png</image>
+		<video>./snap/SEGA_AGES_Virtua_Racing-video.mp4</video>
+		<marquee>./wheel/SEGA_AGES_Virtua_Racing-marquee.png</marquee>
 		<rating>0.7</rating>
 		<releasedate>19951106T000000</releasedate>
 		<developer>Time Warner Interactive</developer>
 		<publisher>Time Warner Interactive</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
-	</game>
-	<game>
-		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
-		<name>Super Mario 3D World + Bowser's Fury</name>
-		<desc>Enjoy two Mario adventures solo or with friends!
-
-Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally or online to reach the goal and see who can get a high score.
-
-Explore a seamless feline world in the new Bowser’s Fury adventure
-
-Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.
-
-The Super Mario 3D World + Bowser’s Fury game features the same great co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!
-
-In Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.
-
-Collect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.
-
-In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.
-
-Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
-		<image>./images/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
-		<video>./videos/Super_Mario_3D_World_plus_Bowsers_Fury.mp4</video>
-		<marquee>./images/Super_Mario_3D_World_plus_Bowsers_Fury-marquee.png</marquee>
-		<releasedate>20210212T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Platform, Family</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
 	</game>
 	<game>
 		<path>./The_Legend_of_Zelda_-_Skyward_Sword_HD.nsp</path>
@@ -580,57 +505,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-	</game>
-	<game id="197817">
-		<path>./Diablo_III_Eternal_Collection.xci</path>
-		<name>Diablo 3 - Eternal Collection</name>
-		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
-		<image>./images/Diablo_III_Eternal_Collection-image.png</image>
-		<video>./videos/Diablo_III_Eternal_Collection.mp4</video>
-		<marquee>./images/Diablo_III_Eternal_Collection-marquee.png</marquee>
-		<releasedate>20181102T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Blizzard Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Cruisn_Blast.nsp</path>
-		<name>CRUIS’N BLAST</name>
-		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
-		<image>./mixart/CRUIS’N BLAST.jpg</image>
-		<video>./snap/CRUIS’N BLAST.mp4</video>
-		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210928T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
-		<name>Crash Team Racing: Nitro-Fueled</name>
-		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
-
-Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
-Power slide to glory in additional karts and tracks from beyond the original game
-Race online with friends and Crash the competition with online leaderboards
-
-With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
-		<image>./images/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
-		<video>./videos/Crash_Team_Racing_Nitro_Fueled.mp4</video>
-		<marquee>./images/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
-		<releasedate>20190621T000000</releasedate>
-		<developer>Beenox Studios</developer>
-		<publisher>Activision</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<lang>en</lang>
 	</game>
 	<game id="196587" source="ScreenScraper.fr">
 		<path>./Golf_Story.nsp</path>
@@ -680,19 +554,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Bubble_Bobble_4_Friends.xci</path>
-		<name>Bubble Bobble 4 Friends</name>
-		<desc>Bubble Bobble 4 Friends is the latest game in the legendary Bubble Bobble series from Taito. Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through 100 levels to defy the wicked magician Bonner and his henchmen.</desc>
-		<image>./images/Bubble_Bobble_4_Friends-image.jpg</image>
-		<video>./videos/Bubble_Bobble_4_Friends.mp4</video>
-		<marquee>./images/Bubble_Bobble_4_Friends-marquee.png</marquee>
-		<releasedate>20191119T000000</releasedate>
-		<developer>Taito Corporation</developer>
-		<publisher>United Independent Entertainment GmbH</publisher>
-		<genre>Puzzle, Platform</genre>
-		<players>4</players>
-	</game>
-	<game>
 		<path>./Metroid Dread.xci</path>
 		<name>Metroid Dread</name>
 		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
@@ -729,18 +590,165 @@ Real-time weather changes. You'll go from day to night and back again, while goi
 		<genre>Arcade, Racing</genre>
 		<players>1</players>
 	</game>
+	<game>
+		<path>./Bubble_Bobble_4_Friends.xci</path>
+		<name>Bubble Bobble 4 Friends</name>
+		<desc>Bubble Bobble 4 Friends is the latest game in the legendary Bubble Bobble series from Taito. Play alone or with up to 3 friends in couch co-op mode and jump your bubble dragons through 100 levels to defy the wicked magician Bonner and his henchmen.</desc>
+		<image>./mixart/Bubble_Bobble_4_Friends-image.jpg</image>
+		<video>./snap/Bubble_Bobble_4_Friends.mp4</video>
+		<marquee>./wheel/Bubble_Bobble_4_Friends-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20191119T000000</releasedate>
+		<developer>Taito Corporation</developer>
+		<publisher>United Independent Entertainment GmbH</publisher>
+		<genre>Puzzle, Platform</genre>
+		<players>4</players>
+	</game>
+	<game>
+		<path>./Crash_Team_Racing_Nitro_Fueled.xci</path>
+		<name>Crash Team Racing: Nitro-Fueled</name>
+		<desc>Crash is back in the driver’s seat! Get ready to go fur-throttle with Crash™ Team Racing Nitro-Fueled. It’s the authentic CTR experience plus a whole lot more, now fully-remastered and revved up to the max:
+
+Start your engines with the original game modes, characters, tracks, power-ups, weapons and controls
+Power slide to glory in additional karts and tracks from beyond the original game
+Race online with friends and Crash the competition with online leaderboards
+
+With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition is fierce. It's the CTR you love, now kicked into the highest gear.</desc>
+		<image>./mixart/Crash_Team_Racing_Nitro_Fueled-image.jpg</image>
+		<video>./snap/Crash_Team_Racing_Nitro_Fueled.mp4</video>
+		<marquee>./wheel/Crash_Team_Racing_Nitro_Fueled-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20190621T000000</releasedate>
+		<developer>Beenox Studios</developer>
+		<publisher>Activision</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./mixart/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./snap/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./wheel/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="196015">
+		<path>./Hyrule_Warriors_Definitive_Edition.xci</path>
+		<name>Hyrule Warriors - Definitive Edition</name>
+		<desc>Race into the thick of battle as the mightiest legends of Hyrule in Hyrule Warriors: Definitive Edition.
+Slash through legions of enemies unleashing devastating blows worthy of Dynasty Warriors and dominate the battlefield as famous heroes from The Legend of Zelda series.</desc>
+		<image>./mixart/Hyrule_Warriors_Definitive_Edition-image.png</image>
+		<video>./snap/Hyrule_Warriors_Definitive_Edition.mp4</video>
+		<marquee>./wheel/Hyrule_Warriors_Definitive_Edition-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180518T000000</releasedate>
+		<developer>Koei</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="195955">
+		<path>./Kirby_Star_Allies.xci</path>
+		<name>Kirby Star Allies</name>
+		<desc>When a new evil threatens Planet Popstar, Kirby will need a little help from his...enemies?! By making friends out of foes, up to three* players can drop in or out of the adventure at any time. With new and expanded copy abilities, classic Kirby action is deeper than ever: combine abilities with elements such as ice or fire to create new friend abilities!</desc>
+		<image>./mixart/Kirby_Star_Allies-image.png</image>
+		<video>./snap/Kirby_Star_Allies.mp4</video>
+		<marquee>./wheel/Kirby_Star_Allies-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20180316T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="195855">
+		<path>./Rayman_Legends_Definitive_Edition.xci</path>
+		<name>Rayman Legends - Definitive Edition</name>
+		<desc>Rayman, Globox, and the Teensies are off wandering through an enchanted forest when they discover a mysterious tent filled with a series of captivating paintings. As they look more closely, they notice each painting seems to tell the story of a mythical world. While focusing on a painting that shows a medieval land, they are suddenly sucked into the painting, entering the world, and the adventure begins. The gang must run, jump, and fight their way through each world to save the day and discover the secrets of every legendary painting.</desc>
+		<image>./mixart/Rayman_Legends_Definitive_Edition-image.png</image>
+		<video>./snap/Rayman_Legends_Definitive_Edition.mp4</video>
+		<marquee>./wheel/Rayman_Legends_Definitive_Edition-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20170912T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super_Mario_3D_World_plus_Bowsers_Fury.xci</path>
+		<name>Super Mario 3D World + Bowser's Fury</name>
+		<desc>Enjoy two Mario adventures solo or with friends!
+
+Pounce and climb through dozens of colorful courses! Mario (and his friends) can use a variety of power-ups like the Super Bell, which grants catlike abilities like climbing and scratching. Team up with up to three other players locally or online to reach the goal and see who can get a high score.
+
+Explore a seamless feline world in the new Bowser’s Fury adventure
+
+Free-roaming Super Mario gameplay makes a return in this brand-new adventure. Bowser has become gargantuan and lost all control! Explore Lake Lapcat and its islands, complete objectives to collect Cat Shines, and team up with Bowser Jr. to bring his big, bad dad back to normal. Just watch out for Bowser’s island-wide attacks.
+
+The Super Mario 3D World + Bowser’s Fury game features the same great co-op gameplay, creative levels and power-ups as the original game, but with added improvements. In the Super Mario 3D World part of the game, characters move faster and the dash powers up more quickly. Both adventures support the newly added Snapshot Mode—pause the action to get the perfect shot, apply filters, and decorate with stamps!
+
+In Super Mario 3D World, choose from Mario, Luigi, Peach, and Toad and set off to save the Sprixie Kingdom. Each character has a distinct playstyle—Luigi can jump extra high and Peach can float for a short time. Rosalina is also available as a playable character later in the game! Jump, dash, and pounce to reach the goal while collecting Green Stars, coins and power-ups.
+
+Collect stamps throughout your adventure in Super Mario 3D World and use them in Snapshot Mode (in both Super Mario 3D World and the Bowser’s Fury adventure) to create masterpieces to share with friends and family.
+
+In Bowser’s Fury, Mario arrives on Lake Lapcat and is confronted with a rampaging Bowser! Join forces with Bowser Jr. and venture through an interconnected world made of cat-themed…well, everything. Enemies, flowers, and even birds take on a feline form.
+
+Need some extra assistance bringing Bowser out of his frenzied, furious state? Another player can take control of Bowser Jr. and help out by attacking enemies and storing power-ups. Two sets of claws are better than one!</desc>
+		<image>./mixart/Super_Mario_3D_World_plus_Bowsers_Fury-image.jpg</image>
+		<video>./snap/Super_Mario_3D_World_plus_Bowsers_Fury.mp4</video>
+		<marquee>./wheel/Super_Mario_3D_World_plus_Bowsers_Fury-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20210212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
 	<game id="198483">
 		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
 		<name>Legend Of Zelda - Links Awakening, The</name>
 		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./images/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./videos/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./images/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<image>./mixart/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./snap/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./wheel/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<rating>0.8</rating>
 		<releasedate>20190920T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action / Adventure</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cruisn_Blast.nsp</path>
+		<name>CRUIS’N BLAST</name>
+		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
+		<image>./mixart/CRUIS’N BLAST.jpg</image>
+		<video>./snap/CRUIS’N BLAST.mp4</video>
+		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

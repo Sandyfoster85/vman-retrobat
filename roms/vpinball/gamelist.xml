@@ -2642,22 +2642,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.vpx</path>
-		<name>Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</name>
-		<desc>Flipper Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2</desc>
-		<image>./mixart/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.jpg</image>
-		<video>./snap/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.mp4</video>
-		<marquee>./wheel/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Masters of the Universe 1_0b.vpx</path>
 		<name>Masters of the Universe 1_0b</name>
 		<desc>Flipper Masters of the Universe 1_0b</desc>
@@ -2816,22 +2800,6 @@
 		<image>./mixart/Black Tiger Pinball (Williams 1981).png</image>
 		<video>./snap/Black Tiger Pinball (Williams 1981).mp4</video>
 		<marquee>./wheel/Black Tiger Pinball (Williams 1981).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.vpx</path>
-		<name>Buck Rogers (Gottlieb 1980)</name>
-		<desc>Flipper Buck Rogers (Gottlieb 1980) Sound MOD v1.11a</desc>
-		<image>./mixart/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</image>
-		<video>./snap/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.mp4</video>
-		<marquee>./wheel/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -3113,5 +3081,68 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.vpx</path>
+		<name>Buck Rogers (Gottlieb 1980)</name>
+		<desc>Flipper Buck Rogers (Gottlieb 1980) Sound MOD v1.11a</desc>
+		<image>./mixart/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</image>
+		<video>./snap/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.mp4</video>
+		<marquee>./wheel/Buck_Rogers (Gottlieb 1980) Sound MOD v1.11a.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Creepshow.vpx</path>
+		<name>Creepshow 1/2</name>
+		<desc>Flipper Creepshow 1/2</desc>
+		<image>./mixart/Creepshow.png</image>
+		<video>./snap/Creepshow.mp4</video>
+		<marquee>./wheel/Creepshow.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.vpx</path>
+		<name>Lord Of The Rings (Stern - 2003)</name>
+		<desc>Flipper Lord Of The Rings (Stern - 2003)</desc>
+		<image>./mixart/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.jpg</image>
+		<video>./snap/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.mp4</video>
+		<marquee>./wheel/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sorcerer (Williams 1985).vpx</path>
+		<name>Sorcerer (Williams 1985)</name>
+		<desc>Flipper Sorcerer (Williams 1985)</desc>
+		<image>./mixart/Sorcerer (Williams 1985).png</image>
+		<video>./snap/Sorcerer (Williams 1985).mp4</video>
+		<marquee>./wheel/Sorcerer (Williams 1985).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>
