@@ -1802,6 +1802,30 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<region>wr</region>
 	</game>
 	<game>
+		<path>./TRON - Deadly Discs (World).7z</path>
+		<name>TRON - Deadly Discs</name>
+		<image>./mixart/TRON - Deadly Discs (World).png</image>
+		<video>./snap/TRON - Deadly Discs (World).mp4</video>
+		<marquee>./wheel/TRON - Deadly Discs (World).png</marquee>
+		<releasedate />
+	</game>
+	<game>
+		<path>./TRON - Maze-A-Tron (World).7z</path>
+		<name>TRON - Maze-A-Tron</name>
+		<image>./mixart/TRON - Maze-A-Tron (World).png</image>
+		<video>./snap/TRON - Maze-A-Tron (World).mp4</video>
+		<marquee>./wheel/TRON - Maze-A-Tron (World).png</marquee>
+		<releasedate />
+	</game>
+	<game>
+		<path>./TRON - Solar Sailer (World).7z</path>
+		<name>TRON - Solar Sailer</name>
+		<image>./mixart/TRON - Solar Sailer (World).png</image>
+		<video>./snap/TRON - Solar Sailer (World).mp4</video>
+		<marquee>./wheel/TRON - Solar Sailer (World).png</marquee>
+		<releasedate />
+	</game>
+	<game>
 		<path>./Astrosmash (World).7z</path>
 		<name>Astrosmash</name>
 		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
@@ -1814,29 +1838,5 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<developer>Mattel Electronics</developer>
 		<publisher>Mattel Electronics</publisher>
 		<genre>Shooter</genre>
-	</game>
-	<game>
-		<path>./TRON - Deadly Discs (World).7z</path>
-		<name>TRON - Deadly Discs</name>
-		<image>./mixart/TRON - Deadly Discs (World).png</image>
-		<video>./snap/TRON - Deadly Discs (World).mp4</video>
-		<marquee>./wheel/TRON - Deadly Discs (World).png</marquee>
-		<releasedate></releasedate>
-	</game>
-	<game>
-		<path>./TRON - Maze-A-Tron (World).7z</path>
-		<name>TRON - Maze-A-Tron</name>
-		<image>./mixart/TRON - Maze-A-Tron (World).png</image>
-		<video>./snap/TRON - Maze-A-Tron (World).mp4</video>
-		<marquee>./wheel/TRON - Maze-A-Tron (World).png</marquee>
-		<releasedate></releasedate>
-	</game>
-	<game>
-		<path>./TRON - Solar Sailer (World).7z</path>
-		<name>TRON - Solar Sailer</name>
-		<image>./mixart/TRON - Solar Sailer (World).png</image>
-		<video>./snap/TRON - Solar Sailer (World).mp4</video>
-		<marquee>./wheel/TRON - Solar Sailer (World).png</marquee>
-		<releasedate></releasedate>
 	</game>
 </gameList>

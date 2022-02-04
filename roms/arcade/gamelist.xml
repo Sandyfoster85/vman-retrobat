@@ -20935,33 +20935,6 @@ Also included are new audible calls and voice-overs, smoother animations and new
 		<region>us</region>
 		<cheevosHash>626CA19984FBB201167E23AE1A5B4420</cheevosHash>
 	</game>
-	<game>
-		<path>./blktiger.zip</path>
-		<name>Black Dragon</name>
-		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
-
-The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
-
-Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
-
-The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
-
-The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
-
-Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
-		<image>./mixart/blktiger.png</image>
-		<video>./snap/blktiger.mp4</video>
-		<marquee>./wheel/blktiger.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
-	</game>
 	<game id="40271">
 		<path>./blktouch.zip</path>
 		<name>Black Touch</name>
@@ -27527,37 +27500,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4001&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>76F7CD834F23D5765FB970DDF4672016</cheevosHash>
-	</game>
-	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
 	</game>
 	<game>
 		<path>./ddragon3.zip</path>
@@ -48278,29 +48220,6 @@ The 'Convert-a-Credit' feature allows drivers to add to their winnings by using 
 		<region>us</region>
 		<cheevosHash>23F73530FE6E3ACEC71B458860E8836D</cheevosHash>
 	</game>
-	<game id="60823">
-		<path>./offroadc.zip</path>
-		<name>Off Road Challenge</name>
-		<desc>Off Road Challenge is an off-road truck racing game. The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way. Gold picked up on the course or earned from racing can be used to upgrade the vehicle. Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/offroadc.png</image>
-		<video>./snap/offroadc.mp4</video>
-		<marquee>./wheel/offroadc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Off Road</family>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>3a0e2b21bb7c405a3861ea44d8bb8aa4</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5ADF647B0346FBD1A984C4BB2E24B33D</cheevosHash>
-	</game>
 	<game>
 		<path>./offroadt.zip</path>
 		<name>Ironman Ivan Stewart's Super Off-Road Track-Pak</name>
@@ -60769,25 +60688,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3441&am
 		<cheevosHash>38EF1F498A09BDEB60928A81C0F77BB4</cheevosHash>
 	</game>
 	<game>
-		<path>./spyhunt.zip</path>
-		<name>Spy Hunter</name>
-		<desc>Spy Hunter is an action/driving game. It places the player as the driver of a G-6155 CIA Prototype Interceptor sports car. The object of the game is to travel the freeways and waterways, hunting down and destroying as many enemy vehicles as possible, all the while not harming civilian vehicles. The view is top-down and the screen scrolls vertically underneath the player's car.
-
-The game begins with the player driving the G-6155. Soon, the player starts to encounter enemy vehicles which try to force the player's car off the road and crash. Each enemy vehicle has its own special feature, such as tire slashers or bulletproof armor.
-
-Points are scored for driving on the road and for destroying enemy vehicles. There is a lead-in time when the player has an endless supply of cars. After this time expires, the player will lose a life each time the car crashes. Extra cars can be earned with high scores. The first extra car is earned at a default value of 30,000 points, but this value can vary depending on settings.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/spyhunt.png</image>
-		<video>./snap/spyhunt.mp4</video>
-		<marquee>./wheel/spyhunt.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD9FB50133E4F624234649102DBE652A</cheevosHash>
-	</game>
-	<game>
 		<path>./spyhunt2.zip</path>
 		<name>Spy Hunter II</name>
 		<desc>Driving/shooting game using a 3-D perspective from behind and above the car. The car can attain several different weapons up to four at one time. Two players may play at the same time cooperatively.</desc>
@@ -68413,26 +68313,6 @@ Often criticized for it's confusing button layout.</desc>
 		<region>us</region>
 		<cheevosHash>5C19E1E0521F7B789A37A21C5CD5737B</cheevosHash>
 	</game>
-	<game id="43982" source="ScreenScraper.fr">
-		<path>./vr.zip</path>
-		<name>Virtua Racing</name>
-		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1".</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vr.png</image>
-		<video>./snap/vr.mp4</video>
-		<marquee>./wheel/vr.png</marquee>
-		<rating>1.0</rating>
-		<releasedate>19920110T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 1st Pers. view</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8295C40BD8D556E56D45FD58A7D5ABF7</cheevosHash>
-	</game>
 	<game>
 		<path>./vsav.zip</path>
 		<name>Vampire Savior: The Lord of Vampire</name>
@@ -70443,25 +70323,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=39659&a
 		<cheevosHash>E126CD555D69F669DC53BF922BEC5DCF</cheevosHash>
 	</game>
 	<game>
-		<path>./xenophob.zip</path>
-		<name>Xenophobe</name>
-		<desc>A horizontal monitor is split into three sections, one for each of up to three people. Players wander around a space station shooting as many Ridley-Scott-esque aliens as they can before health or time runs out- then it's off to the next space station. There are multiple weapon types, including a duck gun!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/xenophob.png</image>
-		<video>./snap/xenophob.mp4</video>
-		<marquee>./wheel/xenophob.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A13E90B6C91E1625DCCDF467B8C0565C</cheevosHash>
-	</game>
-	<game>
 		<path>./xevi3dg.zip</path>
 		<name>Xevious 3D/G</name>
 		<desc>An excellent sequel in 3-D.    You are the pilot of the mighty combat aircraft 'Solvalou' and must fly through vast zones full of enemies and armed with the classic weaponry the forward-firing gun for aerial targets, and the bombs to destroying ground-based targets and with the addition of a series of new and powerful weapons.     This game is a very popular sequel to the "Xevious" saga. It became quite popular because of a good 3-D modelling and nice camera work and featuring a nice BGM and sounds.</desc>
@@ -70956,32 +70817,6 @@ R?Type / Irem Game Music [Alfa Records - 28XA-199 - Jan 25, 1988]</desc>
 		<region>us</region>
 		<cheevosHash>AD7690EC619673225F1E0F7F265D5FA8</cheevosHash>
 		<cheevosId>11760</cheevosId>
-	</game>
-	<game id="46471">
-		<path>./zektor.zip</path>
-		<name>Zektor</name>
-		<desc>Zektor is a one- or two-player game that tasks you with the liberation of eight cities that have been seized by the evil cadre of alien robots. In order to liberate a city, you must defeat three attack waves of fighters and robo-probes. Fighters and Robo-probes are often shielded (in red), and each consecutive hit reduces the enemies shield strength, until, when the shield drops, a hit will destroy it. In addition, you will encounter three types of Moboids:
-Green Moboids spin the players ship on contact, and bounce enemy ships.
-Blue Moboids bounce all ships.
-Red Moboids destroy all un-shielded ships (including the players ship).
-
-After defeating three attack waves, the Alien Robot holding that city will reappear within rotating protective rings, through which a 'slot shot' neutralizes that Robot, awarding the player a bonus ship and advancement to the next round.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/zektor.png</image>
-		<video>./snap/zektor.mp4</video>
-		<marquee>./wheel/zektor.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<md5>c0de07fb4b827911d5f38f46fe13463a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>565B1578BF3C5962A87D3CB0A67D8ACC</cheevosHash>
 	</game>
 	<game id="44200">
 		<path>./zeropnt.zip</path>
@@ -72727,31 +72562,6 @@ Super Joe carries only two weapons: a limited-range machine gun with unlimited s
 		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
 	</game>
 	<game>
-		<path>./outrun.zip</path>
-		<name>Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game>
 		<path>./crkdown.zip</path>
 		<name>Crack Down</name>
 		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
@@ -72826,6 +72636,27 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<players>2</players>
 		<genreid>262</genreid>
 	</game>
+	<game>
+		<path>./berzerk.zip</path>
+		<name>Berzerk</name>
+		<desc>The player controls the 'Humanoid' and must negotiate a number of robot-filled rooms; each with up to as many as eleven, laser-firing enemy robots. The Humanoid can be killed either by a single shot from a robot, by running into a robot, by running into a wall of the maze, or by being touched by the player's nemesis, 'Evil Otto'.
+
+To advance through the game, players must fight their way through each room to an opening at one of the far walls. Each robot destroyed is worth 50 points and while it's possible to progress without killing every robot in each room, destroying all of them will earn the player a per-maze bonus (worth ten points per robot). The game has an impressive 64,000 mazes, with each level designed to be more difficult than the last.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/berzerk.png</image>
+		<video>./snap/berzerk.mp4</video>
+		<marquee>./wheel/berzerk.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Stern Electronics</publisher>
+		<genre>Action / Labyrinth-Shooter Small-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5095A576FC147ACCB6EC751030ACC2FC</cheevosHash>
+	</game>
 	<game id="41400">
 		<path>./rushatck.zip</path>
 		<name>Rush'n Attack</name>
@@ -72857,25 +72688,195 @@ The game is completed once the captives have been rescued at the end of the four
 		<cheevosHash>3062538FC1A23D3CF8B1390C18A828BF</cheevosHash>
 		<cheevosId>12431</cheevosId>
 	</game>
-	<game>
-		<path>./berzerk.zip</path>
-		<name>Berzerk</name>
-		<desc>The player controls the 'Humanoid' and must negotiate a number of robot-filled rooms; each with up to as many as eleven, laser-firing enemy robots. The Humanoid can be killed either by a single shot from a robot, by running into a robot, by running into a wall of the maze, or by being touched by the player's nemesis, 'Evil Otto'.
-
-To advance through the game, players must fight their way through each room to an opening at one of the far walls. Each robot destroyed is worth 50 points and while it's possible to progress without killing every robot in each room, destroying all of them will earn the player a per-maze bonus (worth ten points per robot). The game has an impressive 64,000 mazes, with each level designed to be more difficult than the last.</desc>
+	<game id="43982" source="ScreenScraper.fr">
+		<path>./vr.zip</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1".</desc>
 		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/berzerk.png</image>
-		<video>./snap/berzerk.mp4</video>
-		<marquee>./wheel/berzerk.png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Stern Electronics, Inc.</developer>
-		<publisher>Stern Electronics</publisher>
-		<genre>Action / Labyrinth-Shooter Small-Action</genre>
-		<players>2</players>
+		<core>mame2016</core>
+		<image>./mixart/vr.png</image>
+		<video>./snap/vr.mp4</video>
+		<marquee>./wheel/vr.png</marquee>
+		<rating>1.0</rating>
+		<releasedate>19920110T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>5095A576FC147ACCB6EC751030ACC2FC</cheevosHash>
+		<cheevosHash>8295C40BD8D556E56D45FD58A7D5ABF7</cheevosHash>
+	</game>
+	<game>
+		<path>./spyhunt.zip</path>
+		<name>Spy Hunter</name>
+		<desc>Spy Hunter is an action/driving game. It places the player as the driver of a G-6155 CIA Prototype Interceptor sports car. The object of the game is to travel the freeways and waterways, hunting down and destroying as many enemy vehicles as possible, all the while not harming civilian vehicles. The view is top-down and the screen scrolls vertically underneath the player's car.
+
+The game begins with the player driving the G-6155. Soon, the player starts to encounter enemy vehicles which try to force the player's car off the road and crash. Each enemy vehicle has its own special feature, such as tire slashers or bulletproof armor.
+
+Points are scored for driving on the road and for destroying enemy vehicles. There is a lead-in time when the player has an endless supply of cars. After this time expires, the player will lose a life each time the car crashes. Extra cars can be earned with high scores. The first extra car is earned at a default value of 30,000 points, but this value can vary depending on settings.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/spyhunt.png</image>
+		<video>./snap/spyhunt.mp4</video>
+		<marquee>./wheel/spyhunt.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD9FB50133E4F624234649102DBE652A</cheevosHash>
+	</game>
+	<game>
+		<path>./xenophob.zip</path>
+		<name>Xenophobe</name>
+		<desc>A horizontal monitor is split into three sections, one for each of up to three people. Players wander around a space station shooting as many Ridley-Scott-esque aliens as they can before health or time runs out- then it's off to the next space station. There are multiple weapon types, including a duck gun!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/xenophob.png</image>
+		<video>./snap/xenophob.mp4</video>
+		<marquee>./wheel/xenophob.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A13E90B6C91E1625DCCDF467B8C0565C</cheevosHash>
+	</game>
+	<game id="60823">
+		<path>./offroadc.zip</path>
+		<name>Off Road Challenge</name>
+		<desc>Off Road Challenge is an off-road truck racing game. The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way. Gold picked up on the course or earned from racing can be used to upgrade the vehicle. Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/offroadc.png</image>
+		<video>./snap/offroadc.mp4</video>
+		<marquee>./wheel/offroadc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Off Road</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>3a0e2b21bb7c405a3861ea44d8bb8aa4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5ADF647B0346FBD1A984C4BB2E24B33D</cheevosHash>
+	</game>
+	<game id="46471">
+		<path>./zektor.zip</path>
+		<name>Zektor</name>
+		<desc>Zektor is a one- or two-player game that tasks you with the liberation of eight cities that have been seized by the evil cadre of alien robots. In order to liberate a city, you must defeat three attack waves of fighters and robo-probes. Fighters and Robo-probes are often shielded (in red), and each consecutive hit reduces the enemies shield strength, until, when the shield drops, a hit will destroy it. In addition, you will encounter three types of Moboids:
+Green Moboids spin the players ship on contact, and bounce enemy ships.
+Blue Moboids bounce all ships.
+Red Moboids destroy all un-shielded ships (including the players ship).
+
+After defeating three attack waves, the Alien Robot holding that city will reappear within rotating protective rings, through which a 'slot shot' neutralizes that Robot, awarding the player a bonus ship and advancement to the next round.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/zektor.png</image>
+		<video>./snap/zektor.mp4</video>
+		<marquee>./wheel/zektor.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<md5>c0de07fb4b827911d5f38f46fe13463a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>565B1578BF3C5962A87D3CB0A67D8ACC</cheevosHash>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Dragon</name>
+		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
+
+The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
+
+Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
+
+The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
+
+The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
+
+Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
+		<image>./mixart/blktiger.png</image>
+		<video>./snap/blktiger.mp4</video>
+		<marquee>./wheel/blktiger.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
 	</game>
 </gameList>

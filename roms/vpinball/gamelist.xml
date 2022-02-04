@@ -2719,21 +2719,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star Wars (1992).vpx</path>
-		<name>Star Wars (1992)</name>
-		<desc>Flipper Star Wars (1992)</desc>
-		<image>./mixart/Star Wars (1992).jpg</image>
-		<video>./snap/Star Wars (1992).mp4</video>
-		<marquee>./wheel/Star Wars (1992).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Indiana Jones_ The Pinball Adventure (Williams 1993)_Bigus(MOD)1.0.vpx</path>
 		<name>Indiana Jones_ The Pinball Adventure (Williams 1993)_Bigus(MOD)1.0</name>
 		<desc>Flipper Indiana Jones_ The Pinball Adventure (Williams 1993)_Bigus(MOD)1.0</desc>
@@ -3144,5 +3129,34 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars (1992).vpx</path>
+		<name>Star Wars (1992)</name>
+		<desc>Flipper Star Wars (1992)</desc>
+		<image>./mixart/Star Wars (1992).jpg</image>
+		<video>./snap/Star Wars (1992).mp4</video>
+		<marquee>./wheel/Star Wars (1992).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./Star Wars - Millenium Edition.vpx</path>
+		<name>Star Wars (1992) - Millenium Edition Mod</name>
+		<desc>Flipper Star Wars (1992) - Millenium Edition Mod</desc>
+		<image>./mixart/Star Wars - Millenium Edition.png</image>
+		<video>./snap/Star Wars - Millenium Edition.mp4</video>
+		<marquee>./wheel/Star Wars (1992).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

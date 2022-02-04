@@ -339,21 +339,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Cannonball - OutRun Engine.lnk</path>
-		<name>CannonBall: The Enhanced OutRun</name>
-		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
-		<image>./mixart/Cannonball - OutRun Engine.png</image>
-		<video>./snap/Cannonball - OutRun Engine.mp4</video>
-		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20120101T000000</releasedate>
-		<developer>djyt</developer>
-		<publisher>djyt</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Doom.lnk</path>
 		<name>Doom I</name>
 		<desc>The Ultimate Doom I edition!</desc>
@@ -457,19 +442,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Brutal Wolfenstein 3D.lnk</path>
-		<name>'H'Brutal Wolfenstein 3D</name>
-		<desc>Wolfenstein 3-D on Steroids!</desc>
-		<image>./mixart/Brutal Wolfenstein 3D.png</image>
-		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
-		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./3dSen.lnk</path>
 		<name>3DSen</name>
 		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
@@ -505,7 +477,7 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<video>./snap/Duke Nuclear Winter.mp4</video>
 		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
 		<rating>0.85</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>WizardWorks</developer>
 		<publisher>WizardWorks</publisher>
 		<lang>en</lang>
@@ -522,6 +494,34 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<developer>OpenSource</developer>
 		<publisher>OpenSource</publisher>
 		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cannonball - OutRun Engine.lnk</path>
+		<name>CannonBall: The Enhanced OutRun</name>
+		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
+		<image>./mixart/Cannonball - OutRun Engine.png</image>
+		<video>./snap/Cannonball - OutRun Engine.mp4</video>
+		<marquee>./wheel/Cannonball - OutRun Engine.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>djyt</developer>
+		<publisher>djyt</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Brutal Wolfenstein 3D.lnk</path>
+		<name>'H'Brutal Wolfenstein 3D</name>
+		<desc>Wolfenstein 3-D on Steroids!</desc>
+		<image>./mixart/Brutal Wolfenstein 3D.png</image>
+		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
+		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

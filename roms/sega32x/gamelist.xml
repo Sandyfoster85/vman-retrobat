@@ -454,27 +454,6 @@ The game is viewed from the bridge of your vessel (there are 5 different ones in
 		<region>us</region>
 		<cheevosHash>78086FBA202066FF4F968D35E7C21C11</cheevosHash>
 	</game>
-	<game>
-		<path>./Star Wars Arcade (USA).7z</path>
-		<name>Star Wars Arcade</name>
-		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
-
-Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
-		<image>./mixart/Star Wars Arcade (USA).png</image>
-		<video>./snap/Star Wars Arcade (USA).mp4</video>
-		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AE3A42C6297EF25C6018A209FDA0194E</cheevosHash>
-		<cheevosId>14206</cheevosId>
-	</game>
 	<game id="12696" source="ScreenScraper.fr">
 		<path>./T-Mek (USA, Europe).7z</path>
 		<name>T-Mek</name>
@@ -532,26 +511,6 @@ The boxing action is viewed from behind the back of fighter you control.  Your f
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>386D99D132CE5699ADE81B4473CEF5B4</cheevosHash>
-	</game>
-	<game>
-		<path>./Virtua Fighter (Japan, USA).7z</path>
-		<name>Virtua Fighter</name>
-		<desc>Virtua Fighter was the first of it's kind:  A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
-
-There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
-		<image>./mixart/Virtua Fighter (Japan, USA).png</image>
-		<video>./snap/Virtua Fighter (Japan, USA).mp4</video>
-		<marquee>./wheel/Virtua Fighter (Japan, USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951020T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>901E97C9F731FBDF1F1EAD0FBF58249A</cheevosHash>
 	</game>
 	<game>
 		<path>./Virtua Racing Deluxe (USA).7z</path>
@@ -642,5 +601,46 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<genre>Shoot'em Up-Action</genre>
 		<players>2</players>
 		<cheevosHash>BD32A5E46D0159DC88CB31EA4BD9D899</cheevosHash>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA).7z</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./mixart/Star Wars Arcade (USA).png</image>
+		<video>./snap/Star Wars Arcade (USA).mp4</video>
+		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AE3A42C6297EF25C6018A209FDA0194E</cheevosHash>
+		<cheevosId>14206</cheevosId>
+	</game>
+	<game>
+		<path>./Virtua Fighter (Japan, USA).7z</path>
+		<name>Virtua Fighter</name>
+		<desc>Virtua Fighter was the first of it's kind:  A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
+
+There are 8 fighters to choose from in Virtua Fighter, and an equal number of fighting backdrops in which to compete. Each fighter has a distinctive fighting style, and their own set of signature moves.</desc>
+		<image>./mixart/Virtua Fighter (Japan, USA).png</image>
+		<video>./snap/Virtua Fighter (Japan, USA).mp4</video>
+		<marquee>./wheel/Virtua Fighter (Japan, USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951020T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>901E97C9F731FBDF1F1EAD0FBF58249A</cheevosHash>
 	</game>
 </gameList>

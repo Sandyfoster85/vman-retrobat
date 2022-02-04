@@ -2170,23 +2170,6 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 		<cheevosId>11770</cheevosId>
 	</game>
 	<game>
-		<path>./neodrift.zip</path>
-		<name>Neo Drift Out - New Technology</name>
-		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
-		<image>./mixart/neodrift.png</image>
-		<video>./snap/neodrift.mp4</video>
-		<marquee>./wheel/neodrift.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>49608F90881C51825B3BD2C414F21FBA</cheevosHash>
-		<cheevosId>12323</cheevosId>
-	</game>
-	<game>
 		<path>./shocktr2.zip</path>
 		<name>Shock Troopers - 2nd Squad</name>
 		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
@@ -2311,5 +2294,22 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<lang>en</lang>
 		<cheevosHash>5C14F94978DFAD8FFB95CD5B405ABFD8</cheevosHash>
 		<cheevosId>11753</cheevosId>
+	</game>
+	<game>
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out - New Technology</name>
+		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
+		<image>./mixart/neodrift.png</image>
+		<video>./snap/neodrift.mp4</video>
+		<marquee>./wheel/neodrift.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>49608F90881C51825B3BD2C414F21FBA</cheevosHash>
+		<cheevosId>12323</cheevosId>
 	</game>
 </gameList>
