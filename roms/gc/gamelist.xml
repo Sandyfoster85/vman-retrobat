@@ -7564,22 +7564,6 @@ This will be the first time on a Game Boy System that 4 players can play multipl
 		<region>us</region>
 		<genreid>2816</genreid>
 	</game>
-	<game id="5221" source="ScreenScraper.fr">
-		<path>./Tiger Woods PGA Tour 06 (USA).rvz</path>
-		<name>Tiger Woods Pga Tour 06</name>
-		<desc>The latest entry in the highly successful Tiger Woods golf franchise from Electronic Arts, Tiger Woods PGA Tour 06 features 15 golf courses (11 real courses, 3 fantasy courses), 15 real golfers (including Tiger Woods and Vijay Singh), and 12 fantasy golfers.  Courses can be "Tiger-proofed" to make them more challenging.  Players can work their way through a PGA career, they can chase Tiger Woods through all the major historical eras of golf, or they can engage in the usual array of game modes seen in previous entries in this series.</desc>
-		<image>./mixart/Tiger Woods PGA Tour 06 (USA).png</image>
-		<video>./snap/Tiger Woods PGA Tour 06 (USA).mp4</video>
-		<marquee>./wheel/Tiger Woods PGA Tour 06 (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20051013T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Simulation</genre>
-		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./TimeSplitters - Future Perfect (USA).rvz</path>
 		<name>TimeSplitters: Future Perfect</name>
@@ -9026,6 +9010,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<publisher>Acclaim</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5221" source="ScreenScraper.fr">
+		<path>./Tiger Woods PGA Tour 06 (USA).rvz</path>
+		<name>Tiger Woods Pga Tour 06</name>
+		<desc>The latest entry in the highly successful Tiger Woods golf franchise from Electronic Arts, Tiger Woods PGA Tour 06 features 15 golf courses (11 real courses, 3 fantasy courses), 15 real golfers (including Tiger Woods and Vijay Singh), and 12 fantasy golfers.  Courses can be "Tiger-proofed" to make them more challenging.  Players can work their way through a PGA career, they can chase Tiger Woods through all the major historical eras of golf, or they can engage in the usual array of game modes seen in previous entries in this series.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 06 (USA).png</image>
+		<video>./snap/Tiger Woods PGA Tour 06 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 06 (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20051013T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Simulation</genre>
+		<players>2-4</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

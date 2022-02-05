@@ -3503,41 +3503,6 @@ After every screen, you get an extra Eddie; up to a maximum of three in reserve.
 		<players>1</players>
 		<cheevosHash>9DE0D45731F90A0A922AB09228510393</cheevosHash>
 	</game>
-	<game>
-		<path>./Fast Food (USA).zip</path>
-		<name>Fast Food</name>
-		<desc>Eat! Eat all the calories you can but watch out for the purple pickles. They stay with you and give you debilitating gas.
-
-Food starts on the left and moves to the right. You move the mouth to eat the food; the more fattening, the better. After eating several food items, you get the message that you're getting fatter. Then a faster round begins or, in a two-player game, player two plays. The green pickles are fine but avoid the purple pickles. If you eat six purple pickles during the game, you will burp, ending the game. You will then see a closed sign for the snack bar.
-
-The food calorie count, from lowest to highest, is:
-
-1. Green pickle
-2. Root beer
-3. Cola
-4. Soda pop
-5. Hot dog
-6. Hamburger
-7. Ice cream bar
-8. Milk shake
-9. Ice cream cone
-10. French fries
-11. Pizza
-12. Cheeseburger</desc>
-		<image>./mixart/Fast Food (USA).png</image>
-		<video>./snap/Fast Food (USA).mp4</video>
-		<marquee>./wheel/Fast Food (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Telesys</developer>
-		<publisher>Telesys</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>665B8F8EAD0EEF220ED53886FBD61EC9</cheevosHash>
-	</game>
 	<game id="14117" source="ScreenScraper.fr">
 		<path>./Fatal Run (Europe).zip</path>
 		<name>Fatal Run</name>
@@ -11626,5 +11591,40 @@ Each cage hides a mini games where you have to catch the animal to calm it and t
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B12A7F63787A6BB08E683837A8ED3F18</cheevosHash>
+	</game>
+	<game>
+		<path>./Fast Food (USA).zip</path>
+		<name>Fast Food</name>
+		<desc>Eat! Eat all the calories you can but watch out for the purple pickles. They stay with you and give you debilitating gas.
+
+Food starts on the left and moves to the right. You move the mouth to eat the food; the more fattening, the better. After eating several food items, you get the message that you're getting fatter. Then a faster round begins or, in a two-player game, player two plays. The green pickles are fine but avoid the purple pickles. If you eat six purple pickles during the game, you will burp, ending the game. You will then see a closed sign for the snack bar.
+
+The food calorie count, from lowest to highest, is:
+
+1. Green pickle
+2. Root beer
+3. Cola
+4. Soda pop
+5. Hot dog
+6. Hamburger
+7. Ice cream bar
+8. Milk shake
+9. Ice cream cone
+10. French fries
+11. Pizza
+12. Cheeseburger</desc>
+		<image>./mixart/Fast Food (USA).png</image>
+		<video>./snap/Fast Food (USA).mp4</video>
+		<marquee>./wheel/Fast Food (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Telesys</developer>
+		<publisher>Telesys</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>665B8F8EAD0EEF220ED53886FBD61EC9</cheevosHash>
 	</game>
 </gameList>

@@ -1524,21 +1524,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<releasedate />
 	</game>
 	<game>
-		<path>./Everybody's Golf - World Tour.m3u</path>
-		<name>Everybody's Golf - World Tour</name>
-		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
-		<image>./mixart/Everybody's Golf - World Tour.png</image>
-		<video>./snap/Everybody's Golf - World Tour.mp4</video>
-		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./Prince of Persia Classic.m3u</path>
 		<name>Prince of Persia Classic</name>
 		<desc>The original action adventure game comes to the PlayStation®Network! Rescue the Princess from the clutches of the evil Jaffar in a re-make of the original 1989 action-adventure that redefined the genre. All set for the HD-era, this enhanced and updated version features new character designs, animations, visuals, and lighting effects, all brought to you in glorious 1080p!</desc>
@@ -1643,23 +1628,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>6</players>
 		<favorite>true</favorite>
 	</game>
-	<game id="26779" source="ScreenScraper.fr">
-		<path>./Galaga Legions DX.m3u</path>
-		<name>Galaga Legions Dx</name>
-		<desc>Galaga Legions DX is an PS3 variant of the Galaga Legions shooter. Although true to the origins of the series, this new version offers you to disintegrate legions of insectoid enemies using a small spaceship and two satellites which, your choice, increase your firepower or allow you to shoot in several different directions. Technical, demanding and very fast, this DX version is clearly geared towards scoring.</desc>
-		<image>./mixart/Galaga Legions DX.png</image>
-		<video>./snap/Galaga Legions DX.mp4</video>
-		<marquee>./wheel/Galaga Legions DX.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20110802T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>260</genreid>
-	</game>
 	<game id="25872" source="ScreenScraper.fr">
 		<path>./Motorstorm RC.m3u</path>
 		<name>Motorstorm Rc</name>
@@ -1688,34 +1656,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Activision</publisher>
 		<genre>Sports, Skateboarding</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./NovaStrike.m3u</path>
-		<name>NovaStrike</name>
-		<desc>Novastrike is a top-down shoot 'em up game. Gameplay is very simplistic; you must shoot everything you see, but with "next-gen" graphics and sound effects.
-
-The player controls an experimental fighter called the Scythe, a hybrid of human and alien technology. The Scythe can pick up weapon parts and "mega packs" left from destroyed enemies to upgrade weapons.</desc>
-		<image>./mixart/NovaStrike.png</image>
-		<video>./snap/NovaStrike.mp4</video>
-		<marquee>./wheel/NovaStrike.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20061125T000000</releasedate>
-		<developer>Tiki Games</developer>
-		<publisher>Tiki Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Resogun.m3u</path>
-		<name>Resogun</name>
-		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
-		<image>./mixart/Resogun.png</image>
-		<video>./snap/Resogun.mp4</video>
-		<marquee>./wheel/Resogun.png</marquee>
-		<rating>0.75</rating>
-		<releasedate />
 		<favorite>true</favorite>
 	</game>
 	<game>
@@ -1796,5 +1736,95 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<players>2-4</players>
 		<lang>en</lang>
 		<genreid>262</genreid>
+	</game>
+	<game id="26779" source="ScreenScraper.fr">
+		<path>./Galaga Legions DX.m3u</path>
+		<name>Galaga Legions Dx</name>
+		<desc>Galaga Legions DX is an PS3 variant of the Galaga Legions shooter. Although true to the origins of the series, this new version offers you to disintegrate legions of insectoid enemies using a small spaceship and two satellites which, your choice, increase your firepower or allow you to shoot in several different directions. Technical, demanding and very fast, this DX version is clearly geared towards scoring.</desc>
+		<image>./mixart/Galaga Legions DX.png</image>
+		<video>./snap/Galaga Legions DX.mp4</video>
+		<marquee>./wheel/Galaga Legions DX.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110802T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./NovaStrike.m3u</path>
+		<name>NovaStrike</name>
+		<desc>Novastrike is a top-down shoot 'em up game. Gameplay is very simplistic; you must shoot everything you see, but with "next-gen" graphics and sound effects.
+
+The player controls an experimental fighter called the Scythe, a hybrid of human and alien technology. The Scythe can pick up weapon parts and "mega packs" left from destroyed enemies to upgrade weapons.</desc>
+		<image>./mixart/NovaStrike.png</image>
+		<video>./snap/NovaStrike.mp4</video>
+		<marquee>./wheel/NovaStrike.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20061125T000000</releasedate>
+		<developer>Tiki Games</developer>
+		<publisher>Tiki Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Resogun.m3u</path>
+		<name>Resogun</name>
+		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
+		<image>./mixart/Resogun.png</image>
+		<video>./snap/Resogun.mp4</video>
+		<marquee>./wheel/Resogun.png</marquee>
+		<rating>0.75</rating>
+		<releasedate />
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Everybody's Golf - World Tour.m3u</path>
+		<name>Everybody's Golf - World Tour</name>
+		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
+		<image>./mixart/Everybody's Golf - World Tour.png</image>
+		<video>./snap/Everybody's Golf - World Tour.mp4</video>
+		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports, Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 14 (USA).m3u</path>
+		<name>Tiger Woods PGA Tour 14</name>
+		<desc>Fans are able to battle nine of the greatest golf legends of all time in Tiger Woods PGA Tour 14. An all-new game mode called Legends of the Majors gives players a chance to travel back through time and relive the rich history of golf by matching up against the sport's greatest legends, including Seve Ballesteros, Ben Hogan, Bobby Jones, Jack Nicklaus, Arnold Palmer, Gary Player, Sam Snead, Lee Trevino and Tiger Woods. Players can work their way through these legends in various eras and take each of them down to earn their own seat at the table of golf legends. Hoisting the Claret Jug, breaking Jack Nicklaus' record of 18 major victories and slipping on the coveted Green Jacket are now all within a player’s reach. In Tiger Woods PGA TOUR 14 users, for the first time in franchise history, have a chance to go for the Grand Slam by playing historical events in all four majors, the Masters Tournament, U.S. Open, The Open Championship and the PGA Championship.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 14 (USA).jpg</image>
+		<video>./snap/Tiger Woods PGA Tour 14 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 14 (USA).png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20131125T000000</releasedate>
+		<developer>Tiburon</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports, Golf</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 12 (USA).m3u</path>
+		<name>Tiger Woods PGA Tour 12</name>
+		<desc>The "2012" edition of Tiger Woods PGA Tour is the first in the long-running golf series to feature a virtual re-creation of the famous Augusta National Golf Club, and allow players to compete for the coveted green jacket. The PlayStation 3 version of the game is also the first to support the PlayStation Move accessory, allowing players to take their swings using one-to-one motion control. The game's new "Tiger at the Masters" mode re-creates each of Woods' four Masters wins, and challenges players to match (or beat!) his scores. Another 23 virtual versions of real-life courses come standard in the game, as well, including St. Andrews, The Royal Melbourne, and Pebble Beach. Through each hole in the tournament, a computer-controlled caddie is available to offer situational advice on strategy, shot selection, and green-reading. The game incorporates many of the series' other signature features, including a career mode in which players can develop a custom character and lead him onto the PGA tour. In other modes, gamers can golf as or against more than 20 professional stars of the sport. PGA Tour 12 also offers a revamped broadcast-style presentation, with commentary from Jim Nantz and David Feherty.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 12 (USA).jpg</image>
+		<video>./snap/Tiger Woods PGA Tour 12 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 12 (USA).png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20131125T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports, Golf</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
