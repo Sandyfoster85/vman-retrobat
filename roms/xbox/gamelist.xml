@@ -451,22 +451,6 @@ Library of artistic trick shots: or set up your own to become a true shark</desc
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Outlaw Golf 2.iso</path>
-		<name>Outlaw Golf 2</name>
-		<desc>The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy.</desc>
-		<image>./mixart/Outlaw Golf 2.png</image>
-		<video>./snap/Outlaw Golf 2.mp4</video>
-		<marquee>./wheel/Outlaw Golf 2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20041019T000000</releasedate>
-		<developer>Hypnotix</developer>
-		<publisher>Global Star Software Inc.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Simpsons - Road Rage.iso</path>
 		<name>The Simpsons: Road Rage</name>
 		<desc>Mr. Burns is up to his greedy ways in Simpsons Road Rage, purchasing Springfield's busses and jacking up the fares. Now, Springfield residents must turn their cars into cabs and work the streets. Hopefully, making enough money to buy back the busses before the clock runs out. Choose from over 30 of your favorite Simpsons characters and brave the jam-packed streets of six huge levels, performing big-air and powerslide stunts. Compete for passengers in two-player, split screen action. Go on a road rage, Simpsons-style.</desc>
@@ -1724,5 +1708,20 @@ A port of the original Panzer Dragoon is included.</desc>
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Outlaw Golf 2.iso</path>
+		<name>Outlaw Golf 2</name>
+		<desc>The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy.</desc>
+		<image>./mixart/Outlaw Golf 2.png</image>
+		<video>./snap/Outlaw Golf 2.mp4</video>
+		<marquee>./wheel/Outlaw Golf 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Hypnotix</developer>
+		<publisher>Global Star Software Inc.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

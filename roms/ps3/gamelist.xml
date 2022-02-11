@@ -1771,17 +1771,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<players>1</players>
 		<favorite>true</favorite>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Resogun.m3u</path>
-		<name>Resogun</name>
-		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
-		<image>./mixart/Resogun.png</image>
-		<video>./snap/Resogun.mp4</video>
-		<marquee>./wheel/Resogun.png</marquee>
-		<rating>0.75</rating>
-		<releasedate />
-		<favorite>true</favorite>
-	</game>
 	<game>
 		<path>./Everybody's Golf - World Tour.m3u</path>
 		<name>Everybody's Golf - World Tour</name>
@@ -1821,6 +1810,32 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<marquee>./wheel/Tiger Woods PGA Tour 12 (USA).png</marquee>
 		<rating>0.80</rating>
 		<releasedate>20131125T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports, Golf</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Resogun.m3u</path>
+		<name>Resogun</name>
+		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
+		<image>./mixart/Resogun.png</image>
+		<video>./snap/Resogun.mp4</video>
+		<marquee>./wheel/Resogun.png</marquee>
+		<rating>0.75</rating>
+		<releasedate />
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 11 (USA).m3u</path>
+		<name>Tiger Woods PGA Tour 11</name>
+		<desc>Tiger Woods PGA Tour 11 is a golfing simulation video game in the PGA Tour series developed by EA Tiburon and published by Electronic Arts. It was released in 2010 for the PlayStation 3, Wii, Xbox 360 and iOS. The game is the first in the series to support the PlayStation Move controller for the Sony PlayStation 3.[1] As with Tiger Woods PGA Tour 10, the Wii version utilizes Wii MotionPlus. This edition of Tiger Woods PGA Tour is the first to feature someone on the cover other than Tiger himself. The privilege was given to the Northern Irish golfer Rory McIlroy, who was the first person to win a PGA Tour event before their 21st birthday since Tiger Woods.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 11 (USA).jpg</image>
+		<video>./snap/Tiger Woods PGA Tour 11 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 11 (USA).png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20121125T000000</releasedate>
 		<developer>Electronic Arts</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports, Golf</genre>

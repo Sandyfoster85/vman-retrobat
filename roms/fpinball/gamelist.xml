@@ -2193,4 +2193,20 @@
 		<players>2</players>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Spectrum (Bally).fpt</path>
+		<name>Spectrum (Bally)</name>
+		<desc>Flipper Spectrum (Bally)</desc>
+		<image>./mixart/Spectrum (Bally).png</image>
+		<video>./snap/Spectrum (Bally).mp4</video>
+		<marquee>./wheel/Spectrum (Bally).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>

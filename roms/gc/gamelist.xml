@@ -7335,22 +7335,6 @@ In this implementation, you can play in one of 8 different settings, including a
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="5164" source="ScreenScraper.fr">
-		<path>./Swingerz Golf (USA).rvz</path>
-		<name>Swingerz Golf</name>
-		<desc>Grab your clubs and hit the links in Swingerz Golf. You'll tee up on six courses featuring diverse terrains, from a cactus-filled desert to a classic English course. Play as or against 14 offbeat golfers, each with distinct personalities and golfing abilities. You can battle three of your friends in various gameplay modes, including Tournament, Stroke, Match, and Short Course. With challenging weather conditions, minigames, and intense tournaments, Swingerz Golf gives you a realistic and fun golfing experience.</desc>
-		<image>./mixart/Swingerz Golf (USA).png</image>
-		<video>./snap/Swingerz Golf (USA).mp4</video>
-		<marquee>./wheel/Swingerz Golf (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20021023T000000</releasedate>
-		<developer>Telenet</developer>
-		<publisher>Eidos Interactive</publisher>
-		<genre>Sports</genre>
-		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5259" source="ScreenScraper.fr">
 		<path>./SX Superstar (USA).rvz</path>
 		<name>SX Superstar</name>
@@ -9026,6 +9010,23 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports-Simulation</genre>
 		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5164" source="ScreenScraper.fr">
+		<path>./Swingerz Golf (USA).rvz</path>
+		<name>Swingerz Golf</name>
+		<desc>Grab your clubs and hit the links in Swingerz Golf. You'll tee up on six courses featuring diverse terrains, from a cactus-filled desert to a classic English course. Play as or against 14 offbeat golfers, each with distinct personalities and golfing abilities. You can battle three of your friends in various gameplay modes, including Tournament, Stroke, Match, and Short Course. With challenging weather conditions, minigames, and intense tournaments, Swingerz Golf gives you a realistic and fun golfing experience.</desc>
+		<image>./mixart/Swingerz Golf (USA).png</image>
+		<video>./snap/Swingerz Golf (USA).mp4</video>
+		<marquee>./wheel/Swingerz Golf (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20021023T000000</releasedate>
+		<developer>Telenet</developer>
+		<publisher>Eidos Interactive</publisher>
+		<genre>Sports</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
