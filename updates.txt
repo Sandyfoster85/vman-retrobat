@@ -10,3 +10,4 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 9|2021-11-08|"Amiga : improved automatic model detection"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_model_hd = "A600"|puae_model_hd = "A1200"
 10|2021-11-09|"Amiga : enable physical keyboard passthrough"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_physical_keyboard_pass_through = "disabled"|puae_physical_keyboard_pass_through = "enabled"
 11|2021-12-21|"Amiga-CD32 : Change CD Speed from Turbo to Normal (avoid fastfoward intro/FMV)"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|puae_cd_speed = "0"|puae_cd_speed = "100"
+12|2022-02-17|"Neogeo-CD : Change Region from Japan to USA (Game plays in English)"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|neocd_region = "Japan"|neocd_region = "USA"
