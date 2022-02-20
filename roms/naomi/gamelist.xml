@@ -1718,20 +1718,6 @@
 		<genre>Beat'em Up-Fight-Fight / 3D</genre>
 	</game>
 	<game>
-		<path>./bdrdown.bin</path>
-		<name>Border Down (Rev A, GDL-0023A)</name>
-		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.  It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
-		<image>./mixart/bdrdown.png</image>
-		<video>./snap/bdrdown.mp4</video>
-		<marquee>./wheel/bdrdown.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>G.rev Ltd.</developer>
-		<publisher>G.rev Ltd.</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./gunsur2.zip</path>
 		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
 		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
@@ -1770,6 +1756,20 @@
 		<publisher>Sega</publisher>
 		<genre>Beat'em Up-Adventure</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./bdrdown.bin</path>
+		<name>Border Down (Rev A, GDL-0023A)</name>
+		<desc>Border Down is a pseudo sequel to Taito's Metal Black. The games share certain enemy designs, story elements, gameplay mechanics and staff members.  It's a horizontal Shoot 'em up developed by G.rev and released after the "death" of the Dreamcast</desc>
+		<image>./mixart/bdrdown.png</image>
+		<video>./snap/bdrdown.mp4</video>
+		<marquee>./wheel/bdrdown.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>G.rev Ltd.</developer>
+		<publisher>G.rev Ltd.</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

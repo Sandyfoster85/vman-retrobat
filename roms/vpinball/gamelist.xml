@@ -939,20 +939,6 @@
 		<players>2</players>
 	</game>
 	<game>
-		<path>./Playboy (Stern 2002) v1.1.vpx</path>
-		<name>Playboy (Stern 2002) v1.1</name>
-		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
-		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
-		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
-		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Pokemon Pinball 2.1.0.vpx</path>
 		<name>Pokemon Pinball 2.1.0</name>
 		<desc>Flipper Pokemon Pinball 2.1.0</desc>
@@ -3175,21 +3161,6 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Elektra (Bally 1981).vpx</path>
-		<name>Elektra (Bally 1981)</name>
-		<desc>Flipper Elektra (Bally 1981)</desc>
-		<image>./mixart/Elektra (Bally 1981).png</image>
-		<video>./snap/Elektra (Bally 1981).mp4</video>
-		<marquee>./wheel/Elektra (Bally 1981).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./TwinPeaks.vpx</path>
 		<name>TwinPeaks</name>
 		<desc>Flipper Twin Peaks TV Series</desc>
@@ -3205,12 +3176,56 @@
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Elektra (Bally 1981).vpx</path>
+		<name>Elektra (Bally 1981)</name>
+		<desc>Flipper Elektra (Bally 1981)</desc>
+		<image>./mixart/Elektra (Bally 1981).png</image>
+		<video>./snap/Elektra (Bally 1981).mp4</video>
+		<marquee>./wheel/Elektra (Bally 1981).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Genesis (Gottlieb 1986).vpx</path>
 		<name>Genesis (Gottlieb 1986)</name>
 		<desc>Flipper Genesis (Gottlieb 1986)</desc>
 		<image>./mixart/Genesis (Gottlieb 1986).png</image>
 		<video>./snap/Genesis (Gottlieb 1986).mp4</video>
 		<marquee>./wheel/Genesis (Gottlieb 1986).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Playboy (Stern 2002) v1.1.vpx</path>
+		<name>Playboy (Stern 2002) v1.1</name>
+		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
+		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
+		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
+		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+	</game>
+	<game>
+		<path>./NFL (Stern 2001).vpx</path>
+		<name>NFL (Stern 2001)</name>
+		<desc>Flipper NFL (Stern 2001)</desc>
+		<image>./mixart/NFL (Stern 2001).png</image>
+		<video>./snap/NFL (Stern 2001).mp4</video>
+		<marquee>./wheel/NFL (Stern 2001).png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

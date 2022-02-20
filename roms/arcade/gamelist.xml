@@ -21854,22 +21854,6 @@ Bombs are randomly located outside the wall. Each bomb has a lite fuse. Three bu
 		<cheevosHash>8B373710BCF876EDD91F281E50ED58AB</cheevosHash>
 	</game>
 	<game>
-		<path>./brapboys.zip</path>
-		<name>B.Rap Boys</name>
-		<desc>A side scrolling beat'em up. 3 characters, one on a skateboard, one on a bike and one on rollerskates fight various enemies. Features a large amount of sampled voices and several rap songs.</desc>
-		<image>./mixart/brapboys.png</image>
-		<video>./snap/brapboys.mp4</video>
-		<marquee>./wheel/brapboys.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19920101T000000</releasedate>
-		<publisher>Kaneko</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B1A6F9CD826D6D1ED7B6EE36941B13D4</cheevosHash>
-	</game>
-	<game>
 		<path>./breakers.zip</path>
 		<name>Breakers</name>
 		<desc>In Breakers, choose one of eight fighters who have their own moves and special attacks. There are eight stages in the game, and each stage has two battles. The object of each battle is to drain your opponent's energy in order to win the battle. If there is a draw, a third battle takes place. If the time limit expires, the player with the less energy loses the battle. Once you have completed all eight stages, you will face a opponent that is much tougher than previous ones. Different endings and in-game dialog are viewed depending on the character that you select.</desc>
@@ -35259,24 +35243,6 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DD2AC0B1DB1C328A87B42A9DD7C651F6</cheevosHash>
-	</game>
-	<game>
-		<path>./gtclassc.zip</path>
-		<name>Golden Tee Classic</name>
-		<emulator>angle</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gtclassc.png</image>
-		<video>./snap/gtclassc.mp4</video>
-		<marquee>./wheel/gtclassc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Incredible Technologies</developer>
-		<publisher>Incredible Technologies</publisher>
-		<genre>Sports-Sports / Golf</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9ACE661C6B23BD2D8820E9135A6F8BB9</cheevosHash>
 	</game>
 	<game id="61513">
 		<path>./gtfore01.zip</path>
@@ -72878,5 +72844,39 @@ Super Joe carries only two weapons: a limited-range machine gun with unlimited s
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6269C4F71A55B24BAD0F0267D9BE5508</cheevosHash>
+	</game>
+	<game>
+		<path>./brapboys.zip</path>
+		<name>B.Rap Boys</name>
+		<desc>A side scrolling beat'em up. 3 characters, one on a skateboard, one on a bike and one on rollerskates fight various enemies. Features a large amount of sampled voices and several rap songs.</desc>
+		<image>./mixart/brapboys.png</image>
+		<video>./snap/brapboys.mp4</video>
+		<marquee>./wheel/brapboys.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Kaneko</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B1A6F9CD826D6D1ED7B6EE36941B13D4</cheevosHash>
+	</game>
+	<game>
+		<path>./gtclassc.zip</path>
+		<name>Golden Tee Classic</name>
+		<emulator>angle</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gtclassc.png</image>
+		<video>./snap/gtclassc.mp4</video>
+		<marquee>./wheel/gtclassc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Incredible Technologies</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Sports-Sports / Golf</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9ACE661C6B23BD2D8820E9135A6F8BB9</cheevosHash>
 	</game>
 </gameList>

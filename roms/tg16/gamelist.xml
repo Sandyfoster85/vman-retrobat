@@ -626,36 +626,6 @@ The game is divided in several stages in which enemies attack you in several wav
 		<publisher>Hudson</publisher>
 		<cheevosHash>FE5B3F899F0EE5994508F259BBB74CFE</cheevosHash>
 	</game>
-	<game id="14510" source="ScreenScraper">
-		<path>./Galaga '90 (USA).zip</path>
-		<name>Galaga '90</name>
-		<desc>Galaga '90 is a port of the arcade game Galaga '88.
-
-Galaga '90 takes the basic gameplay of Galaga and adds nicer graphics, triple ship abilities, parsec progression, power-ups, asteroids, bosses and other enhancements.
-
-Periodically the player encounters Challenging Stages, which are set to music and feature "dancing" enemies. The objective is to shoot all 40 enemies before they disappear, for a bonus of at least 10,000 points.
-
-There are a total of 29 stages. You can begin with 1 ship with 2 in reserve or start right out with a dual ship (but only one in reserve). 
-
-Some enemies now have the ability to combine into a much larger single enemy that takes multiple shots to destroy. 
-Some enemies explode in a brilliant shower of fireworks when destroyed, and occasionally these enemies drop a small formation of much smaller enemies that "wiggle" their way down the screen. Some enemies arrive in spherical "eggs" and emit a loud, high-pitched noise when hit. These creatures take multiple hits to destroy in flight (just one hit in formation), and their main attack pattern is to move about halfway down the screen, stop, fire multiple shots at once, and then fly straight down off the bottom of the screen. Another type of enemy takes at least five hits to destroy, and it grows larger with each consecutive hit, making it both a larger target and allowing it to act as a shield to other enemies. 
-
-Later in the game some enemies are equipped with armor that renders them invincible while in formation. When one of these enemies starts its dive, it will flip over and expose its vulnerable side, then flip over again and become invincible while it moves back up the screen, then flip one more time and finish its dive. While vulnerable, this enemy can be destroyed in one hit, scoring bonus points. 
-
-In addition, many different kinds of obstacles appear throughout the game, including blue crystals, boulders and green blobs.</desc>
-		<image>./mixart/Galaga '90 (USA).png</image>
-		<video>./snap/Galaga '90 (USA).mp4</video>
-		<marquee>./wheel/Galaga '90 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890000T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>NEC</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<cheevosHash>94814DB23E163DBFC7D7505170E145C2</cheevosHash>
-		<cheevosId>2298</cheevosId>
-	</game>
 	<game id="59798" source="ScreenScraper">
 		<path>./Ghost Manor (USA).zip</path>
 		<name>Ghost Manor</name>
@@ -1739,5 +1709,35 @@ The game offers five distinct locations, such as city streets and a junkyard, wi
 		<players>1</players>
 		<cheevosHash>589F7CEB0BD851F6442E53858A0DC51C</cheevosHash>
 		<cheevosId>2339</cheevosId>
+	</game>
+	<game id="14510" source="ScreenScraper">
+		<path>./Galaga '90 (USA).zip</path>
+		<name>Galaga '90</name>
+		<desc>Galaga '90 is a port of the arcade game Galaga '88.
+
+Galaga '90 takes the basic gameplay of Galaga and adds nicer graphics, triple ship abilities, parsec progression, power-ups, asteroids, bosses and other enhancements.
+
+Periodically the player encounters Challenging Stages, which are set to music and feature "dancing" enemies. The objective is to shoot all 40 enemies before they disappear, for a bonus of at least 10,000 points.
+
+There are a total of 29 stages. You can begin with 1 ship with 2 in reserve or start right out with a dual ship (but only one in reserve). 
+
+Some enemies now have the ability to combine into a much larger single enemy that takes multiple shots to destroy. 
+Some enemies explode in a brilliant shower of fireworks when destroyed, and occasionally these enemies drop a small formation of much smaller enemies that "wiggle" their way down the screen. Some enemies arrive in spherical "eggs" and emit a loud, high-pitched noise when hit. These creatures take multiple hits to destroy in flight (just one hit in formation), and their main attack pattern is to move about halfway down the screen, stop, fire multiple shots at once, and then fly straight down off the bottom of the screen. Another type of enemy takes at least five hits to destroy, and it grows larger with each consecutive hit, making it both a larger target and allowing it to act as a shield to other enemies. 
+
+Later in the game some enemies are equipped with armor that renders them invincible while in formation. When one of these enemies starts its dive, it will flip over and expose its vulnerable side, then flip over again and become invincible while it moves back up the screen, then flip one more time and finish its dive. While vulnerable, this enemy can be destroyed in one hit, scoring bonus points. 
+
+In addition, many different kinds of obstacles appear throughout the game, including blue crystals, boulders and green blobs.</desc>
+		<image>./mixart/Galaga '90 (USA).png</image>
+		<video>./snap/Galaga '90 (USA).mp4</video>
+		<marquee>./wheel/Galaga '90 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890000T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>NEC</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<cheevosHash>94814DB23E163DBFC7D7505170E145C2</cheevosHash>
+		<cheevosId>2298</cheevosId>
 	</game>
 </gameList>

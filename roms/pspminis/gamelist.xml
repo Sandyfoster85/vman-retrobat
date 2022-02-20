@@ -2149,22 +2149,6 @@ More fun from Nordcurrent: - 101-in-1 Games – a collection of 101 games in one
 		<video>./snap/Legend of Kunoichi.mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="29311" source="ScreenScraper.fr">
-		<path>./Let's Golf.cso</path>
-		<name>Let's Golf!</name>
-		<desc>As the name implies, Let's Golf! is a handheld-golf-game. The game features four fictitious golf courses in Fiji, England, USA and Scotland. The goal is of course to get the ball into the hole with the flag in as less strikes as possible. To make it harder for the players to meet that goal, the courses are littered with obstacles like hills and sand bunkers. In addition the wind decides too where the player's ball lands. 
- 
-As opposed to real life though, the player can influence the ball's flightpath during the flight by choosing in which direction it spins. This allows to compensate for wind and also for a bad angle at the strike. How hard the player hits the ball is decided by a gauge where the player needs to click at the right moment. The same goes for the angle. Although the game hands the player a club that it thinks fits the situation, he can also choose his own.</desc>
-		<rating>0.9</rating>
-		<releasedate>20091124T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Gameloft</publisher>
-		<genre>Sports / Golf-Sports-Action</genre>
-		<image>./mixart/Let's Golf.png</image>
-		<marquee>./wheel/Let's Golf.png</marquee>
-		<video>./snap/Let's Golf.mp4</video>
-		<genreid>1538</genreid>
-	</game>
 	<game id="29494" source="ScreenScraper.fr">
 		<path>./Lock 'n' Chase.cso</path>
 		<name>Lock'n Chase</name>
@@ -4149,5 +4133,21 @@ The game was designed by the creator of the classic original 1980 arcade game Pa
 		<genre>Action-Action / Labyrinth-Various</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="29311" source="ScreenScraper.fr">
+		<path>./Let's Golf.cso</path>
+		<name>Let's Golf!</name>
+		<desc>As the name implies, Let's Golf! is a handheld-golf-game. The game features four fictitious golf courses in Fiji, England, USA and Scotland. The goal is of course to get the ball into the hole with the flag in as less strikes as possible. To make it harder for the players to meet that goal, the courses are littered with obstacles like hills and sand bunkers. In addition the wind decides too where the player's ball lands. 
+ 
+As opposed to real life though, the player can influence the ball's flightpath during the flight by choosing in which direction it spins. This allows to compensate for wind and also for a bad angle at the strike. How hard the player hits the ball is decided by a gauge where the player needs to click at the right moment. The same goes for the angle. Although the game hands the player a club that it thinks fits the situation, he can also choose his own.</desc>
+		<image>./mixart/Let's Golf.png</image>
+		<video>./snap/Let's Golf.mp4</video>
+		<marquee>./wheel/Let's Golf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20091124T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Sports / Golf-Sports-Action</genre>
+		<genreid>1538</genreid>
 	</game>
 </gameList>

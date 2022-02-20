@@ -6,25 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="12677" source="ScreenScraper.fr">
-		<path>./After Burner (Japan, USA).7z</path>
-		<name>After Burner</name>
-		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
-
-The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
-		<image>./mixart/After Burner (Japan, USA).png</image>
-		<video>./snap/After Burner (Japan, USA).mp4</video>
-		<marquee>./wheel/After Burner (Japan, USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1</players>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>EC9529858CC7961B39F5382B2F657B8F</cheevosHash>
-	</game>
 	<game>
 		<path>./Amazing Spider-Man, The - Web of Fire (USA).7z</path>
 		<name>The Amazing Spider-Man : Web of Fire</name>
@@ -642,5 +623,24 @@ There are 8 fighters to choose from in Virtua Fighter, and an equal number of fi
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosHash>901E97C9F731FBDF1F1EAD0FBF58249A</cheevosHash>
+	</game>
+	<game id="12677" source="ScreenScraper.fr">
+		<path>./After Burner (Japan, USA).7z</path>
+		<name>After Burner</name>
+		<desc>Afterburner is a conversion of the arcade game of the same name. The goal is simple: use your F-14 Tomcat and shoot as many enemies as you can. This aircraft has two weapons: lock-on missiles and Vulcan cannons (basically machine guns). In some versions there is an option to let the cannons shoot automatically all the time.
+
+The game is viewed from behind the plane with you fighting wave after wave of enemy fighters. But at heart it offers the usual shooter mechanics, meaning you spend most of your time dodging and shooting. Sometimes you come across a friendly supply plane and if you dock with it you can replenish your missiles.</desc>
+		<image>./mixart/After Burner (Japan, USA).png</image>
+		<video>./snap/After Burner (Japan, USA).mp4</video>
+		<marquee>./wheel/After Burner (Japan, USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>EC9529858CC7961B39F5382B2F657B8F</cheevosHash>
 	</game>
 </gameList>

@@ -12091,28 +12091,6 @@ Mortal Kombat Trilogy also allows you to challenge a friend to a fight through a
 		<cheevosId>11354</cheevosId>
 	</game>
 	<game>
-		<path>./Moto Racer (USA).chd</path>
-		<name>Moto Racer</name>
-		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
-
-Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
-
-A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
-		<image>./mixart/Moto Racer (USA).png</image>
-		<video>./snap/Moto Racer (USA).mp4</video>
-		<marquee>./wheel/Moto Racer (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19971130T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD87E03DBF4400399DDD46AD73B73B30</cheevosHash>
-		<cheevosId>13959</cheevosId>
-	</game>
-	<game>
 		<path>./Moto Racer 2 (USA).chd</path>
 		<name>Moto Racer 2</name>
 		<desc>Delphine's sequel to their popular Moto Racer, MR2 features more tracks, several different "championship" modes, an enhanced Direct3D graphics engine, and a track editor for creating your own superbike and motocross tracks.</desc>
@@ -21488,5 +21466,27 @@ Graphically, Starblade Alpha has been improved from its original arcade format. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BCA1CBC9EFA8ED959BD49741F361BED1</cheevosHash>
+	</game>
+	<game>
+		<path>./Moto Racer (USA).chd</path>
+		<name>Moto Racer</name>
+		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
+
+Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
+
+A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
+		<image>./mixart/Moto Racer (USA).png</image>
+		<video>./snap/Moto Racer (USA).mp4</video>
+		<marquee>./wheel/Moto Racer (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD87E03DBF4400399DDD46AD73B73B30</cheevosHash>
+		<cheevosId>13959</cheevosId>
 	</game>
 </gameList>

@@ -634,23 +634,6 @@
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Cyber-Lip (World).chd</path>
-		<name>Cyber-lip</name>
-		<desc>Cyber-Lip is a 1-2 player side-scrolling game where you must fight your way through several areas, and defeat a boss at the end of each one. Along the way, you can pick up a variety of weapons along the way, and use them against the invaders. By destroying certain enemies, you receive a "core bot", which is a ring that surrounds you, and when this touches the invaders, they are destroyed. Time is against you. When it expires, you lose a life. Between most levels, you enter an elevator that allows you to go in whatever direction that you please: up or down. If you wait to long to make a selection, you are automatically placed in the "Danger" mission.</desc>
-		<image>./mixart/Cyber-Lip (World).png</image>
-		<video>./snap/Cyber-Lip (World).mp4</video>
-		<marquee>./wheel/Cyber-Lip (World).png</marquee>
-		<rating>1</rating>
-		<releasedate>19950421T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="38356" source="ScreenScraper.fr">
 		<path>./Double Dragon (World) - [19950603].chd</path>
 		<name>Double Dragon</name>
@@ -987,24 +970,6 @@
 		<developer>NG:Dev.Team</developer>
 		<publisher>NG:Dev.Team</publisher>
 		<genre>Action-Shoot'em Up</genre>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Last Resort (World).chd</path>
-		<name>Last Resort</name>
-		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
-		<image>./mixart/Last Resort (World).png</image>
-		<video>./snap/Last Resort (World).mp4</video>
-		<marquee>./wheel/Last Resort (World).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940909T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
@@ -1784,6 +1749,41 @@
 		<publisher>SNK</publisher>
 		<genre>Sports / Golf-Sports</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Cyber-Lip (World).chd</path>
+		<name>Cyber-lip</name>
+		<desc>Cyber-Lip is a 1-2 player side-scrolling game where you must fight your way through several areas, and defeat a boss at the end of each one. Along the way, you can pick up a variety of weapons along the way, and use them against the invaders. By destroying certain enemies, you receive a "core bot", which is a ring that surrounds you, and when this touches the invaders, they are destroyed. Time is against you. When it expires, you lose a life. Between most levels, you enter an elevator that allows you to go in whatever direction that you please: up or down. If you wait to long to make a selection, you are automatically placed in the "Danger" mission.</desc>
+		<image>./mixart/Cyber-Lip (World).png</image>
+		<video>./snap/Cyber-Lip (World).mp4</video>
+		<marquee>./wheel/Cyber-Lip (World).png</marquee>
+		<rating>1</rating>
+		<releasedate>19950421T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Last Resort (World).chd</path>
+		<name>Last Resort</name>
+		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
+		<image>./mixart/Last Resort (World).png</image>
+		<video>./snap/Last Resort (World).mp4</video>
+		<marquee>./wheel/Last Resort (World).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

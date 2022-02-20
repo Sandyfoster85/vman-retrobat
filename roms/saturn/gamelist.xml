@@ -1195,23 +1195,6 @@
 		<cheevosHash>8498DD70496F5C8B543A3570CE1AF69A</cheevosHash>
 	</game>
 	<game>
-		<path>./Chaos Control (Europe).chd</path>
-		<name>Chaos Control</name>
-		<desc>Chaos Control has seen three separate releases on the Saturn. Its original Japanese incarnation, Chaos Control was released in December 1995 to mixed views from critics. When brought to Europe in 1996, many of the underlying issues were addressed, leading to faster load times, improved graphics and cutscenes, and support for the Virtua Gun. It was then re-released in Japan as Chaos Control Remix in November of that year. No versions of the game were ever released in North America.</desc>
-		<image>./mixart/Chaos Control (Europe).png</image>
-		<video>./snap/Chaos Control (Europe).mp4</video>
-		<marquee>./wheel/Chaos Control (Europe).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Infogrames</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>B16BEF72870F47E6869991D6350ECEDC</cheevosHash>
-	</game>
-	<game>
 		<path>./Chou Aniki - Kyuukyoku... Otoko no Gyakushuu (Japan).chd</path>
 		<name>Chou Aniki : Kyuukyoku... Otoko no Gyakushuu</name>
 		<desc>Cho Aniki: Kyuukyoku Muteki Ginga Saikyou Otoko is an Action game, developed by Pre Stage and published by Nippon Computer System, which was released in Japan in 1996.</desc>
@@ -5403,5 +5386,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>F3349305B47DEC32EB9B6B2416F5382E</cheevosHash>
+	</game>
+	<game>
+		<path>./Chaos Control (Europe).chd</path>
+		<name>Chaos Control</name>
+		<desc>Chaos Control has seen three separate releases on the Saturn. Its original Japanese incarnation, Chaos Control was released in December 1995 to mixed views from critics. When brought to Europe in 1996, many of the underlying issues were addressed, leading to faster load times, improved graphics and cutscenes, and support for the Virtua Gun. It was then re-released in Japan as Chaos Control Remix in November of that year. No versions of the game were ever released in North America.</desc>
+		<image>./mixart/Chaos Control (Europe).png</image>
+		<video>./snap/Chaos Control (Europe).mp4</video>
+		<marquee>./wheel/Chaos Control (Europe).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Infogrames</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>B16BEF72870F47E6869991D6350ECEDC</cheevosHash>
 	</game>
 </gameList>

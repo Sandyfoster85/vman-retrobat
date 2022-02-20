@@ -5201,20 +5201,6 @@ Game modes include Treasure Hunt (a drive to maximise income in a set time limit
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="144259" source="ScreenScraper.fr">
-		<path>./Hot Shots Golf Open Tee 2.cso</path>
-		<name>Hot Shots Golf : Open Tee 2</name>
-		<desc>Step out of the clubhouse and onto the open tee with Hot Shots Golf Open Tee 2. The classic, entertaining golf franchise returns to the PSP system with new quirky characters, beautiful courses and a huge variety of customizable options that enable you to take your golf game wherever you go.</desc>
-		<image>./mixart/Hot Shots Golf Open Tee 2.png</image>
-		<video>./snap/Hot Shots Golf Open Tee 2.mp4</video>
-		<marquee>./wheel/Hot Shots Golf Open Tee 2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071206T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports</genre>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Hot Shots Golf Open Tee.cso</path>
 		<name>Hot Shots Golf : Open Tee</name>
@@ -12047,5 +12033,19 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="144259" source="ScreenScraper.fr">
+		<path>./Hot Shots Golf Open Tee 2.cso</path>
+		<name>Hot Shots Golf : Open Tee 2</name>
+		<desc>Step out of the clubhouse and onto the open tee with Hot Shots Golf Open Tee 2. The classic, entertaining golf franchise returns to the PSP system with new quirky characters, beautiful courses and a huge variety of customizable options that enable you to take your golf game wherever you go.</desc>
+		<image>./mixart/Hot Shots Golf Open Tee 2.png</image>
+		<video>./snap/Hot Shots Golf Open Tee 2.mp4</video>
+		<marquee>./wheel/Hot Shots Golf Open Tee 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071206T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
 	</game>
 </gameList>

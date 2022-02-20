@@ -242,21 +242,6 @@ Seek out the survivors on your sonar screen and pilot your sub to their rescue! 
 		<cheevosHash>5C1C413E51AA282015807DC60213FD3D</cheevosHash>
 	</game>
 	<game>
-		<path>./Pole Position (USA).zip</path>
-		<name>Pole Position</name>
-		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
-Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
-		<image>./mixart/Pole Position (USA).png</image>
-		<video>./snap/Pole Position (USA).mp4</video>
-		<marquee>./wheel/Pole Position (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving</genre>
-		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
-	</game>
-	<game>
 		<path>./Rip Off (World).zip</path>
 		<name>Rip-Off</name>
 		<desc>Beware of scavenging pirates trying to steal your precious fuel cells! The more pirates you destroy, the faster their successors become. Guard your tanks carefully... you are always outnumbered!</desc>
@@ -412,5 +397,20 @@ You become the Hawk King - a creature capable of incredible speed and power - as
 		<players>2</players>
 		<cheevosHash>A398C18B4CE87929471B559B2BC7E79F</cheevosHash>
 		<cheevosId>7017</cheevosId>
+	</game>
+	<game>
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./mixart/Pole Position (USA).png</image>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<marquee>./wheel/Pole Position (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving</genre>
+		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
 	</game>
 </gameList>
