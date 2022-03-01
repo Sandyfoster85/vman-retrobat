@@ -7152,23 +7152,6 @@ The player has many different weapons at his or her disposal, including shotguns
 		<genreid>256</genreid>
 	</game>
 	<game>
-		<path>./Contra - Shattered Soldier (USA).gz</path>
-		<name>Contra : Shattered Soldier</name>
-		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
-		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030214T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./The Guy Game.gz</path>
 		<name>The Guy Game</name>
 		<desc>The Guy Game is an adult video game for the PlayStation 2, Xbox and PC platforms published in 2004 by Gathering of Developers and developed by now-defunct Top Heavy Studios (it was the team's only game). Presented in a trivia gameshow style supporting up to four players, it consists of about 1,000 questions spread out over 20 episodes. Much of the game involves watching live-action video footage of young women in bikinis, and as the player succeeds in the game the women eventually expose their breasts. The game garnered much controversy and was the subject of a lawsuit.</desc>
@@ -7624,11 +7607,28 @@ The multiplayer portion offers 2 game modes. In Backlot Battle players have to p
 		<video>./snap/Stuntman - Ignition (USA).mp4</video>
 		<marquee>./wheel/Stuntman - Ignition (USA).png</marquee>
 		<rating>0.8</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>THQ</developer>
 		<publisher>Paradigm Entertainment</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

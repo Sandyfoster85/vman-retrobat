@@ -573,39 +573,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./or2spdlx.parrot</path>
-		<name>Outrun 2 Special Tours Deluxe</name>
-		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
-		<image>./mixart/Outrun 2 SP SDX.png</image>
-		<video>./snap/Outrun 2 SP SDX.mp4</video>
-		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./DariusBurst.parrot</path>
-		<name>Dariusburst: Another Chronicle</name>
-		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
-		<image>./mixart/Dariusburst Another Chronicle.png</image>
-		<video>./snap/Dariusburst Another Chronicle.mp4</video>
-		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>Pyramide</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Daytona3.parrot</path>
 		<name>Daytona 3 / Daytona Championship</name>
 		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
@@ -675,5 +642,38 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./DariusBurst.parrot</path>
+		<name>Dariusburst: Another Chronicle</name>
+		<desc>1904 D.C. (Darius Calendar)— When a Belser virus rent the hyperspace network to tatters, every craft in the human space fleet with a network link was stripped of all communications capabilities. The ensuing chaos saw the entire fleet devastated in the blink of an eye. The Silver Hawk fighters were the only craft from Planet Darius to escape the massacre. Equipped with Burst technology, these two cutting-edge craft were entrusted to humanoid AI terminal Ti2 and test pilot Riga Pratica. Flying the Silver Hawk Burst fighters alone into enemy territory without network support, the two heroes braved overwhelming odds to secure victory and liberation for Darius. It is now 1910 D.C., and repairs on the hyperspace network have begun to reconnect the pockets of humanity scattered across the vast reaches of space. Combat data transmitted from Darius soon sees Burstequipped Silver Hawk fighters constructed in every inhabited galaxy. The stage is set for mankind’s grand counteroffensive. A team of heroes takes wing, flying into battle and the pages of history.</desc>
+		<image>./mixart/Dariusburst Another Chronicle.png</image>
+		<video>./snap/Dariusburst Another Chronicle.mp4</video>
+		<marquee>./wheel/Dariusburst Another Chronicle.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Pyramide</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./or2spdlx.parrot</path>
+		<name>Outrun 2 Special Tours Deluxe</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/Outrun 2 SP SDX.png</image>
+		<video>./snap/Outrun 2 SP SDX.mp4</video>
+		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

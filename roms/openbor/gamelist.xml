@@ -343,20 +343,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Batman - Gotham Knight.pak</path>
-		<name>Batman Gotham Knight</name>
-		<desc>A 2D fighting forces with all great characeters from Batman Gothan Knight</desc>
-		<image>./mixart/Batman - Gotham Knight.png</image>
-		<video>./snap/Batman - Gotham Knight.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Vampire Hunters.pak</path>
 		<name>Vampire Hunters</name>
 		<desc>A 2D fighting forces with all great characeters from Casltevania</desc>
@@ -1555,15 +1541,6 @@
 		<image>./mixart/Super Street Fighter II Turbo HD Remix.png</image>
 		<marquee>./wheel/Super Street Fighter II Turbo HD Remix.png</marquee>
 		<video>./snap/Super Street Fighter II Turbo HD Remix.mp4</video>
-	</game>
-	<game id="192356" source="ScreenScraper.fr">
-		<path>./Super Thundercats - The Lost Eye of Thundera.pak</path>
-		<name>Super Thundercats - The Lost Eye Of Thundera</name>
-		<rating>4</rating>
-		<releasedate />
-		<image>./mixart/Super Thundercats - The Lost Eye of Thundera.png</image>
-		<marquee>./wheel/Super Thundercats - The Lost Eye of Thundera.png</marquee>
-		<video>./snap/Super Thundercats - The Lost Eye of Thundera.mp4</video>
 	</game>
 	<game id="191392" source="ScreenScraper.fr">
 		<path>./Super Tokusatsu Onore v3.pak</path>
@@ -3830,7 +3807,7 @@
 		<video>./snap/Mortal Kombat - The Chosen One.mp4</video>
 		<marquee>./wheel/Mortal Kombat - The Chosen One.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 	</game>
 	<game>
 		<path>./The City of Kaos.pak</path>
@@ -3847,5 +3824,28 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Batman - Gotham Knight.pak</path>
+		<name>Batman Gotham Knight</name>
+		<desc>A 2D fighting forces with all great characeters from Batman Gothan Knight</desc>
+		<image>./mixart/Batman - Gotham Knight.png</image>
+		<video>./snap/Batman - Gotham Knight.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+	</game>
+	<game id="192356" source="ScreenScraper.fr">
+		<path>./Super Thundercats - The Lost Eye of Thundera.pak</path>
+		<name>Super Thundercats - The Lost Eye Of Thundera</name>
+		<image>./mixart/Super Thundercats - The Lost Eye of Thundera.png</image>
+		<video>./snap/Super Thundercats - The Lost Eye of Thundera.mp4</video>
+		<marquee>./wheel/Super Thundercats - The Lost Eye of Thundera.png</marquee>
+		<rating>4</rating>
+		<releasedate></releasedate>
 	</game>
 </gameList>

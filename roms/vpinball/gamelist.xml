@@ -2844,22 +2844,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Back To The Future 1.4 PF Mod.vpx</path>
-		<name>Back To The Future 1.4 PF Mod</name>
-		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
-		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
-		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
-		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./ELF Pinball XL.vpx</path>
 		<name>ELF Pinball XL</name>
 		<desc>Flipper ELF Pinball XL</desc>
@@ -3226,6 +3210,37 @@
 		<image>./mixart/NFL (Stern 2001).png</image>
 		<video>./snap/NFL (Stern 2001).mp4</video>
 		<marquee>./wheel/NFL (Stern 2001).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Back To The Future 1.4 PF Mod.vpx</path>
+		<name>Back To The Future 1.4 PF Mod</name>
+		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
+		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
+		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
+		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lost In Space Retro.vpx</path>
+		<name>Lost In Space Retro</name>
+		<desc>Flipper Lost In Space Retro</desc>
+		<image>./mixart/Lost In Space Retro.png</image>
+		<video>./snap/Lost In Space Retro.mp4</video>
+		<marquee>./wheel/Lost In Space Retro.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

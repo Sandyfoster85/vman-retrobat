@@ -387,20 +387,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Rockin'Bliss!.lnk</path>
-		<name>Rockin'Bliss!</name>
-		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
-		<image>./mixart/Rockin'Bliss!.png</image>
-		<video>./snap/Rockin'Bliss!.mp4</video>
-		<marquee>./wheel/Rockin'Bliss!.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210719T000000</releasedate>
-		<genre>Rythem</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Brutal Doom.lnk</path>
 		<name>'H'Brutal Doom</name>
 		<desc>Doom on Steroids!</desc>
@@ -523,6 +509,20 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<developer>ID Software</developer>
 		<publisher>ID Software</publisher>
 		<genre>Shooter</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rockin'Bliss!.lnk</path>
+		<name>Rockin'Bliss!</name>
+		<desc>**VMAN's ROCKIN'BLISS SEPERATE BUILD REQUIRED** - Combined Guitar Hero + Rock Band = Rockin'Bliss! This is powered by Clone-Hero with Virtualman's customization to give you the best Rocking Rhythm gaming experience on earth! Play with your friends local or online with over 4000+ songs from VMAN's official song pack!.</desc>
+		<image>./mixart/Rockin'Bliss!.png</image>
+		<video>./snap/Rockin'Bliss!.mp4</video>
+		<marquee>./wheel/Rockin'Bliss!.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210719T000000</releasedate>
+		<genre>Rythem</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

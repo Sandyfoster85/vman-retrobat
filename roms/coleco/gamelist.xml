@@ -380,21 +380,6 @@ Defender was one of the most important titles of the Golden Age of Video Arcade 
 		<cheevosHash>EC72A0E3BEBE07BA631A8DCB750C1591</cheevosHash>
 	</game>
 	<game>
-		<path>./Donkey Kong (USA, Europe).zip</path>
-		<name>Donkey Kong</name>
-		<desc>In this engaging game, Donkey Kong the ape has captured Mario's girlfriend, and has taken her to the top of a steel fortress. You've got to get Mario to the top to save her! But - as he runs across the girders and up the ladders, the ape throws barrels at him to prevent his progress. Mario must jump the barrels to get to the top and rescue his girlfriend!</desc>
-		<image>./mixart/Donkey Kong (USA, Europe).png</image>
-		<video>./snap/Donkey Kong (USA, Europe).mp4</video>
-		<marquee>./wheel/Donkey Kong (USA, Europe).png</marquee>
-		<releasedate>19830714T000000</releasedate>
-		<developer>Ikegami Tsushinki</developer>
-		<publisher>Coleco</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<cheevosHash>613A3E457758E274A0E0819FF6AA2D43</cheevosHash>
-		<cheevosId>14068</cheevosId>
-	</game>
-	<game>
 		<path>./Donkey Kong Jr (USA, Europe).zip</path>
 		<name>Donkey Kong Jr</name>
 		<image>./mixart/Donkey Kong Jr (USA, Europe).png</image>
@@ -1585,7 +1570,22 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Mr. Do! (USA, Europe).png</image>
 		<video>./snap/Mr. Do! (USA, Europe).mp4</video>
 		<marquee>./wheel/Mr. Do! (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>DE0B1B1EC005BB1765E1CEFFDFA3E92E</cheevosHash>
+	</game>
+	<game>
+		<path>./Donkey Kong (USA, Europe).zip</path>
+		<name>Donkey Kong</name>
+		<desc>In this engaging game, Donkey Kong the ape has captured Mario's girlfriend, and has taken her to the top of a steel fortress. You've got to get Mario to the top to save her! But - as he runs across the girders and up the ladders, the ape throws barrels at him to prevent his progress. Mario must jump the barrels to get to the top and rescue his girlfriend!</desc>
+		<image>./mixart/Donkey Kong (USA, Europe).png</image>
+		<video>./snap/Donkey Kong (USA, Europe).mp4</video>
+		<marquee>./wheel/Donkey Kong (USA, Europe).png</marquee>
+		<releasedate>19830714T000000</releasedate>
+		<developer>Ikegami Tsushinki</developer>
+		<publisher>Coleco</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<cheevosHash>613A3E457758E274A0E0819FF6AA2D43</cheevosHash>
+		<cheevosId>14068</cheevosId>
 	</game>
 </gameList>

@@ -1742,20 +1742,6 @@ This game includes a story mode, in which Arle (the main character) fights again
 		<crc32>00000000</crc32>
 		<cheevosHash>F14AC236A39ABC53830288E80D38BAAE</cheevosHash>
 	</game>
-	<game id="106981" source="ScreenScraper.fr">
-		<path>./R-Type Complete CD.chd</path>
-		<name>R-type Complete Cd</name>
-		<desc>R-Type Complete CD combines part I and part II of the japanese PC Engine HuCard releases. It also adds remixed music, fully voiced cut scenes, an extra boss fight, and some other minor changes.
-An alien race called the Bydo attacks humanity without mercy. The prototype space fighter R-9 must stop the Bydo and save the human race.</desc>
-		<image>./mixart/R-Type Complete CD.png</image>
-		<video>./snap/R-Type Complete CD.mp4</video>
-		<marquee>./wheel/R-Type Complete CD.png</marquee>
-		<rating>0</rating>
-		<releasedate>19911220T000000</releasedate>
-		<developer>Irem</developer>
-		<crc32>00000000</crc32>
-		<cheevosHash>394DF9406A203CFDEB39D3603FDD189F</cheevosHash>
-	</game>
 	<game id="14586" source="ScreenScraper.fr">
 		<path>./Rainbow Islands.chd</path>
 		<name>Rainbow Islands</name>
@@ -2576,5 +2562,19 @@ The CD DOS version of the game has enhanced 256-color graphics, audio tracks, an
 		<developer>Turbo Technologies</developer>
 		<publisher>LucasArts</publisher>
 		<cheevosHash>BACDF47DC3BE70D9BF6B51C2CE7A20DC</cheevosHash>
+	</game>
+	<game id="106981" source="ScreenScraper.fr">
+		<path>./R-Type Complete CD.chd</path>
+		<name>R-type Complete Cd</name>
+		<desc>R-Type Complete CD combines part I and part II of the japanese PC Engine HuCard releases. It also adds remixed music, fully voiced cut scenes, an extra boss fight, and some other minor changes.
+An alien race called the Bydo attacks humanity without mercy. The prototype space fighter R-9 must stop the Bydo and save the human race.</desc>
+		<image>./mixart/R-Type Complete CD.png</image>
+		<video>./snap/R-Type Complete CD.mp4</video>
+		<marquee>./wheel/R-Type Complete CD.png</marquee>
+		<rating>0</rating>
+		<releasedate>19911220T000000</releasedate>
+		<developer>Irem</developer>
+		<crc32>00000000</crc32>
+		<cheevosHash>394DF9406A203CFDEB39D3603FDD189F</cheevosHash>
 	</game>
 </gameList>

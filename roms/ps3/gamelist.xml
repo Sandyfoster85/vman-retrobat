@@ -1205,23 +1205,6 @@ Gather a team of two, thrust into battle, and go crazy with your attacks! From b
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="25319" source="ScreenScraper.fr">
-		<path>./Dead Nation.m3u</path>
-		<name>Dead Nation</name>
-		<desc>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. But that’s just the start. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead. You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain!</desc>
-		<image>./mixart/Dead Nation.png</image>
-		<video>./snap/Dead Nation.mp4</video>
-		<marquee>./wheel/Dead Nation.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20101201T000000</releasedate>
-		<developer>Housemarque</developer>
-		<publisher>Sony</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>260</genreid>
-	</game>
 	<game id="24868" source="ScreenScraper.fr">
 		<path>./J-Stars Victory Vs+ (USA) (En,Fr,Es).m3u</path>
 		<name>J-stars Victory Vs+</name>
@@ -1548,22 +1531,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./1942 Joint Strike.m3u</path>
-		<name>1942 Joint Strike</name>
-		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
-		<image>./mixart/1942 Joint Strike.png</image>
-		<video>./snap/1942 Joint Strike.mp4</video>
-		<marquee>./wheel/1942 Joint Strike.png</marquee>
-		<rating>0.69</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Pool Nation.m3u</path>
 		<name>Pool Nation</name>
@@ -1654,22 +1621,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>1537</genreid>
-	</game>
-	<game>
-		<path>./Daytona USA.m3u</path>
-		<name>Daytona USA</name>
-		<desc>It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona® USA features enhanced graphics, tracks for all skill levels, and the original hit soundtrack! Save your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends in up to eight player online races or the whole world via online leaderboards! New Coat of Paint:Now with enhanced graphics, Daytona® USA gives you a classically updated, retro look in 16:9 widescreen. Classic Arcade Experience:Race your AI opponents in classic Arcade Mode, beat the clock in Survival and Time Trial modes or sing along to your favorite Daytona songs in Karaoke mode! Multiplayer Madness.</desc>
-		<image>./mixart/Daytona USA.png</image>
-		<video>./snap/Daytona USA.mp4</video>
-		<marquee>./wheel/Daytona USA.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111125T000000</releasedate>
-		<developer>Sega AM2</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Elevator Action Deluxe.m3u</path>
@@ -1884,11 +1835,60 @@ The multiplayer portion offers 2 game modes. In Backlot Battle players have to p
 		<video>./snap/Stuntman - Ignition (USA).mp4</video>
 		<marquee>./wheel/Stuntman - Ignition (USA).png</marquee>
 		<rating>0.8</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>THQ</developer>
 		<publisher>Paradigm Entertainment</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Daytona USA.m3u</path>
+		<name>Daytona USA</name>
+		<desc>It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona® USA features enhanced graphics, tracks for all skill levels, and the original hit soundtrack! Save your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends in up to eight player online races or the whole world via online leaderboards! New Coat of Paint:Now with enhanced graphics, Daytona® USA gives you a classically updated, retro look in 16:9 widescreen. Classic Arcade Experience:Race your AI opponents in classic Arcade Mode, beat the clock in Survival and Time Trial modes or sing along to your favorite Daytona songs in Karaoke mode! Multiplayer Madness.</desc>
+		<image>./mixart/Daytona USA.png</image>
+		<video>./snap/Daytona USA.mp4</video>
+		<marquee>./wheel/Daytona USA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111125T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="25319" source="ScreenScraper.fr">
+		<path>./Dead Nation.m3u</path>
+		<name>Dead Nation</name>
+		<desc>Sometime in the not-too-distant future, a deadly virus is once again sweeping the globe, infecting everyone in its path and killing off almost all the human race. But that’s just the start. To the horror of the survivors, the dead have begun rising from the grave, hell-bent on feeding on the living and wiping out mankind for good. But, just as it seems all is lost, a small pocket of survivors emerges, determined to take back the world from the undead. You are one of these survivors. Armed to the teeth and totally outnumbered, you’re the last hope of discovering a cure for the virus and saving humanity. Just remember to lock, load, and aim for the brain!</desc>
+		<image>./mixart/Dead Nation.png</image>
+		<video>./snap/Dead Nation.mp4</video>
+		<marquee>./wheel/Dead Nation.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>Housemarque</developer>
+		<publisher>Sony</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>260</genreid>
 	</game>
 </gameList>

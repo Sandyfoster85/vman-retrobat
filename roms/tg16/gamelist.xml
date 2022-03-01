@@ -544,23 +544,6 @@ There is no narrative in the game; the only story-related information comes in f
 		<players>2</players>
 		<cheevosHash>7DF6342574ED3E0241029A11F1F5C4DA</cheevosHash>
 	</game>
-	<game>
-		<path>./Dungeon Explorer (USA).zip</path>
-		<name>Dungeon Explorer</name>
-		<desc>The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.
-
-Dungeon Explorer plays like Gauntlet: you choose one of several different characters to play as (Fighter, Thief, Warlock, Witch, Bard, Bishop, Elf and Knome) and set out on your adventure alone or with up to four other players. Battles are real-time and of the shooter variety, ie, rather than swing a sword, you fire knives (or spells depending on your class). Enemies respawn out of holes in the ground which must be eradicated to keep them from pouring forth in waves. There are a number of items to be found and used throughout the game including potions of white and black magic, healing drinks and the like, but unlike Gauntlet there is no food to worry about.</desc>
-		<image>./mixart/Dungeon Explorer (USA).png</image>
-		<video>./snap/Dungeon Explorer (USA).mp4</video>
-		<marquee>./wheel/Dungeon Explorer (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19890000T000000</releasedate>
-		<developer>Atlus</developer>
-		<publisher>NEC</publisher>
-		<genre>Role playing games</genre>
-		<players>5</players>
-		<cheevosHash>A07C43BEA439C8C904BC4908737AF5C5</cheevosHash>
-	</game>
 	<game id="78643" source="ScreenScraper">
 		<path>./Falcon (USA).zip</path>
 		<name>Falcon</name>
@@ -1379,26 +1362,6 @@ Rick must survive seven blood-soaked levels full of corpses, demons, and other d
 		<cheevosHash>F6690EC0F440CED641718D6BC52E3FBD</cheevosHash>
 		<cheevosId>5268</cheevosId>
 	</game>
-	<game id="14588" source="ScreenScraper">
-		<path>./Super Star Soldier (USA).zip</path>
-		<name>Super Star Soldier</name>
-		<desc>Super Star Soldier takes place in the far future, where you are the last hope for planet Earth, which is being attacked by an alien race.
-
-The game features top-down view with vertical scrolling levels, similar to it's prequel Star Soldier. 
-The game features the following game play modes: normal play, score play, 2 minutes play and 5 minutes play.
-Each level has it's own tough boss at the end.</desc>
-		<image>./mixart/Super Star Soldier (USA).png</image>
-		<video>./snap/Super Star Soldier (USA).mp4</video>
-		<marquee>./wheel/Super Star Soldier (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910000T000000</releasedate>
-		<developer>Inter State Software</developer>
-		<publisher>Hudson Soft</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<cheevosHash>BC7D4B0852D04FE49F6E3705B899C5E5</cheevosHash>
-		<cheevosId>2328</cheevosId>
-	</game>
 	<game id="78780" source="ScreenScraper">
 		<path>./Super Volleyball (USA).zip</path>
 		<name>Super Volleyball</name>
@@ -1739,5 +1702,42 @@ In addition, many different kinds of obstacles appear throughout the game, inclu
 		<favorite>true</favorite>
 		<cheevosHash>94814DB23E163DBFC7D7505170E145C2</cheevosHash>
 		<cheevosId>2298</cheevosId>
+	</game>
+	<game id="14588" source="ScreenScraper">
+		<path>./Super Star Soldier (USA).zip</path>
+		<name>Super Star Soldier</name>
+		<desc>Super Star Soldier takes place in the far future, where you are the last hope for planet Earth, which is being attacked by an alien race.
+
+The game features top-down view with vertical scrolling levels, similar to it's prequel Star Soldier. 
+The game features the following game play modes: normal play, score play, 2 minutes play and 5 minutes play.
+Each level has it's own tough boss at the end.</desc>
+		<image>./mixart/Super Star Soldier (USA).png</image>
+		<video>./snap/Super Star Soldier (USA).mp4</video>
+		<marquee>./wheel/Super Star Soldier (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910000T000000</releasedate>
+		<developer>Inter State Software</developer>
+		<publisher>Hudson Soft</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<cheevosHash>BC7D4B0852D04FE49F6E3705B899C5E5</cheevosHash>
+		<cheevosId>2328</cheevosId>
+	</game>
+	<game>
+		<path>./Dungeon Explorer (USA).zip</path>
+		<name>Dungeon Explorer</name>
+		<desc>The former king of Oddesia has entrusted you with an important, dangerous task. You must find the sacred ORA stone, which possesses the powers of life, light and happiness, and retrieve it before the king of the alien race, Natas, does. He has conquered this land and plunged it into an age of terror and despair, plagued with violence. It is up to you to stand against him and return your world to its former glory.
+
+Dungeon Explorer plays like Gauntlet: you choose one of several different characters to play as (Fighter, Thief, Warlock, Witch, Bard, Bishop, Elf and Knome) and set out on your adventure alone or with up to four other players. Battles are real-time and of the shooter variety, ie, rather than swing a sword, you fire knives (or spells depending on your class). Enemies respawn out of holes in the ground which must be eradicated to keep them from pouring forth in waves. There are a number of items to be found and used throughout the game including potions of white and black magic, healing drinks and the like, but unlike Gauntlet there is no food to worry about.</desc>
+		<image>./mixart/Dungeon Explorer (USA).png</image>
+		<video>./snap/Dungeon Explorer (USA).mp4</video>
+		<marquee>./wheel/Dungeon Explorer (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890000T000000</releasedate>
+		<developer>Atlus</developer>
+		<publisher>NEC</publisher>
+		<genre>Role playing games</genre>
+		<players>5</players>
+		<cheevosHash>A07C43BEA439C8C904BC4908737AF5C5</cheevosHash>
 	</game>
 </gameList>

@@ -2549,23 +2549,6 @@ By simply sampling some DNA, the doctor will be able to morph into a spider, mou
 		<region>us</region>
 		<genreid>768</genreid>
 	</game>
-	<game>
-		<path>./F-Zero GX (Europe).rvz</path>
-		<name>F-Zero GX</name>
-		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
-		<image>./mixart/F-Zero GX (Europe).png</image>
-		<video>./snap/F-Zero GX (Europe).mp4</video>
-		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20031031T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
 	<game id="5028" source="ScreenScraper.fr">
 		<path>./F1 2002 (USA).rvz</path>
 		<name>F1 2002</name>
@@ -9030,5 +9013,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./F-Zero GX (Europe).rvz</path>
+		<name>F-Zero GX</name>
+		<desc>The classic Nintendo franchise that has inspired countless futuristic racing games returns with F-Zero GX on the Nintendo GameCube. Long-time rival Sega collaborated with Nintendo to redefine the futuristic racing genre with intense competition, blazing speeds, and brilliant track designs. F-Zero GX offers 20 different tracks and over 30 unique pilots, as well as a custom craft editor where players can create their own vehicle. Multiple game modes including Grand Prix, Time Attack, Versus mode, and the all new challenging story mode offer a multitude of alternatives to traditional racing. Players can laso save their game data on a memory card and use it to race custom vehicles in the arcade version of F-Zero GX.</desc>
+		<image>./mixart/F-Zero GX (Europe).png</image>
+		<video>./snap/F-Zero GX (Europe).mp4</video>
+		<marquee>./wheel/F-Zero GX (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20031031T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

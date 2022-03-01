@@ -255,20 +255,6 @@ Yes, shortly after you arrive, your generous host Niklos is murdered, and found 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./dig.svm/Dig, The.scummvm</path>
-		<name>Dig, The</name>
-		<desc>The Dig is a point-and-click adventure game developed by LucasArts and released in 1995 as a CD-ROM for PC and Macintosh computers. Like other LucasArts adventure games, it uses the SCUMM video game engine. It also features a full voice-acting cast, including notable voice actors Robert Patrick and Steven Blum, and a digital orchestral score. The game uses a combination of drawn two-dimensional artwork and limited, pre-rendered three-dimensional movies, with the latter created by Industrial Light &amp; Magic.</desc>
-		<image>./mixart/dig.png</image>
-		<video>./snap/dig.mp4</video>
-		<marquee>./wheel/dig.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951130T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Discworld 1 (CD DOS v2).svm/Discworld.scummvm</path>
 		<name>Discworld</name>
 		<desc>Atop the flying disk planet known as Discworld, flying along in infinite space, foul things are transpiring in the famous city of Ahnk-Morpork. A dark guild have brought back a great beast, one that no one really believes in. But they will before long. Not standing still, the wizards of Unseen University send their most expendable wizard to destroy the threat. Rincewind, the wizzard, er, I mean wizard, is the worlds most inept wizard. He'd much rather run away from the dragon than confront and destroy it, and it doesn't make things any better that the evil bad guys and even Death him-self are all right on his tail. Can Rincewind keep all of Ahnk-Morpork from becoming nice little fried Morporkians? Play this delightful little adventure and find out for yourself.</desc>
@@ -308,22 +294,6 @@ Yes, shortly after you arrive, your generous host Niklos is murdered, and found 
 		<developer>Alcachofa Soft</developer>
 		<publisher>Digital Dream Inc.</publisher>
 		<genre>Adventure / Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./EcoQuest 1 - The Search for Cetus (CD DOS).svm/EcoQuest - The Search for Cetus.scummvm</path>
-		<name>EcoQuest: The Search for Cetus</name>
-		<desc>Set out on a challenging undersea odyssey as you discover the delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the important environmental issues facing each of us today. You'll also have the adventure of your life.
-Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the sunken ruins of ancient civilizations and rescue sea creatures who are hurt or poisoned by pollution.
-Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards.</desc>
-		<image>./mixart/ecoquest.png</image>
-		<video>./snap/ecoquest.mp4</video>
-		<marquee>./wheel/ecoquest.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1146,20 +1116,6 @@ After a while you will find out evil forces have taken over the people of the vi
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./pq1sci.svm/Police Quest 1 - In Pursuit of the Death Angel VGA.scummvm</path>
-		<name>Police Quest 1: In Pursuit of the Death Angel VGA</name>
-		<desc>Guide the life of Sonny Bonds as you chase wanted felons, respond to calls, and hunt a drug baron known onl</desc>
-		<image>./mixart/pq1sci.png</image>
-		<video>./snap/pq1sci.mp4</video>
-		<marquee>./wheel/pq1sci.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./pq2.svm/Police Quest 2 - The Vengeance.scummvm</path>
 		<name>Police Quest 2: The Vengeance</name>
 		<desc>A cold-blooded murderer is on the loose. He has killed once, and he's not afraid to kill again. In fact, he's stalking someone this very moment... and that someone is you!! Fast and furious, Police Quest II is police drama on the razor's edge as you race against time in pursuit of a ruthless cop killer bent on revenge. Face the tension of split-second decisions as you call the shots... you make the moves. Take plenty of target practice, because every shot counts when you hit the streets to face the most violent criminal this city has witnessed - Jessie Bains, "The Death Angel!"</desc>
@@ -1801,6 +1757,50 @@ Puzzle-solving element is present, though reduced compared to most other adventu
 		<publisher>Virgin</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./dig.svm/Dig, The.scummvm</path>
+		<name>Dig, The</name>
+		<desc>The Dig is a point-and-click adventure game developed by LucasArts and released in 1995 as a CD-ROM for PC and Macintosh computers. Like other LucasArts adventure games, it uses the SCUMM video game engine. It also features a full voice-acting cast, including notable voice actors Robert Patrick and Steven Blum, and a digital orchestral score. The game uses a combination of drawn two-dimensional artwork and limited, pre-rendered three-dimensional movies, with the latter created by Industrial Light &amp; Magic.</desc>
+		<image>./mixart/dig.png</image>
+		<video>./snap/dig.mp4</video>
+		<marquee>./wheel/dig.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951130T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./EcoQuest 1 - The Search for Cetus (CD DOS).svm/EcoQuest - The Search for Cetus.scummvm</path>
+		<name>EcoQuest: The Search for Cetus</name>
+		<desc>Set out on a challenging undersea odyssey as you discover the delicate and miraculous balance of nature. As you unravel this perilous, sub-aquatic quest, you'll learn about the important environmental issues facing each of us today. You'll also have the adventure of your life.
+Join an enchanting cast of animated undersea characters as you search for Cetus, the great whale king. Only you can save a mysterious underwater city. Along the way, you'll explore the sunken ruins of ancient civilizations and rescue sea creatures who are hurt or poisoned by pollution.
+Join young Adam and Delphineus the dolphin as they brave the terrors of toxic waste, oil spills, deadly driftnets, and other environmental hazards.</desc>
+		<image>./mixart/ecoquest.png</image>
+		<video>./snap/ecoquest.mp4</video>
+		<marquee>./wheel/ecoquest.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./pq1sci.svm/Police Quest 1 - In Pursuit of the Death Angel VGA.scummvm</path>
+		<name>Police Quest 1: In Pursuit of the Death Angel VGA</name>
+		<desc>Guide the life of Sonny Bonds as you chase wanted felons, respond to calls, and hunt a drug baron known onl</desc>
+		<image>./mixart/pq1sci.png</image>
+		<video>./snap/pq1sci.mp4</video>
+		<marquee>./wheel/pq1sci.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

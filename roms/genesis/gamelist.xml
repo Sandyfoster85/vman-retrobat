@@ -4255,20 +4255,6 @@ The Shark Beam is a green laser that fires in a spiral pattern and the strongest
 		<cheevosHash>DC1FA82AF5D70B5A35E06B7F10F9BBCB</cheevosHash>
 	</game>
 	<game>
-		<path>./Fix It Felix Jr.7z</path>
-		<name>'H'Fix-It Felix, Jr.</name>
-		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
-		<image>./mixart/Fix It Felix Jr.png</image>
-		<video>./snap/Fix It Felix Jr.mp4</video>
-		<marquee>./wheel/Fix It Felix Jr.png</marquee>
-		<rating>1</rating>
-		<releasedate>20130331T000000</releasedate>
-		<genre>Puzzle-Game</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
-	</game>
-	<game>
 		<path>./Flashback - The Quest for Identity (USA).7z</path>
 		<name>Flashback : The Quest for Identity</name>
 		<desc>Planet Titan: Brave mutants, robots, anti-matter fields and the primitive inhabitants as you find your way through the jungle. New Washington: First recover your memory, then go undercover to earn money. Finally, buy a false ID if you want to sneak back on Earth. Death Tower: Climb the 8 floors of the Death Tower labyrinth. Avoid the deadly Replicants and win a free ticket to Earth. Earth: Big trouble! The authorities have discovered your false ID and send robot cops to capture you. Paradise Club: You discovered the aliens' plans, but somehow end up being captured and mysteriously transported through space. Planet Morphs: You materialized on their home planet. Now all you have to do is destroy the Morphs and live to tell about it!</desc>
@@ -8367,21 +8353,6 @@ Gameplay is viewed form just above and behind the car, so you can see it. The ro
 		<players>1</players>
 		<cheevosHash>2C93E520772D4CDC1CF4AD54D2FCB406</cheevosHash>
 		<cheevosId>62</cheevosId>
-	</game>
-	<game id="182" source="ScreenScraper.fr">
-		<path>./OutRun 2019 (USA).7z</path>
-		<name>OutRun 2019</name>
-		<desc>The basic Outrun game structure is reused in this, with the main difference being that a futuristic setting has been used. The circuits have some spectacular inclines, and the cars do nearly 700km/h. There are four different track sequences on offer, and your aim is to complete each section of track within the time limit. As in the original OutRun game, near the end of each stage there are forks in the road, allowing you to choose different routes within the track sequences. There are other cars on the road to avoid as well.</desc>
-		<image>./mixart/OutRun 2019 (USA).png</image>
-		<video>./snap/OutRun 2019 (USA).mp4</video>
-		<marquee>./wheel/OutRun 2019 (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930301T000000</releasedate>
-		<developer>Sims</developer>
-		<publisher>Sega - Sims</publisher>
-		<genre>Action-Sports-Race, Driving</genre>
-		<players>1</players>
-		<cheevosHash>402A6B80A138EEFC426B27C24D4AA3F5</cheevosHash>
 	</game>
 	<game id="470" source="ScreenScraper.fr">
 		<path>./OutRunners (USA).7z</path>
@@ -14329,5 +14300,34 @@ There are changes in both graphics (characters now are bigger, more detailed and
 		<players>1</players>
 		<cheevosHash>BB6B10927E6238206E9A7BA8C7D91A14</cheevosHash>
 		<cheevosId>293</cheevosId>
+	</game>
+	<game>
+		<path>./Fix It Felix Jr.7z</path>
+		<name>'H'Fix-It Felix, Jr.</name>
+		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
+		<image>./mixart/Fix It Felix Jr.png</image>
+		<video>./snap/Fix It Felix Jr.mp4</video>
+		<marquee>./wheel/Fix It Felix Jr.png</marquee>
+		<rating>1</rating>
+		<releasedate>20130331T000000</releasedate>
+		<genre>Puzzle-Game</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
+	</game>
+	<game id="182" source="ScreenScraper.fr">
+		<path>./OutRun 2019 (USA).7z</path>
+		<name>OutRun 2019</name>
+		<desc>The basic Outrun game structure is reused in this, with the main difference being that a futuristic setting has been used. The circuits have some spectacular inclines, and the cars do nearly 700km/h. There are four different track sequences on offer, and your aim is to complete each section of track within the time limit. As in the original OutRun game, near the end of each stage there are forks in the road, allowing you to choose different routes within the track sequences. There are other cars on the road to avoid as well.</desc>
+		<image>./mixart/OutRun 2019 (USA).png</image>
+		<video>./snap/OutRun 2019 (USA).mp4</video>
+		<marquee>./wheel/OutRun 2019 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930301T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega - Sims</publisher>
+		<genre>Action-Sports-Race, Driving</genre>
+		<players>1</players>
+		<cheevosHash>402A6B80A138EEFC426B27C24D4AA3F5</cheevosHash>
 	</game>
 </gameList>

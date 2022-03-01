@@ -1007,24 +1007,6 @@
 		<cheevosHash>220543F489A9828021EA82A69E6305A3</cheevosHash>
 	</game>
 	<game>
-		<path>./Cruis'n Exotica (USA).n64</path>
-		<name>Cruis'n Exotica</name>
-		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
-		<image>./mixart/Cruis'n Exotica (USA).png</image>
-		<video>./snap/Cruis'n Exotica (USA).mp4</video>
-		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20001017T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Gratuitous Games</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
-	</game>
-	<game>
 		<path>./Cruis'n USA (USA) (Rev B).n64</path>
 		<name>Cruis'n USA</name>
 		<desc>Originally an arcade machine, Cruis'n USA was then released for the Nintendo 64. The game asks players to choose from seven vehicles to race in a variety of courses (based on real locations) throughout the USA. Various pre-game options included are the choice of automatic or manual transmission, various controller configurations, as well as background music selection option.  Players take control of the vehicle from a third-person perspective, and while avoiding various hazards along the way, must beat the clock as well as the CPU controlled rivals to gain first-place.  With fourteen courses to ultimately choose from, Cruis'n USA takes players on a tour across some of the most famous and notorious roads and highways across the continent. Some of the locations include: Golden Gate Park, Redwood Forest, Beverly Hills and the Grand Canyon.</desc>
@@ -5156,5 +5138,23 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>82DCD2B311352AD9B571089AFF6B6171</cheevosHash>
+	</game>
+	<game>
+		<path>./Cruis'n Exotica (USA).n64</path>
+		<name>Cruis'n Exotica</name>
+		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
+		<image>./mixart/Cruis'n Exotica (USA).png</image>
+		<video>./snap/Cruis'n Exotica (USA).mp4</video>
+		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Gratuitous Games</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
 	</game>
 </gameList>
