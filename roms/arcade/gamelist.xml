@@ -58566,29 +58566,6 @@ Each car has a basic high and low gear. Also, as the player races the course, a 
 		<region>us</region>
 		<cheevosHash>E476AFE4775283CF461671663A323026</cheevosHash>
 	</game>
-	<game id="43142">
-		<path>./slrasslt.zip</path>
-		<name>Solar Assault</name>
-		<desc>The game play is similar to other 3D shooters like Star Fox, where the player must move both horizontally and vertically. Like the other games in the Gradius series, there is no health bar, meaning one hit ends up in death; however, this time the player may be able to collect a "shield" power up which can take one hit or two hits before the ship's destruction. The other major gameplay change is the ability to adjust the speed, which is necessary to time the avoidance of certain obstacles and enemies.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/slrasslt.png</image>
-		<video>./snap/slrasslt.mp4</video>
-		<marquee>./wheel/slrasslt.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter / Plane, 3rd person</genre>
-		<family>Gradius</family>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>b3ac2c066e30fa263d1117344c5d310f</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E205460029F65C5E7AEA59CCEEDD420B</cheevosHash>
-	</game>
 	<game>
 		<path>./slyspy.zip</path>
 		<name>Secret Agent</name>
@@ -58962,25 +58939,6 @@ The space ship possesses two weapons. The first weapon consists of shots fired b
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>26753536AA2B910343BBF2D340F6E125</cheevosHash>
-	</game>
-	<game id="145728">
-		<path>./solarwar.zip</path>
-		<name>Solar War</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/solarwar.png</image>
-		<video>./snap/solarwar.mp4</video>
-		<marquee>./wheel/solarwar.png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Pinball</genre>
-		<arcadesystemname>atari</arcadesystemname>
-		<md5>54d98a40da1d81d340f6181c82766e6e</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>791ADDC2476B352F64D2593CF56532CE</cheevosHash>
 	</game>
 	<game>
 		<path>./soldam.zip</path>
@@ -70520,21 +70478,6 @@ R?Type / Irem Game Music [Alfa Records - 28XA-199 - Jan 25, 1988]</desc>
 		<cheevosHash>6D03764ACEBE7CBF498C17C08DC152A3</cheevosHash>
 	</game>
 	<game>
-		<path>./zaxxon.zip</path>
-		<name>Zaxxon</name>
-		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/zaxxon.png</image>
-		<video>./snap/zaxxon.mp4</video>
-		<marquee>./wheel/zaxxon.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C4E4E7086E57D758C85B96D2E0375436</cheevosHash>
-	</game>
-	<game>
 		<path>./zedblade.zip</path>
 		<name>Zed Blade</name>
 		<desc>You and/or a friend must choose one of three characters to play as, each with different speeds at which they control their ships. Then select three weapons to use for the front and back of your ship. During play, you must travel to every planet in the solar system, and defeat the various enemy ships and the boss near the end of the planet. Your weapons can be upgraded during the battle, and you can also collect HyperBombs if you want to do maximum damage. Contains a nice soundtrack reminiscent of early 1990s "rave" music.</desc>
@@ -71195,34 +71138,6 @@ Sunset Riders features eight stages of play.</desc>
 		<cheevosHash>6F5AB02A089FD3A30BAA4DB7785234A6</cheevosHash>
 	</game>
 	<game>
-		<path>./ssridersubc.zip</path>
-		<name>Sunset Riders</name>
-		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
-
-The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
-
-Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
-
-Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
-
-A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
-
-Sunset Riders features eight stages of play.</desc>
-		<image>./mixart/ssriders.png</image>
-		<video>./snap/ssriders.mp4</video>
-		<marquee>./wheel/ssriders.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Platform-Shooter / Horizontal-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>492EA859726D84D6FC94AAED5D07152C</cheevosHash>
-		<cheevosId>11932</cheevosId>
-	</game>
-	<game>
 		<path>./tmnt.zip</path>
 		<name>Teenage Mutant Ninja Turtles (4 players)</name>
 		<desc>Teenage Mutant Ninja Turtles, released in Japan as TMNT: Super Kame Ninja and in Europe as Teenage Mutant Hero Turtles, is a 1989 beat 'em up arcade game released by Konami. It is based on the Teenage Mutant Ninja Turtles franchise, including the first animated series that began airing two years earlier.</desc>
@@ -71572,31 +71487,6 @@ La acción se ve desde tu perspectiva mientras viajas por el escenario. También
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>71E954F5F98BEB03B4A9FA40B32C7C9F</cheevosHash>
-	</game>
-	<game id="42702">
-		<path>./raystorm.zip</path>
-		<name>Ray Storm</name>
-		<desc>Ray Storm is a sequel of RayForce that does not follow the main plot "Con-Human" storyline, to this time the plot consists of eight stages taking place between August 4 and August 7, 2219 AD; the first three stages take place on Earth, the last three at the fictional planet Secilia, and two between them in the orbits of Earth and Secilia, respectively. Whereas RayForce players must head toward Earth to destroy it, RayStorm players start at and move away from the planet. The plot of the game is exposed minimally during play, with only dates and place names given at the start of each of its first seven stages. An "Extra Mode" included with home versions of the game displays maps before the first seven stages and a closing crawl after completing the game, which further illustrate the plot; the map for the fifth stage, for example, shows that a "gravity catapult" at the Moon is used to travel from Earth orbit to Secilia orbit.
-
-In a future where space travel has existed since 2119. Humans explored space, and within 100 years Earth established a twenty-colony Star Federation extending to Orion, with each colony kept under martial law. The colonies then mutinied against the Federation: they took control of the major colony Secilia, formed the Secilia Federation and defeated Earth's forces after many battles. After Earth's surrender, all of its inhabitants had been transferred to the colonies. The Secilia Federation suppressed colonial opposition and sent out a force to destroy the planet completely. However, by then the R-Gray, a aircraft made with parts salvaged from 13 different Secilia ships, is completed and deployed to carry out OPERATION RAYSTORM, a desperate attempt to defend Earth from the Federation.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/raystorm.png</image>
-		<video>./snap/raystorm.mp4</video>
-		<marquee>./wheel/raystorm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Gunlock</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>1ef0424d8f7ea37f4f8681ab4ed91975</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5E387412312B631FE2B9960CF2F95273</cheevosHash>
 	</game>
 	<game>
 		<path>./soulclbrub.zip</path>
@@ -72155,32 +72045,6 @@ The clone - After defeating Willy, the player will have to fight their character
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C9324352AB268A2EC8229FEADE20DE7E</cheevosHash>
-	</game>
-	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
 	</game>
 	<game>
 		<path>./ckong.zip</path>
@@ -72875,5 +72739,141 @@ In addition to the new weapons, R-type II's Beam Weapon has received an upgrade.
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A441888B56514B82DA8453907F962280</cheevosHash>
+	</game>
+	<game id="43142">
+		<path>./slrasslt.zip</path>
+		<name>Solar Assault</name>
+		<desc>The game play is similar to other 3D shooters like Star Fox, where the player must move both horizontally and vertically. Like the other games in the Gradius series, there is no health bar, meaning one hit ends up in death; however, this time the player may be able to collect a "shield" power up which can take one hit or two hits before the ship's destruction. The other major gameplay change is the ability to adjust the speed, which is necessary to time the avoidance of certain obstacles and enemies.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/slrasslt.png</image>
+		<video>./snap/slrasslt.mp4</video>
+		<marquee>./wheel/slrasslt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Plane, 3rd person</genre>
+		<family>Gradius</family>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>b3ac2c066e30fa263d1117344c5d310f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E205460029F65C5E7AEA59CCEEDD420B</cheevosHash>
+	</game>
+	<game id="42702">
+		<path>./raystorm.zip</path>
+		<name>Ray Storm</name>
+		<desc>Ray Storm is a sequel of RayForce that does not follow the main plot "Con-Human" storyline, to this time the plot consists of eight stages taking place between August 4 and August 7, 2219 AD; the first three stages take place on Earth, the last three at the fictional planet Secilia, and two between them in the orbits of Earth and Secilia, respectively. Whereas RayForce players must head toward Earth to destroy it, RayStorm players start at and move away from the planet. The plot of the game is exposed minimally during play, with only dates and place names given at the start of each of its first seven stages. An "Extra Mode" included with home versions of the game displays maps before the first seven stages and a closing crawl after completing the game, which further illustrate the plot; the map for the fifth stage, for example, shows that a "gravity catapult" at the Moon is used to travel from Earth orbit to Secilia orbit.
+
+In a future where space travel has existed since 2119. Humans explored space, and within 100 years Earth established a twenty-colony Star Federation extending to Orion, with each colony kept under martial law. The colonies then mutinied against the Federation: they took control of the major colony Secilia, formed the Secilia Federation and defeated Earth's forces after many battles. After Earth's surrender, all of its inhabitants had been transferred to the colonies. The Secilia Federation suppressed colonial opposition and sent out a force to destroy the planet completely. However, by then the R-Gray, a aircraft made with parts salvaged from 13 different Secilia ships, is completed and deployed to carry out OPERATION RAYSTORM, a desperate attempt to defend Earth from the Federation.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/raystorm.png</image>
+		<video>./snap/raystorm.mp4</video>
+		<marquee>./wheel/raystorm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Gunlock</family>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>1ef0424d8f7ea37f4f8681ab4ed91975</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5E387412312B631FE2B9960CF2F95273</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game>
+		<path>./ssridersubc.zip</path>
+		<name>Sunset Riders</name>
+		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
+
+The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
+
+Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
+
+Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
+
+A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
+
+Sunset Riders features eight stages of play.</desc>
+		<image>./mixart/ssriders.png</image>
+		<video>./snap/ssriders.mp4</video>
+		<marquee>./wheel/ssriders.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Platform-Shooter / Horizontal-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>492EA859726D84D6FC94AAED5D07152C</cheevosHash>
+		<cheevosId>11932</cheevosId>
+	</game>
+	<game id="145728">
+		<path>./solarwar.zip</path>
+		<name>Solar War</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/solarwar.png</image>
+		<video>./snap/solarwar.mp4</video>
+		<marquee>./wheel/solarwar.png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Pinball</genre>
+		<arcadesystemname>atari</arcadesystemname>
+		<md5>54d98a40da1d81d340f6181c82766e6e</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>791ADDC2476B352F64D2593CF56532CE</cheevosHash>
+	</game>
+	<game>
+		<path>./zaxxon.zip</path>
+		<name>Zaxxon</name>
+		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/zaxxon.png</image>
+		<video>./snap/zaxxon.mp4</video>
+		<marquee>./wheel/zaxxon.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C4E4E7086E57D758C85B96D2E0375436</cheevosHash>
 	</game>
 </gameList>

@@ -126,20 +126,6 @@
 		<marquee>./wheel/Bomberman Online (USA).png</marquee>
 		<video>./snap/Bomberman Online (USA).mp4</video>
 	</game>
-	<game id="13627" source="ScreenScraper.fr">
-		<path>./Border Down (Japan).chd</path>
-		<name>Border Down</name>
-		<desc>A futuristic sci-fi shooter in which you play a test pilot strapped to the brand new RAIN combat simulator which allows you to remotely control fighters as they immerse themselves in the midst of enemy territory.  The game is a side-scrolling shooter in which you control your ship and try to survive the onslaught of enemy attacks while you attempt to clear the levels. Weapon upgrades are based on collectible power-ups, but the game mostly relies on a power bar that fills as you destroy enemies and which allows you to unleash your super weapon at the expense of decreased normal firepower. The game also features a unique "border" system which involves three separate routes through each stage. You select the default route at the start of a level and when your ship is destroyed you get knocked down to the next "border", which features alternate backgrounds and enemy patterns. Only if you get knocked off the last border you lose the game.  Uses completely polygonal graphics and features single player arcade, remix and practice modes through 6 enemy-infested stages, the last of which has four unique variations.</desc>
-		<rating>0.9</rating>
-		<releasedate>20030925T000000</releasedate>
-		<developer>G.Rev</developer>
-		<publisher>G.Rev</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Border Down (Japan).png</image>
-		<marquee>./wheel/Border Down (Japan).png</marquee>
-		<video>./snap/Border Down (Japan).mp4</video>
-	</game>
 	<game id="13565" source="ScreenScraper.fr">
 		<path>./Capcom vs. SNK - Millennium Fight 2000 (USA).chd</path>
 		<name>Capcom vs. SNK - Millennium Fight 2000</name>
@@ -3676,20 +3662,6 @@ The campaign is divided into many episodes, and each episode into missions.</des
 		<genre>Various-Simulation</genre>
 		<players>2</players>
 	</game>
-	<game id="13787" source="ScreenScraper.fr">
-		<path>./Karous (Japan).chd</path>
-		<name>Karous</name>
-		<desc>In this unique vertically-scrolling shooter you take the role of a mysterious girl named Karous, who commands a tiny fighter ship and attempts to destroy an evil armada bent on world domination.  The game plays as your average vertical-scrolling shooter, in which you must clear several stages by destroying all incoming enemies and surviving their onslaught. A unique addition to Karous, is that you don't collect weapons by power-ups, but instead upgrade each of your basic weapons (gun, sword and shield) depending on their use thanks to a basic experience module, with increased power and features at later levels (multiple shots, bullet reflection, etc.)  The game uses cel-shaded polygonal graphics with a distinct black and white look.</desc>
-		<image>./mixart/Karous (Japan).png</image>
-		<video>./snap/Karous (Japan).mp4</video>
-		<marquee>./wheel/Karous (Japan).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20070308T000000</releasedate>
-		<developer>Milestone</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>1</players>
-	</game>
 	<game id="13645" source="ScreenScraper.fr">
 		<path>./KISS Psycho Circus - The Nightmare Child v1.000 (2000)(Take 2)(NTSC)(US)[!].chd</path>
 		<name>KISS Psycho Circus : The Nightmare Child</name>
@@ -4539,27 +4511,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="78492" source="ScreenScraper.fr">
-		<path>./Pro Pinball Trilogy (Europe).cue</path>
-		<name>Pro Pinball Trilogy</name>
-		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
-Pro Pinball: Timeshock! 
-Pro Pinball: Big Race USA 
-Pro Pinball: Fantastic Journey 
-The first part of the series, Pro Pinball: The Web, is not included.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
-		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
-		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010608T000000</releasedate>
-		<developer>Cunning Developments</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Pinball-Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="13629" source="ScreenScraper.fr">
 		<path>./F1 World Grand Prix II for Dreamcast (Europe).chd</path>
 		<name>F1 World Grand Prix 2</name>
@@ -4787,5 +4738,54 @@ The first part of the series, Pro Pinball: The Web, is not included.</desc>
 		<publisher>Acclaim</publisher>
 		<genre>Race, Driving</genre>
 		<players>4</players>
+	</game>
+	<game id="13627" source="ScreenScraper.fr">
+		<path>./Border Down (Japan).chd</path>
+		<name>Border Down</name>
+		<desc>A futuristic sci-fi shooter in which you play a test pilot strapped to the brand new RAIN combat simulator which allows you to remotely control fighters as they immerse themselves in the midst of enemy territory.  The game is a side-scrolling shooter in which you control your ship and try to survive the onslaught of enemy attacks while you attempt to clear the levels. Weapon upgrades are based on collectible power-ups, but the game mostly relies on a power bar that fills as you destroy enemies and which allows you to unleash your super weapon at the expense of decreased normal firepower. The game also features a unique "border" system which involves three separate routes through each stage. You select the default route at the start of a level and when your ship is destroyed you get knocked down to the next "border", which features alternate backgrounds and enemy patterns. Only if you get knocked off the last border you lose the game.  Uses completely polygonal graphics and features single player arcade, remix and practice modes through 6 enemy-infested stages, the last of which has four unique variations.</desc>
+		<image>./mixart/Border Down (Japan).png</image>
+		<video>./snap/Border Down (Japan).mp4</video>
+		<marquee>./wheel/Border Down (Japan).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030925T000000</releasedate>
+		<developer>G.Rev</developer>
+		<publisher>G.Rev</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+	</game>
+	<game id="13787" source="ScreenScraper.fr">
+		<path>./Karous (Japan).chd</path>
+		<name>Karous</name>
+		<desc>In this unique vertically-scrolling shooter you take the role of a mysterious girl named Karous, who commands a tiny fighter ship and attempts to destroy an evil armada bent on world domination.  The game plays as your average vertical-scrolling shooter, in which you must clear several stages by destroying all incoming enemies and surviving their onslaught. A unique addition to Karous, is that you don't collect weapons by power-ups, but instead upgrade each of your basic weapons (gun, sword and shield) depending on their use thanks to a basic experience module, with increased power and features at later levels (multiple shots, bullet reflection, etc.)  The game uses cel-shaded polygonal graphics with a distinct black and white look.</desc>
+		<image>./mixart/Karous (Japan).png</image>
+		<video>./snap/Karous (Japan).mp4</video>
+		<marquee>./wheel/Karous (Japan).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20070308T000000</releasedate>
+		<developer>Milestone</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>1</players>
+	</game>
+	<game id="78492" source="ScreenScraper.fr">
+		<path>./Pro Pinball Trilogy (Europe).cue</path>
+		<name>Pro Pinball Trilogy</name>
+		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
+Pro Pinball: Timeshock! 
+Pro Pinball: Big Race USA 
+Pro Pinball: Fantastic Journey 
+The first part of the series, Pro Pinball: The Web, is not included.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
+		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
+		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010608T000000</releasedate>
+		<developer>Cunning Developments</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Pinball-Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

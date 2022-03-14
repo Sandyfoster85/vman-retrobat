@@ -1520,27 +1520,6 @@ The storyline is actually deeper that one may think by looking at the box illust
 		<region>eu</region>
 		<cheevosHash>BEA00F9B73AC248BAFA7E406A5489B32</cheevosHash>
 	</game>
-	<game>
-		<path>./Enduro Racer (USA, Europe).7z</path>
-		<name>Enduro Racer</name>
-		<desc>In this game you play the role of an endurance bike racer. The gameplay involves you racing against the clock to get to the finish line and jumping over ramps. At the end of each race you get points for how many cars or bikes you have overtaken with which you can upgrade your bike.
-There are various different terrain for you to race on including desert beach and dirt tracks plus a number of things to slow you down or even knock you off of your bike all together. The main idea is to find the best route through each level to shave off valuable seconds in order to over take more cars and bikes.
-
-The Japanese version of the game has more Tracks than the European and US versions have. Among  them is a snow track which is one of the hardest tracks in the game, because there is a lot of stones on the thin road.</desc>
-		<image>./mixart/Enduro Racer (USA, Europe).png</image>
-		<video>./snap/Enduro Racer (USA, Europe).mp4</video>
-		<marquee>./wheel/Enduro Racer (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>06779A1A9DBADA60EFB1F37E37040A5B</cheevosHash>
-		<cheevosId>10698</cheevosId>
-	</game>
 	<game id="989" source="ScreenScraper.fr">
 		<path>./F-16 Fighting Falcon (USA).7z</path>
 		<name>F-16 Fighter</name>
@@ -5198,5 +5177,26 @@ A typical Bitmap Brothers smash, the game is also famous for its soundtrack by B
 		<genre>Platform-Action</genre>
 		<players>1</players>
 		<cheevosHash>42FB44C9A2C82B8C4AEF8191C1B5676F</cheevosHash>
+	</game>
+	<game>
+		<path>./Enduro Racer (USA, Europe).7z</path>
+		<name>Enduro Racer</name>
+		<desc>In this game you play the role of an endurance bike racer. The gameplay involves you racing against the clock to get to the finish line and jumping over ramps. At the end of each race you get points for how many cars or bikes you have overtaken with which you can upgrade your bike.
+There are various different terrain for you to race on including desert beach and dirt tracks plus a number of things to slow you down or even knock you off of your bike all together. The main idea is to find the best route through each level to shave off valuable seconds in order to over take more cars and bikes.
+
+The Japanese version of the game has more Tracks than the European and US versions have. Among  them is a snow track which is one of the hardest tracks in the game, because there is a lot of stones on the thin road.</desc>
+		<image>./mixart/Enduro Racer (USA, Europe).png</image>
+		<video>./snap/Enduro Racer (USA, Europe).mp4</video>
+		<marquee>./wheel/Enduro Racer (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>06779A1A9DBADA60EFB1F37E37040A5B</cheevosHash>
+		<cheevosId>10698</cheevosId>
 	</game>
 </gameList>

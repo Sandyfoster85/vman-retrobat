@@ -9728,22 +9728,6 @@ Pac-Attack: Like Tetris before it, you must fit falling blocks together to compl
 		<genre>Puzzle-Game-Action</genre>
 		<cheevosHash>ED4304CC4F5BAC34ADFAA750316784A8</cheevosHash>
 	</game>
-	<game id="4608" source="ScreenScraper.fr">
-		<path>./Pac-Man Pinball Advance (USA).7z</path>
-		<name>Pac-Man Pinball Advance</name>
-		<desc>It's Pac-Man meets Pinball!  PMPA merges classic Pac-Man action with pinball, reminiscent of Kirby's Pinball Land, letting the player choose from different table backgrounds, the goal of which is to advance through the tables, hitting certain parts to gain power-ups, even the ability to eat pellets and eat the ghost foes (Blinky, Inky, Pinky and Clyde) and rescue Pac-Mans friends, including Ms. Pac-Man as well.  There are also mini-games to be played such as a vertical shooter and classic Pac-Man mazes.</desc>
-		<image>./mixart/Pac-Man Pinball Advance (USA).png</image>
-		<video>./snap/Pac-Man Pinball Advance (USA).mp4</video>
-		<marquee>./wheel/Pac-Man Pinball Advance (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Zoo Digital</developer>
-		<publisher>Namco</publisher>
-		<genre>Various-Action-Pinball</genre>
-		<players>1</players>
-		<cheevosHash>4D7B955B9C19B13D1D776E35CE007F78</cheevosHash>
-		<cheevosId>7274</cheevosId>
-	</game>
 	<game id="4339" source="ScreenScraper.fr">
 		<path>./Pac-Man World (USA).7z</path>
 		<name>Pac-Man World</name>
@@ -15913,8 +15897,24 @@ Gameplay consists of navigating through several areas using your Drill Dozer rob
 		<video>./snap/Santa Clause 3, The - The Escape Clause (USA).mp4</video>
 		<marquee>./wheel/Santa Clause 3, The - The Escape Clause (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>B3A719F647A84F5496C0AD97D5DE6370</cheevosHash>
 		<cheevosId>7158</cheevosId>
+	</game>
+	<game id="4608" source="ScreenScraper.fr">
+		<path>./Pac-Man Pinball Advance (USA).7z</path>
+		<name>Pac-Man Pinball Advance</name>
+		<desc>It's Pac-Man meets Pinball!  PMPA merges classic Pac-Man action with pinball, reminiscent of Kirby's Pinball Land, letting the player choose from different table backgrounds, the goal of which is to advance through the tables, hitting certain parts to gain power-ups, even the ability to eat pellets and eat the ghost foes (Blinky, Inky, Pinky and Clyde) and rescue Pac-Mans friends, including Ms. Pac-Man as well.  There are also mini-games to be played such as a vertical shooter and classic Pac-Man mazes.</desc>
+		<image>./mixart/Pac-Man Pinball Advance (USA).png</image>
+		<video>./snap/Pac-Man Pinball Advance (USA).mp4</video>
+		<marquee>./wheel/Pac-Man Pinball Advance (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Zoo Digital</developer>
+		<publisher>Namco</publisher>
+		<genre>Various-Action-Pinball</genre>
+		<players>1</players>
+		<cheevosHash>4D7B955B9C19B13D1D776E35CE007F78</cheevosHash>
+		<cheevosId>7274</cheevosId>
 	</game>
 </gameList>

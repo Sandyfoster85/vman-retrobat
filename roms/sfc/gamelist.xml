@@ -80,59 +80,6 @@ This is an action game with RPG elements. You wander around slaying enemies in r
 		<cheevosHash>C8E7C0F25AE51C9A6E5F092C3168D4D9</cheevosHash>
 	</game>
 	<game>
-		<path>./Aliens vs. Predator (Japan).zip</path>
-		<name>Alien Vs Predator</name>
-		<desc>Based on the Alien VS Predator comic book series. During the 25th century, mankind has colonized many planets. On one of these, New Shanghai, strange creatures have been discovered. These Aliens cause much havoc. New Shanghai initiates a distress call to other planets in the galaxy. A cloaked ship belonging to hunting creatures known as Predators intercepts the message. The Predators on board decide that these strange Alien creatures might make worthy trophies for the collection. The player takes the role of one of the Predators. 
-
-The Predator will fight through several levels of alien creatures in a
-side scrolling manner. The Predator's ability includes attacking,
-jumping, sliding and firing bolts from it's shoulder cannon. Additionally, the shoulder cannon can be charged up to unleash a
-devastating attack that also harms the Predator. Most aliens will
-drop power-ups which include health, trophy skulls, a double edged
-throwing weapon, throwing spears and active camouflage. Boss aliens wait at the end of most levels.</desc>
-		<image>./mixart/Aliens vs. Predator (Japan).png</image>
-		<video>./snap/Aliens vs. Predator (Japan).mp4</video>
-		<marquee>./wheel/Aliens vs. Predator (Japan).png</marquee>
-		<rating>0.25</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision - IGS</publisher>
-		<players>2</players>
-		<cheevosHash>9AFDDC507BA820BE7D788DD75EB6052F</cheevosHash>
-	</game>
-	<game id="38580" source="ScreenScraper.fr">
-		<path>./American Battle Dome (Japan).zip</path>
-		<name>American Battle Dome</name>
-		<desc>American Battle Dome for Super Famicom, by Tsukuda Original. It looks pretty great as a video game ? just a sort of four-player pinball thing, like a pinball version of Warlords or something.
-
-It?s based on a real Crossfire-esque board game ? which I?d never heard of, but looks completely badass. I assumed the board game never came out in Japan, hence the ?American? in the Super Famicom title, but nope: the board game was released with the same title, with a cute little face on the top!</desc>
-		<image>./mixart/American Battle Dome (Japan).png</image>
-		<video>./snap/American Battle Dome (Japan).mp4</video>
-		<marquee>./wheel/American Battle Dome (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19951208T000000</releasedate>
-		<developer>Tsukuda Original</developer>
-		<publisher>Tsukuda Original</publisher>
-		<players>2</players>
-		<crc32>D2D051F4</crc32>
-		<cheevosHash>20C7120AAA1538B185BA0A037574A2EA</cheevosHash>
-	</game>
-	<game id="38582" source="ScreenScraper.fr">
-		<path>./Aoki Densetsu Shoot! (Japan).zip</path>
-		<name>Aoki Densetsu Shoot!</name>
-		<desc>Aoki Densetsu Shoot is a Japanese anime produced by Toei Animation between November 9, 1990 and December 22, 1991 on the Fuji TV television network; there were fifty-eight episodes. The game has an exhibition mode, an anime-style story mode, and a variety of options, which is entirely in Japanese, so literacy in this language is strongly recommended for quality gameplay. Once the game begins, the action progresses in a side view, similar to an arcade soccer game.</desc>
-		<image>./mixart/Aoki Densetsu Shoot! (Japan).png</image>
-		<video>./snap/Aoki Densetsu Shoot! (Japan).mp4</video>
-		<marquee>./wheel/Aoki Densetsu Shoot! (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19941216T000000</releasedate>
-		<developer>KSS</developer>
-		<publisher>Affect</publisher>
-		<players>1</players>
-		<crc32>F0D5F33A</crc32>
-		<cheevosHash>41668CD2BFD33FAB8B7168FECFF2AE4B</cheevosHash>
-	</game>
-	<game>
 		<path>./Appleseed - Prometheus no Shintaku (Japan).zip</path>
 		<name>Appleseed : Prometheus no Shintaku</name>
 		<desc>World War III is over, and nomad soldier Duenan Knute and her cyborg partner Briareos struggle to survive in the abandoned cities and demilitarized zones of the post-war wasteland, the "Badside." Matters appear on the upswing, however, when they are found and brought to Olympus, an urban utopia and centerpiece for the reconstruction of civilization. Duenan and Bri join the Olympus' police, a force that seems hardly necessary in such a paradise. But, like in most pretty pictures, perfection is an illusion, and Olympus' peaceful facade hides a dark secret, a violent struggle between human and cyborg that could once again plunge the world into war... and genocide.</desc>
@@ -8573,5 +8520,64 @@ Play takes place over five levels, first of your launch on Mars, then the approa
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
+	</game>
+	<game>
+		<path>./Aliens vs. Predator (Japan).zip</path>
+		<name>Alien Vs Predator</name>
+		<desc>Based on the Alien VS Predator comic book series. During the 25th century, mankind has colonized many planets. On one of these, New Shanghai, strange creatures have been discovered. These Aliens cause much havoc. New Shanghai initiates a distress call to other planets in the galaxy. A cloaked ship belonging to hunting creatures known as Predators intercepts the message. The Predators on board decide that these strange Alien creatures might make worthy trophies for the collection. The player takes the role of one of the Predators. 
+
+The Predator will fight through several levels of alien creatures in a
+side scrolling manner. The Predator's ability includes attacking,
+jumping, sliding and firing bolts from it's shoulder cannon. Additionally, the shoulder cannon can be charged up to unleash a
+devastating attack that also harms the Predator. Most aliens will
+drop power-ups which include health, trophy skulls, a double edged
+throwing weapon, throwing spears and active camouflage. Boss aliens wait at the end of most levels.</desc>
+		<image>./mixart/Aliens vs. Predator (Japan).png</image>
+		<video>./snap/Aliens vs. Predator (Japan).mp4</video>
+		<marquee>./wheel/Aliens vs. Predator (Japan).png</marquee>
+		<rating>0.25</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision - IGS</publisher>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>9AFDDC507BA820BE7D788DD75EB6052F</cheevosHash>
+	</game>
+	<game id="38580" source="ScreenScraper.fr">
+		<path>./American Battle Dome (Japan).zip</path>
+		<name>American Battle Dome</name>
+		<desc>American Battle Dome for Super Famicom, by Tsukuda Original. It looks pretty great as a video game ? just a sort of four-player pinball thing, like a pinball version of Warlords or something.
+
+It?s based on a real Crossfire-esque board game ? which I?d never heard of, but looks completely badass. I assumed the board game never came out in Japan, hence the ?American? in the Super Famicom title, but nope: the board game was released with the same title, with a cute little face on the top!</desc>
+		<image>./mixart/American Battle Dome (Japan).png</image>
+		<video>./snap/American Battle Dome (Japan).mp4</video>
+		<marquee>./wheel/American Battle Dome (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19951208T000000</releasedate>
+		<developer>Tsukuda Original</developer>
+		<publisher>Tsukuda Original</publisher>
+		<players>2</players>
+		<crc32>D2D051F4</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>20C7120AAA1538B185BA0A037574A2EA</cheevosHash>
+	</game>
+	<game id="38582" source="ScreenScraper.fr">
+		<path>./Aoki Densetsu Shoot! (Japan).zip</path>
+		<name>Aoki Densetsu Shoot!</name>
+		<desc>Aoki Densetsu Shoot is a Japanese anime produced by Toei Animation between November 9, 1990 and December 22, 1991 on the Fuji TV television network; there were fifty-eight episodes. The game has an exhibition mode, an anime-style story mode, and a variety of options, which is entirely in Japanese, so literacy in this language is strongly recommended for quality gameplay. Once the game begins, the action progresses in a side view, similar to an arcade soccer game.</desc>
+		<image>./mixart/Aoki Densetsu Shoot! (Japan).png</image>
+		<video>./snap/Aoki Densetsu Shoot! (Japan).mp4</video>
+		<marquee>./wheel/Aoki Densetsu Shoot! (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19941216T000000</releasedate>
+		<developer>KSS</developer>
+		<publisher>Affect</publisher>
+		<players>1</players>
+		<crc32>F0D5F33A</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>41668CD2BFD33FAB8B7168FECFF2AE4B</cheevosHash>
 	</game>
 </gameList>

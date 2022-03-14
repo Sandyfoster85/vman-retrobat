@@ -7704,26 +7704,6 @@ Also PSP version features two new playable characters: Balthier, from Final Fant
 		<region>us</region>
 		<cheevosHash>599F59CD6FB17E623B6F4FFB64A93EB9</cheevosHash>
 	</game>
-	<game>
-		<path>./Formula 1 (USA).chd</path>
-		<name>Formula 1</name>
-		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
-
-The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
-		<image>./mixart/Formula 1 (USA).png</image>
-		<video>./snap/Formula 1 (USA).mp4</video>
-		<marquee>./wheel/Formula 1 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Bizarre Creations</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Race, Driving-Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F6A8F84896EEF0D062A9F12FDA5C9F9</cheevosHash>
-	</game>
 	<game id="19734" source="ScreenScraper.fr">
 		<path>./Formula 1 98 (USA) (En,Fr,De,Es,It,Fi).chd</path>
 		<name>Formula 1 '98</name>
@@ -21488,5 +21468,25 @@ A free track add-on extends the game with one additional course for sportbikes a
 		<region>us</region>
 		<cheevosHash>FD87E03DBF4400399DDD46AD73B73B30</cheevosHash>
 		<cheevosId>13959</cheevosId>
+	</game>
+	<game>
+		<path>./Formula 1 (USA).chd</path>
+		<name>Formula 1</name>
+		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
+
+The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
+		<image>./mixart/Formula 1 (USA).png</image>
+		<video>./snap/Formula 1 (USA).mp4</video>
+		<marquee>./wheel/Formula 1 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Race, Driving-Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F6A8F84896EEF0D062A9F12FDA5C9F9</cheevosHash>
 	</game>
 </gameList>

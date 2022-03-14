@@ -6280,20 +6280,6 @@ Command &amp; Conquer: Red Alert can be considered a prequel to Command &amp; Co
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Silverball 2 Plus.pc</path>
-		<name>Silverball</name>
-		<desc>Silverball is basically a commercially published version of the game Epic Pinball.  The game engine is nearly the same, only the tables themselves are different.  It comes with four tables: Fantasy, Blood, Snooker Champ, and Odyssey.  Some distributions (Silverball Plus 2) include two extra tables, Warbot and Duel, which are more or less the same as the Excalibur and Magic tables from Epic Pinball with some different art and music.  Finally, a seventh table, Nova, may or may not be a part of the game - see Trivia for details.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Silverball 2 Plus.png</image>
-		<video>./snap/Silverball.mp4</video>
-		<marquee>./wheel/Silverball 2 Plus.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>MicroLeague Multimedia</publisher>
-	</game>
-	<game>
 		<path>./Spear of Destiny.pc</path>
 		<name>Wolfenstein 3D: Spear of Destiny</name>
 		<desc>It's World War II and you are B.J. Blazkowicz, the Allies' most valuable agent. In the midst of the German Blitzkrieg, the Spear that pierced the side of Christ is taken from Versailles by the Nazis and secured in the impregnable Castle Wolfenstein. According to legend, no man can be defeated when he has the Spear. Hitler believes himself to be invincible with the power of the Spear as his brutal army sweeps across Europe.Your mission is to infiltrate the heavily guarded Nazi stronghold and recapture the Spear from an already unbalanced Hitler. The loss of his most coveted weapon could push him over the edge. It could also get you ripped to pieces.Spear of Destiny is a prequel to Wolfenstein 3-D. It is a first-person shooter that uses the same engine and has the same gameplay, however the game is not divided into 6 separate episodes - all the levels are one long episode. The enemies and weapons are pretty much the same as in Wolfenstein 3-D. Only new additions include: new bosses, a new type of enemy, and a new pickup (a large box of ammo).</desc>
@@ -7071,5 +7057,19 @@ In an epic adventure that will propel him across the galaxy, Twinsen must defeat
 		<publisher>Electronic Arts</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Silverball 2 Plus.pc</path>
+		<name>Silverball</name>
+		<desc>Silverball is basically a commercially published version of the game Epic Pinball.  The game engine is nearly the same, only the tables themselves are different.  It comes with four tables: Fantasy, Blood, Snooker Champ, and Odyssey.  Some distributions (Silverball Plus 2) include two extra tables, Warbot and Duel, which are more or less the same as the Excalibur and Magic tables from Epic Pinball with some different art and music.  Finally, a seventh table, Nova, may or may not be a part of the game - see Trivia for details.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Silverball 2 Plus.png</image>
+		<video>./snap/Silverball.mp4</video>
+		<marquee>./wheel/Silverball 2 Plus.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>MicroLeague Multimedia</publisher>
 	</game>
 </gameList>
