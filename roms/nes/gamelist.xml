@@ -15595,22 +15595,6 @@ Your ship is equipped with both a standard laser and an independently fired grou
 		<cheevosId>1985</cheevosId>
 	</game>
 	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
-	</game>
-	<game>
 		<path>./#nes-hd/25th Anniversary Super Mario Bros. (Europe) (Promo, Virtual Console) HD.7z</path>
 		<name>Super Mario Bros. 25th Anniversary HD</name>
 		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
@@ -15669,23 +15653,6 @@ The first of the Bomberman series. Bomberman is a single player game with a top 
 		<cheevosId>4568</cheevosId>
 	</game>
 	<game>
-		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
-		<name>Donkey Kong HD</name>
-		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
-		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
-		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
-	</game>
-	<game>
 		<path>./#nes-hd/Donkey Kong Jr. (Japan) HD.7z</path>
 		<name>Donkey Kong Jr. HD</name>
 		<desc>Mario has kidnapped Junior's Papa!
@@ -15712,24 +15679,6 @@ Like the original Donkey Kong, the earlier 1980's console versions do not have a
 		<region>jp</region>
 		<cheevosHash>7FE7719330F5A50D4E0F4995CE5649D3</cheevosHash>
 		<cheevosId>1465</cheevosId>
-	</game>
-	<game>
-		<path>./#nes-hd/Ice Climber (USA, Europe) HD.7z</path>
-		<name>Ice Climber HD</name>
-		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
-		<image>./mixart/Ice Climber (USA, Europe).png</image>
-		<video>./#nes-hd/snap/Ice Climber (USA, Europe).mp4</video>
-		<marquee>./wheel/Ice Climber (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19851001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>C9C94DF2EBB19BD6D717B2CFBF977574</cheevosHash>
-		<cheevosId>1743</cheevosId>
 	</game>
 	<game>
 		<path>./#nes-hd/Kung Fu (Japan, USA) HD.7z</path>
@@ -15925,26 +15874,6 @@ Each level includes a bonus section filled with coins plus a shortcut through th
 		<region>wr</region>
 		<cheevosHash>8E3630186E35D477231BF8FD50E54CDD</cheevosHash>
 		<cheevosId>1446</cheevosId>
-	</game>
-	<game>
-		<path>./#nes-hd/TwinBee (Japan) HD.7z</path>
-		<name>TwinBee HD</name>
-		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
-
-The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
-		<image>./#nes-hd/mixart/TwinBee (Japan).png</image>
-		<video>./#nes-hd/snap/TwinBee (Japan).mp4</video>
-		<marquee>./#nes-hd/wheel/TwinBee (Japan).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>22FB493A8E19550A82B593982F8DB840</cheevosHash>
-		<cheevosId>4804</cheevosId>
 	</game>
 	<game id="1726" source="ScreenScraper.fr">
 		<path>./720 Degrees (USA).zip</path>
@@ -22242,24 +22171,6 @@ The fighting is a little more in-depth than hack and slash.  You can either figh
 		<region>eu</region>
 		<cheevosHash>C9C94DF2EBB19BD6D717B2CFBF977574</cheevosHash>
 		<cheevosId>1743</cheevosId>
-	</game>
-	<game>
-		<path>./Ice Hockey (USA).zip</path>
-		<name>Ice Hockey</name>
-		<desc>Ice Hockey is an action game for one or two players. Start of by selecting a team and customizing your players. Each team member can be one of three player types: small and skinny (very fast, but not good at checking or shooting), very large (slow, but with a strong body check and outstanding shooting strength) or average (medium speed, with average checking and shooting strength). After the teams are set up, it's time to play some ice hockey! Gameplay features a scrolling screen to follow the action, and lets you choose which of the players you wish to control when on defense (on offense you always control the player with the puck). Fights can break out between players, and the loser may end up in the penalty box. There are five different speed settings for the game, and periods can be either 7, 10, or 15 minutes long.</desc>
-		<image>./mixart/Ice Hockey (USA).png</image>
-		<video>./snap/Ice Hockey (USA).mp4</video>
-		<marquee>./wheel/Ice Hockey (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880302T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>51BE3C0DB685F71F4A69C573345310A2</cheevosHash>
-		<cheevosId>1744</cheevosId>
 	</game>
 	<game id="1694" source="ScreenScraper.fr">
 		<path>./Ikari III - The Rescue (USA).zip</path>
@@ -30596,5 +30507,94 @@ The Game Boy version of "Double Dragon II" is an English localization of a "Kuni
 		<region>us</region>
 		<cheevosHash>B2F092F2CBB17456109A4DF0468FCDD5</cheevosHash>
 		<cheevosId>1661</cheevosId>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
+	</game>
+	<game>
+		<path>./#nes-hd/Ice Climber (USA, Europe) HD.7z</path>
+		<name>Ice Climber HD</name>
+		<desc>In Ice Climber one or two players need to climb their way to the top of 32 different mountains. Each mountain is broken up into eight levels of platforms along with a bonus stage at the top. Attempting to stop you from making upward progress are different creatures ranging from polar bears to condors as well as treacherous landscapes with falling icicles, moving platforms, and icy floors. To help out, your only weapon is a mallet which can be used to knock out enemies as well as bust away bricks in the platforms to give you some room to jump up to the next level. When you finally reach the top, it's time to move on to the next, more difficult level.</desc>
+		<image>./mixart/Ice Climber (USA, Europe).png</image>
+		<video>./#nes-hd/snap/Ice Climber (USA, Europe).mp4</video>
+		<marquee>./wheel/Ice Climber (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19851001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>C9C94DF2EBB19BD6D717B2CFBF977574</cheevosHash>
+		<cheevosId>1743</cheevosId>
+	</game>
+	<game>
+		<path>./#nes-hd/TwinBee (Japan) HD.7z</path>
+		<name>TwinBee HD</name>
+		<desc>This is mostly the parody of Gradius (Nemesis on some systems), with some flavor from other shoot-em-ups, like Twinbee. The series is available on numerous platforms.
+
+The game is a right-to-left scrolling shoot-em-up. You can choose from 4 different flying creatures, with different weapons. You must finish 7 stages, each having a boss at the end. You may start at either one, but must complete every level to advance to the final stage.</desc>
+		<image>./#nes-hd/mixart/TwinBee (Japan).png</image>
+		<video>./#nes-hd/snap/TwinBee (Japan).mp4</video>
+		<marquee>./#nes-hd/wheel/TwinBee (Japan).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>22FB493A8E19550A82B593982F8DB840</cheevosHash>
+		<cheevosId>4804</cheevosId>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
+	</game>
+	<game>
+		<path>./Ice Hockey (USA).zip</path>
+		<name>Ice Hockey</name>
+		<desc>Ice Hockey is an action game for one or two players. Start of by selecting a team and customizing your players. Each team member can be one of three player types: small and skinny (very fast, but not good at checking or shooting), very large (slow, but with a strong body check and outstanding shooting strength) or average (medium speed, with average checking and shooting strength). After the teams are set up, it's time to play some ice hockey! Gameplay features a scrolling screen to follow the action, and lets you choose which of the players you wish to control when on defense (on offense you always control the player with the puck). Fights can break out between players, and the loser may end up in the penalty box. There are five different speed settings for the game, and periods can be either 7, 10, or 15 minutes long.</desc>
+		<image>./mixart/Ice Hockey (USA).png</image>
+		<video>./snap/Ice Hockey (USA).mp4</video>
+		<marquee>./wheel/Ice Hockey (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880302T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>51BE3C0DB685F71F4A69C573345310A2</cheevosHash>
+		<cheevosId>1744</cheevosId>
 	</game>
 </gameList>

@@ -22,23 +22,6 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game source="ScreenScraper.fr">
-		<path>./Tetris Evolution.m3u</path>
-		<name>Tetris Evolution</name>
-		<desc>In Tetris Evolution, players enjoy not only traditional Tetris gameplay but numerous new modes including "Go Low" and "Eraser" for both single and multiplayer. The multiplayer mode not only allows for up to four players on a single console, but players can now compete with up to four players via the Xbox Live online entertainment service.</desc>
-		<image>./mixart/Tetris Evolution.png</image>
-		<marquee>./wheel/Tetris Evolution.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>20070319T000000</releasedate>
-		<developer>Mass Media, Inc.</developer>
-		<publisher>THQ</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>7fe88ddc05a08875e243ccdc1a69ee6c</md5>
-		<lang>en</lang>
-		<genreid>2816</genreid>
-	</game>
 	<game id="17559" source="ScreenScraper.fr">
 		<path>./Battlezone.m3u</path>
 		<name>Battlezone</name>
@@ -173,22 +156,6 @@ In Comic Jumper players control Captain Smiley, a comic book hero whose comics a
 		<genreid>1537</genreid>
 	</game>
 	<game source="ScreenScraper.fr">
-		<path>./Onechanbara Bikini Samurai Squad.m3u</path>
-		<name>Onechanbara: Bikini Samurai Squad</name>
-		<desc>In Onechanbaraâ"¢: Bikini Samurai Squadâ"¢, Aya, a descendent of the family known as Imichi, meaning blood that goes out of control, reconciles with her sister Saki and live together in peace for awhile. The peace doesn't last for long as an infestation of zombies has plagued the city. The sisters join together to draw their swords and rid the city of evil.
-Play with a friend in co-op mode or switch between any of the three beautiful playable characters in single-player. Each character has a variety of unique moves to master during combat to destroy enemy zombies. Get blood on either sister to trigger Rage Mode and gain more power and agility to destroy enemies faster and deadlier. For an added experience, go to Marketplace to download additional outfits and sword-flinging girls.</desc>
-		<image>./mixart/Onechanbara.png</image>
-		<marquee>./wheel/Onechanbara.png</marquee>
-		<releasedate>20090210T000000</releasedate>
-		<developer>Tamsoft Corporation</developer>
-		<publisher>D3 Publisher Inc.</publisher>
-		<genre>Action, Adventure, Role-Playing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>dac577a29c98a17b11c7804675b4fb76</md5>
-		<lang>en</lang>
-	</game>
-	<game source="ScreenScraper.fr">
 		<path>./Perfect Dark.m3u</path>
 		<name>Perfect Dark</name>
 		<desc>Perfect Dark (also known as Perfect Dark Arcade or Perfect Dark XBLA) is an Xbox Live Arcade video game developed by 4J Studios, published by Microsoft Game Studios, and exclusively released for the Xbox 360 on March 17, 2010. It is a remake of the Nintendo 64 first-person shooter Perfect Dark, developed by Rare and released in 2000. The player controls Joanna Dark, an operative for the fictional Carrington Institute, as she attempts to stop a conspiracy by rival corporation dataDyne. Things become complicated rapidly as she finds herself in the middle of a war between two alien races who have allied themselves with different factions on Earth.</desc>
@@ -283,5 +250,38 @@ Play with a friend in co-op mode or switch between any of the three beautiful pl
 		<players>4</players>
 		<md5>1f765c375e805bb92b99329210346332</md5>
 		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Onechanbara Bikini Samurai Squad.m3u</path>
+		<name>Onechanbara: Bikini Samurai Squad</name>
+		<desc>In Onechanbaraâ"¢: Bikini Samurai Squadâ"¢, Aya, a descendent of the family known as Imichi, meaning blood that goes out of control, reconciles with her sister Saki and live together in peace for awhile. The peace doesn't last for long as an infestation of zombies has plagued the city. The sisters join together to draw their swords and rid the city of evil.
+Play with a friend in co-op mode or switch between any of the three beautiful playable characters in single-player. Each character has a variety of unique moves to master during combat to destroy enemy zombies. Get blood on either sister to trigger Rage Mode and gain more power and agility to destroy enemies faster and deadlier. For an added experience, go to Marketplace to download additional outfits and sword-flinging girls.</desc>
+		<image>./mixart/Onechanbara.png</image>
+		<marquee>./wheel/Onechanbara.png</marquee>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Tamsoft Corporation</developer>
+		<publisher>D3 Publisher Inc.</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>dac577a29c98a17b11c7804675b4fb76</md5>
+		<lang>en</lang>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./Tetris Evolution.m3u</path>
+		<name>Tetris Evolution</name>
+		<desc>In Tetris Evolution, players enjoy not only traditional Tetris gameplay but numerous new modes including "Go Low" and "Eraser" for both single and multiplayer. The multiplayer mode not only allows for up to four players on a single console, but players can now compete with up to four players via the Xbox Live online entertainment service.</desc>
+		<image>./mixart/Tetris Evolution.png</image>
+		<marquee>./wheel/Tetris Evolution.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>20070319T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>THQ</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>7fe88ddc05a08875e243ccdc1a69ee6c</md5>
+		<lang>en</lang>
+		<genreid>2816</genreid>
 	</game>
 </gameList>

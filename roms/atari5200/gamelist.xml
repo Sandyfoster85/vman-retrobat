@@ -168,7 +168,7 @@ A player winning 10 consecutive points automatically wins the game.</desc>
 		<video>./snap/Black Belt (USA) (Proto).mp4</video>
 		<marquee>./wheel/Black Belt (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<players>1</players>
@@ -187,60 +187,13 @@ An unofficial sequel to Robotron 2084 (As it takes place in 2085) Blaster is a 3
 		<video>./snap/Blaster (USA) (Proto).mp4</video>
 		<marquee>./wheel/Blaster (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Viz Kidz</developer>
 		<publisher>Williams</publisher>
 		<players>1</players>
 		<crc32>C8F9C094</crc32>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="37922" source="ScreenScraper.fr">
-		<path>./Blue Print (USA).zip</path>
-		<name>Blue Print</name>
-		<desc>Your girlfriend Daisy is in trouble! Ollie Org is chasing her across the top of the screen, and you need to come to the rescue. To stop Ollie before time runs out, you need to construct a machine. The blue print for the machine is at the bottom of the screen, so all you need to do is locate the parts which are hidden in the numerous houses in a maze like town. When you locate a part, drag it back and place it on the blue print. When all parts have been located, press the start button and the machine is ready to go! To make your task more difficult, there are several obstacles that get in the way. If you enter a house which doesn't contain a part, you will instead be stuck with a bomb. You will need to hurry and diffuse any bombs in the bomb pit before they explode! From time to time, a flower pot will fall from above and then hop off the screen. Get hit by a flower pot, and you lose a life. You also need to be careful of Fuzzy Wuzzy, who wanders around the neighborhood randomly. An encounter with Fuzzy Wuzzy will also be deadly! Hiding in the bomb pit is Sneaky Pete; while he isn't deadly, he will occasionally appear and press the start button before your machine is complete. If this happens, you will need to drag Pete back to the bomb pit and reassemble all of the machine parts.</desc>
-		<image>./mixart/Blue Print (USA).png</image>
-		<video>./snap/Blue Print (USA).mp4</video>
-		<marquee>./wheel/Blue Print (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>CBS Electronics</publisher>
-		<players>2</players>
-		<crc32>0624E6E7</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="37924" source="ScreenScraper.fr">
-		<path>./Bounty Bob Strikes Back! (USA).zip</path>
-		<name>Bounty Bob Strikes Back!</name>
-		<desc>Bounty Bob Strikes Back! is the sequel to Miner 2049er and features similar gameplay. As Bounty Bob, your goal is to claim every inch of 25 challenging mines. To do this, you must walk over each segment of the framework in the mines. To reach each segment of framework, you will need to figure out a way to jump, climb, or use one of the many devices occasionally available to get there. To you help you get around (or sometimes hinder progress) are ladders, slides, suction tubes, cannons, transporters, and other devices. Wandering about the mines are many dangerous mutants. If you come in contact with one of these, you will lose a life. Scattered throughout each mine are special food items; collect one of these, and you will temporarily be able to eliminate the mutants by walking into them. You will need to figure out a unique strategy for each level in order to complete it, plus there is a time limit so claim all the territory quickly!</desc>
-		<image>./mixart/Bounty Bob Strikes Back! (USA).png</image>
-		<video>./snap/Bounty Bob Strikes Back! (USA).mp4</video>
-		<marquee>./wheel/Bounty Bob Strikes Back! (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Big Five Software</developer>
-		<publisher>Big Five Software</publisher>
-		<players>2</players>
-		<crc32>7873C6DD</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="37926" source="ScreenScraper.fr">
-		<path>./Buck Rogers - Planet of Zoom (USA).zip</path>
-		<name>Buck Rogers : Planet of Zoom</name>
-		<desc>Fast and furious racing game taking place on a futuristic racetrack.  Guide your spaceship between the pylons and shoot down other enemy racers.
-
-Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).</desc>
-		<image>./mixart/Buck Rogers - Planet of Zoom (USA).png</image>
-		<video>./snap/Buck Rogers - Planet of Zoom (USA).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet of Zoom (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<players>1</players>
-		<crc32>04807705</crc32>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game id="37978" source="ScreenScraper.fr">
@@ -276,7 +229,7 @@ Your joystick moves you left or right. The lower button fires VTMs, the upper bu
 		<video>./snap/Castle Blast (USA) (Unl).mp4</video>
 		<marquee>./wheel/Castle Blast (USA) (Unl).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Ronen Habot</developer>
 		<publisher>Self-Published</publisher>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
@@ -289,7 +242,7 @@ Your joystick moves you left or right. The lower button fires VTMs, the upper bu
 		<video>./snap/Castle Crisis (USA) (Unl).mp4</video>
 		<marquee>./wheel/Castle Crisis (USA) (Unl).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>AtariAge</publisher>
 		<players>4</players>
 		<crc32>D50E4061</crc32>
@@ -477,7 +430,7 @@ The Atari 5200 version of this game was never released but is however mostly ide
 		<video>./snap/Final Legacy (USA) (Proto).mp4</video>
 		<marquee>./wheel/Final Legacy (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<players>1</players>
@@ -762,7 +715,7 @@ You, as Koffi, must gather water from the raindrops or snowflakes and destroy Py
 		<video>./snap/Koffi - Yellow Kopter (USA) (Unl).mp4</video>
 		<marquee>./wheel/Koffi - Yellow Kopter (USA) (Unl).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>2002</publisher>
 		<players>1</players>
 		<crc32>917BE656</crc32>
@@ -1650,6 +1603,59 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<publisher>Activision</publisher>
 		<players>2</players>
 		<crc32>2959D827</crc32>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="37922" source="ScreenScraper.fr">
+		<path>./Blue Print (USA).zip</path>
+		<name>Blue Print</name>
+		<desc>Your girlfriend Daisy is in trouble! Ollie Org is chasing her across the top of the screen, and you need to come to the rescue. To stop Ollie before time runs out, you need to construct a machine. The blue print for the machine is at the bottom of the screen, so all you need to do is locate the parts which are hidden in the numerous houses in a maze like town. When you locate a part, drag it back and place it on the blue print. When all parts have been located, press the start button and the machine is ready to go! To make your task more difficult, there are several obstacles that get in the way. If you enter a house which doesn't contain a part, you will instead be stuck with a bomb. You will need to hurry and diffuse any bombs in the bomb pit before they explode! From time to time, a flower pot will fall from above and then hop off the screen. Get hit by a flower pot, and you lose a life. You also need to be careful of Fuzzy Wuzzy, who wanders around the neighborhood randomly. An encounter with Fuzzy Wuzzy will also be deadly! Hiding in the bomb pit is Sneaky Pete; while he isn't deadly, he will occasionally appear and press the start button before your machine is complete. If this happens, you will need to drag Pete back to the bomb pit and reassemble all of the machine parts.</desc>
+		<image>./mixart/Blue Print (USA).png</image>
+		<video>./snap/Blue Print (USA).mp4</video>
+		<marquee>./wheel/Blue Print (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>CBS Electronics</publisher>
+		<players>2</players>
+		<crc32>0624E6E7</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="37924" source="ScreenScraper.fr">
+		<path>./Bounty Bob Strikes Back! (USA).zip</path>
+		<name>Bounty Bob Strikes Back!</name>
+		<desc>Bounty Bob Strikes Back! is the sequel to Miner 2049er and features similar gameplay. As Bounty Bob, your goal is to claim every inch of 25 challenging mines. To do this, you must walk over each segment of the framework in the mines. To reach each segment of framework, you will need to figure out a way to jump, climb, or use one of the many devices occasionally available to get there. To you help you get around (or sometimes hinder progress) are ladders, slides, suction tubes, cannons, transporters, and other devices. Wandering about the mines are many dangerous mutants. If you come in contact with one of these, you will lose a life. Scattered throughout each mine are special food items; collect one of these, and you will temporarily be able to eliminate the mutants by walking into them. You will need to figure out a unique strategy for each level in order to complete it, plus there is a time limit so claim all the territory quickly!</desc>
+		<image>./mixart/Bounty Bob Strikes Back! (USA).png</image>
+		<video>./snap/Bounty Bob Strikes Back! (USA).mp4</video>
+		<marquee>./wheel/Bounty Bob Strikes Back! (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Big Five Software</developer>
+		<publisher>Big Five Software</publisher>
+		<players>2</players>
+		<crc32>7873C6DD</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="37926" source="ScreenScraper.fr">
+		<path>./Buck Rogers - Planet of Zoom (USA).zip</path>
+		<name>Buck Rogers : Planet of Zoom</name>
+		<desc>Fast and furious racing game taking place on a futuristic racetrack.  Guide your spaceship between the pylons and shoot down other enemy racers.
+
+Based on the arcade game (which is even more loosely based on the Buck Rogers comic strips).</desc>
+		<image>./mixart/Buck Rogers - Planet of Zoom (USA).png</image>
+		<video>./snap/Buck Rogers - Planet of Zoom (USA).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet of Zoom (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<players>1</players>
+		<crc32>04807705</crc32>
+		<lang>en</lang>
+		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

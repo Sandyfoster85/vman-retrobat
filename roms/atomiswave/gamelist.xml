@@ -282,18 +282,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./atvtrack.zip</path>
-		<name>Atv Track (set 1)</name>
-		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
-		<image>./mixart/atvtrack.png</image>
-		<video>./snap/atvtrack.mp4</video>
-		<marquee>./wheel/atvtrack.png</marquee>
-		<rating>0</rating>
-		<releasedate>20020101T000000</releasedate>
-		<publisher>Gaelco</publisher>
-		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
-	</game>
-	<game>
 		<path>./kofxi.zip</path>
 		<name>The King of Fighters XI</name>
 		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
@@ -338,19 +326,6 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./ngbc.zip</path>
-		<name>Neo-geo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./mixart/ngbc.png</image>
-		<video>./snap/ngbc.mp4</video>
-		<marquee>./wheel/ngbc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./dolphin.zip</path>
@@ -407,5 +382,32 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./atvtrack.zip</path>
+		<name>Atv Track (set 1)</name>
+		<desc>A four-wheel motorcycle racing simulator with four different circuits and two selectable modes : Practice and Competition.</desc>
+		<image>./mixart/atvtrack.png</image>
+		<video>./snap/atvtrack.mp4</video>
+		<marquee>./wheel/atvtrack.png</marquee>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<publisher>Gaelco</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -49,39 +49,6 @@ Your mission is to navigate through the narrow and fast-moving passages of the f
 		<cheevosHash>F79C596A0205C5E7C427CDBBB1E16918</cheevosHash>
 	</game>
 	<game>
-		<path>./Armor..Attack (World).zip</path>
-		<name>Armor Attack</name>
-		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.</desc>
-		<image>./mixart/Armor..Attack (World).png</image>
-		<video>./snap/Armor..Attack (World).mp4</video>
-		<marquee>./wheel/Armor..Attack (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Cinematronics</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<cheevosHash>9657037A461EEE919462EB6A01879685</cheevosHash>
-	</game>
-	<game>
-		<path>./Bedlam (USA, Europe).zip</path>
-		<name>Bedlam</name>
-		<desc>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
-You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
-
-The future of the galaxy rests on your shoulders. Good luck!</desc>
-		<image>./mixart/Bedlam (USA, Europe).png</image>
-		<video>./snap/Bedlam (USA, Europe).mp4</video>
-		<marquee>./wheel/Bedlam (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>Milton Bradley</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
-	</game>
-	<game>
 		<path>./Berzerk (World).zip</path>
 		<name>Berzerk</name>
 		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
@@ -412,5 +379,42 @@ Do you possess the skill, dexterity and courage to pull out from the crowd for q
 		<publisher>GCE</publisher>
 		<genre>Race, Driving</genre>
 		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
+	</game>
+	<game>
+		<path>./Armor..Attack (World).zip</path>
+		<name>Armor Attack</name>
+		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.</desc>
+		<image>./mixart/Armor..Attack (World).png</image>
+		<video>./snap/Armor..Attack (World).mp4</video>
+		<marquee>./wheel/Armor..Attack (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Cinematronics</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9657037A461EEE919462EB6A01879685</cheevosHash>
+	</game>
+	<game>
+		<path>./Bedlam (USA, Europe).zip</path>
+		<name>Bedlam</name>
+		<desc>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
+You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
+
+The future of the galaxy rests on your shoulders. Good luck!</desc>
+		<image>./mixart/Bedlam (USA, Europe).png</image>
+		<video>./snap/Bedlam (USA, Europe).mp4</video>
+		<marquee>./wheel/Bedlam (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
 	</game>
 </gameList>

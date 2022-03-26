@@ -3120,28 +3120,6 @@ Up to four players can play simultaneously.  When playing together, as long as o
 		<region>eu</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="10305">
-		<path>./Alien Crush Returns (USA) (WiiWare).wad</path>
-		<name>Alien Crush Returns</name>
-		<desc>Sci-Fi Pinball Action! Defeat an alien army and go online to compete for a high score!
-
-
-
-Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinball classic, Alien Crush. Boasting innovative game play and control features, this is one Wii experience that you don t want to miss! With all the ball-blazing simplicity and flipper-action thrills of standard pinball, Alien Crush Returns has all the visual and digital elements that you ve come to expect in a video game, including grotesque, eye-stunning playfields as well as unique Action Ball gimmicks that redefine the fun and excitement of pinball. You can even nudge the machine with your Wii Remote controller. What s more, you can connect via Nintendo Wi-Fi Connection to enjoy a variety of features, such as four-player head-to-head action, high-score competitions, and Extra Stage downloads.</desc>
-		<image>./mixart/Alien Crush Returns (USA) (WiiWare).png</image>
-		<video>./snap/Alien Crush Returns (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Alien Crush Returns (USA) (WiiWare).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20081107T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Pinball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>26856a830782bcba2faba2f19f15116f</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="10100">
 		<path>./Monster 4x4 - Stunt Racer (USA) (En,Fr,Es).rvz</path>
 		<name>Monster 4x4 : Stunt Racer</name>
@@ -3294,5 +3272,27 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game id="10305">
+		<path>./Alien Crush Returns (USA) (WiiWare).wad</path>
+		<name>Alien Crush Returns</name>
+		<desc>Sci-Fi Pinball Action! Defeat an alien army and go online to compete for a high score!
+
+
+
+Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinball classic, Alien Crush. Boasting innovative game play and control features, this is one Wii experience that you don t want to miss! With all the ball-blazing simplicity and flipper-action thrills of standard pinball, Alien Crush Returns has all the visual and digital elements that you ve come to expect in a video game, including grotesque, eye-stunning playfields as well as unique Action Ball gimmicks that redefine the fun and excitement of pinball. You can even nudge the machine with your Wii Remote controller. What s more, you can connect via Nintendo Wi-Fi Connection to enjoy a variety of features, such as four-player head-to-head action, high-score competitions, and Extra Stage downloads.</desc>
+		<image>./mixart/Alien Crush Returns (USA) (WiiWare).png</image>
+		<video>./snap/Alien Crush Returns (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Alien Crush Returns (USA) (WiiWare).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20081107T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Pinball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>26856a830782bcba2faba2f19f15116f</md5>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

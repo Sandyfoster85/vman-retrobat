@@ -22,23 +22,6 @@
 		<region>us</region>
 		<path>./desert.zip</path>
 	</game>
-	<game>
-		<path>./hotd.zip</path>
-		<name>House of the Dead</name>
-		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
-		<image>./mixart/hotd.png</image>
-		<video>./snap/hotd.mp4</video>
-		<marquee>./wheel/hotd.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<path>./hotd.zip</path>
-	</game>
 	<game id="37483" source="ScreenScraper.fr">
 		<path>./sgt24h.zip</path>
 		<name>Super GT 24h</name>
@@ -433,22 +416,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37492" source="ScreenScraper.fr">
-		<path>./topskatr.zip</path>
-		<name>Top Skater</name>
-		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
-		<image>./mixart/topskatr.png</image>
-		<video>./snap/topskatr.mp4</video>
-		<marquee>./wheel/topskatr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports / Skateboard-Sports</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<genreid>1538</genreid>
-	</game>
 	<game id="37480" source="ScreenScraper.fr">
 		<path>./schamp.zip</path>
 		<name>Sonic Championship</name>
@@ -510,5 +477,39 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./hotd.zip</path>
+		<name>House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
+		<image>./mixart/hotd.png</image>
+		<video>./snap/hotd.mp4</video>
+		<marquee>./wheel/hotd.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37492" source="ScreenScraper.fr">
+		<path>./topskatr.zip</path>
+		<name>Top Skater</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<image>./mixart/topskatr.png</image>
+		<video>./snap/topskatr.mp4</video>
+		<marquee>./wheel/topskatr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1538</genreid>
 	</game>
 </gameList>

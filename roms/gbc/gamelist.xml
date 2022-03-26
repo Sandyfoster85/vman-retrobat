@@ -23,36 +23,6 @@ Disney's 102 Dalmatians: Puppies to the Rescue on the Game Boy Color is a 2D, si
 		<players>1</players>
 		<cheevosHash>2B7E2442D503CE368FC93A9EBF0F70EF</cheevosHash>
 	</game>
-	<game id="3610" source="ScreenScraper.fr">
-		<path>./3-D Ultra Pinball - Thrillride (USA).7z</path>
-		<name>3-D Ultra Pinball : Thrillride</name>
-		<desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don?t bump too hard or you?ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
-		<image>./mixart/3-D Ultra Pinball - Thrillride (USA).png</image>
-		<video>./snap/3-D Ultra Pinball - Thrillride (USA).mp4</video>
-		<marquee>./wheel/3-D Ultra Pinball - Thrillride (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010202T000000</releasedate>
-		<developer>Left Field Productions</developer>
-		<publisher>Sierra</publisher>
-		<genre>Pinball</genre>
-		<players>2-4</players>
-		<cheevosHash>B9CF8D2416F8A6DD3B412AFD91337F40</cheevosHash>
-	</game>
-	<game id="46337" source="ScreenScraper.fr">
-		<path>./3D Pocket Pool (Europe).7z</path>
-		<name>3D Pocket Pool</name>
-		<desc>3D Pocket Pool consists of various rule sets, all variations of typical billiards games. 3D Pocket Pool uses various monster like characters instead of normal human characters. In 3D Pocket Pool there are four different modes of play: Practice, Tournament, Two-Player and Killer</desc>
-		<image>./mixart/3D Pocket Pool (Europe).png</image>
-		<video>./snap/3D Pocket Pool (Europe).mp4</video>
-		<marquee>./wheel/3D Pocket Pool (Europe).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20010330T000000</releasedate>
-		<developer>Aardvark Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Sports / Pool-Sports</genre>
-		<players>2</players>
-		<cheevosHash>429E6DA4B32D8CAA22E78D92C0FEBD12</cheevosHash>
-	</game>
 	<game id="36848" source="ScreenScraper.fr">
 		<path>./720 Degrees (USA, Europe).7z</path>
 		<name>720 Degrees</name>
@@ -8503,5 +8473,39 @@ The game is similar in style and gameplay to early Metal Gear games. It is viewe
 		<region>us</region>
 		<cheevosHash>F6DD1B1E5747412B9E5F25376C972D5A</cheevosHash>
 		<cheevosId>520</cheevosId>
+	</game>
+	<game id="3610" source="ScreenScraper.fr">
+		<path>./3-D Ultra Pinball - Thrillride (USA).7z</path>
+		<name>3-D Ultra Pinball : Thrillride</name>
+		<desc>All the bells, whistles, and sirens of the pinball games of yesteryear come to the portable system with 3D ULTRA PINBALL: Thrill Ride. This colorful title takes all the fast action of pinball and combines it with features that only a videogame can provide. The full-sized table features multiple screens of action, with all of the staples of pinball intact. Bumpers, ramps, stoppers, and flippers litter the table, along with a variety of special bonus chutes that will take you to one of several special pinball challenges. 3D ULTRA PINBALL is highlighted by brightly colored graphics, with excellent detail on the board and its various parts. The game also features realistic ball physics and gameplay elements, so don?t bump too hard or you?ll get a "TILT"! 3D ULTRA PINBALL: Thrill Ride will test your skills and push your reflexes to their limits.</desc>
+		<image>./mixart/3-D Ultra Pinball - Thrillride (USA).png</image>
+		<video>./snap/3-D Ultra Pinball - Thrillride (USA).mp4</video>
+		<marquee>./wheel/3-D Ultra Pinball - Thrillride (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010202T000000</releasedate>
+		<developer>Left Field Productions</developer>
+		<publisher>Sierra</publisher>
+		<genre>Pinball</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B9CF8D2416F8A6DD3B412AFD91337F40</cheevosHash>
+	</game>
+	<game id="46337" source="ScreenScraper.fr">
+		<path>./3D Pocket Pool (Europe).7z</path>
+		<name>3D Pocket Pool</name>
+		<desc>3D Pocket Pool consists of various rule sets, all variations of typical billiards games. 3D Pocket Pool uses various monster like characters instead of normal human characters. In 3D Pocket Pool there are four different modes of play: Practice, Tournament, Two-Player and Killer</desc>
+		<image>./mixart/3D Pocket Pool (Europe).png</image>
+		<video>./snap/3D Pocket Pool (Europe).mp4</video>
+		<marquee>./wheel/3D Pocket Pool (Europe).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20010330T000000</releasedate>
+		<developer>Aardvark Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Sports / Pool-Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>429E6DA4B32D8CAA22E78D92C0FEBD12</cheevosHash>
 	</game>
 </gameList>

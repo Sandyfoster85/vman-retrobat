@@ -1269,22 +1269,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Masters of the Universe 1_0b.vpx</path>
-		<name>Masters of the Universe 1_0b</name>
-		<desc>Flipper Masters of the Universe 1_0b</desc>
-		<image>./mixart/Masters of the Universe 1_0b.jpg</image>
-		<video>./snap/Masters of the Universe 1_0b.mp4</video>
-		<marquee>./wheel/Masters of the Universe 1_0b.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Diablo Pinball v1.0.3-DOF.vpx</path>
 		<name>Diablo Pinball v1.0.3-DOF</name>
 		<desc>Flipper Diablo Pinball v1.0.3-DOF</desc>
@@ -1494,22 +1478,6 @@
 		<image>./mixart/Sorcerer (Williams 1985).png</image>
 		<video>./snap/Sorcerer (Williams 1985).mp4</video>
 		<marquee>./wheel/Sorcerer (Williams 1985).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Back To The Future 1.4 PF Mod.vpx</path>
-		<name>Back To The Future 1.4 PF Mod</name>
-		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
-		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
-		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
-		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -2962,21 +2930,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx</path>
-		<name>Teenage Mutant Ninja Turtles (Data East ) 1.1</name>
-		<desc>Flipper Teenage Mutant Ninja Turtles (Data East ) 1.1</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles (Data East ) 1.1.jpg</image>
-		<video>./snap/Teenage Mutant Ninja Turtles (Data East ) 1.1.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles (Data East ) 1.1.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Terminator 1 (TBA 2019).vpx</path>
 		<name>Terminator 1 (TBA 2019)</name>
 		<desc>Flipper Terminator 1 (TBA 2019)</desc>
@@ -3381,6 +3334,101 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Full Metal Jacket.vpx</path>
+		<name>Full Metal Jacket</name>
+		<desc>Flipper Full Metal Jacket</desc>
+		<image>./mixart/Full Metal Jacket.png</image>
+		<video>./snap/Full Metal Jacket.mp4</video>
+		<marquee>./wheel/Full Metal Jacket.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Back To The Future 1.4 PF Mod.vpx</path>
+		<name>Back To The Future 1.4 PF Mod</name>
+		<desc>Flipper Back To The Future 1.4 PF Mod</desc>
+		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
+		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
+		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Vector (Bally 1981).vpx</path>
+		<name>Vector</name>
+		<desc>Flipper Vector (Bally 1981)</desc>
+		<image>./mixart/Vector (Bally 1981).png</image>
+		<video>./snap/Vector (Bally 1981).mp4</video>
+		<marquee>./wheel/Vector (Bally 1981).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wild wild west.vpx</path>
+		<name>Wild Wild West</name>
+		<desc>Flipper The Wild Wild West</desc>
+		<image>./mixart/Wild wild west.png</image>
+		<video>./snap/Wild wild west.mp4</video>
+		<marquee>./wheel/Wild wild west.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx</path>
+		<name>Teenage Mutant Ninja Turtles (Data East 1991) 1.2</name>
+		<desc>Flipper Teenage Mutant Ninja Turtles (Data East 1991) 1.2</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles (Data East ) 1.1.jpg</image>
+		<video>./snap/Teenage Mutant Ninja Turtles (Data East ) 1.1.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles (Data East ) 1.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe 1_0b.vpx</path>
+		<name>Masters of the Universe 1_0b</name>
+		<desc>Flipper Masters of the Universe 1_0b</desc>
+		<image>./mixart/Masters of the Universe 1_0b.jpg</image>
+		<video>./snap/Masters of the Universe 1_0b.mp4</video>
+		<marquee>./wheel/Masters of the Universe 1_0b.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

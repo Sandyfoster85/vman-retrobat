@@ -1811,17 +1811,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Knight Rider Phys 2_5.fpt</path>
-		<name>Knight Rider Phys 2_5</name>
-		<desc>Flipper Knight Rider</desc>
-		<image>./mixart/Knight Rider Phys 2_5.png</image>
-		<video>./snap/Knight Rider Phys 2_5.mp4</video>
-		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Medieval Castle 1.0.fpt</path>
 		<name>Medieval Castle 1.0</name>
 		<desc>Flipper Medieval Castle 1.0</desc>
@@ -2286,5 +2275,28 @@
 		<marquee>./wheel/Zooropa (2.0).png</marquee>
 		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Knight Rider Phys 2_5.fpt</path>
+		<name>Knight Rider Phys 2_5</name>
+		<desc>Flipper Knight Rider</desc>
+		<image>./mixart/Knight Rider Phys 2_5.png</image>
+		<video>./snap/Knight Rider Phys 2_5.mp4</video>
+		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe (p2.5) (Mastered Edition).fpt</path>
+		<name>Masters of the Universe (p2.5) (Mastered Edition)</name>
+		<desc>Flipper Masters of the Universe (p2.5) (Mastered Edition)</desc>
+		<image>./mixart/Masters of the Universe (p2.5) (Mastered Edition).png</image>
+		<video>./snap/Masters of the Universe (p2.5) (Mastered Edition).mp4</video>
+		<marquee>./wheel/Masters of the Universe (p2.5) (Mastered Edition).png</marquee>
+		<releasedate>20170101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

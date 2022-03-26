@@ -14328,21 +14328,6 @@ This is a horizontal fighting game, where you basically take one of the three ch
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./GoldenEagle_v1.1.lha</path>
-		<name>Golden Eagle</name>
-		<desc>Golden Eagle is an Action Adventure game, developed and published by Loriciels, which was released in Europe in 1991.</desc>
-		<image>./mixart/GoldenEagle_v1.1.png</image>
-		<video>./snap/GoldenEagle_v1.1.mp4</video>
-		<marquee>./wheel/GoldenEagle_v1.1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Loriciels</developer>
-		<publisher>Loriciels</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./GoldenPath_v1.1.lha</path>
 		<name>Golden Path</name>
 		<desc>Y'n Hsi is a Buddhist monk whose father was murdered by a warlord called Ch'un Kuei. In order to defeat the tyrant and regain his family's palace, he must tread the golden path, the road to transcendence.
@@ -38636,6 +38621,21 @@ Innovative game features with a host of differing scenarios from high-powered sp
 		<developer>Kingsoft</developer>
 		<publisher>Kingsoft</publisher>
 		<genre>Shootemup, Shooter, Topdown, Vertical</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GoldenEagle_v1.1.lha</path>
+		<name>Golden Eagle</name>
+		<desc>Golden Eagle is an Action Adventure game, developed and published by Loriciels, which was released in Europe in 1991.</desc>
+		<image>./mixart/GoldenEagle_v1.1.png</image>
+		<video>./snap/GoldenEagle_v1.1.mp4</video>
+		<marquee>./wheel/GoldenEagle_v1.1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Loriciels</developer>
+		<publisher>Loriciels</publisher>
+		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

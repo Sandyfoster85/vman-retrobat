@@ -484,21 +484,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<players>2</players>
 	</game>
 	<game>
-		<path>./FNFSC.parrot</path>
-		<name>The Fast and the Furious SuperCars</name>
-		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/The Fast and the Furious SuperCars.png</image>
-		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
-		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
 		<path>./MKDX.parrot</path>
 		<name>Mario Kart: Arcade GP DX</name>
 		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
@@ -674,6 +659,23 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Sega</publisher>
 		<genre>Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>The Fast and the Furious SuperCars</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
