@@ -3429,6 +3429,37 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Cyclone (Williams 1988).vpx</path>
+		<name>Cyclone (Williams 1988)</name>
+		<desc>Flipper Cyclone (Williams 1988) JP's Mod</desc>
+		<image>./mixart/Cyclone (Williams 1988).png</image>
+		<video>./snap/Cyclone (Williams 1988).mp4</video>
+		<marquee>./wheel/Cyclone (Williams 1988).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Django.vpx</path>
+		<name>Django</name>
+		<desc>Flipper Django</desc>
+		<image>./mixart/Django.png</image>
+		<video>./snap/Django.mp4</video>
+		<marquee>./wheel/Django.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
