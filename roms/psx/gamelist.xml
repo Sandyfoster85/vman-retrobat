@@ -14573,23 +14573,6 @@ When a player frees George, Lizzie, or Ralph, then they become playable characte
 		<region>us</region>
 		<cheevosHash>EFF7304F74F8E7924E3FF81111D41363</cheevosHash>
 	</game>
-	<game>
-		<path>./Rapid Reload (Europe).chd</path>
-		<name>Rapid Reload</name>
-		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.    As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
-		<image>./mixart/Rapid Reload (Europe).png</image>
-		<video>./snap/Rapid Reload (Europe).mp4</video>
-		<marquee>./wheel/Rapid Reload (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950929T000000</releasedate>
-		<developer>Media.Vision Entertainment Inc.</developer>
-		<publisher>Sony Computer Entertaiment</publisher>
-		<genre>Shooter / Run and Gun-Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>5651F740D5C3F576717B5DBE32201DD1</cheevosHash>
-	</game>
 	<game id="19656" source="ScreenScraper.fr">
 		<path>./Rascal (USA).chd</path>
 		<name>Rascal</name>
@@ -21488,5 +21471,22 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0F2C4F78DDCA3FC6990069121CFD44D0</cheevosHash>
+	</game>
+	<game>
+		<path>./Rapid Reload (Europe).chd</path>
+		<name>Rapid Reload</name>
+		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.    As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
+		<image>./mixart/Rapid Reload (Europe).png</image>
+		<video>./snap/Rapid Reload (Europe).mp4</video>
+		<marquee>./wheel/Rapid Reload (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950929T000000</releasedate>
+		<developer>Media.Vision Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertaiment</publisher>
+		<genre>Shooter / Run and Gun-Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>5651F740D5C3F576717B5DBE32201DD1</cheevosHash>
 	</game>
 </gameList>

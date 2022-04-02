@@ -170,21 +170,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./abc.parrot</path>
-		<name>After Burner Climax</name>
-		<desc>After Burner Climax is a sequel to the long-running After Burner series. Just like the previous games players command an aircraft from a third-person view, engaging enemies, dodging enemy fire and rockets and navigating through canyons and narrow passages. Gameplay requires quick reflexes and is arcade-like in design. The iconic F-14 Super Tomcat of the previous games has been replaced by a F-14D Super Tomcat with the addition of two new aircraft, F/A-18E Super Hornet and F-15E Strike Eagle. In the standard EX arcade mode there is a branching mission path with various objectives. Sometimes enemies need to be engaged, while other times friendly fighters help along, stealth must be used, or a specific target needs to be pursued and taken out. There are two main weapons: regular cannon fire for close distances and rockets that can only be used when they are locked on. There is also a Climax gauge that can be activated when it is full.</desc>
-		<image>./mixart/After Burner Climax.png</image>
-		<video>./snap/After Burner Climax.mp4</video>
-		<marquee>./wheel/After Burner Climax.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Flying, Shooter</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./AliensExtermination.parrot</path>
 		<name>Aliens: Extermination</name>
 		<desc>It’s been years since the Colonial Marines left planet LV-426 and the Alien population behind. It’s time to go back to finish off the Alien monsters… and more! The world seems familiar, but the scenario is not. Since the Marine’s last visit, the “Wheland Yutan Corporation”, reprogrammed an army of synthetic humans to stop anything from getting in the way from the Company’s development of their deadly Bio Weapons. It’s not as simple as just killing Mother Alien any more.</desc>
@@ -677,6 +662,21 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./abc.parrot</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax is a sequel to the long-running After Burner series. Just like the previous games players command an aircraft from a third-person view, engaging enemies, dodging enemy fire and rockets and navigating through canyons and narrow passages. Gameplay requires quick reflexes and is arcade-like in design. The iconic F-14 Super Tomcat of the previous games has been replaced by a F-14D Super Tomcat with the addition of two new aircraft, F/A-18E Super Hornet and F-15E Strike Eagle. In the standard EX arcade mode there is a branching mission path with various objectives. Sometimes enemies need to be engaged, while other times friendly fighters help along, stealth must be used, or a specific target needs to be pursued and taken out. There are two main weapons: regular cannon fire for close distances and rockets that can only be used when they are locked on. There is also a Climax gauge that can be activated when it is full.</desc>
+		<image>./mixart/After Burner Climax.png</image>
+		<video>./snap/After Burner Climax.mp4</video>
+		<marquee>./wheel/After Burner Climax.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Flying, Shooter</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

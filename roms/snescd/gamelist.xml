@@ -799,22 +799,6 @@ Like the previous games, this game is a side-scrolling fighting game (i.e. Doubl
 		<lang>en</lang>
 		<cheevosHash>D7F5CB079E98C44CE6934A1790DB27E5</cheevosHash>
 	</game>
-	<game>
-		<path>./Gradius_III_(USA)_(MSU1).sfc</path>
-		<name>Gradius III</name>
-		<desc>Gradius III is the third game in Konami's long-running space shooter series, which also includes Life Force and Nemesis. As with most Gradius titles, you control the highly advanced Vic Viper space fighter against hordes of foes. Weapons can be selected from pre-arranged loadouts or you can create your own custom loadout. The game can be played by a single player, or by two players in alternating turns. The game offers three levels of difficulty.</desc>
-		<image>./mixart/Gradius_III_(USA)_(MSU1).png</image>
-		<video>./snap/Gradius_III_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Gradius_III_(USA)_(MSU1).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19911202T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8C70E7DE02F2056A646511731B4ECDF4</cheevosHash>
-		<cheevosId>342</cheevosId>
-	</game>
 	<game id="172189" source="ScreenScraper.fr">
 		<path>./Hong_Kong_97_(Unl)_(MSU1).sfc</path>
 		<name>Hong Kong 97</name>
@@ -2018,5 +2002,21 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<lang>en</lang>
 		<cheevosHash>B1BDC9CAF5BB8191EBAF3F2F42410969</cheevosHash>
 		<cheevosId>502</cheevosId>
+	</game>
+	<game>
+		<path>./Gradius_III_(USA)_(MSU1).sfc</path>
+		<name>Gradius III</name>
+		<desc>Gradius III is the third game in Konami's long-running space shooter series, which also includes Life Force and Nemesis. As with most Gradius titles, you control the highly advanced Vic Viper space fighter against hordes of foes. Weapons can be selected from pre-arranged loadouts or you can create your own custom loadout. The game can be played by a single player, or by two players in alternating turns. The game offers three levels of difficulty.</desc>
+		<image>./mixart/Gradius_III_(USA)_(MSU1).png</image>
+		<video>./snap/Gradius_III_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Gradius_III_(USA)_(MSU1).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19911202T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8C70E7DE02F2056A646511731B4ECDF4</cheevosHash>
+		<cheevosId>342</cheevosId>
 	</game>
 </gameList>

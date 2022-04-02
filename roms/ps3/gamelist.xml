@@ -1354,22 +1354,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./After Burner Climax.m3u</path>
-		<name>After Burner Climax</name>
-		<desc>After Burner Climax introduces two new flyable aircraft to the series: the F/A-18E Super Hornet and F-15E Strike Eagle. The iconic F-14 Tomcat from previous games has been replaced with the F-14D Super Tomcat. The player selects the aircraft at the start screen. While choosing their plane, the player can use the throttle to choose between four different paintjobs for each of the three planes. These paint jobs consist of a "Standard" scheme, "Camouflage" scheme, "Special" scheme, and "Low Visibility" scheme. After choosing their plane, the player can also choose to listen to After Burner Climax's music or the original soundtrack from After Burner II by holding the throttle back and hitting the missile button.</desc>
-		<image>./mixart/After Burner Climax.png</image>
-		<video>./snap/After Burner Climax.mp4</video>
-		<marquee>./wheel/After Burner Climax.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20101125T000000</releasedate>
-		<developer>Sega AM2</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Castlevania - Lords of Shadow 2.m3u</path>
 		<name>Castlevania - Lords of Shadow 2</name>
 		<desc>Castlevania: Lords of Shadow 2 returns in an epic adventure set in an open, modern day world. Fans of the series will play as Dracula for the very first time and uncover the shocking secrets behind the “Lords of Shadow” saga! Dracula is resurrected once again, weakened and yearning for release from his immortal bonds. He is threatened by Satan, who has returned to bring about the apocalypse and ultimate revenge for his defeat all those centuries ago. Dracula must reacquire his powers of old and make a pact with Death in order to defeat the Devil, and gain his eternal rest. Also seeking Dracula’s destruction is the famed Belmont clan who has entered Dracula’s Castle. Here lies the truth behind their mysterious ancestry. The fight between good vs. evil comes to a close as Dracula is faced with his nemesis, Satan, and his ancestors’ unyielding quest for revenge.</desc>
@@ -1897,5 +1881,21 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>4</players>
 		<lang>en</lang>
 		<genreid>1536</genreid>
+	</game>
+	<game>
+		<path>./After Burner Climax.m3u</path>
+		<name>After Burner Climax</name>
+		<desc>After Burner Climax introduces two new flyable aircraft to the series: the F/A-18E Super Hornet and F-15E Strike Eagle. The iconic F-14 Tomcat from previous games has been replaced with the F-14D Super Tomcat. The player selects the aircraft at the start screen. While choosing their plane, the player can use the throttle to choose between four different paintjobs for each of the three planes. These paint jobs consist of a "Standard" scheme, "Camouflage" scheme, "Special" scheme, and "Low Visibility" scheme. After choosing their plane, the player can also choose to listen to After Burner Climax's music or the original soundtrack from After Burner II by holding the throttle back and hitting the missile button.</desc>
+		<image>./mixart/After Burner Climax.png</image>
+		<video>./snap/After Burner Climax.mp4</video>
+		<marquee>./wheel/After Burner Climax.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20101125T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

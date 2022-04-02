@@ -28795,24 +28795,6 @@ This is a point and click adventure.  The directional buttons move a pointer on 
 		<cheevosHash>6D87B3CB41D36EBA79E6E5CC3A6666F1</cheevosHash>
 		<cheevosId>2037</cheevosId>
 	</game>
-	<game id="1420" source="ScreenScraper.fr">
-		<path>./Top Gun (USA).zip</path>
-		<name>Top Gun</name>
-		<desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.  The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.  Enemy aircraft either overshoot the players's plane from behind and can be easily taken down, or they come from the front and fire guns and missiles. Sometimes, an enemy plane will position itself on the player's six. It should be lost quickly by steering left and right, or instant death follows.  Halfway through missions two through four comes a refueling sequence where the fuel plane's nozzle must be aligned with one's aircraft.  Every mission (except the first one) features a final mission target, which can take a lot more damage than regular targets.  Each mission concludes with a landing attempt on the aircraft carrier. To successfully land, the player's plane must have a certain altitude and speed. Successfully landing gives bonus points, but crashing the plane doesn't end the game - it simply costs a life.</desc>
-		<image>./mixart/Top Gun (USA).png</image>
-		<video>./snap/Top Gun (USA).mp4</video>
-		<marquee>./wheel/Top Gun (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19871102T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>019214D25E5B2B340E2270BDEAB5B520</cheevosHash>
-		<cheevosId>2039</cheevosId>
-	</game>
 	<game id="1613" source="ScreenScraper.fr">
 		<path>./Top Gun - The Second Mission (USA).zip</path>
 		<name>Top Gun: The Second Mission</name>
@@ -30596,5 +30578,23 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<region>us</region>
 		<cheevosHash>51BE3C0DB685F71F4A69C573345310A2</cheevosHash>
 		<cheevosId>1744</cheevosId>
+	</game>
+	<game id="1420" source="ScreenScraper.fr">
+		<path>./Top Gun (USA).zip</path>
+		<name>Top Gun</name>
+		<desc>Top Gun is loosely based on the film of the same name. It is an action game in which the player controls an F-14 Tomcat fighter through four different missions.  The action is seen from a first-person cockpit view. Depending on the mission, different kinds of targets must be destroyed. There are always enemy aircraft, but some missions include sea and ground targets as well. Two weapons are available: machine guns (with unlimited ammunition) and missiles. The player can choose from three types of missiles before a mission: the more powerful ones can only be carried in lower quantities.  Enemy aircraft either overshoot the players's plane from behind and can be easily taken down, or they come from the front and fire guns and missiles. Sometimes, an enemy plane will position itself on the player's six. It should be lost quickly by steering left and right, or instant death follows.  Halfway through missions two through four comes a refueling sequence where the fuel plane's nozzle must be aligned with one's aircraft.  Every mission (except the first one) features a final mission target, which can take a lot more damage than regular targets.  Each mission concludes with a landing attempt on the aircraft carrier. To successfully land, the player's plane must have a certain altitude and speed. Successfully landing gives bonus points, but crashing the plane doesn't end the game - it simply costs a life.</desc>
+		<image>./mixart/Top Gun (USA).png</image>
+		<video>./snap/Top Gun (USA).mp4</video>
+		<marquee>./wheel/Top Gun (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19871102T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>019214D25E5B2B340E2270BDEAB5B520</cheevosHash>
+		<cheevosId>2039</cheevosId>
 	</game>
 </gameList>

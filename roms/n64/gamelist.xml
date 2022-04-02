@@ -4009,24 +4009,6 @@
 		<cheevosId>10337</cheevosId>
 	</game>
 	<game>
-		<path>./Star Fox 64 (USA) (Rev A).n64</path>
-		<name>Star Fox 64</name>
-		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
-		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
-		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
-		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970630T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
-	</game>
-	<game>
 		<path>./Star Soldier - Vanishing Earth (USA).n64</path>
 		<name>Star Soldier - Vanishing Earth</name>
 		<desc>In the year 2098 mankind had been critically attacked by a military force from Zeograd, a hostile planet in a far off galaxy. Commander Parker Deehan of Special Interception Airforce (SIA) decided to deploy and pilot the F98 Star Soldier fighter craft into the front line of battle against Zeograd. Losing the battle meant the extinction of mankind and the total annihilation of Earth!</desc>
@@ -5156,5 +5138,23 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
+	</game>
+	<game>
+		<path>./Star Fox 64 (USA) (Rev A).n64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
+		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
+		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
 	</game>
 </gameList>
