@@ -45,6 +45,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstat
 rem 8. 2021-12-28 - EmulationStation Theme fix for apple2/c20 - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
 
+rem 9. 2022-04-02 - Fix PS3 After Burner Climax.m3u - reported by Virtualman
+copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\RetroBat\roms\ps3\
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
