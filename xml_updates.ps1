@@ -43,6 +43,10 @@ $vic20.fullname = 'Commodore VIC-20'
 $amiga.fullname = 'Commodore Amiga'
 $amigacd32.fullname = 'Commodore Amiga CD32'
 
+# 12. 2022-04-02 - Update M.U.G.E.N extensions in es_systems.cfg, reported by Virtualman
+$mugen = $es_systems.SelectSingleNode("//system[name='mugen']")
+$mugen.extension = '.lnk .LNK'
+
 $es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
