@@ -3462,4 +3462,20 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Scooby Doo.vpx</path>
+		<name>Scooby Doo</name>
+		<desc>Flipper Scooby Doo</desc>
+		<image>./mixart/Scooby Doo.png</image>
+		<video>./snap/Scooby Doo.mp4</video>
+		<marquee>./wheel/Scooby Doo.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>

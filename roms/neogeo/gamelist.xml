@@ -7,21 +7,6 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./bangbead.zip</path>
-		<name>Bang Bead</name>
-		<desc>Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the Game &amp; Watch series. You can select from 9 characters and play against another player or the computer. Knock out the stars behind the other player then get the bouncing ball through to win the round.</desc>
-		<image>./mixart/bangbead.png</image>
-		<video>./snap/bangbead.mp4</video>
-		<marquee>./wheel/bangbead.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>Visco</publisher>
-		<genre>Sports-Various</genre>
-		<players>2</players>
-		<cheevosHash>F19F4133F3A29AF99D6F8BD028DD4FC3</cheevosHash>
-	</game>
-	<game>
 		<path>./bjourney.zip</path>
 		<name>Blue's Journey</name>
 		<desc>The planet of Raguy was once beautiful and peaceful, but all hell broke loose when it was invaded by the Daruma tribe. The pollution started to spread through the city. Blue was summoned to get rid of the Daruma tribe, and save Raguy from the Daruma Empire that has turned the inhabitants into slaves.
@@ -89,39 +74,6 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
 		<cheevosHash>A416AF718D16D91A017F185007E0466A</cheevosHash>
-	</game>
-	<game>
-		<path>./bstars.zip</path>
-		<name>Baseball Stars Professional</name>
-		<desc>Baseball Stars Professional is the follow-up to Baseball Stars for the Nintendo Entertainment System, and features comic-style graphics. Choose from a variety of teams that include Celestial Planets, Heavenly Bodies, Shadow Demons, Battle Knights, Fabulous Superstars, and many others. Then select the field where the game is to be held: The SNK stadium or the SNK dome. Each field has the same dimensions, but their capacity varies. The game is played the same way as normal baseball. Features a VS. mode in which two players can play against each other.</desc>
-		<image>./mixart/bstars.png</image>
-		<video>./snap/bstars.mp4</video>
-		<marquee>./wheel/bstars.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports-Sports / Baseball</genre>
-		<players>2</players>
-		<cheevosHash>065735C18DB7F1DA363764D7CFCE5593</cheevosHash>
-	</game>
-	<game>
-		<path>./bstars2.zip</path>
-		<name>Baseball Stars 2</name>
-		<desc>This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.
-
-The standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.</desc>
-		<image>./mixart/bstars2.png</image>
-		<video>./snap/bstars2.mp4</video>
-		<marquee>./wheel/bstars2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports-Sports / Baseball</genre>
-		<players>2</players>
-		<cheevosHash>F0235ACA225C29B7B47409BE3DB976B7</cheevosHash>
-		<cheevosId>11765</cheevosId>
 	</game>
 	<game>
 		<path>./burningf.zip</path>
@@ -742,22 +694,6 @@ The city gets gradually destroyed as the two creatures fight it out. The players
 		<genre>Beat'em Up-Compilation-Adventure-Fight</genre>
 		<players>2</players>
 		<cheevosHash>C1F945CB2B54B9DF0E71AFB2147BDB8F</cheevosHash>
-	</game>
-	<game>
-		<path>./lastblad.zip</path>
-		<name>Bakumatsu Roman: Gekka no Kenshi</name>
-		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
-		<image>./mixart/lastblad.png</image>
-		<video>./snap/lastblad.mp4</video>
-		<marquee>./wheel/lastblad.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980129T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight-Action</genre>
-		<players>2</players>
-		<cheevosHash>99F1459F643A1ABB0FD8B1C2E806AAA8</cheevosHash>
-		<cheevosId>12040</cheevosId>
 	</game>
 	<game>
 		<path>./lbowling.zip</path>
@@ -2311,5 +2247,73 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
 		<cheevosId>11768</cheevosId>
+	</game>
+	<game>
+		<path>./bangbead.zip</path>
+		<name>Bang Bead</name>
+		<desc>Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the Game &amp; Watch series. You can select from 9 characters and play against another player or the computer. Knock out the stars behind the other player then get the bouncing ball through to win the round.</desc>
+		<image>./mixart/bangbead.png</image>
+		<video>./snap/bangbead.mp4</video>
+		<marquee>./wheel/bangbead.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Visco</publisher>
+		<genre>Sports-Various</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>F19F4133F3A29AF99D6F8BD028DD4FC3</cheevosHash>
+	</game>
+	<game>
+		<path>./bstars.zip</path>
+		<name>Baseball Stars Professional</name>
+		<desc>Baseball Stars Professional is the follow-up to Baseball Stars for the Nintendo Entertainment System, and features comic-style graphics. Choose from a variety of teams that include Celestial Planets, Heavenly Bodies, Shadow Demons, Battle Knights, Fabulous Superstars, and many others. Then select the field where the game is to be held: The SNK stadium or the SNK dome. Each field has the same dimensions, but their capacity varies. The game is played the same way as normal baseball. Features a VS. mode in which two players can play against each other.</desc>
+		<image>./mixart/bstars.png</image>
+		<video>./snap/bstars.mp4</video>
+		<marquee>./wheel/bstars.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports-Sports / Baseball</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>065735C18DB7F1DA363764D7CFCE5593</cheevosHash>
+	</game>
+	<game>
+		<path>./bstars2.zip</path>
+		<name>Baseball Stars 2</name>
+		<desc>This follow up to Baseball Stars Professional features a fast-paced arcade style baseball with six fictitious teams, each with their own strengths and weaknesses.  There are two difficulties of play: Beginner, which automatically fields the ball for the player while Exciting has the player do the field manually.  Additionally, there are two main modes of play where in the single player mode the player will compete in a fifteen-team tournament or go head-to-head against a friend in a multiplayer mode.
+
+The standard rules of baseball still apply, but it adds power-ups that the player can pick up and use during the game, such as the ability for their pitcher to throw faster or their batter to hit better.  They can also substitute a player during the game, but are limited to three substitutions per game. The game is shown through 2D graphics with comic-style cutscenes to illustrate the action, such as dramatic catches and home runs that will pop-up during the game.</desc>
+		<image>./mixart/bstars2.png</image>
+		<video>./snap/bstars2.mp4</video>
+		<marquee>./wheel/bstars2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports-Sports / Baseball</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>F0235ACA225C29B7B47409BE3DB976B7</cheevosHash>
+		<cheevosId>11765</cheevosId>
+	</game>
+	<game>
+		<path>./lastblad.zip</path>
+		<name>Bakumatsu Roman: Gekka no Kenshi</name>
+		<desc>Choose one of several characters to play with, each with their own unique moves and special attacks. Each stage in the game has two battles, where the object of each is to drain your opponent's energy in order to complete the battle, and you will complete the stage if you do this twice. If there is a draw, then a third battle is then played. There is a time limit, and when this expires, the player with the most energy wins the battle.</desc>
+		<image>./mixart/lastblad.png</image>
+		<video>./snap/lastblad.mp4</video>
+		<marquee>./wheel/lastblad.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980129T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>99F1459F643A1ABB0FD8B1C2E806AAA8</cheevosHash>
+		<cheevosId>12040</cheevosId>
 	</game>
 </gameList>
