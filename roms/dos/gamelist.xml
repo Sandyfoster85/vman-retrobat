@@ -6107,21 +6107,6 @@ The iPhone version includes updated graphics (optional) and gameplay in both por
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Pinball Wizard.pc</path>
-		<name>Pinball Wizard 2000</name>
-		<desc>Pinball Wizard 2000 from Ikarion Software GmbH is the successor of Kingsoft's Pinball Wizard for the Amiga. This pinball game features five tables (Themes: Industrial Revolution, Hattrick, Rock'n'Roll Heaven, Prohibition, Earth Inferno) and one bonus table (Mystic).PW2000 is more of an action-oriented game instead of a real simulation since the physics are somewhat strange at times. But the real strength of the program is the implemented Pinball Construction Set. All tables were built with this construction set and with the detailed instruction manual and samples everyone with some programming knowledge can do some amazing tables on his own.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_svn</core>
-		<image>./mixart/Pinball Wizard.png</image>
-		<video>./snap/Pinball Wizard 2000.mp4</video>
-		<marquee>./wheel/Pinball Wizard.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Ikarion Software GmbH</developer>
-		<publisher>Ikarion Software GmbH</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pinball_Fantasies.pc</path>
 		<name>Pinball Fantasies</name>
 		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
@@ -6571,22 +6556,6 @@ You play Mike Dawson, an ad company manager who, in pursuit of his goal in life 
 		<developer>Cyberdreams, Inc.</developer>
 		<publisher>Cyberdreams, Inc.</publisher>
 		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Extreme Pinball.pc</path>
-		<name>Extreme Pinball</name>
-		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Extreme Pinball.png</image>
-		<video>./snap/Extreme Pinball.mp4</video>
-		<marquee>./wheel/Extreme Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Electronic Arts</publisher>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -7071,5 +7040,36 @@ In an epic adventure that will propel him across the galaxy, Twinsen must defeat
 		<releasedate>19700101T010000</releasedate>
 		<developer>Digital Extremes</developer>
 		<publisher>MicroLeague Multimedia</publisher>
+	</game>
+	<game>
+		<path>./Extreme Pinball.pc</path>
+		<name>Extreme Pinball</name>
+		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Extreme Pinball.png</image>
+		<video>./snap/Extreme Pinball.mp4</video>
+		<marquee>./wheel/Extreme Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Electronic Arts</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball Wizard.pc</path>
+		<name>Pinball Wizard 2000</name>
+		<desc>Pinball Wizard 2000 from Ikarion Software GmbH is the successor of Kingsoft's Pinball Wizard for the Amiga. This pinball game features five tables (Themes: Industrial Revolution, Hattrick, Rock'n'Roll Heaven, Prohibition, Earth Inferno) and one bonus table (Mystic).PW2000 is more of an action-oriented game instead of a real simulation since the physics are somewhat strange at times. But the real strength of the program is the implemented Pinball Construction Set. All tables were built with this construction set and with the detailed instruction manual and samples everyone with some programming knowledge can do some amazing tables on his own.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_svn</core>
+		<image>./mixart/Pinball Wizard.png</image>
+		<video>./snap/Pinball Wizard 2000.mp4</video>
+		<marquee>./wheel/Pinball Wizard.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Ikarion Software GmbH</developer>
+		<publisher>Ikarion Software GmbH</publisher>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -349,23 +349,6 @@ As you approach, you are overwhelmed with the beauty of the Castle but you sudde
 		<cheevosHash>ADD42C10019E88F47DD98791F8DE3148</cheevosHash>
 	</game>
 	<game>
-		<path>./WebWars (USA).zip</path>
-		<name>Web Wars</name>
-		<desc>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
-You become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</desc>
-		<image>./mixart/WebWars (USA).png</image>
-		<video>./snap/WebWars (USA).mp4</video>
-		<marquee>./wheel/WebWars (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<cheevosHash>A398C18B4CE87929471B559B2BC7E79F</cheevosHash>
-		<cheevosId>7017</cheevosId>
-	</game>
-	<game>
 		<path>./Pole Position (USA).zip</path>
 		<name>Pole Position</name>
 		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
@@ -416,5 +399,24 @@ The future of the galaxy rests on your shoulders. Good luck!</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
+	</game>
+	<game>
+		<path>./WebWars (USA).zip</path>
+		<name>Web Wars</name>
+		<desc>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
+You become the Hawk King - a creature capable of incredible speed and power - as you attempt to capture the amazing creatures that inhabit the speeding Web of Fantasy. All 20 creatures are protected by guardians and the dreaded Cosmic Dragon and each will become progressively more difficult to capture. No one has ever captured the elusive twentieth creature. Will you?</desc>
+		<image>./mixart/WebWars (USA).png</image>
+		<video>./snap/WebWars (USA).mp4</video>
+		<marquee>./wheel/WebWars (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A398C18B4CE87929471B559B2BC7E79F</cheevosHash>
+		<cheevosId>7017</cheevosId>
 	</game>
 </gameList>

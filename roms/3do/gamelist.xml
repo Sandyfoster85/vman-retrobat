@@ -532,23 +532,6 @@
 		<cheevosHash>E4D4FB5A1C5EA0AFAADB3EC5F424769E</cheevosHash>
 	</game>
 	<game>
-		<path>./Battle Pinball (Japan).chd</path>
-		<name>Battle Pinball</name>
-		<desc>Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.    Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.</desc>
-		<image>./mixart/Battle Pinball (Japan).png</image>
-		<video>./snap/Battle Pinball (Japan).mp4</video>
-		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19941125T000000</releasedate>
-		<developer>Japan DataWorks</developer>
-		<publisher>Matsushita</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>E3C1918141A8484B37C21321FA12FC03</cheevosHash>
-	</game>
-	<game>
 		<path>./BattleSport (Europe).chd</path>
 		<name>Battlesport</name>
 		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
@@ -1832,5 +1815,22 @@
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>334477CB341D28738AE9717C297DEC67</cheevosHash>
+	</game>
+	<game>
+		<path>./Battle Pinball (Japan).chd</path>
+		<name>Battle Pinball</name>
+		<desc>Battle Pinball is a Japanese-only release where players play competitive pinball against the computer or another player. Players pick between one of four characters, each with their own dedicated pinball table. The game then moves to a split-screen view, where both players play their respective table and try to get a higher score than their opponent.    Other options include a 1-player "story" mode where the player selects a character and battles the other three. Winning here gives a character-specific CG victory movie. Players can also play against multiple opponents in a tournament mode (complete with brackets), though a maximum of two players will be playing at once. As with Real Pinball, the view angle is fixed and cannot be changed.</desc>
+		<image>./mixart/Battle Pinball (Japan).png</image>
+		<video>./snap/Battle Pinball (Japan).mp4</video>
+		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Japan DataWorks</developer>
+		<publisher>Matsushita</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>E3C1918141A8484B37C21321FA12FC03</cheevosHash>
 	</game>
 </gameList>

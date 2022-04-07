@@ -2907,21 +2907,6 @@ In Japan, this game has seen several Windows versions, and even has been release
 		<releasedate />
 		<cheevosHash>B60DBF70D1A54E327A1CD668ADE9F43B</cheevosHash>
 	</game>
-	<game id="82270" source="ScreenScraper.fr">
-		<path>./Hollywood Pinball (Europe).7z</path>
-		<name>Hollywood Pinball</name>
-		<desc>Hollywood Pinball is an Action game, developed by Tarantula Studios and published by Starfish, which was released in 1999.</desc>
-		<image>./mixart/Hollywood Pinball (Europe).png</image>
-		<video>./snap/Hollywood Pinball (Europe).mp4</video>
-		<marquee>./wheel/Hollywood Pinball (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Tarantula Studios</developer>
-		<publisher>Take-Two Interactive Software Europe Ltd.</publisher>
-		<genre>Pinball</genre>
-		<cheevosHash>9889AFC5B4E72C9F96DB8E6B4260F6B7</cheevosHash>
-		<cheevosId>12950</cheevosId>
-	</game>
 	<game id="37091" source="ScreenScraper.fr">
 		<path>./Hot Wheels - Stunt Track Driver (USA).7z</path>
 		<name>Hot Wheels: Stunt Track Driver</name>
@@ -8507,5 +8492,20 @@ The game is similar in style and gameplay to early Metal Gear games. It is viewe
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>429E6DA4B32D8CAA22E78D92C0FEBD12</cheevosHash>
+	</game>
+	<game id="82270" source="ScreenScraper.fr">
+		<path>./Hollywood Pinball (Europe).7z</path>
+		<name>Hollywood Pinball</name>
+		<desc>Hollywood Pinball is an Action game, developed by Tarantula Studios and published by Starfish, which was released in 1999.</desc>
+		<image>./mixart/Hollywood Pinball (Europe).png</image>
+		<video>./snap/Hollywood Pinball (Europe).mp4</video>
+		<marquee>./wheel/Hollywood Pinball (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Tarantula Studios</developer>
+		<publisher>Take-Two Interactive Software Europe Ltd.</publisher>
+		<genre>Pinball</genre>
+		<cheevosHash>9889AFC5B4E72C9F96DB8E6B4260F6B7</cheevosHash>
+		<cheevosId>12950</cheevosId>
 	</game>
 </gameList>

@@ -331,16 +331,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Akira_v0.9.fpt</path>
-		<name>Akira</name>
-		<desc>Flipper Akira</desc>
-		<image>./mixart/Akira_v0.9.png</image>
-		<video>./snap/Akira_v0.9.mp4</video>
-		<marquee>./wheel/Akira_v0.9.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Aliens Legacy Pinball.fpt</path>
 		<name>Aliens Legacy Pinball</name>
 		<desc>Flipper Aliens Legacy Pinball</desc>
@@ -399,21 +389,6 @@
 		<video>./snap/Black and White (2.0).mp4</video>
 		<marquee>./wheel/Black and White (2.0).png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bond 50 (Anniversary Edition) (1.0).fpt</path>
-		<name>Bond 50 (Anniversary Edition) (1.0)</name>
-		<desc>Flipper Bond 50 (Anniversary Edition) (1.0)</desc>
-		<image>./mixart/Bond 50 (Anniversary Edition) (1.0).jpg</image>
-		<video>./snap/Bond 50 (Anniversary Edition) (1.0).mp4</video>
-		<marquee>./wheel/Bond 50 (Anniversary Edition) (1.0).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1550,16 +1525,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./MAD MAX.fpt</path>
-		<name>MAD MAX</name>
-		<desc>Flipper MAD MAX</desc>
-		<image>./mixart/MAD MAX.png</image>
-		<video>./snap/MAD MAX.mp4</video>
-		<marquee>./wheel/MAD MAX.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Space Cadet (3.00).fpt</path>
 		<name>Space Cadet</name>
 		<desc>Flipper Space Cadet (3.00)</desc>
@@ -1967,22 +1932,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sonic Pinball Mania (1.0).fpt</path>
-		<name>Sonic Pinball Mania</name>
-		<desc>Flipper Sonic Pinball Mania (1.0) TerryRed BAM Mods</desc>
-		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
-		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
-		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sonic the HedgeHog ULTIMATE 1.02.fpt</path>
 		<name>Sonic the HedgeHog ULTIMATE 1.02</name>
 		<desc>Flipper Sonic the HedgeHog ULTIMATE 1.02</desc>
@@ -1995,22 +1944,6 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Space Shuttle.fpt</path>
-		<name>Space Shuttle</name>
-		<desc>Flipper Space Shuttle</desc>
-		<image>./mixart/Space Shuttle 1.3.png</image>
-		<video>./snap/Space Shuttle 1.3.mp4</video>
-		<marquee>./wheel/Space Shuttle 1.3.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2133,16 +2066,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./the_dark_knight_ultramatum-tdk_ultramatum_1_04.fpt</path>
-		<name>the_dark_knight_ultramatum-tdk_ultramatum_1_04</name>
-		<desc>Flipper The Dark Knight</desc>
-		<image>./mixart/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</image>
-		<video>./snap/the_dark_knight_ultramatum-tdk_ultramatum_1_04.mp4</video>
-		<marquee>./wheel/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Tigger (2.0).fpt</path>
 		<name>Tigger (2.0)</name>
 		<desc>Flipper Tigger</desc>
@@ -2252,21 +2175,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Wipeout (DOFLinx MX).fpt</path>
-		<name>Wipeout (DOFLinx MX)</name>
-		<desc>Flipper Wipeout</desc>
-		<image>./mixart/Wipeout (DOFLinx MX).jpg</image>
-		<video>./snap/Wipeout (DOFLinx MX).mp4</video>
-		<marquee>./wheel/Wipeout (DOFLinx MX).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Zooropa (2.0).fpt</path>
 		<name>Zooropa (2.0)</name>
 		<desc>Flipper Zooropa</desc>
@@ -2298,6 +2206,98 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Akira_v0.9.fpt</path>
+		<name>Akira</name>
+		<desc>Flipper Akira</desc>
+		<image>./mixart/Akira_v0.9.png</image>
+		<video>./snap/Akira_v0.9.mp4</video>
+		<marquee>./wheel/Akira_v0.9.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bond 50 (Anniversary Edition) (1.0).fpt</path>
+		<name>Bond 50 (Anniversary Edition) (1.0)</name>
+		<desc>Flipper Bond 50 (Anniversary Edition) (1.0)</desc>
+		<image>./mixart/Bond 50 (Anniversary Edition) (1.0).jpg</image>
+		<video>./snap/Bond 50 (Anniversary Edition) (1.0).mp4</video>
+		<marquee>./wheel/Bond 50 (Anniversary Edition) (1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MAD MAX.fpt</path>
+		<name>MAD MAX</name>
+		<desc>Flipper MAD MAX</desc>
+		<image>./mixart/MAD MAX.png</image>
+		<video>./snap/MAD MAX.mp4</video>
+		<marquee>./wheel/MAD MAX.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania (1.0).fpt</path>
+		<name>Sonic Pinball Mania</name>
+		<desc>Flipper Sonic Pinball Mania (1.0) TerryRed BAM Mods</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Shuttle.fpt</path>
+		<name>Space Shuttle</name>
+		<desc>Flipper Space Shuttle</desc>
+		<image>./mixart/Space Shuttle 1.3.png</image>
+		<video>./snap/Space Shuttle 1.3.mp4</video>
+		<marquee>./wheel/Space Shuttle 1.3.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./the_dark_knight_ultramatum-tdk_ultramatum_1_04.fpt</path>
+		<name>the_dark_knight_ultramatum-tdk_ultramatum_1_04</name>
+		<desc>Flipper The Dark Knight</desc>
+		<image>./mixart/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</image>
+		<video>./snap/the_dark_knight_ultramatum-tdk_ultramatum_1_04.mp4</video>
+		<marquee>./wheel/the_dark_knight_ultramatum-tdk_ultramatum_1_04.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wipeout (DOFLinx MX).fpt</path>
+		<name>Wipeout (DOFLinx MX)</name>
+		<desc>Flipper Wipeout</desc>
+		<image>./mixart/Wipeout (DOFLinx MX).jpg</image>
+		<video>./snap/Wipeout (DOFLinx MX).mp4</video>
+		<marquee>./wheel/Wipeout (DOFLinx MX).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

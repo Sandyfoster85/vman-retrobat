@@ -6,20 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="36101" source="ScreenScraper.fr">
-		<path>./1943.d64</path>
-		<name>1943 : The Battle of Midway</name>
-		<desc>1943: The Battle of Midway is a shoot'em up on Commodore 64 that follows 1942. You are plunged into the heart of the Second World War. This time it is a question of recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that empties when you are hit, but can be recharged with some bonuses.</desc>
-		<rating>0.3</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Go!</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1-2</players>
-		<image>./mixart/1943.png</image>
-		<marquee>./wheel/1943.png</marquee>
-		<video>./snap/1943.mp4</video>
-	</game>
 	<game id="122191" source="ScreenScraper.fr">
 		<path>./Cyberdine Warrior.d64</path>
 		<name>Cyberdine Warrior</name>
@@ -28,79 +14,6 @@
 		<publisher>Hewson</publisher>
 		<image>./mixart/Cyberdine Warrior.png</image>
 		<video>./snap/Cyberdine Warrior.mp4</video>
-	</game>
-	<game id="109402" source="ScreenScraper.fr">
-		<path>./720.d64</path>
-		<name>720 Degrees</name>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<publisher>U.S. Gold</publisher>
-		<genre>Sports / Skateboard-Sports</genre>
-		<image>./mixart/720.png</image>
-		<marquee>./wheel/720.png</marquee>
-		<video>./snap/720.mp4</video>
-	</game>
-	<game id="35996" source="ScreenScraper.fr">
-		<path>./Ace of Aces.d64</path>
-		<name>Ace of Aces</name>
-		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber. Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>U.S. Gold</developer>
-		<publisher>Artech Studios</publisher>
-		<genre>Shoot'em Up-Simulation</genre>
-		<players>1</players>
-		<image>./mixart/Ace of Aces.png</image>
-		<marquee>./wheel/Ace of Aces.png</marquee>
-		<video>./snap/Ace of Aces.mp4</video>
-	</game>
-	<game id="36104" source="ScreenScraper.fr">
-		<path>./AcroJet.d64</path>
-		<name>Acro Jet - The Advanced Flight Simulator</name>
-		<desc>Acrojet contains ten acrobatic events which can be played by up to four players and at four different levels of difficulty. In all ten events you fly a BD5J Acrojet over a series of obstacles:  1. In the Pylon Race you have to fly around pylons and land safely.  2. In the Slalom Race you have to fly a 'figure 8'. 3. In the next event, the Ribbon Cut you have to break two ribbons. 4. In the Inverted Ribbon Cut you perform the same stunt but flying the plane upside down.  5. In the Ribbon Roll there are two ribbons in a row and you have to fly under one  and complete a full roll followed by flying under the second ribbon. 6. In the Under Ribbon Race you perform a slalom by flying in sequence under three ribbons.  7. In the Under Ribbon Loop you fly under a ribbon followed by a loop and passing over the same ribbon upside down. 8. In the Spot Landing event you have to fly up to 2,000 feet and land on the runway as close as possible to a marked spot. 9. In the Flame-Out Landing event you perform the same stunt  but then without the engines running. 10. The tenth and last event, the Cuban Eight, you have to make a half-loop over a ribbon, followed by a half-role, a half loop and flying under the first ribbon again.   Some game parameters can be set. You can decide how the weather conditions are going to be. An instrument panel at the bottom of the screen contains several read-outs, like a altitude meter, a compass, an artificial horizon and a vertical velocity meter.</desc>
-		<rating>0.6</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>U.S. Gold</developer>
-		<publisher>MicroProse</publisher>
-		<genre>Simulation</genre>
-		<players>1-4</players>
-		<image>./mixart/AcroJet.png</image>
-		<marquee>./wheel/AcroJet.png</marquee>
-		<video>./snap/Acrojet.mp4</video>
-	</game>
-	<game id="109467" source="ScreenScraper.fr">
-		<path>./Action Ball.d64</path>
-		<name>Action Ball</name>
-		<rating>0</rating>
-		<releasedate>19890101T000000</releasedate>
-		<publisher>Magic Disk</publisher>
-		<image>./mixart/Action Ball.png</image>
-		<video>./snap/Action Ball.mp4</video>
-	</game>
-	<game id="109373" source="ScreenScraper.fr">
-		<path>./Action Biker.d64</path>
-		<name>Action Biker</name>
-		<desc>The player controls the protagonist Clumsy Colin who rides a motorbike and has to navigate a landscape to extra equipment to improve the bike. Once all pieces are collected the player performs a final drag race. There is a time limit, and the player also has a limited number of lives reduced by crashing into background objects.</desc>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Mastertronic</publisher>
-		<image>./mixart/Action Biker.png</image>
-		<marquee>./wheel/Action Biker.png</marquee>
-		<video>./snap/Action Biker.mp4</video>
-	</game>
-	<game id="35906" source="ScreenScraper.fr">
-		<path>./Action Fighter.d64</path>
-		<name>Action Fighter</name>
-		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.  By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.  There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.  Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
-		<rating>0.4</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Firebird</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<image>./mixart/Action Fighter.png</image>
-		<marquee>./wheel/Action Fighter.png</marquee>
-		<video>./snap/Action Fighter.mp4</video>
 	</game>
 	<game id="109471" source="ScreenScraper.fr">
 		<path>./Addicta Ball.d64</path>
@@ -6852,20 +6765,6 @@
 		<marquee>./wheel/Zorro.png</marquee>
 		<video>./snap/Zorro.mp4</video>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Abbaye des Morts.d64</path>
-		<name>Abbaye des Morts</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<image>./mixart/Abbaye des Morts.png</image>
-		<marquee>./wheel/Abbaye des Morts.png</marquee>
-		<video>./snap/Abbaye des Morts.mp4</video>
-	</game>
 	<game id="123529" source="ScreenScraper.fr">
 		<path>./Advanced Action Movie Simulator.d64</path>
 		<name>Advanced Action Movie Simulator</name>
@@ -7594,19 +7493,6 @@
 		<genre>Platform</genre>
 	</game>
 	<game>
-		<path>./1942.d64</path>
-		<name>1942</name>
-		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
-		<image>./mixart/1942.png</image>
-		<video>./snap/1942.mp4</video>
-		<marquee>./wheel/1942.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Elite Systems</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up-Action-Shoot'em up / Vertical</genre>
-	</game>
-	<game>
 		<path>./Avenger.d64</path>
 		<name>Avenger</name>
 		<desc>In the sequel to The Way of the Tiger, Yaemon the Grand Master of Flame is the villain of the piece. He has killed your foster-father Naijish and stolen the Scrolls of Kettsuin.  Your quest to recover the scroll and avenge your father's death is viewed from above and superficially resembles Gauntlet. You start outside the  Quench Heart Keep, and must initially find enough keys in the grounds and connected buildings to penetrate it, and then kill each of the 3 guards.  There are other prey including spiders to fend off - these know how to home in on you. You are armed with a limited number of Shuikch to shoot from distance; after these are gone you are reliant on your bare hand, although more can be collected. Pressing the 1 key summons an energy recharge from the God Kwon, but only a limited number of times.</desc>
@@ -8097,16 +7983,6 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<video>./snap/X-15 Alpha Mission.mp4</video>
 	</game>
 	<game>
-		<path>./007 - A View to a Kill.d64</path>
-		<name>007 - A View to a Kill</name>
-		<desc>A View to a Kill - James Bond 007 is an arcade adventure in 3 parts which is based on the movie James Bond 007 - A View to a Kill. The aim of the game is to uncover the plans of Max Zorin and of course to hamstring them. You get the necessary information at the main places of the movie: Paris (meeting with agent May Day), the mysterious City Hall of San Francisco and in the Silver Mine of Silicon Valley. The adventure is played in real time against the clock. You take over the task of the world-famous agent of the Secret Service: 007 - James Bond.</desc>
-		<image>./mixart/007 - A View to a Kill.png</image>
-		<video>./snap/007 - A View to a Kill.mp4</video>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Domark</publisher>
-	</game>
-	<game>
 		<path>./Friday the 13th.t64</path>
 		<name>Friday The 13th</name>
 		<desc>The player can roam around freely in the scenery, walk in and outside of buildings. Jason, as well as other characters, do the same. It is the player's task to make sure his friends do not get killed by Jason, who often appears disguised as one of them, unless he is hit once and becomes visible as a man dressed in black. Various improvised weapons (e.g., chainsaw, pitchfork, machete, etc.) are scattered around the camp and various buildings (e.g., a barn, a church, a cabin), picked up, and used to confront Jason. There are five levels in the game and each time you play as another character. The character assignment is random at the start of the round. The game uses an early pseudo-3D view along with a more traditional side view, depending on the character's location. The game also features a "fear meter", in the form of a blonde woman's head with hair standing on end, to symbolize the players level of fright at the time, and a change in the situation. Unlike the later Nintendo Entertainment System (NES) title, the game included scenes of gore consistent with the film franchise. For example, when a character is killed by Jason, sometimes there is a scream followed by a quick cut to a graphic image of a head with a machete slicing into said. A similar startle effect would be used in the 1989 title Project Firestart.</desc>
@@ -8154,5 +8030,134 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<publisher>Martech Games</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./007 - A View to a Kill.d64</path>
+		<name>007 - A View to a Kill</name>
+		<desc>A View to a Kill - James Bond 007 is an arcade adventure in 3 parts which is based on the movie James Bond 007 - A View to a Kill. The aim of the game is to uncover the plans of Max Zorin and of course to hamstring them. You get the necessary information at the main places of the movie: Paris (meeting with agent May Day), the mysterious City Hall of San Francisco and in the Silver Mine of Silicon Valley. The adventure is played in real time against the clock. You take over the task of the world-famous agent of the Secret Service: 007 - James Bond.</desc>
+		<image>./mixart/007 - A View to a Kill.png</image>
+		<video>./snap/007 - A View to a Kill.mp4</video>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Domark</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./1942.d64</path>
+		<name>1942</name>
+		<desc>A conversion of the arcade game, 1942 is a vertically scrolling shooter for one or two players. The year is 1942, and you are a daring fighter pilot "Super Ace". You begin and end each of the numerous levels on an aircraft carrier and then fly your plane into battle against the enemy over both sea and land. After destroying certain plane formations you can collect several different power ups to increase your fire power and chances of survival.</desc>
+		<image>./mixart/1942.png</image>
+		<video>./snap/1942.mp4</video>
+		<marquee>./wheel/1942.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Elite Systems</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up-Action-Shoot'em up / Vertical</genre>
+		<lang>en</lang>
+	</game>
+	<game id="36101" source="ScreenScraper.fr">
+		<path>./1943.d64</path>
+		<name>1943 : The Battle of Midway</name>
+		<desc>1943: The Battle of Midway is a shoot'em up on Commodore 64 that follows 1942. You are plunged into the heart of the Second World War. This time it is a question of recreating the intense battle off the coast of the Midway Islands. Compared to its predecessor, 1943 displays a health bar that empties when you are hit, but can be recharged with some bonuses.</desc>
+		<image>./mixart/1943.png</image>
+		<video>./snap/1943.mp4</video>
+		<marquee>./wheel/1943.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Go!</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="109402" source="ScreenScraper.fr">
+		<path>./720.d64</path>
+		<name>720 Degrees</name>
+		<image>./mixart/720.png</image>
+		<video>./snap/720.mp4</video>
+		<marquee>./wheel/720.png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>U.S. Gold</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Abbaye des Morts.d64</path>
+		<name>Abbaye des Morts</name>
+		<image>./mixart/Abbaye des Morts.png</image>
+		<video>./snap/Abbaye des Morts.mp4</video>
+		<marquee>./wheel/Abbaye des Morts.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+	</game>
+	<game id="35996" source="ScreenScraper.fr">
+		<path>./Ace of Aces.d64</path>
+		<name>Ace of Aces</name>
+		<desc>Ace of Aces is a 1st person, 2D flight simulation. You're onboard a British RAF Mosquito, maverick fighter bomber. Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs, sink the german U-boats and down the Nazi bombers. Are you ready for this challenge?</desc>
+		<image>./mixart/Ace of Aces.png</image>
+		<video>./snap/Ace of Aces.mp4</video>
+		<marquee>./wheel/Ace of Aces.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>Artech Studios</publisher>
+		<genre>Shoot'em Up-Simulation</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="36104" source="ScreenScraper.fr">
+		<path>./AcroJet.d64</path>
+		<name>Acro Jet - The Advanced Flight Simulator</name>
+		<desc>Acrojet contains ten acrobatic events which can be played by up to four players and at four different levels of difficulty. In all ten events you fly a BD5J Acrojet over a series of obstacles:  1. In the Pylon Race you have to fly around pylons and land safely.  2. In the Slalom Race you have to fly a 'figure 8'. 3. In the next event, the Ribbon Cut you have to break two ribbons. 4. In the Inverted Ribbon Cut you perform the same stunt but flying the plane upside down.  5. In the Ribbon Roll there are two ribbons in a row and you have to fly under one  and complete a full roll followed by flying under the second ribbon. 6. In the Under Ribbon Race you perform a slalom by flying in sequence under three ribbons.  7. In the Under Ribbon Loop you fly under a ribbon followed by a loop and passing over the same ribbon upside down. 8. In the Spot Landing event you have to fly up to 2,000 feet and land on the runway as close as possible to a marked spot. 9. In the Flame-Out Landing event you perform the same stunt  but then without the engines running. 10. The tenth and last event, the Cuban Eight, you have to make a half-loop over a ribbon, followed by a half-role, a half loop and flying under the first ribbon again.   Some game parameters can be set. You can decide how the weather conditions are going to be. An instrument panel at the bottom of the screen contains several read-outs, like a altitude meter, a compass, an artificial horizon and a vertical velocity meter.</desc>
+		<image>./mixart/AcroJet.png</image>
+		<video>./snap/Acrojet.mp4</video>
+		<marquee>./wheel/AcroJet.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>U.S. Gold</developer>
+		<publisher>MicroProse</publisher>
+		<genre>Simulation</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game id="109467" source="ScreenScraper.fr">
+		<path>./Action Ball.d64</path>
+		<name>Action Ball</name>
+		<image>./mixart/Action Ball.png</image>
+		<video>./snap/Action Ball.mp4</video>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<publisher>Magic Disk</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="109373" source="ScreenScraper.fr">
+		<path>./Action Biker.d64</path>
+		<name>Action Biker</name>
+		<desc>The player controls the protagonist Clumsy Colin who rides a motorbike and has to navigate a landscape to extra equipment to improve the bike. Once all pieces are collected the player performs a final drag race. There is a time limit, and the player also has a limited number of lives reduced by crashing into background objects.</desc>
+		<image>./mixart/Action Biker.png</image>
+		<video>./snap/Action Biker.mp4</video>
+		<marquee>./wheel/Action Biker.png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Mastertronic</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="35906" source="ScreenScraper.fr">
+		<path>./Action Fighter.d64</path>
+		<name>Action Fighter</name>
+		<desc>This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.  By destroying cars and bikes that appear on your way, you can collect A-F letters. Collecting A through to D allows you change into a sportscar which is less vulnerable to attack, but not as nimble. Collect all the letters in order to be able to transform into a high tech plane. This is the final stage of one of the five missions. Only the high tech plane can guide you to your destination in which your main target is hiding.  There is also time limit in which you have to complete the mission. It is advisable to transform into the high tech plane as fast as it is possible.  Picking up flags gives you bonus points with 10,000 points gaining you an extra life.</desc>
+		<image>./mixart/Action Fighter.png</image>
+		<video>./snap/Action Fighter.mp4</video>
+		<marquee>./wheel/Action Fighter.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Firebird</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
 	</game>
 </gameList>

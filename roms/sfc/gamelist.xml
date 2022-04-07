@@ -3281,21 +3281,6 @@ Makeruna! Makendo 2 is a comical VS fighting game with an eclectic cast of chara
 		<crc32>80B60C36</crc32>
 		<cheevosHash>A6D7097E5B3720707C9BC2C3FFB846BE</cheevosHash>
 	</game>
-	<game id="2800" source="ScreenScraper.fr">
-		<path>./Naxat Super Pinball - Jaki Hakai (Japan).zip</path>
-		<name>Naxat Super Pinball : Jaki Crush</name>
-		<desc>Jaki Crush is the third game in the Crush Pinball series, with a distinct demon and a horror theme. It is also the only title in the pinball series not released outside of Japan. It is based around the theme of a Jaki, a Japanese type of mythological demon and it contains a single table divided in three levels with six flippers. It can be played with two players (taking turns) and contains an option to alter the ball speed. There is a large amount of moving and stationary targets, and creatures that can be destroyed. There are six bonus stages that are accessed by shooting into a demon's mouth when it is open.</desc>
-		<image>./mixart/Naxat Super Pinball - Jaki Hakai (Japan).png</image>
-		<video>./snap/Naxat Super Pinball - Jaki Hakai (Japan).mp4</video>
-		<marquee>./wheel/Naxat Super Pinball - Jaki Hakai (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19921218T000000</releasedate>
-		<developer>Compile</developer>
-		<publisher>Naxat Soft</publisher>
-		<players>2</players>
-		<crc32>C416B1B8</crc32>
-		<cheevosHash>DB70950CBF7FF13C94CE249494B0B4D5</cheevosHash>
-	</game>
 	<game id="19149" source="ScreenScraper.fr">
 		<path>./Nekketsu Tairiku Burning Heroes (Japan) (Translated En).zip</path>
 		<name>Nekketsu Tairiku Burning Heroes</name>
@@ -6939,25 +6924,6 @@ The single-player mode involves fighting through various worlds and removing all
 		<region>jp</region>
 		<cheevosHash>1D410A114F6EEE33C5A55C8FBF11C5EE</cheevosHash>
 	</game>
-	<game id="38602" source="ScreenScraper.fr">
-		<path>./Battle Pinball (Japan).zip</path>
-		<name>Battle Pinball</name>
-		<desc>Battle Pinball is a multi-table pinball game exclusive for the Super Famicom and part of Banpresto's "Compati Hero Series" that brings together the licenses for Ultraman, Kamen Rider and Gundam. As with other games in the series, all the characters have been super-deformed to normalize the heights of the differently-sized heroes.
-
-The game contains four tables, each themed to a different hero: Kamen Rider, who fights in dusty wastelands with a number of his recurring enemies; Ultraman, who fights in a city against various kaiju; Knight Gundam, who fights in space; and Banpresto's own original character Fighter Roar, whose stage is set under the ocean. Each table also has three screens, each with their own set of paddles, and the player attempts to earn highscores from the various features on each table.</desc>
-		<image>./mixart/Battle Pinball (Japan).png</image>
-		<video>./snap/Battle Pinball (Japan).mp4</video>
-		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Banpresto</publisher>
-		<players>1</players>
-		<crc32>16D46E2D</crc32>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>AAF6E70555D20C72F0C6092809153D2A</cheevosHash>
-	</game>
 	<game id="38603" source="ScreenScraper.fr">
 		<path>./Battle Racers (Japan).zip</path>
 		<name>Battle Racers</name>
@@ -8813,5 +8779,39 @@ This game received a sequel in the form of Zero4 Champ RR-Z.</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>DF5744DA0EB4342F2E3302CA5DB81B01</cheevosHash>
+	</game>
+	<game id="38602" source="ScreenScraper.fr">
+		<path>./Battle Pinball (Japan).zip</path>
+		<name>Battle Pinball</name>
+		<desc>Battle Pinball is a multi-table pinball game exclusive for the Super Famicom and part of Banpresto's "Compati Hero Series" that brings together the licenses for Ultraman, Kamen Rider and Gundam. As with other games in the series, all the characters have been super-deformed to normalize the heights of the differently-sized heroes.
+
+The game contains four tables, each themed to a different hero: Kamen Rider, who fights in dusty wastelands with a number of his recurring enemies; Ultraman, who fights in a city against various kaiju; Knight Gundam, who fights in space; and Banpresto's own original character Fighter Roar, whose stage is set under the ocean. Each table also has three screens, each with their own set of paddles, and the player attempts to earn highscores from the various features on each table.</desc>
+		<image>./mixart/Battle Pinball (Japan).png</image>
+		<video>./snap/Battle Pinball (Japan).mp4</video>
+		<marquee>./wheel/Battle Pinball (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<players>1</players>
+		<crc32>16D46E2D</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>AAF6E70555D20C72F0C6092809153D2A</cheevosHash>
+	</game>
+	<game id="2800" source="ScreenScraper.fr">
+		<path>./Naxat Super Pinball - Jaki Hakai (Japan).zip</path>
+		<name>Naxat Super Pinball : Jaki Crush</name>
+		<desc>Jaki Crush is the third game in the Crush Pinball series, with a distinct demon and a horror theme. It is also the only title in the pinball series not released outside of Japan. It is based around the theme of a Jaki, a Japanese type of mythological demon and it contains a single table divided in three levels with six flippers. It can be played with two players (taking turns) and contains an option to alter the ball speed. There is a large amount of moving and stationary targets, and creatures that can be destroyed. There are six bonus stages that are accessed by shooting into a demon's mouth when it is open.</desc>
+		<image>./mixart/Naxat Super Pinball - Jaki Hakai (Japan).png</image>
+		<video>./snap/Naxat Super Pinball - Jaki Hakai (Japan).mp4</video>
+		<marquee>./wheel/Naxat Super Pinball - Jaki Hakai (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19921218T000000</releasedate>
+		<developer>Compile</developer>
+		<publisher>Naxat Soft</publisher>
+		<players>2</players>
+		<crc32>C416B1B8</crc32>
+		<cheevosHash>DB70950CBF7FF13C94CE249494B0B4D5</cheevosHash>
 	</game>
 </gameList>

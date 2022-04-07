@@ -1357,22 +1357,6 @@ However, once you've caught up with your suspect, you are given more time. Your 
 		<players>1</players>
 		<cheevosHash>189AEC122AC913609C955C7C62AAA2E2</cheevosHash>
 	</game>
-	<game>
-		<path>./Time Cruise (USA).zip</path>
-		<name>Time Cruise</name>
-		<desc>Time Cruise is a pinball game with a story.  The story has a scientist by the name of Eric who one day hears a voice claiming to be an extraterrestrial and through this voice learns the secret to time travel.  After several years of building his creation, he is finally finished and crawls in to his round metal time machine and is off on a quest to travel through time and meet his extraterrestrial friend.
-
-The goal of the game, much like many others in the genre, is to reach and certain amount of points in one of several different pinball tables that range in different time periods including prehistoric times and up to the future.</desc>
-		<image>./mixart/Time Cruise (USA).png</image>
-		<video>./snap/Time Cruise (USA).mp4</video>
-		<marquee>./wheel/Time Cruise (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19911108T000000</releasedate>
-		<developer>FACE</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Pinball</genre>
-		<cheevosHash>28EFE8B957A43FACBA53AFE2AEC38A69</cheevosHash>
-	</game>
 	<game id="59845" source="ScreenScraper">
 		<path>./Timeball (USA).zip</path>
 		<name>Timeball</name>
@@ -1633,7 +1617,7 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<image>./mixart/1941 - Counter Attack.png</image>
 		<video>./snap/1941 - Counter Attack.mp4</video>
 		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910823</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1690,7 +1674,7 @@ Nearing the year 2020, the societies of mankind fall into global depression just
 		<image>./mixart/Aldynes.png</image>
 		<video>./snap/Aldynes.mp4</video>
 		<marquee>./wheel/Aldynes.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910222</releasedate>
 		<developer>Produce Co., Ltd.</developer>
 		<publisher>Hudson</publisher>
@@ -1749,5 +1733,21 @@ In addition, many different kinds of obstacles appear throughout the game, inclu
 		<region>us</region>
 		<cheevosHash>94814DB23E163DBFC7D7505170E145C2</cheevosHash>
 		<cheevosId>2298</cheevosId>
+	</game>
+	<game>
+		<path>./Time Cruise (USA).zip</path>
+		<name>Time Cruise</name>
+		<desc>Time Cruise is a pinball game with a story.  The story has a scientist by the name of Eric who one day hears a voice claiming to be an extraterrestrial and through this voice learns the secret to time travel.  After several years of building his creation, he is finally finished and crawls in to his round metal time machine and is off on a quest to travel through time and meet his extraterrestrial friend.
+
+The goal of the game, much like many others in the genre, is to reach and certain amount of points in one of several different pinball tables that range in different time periods including prehistoric times and up to the future.</desc>
+		<image>./mixart/Time Cruise (USA).png</image>
+		<video>./snap/Time Cruise (USA).mp4</video>
+		<marquee>./wheel/Time Cruise (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19911108T000000</releasedate>
+		<developer>FACE</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Pinball</genre>
+		<cheevosHash>28EFE8B957A43FACBA53AFE2AEC38A69</cheevosHash>
 	</game>
 </gameList>

@@ -10508,22 +10508,6 @@ Game 4=U: 7.5 minutes; L: 6 minutes</desc>
 		<players>4</players>
 		<cheevosHash>60E0EA3CBE0913D39803477945E9E5EC</cheevosHash>
 	</game>
-	<game id="14128" source="ScreenScraper.fr">
-		<path>./Video Pinball (USA).zip</path>
-		<name>Video Pinball : Arcade Pinball</name>
-		<desc>Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.</desc>
-		<image>./mixart/Video Pinball (USA).png</image>
-		<video>./snap/Video Pinball (USA).mp4</video>
-		<marquee>./wheel/Video Pinball (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Atari</publisher>
-		<genre>Action-Pinball-Simulation</genre>
-		<players>2</players>
-		<cheevosHash>107CC025334211E6D29DA0B6BE46AEC7</cheevosHash>
-		<cheevosId>13062</cheevosId>
-	</game>
 	<game id="87975" source="ScreenScraper.fr">
 		<path>./Video Reflex (USA).zip</path>
 		<name>Video Reflex</name>
@@ -11089,7 +11073,7 @@ The score of the Player 1 is viewable on the upper left side of the screen, whil
 		<video>./snap/Astrowar (Europe).mp4</video>
 		<marquee>./wheel/Astrowar (Europe).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Dimax - Sinmax</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
@@ -11172,7 +11156,7 @@ The Atomic Arena is where all sorts of nasty, burly life-forms come to contest e
 		<video>./snap/Atom Smasher (USA) (Proto).mp4</video>
 		<marquee>./wheel/Atom Smasher (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Video Soft</publisher>
 		<genre>Shoot'em Up</genre>
 		<lang>en</lang>
@@ -11365,7 +11349,7 @@ To simplify the input of data, BASIC Programming requires a set of special keybo
 		<video>./snap/BASIC Programming (USA).mp4</video>
 		<marquee>./wheel/BASIC Programming (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<genre>Various</genre>
@@ -11477,7 +11461,7 @@ Bee-Ball is something like a combination of volleyball and tennis. A ball of hon
 		<video>./snap/Bee-Ball (USA) (Unl).mp4</video>
 		<marquee>./wheel/Bee-Ball (USA) (Unl).png</marquee>
 		<rating>0.65</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>AtariAge</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
@@ -11682,7 +11666,7 @@ In advanced mode and later levels, you have to hit the ramp/pipe at more precise
 		<video>./snap/Time Warp (Europe).mp4</video>
 		<marquee>./wheel/Time Warp (Europe).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Fun Vision</developer>
 		<publisher>Goliath</publisher>
 		<genre>Shooter</genre>
@@ -11690,5 +11674,21 @@ In advanced mode and later levels, you have to hit the ramp/pipe at more precise
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>D6D1DDD21E9D17EA5F325FA09305069C</cheevosHash>
+	</game>
+	<game id="14128" source="ScreenScraper.fr">
+		<path>./Video Pinball (USA).zip</path>
+		<name>Video Pinball : Arcade Pinball</name>
+		<desc>Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.</desc>
+		<image>./mixart/Video Pinball (USA).png</image>
+		<video>./snap/Video Pinball (USA).mp4</video>
+		<marquee>./wheel/Video Pinball (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Pinball-Simulation</genre>
+		<players>2</players>
+		<cheevosHash>107CC025334211E6D29DA0B6BE46AEC7</cheevosHash>
+		<cheevosId>13062</cheevosId>
 	</game>
 </gameList>

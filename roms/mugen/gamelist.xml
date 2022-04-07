@@ -956,19 +956,20 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TMNT Tournament Fighters.lnk</path>
-		<name>TMNT Tournament Fighters</name>
-		<desc>Mugen Fanmade 2D Fighting TMNT Tournament Fighters</desc>
-		<image>./mixart/TMNT Tournament Fighters.png</image>
-		<video>./snap/TMNT Tournament Fighters.mp4</video>
-		<marquee>./wheel/TMNT Tournament Fighters.png</marquee>
+		<path>./Classic SPIDER-MAN.lnk</path>
+		<name>Classic SPIDER-MAN</name>
+		<desc>Mugen Fanmade 2D Fighting Classic SPIDER-MAN</desc>
+		<image>./mixart/Classic SPIDER-MAN.png</image>
+		<video>./snap/Classic SPIDER-MAN.mp4</video>
+		<marquee>./wheel/Classic SPIDER-MAN.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20150211T010000</releasedate>
+		<releasedate>20200211T010000</releasedate>
 		<developer>Fanmade</developer>
 		<publisher>Mugen</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Halloween Battle Mugenation.lnk</path>
@@ -984,51 +985,7 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Mortal Kombat II HD.lnk</path>
-		<name>Mortal Kombat II HD</name>
-		<desc>Mugen Fanmade 2D Fighting Mortal Kombat II HD</desc>
-		<image>./mixart/Mortal Kombat II HD.png</image>
-		<video>./snap/Mortal Kombat II HD.mp4</video>
-		<marquee>./wheel/Mortal Kombat II HD.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Resident Evil M.U.G.E.N.lnk</path>
-		<name>Resident Evil M.U.G.E.N</name>
-		<desc>Mugen Fanmade 2D Fighting Resident Evil M.U.G.E.N</desc>
-		<image>./mixart/Resident Evil M.U.G.E.N.png</image>
-		<video>./snap/Resident Evil M.U.G.E.N.mp4</video>
-		<marquee>./wheel/Resident Evil M.U.G.E.N.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Classic SPIDER-MAN.lnk</path>
-		<name>Classic SPIDER-MAN</name>
-		<desc>Mugen Fanmade 2D Fighting Classic SPIDER-MAN</desc>
-		<image>./mixart/Classic SPIDER-MAN.png</image>
-		<video>./snap/Classic SPIDER-MAN.mp4</video>
-		<marquee>./wheel/Classic SPIDER-MAN.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 	<game>
 		<path>./JUMP SuperStars SmashBros.lnk</path>
@@ -1044,5 +1001,54 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mortal Kombat II HD.lnk</path>
+		<name>Mortal Kombat II HD</name>
+		<desc>Mugen Fanmade 2D Fighting Mortal Kombat II HD</desc>
+		<image>./mixart/Mortal Kombat II HD.png</image>
+		<video>./snap/Mortal Kombat II HD.mp4</video>
+		<marquee>./wheel/Mortal Kombat II HD.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Resident Evil M.U.G.E.N.lnk</path>
+		<name>Resident Evil M.U.G.E.N</name>
+		<desc>Mugen Fanmade 2D Fighting Resident Evil M.U.G.E.N</desc>
+		<image>./mixart/Resident Evil M.U.G.E.N.png</image>
+		<video>./snap/Resident Evil M.U.G.E.N.mp4</video>
+		<marquee>./wheel/Resident Evil M.U.G.E.N.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TMNT Tournament Fighters.lnk</path>
+		<name>TMNT Tournament Fighters</name>
+		<desc>Mugen Fanmade 2D Fighting TMNT Tournament Fighters</desc>
+		<image>./mixart/TMNT Tournament Fighters.png</image>
+		<video>./snap/TMNT Tournament Fighters.mp4</video>
+		<marquee>./wheel/TMNT Tournament Fighters.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

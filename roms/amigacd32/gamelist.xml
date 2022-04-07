@@ -1529,22 +1529,6 @@ Each of the four tables has one or two high-scoring rounds that can be started b
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Pinball Illusions (Europe).chd</path>
-		<name>Pinball Illusions</name>
-		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. New to this version is multi-ball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
-		<image>./mixart/Pinball Illusions (Europe).png</image>
-		<video>./snap/Pinball Illusions (Europe).mp4</video>
-		<marquee>./wheel/Pinball Illusions (Europe).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Digital Illusions</developer>
-		<publisher>20th Century Fox</publisher>
-		<genre>Pinball</genre>
-		<players>8</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].chd</path>
 		<name>Pinball Prelude</name>
 		<desc>The central theme of the pinball game Pinball Prelude is time. The first table is set in the past and features a dinosaur setting, with table elements being not easily recognizable as such since they blend into the environment. The second table is set in the present and at the same time the most conventional of the three design-wise. The third table plays in the future and contains five flippers in total.
@@ -2616,6 +2600,22 @@ There are four large levels, which also scroll a small amount horizontally, the 
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Pinball Illusions (Europe).chd</path>
+		<name>Pinball Illusions</name>
+		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. New to this version is multi-ball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
+		<image>./mixart/Pinball Illusions (Europe).png</image>
+		<video>./snap/Pinball Illusions (Europe).mp4</video>
+		<marquee>./wheel/Pinball Illusions (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>20th Century Fox</publisher>
+		<genre>Pinball</genre>
+		<players>8</players>
+		<lang>en</lang>
 		<region>eu</region>
 	</game>
 </gameList>

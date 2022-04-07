@@ -3148,25 +3148,6 @@ Puyo Pop Fever features a Two Player Mode. Some versions allow for more people s
 		<cheevosHash>AABE32CC33B3E445268889B9F3EEF2CA</cheevosHash>
 		<cheevosId>16274</cheevosId>
 	</game>
-	<game>
-		<path>./Retro Game Challenge (USA).zip</path>
-		<name>Retro Game Challenge</name>
-		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
-
-Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
-
-There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
-		<image>./mixart/Retro Game Challenge (USA).png</image>
-		<video>./snap/Retro Game Challenge (USA).mp4</video>
-		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20090210T000000</releasedate>
-		<developer>Indies Zero</developer>
-		<publisher>Xseed Games</publisher>
-		<favorite>true</favorite>
-		<cheevosHash>E8946B706009B04120C16453C14F77E6</cheevosHash>
-		<cheevosId>1172</cheevosId>
-	</game>
 	<game id="7081" source="ScreenScraper.fr">
 		<path>./Ridge Racer DS (USA, Europe).zip</path>
 		<name>Ridge Racer Ds</name>
@@ -4177,5 +4158,26 @@ There are 5 varied game play modes: Normal, Tokoton, Quest, Time Attack and 2P. 
 		<publisher>Taito</publisher>
 		<players>2</players>
 		<cheevosHash>1295AF3B28322E503FF7B1D5B6BC83FD</cheevosHash>
+	</game>
+	<game>
+		<path>./Retro Game Challenge (USA).zip</path>
+		<name>Retro Game Challenge</name>
+		<desc>Arino wants to be the greatest gamer in the world, but he's continually defeated by his friends at every new game that comes out. His obsession has spawned a digital version himself within his own Nintendo DS. This digital version of himself has come to be known as "Game Master Arino", who haunts gamers around the world with retro game challenges. You have been chosen by Game Master Arino, and are now trapped in the 1980s until you can defeat his game challenges.
+
+Retro Game Challenge, based on the Japanese TV show Game Center CX, has you playing faithfully-recreated clones of popular NES-era games, attempting to complete challenges and freeing yourself from Game Master Arino. You are accompanied by Arino himself as a young lad, who will cheer you on as you're playing each game. You can also read the latest gaming mags for tips, cheats, and previews of upcoming titles.
+
+There are eight games total, each modeled after 8-bit classics such as Galaga (Cosmic Gate), Dragon Warrior (Gaudia Quest), and Ninja Jajamaru-kun (Robot Ninja Haggle Man). Each game has multiple challenges from Arino to complete, such as clearing a certain stage or earning a set number of points, and can also be played in a free play mode once all challenges have been cleared.</desc>
+		<image>./mixart/Retro Game Challenge (USA).png</image>
+		<video>./snap/Retro Game Challenge (USA).mp4</video>
+		<marquee>./wheel/Retro Game Challenge (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20090210T000000</releasedate>
+		<developer>Indies Zero</developer>
+		<publisher>Xseed Games</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E8946B706009B04120C16453C14F77E6</cheevosHash>
+		<cheevosId>1172</cheevosId>
 	</game>
 </gameList>

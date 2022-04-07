@@ -3065,22 +3065,6 @@ Features:
 		<players>1</players>
 		<genreid>257</genreid>
 	</game>
-	<game id="11025" source="ScreenScraper.fr">
-		<path>./New Super Mario Bros. 2 (Usa).3ds</path>
-		<name>New Super Mario Bros. 2</name>
-		<desc>New Super Mario Bros. 2 is a traditional side-scrolling adventure game featuring Mario, Luigi and loads of other favorite characters from the popular Mario series. The game was created specifically as a pick-up-and-play experience that can be instantly enjoyed by players of all skill levels on the Nintendo 3DS system.</desc>
-		<image>./mixart/New Super Mario Bros. 2 (Usa).png</image>
-		<video>./snap/New Super Mario Bros. 2 (Usa).mp4</video>
-		<marquee>./wheel/New Super Mario Bros. 2 (Usa).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20120817T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Swords &amp; Darkness (USA).3ds</path>
 		<name>Swords &amp; Darkness</name>
@@ -3171,22 +3155,6 @@ Scattered throughout the levels include coins (that add towards your score), Her
 		<players>1</players>
 		<genreid>257</genreid>
 	</game>
-	<game id="11009" source="ScreenScraper.fr">
-		<path>./Mario Kart 7 (U).3ds</path>
-		<name>Mario Kart 7</name>
-		<desc>The newest installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.</desc>
-		<image>./mixart/Mario Kart 7 (U).png</image>
-		<video>./snap/Mario Kart 7 (U).mp4</video>
-		<marquee>./wheel/Mario Kart 7 (U).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-8</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="11200" source="ScreenScraper.fr">
 		<path>./Tom Clancys Ghost Recon - Shadow Wars (USA).3ds</path>
 		<name>Tom Clancy's Ghost Recon - Shadow Wars</name>
@@ -3259,5 +3227,41 @@ Features:
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>768</genreid>
+	</game>
+	<game id="11009" source="ScreenScraper.fr">
+		<path>./Mario Kart 7 (U).3ds</path>
+		<name>Mario Kart 7</name>
+		<desc>The newest installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.</desc>
+		<image>./mixart/Mario Kart 7 (U).png</image>
+		<video>./snap/Mario Kart 7 (U).mp4</video>
+		<marquee>./wheel/Mario Kart 7 (U).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-8</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="11025" source="ScreenScraper.fr">
+		<path>./New Super Mario Bros. 2 (Usa).3ds</path>
+		<name>New Super Mario Bros. 2</name>
+		<desc>New Super Mario Bros. 2 is a traditional side-scrolling adventure game featuring Mario, Luigi and loads of other favorite characters from the popular Mario series. The game was created specifically as a pick-up-and-play experience that can be instantly enjoyed by players of all skill levels on the Nintendo 3DS system.</desc>
+		<image>./mixart/New Super Mario Bros. 2 (Usa).png</image>
+		<video>./snap/New Super Mario Bros. 2 (Usa).mp4</video>
+		<marquee>./wheel/New Super Mario Bros. 2 (Usa).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20120817T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
 	</game>
 </gameList>
