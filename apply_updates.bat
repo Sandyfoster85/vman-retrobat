@@ -40,7 +40,7 @@ rem 6. 2021-11-14 - snes9x change controller remap for 'H' some home brew games 
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\snes9x\ V:\RetroBat\emulators\snes9x\ /S /NFL /NDL /IS /MT:4
 
 rem 7. 2021-12-24 - sync vman custom collections - reported by MrPippet
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\collections\ V:\RetroBat\emulationstation\.emulationstation\collections\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\collections\ V:\RetroBat\emulationstation\.emulationstation\collections\ /S /NFL /NDL /IS /MT:4
 
 rem 8. 2021-12-28 - EmulationStation Theme fix for apple2/c20 - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
