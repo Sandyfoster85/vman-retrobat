@@ -6528,22 +6528,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Killer Instinct.lnk</path>
-		<name>Killer Instinct</name>
-		<desc>The legendary fighting franchise is back with all new visuals, over-the-top action, a wild cast of combatants, rocking reactive music, and C-C-C-COMBO BREAKERS!!! Choose your ultimate combatants each with fluid animations, unique combat tactics, and enthralling special attacks. Use the open-ended combo system to rack up huge combos as your opponent looks for openings to break you and turn the tides of battle. Master your combat skills with in-depth tutorials and intelligent AI combatants.</desc>
-		<image>./mixart/Killer Instinct.jpg</image>
-		<video>./snap/Killer Instinct.mp4</video>
-		<marquee>./wheel/Killer Instinct.png</marquee>
-		<rating>1</rating>
-		<releasedate>20161104T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./House of the Dead-Scarlet Dawn.lnk</path>
 		<name>House of the Dead: Scarlet Dawn</name>
 		<desc>House of the Dead: Scarlet Dawn is the fifth arcade game in the House of the Dead series. It takes place in 2006, between the events of The House of the Dead 4 and The House of the Dead III. The game's story follows AMS agents Kate Green and Ryan Taylor who infiltrate Scarecrow Manor just as a horde of bioengineered creatures attack. From then on they have to fight their way to safety while exploring the mansion and uncovering who is behind the outbreak. Like in previous games in the series, the player uses a gun controller to shoot enemies as they appear on the screen. Each creature has a weak spot that deals extra damage when hit. In addition to the monsters, there are also civilians that have to be avoided. The player also has to keep track of the partner who at any time might need to be rescued. Failure to do so before time runs out leads to a life penalty. A new feature to the series is the introduction of quick-time events in which the player needs to quickly shoot a specific target. Reloading is automatic but can also be done manually by pointing outside the screen. In addition to the main machine gun, the player can choose two more items (shotgun, grenade, rocket launcher, etc.) ahead of each level. In the Japanese version, items are bought with coins which are awarded for successful actions such as critical shots, collectibles obtained and saved civilians while in the international versions items can be chosen freely. Another Japan-exclusive feature is the use of Aime cards. They are used for storing progress, keeping collected coins, completing achievements, checking high scores and taking part in national leaderboards. Part of the Aime functionality is also a level system where players earn experience for each stage completed and are rewarded with coins for every level up. The game has two game modes: normal mode and master mode. The normal mode is for first time players and includes assistance events. The master mode is for advanced players and has stronger and faster enemies.</desc>
@@ -6590,5 +6574,35 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Killer Instinct.lnk</path>
+		<name>Killer Instinct</name>
+		<desc>The legendary fighting franchise is back with all new visuals, over-the-top action, a wild cast of combatants, rocking reactive music, and C-C-C-COMBO BREAKERS!!! Choose your ultimate combatants each with fluid animations, unique combat tactics, and enthralling special attacks. Use the open-ended combo system to rack up huge combos as your opponent looks for openings to break you and turn the tides of battle. Master your combat skills with in-depth tutorials and intelligent AI combatants.</desc>
+		<image>./mixart/Killer Instinct.jpg</image>
+		<video>./snap/Killer Instinct.mp4</video>
+		<marquee>./wheel/Killer Instinct.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20161104T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./The King of Fighters XIV.lnk</path>
+		<name>The King of Fighters XIV: Steam Edition</name>
+		<desc>KOF XIV is the newest entry in the acclaimed THE KING OF FIGHTERS series of fighting games. Lead by veteran creator and FATAL FURY creator Yasuyuki Oda, KOF XIV takes the iconic gameplay that the series is known for while implementing new 3D visuals, a first for a mainline entry in the series! Featuring a robust roster of 50 characters in the base game along with 4 DLC characters, including both returning fan favorites and new characters, this entry is perfect for veterans and newcomers alike!</desc>
+		<image>./mixart/The King of Fighters XIV.jpg</image>
+		<video>./snap/The King of Fighters XIV.mp4</video>
+		<marquee>./wheel/The King of Fighters XIV.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171104T000000</releasedate>
+		<developer>SNK Corporation</developer>
+		<publisher>Atlus</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>
