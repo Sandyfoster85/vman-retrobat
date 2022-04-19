@@ -2913,25 +2913,6 @@ Multiplayer is also supported, allowing up to 4 players in hotseat and 12 online
 		<region>eu</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="10249" source="ScreenScraper.fr">
-		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
-		<name>Indianapolis 500 Legends</name>
-		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
-
-Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
-		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
-		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
-		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
-		<releasedate>20071002T000000</releasedate>
-		<developer>Torus Games</developer>
-		<publisher>Torus Games</publisher>
-		<genre>Sports-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
-	</game>
 	<game id="8713" source="ScreenScraper.fr">
 		<path>./Super Paper Mario.wbfs</path>
 		<name>Super Paper Mario</name>
@@ -3294,5 +3275,24 @@ Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinbal
 		<md5>26856a830782bcba2faba2f19f15116f</md5>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="10249" source="ScreenScraper.fr">
+		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
+		<name>Indianapolis 500 Legends</name>
+		<desc>Indianapolis 500 Legends transports us back to the famous race during the Golden Racing era from 1961 to 1971. Race in open-wheel Indy cars and play a role in the story that characterized each Indy 500 event. Experience the personal rivalries, technological breakthroughs, race track changes and dramas that shaped the evolution of an epic international motor sport event. 
+
+Indy 500 features mission based racing that includes challenging famous rivals to re-live key moments in Indy 500 history. The game also showcases the innovative control system of the Wii - Steer your race car with the Wii Remote and perform pit stop min-games using gesture games.</desc>
+		<image>./mixart/Indianapolis 500 Legends (USA).cc.png</image>
+		<video>./snap/Indianapolis 500 Legends (USA).cc.mp4</video>
+		<marquee>./wheel/Indianapolis 500 Legends (USA).cc.png</marquee>
+		<releasedate>20071002T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Torus Games</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

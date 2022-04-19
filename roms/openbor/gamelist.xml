@@ -2966,20 +2966,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Project FGC.pak</path>
-		<name>Project FGC</name>
-		<desc>A 2D fighting forces with all great characeters SoF, MK and Fatal Fury series</desc>
-		<image>./mixart/Project FGC.png</image>
-		<video>./snap/Project FGC.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>1-2</players>
-	</game>
-	<game>
 		<path>./Turtles Ninjas and Battletoads.pak</path>
 		<name>Tmnt And Battletoads</name>
 		<image>./mixart/Turtles Ninjas and Battletoads.png</image>
@@ -3846,6 +3832,20 @@
 		<video>./snap/Super Thundercats - The Lost Eye of Thundera.mp4</video>
 		<marquee>./wheel/Super Thundercats - The Lost Eye of Thundera.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
+	</game>
+	<game>
+		<path>./Project FGC.pak</path>
+		<name>Project FGC</name>
+		<desc>A 2D fighting forces with all great characeters SoF, MK and Fatal Fury series</desc>
+		<image>./mixart/Project FGC.png</image>
+		<video>./snap/Project FGC.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
 	</game>
 </gameList>

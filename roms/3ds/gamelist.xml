@@ -96,21 +96,6 @@ The gameplay modes include: Puzzle mode, which consists of eight worlds comprisi
 		<video>./snap/Bust-A-Move Universe (Usa).mp4</video>
 		<genreid>2816</genreid>
 	</game>
-	<game id="176189" source="ScreenScraper.fr">
-		<path>./Kirby - Planet Robobot (USA).3ds</path>
-		<name>Kirby - Planet Robobot</name>
-		<desc>Kirby: Planet Robobot is a 2.5D side-scrolling platform game that uses traditional Kirby platform gameplay; the aim of the game is to guide Kirby towards the end of the level while utilizing his copy abilities to defeat enemies and interact with the environment. This time around, Kirby is defending Popstar from the corrupt Haltmann Works Company, which aims to mechanize the planet and steal its natural resources. The new gameplay mechanic introduced in this title is Robobot Armor, a mech suit with copy abilities similar to Kirby's own. The Robobot Armor is much more powerful than Kirby and can interact with obstacles that he may not be able to pass on his own, but its large size sometimes means Kirby will need to exit the suit and proceed on foot. In addition to the mech gameplay, Kirby has access to three copy abilities that are new to the series: Doctor, Poison, and ESP. All copy abilities can be accessed at will by scanning in compatible amiibos, including alternate costumes that can only be obtained through figures made specifically for this game. 
- 
-Alternate modes include Team Kirby Clash, an action RPG that supports up to 4 players; Kirby 3D Rumble, in which Kirby moves around an arena to defeat enemies as fast as possible while aiming for a high score; Meta Knightmare Returns, a speed-oriented mode in which the player controls Meta Knight through modified versions of the levels from story mode; and the Arena and True Arena modes that return from other platformers in the series.</desc>
-		<releasedate />
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<image>./mixart/Kirby - Planet Robobot (USA).png</image>
-		<marquee>./wheel/Kirby - Planet Robobot (USA).png</marquee>
-		<video>./snap/Kirby - Planet Robobot (USA).mp4</video>
-		<genreid>256</genreid>
-	</game>
 	<game id="176051" source="ScreenScraper.fr">
 		<path>./Cooking Mama - Sweet Shop (USA).3ds</path>
 		<name>Cooking Mama - Sweet Shop</name>
@@ -2678,29 +2663,6 @@ Set the trends and become a fashion superstar in Style Savvy: Trendsetters-only 
 		<video>./snap/Gabrielle's Ghostly Groove 3D (USA).mp4</video>
 		<genreid>266</genreid>
 	</game>
-	<game id="12043" source="ScreenScraper.fr">
-		<path>./Animal Crossing - Happy Home Designer (USA)(En,Fr).3ds</path>
-		<name>Animal Crossing : Happy Home Designer</name>
-		<desc>Show off your style by designing homes for all of your favorite Animal Crossing villagers! Use your creativity to design the perfect houses - inside and out - for both old and new friends. With the new amiibo cards, you can call your favorite villagers into the game. 
- 
-Features: 
- 
-Design the interior and exterior of hundreds of homes for animal villagers 
-Leave your decorative touch on the school, hospital and other public facilities 
-Collect and Connect - Collect and share amiibo cards of your favorite villagers, and invite them into your game 
-Tap amiibo cards to invite up to four characters into a room to hang out 
-Tap the amiibo cards of special characters to call in animals that would otherwise not appear in your game with requests</desc>
-		<rating>0.5</rating>
-		<releasedate>20150925T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation</genre>
-		<players>1</players>
-		<image>./mixart/Animal Crossing - Happy Home Designer (USA)(En,Fr).png</image>
-		<marquee>./wheel/Animal Crossing - Happy Home Designer (USA)(En,Fr).png</marquee>
-		<video>./snap/Animal Crossing - Happy Home Designer (USA)(En,Fr).mp4</video>
-		<genreid>1024</genreid>
-	</game>
 	<game id="176007" source="ScreenScraper.fr">
 		<path>./Animal Crossing - New Leaf - Welcome Amiibo (USA).3ds</path>
 		<name>Animal Crossing - New Leaf - Welcome Amiibo</name>
@@ -3263,5 +3225,47 @@ Features:
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>257</genreid>
+	</game>
+	<game id="12043" source="ScreenScraper.fr">
+		<path>./Animal Crossing - Happy Home Designer (USA)(En,Fr).3ds</path>
+		<name>Animal Crossing : Happy Home Designer</name>
+		<desc>Show off your style by designing homes for all of your favorite Animal Crossing villagers! Use your creativity to design the perfect houses - inside and out - for both old and new friends. With the new amiibo cards, you can call your favorite villagers into the game. 
+ 
+Features: 
+ 
+Design the interior and exterior of hundreds of homes for animal villagers 
+Leave your decorative touch on the school, hospital and other public facilities 
+Collect and Connect - Collect and share amiibo cards of your favorite villagers, and invite them into your game 
+Tap amiibo cards to invite up to four characters into a room to hang out 
+Tap the amiibo cards of special characters to call in animals that would otherwise not appear in your game with requests</desc>
+		<image>./mixart/Animal Crossing - Happy Home Designer (USA)(En,Fr).png</image>
+		<video>./snap/Animal Crossing - Happy Home Designer (USA)(En,Fr).mp4</video>
+		<marquee>./wheel/Animal Crossing - Happy Home Designer (USA)(En,Fr).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20150925T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<lang>en,fr</lang>
+		<region>eu</region>
+		<genreid>1024</genreid>
+	</game>
+	<game id="176189" source="ScreenScraper.fr">
+		<path>./Kirby - Planet Robobot (USA).3ds</path>
+		<name>Kirby - Planet Robobot</name>
+		<desc>Kirby: Planet Robobot is a 2.5D side-scrolling platform game that uses traditional Kirby platform gameplay; the aim of the game is to guide Kirby towards the end of the level while utilizing his copy abilities to defeat enemies and interact with the environment. This time around, Kirby is defending Popstar from the corrupt Haltmann Works Company, which aims to mechanize the planet and steal its natural resources. The new gameplay mechanic introduced in this title is Robobot Armor, a mech suit with copy abilities similar to Kirby's own. The Robobot Armor is much more powerful than Kirby and can interact with obstacles that he may not be able to pass on his own, but its large size sometimes means Kirby will need to exit the suit and proceed on foot. In addition to the mech gameplay, Kirby has access to three copy abilities that are new to the series: Doctor, Poison, and ESP. All copy abilities can be accessed at will by scanning in compatible amiibos, including alternate costumes that can only be obtained through figures made specifically for this game. 
+ 
+Alternate modes include Team Kirby Clash, an action RPG that supports up to 4 players; Kirby 3D Rumble, in which Kirby moves around an arena to defeat enemies as fast as possible while aiming for a high score; Meta Knightmare Returns, a speed-oriented mode in which the player controls Meta Knight through modified versions of the levels from story mode; and the Arena and True Arena modes that return from other platformers in the series.</desc>
+		<image>./mixart/Kirby - Planet Robobot (USA).png</image>
+		<video>./snap/Kirby - Planet Robobot (USA).mp4</video>
+		<marquee>./wheel/Kirby - Planet Robobot (USA).png</marquee>
+		<releasedate></releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

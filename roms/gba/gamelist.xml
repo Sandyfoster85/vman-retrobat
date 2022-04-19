@@ -5606,18 +5606,6 @@ Gumby vs. the Astrobots is a side-scrolling platform game where you play as Gumb
 		<cheevosHash>423482D9F0A696CB985D8143F574864C</cheevosHash>
 		<cheevosId>12714</cheevosId>
 	</game>
-	<game id="83823" source="ScreenScraper.fr">
-		<path>./Hardcore Pinball (USA, Europe).7z</path>
-		<name>Hardcore Pinball</name>
-		<desc>Leave the quarters at home as you take on four themed pinball tables -- Soccer, RoboMech, Retro, and Station -- all brought to life with realistic pinball physics, animated flippers and scoring elements (bumpers, rails, kickers, spinners and more) and digitized music and sound effects.</desc>
-		<image>./mixart/Hardcore Pinball (USA, Europe).png</image>
-		<video>./snap/Hardcore Pinball (USA, Europe).mp4</video>
-		<marquee>./wheel/Hardcore Pinball (USA, Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<genre>Pinball</genre>
-		<cheevosHash>84A1007A744A784BB16C98F1CE04F94E</cheevosHash>
-	</game>
 	<game id="4644" source="ScreenScraper.fr">
 		<path>./Hardcore Pool (Europe) (En,De,Es,It).7z</path>
 		<name>Hardcore Pool</name>
@@ -15918,5 +15906,17 @@ Gameplay consists of navigating through several areas using your Drill Dozer rob
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>73D90562373B2B0882354986AABDD61F</cheevosHash>
+	</game>
+	<game id="83823" source="ScreenScraper.fr">
+		<path>./Hardcore Pinball (USA, Europe).7z</path>
+		<name>Hardcore Pinball</name>
+		<desc>Leave the quarters at home as you take on four themed pinball tables -- Soccer, RoboMech, Retro, and Station -- all brought to life with realistic pinball physics, animated flippers and scoring elements (bumpers, rails, kickers, spinners and more) and digitized music and sound effects.</desc>
+		<image>./mixart/Hardcore Pinball (USA, Europe).png</image>
+		<video>./snap/Hardcore Pinball (USA, Europe).mp4</video>
+		<marquee>./wheel/Hardcore Pinball (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<genre>Pinball</genre>
+		<cheevosHash>84A1007A744A784BB16C98F1CE04F94E</cheevosHash>
 	</game>
 </gameList>

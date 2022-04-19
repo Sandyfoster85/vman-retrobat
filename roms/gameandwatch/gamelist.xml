@@ -6,81 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="88047" source="ScreenScraper.fr">
-		<path>./Baseball.mgw</path>
-		<name>Baseball</name>
-		<desc>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Baseball.png</image>
-		<marquee>./wheel/Baseball.png</marquee>
-		<video>./snap/Baseball.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88048" source="ScreenScraper.fr">
-		<path>./Bomb Fight.mgw</path>
-		<name>Bomb Fight</name>
-		<desc>An angry lion is throwing bombs to a peaceful elephant. Playing the elephant, you have to spit water to bombs to defuse them before they explode. Misses: one miss per exploded bomb. Three misses and game ends. 10 points are awarded when the elephant successfully defuses a bomb. All bombs are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Bomb Fight.png</image>
-		<marquee>./wheel/Bomb Fight.png</marquee>
-		<video>./snap/Bomb Fight.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88049" source="ScreenScraper.fr">
-		<path>./Casio-HF.mgw</path>
-		<name>Caccia al Ladro</name>
-		<desc>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Casio-HF.png</image>
-		<marquee>./wheel/Casio-HF.png</marquee>
-		<video>./snap/Casio-HF.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88050" source="ScreenScraper.fr">
-		<path>./Casio-SF.mgw</path>
-		<name>Cessate il Fuoco</name>
-		<desc>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Casio-SF.png</image>
-		<marquee>./wheel/Casio-SF.png</marquee>
-		<video>./snap/Casio-SF.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88051" source="ScreenScraper.fr">
-		<path>./Chicky Woggy.mgw</path>
-		<name>Chicky Woggy (Time &amp; Fun)</name>
-		<desc>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</desc>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Chicky Woggy.png</image>
-		<marquee>./wheel/Chicky Woggy.png</marquee>
-		<video>./snap/Chicky Woggy.mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="88052" source="ScreenScraper.fr">
 		<path>./Condor.mgw</path>
 		<name>Condor</name>
@@ -648,20 +573,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Banana.mgw</path>
-		<name>Banana</name>
-		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
-1 point is scored for each safe pedestrian.</desc>
-		<image>./mixart/Banana.png</image>
-		<video>./snap/Banana.mp4</video>
-		<marquee>./wheel/Banana.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Armor Battle.mgw</path>
 		<name>Armor Battle</name>
 		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
@@ -753,10 +664,100 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Explorers of Space.mp4</video>
 		<marquee>./wheel/Explorers of Space.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Elektronika</developer>
 		<publisher>Elektronika</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+	</game>
+	<game>
+		<path>./Banana.mgw</path>
+		<name>Banana</name>
+		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
+1 point is scored for each safe pedestrian.</desc>
+		<image>./mixart/Banana.png</image>
+		<video>./snap/Banana.mp4</video>
+		<marquee>./wheel/Banana.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game id="88047" source="ScreenScraper.fr">
+		<path>./Baseball.mgw</path>
+		<name>Baseball</name>
+		<desc>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./mixart/Baseball.png</image>
+		<video>./snap/Baseball.mp4</video>
+		<marquee>./wheel/Baseball.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88048" source="ScreenScraper.fr">
+		<path>./Bomb Fight.mgw</path>
+		<name>Bomb Fight</name>
+		<desc>An angry lion is throwing bombs to a peaceful elephant. Playing the elephant, you have to spit water to bombs to defuse them before they explode. Misses: one miss per exploded bomb. Three misses and game ends. 10 points are awarded when the elephant successfully defuses a bomb. All bombs are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Bomb Fight.png</image>
+		<video>./snap/Bomb Fight.mp4</video>
+		<marquee>./wheel/Bomb Fight.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88049" source="ScreenScraper.fr">
+		<path>./Casio-HF.mgw</path>
+		<name>Caccia al Ladro</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's fish to be stolen by a thief, or she'll shout at him in anger. Spike the dog disturbs Heathcliff's action. Misses: one miss per cleared dish of fish. Three misses and game ends. 10 points are awarded when Heathcliff successfully attacks a thief. All fish are restored at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Casio-HF.png</image>
+		<video>./snap/Casio-HF.mp4</video>
+		<marquee>./wheel/Casio-HF.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88050" source="ScreenScraper.fr">
+		<path>./Casio-SF.mgw</path>
+		<name>Cessate il Fuoco</name>
+		<desc>Help Heathcliff the cat to prevent Sonja's flowers from being burned by flaming sticks thrown by an enemy cat. Spike the dog watches from behind the fence. Misses: one miss per burnt flower. Three misses and game ends. 10 points are awarded when Heathcliff successfully extinguishes a flame. All flames are cleared at every 1000 points. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Casio-SF.png</image>
+		<video>./snap/Casio-SF.mp4</video>
+		<marquee>./wheel/Casio-SF.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88051" source="ScreenScraper.fr">
+		<path>./Chicky Woggy.mgw</path>
+		<name>Chicky Woggy (Time &amp; Fun)</name>
+		<desc>Help Chicky Woggy fill the labyrinth with eggs, while wolves chase her. Chicky Woggy can move across bridges, subways and tunnels to escape wolves. As soon as Chicky Woggy eats magic worms, she can chase and defeat wolves for a short period of time. When the labyrinth is full of eggs, Chicky Woggy moves to a new empty labyrinth. Three misses and game ends. 10 points are scored each time an egg is laid. 50 points are scored each time a worm is eaten. 200 to 400 points are scored each time a wolf is defeated. Bonus life is awarded at 2000 points. Maximum displayed score is 99990.</desc>
+		<image>./mixart/Chicky Woggy.png</image>
+		<video>./snap/Chicky Woggy.mp4</video>
+		<marquee>./wheel/Chicky Woggy.png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
 	</game>
 </gameList>

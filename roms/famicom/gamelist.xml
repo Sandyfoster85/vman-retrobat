@@ -1,56 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game>
-		<path>./1991 Du Ma Racing (China) (Translated En).zip</path>
-		<name>1991 Du Ma Racing</name>
-		<desc>1991 Du Ma Racing is a horse racing game offering two game modes. 
-
-In race mode, two players can compete in a race. By pressing a button at the right time, they can build up their horse's power, then press another button to release it and give their horse an edge in the race. The player who does this faster and more accurately will have a better chance of winning the race.
-
-In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 horses. The race will be simulated without any player interaction, and at the end of each race event players will get their respective prize money. The goal is to earn more money this way than any other player.</desc>
-		<image>./mixart/1991 Du Ma Racing (China) (Translated En).png</image>
-		<video>./snap/1991 Du Ma Racing (China) (Translated En).mp4</video>
-		<marquee>./wheel/1991 Du Ma Racing (China) (Translated En).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>01010101T000000</releasedate>
-		<developer>Idea-Tek, Inc.</developer>
-		<publisher>Super Mega</publisher>
-		<genre>Horses race</genre>
-		<players>6</players>
-		<cheevosHash>E00E49011A57E63E27E940A36C901439</cheevosHash>
-	</game>
-	<game id="18549" source="ScreenScraper">
-		<path>./4 Nin uchi Mahjong (Japan) (Translated En).zip</path>
-		<name>4 Nin Uchi Mahjong</name>
-		<desc>This is a generic and very primitive mahjong game.  It  is Nintendo's second mahjong game made for the Famicom, the first titled simply Mahjong.  This game has smaller tiles than the first one but allows people to play against three computer opponents instead of one.  Both games made with a single 16kbyte PROM and 8kbyte CHROM, thus they don't use any special mapper chips.</desc>
-		<image>./mixart/4 Nin uchi Mahjong (Japan) (Translated En).png</image>
-		<video>./snap/4 Nin uchi Mahjong (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/4 Nin uchi Mahjong (Japan) (Translated En).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19841101T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<cheevosHash>BDEC6EF78F7B652D4E1D754691FD0539</cheevosHash>
-	</game>
-	<game id="1791" source="ScreenScraper">
-		<path>./Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).zip</path>
-		<name>Advanced Dungeons and Dragons - Dragons of Flame</name>
-		<desc>Set in between the SSI's AD&amp;D Dragonlance action games Heroes of the Lance and Shadow Sorcerer. This game follows the tradition of Heroes of the Lance with a side-scrolling, action-oriented view, a breakaway from the standard GoldBox RPGs.  Plot-wise, it also takes place between those two games, following closely the novel/game modules written by Weiss/Hickman.
-
-You take control of one character at a time, with each hero having different abilities.</desc>
-		<image>./mixart/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).png</image>
-		<video>./snap/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).png</marquee>
-		<rating>0</rating>
-		<releasedate>19920221T000000</releasedate>
-		<developer>Pony Canyon</developer>
-		<publisher>U.S. Gold</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<cheevosHash>73902F0DB4C43B651672173853977423</cheevosHash>
-	</game>
 	<game id="1432" source="ScreenScraper">
 		<path>./Airwolf (Japan) (Translated En).zip</path>
 		<name>Airwolf</name>
@@ -5149,5 +5098,62 @@ Zombie Hunter is an action-adventure RPG that plays similar to Zelda II with its
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>F14332E7A1FD953D07F3DFCB25026535</cheevosHash>
+	</game>
+	<game>
+		<path>./1991 Du Ma Racing (China) (Translated En).zip</path>
+		<name>1991 Du Ma Racing</name>
+		<desc>1991 Du Ma Racing is a horse racing game offering two game modes. 
+
+In race mode, two players can compete in a race. By pressing a button at the right time, they can build up their horse's power, then press another button to release it and give their horse an edge in the race. The player who does this faster and more accurately will have a better chance of winning the race.
+
+In gamble mode, 1 to 6 players start out with 500 credits to place bets on 5 horses. The race will be simulated without any player interaction, and at the end of each race event players will get their respective prize money. The goal is to earn more money this way than any other player.</desc>
+		<image>./mixart/1991 Du Ma Racing (China) (Translated En).png</image>
+		<video>./snap/1991 Du Ma Racing (China) (Translated En).mp4</video>
+		<marquee>./wheel/1991 Du Ma Racing (China) (Translated En).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>01010101T000000</releasedate>
+		<developer>Idea-Tek, Inc.</developer>
+		<publisher>Super Mega</publisher>
+		<genre>Horses race</genre>
+		<players>6</players>
+		<lang>cn,en</lang>
+		<region>cn</region>
+		<cheevosHash>E00E49011A57E63E27E940A36C901439</cheevosHash>
+	</game>
+	<game id="18549" source="ScreenScraper">
+		<path>./4 Nin uchi Mahjong (Japan) (Translated En).zip</path>
+		<name>4 Nin Uchi Mahjong</name>
+		<desc>This is a generic and very primitive mahjong game.  It  is Nintendo's second mahjong game made for the Famicom, the first titled simply Mahjong.  This game has smaller tiles than the first one but allows people to play against three computer opponents instead of one.  Both games made with a single 16kbyte PROM and 8kbyte CHROM, thus they don't use any special mapper chips.</desc>
+		<image>./mixart/4 Nin uchi Mahjong (Japan) (Translated En).png</image>
+		<video>./snap/4 Nin uchi Mahjong (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/4 Nin uchi Mahjong (Japan) (Translated En).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19841101T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>BDEC6EF78F7B652D4E1D754691FD0539</cheevosHash>
+	</game>
+	<game id="1791" source="ScreenScraper">
+		<path>./Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).zip</path>
+		<name>Advanced Dungeons and Dragons - Dragons of Flame</name>
+		<desc>Set in between the SSI's AD&amp;D Dragonlance action games Heroes of the Lance and Shadow Sorcerer. This game follows the tradition of Heroes of the Lance with a side-scrolling, action-oriented view, a breakaway from the standard GoldBox RPGs.  Plot-wise, it also takes place between those two games, following closely the novel/game modules written by Weiss/Hickman.
+
+You take control of one character at a time, with each hero having different abilities.</desc>
+		<image>./mixart/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).png</image>
+		<video>./snap/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Advanced Dungeons and Dragons - Dragons of Flame (Japan) (Translated En).png</marquee>
+		<rating>0</rating>
+		<releasedate>19920221T000000</releasedate>
+		<developer>Pony Canyon</developer>
+		<publisher>U.S. Gold</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>73902F0DB4C43B651672173853977423</cheevosHash>
 	</game>
 </gameList>

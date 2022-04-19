@@ -1417,23 +1417,6 @@
 		<cheevosHash>EA2A94D17B1513D08C0A69E277275523</cheevosHash>
 	</game>
 	<game>
-		<path>./F1 Racing Championship (Europe) (En,Fr,De,Es,It).n64</path>
-		<name>F1 Racing Championship</name>
-		<desc>F1 Racing Championship is the third Ubi Soft F1 racing simulation game, published with the FIA license by Video System. It features official tracks, drivers and cars of the 1999 F1 season.  The game is based on a new engine bringing a real technological step compared to the two first titles (F1 Racing Simulation and Monaco Grand Prix Racing Simulation 2).  Available game modes are Single Race, Grand Prix, Championship, Private Trials and Time Attack. The tracks were modelled in 3D from GPS data sampled on the real roads. There are realistic physics, a telemetry system to analyse behaviour of your car and to tune its settings, complex driving AI, recordable replays, strategy management with animated pit sequences, weather simulation, and LAN support for multiplayer games.</desc>
-		<image>./mixart/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png</image>
-		<video>./snap/F1 Racing Championship (Europe) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png</marquee>
-		<rating>1</rating>
-		<releasedate>20001208T000000</releasedate>
-		<developer>Video System</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<cheevosHash>00898329C43A045521C609858CC590A9</cheevosHash>
-	</game>
-	<game>
 		<path>./FIFA - Road to World Cup 98 (USA) (En,Fr,De,Es,It,Nl,Sv).n64</path>
 		<name>FIFA: Road to World Cup 98</name>
 		<desc>The game includes an official soundtrack and had a refined graphics engine, team and player customisation options, 16 stadiums, improved artificial intelligence and the popular "Road to World Cup" mode, with all 173 FIFA-registered national teams. No subsequent edition of the FIFA series has attempted to replicate FIFA 98's inclusion of every FIFA national team. With the new graphical improvements, players were able to have individual faces. However, they looked more like expressions.</desc>
@@ -3664,24 +3647,6 @@
 		<cheevosHash>49D0C8BC8AD23306B87456FB3055C5DB</cheevosHash>
 	</game>
 	<game>
-		<path>./Robotron 64 (USA).n64</path>
-		<name>Robotron 64</name>
-		<desc>The retro shooter returns with the same addictive gameplay of the original arcade game, but now with the added power of the Nintendo 64.  The aim of the game is simple. Shoot all the enemies on each grid while saving the humans from certain death. Power-ups and items can be picked up to increase your shooting and speed ability, and the further you go in the game, the more enemies attack and the more difficult it gets to save the humans.  Options include the ability to plug in a second N64 controller for added control of the character on the game screen (i.e. two analog sticks). The brand new 3D engine, while sporting similar styled graphics that hark back to the 80's classic, also boasts fuller textures and greater mobility for the character.</desc>
-		<image>./mixart/Robotron 64 (USA).png</image>
-		<video>./snap/Robotron 64 (USA).mp4</video>
-		<marquee>./wheel/Robotron 64 (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980106T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>GT Interactive</publisher>
-		<genre>Shoot'em Up-Action-Shooter</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FB1C4E85F13E95B5154C550A06408808</cheevosHash>
-	</game>
-	<game>
 		<path>./Rocket - Robot on Wheels (USA).n64</path>
 		<name>Rocket : Robot On Wheels</name>
 		<desc>Whoopie World, the greatest amusement park ever, is ready to open, but second-banana park mascot, Jojo the Raccoon, has gone nuts. He's taken over the park! Can Rocket, the most advanced amusement park robot ever, save the day? Rocket's a one wheel wonder with double-jump booster rockets and 7 cool cars to drive. He's got a tractor beam that can pick up almost anything, swing from ledges, trees, even toss freeze &amp; smash objects. Rocket's got the moves &amp; he's got the tools to make things right.</desc>
@@ -5156,5 +5121,40 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
+	</game>
+	<game>
+		<path>./F1 Racing Championship (Europe) (En,Fr,De,Es,It).n64</path>
+		<name>F1 Racing Championship</name>
+		<desc>F1 Racing Championship is the third Ubi Soft F1 racing simulation game, published with the FIA license by Video System. It features official tracks, drivers and cars of the 1999 F1 season.  The game is based on a new engine bringing a real technological step compared to the two first titles (F1 Racing Simulation and Monaco Grand Prix Racing Simulation 2).  Available game modes are Single Race, Grand Prix, Championship, Private Trials and Time Attack. The tracks were modelled in 3D from GPS data sampled on the real roads. There are realistic physics, a telemetry system to analyse behaviour of your car and to tune its settings, complex driving AI, recordable replays, strategy management with animated pit sequences, weather simulation, and LAN support for multiplayer games.</desc>
+		<image>./mixart/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/F1 Racing Championship (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/F1 Racing Championship (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>1</rating>
+		<releasedate>20001208T000000</releasedate>
+		<developer>Video System</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<cheevosHash>00898329C43A045521C609858CC590A9</cheevosHash>
+	</game>
+	<game>
+		<path>./Robotron 64 (USA).n64</path>
+		<name>Robotron 64</name>
+		<desc>The retro shooter returns with the same addictive gameplay of the original arcade game, but now with the added power of the Nintendo 64.  The aim of the game is simple. Shoot all the enemies on each grid while saving the humans from certain death. Power-ups and items can be picked up to increase your shooting and speed ability, and the further you go in the game, the more enemies attack and the more difficult it gets to save the humans.  Options include the ability to plug in a second N64 controller for added control of the character on the game screen (i.e. two analog sticks). The brand new 3D engine, while sporting similar styled graphics that hark back to the 80's classic, also boasts fuller textures and greater mobility for the character.</desc>
+		<image>./mixart/Robotron 64 (USA).png</image>
+		<video>./snap/Robotron 64 (USA).mp4</video>
+		<marquee>./wheel/Robotron 64 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980106T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>GT Interactive</publisher>
+		<genre>Shoot'em Up-Action-Shooter</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FB1C4E85F13E95B5154C550A06408808</cheevosHash>
 	</game>
 </gameList>

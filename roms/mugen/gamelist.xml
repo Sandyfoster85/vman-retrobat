@@ -199,21 +199,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./DragonBall vs Street Fighter III MUGEN.lnk</path>
-		<name>DragonBall vs Street Fighter III MUGEN</name>
-		<desc>Mugen Fanmade 2D Fighting DragonBall vs Street Fighter III MUGEN</desc>
-		<image>./mixart/DragonBall vs Street Fighter III MUGEN.png</image>
-		<video>./snap/DragonBall vs Street Fighter III MUGEN.mp4</video>
-		<marquee>./wheel/DragonBall vs Street Fighter III MUGEN.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dungeons and Dragons.lnk</path>
 		<name>Dungeons and Dragons</name>
 		<desc>Mugen Fanmade 2D Fighting Dungeons and Dragons</desc>
@@ -1049,6 +1034,21 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DragonBall vs Street Fighter III MUGEN.lnk</path>
+		<name>DragonBall vs Street Fighter III MUGEN</name>
+		<desc>Mugen Fanmade 2D Fighting DragonBall vs Street Fighter III MUGEN</desc>
+		<image>./mixart/DragonBall vs Street Fighter III MUGEN.png</image>
+		<video>./snap/DragonBall vs Street Fighter III MUGEN.mp4</video>
+		<marquee>./wheel/DragonBall vs Street Fighter III MUGEN.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>
