@@ -20763,26 +20763,6 @@ There is also addition to the boss battle scoring: similar to some shooters, pla
 		<cheevosHash>AE81BB27A0BBC163A942F116E040CEDB</cheevosHash>
 	</game>
 	<game>
-		<path>./blazstar.zip</path>
-		<name>Blazing Star</name>
-		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
-		<emulator>libretro</emulator>
-		<core>fbneo</core>
-		<image>./mixart/blazstar.png</image>
-		<video>./snap/blazstar.mp4</video>
-		<marquee>./wheel/blazstar.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Yumekobo</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EDB0C9707493E999CF61AE4E6A335F91</cheevosHash>
-		<cheevosId>11751</cheevosId>
-	</game>
-	<game>
 		<path>./bldyroar.zip</path>
 		<name>Bloody Roar</name>
 		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
@@ -21542,27 +21522,6 @@ Boogie Wings features highly detailed and completely destructible scenery, with 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>9966A1C8724324D96C77C972D2B5FD4E</cheevosHash>
-	</game>
-	<game>
-		<path>./boothill.zip</path>
-		<name>Boot Hill</name>
-		<desc>A classic 1 or 2-player western gunfight game, featuring a monochrome display overlaid via mirror onto back-lit plastic background. Each player uses a small joystick to move their cowboy up and down the play area, while a second, much larger joystick is used to aim the pistol and shoot - this larger stick also has a trigger button. The game's single goal is simply to shoot the other player, who is situated on the opposite side of the game area. Wagons and cacti litter the middle of the play area, providing temporary cover from the opponent's gunfire (while, of course, providing the opponent with cover from the PLAYER'S shots). These obstacles slowly disintegrate as they are shot; much like the shields in Taito's "Space Invaders".
-
-Boot Hill is time-based NOT life based, with the factory default set at ninety seconds. This is, of course, operator adjustable via the dip settings. The computer opponent is quite easy to beat with a little practice, but a human opponent provides a much stronger challenge.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/boothill.png</image>
-		<video>./snap/boothill.mp4</video>
-		<marquee>./wheel/boothill.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19770101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Dave Nutting Associates / Midway</publisher>
-		<genre>Shooter-Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>71232709D999A18BF2E10B353980CD05</cheevosHash>
 	</game>
 	<game>
 		<path>./borench.zip</path>
@@ -48547,23 +48506,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=31541&a
 		<region>us</region>
 		<cheevosHash>FBD2C46EEE483945592EF763041CBD39</cheevosHash>
 	</game>
-	<game>
-		<path>./overtop.zip</path>
-		<name>Over Top</name>
-		<desc>In 1991, ADK (then Alpha team) released Thrash Rally for the Neo Geo. While fun to play, it was most noted for its woefully bad graphics. Five years later, ADK released another "look-out-for-the-next-turn!" game called Overtop. This time they got it almost all right: Great graphics, good sounds, lots of vehicles, and kept the excellent playability of its predecessor.</desc>
-		<image>./mixart/overtop.png</image>
-		<video>./snap/overtop.mp4</video>
-		<marquee>./wheel/overtop.png</marquee>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>ADK</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>875C9D92832D5CD76C418C9EDB3D473C</cheevosHash>
-	</game>
 	<game id="79117">
 		<path>./ozmawars.zip</path>
 		<name>Ozma Wars</name>
@@ -63611,26 +63553,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=272506&
 		<cheevosHash>AD96296850061297DCF94EFFB7FB4BE5</cheevosHash>
 	</game>
 	<game>
-		<path>./tempest.zip</path>
-		<name>Tempest</name>
-		<desc>The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.)</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/tempest.png</image>
-		<video>./snap/tempest.mp4</video>
-		<marquee>./wheel/tempest.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up-N/A-Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6AD8536215968EB1F3494143392C77BF</cheevosHash>
-		<cheevosId>15086</cheevosId>
-	</game>
-	<game>
 		<path>./tengai.zip</path>
 		<name>Tengai</name>
 		<desc>Nice horizontal shoot'em up with 5 selectable characters who have their own storyline and ending.</desc>
@@ -66847,23 +66769,6 @@ The game is similar to the original "Tank" except the battlefields can be open o
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B7A506D75B7CE643C6F02E916DD2B79D</cheevosHash>
-	</game>
-	<game>
-		<path>./ultrax.zip</path>
-		<name>Ultra X Weapons</name>
-		<desc>This game is based on 'Ultraman', a famous Japanese live-action superhero series that has had numerous sequels and spin-offs since its debut in the 1960s. Generally, the main character is a normal human who uses an alien device to transform into a giant red-and-silver (sometimes with blue) creature called an Ultraman to combat alien monsters with the help of a special military team. Some of the subsequent shows in the series include 'Ultraseven', 'Ultraman Leo', 'Ultraman Taroh', and 'Ultraman Tiga'.</desc>
-		<image>./mixart/ultrax.png</image>
-		<video>./snap/ultrax.mp4</video>
-		<marquee>./wheel/ultrax.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Banpresto</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F501B5519D973FA3BBA3E5DF05E21713</cheevosHash>
 	</game>
 	<game>
 		<path>./umanclub.zip</path>
@@ -71666,81 +71571,6 @@ The game features an original cast of characters, and also features the Goketsuj
 		<region>us</region>
 		<cheevosHash>B823EBEBBD6D1B9F5739A9971ED898AD</cheevosHash>
 	</game>
-	<game id="41179" source="ScreenScraper.fr">
-		<path>./fatfurwa.zip</path>
-		<name>Fatal Fury: Wild Ambition</name>
-		<desc>Fatal Fury: Wild Ambition is SNK's attempt to bring Fatal Fury into 3D.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/fatfurwa.png</image>
-		<marquee>./wheel/fatfurwa.png</marquee>
-		<video>./snap/fatfurwa.mp4</video>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-	</game>
-	<game id="150415" source="ScreenScraper.fr">
-		<path>./roadedge.zip</path>
-		<name>Roads Edge</name>
-		<desc>An exciting racing game up to four players linkable, featuring four challenging courses and four SUV cars to choose, different camera angles and for selectable soundtracks make this game a fun ride. The internal vibration inside the seat is a nice addition to the driving experience.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/roadedge.png</image>
-		<marquee>./wheel/roadedge.png</marquee>
-		<video>./snap/roadedge.mp4</video>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>4</players>
-	</game>
-	<game id="79409" source="ScreenScraper.fr">
-		<path>./sams64.zip</path>
-		<name>Samurai Shodown 64</name>
-		<desc>Samurai Shodown 64 (c) 1997 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 02  Main CPU : R4600 (@ 12.5 Mhz), V30 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1997.  This game is kno</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sams64.png</image>
-		<marquee>./wheel/sams64.png</marquee>
-		<video>./snap/sams64.mp4</video>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-	</game>
-	<game id="42879" source="ScreenScraper.fr">
-		<path>./sams64_2.zip</path>
-		<name>Samurai Shodown: Warrior's Rage</name>
-		<desc>Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sams64_2.png</image>
-		<marquee>./wheel/sams64_2.png</marquee>
-		<video>./snap/sams64_2.mp4</video>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-	</game>
-	<game id="79425" source="ScreenScraper.fr">
-		<path>./xrally.zip</path>
-		<name>Xtreme Rally / Off Beat Racer!</name>
-		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/xrally.png</image>
-		<marquee>./wheel/xrally.png</marquee>
-		<video>./snap/xrally.mp4</video>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-	</game>
 	<game>
 		<path>./dkongjr.zip</path>
 		<name>Donkey Kong Junior</name>
@@ -72096,21 +71926,6 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>48165021FDB6D258A054008F3EE85BDF</cheevosHash>
-	</game>
-	<game>
-		<path>./sf2rb3.zip</path>
-		<name>'H' Street Fighter II' : Champion (Rainbow Edition)</name>
-		<desc>SF2 Rainbow Edition: From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
-		<image>./mixart/sf2rb3.png</image>
-		<video>./snap/sf2rb3.mp4</video>
-		<marquee>./wheel/sf2rb3.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<genreid>262</genreid>
 	</game>
 	<game>
 		<path>./berzerk.zip</path>
@@ -72875,5 +72690,202 @@ After Burner's straightforward shoot-em-up gameplay is simple and repetitive, bu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C784BD18BAB7507A74944F01235B8D4C</cheevosHash>
+	</game>
+	<game>
+		<path>./blazstar.zip</path>
+		<name>Blazing Star</name>
+		<desc>The unofficial sequel to Pulstar, Blazing Star is again a horizontal-scrolling shoot-'em-up. One or two players proceed along levels, each with a boss enemy at the end, trying to redeem the humankind. There are six ships to choose from, each with its own pilot (four of them females), weapons and characteristics of movement. Each ship has its own types of shots, but also a standard shot, charged shot (more powerful) and split shot (a charged shot can be parted into more bullets, lowering the power of each bullet while widening the fire range).</desc>
+		<emulator>libretro</emulator>
+		<core>fbneo</core>
+		<image>./mixart/blazstar.png</image>
+		<video>./snap/blazstar.mp4</video>
+		<marquee>./wheel/blazstar.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Yumekobo</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EDB0C9707493E999CF61AE4E6A335F91</cheevosHash>
+		<cheevosId>11751</cheevosId>
+	</game>
+	<game id="41179" source="ScreenScraper.fr">
+		<path>./fatfurwa.zip</path>
+		<name>Fatal Fury: Wild Ambition</name>
+		<desc>Fatal Fury: Wild Ambition is SNK's attempt to bring Fatal Fury into 3D.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/fatfurwa.png</image>
+		<video>./snap/fatfurwa.mp4</video>
+		<marquee>./wheel/fatfurwa.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="150415" source="ScreenScraper.fr">
+		<path>./roadedge.zip</path>
+		<name>Roads Edge</name>
+		<desc>An exciting racing game up to four players linkable, featuring four challenging courses and four SUV cars to choose, different camera angles and for selectable soundtracks make this game a fun ride. The internal vibration inside the seat is a nice addition to the driving experience.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/roadedge.png</image>
+		<video>./snap/roadedge.mp4</video>
+		<marquee>./wheel/roadedge.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="79409" source="ScreenScraper.fr">
+		<path>./sams64.zip</path>
+		<name>Samurai Shodown 64</name>
+		<desc>Samurai Shodown 64 (c) 1997 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 02  Main CPU : R4600 (@ 12.5 Mhz), V30 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1997.  This game is kno</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64.png</image>
+		<video>./snap/sams64.mp4</video>
+		<marquee>./wheel/sams64.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="42879" source="ScreenScraper.fr">
+		<path>./sams64_2.zip</path>
+		<name>Samurai Shodown: Warrior's Rage</name>
+		<desc>Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64_2.png</image>
+		<video>./snap/sams64_2.mp4</video>
+		<marquee>./wheel/sams64_2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./sf2rb3.zip</path>
+		<name>'H' Street Fighter II' : Champion (Rainbow Edition)</name>
+		<desc>SF2 Rainbow Edition: From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./mixart/sf2rb3.png</image>
+		<video>./snap/sf2rb3.mp4</video>
+		<marquee>./wheel/sf2rb3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
+	<game id="79425" source="ScreenScraper.fr">
+		<path>./xrally.zip</path>
+		<name>Xtreme Rally / Off Beat Racer!</name>
+		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/xrally.png</image>
+		<video>./snap/xrally.mp4</video>
+		<marquee>./wheel/xrally.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./overtop.zip</path>
+		<name>Over Top</name>
+		<desc>In 1991, ADK (then Alpha team) released Thrash Rally for the Neo Geo. While fun to play, it was most noted for its woefully bad graphics. Five years later, ADK released another "look-out-for-the-next-turn!" game called Overtop. This time they got it almost all right: Great graphics, good sounds, lots of vehicles, and kept the excellent playability of its predecessor.</desc>
+		<image>./mixart/overtop.png</image>
+		<video>./snap/overtop.mp4</video>
+		<marquee>./wheel/overtop.png</marquee>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>875C9D92832D5CD76C418C9EDB3D473C</cheevosHash>
+	</game>
+	<game>
+		<path>./tempest.zip</path>
+		<name>Tempest</name>
+		<desc>The objective of Tempest is to survive as long as possible and score as many points as possible by clearing the screen of enemies that have landed on the playing field. The player's ship can rapid-fire shots down the tube, destroying any enemies within the same segment, and is also equipped with a Superzapper, which destroys all enemies currently on the playfield once per level. (A second use of the Superzapper in a level destroys one random enemy.)</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/tempest.png</image>
+		<video>./snap/tempest.mp4</video>
+		<marquee>./wheel/tempest.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up-N/A-Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6AD8536215968EB1F3494143392C77BF</cheevosHash>
+		<cheevosId>15086</cheevosId>
+	</game>
+	<game>
+		<path>./boothill.zip</path>
+		<name>Boot Hill</name>
+		<desc>A classic 1 or 2-player western gunfight game, featuring a monochrome display overlaid via mirror onto back-lit plastic background. Each player uses a small joystick to move their cowboy up and down the play area, while a second, much larger joystick is used to aim the pistol and shoot - this larger stick also has a trigger button. The game's single goal is simply to shoot the other player, who is situated on the opposite side of the game area. Wagons and cacti litter the middle of the play area, providing temporary cover from the opponent's gunfire (while, of course, providing the opponent with cover from the PLAYER'S shots). These obstacles slowly disintegrate as they are shot; much like the shields in Taito's "Space Invaders".
+
+Boot Hill is time-based NOT life based, with the factory default set at ninety seconds. This is, of course, operator adjustable via the dip settings. The computer opponent is quite easy to beat with a little practice, but a human opponent provides a much stronger challenge.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/boothill.png</image>
+		<video>./snap/boothill.mp4</video>
+		<marquee>./wheel/boothill.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Dave Nutting Associates / Midway</publisher>
+		<genre>Shooter-Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>71232709D999A18BF2E10B353980CD05</cheevosHash>
+	</game>
+	<game>
+		<path>./ultrax.zip</path>
+		<name>Ultra X Weapons</name>
+		<desc>This game is based on 'Ultraman', a famous Japanese live-action superhero series that has had numerous sequels and spin-offs since its debut in the 1960s. Generally, the main character is a normal human who uses an alien device to transform into a giant red-and-silver (sometimes with blue) creature called an Ultraman to combat alien monsters with the help of a special military team. Some of the subsequent shows in the series include 'Ultraseven', 'Ultraman Leo', 'Ultraman Taroh', and 'Ultraman Tiga'.</desc>
+		<image>./mixart/ultrax.png</image>
+		<video>./snap/ultrax.mp4</video>
+		<marquee>./wheel/ultrax.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Banpresto</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Vertical</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F501B5519D973FA3BBA3E5DF05E21713</cheevosHash>
 	</game>
 </gameList>

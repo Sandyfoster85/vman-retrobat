@@ -1387,22 +1387,6 @@ Interplay announced in late 1999 that they were working on a title for the Dream
 		<region>eu</region>
 		<genreid>2048</genreid>
 	</game>
-	<game id="13600" source="ScreenScraper.fr">
-		<path>./Cannon Spike (USA).chd</path>
-		<name>Cannon Spike</name>
-		<desc>Originally an arcade game, this shooter was converted and is now found on the Dreamcast. Somewhat similar in style to Smash T.V. in gameplay, you do battle in ten levels, containing two to four areas each.  Players can choose from a variety of characters including Mega man (or Rockman) from the Mega man series, Knight Arthur from Ghost 'N' Goblins series, Charlie and Cammy, both from Street Fighter series and B. B. Hood from Darkstalkers as well as two original characters: Shiba and Simone.  The different characters use slightly different attacks but each share the setup of one regular ranged attack and one powerful ditto as well as one regular and one powerful mêlee attack.</desc>
-		<image>./mixart/Cannon Spike (USA).png</image>
-		<video>./snap/Cannon Spike (USA).mp4</video>
-		<marquee>./wheel/Cannon Spike (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20020503T000000</releasedate>
-		<developer>Bigben Interactive</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./Capcom Fighting Collection (Hack)[Final v2].cdi</path>
 		<name>Capcom Fighting Collection</name>
@@ -5379,6 +5363,22 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<publisher>Eidos Interactive</publisher>
 		<genre>Role playing games</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13600" source="ScreenScraper.fr">
+		<path>./Cannon Spike (USA).chd</path>
+		<name>Cannon Spike</name>
+		<desc>Originally an arcade game, this shooter was converted and is now found on the Dreamcast. Somewhat similar in style to Smash T.V. in gameplay, you do battle in ten levels, containing two to four areas each.  Players can choose from a variety of characters including Mega man (or Rockman) from the Mega man series, Knight Arthur from Ghost 'N' Goblins series, Charlie and Cammy, both from Street Fighter series and B. B. Hood from Darkstalkers as well as two original characters: Shiba and Simone.  The different characters use slightly different attacks but each share the setup of one regular ranged attack and one powerful ditto as well as one regular and one powerful mêlee attack.</desc>
+		<image>./mixart/Cannon Spike (USA).png</image>
+		<video>./snap/Cannon Spike (USA).mp4</video>
+		<marquee>./wheel/Cannon Spike (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20020503T000000</releasedate>
+		<developer>Bigben Interactive</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

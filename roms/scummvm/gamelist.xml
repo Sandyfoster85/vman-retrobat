@@ -599,20 +599,6 @@ There are different ways of completing the game depending on the humanity the pl
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Indiana Jones and the Fate of Atlantis (CD DOS).svm/Indiana Jones and the Fate of Atlantis.scummvm</path>
-		<name>Indiana Jones and the Fate of Atlantis</name>
-		<desc>Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992. Almost a year later, it was reissued on CD-ROM as an enhanced talkie edition with full voice acting and digitized sound effects. In 2009, this version was also released as an unlockable extra of the Wii action game Indiana Jones and the Staff of Kings, and as a digitally distributed Steam title. The seventh game to use the script language SCUMM, Fate of Atlantis has the player explore environments and interact with objects and characters by using commands constructed with predetermined verbs. It features three unique paths to select, influencing story development, gameplay and puzzles. The game used an updated SCUMM engine and required a 286-based PC, although it still runs as a real-mode DOS application. The CD talkie version required EMS memory enabled to load the voice data.</desc>
-		<image>./mixart/atlantis.png</image>
-		<video>./snap/atlantis.mp4</video>
-		<marquee>./wheel/atlantis.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Indiana Jones and the Last Crusade (FM Towns).svm/Indiana Jones and the Last Crusade.scummvm</path>
 		<name>Indiana Jones and the Last Crusade</name>
 		<desc>Europe, 1938. The Lost Ark was just a warm-up! Now Adolf Hitler is after the most powerful talisman of all - the Holy Grail. A few brave men stand in his way. Fortunately, one of them is Indiana Jones. And this time, he has his dad with him. The bad guys are in your face all the way - Nazis, mercenaries, traitors and spies. Not to mention everything the Luftwaffe can throw at you. Can you handle the heat? If you can, you just might earn a higher I.Q. (Indy Quotient) than the man with the whip and the hat.</desc>
@@ -1801,6 +1787,20 @@ Throughout the journey Brandon will collect many items and also learn how to mas
 		<publisher>Virgin</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Indiana Jones and the Fate of Atlantis (CD DOS).svm/Indiana Jones and the Fate of Atlantis.scummvm</path>
+		<name>Indiana Jones and the Fate of Atlantis</name>
+		<desc>Indiana Jones and the Fate of Atlantis is a point-and-click adventure game by LucasArts originally released in 1992. Almost a year later, it was reissued on CD-ROM as an enhanced talkie edition with full voice acting and digitized sound effects. In 2009, this version was also released as an unlockable extra of the Wii action game Indiana Jones and the Staff of Kings, and as a digitally distributed Steam title. The seventh game to use the script language SCUMM, Fate of Atlantis has the player explore environments and interact with objects and characters by using commands constructed with predetermined verbs. It features three unique paths to select, influencing story development, gameplay and puzzles. The game used an updated SCUMM engine and required a 286-based PC, although it still runs as a real-mode DOS application. The CD talkie version required EMS memory enabled to load the voice data.</desc>
+		<image>./mixart/atlantis.png</image>
+		<video>./snap/atlantis.mp4</video>
+		<marquee>./wheel/atlantis.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

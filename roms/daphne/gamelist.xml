@@ -141,35 +141,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./lair.daphne</path>
-		<name>Dragon's Lair</name>
-		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
-		<image>./mixart/lair.png</image>
-		<video>./snap/lair.mp4</video>
-		<marquee>./wheel/lair.png</marquee>
-		<rating />
-		<releasedate>19830623T000000</releasedate>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./ace.daphne</path>
-		<name>Space Ace</name>
-		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
-		<image>./mixart/ace.png</image>
-		<video>./snap/ace.mp4</video>
-		<marquee>./wheel/ace.png</marquee>
-		<rating />
-		<releasedate>19840429T000000</releasedate>
-		<developer>AMS</developer>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./roadblaster.daphne</path>
 		<name>Road Blaster</name>
 		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
@@ -222,7 +193,7 @@
 		<image>./mixart/sdq.png</image>
 		<video>./snap/sdq.mp4</video>
 		<marquee>./wheel/sdq.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19840101T000000</releasedate>
 		<developer>Universal</developer>
 		<genre>Action</genre>
@@ -254,6 +225,35 @@
 		<developer>Mylstar</developer>
 		<publisher>Mylstar</publisher>
 		<genre>Shoot'em Up</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ace.daphne</path>
+		<name>Space Ace</name>
+		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
+		<image>./mixart/ace.png</image>
+		<video>./snap/ace.mp4</video>
+		<marquee>./wheel/ace.png</marquee>
+		<rating></rating>
+		<releasedate>19840429T000000</releasedate>
+		<developer>AMS</developer>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>./mixart/lair.png</image>
+		<video>./snap/lair.mp4</video>
+		<marquee>./wheel/lair.png</marquee>
+		<rating></rating>
+		<releasedate>19830623T000000</releasedate>
+		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

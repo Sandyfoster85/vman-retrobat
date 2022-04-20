@@ -2092,23 +2092,6 @@ Some enemies will drop food, grenades or weapons as you beat them into a bloody 
 		<cheevosHash>C656E7408B5EF8A774EA8B354BF47779</cheevosHash>
 		<cheevosId>3052</cheevosId>
 	</game>
-	<game id="38883" source="ScreenScraper.fr">
-		<path>./Isozuri - Ritou Hen (Japan).zip</path>
-		<name>Isozuri : Ritou Hen</name>
-		<desc>Isozuri: Ritou Hen ("Rock Fishing: Island Edition", where Isozuri specifically refers to standing on a rocky coastline while casting out to sea) is a fishing game exclusive to the Super Famicom. The player travels around an archipelago finding a place to start angling, catching different ocean fish depending on the location and the time of day.
-
-The game was one of many fishing simulators developed by Pack-In-Video for the console. Players had a limited selection of bait and lures they could switch between depending on the available fish.</desc>
-		<image>./mixart/Isozuri - Ritou Hen (Japan).png</image>
-		<video>./snap/Isozuri - Ritou Hen (Japan).mp4</video>
-		<marquee>./wheel/Isozuri - Ritou Hen (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960119T000000</releasedate>
-		<developer>Pack-In-Video</developer>
-		<publisher>Pack-In-Video</publisher>
-		<players>1</players>
-		<crc32>8BDE56AB</crc32>
-		<cheevosHash>AE62407336CAE6E9E15A20A5B186645D</cheevosHash>
-	</game>
 	<game id="38887" source="ScreenScraper.fr">
 		<path>./J.League '96 Dream Stadium (Japan).zip</path>
 		<name>J.League '96 Dream Stadium</name>
@@ -6093,25 +6076,6 @@ After winning a match in the tournament mode, you will be rewarded witch a code 
 		<crc32>A6DF2A89</crc32>
 		<cheevosHash>15BC713C9464C0E3243D1DBCF75C9BEE</cheevosHash>
 	</game>
-	<game id="2871" source="ScreenScraper.fr">
-		<path>./Super Soukoban (Japan).zip</path>
-		<name>Super Soukoban</name>
-		<desc>Super Sokoban (or Soukoban) is a puzzle game in which the player must push crates around a maze to their designated storage area, ensuring they do not accidentally push a crate into a position where it cannot be recovered. Thinking Rabbit created the original game in 1982 on home computers, and Super Sokoban is the first Super Famicom game to follow the same blueprint.
-
-The intro establishes that the eponymous Sokoban, or warehouse worker, must perform enough box-pushing puzzles to earn enough cash for a flashy new car so that he might finally impress the girl of his dreams.
-
-An added wrinkle is that each stage has a fixed move limit, and so the player must not only push the boxes in the right order but do so with maximum efficiency. The game was not released outside of Japan.</desc>
-		<image>./mixart/Super Soukoban (Japan).png</image>
-		<video>./snap/Super Soukoban (Japan).mp4</video>
-		<marquee>./wheel/Super Soukoban (Japan).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930129T000000</releasedate>
-		<developer>Pack-In-Video</developer>
-		<publisher>Pack-In-Video</publisher>
-		<players>2</players>
-		<crc32>B5A20C19</crc32>
-		<cheevosHash>51C520D15881538D67398BA63F56E0BA</cheevosHash>
-	</game>
 	<game id="2201" source="ScreenScraper.fr">
 		<path>./Super Street Fighter II (USA).zip</path>
 		<name>Super Street Fighter II</name>
@@ -8813,5 +8777,45 @@ The game contains four tables, each themed to a different hero: Kamen Rider, who
 		<players>2</players>
 		<crc32>C416B1B8</crc32>
 		<cheevosHash>DB70950CBF7FF13C94CE249494B0B4D5</cheevosHash>
+	</game>
+	<game id="38883" source="ScreenScraper.fr">
+		<path>./Isozuri - Ritou Hen (Japan).zip</path>
+		<name>Isozuri : Ritou Hen</name>
+		<desc>Isozuri: Ritou Hen ("Rock Fishing: Island Edition", where Isozuri specifically refers to standing on a rocky coastline while casting out to sea) is a fishing game exclusive to the Super Famicom. The player travels around an archipelago finding a place to start angling, catching different ocean fish depending on the location and the time of day.
+
+The game was one of many fishing simulators developed by Pack-In-Video for the console. Players had a limited selection of bait and lures they could switch between depending on the available fish.</desc>
+		<image>./mixart/Isozuri - Ritou Hen (Japan).png</image>
+		<video>./snap/Isozuri - Ritou Hen (Japan).mp4</video>
+		<marquee>./wheel/Isozuri - Ritou Hen (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960119T000000</releasedate>
+		<developer>Pack-In-Video</developer>
+		<publisher>Pack-In-Video</publisher>
+		<players>1</players>
+		<crc32>8BDE56AB</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>AE62407336CAE6E9E15A20A5B186645D</cheevosHash>
+	</game>
+	<game id="2871" source="ScreenScraper.fr">
+		<path>./Super Soukoban (Japan).zip</path>
+		<name>Super Soukoban</name>
+		<desc>Super Sokoban (or Soukoban) is a puzzle game in which the player must push crates around a maze to their designated storage area, ensuring they do not accidentally push a crate into a position where it cannot be recovered. Thinking Rabbit created the original game in 1982 on home computers, and Super Sokoban is the first Super Famicom game to follow the same blueprint.
+
+The intro establishes that the eponymous Sokoban, or warehouse worker, must perform enough box-pushing puzzles to earn enough cash for a flashy new car so that he might finally impress the girl of his dreams.
+
+An added wrinkle is that each stage has a fixed move limit, and so the player must not only push the boxes in the right order but do so with maximum efficiency. The game was not released outside of Japan.</desc>
+		<image>./mixart/Super Soukoban (Japan).png</image>
+		<video>./snap/Super Soukoban (Japan).mp4</video>
+		<marquee>./wheel/Super Soukoban (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930129T000000</releasedate>
+		<developer>Pack-In-Video</developer>
+		<publisher>Pack-In-Video</publisher>
+		<players>2</players>
+		<crc32>B5A20C19</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>51C520D15881538D67398BA63F56E0BA</cheevosHash>
 	</game>
 </gameList>

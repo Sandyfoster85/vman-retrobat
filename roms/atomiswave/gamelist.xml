@@ -7,18 +7,6 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./dirtypig.zip</path>
-		<name>Dirty Pigskin Football</name>
-		<desc>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</desc>
-		<image>./mixart/dirtypig.png</image>
-		<video>./snap/dirtypig.mp4</video>
-		<marquee>./wheel/dirtypig.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040101T000000</releasedate>
-		<genre>Sports-Sports / Football</genre>
-		<players>1-4</players>
-	</game>
-	<game>
 		<path>./xtrmhunt.zip</path>
 		<name>Extreme Hunting</name>
 		<desc>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</desc>
@@ -206,16 +194,6 @@
 		<rating>0.75</rating>
 		<releasedate>20030101T000000</releasedate>
 		<genre>Race 1st Pers. view-Race, Driving</genre>
-	</game>
-	<game>
-		<path>./blokpong.zip</path>
-		<name>Block Pong-pong</name>
-		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
-		<image>./mixart/blokpong.png</image>
-		<video>./snap/blokpong.mp4</video>
-		<marquee>./wheel/blokpong.png</marquee>
-		<rating>0</rating>
-		<releasedate>20040101T000000</releasedate>
 	</game>
 	<game>
 		<path>./kofnw.zip</path>
@@ -408,6 +386,30 @@
 		<genre>Fight</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./blokpong.zip</path>
+		<name>Block Pong-pong</name>
+		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
+		<image>./mixart/blokpong.png</image>
+		<video>./snap/blokpong.mp4</video>
+		<marquee>./wheel/blokpong.png</marquee>
+		<rating>0</rating>
+		<releasedate>20040101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./dirtypig.zip</path>
+		<name>Dirty Pigskin Football</name>
+		<desc>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</desc>
+		<image>./mixart/dirtypig.png</image>
+		<video>./snap/dirtypig.mp4</video>
+		<marquee>./wheel/dirtypig.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Sports-Sports / Football</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

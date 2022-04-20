@@ -828,21 +828,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Big Bang Bar 2.4.6.vpx</path>
-		<name>Big Bang Bar 2.4.6</name>
-		<desc>Flipper Big Bang Bar 2.4.6</desc>
-		<image>./mixart/Big Bang Bar 2.4.6.jpg</image>
-		<video>./snap/Big Bang Bar 2.4.6.mp4</video>
-		<marquee>./wheel/Big Bang Bar 2.4.6.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./A Real American Hero v1.8.1.vpx</path>
 		<name>G.I. Joe - A Real American Hero</name>
 		<desc>Flipper G.I. Joe - A Real American Hero v1.8.1</desc>
@@ -958,22 +943,6 @@
 		<image>./mixart/Inspector Gadget.png</image>
 		<video>./snap/Inspector Gadget.mp4</video>
 		<marquee>./wheel/Inspector Gadget.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda.vpx</path>
-		<name>Legend of Zelda</name>
-		<desc>Flipper Legend of Zelda</desc>
-		<image>./mixart/Legend of Zelda.jpg</image>
-		<video>./snap/Legend of Zelda.mp4</video>
-		<marquee>./wheel/Legend of Zelda.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -1524,21 +1493,6 @@
 		<image>./mixart/Austin Powers (Stern 2001)_VPWmod_1.0.3.jpg</image>
 		<video>./snap/Austin Powers (Stern 2001)_VPWmod_1.0.3.mp4</video>
 		<marquee>./wheel/Austin Powers (Stern 2001)_VPWmod_1.0.3.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Barb Wire (Gottlieb 1996) 2.1.vpx</path>
-		<name>Barb Wire (Gottlieb 1996)</name>
-		<desc>Flipper Barb Wire (Gottlieb 1996) 2.1</desc>
-		<image>./mixart/Barb Wire (Gottlieb 1996) 2.1.png</image>
-		<video>./snap/Barb Wire (Gottlieb 1996) 2.1.mp4</video>
-		<marquee>./wheel/Barb Wire (Gottlieb 1996) 2.1.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -3151,21 +3105,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./WWF Royal Rumble (1994).vpx</path>
-		<name>WWF Royal Rumble (1994)</name>
-		<desc>Flipper WWF Royal Rumble (1994)</desc>
-		<image>./mixart/WWF Royal Rumble (1994).jpg</image>
-		<video>./snap/WWF Royal Rumble (1994).mp4</video>
-		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./X-Men LE (Stern 2012) v2.0.1.vpx</path>
 		<name>X-Men LE (Stern 2012) v2.0.1</name>
 		<desc>Flipper X-Men LE (Stern 2012) v2.0.1</desc>
@@ -3508,6 +3447,179 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SLAYER.vpx</path>
+		<name>SLAYER</name>
+		<desc>Flipper SLAYER</desc>
+		<image>./mixart/SLAYER.png</image>
+		<video>./snap/SLAYER.mp4</video>
+		<marquee>./wheel/SLAYER.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Barb Wire (Gottlieb 1996) 2.1.vpx</path>
+		<name>Barb Wire (Gottlieb 1996)</name>
+		<desc>Flipper Barb Wire (Gottlieb 1996) 2.1</desc>
+		<image>./mixart/Barb Wire (Gottlieb 1996) 2.1.png</image>
+		<video>./snap/Barb Wire (Gottlieb 1996) 2.1.mp4</video>
+		<marquee>./wheel/Barb Wire (Gottlieb 1996) 2.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Legend of Zelda.vpx</path>
+		<name>Legend of Zelda</name>
+		<desc>Flipper Legend of Zelda</desc>
+		<image>./mixart/Legend of Zelda.jpg</image>
+		<video>./snap/Legend of Zelda.mp4</video>
+		<marquee>./wheel/Legend of Zelda.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blood Machines (VPW 2022) V1.0.vpx</path>
+		<name>Blood Machines</name>
+		<desc>Flipper Blood Machines (VPW 2022) V1.0</desc>
+		<image>./mixart/Blood Machines (VPW 2022) V1.0.png</image>
+		<video>./snap/Blood Machines (VPW 2022) V1.0.mp4</video>
+		<marquee>./wheel/Blood Machines (VPW 2022) V1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WWF Royal Rumble (1994).vpx</path>
+		<name>WWF Royal Rumble (1994)</name>
+		<desc>Flipper WWF Royal Rumble (1994)</desc>
+		<image>./mixart/WWF Royal Rumble (1994).jpg</image>
+		<video>./snap/WWF Royal Rumble (1994).mp4</video>
+		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Loonley Tunes (Iceman 2022).vpx</path>
+		<name>Loonley Tunes</name>
+		<desc>Flipper Loonley Tunes (Iceman 2022)</desc>
+		<image>./mixart/Loonley Tunes (Iceman 2022).png</image>
+		<video>./snap/Loonley Tunes (Iceman 2022).mp4</video>
+		<marquee>./wheel/Loonley Tunes (Iceman 2022).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Woody Woodpecker (Iceman 2022).vpx</path>
+		<name>Woody Woodpecker</name>
+		<desc>Flipper Woody Woodpecker (Iceman 2022)</desc>
+		<image>./mixart/Woody Woodpecker (Iceman 2022).png</image>
+		<video>./snap/Woody Woodpecker (Iceman 2022).mp4</video>
+		<marquee>./wheel/Woody Woodpecker (Iceman 2022).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Simpsons (Data East 1990) v1.5.1.vpx</path>
+		<name>The Simpsons (Data East)</name>
+		<desc>Flipper The Simpsons (Data East 1990) v1.5.1</desc>
+		<image>./mixart/The Simpsons (Data East 1990) v1.5.1.png</image>
+		<video>./snap/The Simpsons (Data East 1990) v1.5.1.mp4</video>
+		<marquee>./wheel/The Simpsons (Data East 1990) v1.5.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dante.vpx</path>
+		<name>Dante Inferno</name>
+		<desc>Flipper Dante Inferno</desc>
+		<image>./mixart/Dante.png</image>
+		<video>./snap/Dante.mp4</video>
+		<marquee>./wheel/Dante.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./John Carpenter’s Christine (TBA 2019).vpx</path>
+		<name>John Carpenter’s Christine</name>
+		<desc>Flipper John Carpenter’s Christine (TBA 2019)</desc>
+		<image>./mixart/John Carpenter’s Christine (TBA 2019).png</image>
+		<video>./snap/John Carpenter’s Christine (TBA 2019).mp4</video>
+		<marquee>./wheel/John Carpenter’s Christine (TBA 2019).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Big Bang Bar 2.4.6.vpx</path>
+		<name>Big Bang Bar</name>
+		<desc>Flipper Big Bang Bar Final 1.1</desc>
+		<image>./mixart/Big Bang Bar 2.4.6.jpg</image>
+		<video>./snap/Big Bang Bar 2.4.6.mp4</video>
+		<marquee>./wheel/Big Bang Bar 2.4.6.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -1451,20 +1451,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hot Wheels - World's Best Driver (USA).wux</path>
-		<name>Hot Wheels - World's Best Driver</name>
-		<desc>Do you have what it takes to be the World's Best Driver?
-
-Gear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?</desc>
-		<image>./mixart/Hot Wheels World_s Best Driver-01.png</image>
-		<video>./snap/Hot Wheels World_s Best Driver-01.mp4</video>
-		<marquee>./wheel/Hot Wheels World_s Best Driver-01.png</marquee>
-		<rating>0.46</rating>
-		<releasedate />
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Darksiders Warmastered Edition/code/darksiders1.rpx</path>
 		<name>Darksiders Warmastered Edition</name>
 		<desc>Deceived by the forces of evil into prematurely bringing about the end of the world, War the first Horseman of the Apocalypse stands accused of breaking the sacred law by inciting a war between Heaven and Hell. In the slaughter that ensued, the demonic forces defeated the heavenly hosts and laid claim to the Earth.</desc>
@@ -1634,5 +1620,19 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<favorite>true</favorite>
 		<md5>69030628e509473ac39b8fe84c6f42a9</md5>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hot Wheels - World's Best Driver (USA).wux</path>
+		<name>Hot Wheels - World's Best Driver</name>
+		<desc>Do you have what it takes to be the World's Best Driver?
+
+Gear up for the most intense challenges only Hot Wheels can deliver! Pick your team, choose your ride and go for it! Get behind the wheel of thrilling Hot Wheels vehicles while joining the elite ranks of Team Hot Wheels. Compete in dozens of unique, fast-paced, re-playable challenges all highlighting the different driving styles of Team Hot Wheels: the speed record-breaking Green Team, the show-stopping stunts of the Red Team, the high-tech precision of the Blue Team and the world record-breaking jumps of the Yellow Team. Do you have what it takes to be the World's Best Driver?</desc>
+		<image>./mixart/Hot Wheels World_s Best Driver-01.png</image>
+		<video>./snap/Hot Wheels World_s Best Driver-01.mp4</video>
+		<marquee>./wheel/Hot Wheels World_s Best Driver-01.png</marquee>
+		<rating>0.46</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

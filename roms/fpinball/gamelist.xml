@@ -1408,22 +1408,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blue Vs Pink - BAM Edition 1.1.fpt</path>
-		<name>Blue Vs Pink - BAM Edition 1.1</name>
-		<desc>Flipper Blue Vs Pink - BAM Edition 1.1</desc>
-		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
-		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
-		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
 		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
 		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
@@ -1440,21 +1424,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tales from the Crypt ULTIMATE 1.06.fpt</path>
-		<name>Tales from the Crypt ULTIMATE 1.06</name>
-		<desc>Flipper Tales from the Crypt ULTIMATE 1.06</desc>
-		<image>./mixart/Tales from the Crypt ULTIMATE 1.06.jpg</image>
-		<video>./snap/Tales from the Crypt ULTIMATE 1.06.mp4</video>
-		<marquee>./wheel/Tales from the Crypt ULTIMATE 1.06.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Spectrum (Bally).fpt</path>
 		<name>Spectrum (Bally)</name>
 		<desc>Flipper Spectrum (Bally)</desc>
@@ -1467,17 +1436,6 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Legend of Zelda.fpt</path>
-		<name>Legend of Zelda</name>
-		<desc>Flipper Legend of Zelda</desc>
-		<image>./mixart/Legend of Zelda.png</image>
-		<video>./snap/Legend of Zelda.mp4</video>
-		<marquee>./wheel/Legend of Zelda.png</marquee>
-		<releasedate>19940101T000000</releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -1890,18 +1848,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
-		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
-		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
-		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<releasedate>20210101T000000</releasedate>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Return_of_KingKong_1.0.fpt</path>
 		<name>Return of KingKong</name>
 		<desc>Flipper Return of KingKong</desc>
@@ -2292,6 +2238,76 @@
 		<image>./mixart/Wipeout (DOFLinx MX).jpg</image>
 		<video>./snap/Wipeout (DOFLinx MX).mp4</video>
 		<marquee>./wheel/Wipeout (DOFLinx MX).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania.fpt</path>
+		<name>Sonic Pinball Mania</name>
+		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Legend of Zelda.fpt</path>
+		<name>Legend of Zelda</name>
+		<desc>Flipper Legend of Zelda</desc>
+		<image>./mixart/Legend of Zelda.png</image>
+		<video>./snap/Legend of Zelda.mp4</video>
+		<marquee>./wheel/Legend of Zelda.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
+		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
+		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
+		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<releasedate>20210101T000000</releasedate>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Vs Pink - BAM Edition (1.3 - PinEvent V2).fpt</path>
+		<name>Blue Vs Pink - BAM Edition 1.3</name>
+		<desc>Flipper Blue Vs Pink - BAM Edition (1.3 - PinEvent V2)</desc>
+		<image>./mixart/Blue Vs Pink V1.0(DOFLinx).png</image>
+		<video>./snap/Blue Vs Pink V1.0(DOFLinx).mp4</video>
+		<marquee>./wheel/Blue Vs Pink V1.0(DOFLinx).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tales from the Crypt ULTIMATE 1.06.fpt</path>
+		<name>Tales from the Crypt ULTIMATE 1.06</name>
+		<desc>Flipper Tales from the Crypt ULTIMATE 1.06</desc>
+		<image>./mixart/Tales from the Crypt ULTIMATE 1.06.jpg</image>
+		<video>./snap/Tales from the Crypt ULTIMATE 1.06.mp4</video>
+		<marquee>./wheel/Tales from the Crypt ULTIMATE 1.06.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
