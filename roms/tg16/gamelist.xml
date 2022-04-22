@@ -950,25 +950,6 @@ A party consists of four characters, which cannot be created but must be selecte
 		<genre>Role playing games</genre>
 		<cheevosHash>30FA2B6C1083E1B382FCAA2CAC782E08</cheevosHash>
 	</game>
-	<game id="78724" source="ScreenScraper">
-		<path>./Ordyne (USA).zip</path>
-		<name>Ordyne</name>
-		<desc>Ordyne is a horizontal side-scrolling shoot 'em up (also considered a "cute 'em up" due to its lighter tone) that puts players in the role of Yûichirô Tomari, a genius scientist, and Sunday Chin, his faithful assistant.  The two heroes must rescue Tomari's fiancee Kana Aibara from the evil Dr. Kubota.
-
-During gameplay, players can obtain crystals that can be used to buy special weapons, extra lives, and other power-ups at shops located throughout the levels. There are also a bonus games that allow players to win multiple crystals or points by shooting at rotating targets.
-
-Ordyne is two-player simultaneous.</desc>
-		<image>./mixart/Ordyne (USA).png</image>
-		<video>./snap/Ordyne (USA).mp4</video>
-		<marquee>./wheel/Ordyne (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19900000T000000</releasedate>
-		<developer>Namco Limited</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<cheevosHash>D803EB8F622521E515FF1DD715E725C0</cheevosHash>
-	</game>
 	<game id="14495" source="ScreenScraper">
 		<path>./Pac-Land (USA).zip</path>
 		<name>Pac-Land</name>
@@ -1098,41 +1079,6 @@ Raiden (called Raiden Trad on the Genesis and SNES) is an over-head vertical-scr
 		<players>1</players>
 		<cheevosHash>5D08E419351CF3EE85E6536070CBB94F</cheevosHash>
 		<cheevosId>2320</cheevosId>
-	</game>
-	<game id="14548" source="ScreenScraper">
-		<path>./Samurai-Ghost (USA).zip</path>
-		<name>Samurai Ghost</name>
-		<desc>Samurai Ghost is the sequel to the Japan-only Genpei Toma Den. You start the game as the undead ronin Kagekiyo, who sets out on a quest for revenge to defeat the demons and mystical monsters that haunt the Japanese countryside.
-
-The game is an action side-scroller, in which you control Kagekiyo as he scrolls through several stages slashing all the enemies that cross his path. Your ghostly nature also grants you energy-based attacks and several supernatural abilities which are mostly used to take you to surreal stages in which you can levitate and walk on water.</desc>
-		<image>./mixart/Samurai-Ghost (USA).png</image>
-		<video>./snap/Samurai-Ghost (USA).mp4</video>
-		<marquee>./wheel/Samurai-Ghost (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19920407T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>6E32E0516EA74EB94A4F0BC8BD9DC47C</cheevosHash>
-	</game>
-	<game id="14601" source="ScreenScraper">
-		<path>./Shockman (USA).zip</path>
-		<name>Shockman</name>
-		<desc>In the sequel to Kaizou Choujin Shubibinman once again the player takes the role of either cyborg Tasuke or Kyapiko (renamed Arnold and Sonya for their US debut) to face an alien threat to the world.
-
-Both cyborgs have traded their energy blades for ranged attacks, which change the pacing of the game a bit but nevertheless remains an action-oriented side-scrolling platformer in which your objective is to clear the stage of all enemies and bosses, while picking up any power-ups that can aid you in your quest. The game makes a linear progression from stage to stage, losing the world map from the original as well as the upgrade buying between levels (since "Doc" the inventor of both cyborgs and provider of upgrades has been abducted by the aliens), although new shooter stages have been included to spice things up.</desc>
-		<image>./mixart/Shockman (USA).png</image>
-		<video>./snap/Shockman (USA).mp4</video>
-		<marquee>./wheel/Shockman (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920000T000000</releasedate>
-		<developer>Winds Co</developer>
-		<publisher>NCS Corp</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>57C888F4AF792DC4588A2F9DBEBEA31A</cheevosHash>
-		<cheevosId>2322</cheevosId>
 	</game>
 	<game>
 		<path>./SideArms - Hyper Dyne (USA).zip</path>
@@ -1749,5 +1695,65 @@ The goal of the game, much like many others in the genre, is to reach and certai
 		<publisher>NEC Corporation</publisher>
 		<genre>Pinball</genre>
 		<cheevosHash>28EFE8B957A43FACBA53AFE2AEC38A69</cheevosHash>
+	</game>
+	<game id="78724" source="ScreenScraper">
+		<path>./Ordyne (USA).zip</path>
+		<name>Ordyne</name>
+		<desc>Ordyne is a horizontal side-scrolling shoot 'em up (also considered a "cute 'em up" due to its lighter tone) that puts players in the role of Yûichirô Tomari, a genius scientist, and Sunday Chin, his faithful assistant.  The two heroes must rescue Tomari's fiancee Kana Aibara from the evil Dr. Kubota.
+
+During gameplay, players can obtain crystals that can be used to buy special weapons, extra lives, and other power-ups at shops located throughout the levels. There are also a bonus games that allow players to win multiple crystals or points by shooting at rotating targets.
+
+Ordyne is two-player simultaneous.</desc>
+		<image>./mixart/Ordyne (USA).png</image>
+		<video>./snap/Ordyne (USA).mp4</video>
+		<marquee>./wheel/Ordyne (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19900000T000000</releasedate>
+		<developer>Namco Limited</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D803EB8F622521E515FF1DD715E725C0</cheevosHash>
+	</game>
+	<game id="14548" source="ScreenScraper">
+		<path>./Samurai-Ghost (USA).zip</path>
+		<name>Samurai Ghost</name>
+		<desc>Samurai Ghost is the sequel to the Japan-only Genpei Toma Den. You start the game as the undead ronin Kagekiyo, who sets out on a quest for revenge to defeat the demons and mystical monsters that haunt the Japanese countryside.
+
+The game is an action side-scroller, in which you control Kagekiyo as he scrolls through several stages slashing all the enemies that cross his path. Your ghostly nature also grants you energy-based attacks and several supernatural abilities which are mostly used to take you to surreal stages in which you can levitate and walk on water.</desc>
+		<image>./mixart/Samurai-Ghost (USA).png</image>
+		<video>./snap/Samurai-Ghost (USA).mp4</video>
+		<marquee>./wheel/Samurai-Ghost (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19920407T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6E32E0516EA74EB94A4F0BC8BD9DC47C</cheevosHash>
+	</game>
+	<game id="14601" source="ScreenScraper">
+		<path>./Shockman (USA).zip</path>
+		<name>Shockman</name>
+		<desc>In the sequel to Kaizou Choujin Shubibinman once again the player takes the role of either cyborg Tasuke or Kyapiko (renamed Arnold and Sonya for their US debut) to face an alien threat to the world.
+
+Both cyborgs have traded their energy blades for ranged attacks, which change the pacing of the game a bit but nevertheless remains an action-oriented side-scrolling platformer in which your objective is to clear the stage of all enemies and bosses, while picking up any power-ups that can aid you in your quest. The game makes a linear progression from stage to stage, losing the world map from the original as well as the upgrade buying between levels (since "Doc" the inventor of both cyborgs and provider of upgrades has been abducted by the aliens), although new shooter stages have been included to spice things up.</desc>
+		<image>./mixart/Shockman (USA).png</image>
+		<video>./snap/Shockman (USA).mp4</video>
+		<marquee>./wheel/Shockman (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920000T000000</releasedate>
+		<developer>Winds Co</developer>
+		<publisher>NCS Corp</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>57C888F4AF792DC4588A2F9DBEBEA31A</cheevosHash>
+		<cheevosId>2322</cheevosId>
 	</game>
 </gameList>

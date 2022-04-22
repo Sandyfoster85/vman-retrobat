@@ -412,16 +412,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./castlevania VAMPIRE RISING.fpt</path>
-		<name>castlevania VAMPIRE RISING</name>
-		<desc>Flipper Castlevania VAMPIRE RISING</desc>
-		<image>./mixart/castlevania VAMPIRE RISING.png</image>
-		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
-		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Commander Keen (2.0).fpt</path>
 		<name>Commander Keen (2.0)</name>
 		<desc>Flipper Commander Keen</desc>
@@ -1152,16 +1142,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./BUGS BUNNYS BIRTHDAY BALL.fpt</path>
-		<name>BUGS BUNNYS BIRTHDAY BALL</name>
-		<desc>Flipper BUGS BUNNYS BIRTHDAY BALL</desc>
-		<image>./mixart/BUGS BUNNYS BIRTHDAY BALL.png</image>
-		<video>./snap/BUGS BUNNYS BIRTHDAY BALL.mp4</video>
-		<marquee>./wheel/BUGS BUNNYS BIRTHDAY BALL.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./C3PO (3.0).fpt</path>
 		<name>C3PO (3.0)</name>
 		<desc>Flipper C3PO</desc>
@@ -1190,22 +1170,6 @@
 		<video>./snap/Elvis Stern.mp4</video>
 		<marquee>./wheel/Elvis Stern.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Tron Light Cycle Arena.fpt</path>
-		<name>Tron Light Cycle Arena</name>
-		<desc>Flipper Tron Light Cycle Arena</desc>
-		<image>./mixart/Tron Light Cycle Arena.png</image>
-		<video>./snap/Tron Light Cycle Arena.mp4</video>
-		<marquee>./wheel/Tron Light Cycle Arena.png</marquee>
-		<rating>4</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -2314,6 +2278,266 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BUGS BUNNYS BIRTHDAY BALL.fpt</path>
+		<name>BUGS BUNNYS BIRTHDAY BALL</name>
+		<desc>Flipper BUGS BUNNYS BIRTHDAY BALL</desc>
+		<image>./mixart/BUGS BUNNYS BIRTHDAY BALL.png</image>
+		<video>./snap/BUGS BUNNYS BIRTHDAY BALL.mp4</video>
+		<marquee>./wheel/BUGS BUNNYS BIRTHDAY BALL.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Light Cycle Arena.fpt</path>
+		<name>Tron Light Cycle Arena</name>
+		<desc>Flipper Tron Light Cycle Arena</desc>
+		<image>./mixart/Tron Light Cycle Arena.png</image>
+		<video>./snap/Tron Light Cycle Arena.mp4</video>
+		<marquee>./wheel/Tron Light Cycle Arena.png</marquee>
+		<rating>4</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Hanna Barbera Cartoon's.fpt</path>
+		<name>Hanna Barbera Cartoon's</name>
+		<desc>Flipper Hanna Barbera Cartoon's</desc>
+		<image>./mixart/Hanna Barbera Cartoon's.jpg</image>
+		<video>./snap/Hanna Barbera Cartoon's.mp4</video>
+		<marquee>./wheel/Hanna Barbera Cartoon's.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Fairground 1.0.1b.fpt</path>
+		<name>Fairground</name>
+		<desc>Flipper Fairground 1.0.1b</desc>
+		<image>./mixart/Fairground 1.0.1b.png</image>
+		<video>./snap/Fairground 1.0.1b.mp4</video>
+		<marquee>./wheel/Fairground 1.0.1b.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./WorldTour.fpt</path>
+		<name>World Tour</name>
+		<desc>Flipper World Tour</desc>
+		<image>./mixart/WorldTour.png</image>
+		<video>./snap/WorldTour.mp4</video>
+		<marquee>./wheel/WorldTour.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./HeavyMetal.fpt</path>
+		<name>Heavy Metal (1983)</name>
+		<desc>Flipper Heavy Metal (1983)</desc>
+		<image>./mixart/HeavyMetal.png</image>
+		<video>./snap/HeavyMetal.mp4</video>
+		<marquee>./wheel/HeavyMetal.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Penthouse.fpt</path>
+		<name>Penthouse</name>
+		<desc>Flipper Penthouse</desc>
+		<image>./mixart/Penthouse.jpg</image>
+		<video>./snap/Penthouse.mp4</video>
+		<marquee>./wheel/Penthouse.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Popeye.fpt</path>
+		<name>Popeye</name>
+		<desc>Flipper Popeye</desc>
+		<image>./mixart/Popeye.png</image>
+		<video>./snap/Popeye.mp4</video>
+		<marquee>./wheel/Popeye.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./thehungrydeadv1.fpt</path>
+		<name>The Hungry Dead</name>
+		<desc>Flipper the hungry dead v1</desc>
+		<image>./mixart/thehungrydeadv1.png</image>
+		<video>./snap/thehungrydeadv1.mp4</video>
+		<marquee>./wheel/thehungrydeadv1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Ninja Turtles.fpt</path>
+		<name>Ninja Turtles</name>
+		<desc>Flipper Ninja Turtles</desc>
+		<image>./mixart/Ninja Turtles.jpg</image>
+		<video>./snap/Ninja Turtles.mp4</video>
+		<marquee>./wheel/Ninja Turtles.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Darius.fpt</path>
+		<name>Darius</name>
+		<desc>Flipper DARIUS</desc>
+		<image>./mixart/DARIUS.png</image>
+		<video>./snap/DARIUS.mp4</video>
+		<marquee>./wheel/DARIUS.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Pro Wrestling.fpt</path>
+		<name>Pro Wrestling</name>
+		<desc>Flipper Pro Wrestling</desc>
+		<image>./mixart/Pro Wrestling.png</image>
+		<video>./snap/Pro Wrestling.mp4</video>
+		<marquee>./wheel/Pro Wrestling.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Zombies Ate My Neighbors.fpt</path>
+		<name>Zombies Ate My Neighbors</name>
+		<desc>Flipper Zombies Ate My Neighbors</desc>
+		<image>./mixart/Zombies Ate My Neighbors.png</image>
+		<video>./snap/Zombies Ate My Neighbors.mp4</video>
+		<marquee>./wheel/Zombies Ate My Neighbors.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./DarkQuest 1.1.fpt</path>
+		<name>DarkQuest</name>
+		<desc>Flipper DarkQuest 1.1</desc>
+		<image>./mixart/DarkQuest 1.1.png</image>
+		<video>./snap/DarkQuest 1.1.mp4</video>
+		<marquee>./wheel/DarkQuest 1.1.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Disco Fever.fpt</path>
+		<name>Disco Fever</name>
+		<desc>Flipper Disco Fever</desc>
+		<image>./mixart/Disco Fever.png</image>
+		<video>./snap/Disco Fever.mp4</video>
+		<marquee>./wheel/Disco Fever.jpg</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./DodgeBall 1.0.fpt</path>
+		<name>DodgeBall</name>
+		<desc>Flipper DodgeBall 1.0</desc>
+		<image>./mixart/DodgeBall 1.0.png</image>
+		<video>./snap/DodgeBall 1.0.mp4</video>
+		<marquee>./wheel/DodgeBall 1.0.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./klownv1.5.fpt</path>
+		<name>Killer Klown</name>
+		<desc>Flipper Killer Klown 1.5</desc>
+		<image>./mixart/klownv1.5.png</image>
+		<video>./snap/klownv1.5.mp4</video>
+		<marquee>./wheel/klownv1.5.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./castlevania VAMPIRE RISING.fpt</path>
+		<name>castlevania VAMPIRE RISING</name>
+		<desc>Flipper Castlevania VAMPIRE RISING</desc>
+		<image>./mixart/castlevania VAMPIRE RISING.png</image>
+		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
+		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
 	</game>
 </gameList>

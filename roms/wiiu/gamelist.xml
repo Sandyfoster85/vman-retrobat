@@ -1493,26 +1493,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<md5>2bfa1c674bc53eb871210ae4e3837375</md5>
 		<lang>en</lang>
 	</game>
-	<game id="12119">
-		<path>./MARIO KART 8/code/Turbo.rpx</path>
-		<name>Mario Kart 8</name>
-		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
-
-The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
-		<image>./mixart/Mario Kart 8.png</image>
-		<video>./snap/Mario Kart 8.mp4</video>
-		<marquee>./wheel/Mario Kart 8-01.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20140530T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<family>Mario Kart</family>
-		<players>4+</players>
-		<favorite>true</favorite>
-		<md5>1357c833acd98ec03218eb773296824a</md5>
-		<lang>en</lang>
-	</game>
 	<game id="12634">
 		<path>./Mario Tennis Ultra Smash [AVXP0101]/code/main.rpx</path>
 		<name>Mario Tennis Ultra Smash</name>
@@ -1631,8 +1611,28 @@ Gear up for the most intense challenges only Hot Wheels can deliver! Pick your t
 		<video>./snap/Hot Wheels World_s Best Driver-01.mp4</video>
 		<marquee>./wheel/Hot Wheels World_s Best Driver-01.png</marquee>
 		<rating>0.46</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="12119">
+		<path>./MARIO KART 8/code/Turbo.rpx</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<image>./mixart/Mario Kart 8.png</image>
+		<video>./snap/Mario Kart 8.mp4</video>
+		<marquee>./wheel/Mario Kart 8-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>4+</players>
+		<favorite>true</favorite>
+		<md5>1357c833acd98ec03218eb773296824a</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

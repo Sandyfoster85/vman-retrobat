@@ -141,25 +141,6 @@ This version of the game has various options before and during play. You can cho
 		<md5>2e31b8ef9796c0ad066e4d98f77b17ab</md5>
 		<lang>en</lang>
 	</game>
-	<game id="110226">
-		<path>./Threshold.prg</path>
-		<name>Threshold</name>
-		<desc>Threshold is a simple shoot'em up game. You are in control of a spaceship at the bottom of the screen and have to shoot several formations of enemies at the top of the screen.
-
-To make things more difficult you have limited time in form of a fuel tank which will get refilled after you cleared a number of waves. Besides that, your spacecraft is equipped with a laser that tends to overheat. Every shot makes the heat bar of the laser increase a bit. Once it reached its maximum you can't fire anymore and are forced to wait until it cools down while slowly running out of fuel.</desc>
-		<image>./mixart/threshold.jpg</image>
-		<video>./snap/threshold.mp4</video>
-		<marquee>./wheel/Threshold.png</marquee>
-		<rating>0</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>I.C.G.</developer>
-		<publisher>Sierra</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e1d5a52bf6e5cce910c5ea99959fb90b</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Tutankham.prg</path>
 		<name>Tutankham</name>
@@ -649,22 +630,6 @@ To make things more difficult you have limited time in form of a fuel tank which
 		<genre>Action, Action / Adventure</genre>
 		<players>1</players>
 		<md5>abdfe4437f4db2e5cf3b71aa76ff48a1</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Deadly Duck.prg</path>
-		<name>Deadly Duck</name>
-		<desc>In Deadly Duck the player controls the titular character who must shoot his bill bullets at crabs, the bricks they drop, and dragonflies. Each level starts with eight crabs. The crabs grab bricks from the sides and try to drop them on the player-controlled duck. It is possible to shoot the crabs and the bricks as they fall, but if a brick lands on the duck, he dies. When a brick lands on an empty spot, it will stay on the pond for a moment, preventing the duck from moving horizontally. On levels two to four there are two, four and six dragonflies, respectively, moving together just under the crabs. The player receives ten points for shooting the dragonflies, but this makes them angry. When angry, they drop one, two or three bombs (depending on the level). If the duck is next to a bomb when it explodes, he is killed. The game continues until the player runs out of ducks, which are equivalent to lives in other games.</desc>
-		<image>./mixart/deadly duck.jpg</image>
-		<video>./snap/deadly duck.mp4</video>
-		<marquee>./wheel/Deadly Duck.png</marquee>
-		<rating>0</rating>
-		<releasedate>19820101T195341</releasedate>
-		<developer>Ed Hodapp</developer>
-		<publisher>Sirius</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<md5>45f4b4b207bb81bd4337e6e63723fa9a</md5>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2198,6 +2163,41 @@ Survive a few rounds of gameplay, and be treated to humorous intermissions betwe
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>6d940ab5e11dae660efd3b5887290b57</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Deadly Duck.prg</path>
+		<name>Deadly Duck</name>
+		<desc>In Deadly Duck the player controls the titular character who must shoot his bill bullets at crabs, the bricks they drop, and dragonflies. Each level starts with eight crabs. The crabs grab bricks from the sides and try to drop them on the player-controlled duck. It is possible to shoot the crabs and the bricks as they fall, but if a brick lands on the duck, he dies. When a brick lands on an empty spot, it will stay on the pond for a moment, preventing the duck from moving horizontally. On levels two to four there are two, four and six dragonflies, respectively, moving together just under the crabs. The player receives ten points for shooting the dragonflies, but this makes them angry. When angry, they drop one, two or three bombs (depending on the level). If the duck is next to a bomb when it explodes, he is killed. The game continues until the player runs out of ducks, which are equivalent to lives in other games.</desc>
+		<image>./mixart/deadly duck.jpg</image>
+		<video>./snap/deadly duck.mp4</video>
+		<marquee>./wheel/Deadly Duck.png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T195341</releasedate>
+		<developer>Ed Hodapp</developer>
+		<publisher>Sirius</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<md5>45f4b4b207bb81bd4337e6e63723fa9a</md5>
+		<lang>en</lang>
+	</game>
+	<game id="110226">
+		<path>./Threshold.prg</path>
+		<name>Threshold</name>
+		<desc>Threshold is a simple shoot'em up game. You are in control of a spaceship at the bottom of the screen and have to shoot several formations of enemies at the top of the screen.
+
+To make things more difficult you have limited time in form of a fuel tank which will get refilled after you cleared a number of waves. Besides that, your spacecraft is equipped with a laser that tends to overheat. Every shot makes the heat bar of the laser increase a bit. Once it reached its maximum you can't fire anymore and are forced to wait until it cools down while slowly running out of fuel.</desc>
+		<image>./mixart/threshold.jpg</image>
+		<video>./snap/threshold.mp4</video>
+		<marquee>./wheel/Threshold.png</marquee>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>I.C.G.</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e1d5a52bf6e5cce910c5ea99959fb90b</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

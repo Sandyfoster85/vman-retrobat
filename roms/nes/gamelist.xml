@@ -19810,23 +19810,6 @@ Once Donkey Kong is sent through the three levels of the greenhouse, Donkey Kong
 		<cheevosHash>A2B5BDDB4C7A5A39C8FAC13E64494C9A</cheevosHash>
 		<cheevosId>1657</cheevosId>
 	</game>
-	<game id="18641" source="ScreenScraper.fr">
-		<path>./Donkey Kong Classics (USA, Europe).zip</path>
-		<name>Donkey Kong Classics</name>
-		<desc>Donkey Kong Classics features both the original Donkey Kong and Donkey Kong Jr. on a single cartridge. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./mixart/Donkey Kong Classics (USA, Europe).png</image>
-		<video>./snap/Donkey Kong Classics (USA, Europe).mp4</video>
-		<marquee>./wheel/Donkey Kong Classics (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>0994EA979D8E06DFCB599389C8364787</cheevosHash>
-	</game>
 	<game id="1351" source="ScreenScraper.fr">
 		<path>./Donkey Kong Jr. (World).zip</path>
 		<name>Donkey Kong Jr.</name>
@@ -30596,5 +30579,22 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<region>us</region>
 		<cheevosHash>019214D25E5B2B340E2270BDEAB5B520</cheevosHash>
 		<cheevosId>2039</cheevosId>
+	</game>
+	<game id="18641" source="ScreenScraper.fr">
+		<path>./Donkey Kong Classics (USA, Europe).zip</path>
+		<name>Donkey Kong Classics</name>
+		<desc>Donkey Kong Classics features both the original Donkey Kong and Donkey Kong Jr. on a single cartridge. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./mixart/Donkey Kong Classics (USA, Europe).png</image>
+		<video>./snap/Donkey Kong Classics (USA, Europe).mp4</video>
+		<marquee>./wheel/Donkey Kong Classics (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>0994EA979D8E06DFCB599389C8364787</cheevosHash>
 	</game>
 </gameList>

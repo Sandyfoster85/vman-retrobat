@@ -650,19 +650,6 @@ Originally released for Apple II home computers, Choplifter was later ported to 
 		<players>2</players>
 		<cheevosHash>BD540C105D9A39405146B9F96D6B7E4B</cheevosHash>
 	</game>
-	<game>
-		<path>./Choujin Sentai - Jetman (Japan) (Translated En).zip</path>
-		<name>Choujin Sentai - Jetman (Japan) (Translated En)</name>
-		<image>./mixart/Choujin Sentai - Jetman (Japan) (Translated En).png</image>
-		<video>./snap/Choujin Sentai - Jetman (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20010101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<cheevosHash>1DA97179BDEA9CCC6F9086B5CC244C30</cheevosHash>
-	</game>
 	<game source="ScreenScraper">
 		<path>./Choujinrou Senki Warwolf (Japan) (Translated En).zip</path>
 		<name>Choujinrou Senki Warwolf (Japan) (Translated En)</name>
@@ -5155,5 +5142,18 @@ You take control of one character at a time, with each hero having different abi
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosHash>73902F0DB4C43B651672173853977423</cheevosHash>
+	</game>
+	<game>
+		<path>./Choujin Sentai - Jetman (Japan) (Translated En).zip</path>
+		<name>Choujin Sentai - Jetman (Japan) (Translated En)</name>
+		<image>./mixart/Choujin Sentai - Jetman (Japan) (Translated En).png</image>
+		<video>./snap/Choujin Sentai - Jetman (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>1DA97179BDEA9CCC6F9086B5CC244C30</cheevosHash>
 	</game>
 </gameList>

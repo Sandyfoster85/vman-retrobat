@@ -1471,22 +1471,6 @@ Sound: Russ Haft</desc>
 		<genre>Shooter</genre>
 	</game>
 	<game>
-		<path>./Star Strike (World).7z</path>
-		<name>Star Strike</name>
-		<desc>Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space craft into the enemy launch trench. Your mission: to destroy the alien station before Earth passes directly over the launch trench. You must evade the alien ships that are defending the launch trench while being sure to bomb the red "Hot Targets". The very first red target that is missed when the Earth is directly in the middle of the launch trench becomes a missile. The missile is launched and destroys Earth.</desc>
-		<image>./mixart/Star Strike (World).png</image>
-		<video>./snap/Star Strike (World).mp4</video>
-		<marquee>./wheel/Star Strike (World).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19811222T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./TRON - Deadly Discs (World).7z</path>
 		<name>TRON - Deadly Discs</name>
 		<image>./mixart/TRON - Deadly Discs (World).png</image>
@@ -1648,7 +1632,7 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<image>./mixart/Beauty and the Beast (World).png</image>
 		<video>./snap/Beauty and the Beast (World).mp4</video>
 		<marquee>./wheel/Beauty and the Beast (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
@@ -1673,7 +1657,7 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<image>./mixart/Body Slam - Super Pro Wrestling (World).png</image>
 		<video>./snap/Body Slam - Super Pro Wrestling (World).mp4</video>
 		<marquee>./wheel/Body Slam - Super Pro Wrestling (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
@@ -1715,7 +1699,7 @@ On the more difficult skill levels, circuit parts may even overheat and cause a 
 		<image>./mixart/Bump 'N' Jump (World).png</image>
 		<video>./snap/Bump 'N' Jump (World).mp4</video>
 		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
@@ -1819,7 +1803,7 @@ The player must use the magic wand to shoot sparks at approaching insects to sco
 		<image>./mixart/Chip Shot - Super Pro Golf (World).png</image>
 		<video>./snap/Chip Shot - Super Pro Golf (World).mp4</video>
 		<marquee>./wheel/Chip Shot - Super Pro Golf (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>wr</region>
 	</game>
@@ -1865,7 +1849,23 @@ Congo Bongo. Straight from the arcade and into your home. It's more fun than a b
 		<image>./mixart/Deep Pockets - Super Pro Pool and Billiards (World).png</image>
 		<video>./snap/Deep Pockets - Super Pro Pool and Billiards (World).mp4</video>
 		<marquee>./wheel/Deep Pockets - Super Pro Pool and Billiards (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Star Strike (World).7z</path>
+		<name>Star Strike</name>
+		<desc>Star Strike was clearly inspired by the Death Star battle sequence in the movie Star Wars. You fly a space craft into the enemy launch trench. Your mission: to destroy the alien station before Earth passes directly over the launch trench. You must evade the alien ships that are defending the launch trench while being sure to bomb the red "Hot Targets". The very first red target that is missed when the Earth is directly in the middle of the launch trench becomes a missile. The missile is launched and destroys Earth.</desc>
+		<image>./mixart/Star Strike (World).png</image>
+		<video>./snap/Star Strike (World).mp4</video>
+		<marquee>./wheel/Star Strike (World).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19811222T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

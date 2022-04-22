@@ -3760,22 +3760,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Karate Kid.pak</path>
-		<name>Super Karate Kid</name>
-		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
-		<image>./mixart/Super Karate Kid.png</image>
-		<video>./snap/Super Karate Kid.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles.pak</path>
 		<name>Teenage Mutant Ninja Turtles</name>
 		<image>./mixart/Teenage Mutant Ninja Turtles.png</image>
@@ -3847,5 +3831,21 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>2</players>
+	</game>
+	<game>
+		<path>./Super Karate Kid.pak</path>
+		<name>Super Karate Kid</name>
+		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
+		<image>./mixart/Super Karate Kid.png</image>
+		<video>./snap/Super Karate Kid.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

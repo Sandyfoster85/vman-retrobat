@@ -3935,26 +3935,6 @@ This game plays very much like any old platform game on the NES (specifically, i
 		<region>us</region>
 		<cheevosHash>E0B72CF1FC63342213AAAE0C1DE9F7A9</cheevosHash>
 	</game>
-	<game>
-		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
-		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
-		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
-
-There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
-		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
-		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
-		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010406T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving-Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
-	</game>
 	<game id="20049" source="ScreenScraper.fr">
 		<path>./Championship Surfer (USA).chd</path>
 		<name>Championship Surfer</name>
@@ -21488,5 +21468,25 @@ As a FPS, Quake II contains a variety of weapons including the fall back Blaster
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>5651F740D5C3F576717B5DBE32201DD1</cheevosHash>
+	</game>
+	<game>
+		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
+		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
+		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
+
+There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
+		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
+		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
+		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving-Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
 	</game>
 </gameList>

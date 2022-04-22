@@ -1005,22 +1005,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Mortal Kombat II HD.lnk</path>
-		<name>Mortal Kombat II HD</name>
-		<desc>Mugen Fanmade 2D Fighting Mortal Kombat II HD</desc>
-		<image>./mixart/Mortal Kombat II HD.png</image>
-		<video>./snap/Mortal Kombat II HD.mp4</video>
-		<marquee>./wheel/Mortal Kombat II HD.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super Crazy Jam Season 3.lnk</path>
 		<name>Super Crazy Jam Season 3</name>
 		<desc>Mugen Fanmade 2D Fighting Super Crazy Jam Season 3</desc>
@@ -1049,6 +1033,22 @@
 		<publisher>Mugen</publisher>
 		<genre>Fighting</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mortal Kombat II HD.lnk</path>
+		<name>Mortal Kombat II HD</name>
+		<desc>Mugen Fanmade 2D Fighting Mortal Kombat II HD</desc>
+		<image>./mixart/Mortal Kombat II HD.png</image>
+		<video>./snap/Mortal Kombat II HD.mp4</video>
+		<marquee>./wheel/Mortal Kombat II HD.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
