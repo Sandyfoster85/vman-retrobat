@@ -278,21 +278,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37517" source="ScreenScraper.fr">
-		<path>./Scud Race Plus.zip</path>
-		<name>Scud Race</name>
-		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
-		<image>./mixart/Scud Race Plus.png</image>
-		<video>./snap/Scud Race Plus.mp4</video>
-		<marquee>./wheel/Scud Race Plus.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<players>1</players>
-		<genreid>1537</genreid>
-	</game>
 	<game id="94370" source="ScreenScraper.fr">
 		<path>./Get Bass.zip</path>
 		<name>Sega Bass Fishing</name>
@@ -358,6 +343,21 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<genre>Race 3rd Pers. view-Race, Driving</genre>
 		<players>1</players>
 		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37517" source="ScreenScraper.fr">
+		<path>./Scud Race Plus.zip</path>
+		<name>Scud Race</name>
+		<desc>Scud Race (stylized as SCUD Race, "Sport Car Ultimate Drive"), or otherwise known as Sega Super GT in North America, is an arcade racing game released by Sega in 1996. It is the first racing game to be using the Sega Model 3 hardware.</desc>
+		<image>./mixart/Scud Race Plus.png</image>
+		<video>./snap/Scud Race Plus.mp4</video>
+		<marquee>./wheel/Scud Race Plus.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<players>1</players>
 		<genreid>1537</genreid>
 	</game>
 </gameList>

@@ -3728,21 +3728,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Street Fighter X Tekken.lnk</path>
-		<name>Street Fighter X Tekken</name>
-		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
-		<image>./mixart/Street Fighter X Tekken.jpg</image>
-		<video>./snap/Street Fighter X Tekken.mp4</video>
-		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20121912T010000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting Game</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Adventure Pinball.lnk</path>
 		<name>Adventure Pinball: Forgotten Island</name>
 		<desc>It starts when you receive a note and map from your long lost grandfather, along with the promise of the adventure of a lifetime. You'll encounter dinosaurs, volcanoes, and man-eating sharks, as well as a tribe of cavemen to save.</desc>
@@ -6604,5 +6589,50 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Street Fighter X Tekken.lnk</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>The game features characters from both the Street Fighter franchise and Namco's Tekken series. In the game, each player selects two characters respectively and face other as duos in tag team fighting matches, with the objective to knock out one of the members from the opposing team (deplete the opponent's health).</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
+		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20121912T010000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./LEGO Star Wars - The Skywalker Saga.lnk</path>
+		<name>LEGO Star Wars: The Skywalker Saga</name>
+		<desc>The galaxy is yours with LEGO® Star Wars™: The Skywalker Saga! Play through all nine Star Wars™ saga films in a brand-new LEGO video game unlike any other. Experience fun-filled adventures, whimsical humor, and the freedom to fully immerse yourself in the Star Wars universe like never before. For the first time ever in a LEGO video game, explore the galaxy your way as you fly to some of the saga's most legendary locales. You can start your journey with Star Wars™: The Phantom Menace for some podracing on Tatooine. Or choose to launch right into Rey's adventures in Star Wars™: The Rise of Skywalker. Players have the freedom to seamlessly travel to any planet, in any order, at any time. Journey to a galaxy far, far away with LEGO Star Wars: The Skywalker Saga.</desc>
+		<image>./mixart/LEGO Star Wars - The Skywalker Saga.jpg</image>
+		<video>./snap/LEGO Star Wars - The Skywalker Saga.mp4</video>
+		<marquee>./wheel/LEGO Star Wars - The Skywalker Saga.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20221201T000000</releasedate>
+		<developer>Traveller's Tales</developer>
+		<publisher>Lucasfilm</publisher>
+		<genre>Action, Adventure</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Tetris Effect.lnk</path>
+		<name>Tetris Effect</name>
+		<desc>Tetris® Effect is Tetris like you've never seen it, or heard it, or felt it before—an incredibly addictive, unique, and breathtakingly gorgeous reinvention of one of the most popular puzzle games of all time, from the people who brought you the award-winning Rez Infinite and legendary puzzle game Lumines. Fully playable on either a standard display—with unlocked resolution and uncapped framerate (with Vsync disabled)—or optionally in mind-blowing 3D on Oculus Rift and HTC VIVE. As the ultimate version of Tetris Effect, the PC version is capable of running at resolutions of 4K or more, with an uncapped framerate (if Vsync is disabled), and includes ultra-wide monitor support as well as other expanded game and graphical options for both 2D.</desc>
+		<image>./mixart/Tetris Effect.jpg</image>
+		<video>./snap/Tetris Effect.mp4</video>
+		<marquee>./wheel/Tetris Effect.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Monstars</developer>
+		<publisher>Enhance Games</publisher>
+		<genre>Puzzle</genre>
+		<players>3</players>
+		<favorite>true</favorite>
 	</game>
 </gameList>

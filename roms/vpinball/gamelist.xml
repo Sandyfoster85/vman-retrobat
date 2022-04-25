@@ -1097,22 +1097,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Turrican (TBA 2018).vpx</path>
-		<name>Turrican (TBA 2018)</name>
-		<desc>Flipper Turrican (TBA 2018)</desc>
-		<image>./mixart/Turrican (TBA 2018).png</image>
-		<video>./snap/Turrican (TBA 2018).mp4</video>
-		<marquee>./wheel/Turrican (TBA 2018).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./U-FOES.vpx</path>
 		<name>Marvel U-FOES</name>
 		<desc>Flipper Marvel U-FOES v2</desc>
@@ -3182,22 +3166,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Fog, The (Gottlieb 1979).vpx</path>
-		<name>The Fog (Gottlieb 1979)</name>
-		<desc>Flipper Fog, The (Gottlieb 1979)</desc>
-		<image>./mixart/Fog, The (Gottlieb 1979).png</image>
-		<video>./snap/Fog, The (Gottlieb 1979).mp4</video>
-		<marquee>./wheel/Fog, The (Gottlieb 1979).png</marquee>
-		<rating>3</rating>
-		<releasedate>19791231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Full Metal Jacket.vpx</path>
 		<name>Full Metal Jacket</name>
 		<desc>Flipper Full Metal Jacket</desc>
@@ -3348,22 +3316,6 @@
 		<marquee>./wheel/Vector Wheel Alternate.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./SLAYER.vpx</path>
-		<name>SLAYER</name>
-		<desc>Flipper SLAYER</desc>
-		<image>./mixart/SLAYER.png</image>
-		<video>./snap/SLAYER.mp4</video>
-		<marquee>./wheel/SLAYER.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -3625,6 +3577,67 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Warlok (Williams 1982).vpx</path>
+		<name>Warlok (Williams 1982)</name>
+		<desc>Flipper Warlok (Williams 1982)</desc>
+		<image>./mixart/Warlok (Williams 1982).png</image>
+		<video>./snap/Warlok (Williams 1982).mp4</video>
+		<marquee>./wheel/Warlok (Williams 1982).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jokerz! (Williams 1988) VPW V1.0.1.vpx</path>
+		<name>Jokerz! (Williams 1988)</name>
+		<desc>Flipper Jokerz! (Williams 1988) VPW V1.0.1</desc>
+		<image>./mixart/Jokerz! (Williams 1988) VPW V1.0.1.png</image>
+		<video>./snap/Jokerz! (Williams 1988) VPW V1.0.1.mp4</video>
+		<marquee>./wheel/Jokerz! (Williams 1988) VPW V1.0.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Turrican (TBA 2018).vpx</path>
+		<name>Turrican (TBA 2018)</name>
+		<desc>Flipper Turrican (TBA 2018)</desc>
+		<image>./mixart/Turrican (TBA 2018).png</image>
+		<video>./snap/Turrican (TBA 2018).mp4</video>
+		<marquee>./wheel/Turrican (TBA 2018).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Nugent (Stern 1978) 2.0.vpx</path>
+		<name>Nugent (Stern 1978)</name>
+		<desc>Flipper Nugent (Stern 1978) 2.0</desc>
+		<image>./mixart/Nugent (Stern 1978) 2.0.png</image>
+		<video>./snap/Nugent (Stern 1978) 2.0.mp4</video>
+		<marquee>./wheel/Nugent (Stern 1978) 2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
 		<path>./Heavy Metal Rowamet 1983.vpx</path>
 		<name>Heavy Metal Rowamet (1983)</name>
 		<desc>Flipper Heavy Metal Rowamet (1983)</desc>
@@ -3641,18 +3654,35 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Warlok (Williams 1982).vpx</path>
-		<name>Warlok (Williams 1982)</name>
-		<desc>Flipper Warlok (Williams 1982)</desc>
-		<image>./mixart/Warlok (Williams 1982).png</image>
-		<video>./snap/Warlok (Williams 1982).mp4</video>
-		<marquee>./wheel/Warlok (Williams 1982).png</marquee>
+		<path>./Fog, The (Gottlieb 1979).vpx</path>
+		<name>The Fog (Gottlieb 1979)</name>
+		<desc>Flipper Fog, The (Gottlieb 1979)</desc>
+		<image>./mixart/Fog, The (Gottlieb 1979).png</image>
+		<video>./snap/Fog, The (Gottlieb 1979).mp4</video>
+		<marquee>./wheel/Fog, The (Gottlieb 1979).png</marquee>
+		<rating>3</rating>
+		<releasedate>19791231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SLAYER.vpx</path>
+		<name>SLAYER</name>
+		<desc>Flipper SLAYER</desc>
+		<image>./mixart/SLAYER.png</image>
+		<video>./snap/SLAYER.mp4</video>
+		<marquee>./wheel/SLAYER.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
