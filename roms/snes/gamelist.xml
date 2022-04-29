@@ -2340,22 +2340,6 @@ How your cities prosper depends partially on the type of government that your na
 		<region>us</region>
 		<cheevosHash>FAA2D43F507E35CAEBBEA263A36DC6BF</cheevosHash>
 	</game>
-	<game id="19016" source="ScreenScraper.fr">
-		<path>./Clay Fighter (USA).7z</path>
-		<name>Clay Fighter</name>
-		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
-		<image>./mixart/Clay Fighter (USA).png</image>
-		<video>./snap/Clay Fighter (USA).mp4</video>
-		<marquee>./wheel/Clay Fighter (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Visual Concepts Entertainment, Inc.</developer>
-		<publisher>Interplay Productions, Inc.</publisher>
-		<genre>Fight-Action</genre>
-		<players>2</players>
-		<cheevosHash>90E90F2AAE4770EE98130580A594E2BB</cheevosHash>
-		<cheevosId>857</cheevosId>
-	</game>
 	<game id="2452" source="ScreenScraper.fr">
 		<path>./Clay Fighter - Tournament Edition (USA).7z</path>
 		<name>Clay Fighter : Tournament Edition</name>
@@ -15175,5 +15159,21 @@ Gameplay is fairly similar to X-Men-Mutant Apocalypse.  Combat is all on a 2D pl
 		<players>1</players>
 		<cheevosHash>D3C46F884C50F50236639C5F6303EEF7</cheevosHash>
 		<cheevosId>1016</cheevosId>
+	</game>
+	<game id="19016" source="ScreenScraper.fr">
+		<path>./Clay Fighter (USA).7z</path>
+		<name>Clay Fighter</name>
+		<desc>Clay Fighter is a 2D fighting game released in which the characters, as the name suggests, are made completely out of clay.  This allows for interesting moves and stylized graphics.  The zany roster includes: Bad Mr. Frosty, a snowman; Taffy, a piece of stretchable candy; Blob, a character who can morph into different shapes; Blue Suede Goo, an Elvis knock-off; Ickybod Clay, a pumpkin-headed ghost; Helga, an opera singer; and Bonker, the crazed clown. Each character also has their own level and individual taunts.</desc>
+		<image>./mixart/Clay Fighter (USA).png</image>
+		<video>./snap/Clay Fighter (USA).mp4</video>
+		<marquee>./wheel/Clay Fighter (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Visual Concepts Entertainment, Inc.</developer>
+		<publisher>Interplay Productions, Inc.</publisher>
+		<genre>Fight-Action</genre>
+		<players>2</players>
+		<cheevosHash>90E90F2AAE4770EE98130580A594E2BB</cheevosHash>
+		<cheevosId>857</cheevosId>
 	</game>
 </gameList>

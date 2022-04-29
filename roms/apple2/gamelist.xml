@@ -13496,26 +13496,6 @@ After killing opponents, the Gemstone Warrior has the opportunity to search the 
 		<md5>f2fcef66d7a6a50857446729a4004128</md5>
 		<lang>en</lang>
 	</game>
-	<game id="53205" source="ScreenScraper.fr">
-		<path>./Karateka (1984)(Broderbund).dsk</path>
-		<name>Karateka</name>
-		<desc>The evil Akuma has destroyed the protagonist's homeland, killed many of his friends and kidnapped the princess Mariko. Fortunately, the hero is skilled in martial arts, so his inevitable quest to reach Akuma's palace and rescue Mariko has a chance of success.
-
-Karateka is viewed from the side and features a succession of increasingly difficult opponents. Three types of punches and kicks are available to both the player character and his foes, differentiated by their height (low, medium, and high). The protagonist has a health bar, which refills itself gradually when he stands still.</desc>
-		<image>./mixart/Karateka (1984)(Broderbund).png</image>
-		<video>./snap/Karateka (1984)(Broderbund)-video.mp4</video>
-		<marquee>./wheel/Karateka (1984)(Broderbund)-marquee.png</marquee>
-		<rating>0</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Jordan Mechner</developer>
-		<publisher>Broderbund Software</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<crc32>5A5A298B</crc32>
-		<md5>c4e9ba49171ba4724ca4fac2d96f7791</md5>
-		<lang>en</lang>
-	</game>
 	<game id="53933" source="ScreenScraper.fr">
 		<path>./Tron (19xx)(Ivan).dsk</path>
 		<name>Tron</name>
@@ -13605,5 +13585,25 @@ As in the wacky movie, your goal here is ultimately to overcome a potentially pl
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>513</genreid>
+	</game>
+	<game id="53205" source="ScreenScraper.fr">
+		<path>./Karateka (1984)(Broderbund).dsk</path>
+		<name>Karateka</name>
+		<desc>The evil Akuma has destroyed the protagonist's homeland, killed many of his friends and kidnapped the princess Mariko. Fortunately, the hero is skilled in martial arts, so his inevitable quest to reach Akuma's palace and rescue Mariko has a chance of success.
+
+Karateka is viewed from the side and features a succession of increasingly difficult opponents. Three types of punches and kicks are available to both the player character and his foes, differentiated by their height (low, medium, and high). The protagonist has a health bar, which refills itself gradually when he stands still.</desc>
+		<image>./mixart/Karateka (1984)(Broderbund).png</image>
+		<video>./snap/Karateka (1984)(Broderbund)-video.mp4</video>
+		<marquee>./wheel/Karateka (1984)(Broderbund)-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Jordan Mechner</developer>
+		<publisher>Broderbund Software</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<crc32>5A5A298B</crc32>
+		<md5>c4e9ba49171ba4724ca4fac2d96f7791</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

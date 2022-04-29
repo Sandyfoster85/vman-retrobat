@@ -2972,23 +2972,6 @@ Bonus rounds include cameos from other classic Warner Bros. characters such as E
 		<players>1</players>
 		<cheevosHash>5372CDDE9EFB9F1009810663D62D0050</cheevosHash>
 	</game>
-	<game id="409" source="ScreenScraper.fr">
-		<path>./Devilish - The Next Possession (USA).7z</path>
-		<name>Devilish : The Next Possession</name>
-		<desc>Genki's first game is a paddle/pong game with a background story. Once upon a time there were a prince and a princess who loved each other. But the evil jealous demon named "Y" turn them both into stone paddles. Suddenly, a blue sphere fell from the sky, becoming the ball which the paddles can now push forwards, overcoming obstacles and defeating demons.
-
-"Devilish" is different from other paddle games by letting you play with two paddles. The lower one behaves just like a usual paddle - you use it to prevent the ball from dropping down. The upper one can move and turn, allowing you to hit the ball from different angles and from different parts of the screen. You advance through levels by destroying bricks and enemies, going up until the level boss enemy appears.</desc>
-		<image>./mixart/Devilish - The Next Possession (USA).png</image>
-		<video>./snap/Devilish - The Next Possession (USA).mp4</video>
-		<marquee>./wheel/Devilish - The Next Possession (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920401T000000</releasedate>
-		<developer>Genki</developer>
-		<publisher>Genki</publisher>
-		<genre>Various-Action</genre>
-		<players>2</players>
-		<cheevosHash>6FA7CD092A175C9040B318D289FFFF93</cheevosHash>
-	</game>
 	<game id="121" source="ScreenScraper.fr">
 		<path>./Dick Tracy (World).7z</path>
 		<name>Dick Tracy</name>
@@ -14349,5 +14332,22 @@ Use Sonic as a pinball in 4 dangerous levels. Score points, get rings, collect C
 		<players>4</players>
 		<cheevosHash>841E347B30A6E298EE2B0C722F19FE74</cheevosHash>
 		<cheevosId>15</cheevosId>
+	</game>
+	<game id="409" source="ScreenScraper.fr">
+		<path>./Devilish - The Next Possession (USA).7z</path>
+		<name>Devilish : The Next Possession</name>
+		<desc>Genki's first game is a paddle/pong game with a background story. Once upon a time there were a prince and a princess who loved each other. But the evil jealous demon named "Y" turn them both into stone paddles. Suddenly, a blue sphere fell from the sky, becoming the ball which the paddles can now push forwards, overcoming obstacles and defeating demons.
+
+"Devilish" is different from other paddle games by letting you play with two paddles. The lower one behaves just like a usual paddle - you use it to prevent the ball from dropping down. The upper one can move and turn, allowing you to hit the ball from different angles and from different parts of the screen. You advance through levels by destroying bricks and enemies, going up until the level boss enemy appears.</desc>
+		<image>./mixart/Devilish - The Next Possession (USA).png</image>
+		<video>./snap/Devilish - The Next Possession (USA).mp4</video>
+		<marquee>./wheel/Devilish - The Next Possession (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920401T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Genki</publisher>
+		<genre>Various-Action</genre>
+		<players>2</players>
+		<cheevosHash>6FA7CD092A175C9040B318D289FFFF93</cheevosHash>
 	</game>
 </gameList>

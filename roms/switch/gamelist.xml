@@ -660,25 +660,6 @@ Start now your speedway adventure through countries like every speedway-fan shou
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="196587" source="ScreenScraper.fr">
-		<path>./Golf_Story.nsp</path>
-		<name>Golf Story</name>
-		<desc>Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams. 
- 
-But all is not so simple in the world of golf. To best today's players you have to be able to keep up with them both on and off the course.</desc>
-		<image>./mixart/Golf_Story.png</image>
-		<video>./snap/Golf_Story.mp4</video>
-		<marquee>./wheel/Golf_Story.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20170928T000000</releasedate>
-		<developer>Sidebar Games</developer>
-		<publisher>Sidebar Games</publisher>
-		<genre>Sports-Sports / Golf-Adventure</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1538</genreid>
-	</game>
 	<game>
 		<path>./Gunlord X.xci</path>
 		<name>Gunlord X</name>
@@ -1138,5 +1119,24 @@ Real-time weather changes. You'll go from day to night and back again, while goi
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="196587" source="ScreenScraper.fr">
+		<path>./Golf_Story.nsp</path>
+		<name>Golf Story</name>
+		<desc>Golf Story combines the sheer excitement of golf with a serious story that plays out over 8 different courses. Play the story of a golfer who is forced to give up all that he holds dear for one last shot at accomplishing his dreams. 
+ 
+But all is not so simple in the world of golf. To best today's players you have to be able to keep up with them both on and off the course.</desc>
+		<image>./mixart/Golf_Story.png</image>
+		<video>./snap/Golf_Story.mp4</video>
+		<marquee>./wheel/Golf_Story.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170928T000000</releasedate>
+		<developer>Sidebar Games</developer>
+		<publisher>Sidebar Games</publisher>
+		<genre>Sports-Sports / Golf-Adventure</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1538</genreid>
 	</game>
 </gameList>

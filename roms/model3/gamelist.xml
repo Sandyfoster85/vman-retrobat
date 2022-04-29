@@ -129,16 +129,6 @@
 		<players>2</players>
 		<genreid>1537</genreid>
 	</game>
-	<game>
-		<path>./Dirt Devils.zip</path>
-		<name>Dirt Devils</name>
-		<image>./mixart/Dirt Devils.png</image>
-		<video>./snap/Dirt Devils.mp4</video>
-		<marquee>./wheel/Dirt Devils.png</marquee>
-		<md5>866edf08e552185d411602d8da01b36d</md5>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37511" source="ScreenScraper.fr">
 		<path>./Emergency Call Ambulance.zip</path>
 		<name>Emergency Call Ambulance</name>
@@ -359,5 +349,15 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<genre>Race, Driving-Race 3rd Pers. view</genre>
 		<players>1</players>
 		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Dirt Devils.zip</path>
+		<name>Dirt Devils</name>
+		<image>./mixart/Dirt Devils.png</image>
+		<video>./snap/Dirt Devils.mp4</video>
+		<marquee>./wheel/Dirt Devils.png</marquee>
+		<md5>866edf08e552185d411602d8da01b36d</md5>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

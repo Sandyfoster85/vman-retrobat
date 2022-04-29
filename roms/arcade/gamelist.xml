@@ -28925,23 +28925,6 @@ After level six the levels are repeated.</desc>
 		<cheevosHash>A21AABA95CA025E561E9C769399FD59F</cheevosHash>
 	</game>
 	<game>
-		<path>./dragnblz.zip</path>
-		<name>Dragon Blaze</name>
-		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
-		<image>./mixart/dragnblz.png</image>
-		<video>./snap/dragnblz.mp4</video>
-		<marquee>./wheel/dragnblz.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>BB12D3D5D28E54C09625C17CE20FD614</cheevosHash>
-	</game>
-	<game>
 		<path>./dragngun.zip</path>
 		<name>Dragon Gun</name>
 		<desc>A first-person view shoot'em up game.</desc>
@@ -39938,23 +39921,6 @@ The continuous industrialization that started in 1900, finally led to unavoidabl
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6E6E79CC8B262E9877E6FFA47BA77BFA</cheevosHash>
-	</game>
-	<game>
-		<path>./kicker.zip</path>
-		<name>Kicker</name>
-		<desc>Kung-fu player jumps around multiple level boards, kicking opponents and collecting power-ups and bonus items. Player defeats by way of three kicks the board "boss" and advances to the next level.</desc>
-		<image>./mixart/kicker.png</image>
-		<video>./snap/kicker.mp4</video>
-		<marquee>./wheel/kicker.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight-Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E69B3D32A9A1B1553A9235547A8090CD</cheevosHash>
 	</game>
 	<game>
 		<path>./kickgoal.zip</path>
@@ -71697,40 +71663,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<region>us</region>
 		<cheevosHash>BC237104F4130857653E7B546BF44B9E</cheevosHash>
 	</game>
-	<game>
-		<path>./ddragon2.zip</path>
-		<name>Double Dragon II - The Revenge</name>
-		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
-
-The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
-
-The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
-
-Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
-Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
-Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
-Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
-Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
-Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
-Jeff - Same as his original self, but now carries grenades.
-Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
-Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
-Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
-Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
-The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
-		<image>./mixart/ddragon2.png</image>
-		<video>./snap/ddragon2.mp4</video>
-		<marquee>./wheel/ddragon2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Technos</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F40FF507C93E1F907BAF6D9941123F0D</cheevosHash>
-	</game>
 	<game id="149461">
 		<path>./beastrzr.zip</path>
 		<name>Beastorizer</name>
@@ -72887,5 +72819,73 @@ Players can choose to start on any one of the first three stages and the game fe
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8297B3B17682A673499D6E6D5D3B287A</cheevosHash>
+	</game>
+	<game>
+		<path>./ddragon2.zip</path>
+		<name>Double Dragon II - The Revenge</name>
+		<desc>Following his defeat at the end of the original Double Dragon, Willy, the leader of the Black Warriors, retaliates against Billy and Jimmy Lee by murdering their friend, Marian, leaving the brothers with the task to avenge her death.
+
+The sequel to Double Dragon is essentially an upgraded version of the original game, but with with a two-way attacking system similar to one previously used in Technos Japan's 1986 arcade game "Renegade". Many of the attacks and combos from the original "Double Dragon" are retained, as well as new techniques including the invincible Cyclone Kick.
+
+The stages and weapons are redesigned versions of items previously featured in the original game. There are a few new traps such as a bulldozer in the middle of Mission 3 and all of the transition sequences between stages are now done with the character entering the next level via a lift, making it impossible to carry one weapon to the next area.
+
+Most of the enemy characters return from the original Double Dragon, with some given facelifts, but the stage bosses are all new. The enemies are as followed:
+Williams - Has a wilder face and longer hair. He can now run towards the player and do cartwheels. He throws his knives in mid-air and sometimes carry a shovel which he throws towards the player.
+Rowper - Has a beard and eye-patch, but otherwise is more or less identical to his original self. He carries shovels and can sometime pick up large objects.
+Linda - She now has a mohawk and face paint. She can also jump off platforms and do the elbow strike against the player. In addition to the ball and chain, she also carries grenades and knives.
+Oharra - A strongman with a clean-shaved face. Replaces Abobo from the first game and has the same attacks.
+Bolo - A head-swap of Oharra with long hair and beard. Replaces the mohawked head-swap of Abobo from the first game.
+Jeff - Same as his original self, but now carries grenades.
+Burnov - The boss of Mission 1. An obese wrestler whose face is concealed with a mask. He grabs the player and throws similar punches in the face. After dying, he will stand up and yell, disappearing in front of the player and leaving only his clothes. In later encounters, he will revive himself at least once.
+Abore - The boss of Mission 2. A huge suspender-wearing strongman with Terminator-like sunglasses. His slaps and shoulder tackles do massive damage to the player.
+Chin Taimei - The boss of Mission 3. A Chinese martial artists armed with twin kali sticks. In addition to his energy-draining stick combo, he also has a jump kick and sweep kick.
+Willy - The boss of Mission 4. Looks like he does in the original game, but now dresses in red. He still uses the same machine gun from the first game.
+The clone - After defeating Willy, the player will have to fight their character's evil self. This clone has all the techniques the player has, but can also throw energy beams and possess the player's body to drain his energy.</desc>
+		<image>./mixart/ddragon2.png</image>
+		<video>./snap/ddragon2.mp4</video>
+		<marquee>./wheel/ddragon2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Technos</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F40FF507C93E1F907BAF6D9941123F0D</cheevosHash>
+	</game>
+	<game>
+		<path>./dragnblz.zip</path>
+		<name>Dragon Blaze</name>
+		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
+		<image>./mixart/dragnblz.png</image>
+		<video>./snap/dragnblz.mp4</video>
+		<marquee>./wheel/dragnblz.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BB12D3D5D28E54C09625C17CE20FD614</cheevosHash>
+	</game>
+	<game>
+		<path>./kicker.zip</path>
+		<name>Kicker</name>
+		<desc>Kung-fu player jumps around multiple level boards, kicking opponents and collecting power-ups and bonus items. Player defeats by way of three kicks the board "boss" and advances to the next level.</desc>
+		<image>./mixart/kicker.png</image>
+		<video>./snap/kicker.mp4</video>
+		<marquee>./wheel/kicker.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight-Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E69B3D32A9A1B1553A9235547A8090CD</cheevosHash>
 	</game>
 </gameList>

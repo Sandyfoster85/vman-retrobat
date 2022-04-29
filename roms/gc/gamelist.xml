@@ -7416,22 +7416,6 @@ In this implementation, you can play in one of 8 different settings, including a
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz</path>
-		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus (Disc 1)</name>
-		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20050310T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5043" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2).rvz</path>
 		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus (Disc 2)</name>
@@ -9030,5 +9014,21 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<players>2-4</players>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).rvz</path>
+		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus (Disc 1)</name>
+		<desc>The Teenage Mutant Ninja Turtles return--this time featuring simultaneous play for up to four players. In both cooperative and head-to-head modes, you and your friends can play as your favorite green heroes: Leonardo, Michelangelo, Donatello, and Raphael. Punch, kick, and duck your way through battles against The Shredder and his evil pack of Foot Ninjas. Each Turtle has distinct characteristics and abilities, and you can combine moves to perform more than 30 different types of attacks.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 1).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050310T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

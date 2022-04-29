@@ -209,20 +209,6 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<marquee>./wheel/Might &amp; Magic Clash Of Heroes.png</marquee>
 		<video>./snap/Might &amp; Magic Clash Of Heroes.mp4</video>
 	</game>
-	<game id="26213" source="ScreenScraper.fr">
-		<path>./Moon Diver.m3u</path>
-		<name>Moon Diver</name>
-		<desc>At the dawn of the 22nd century, an evil power brought inanimate objects to life, and they turned on humanity. Bridges, cars, cups-the whole of humanity's creations turned on their makers. But hidden amongst humanity's survivors, an elite unit of specially trained ninja known as Moondivers has been lying in wait for orders to reclaim the planet. Today, those orders arrived.</desc>
-		<rating>0.7</rating>
-		<releasedate>20110329T000000</releasedate>
-		<developer>Feelplus</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Platform</genre>
-		<image>./mixart/Moon Diver.png</image>
-		<marquee>./wheel/Moon Diver.png</marquee>
-		<video>./snap/Moon Diver.mp4</video>
-		<genreid>257</genreid>
-	</game>
 	<game id="25012" source="ScreenScraper.fr">
 		<path>./Naruto Shippuden - Ultimate Ninja Storm Generations (USA) (En,Fr,Es).m3u</path>
 		<name>Naruto Shippuden : Ultimate Ninja Storm Generation</name>
@@ -1897,5 +1883,19 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="26213" source="ScreenScraper.fr">
+		<path>./Moon Diver.m3u</path>
+		<name>Moon Diver</name>
+		<desc>At the dawn of the 22nd century, an evil power brought inanimate objects to life, and they turned on humanity. Bridges, cars, cups-the whole of humanity's creations turned on their makers. But hidden amongst humanity's survivors, an elite unit of specially trained ninja known as Moondivers has been lying in wait for orders to reclaim the planet. Today, those orders arrived.</desc>
+		<image>./mixart/Moon Diver.png</image>
+		<video>./snap/Moon Diver.mp4</video>
+		<marquee>./wheel/Moon Diver.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110329T000000</releasedate>
+		<developer>Feelplus</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Platform</genre>
+		<genreid>257</genreid>
 	</game>
 </gameList>

@@ -896,20 +896,6 @@ After every two rounds, a bonus game is played, which sets you in a darkened all
 		<crc32>24692205</crc32>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="136671" source="ScreenScraper.fr">
-		<path>./Flying Shark (Europe).tzx</path>
-		<name>Flying Shark</name>
-		<image>./mixart/Flying Shark (Europe).png</image>
-		<video>./snap/Flying Shark (Europe).mp4</video>
-		<marquee>./wheel/Flying Shark (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Graftgold Ltd, Dominic Robinson, John Cumming, Gavin Wade, Drew Northcott</developer>
-		<publisher>Firebird Software</publisher>
-		<players>2</players>
-		<crc32>8B5D0E1F</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="136674" source="ScreenScraper.fr">
 		<path>./Football Frenzy (Europe).tzx</path>
 		<name>Football Frenzy</name>
@@ -3108,6 +3094,20 @@ You have an energy bar which decreases constantly, and contact with the ants, sp
 		<releasedate>19850101T000000</releasedate>
 		<developer>Devonshire House</developer>
 		<publisher>Romantic Robot UK</publisher>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="136671" source="ScreenScraper.fr">
+		<path>./Flying Shark (Europe).tzx</path>
+		<name>Flying Shark</name>
+		<image>./mixart/Flying Shark (Europe).png</image>
+		<video>./snap/Flying Shark (Europe).mp4</video>
+		<marquee>./wheel/Flying Shark (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Graftgold Ltd, Dominic Robinson, John Cumming, Gavin Wade, Drew Northcott</developer>
+		<publisher>Firebird Software</publisher>
+		<players>2</players>
+		<crc32>8B5D0E1F</crc32>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

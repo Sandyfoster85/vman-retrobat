@@ -2637,25 +2637,6 @@ Gungrave: Overdose features character designs by Yasuhiro Nightow (creator of th
 		<region>us</region>
 		<genreid>512</genreid>
 	</game>
-	<game id="22479" source="ScreenScraper.fr">
-		<path>./Headhunter - Redemption (USA).gz</path>
-		<name>Headhunter : Redemption</name>
-		<desc>As bounty hunters in a disturbing future, players must sneak by, strong-arm, and shoot down those who would flee from justice. This action-adventure is built upon the story and gameplay of the original Headhunter (also developed by Amuze), released in 2001 for European Dreamcasts and ported to North American PS2s the following year. Unlike the original, however, Headhunter: Redemption offers two main characters and two different, urban game worlds for them to patrol and protect. 
- 
- Played primarily from a third-person perspective, Redemption has players taking the role of either headhunter veteran Jack Wade or his new associate, a punky street kid called Leeza X. Acting as a force for order, the two will travel to the city's wealthy, well-lit "Above," as well as its dark and downtrodden "Below," to enforce a justice once common to both of these two, disparate places.</desc>
-		<image>./mixart/Headhunter - Redemption (USA).png</image>
-		<video>./snap/Headhunter - Redemption (USA).mp4</video>
-		<marquee>./wheel/Headhunter - Redemption (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20040921T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>Amuze AB</publisher>
-		<genre>Action-Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>512</genreid>
-	</game>
 	<game id="22609" source="ScreenScraper.fr">
 		<path>./Heroes of Might and Magic - Quest for the DragonBone Staff (USA).gz</path>
 		<name>Heroes of Might and Magic : Quest for the DragonBone Staff</name>
@@ -7368,60 +7349,6 @@ Silvia is ready to play and join the mission, bringing her pompoms and projectil
 		<players>2</players>
 		<genreid>266</genreid>
 	</game>
-	<game id="22791" source="ScreenScraper.fr">
-		<path>./Destruction Derby Arenas (USA).gz</path>
-		<name>Destruction Derby Arenas</name>
-		<desc>The PS1 Destruction Derby titles would put you in the seat of a high powered vehicle, in either an arena or a track, and the target was to race to the finish, while causing as much destruction to the other cars as possible. 
- 
-Now comes the PS2 sequel.  Because this is now on the PS2, the capabilities are much higher, so now there is a vastly improved graphics engine, physics engine, and levels. 
- 
-There are now loads of online play modes to try, with up to 19 other racers online with you, and now, the crashes are bigger than ever.</desc>
-		<image>./mixart/Destruction Derby Arenas (USA).png</image>
-		<video>./snap/Destruction Derby Arenas (USA).mp4</video>
-		<marquee>./wheel/Destruction Derby Arenas (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040401T000000</releasedate>
-		<developer>Studio 33</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-20</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
-	<game id="22196" source="ScreenScraper.fr">
-		<path>./DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).gz</path>
-		<name>DOA 2: Hardcore</name>
-		<desc>Dead or Alive 2 is a fighting game in the Dead or Alive series. It debuted in arcades in October 1999 and was released on February 29, 2000 for the Dreamcast, and later for the PlayStation 2. It had also several enhanced editions and was remade for the Xbox as part of Dead or Alive Ultimate. 
- 
- The story is narrative continuation of the first game. A great leader was killed at the end of the 20th century. His name was Fame Douglas, and he was renowned as the sponsor of the legendary Dead or Alive World Combat Championship. Since his death, and in the absence of his charisma and leadership, the world has become chaotic. Yet something appears to be transpiring. Amid this chaos, it is announced that the Dead or Alive Championship 2 will be held. However, Douglas's passing has taken with it the purpose and significance of the tournament.</desc>
-		<image>./mixart/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).png</image>
-		<video>./snap/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20001025T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Fight</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<genreid>262</genreid>
-	</game>
-	<game id="23192" source="ScreenScraper.fr">
-		<path>./F1 Championship Season 2000 (USA).gz</path>
-		<name>F1 Championship Season 2000</name>
-		<desc>All cars and drivers from the 2000 season are here and the game modes include a single race, a championship season, a custom season (where you pick the track order yourself) and a quick race where you start at last place in the field, and you must get as far up the field as possible in just 4 laps.</desc>
-		<image>./mixart/F1 Championship Season 2000 (USA).png</image>
-		<video>./snap/F1 Championship Season 2000 (USA).mp4</video>
-		<marquee>./wheel/F1 Championship Season 2000 (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20010102T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>1537</genreid>
-	</game>
 	<game id="23345" source="ScreenScraper.fr">
 		<path>./Fire Pro Wrestling Returns (USA).gz</path>
 		<name>Fire Pro Wrestling Returns</name>
@@ -7647,5 +7574,84 @@ Apart from the championship mode you can also play stage mode, allowing you to r
 		<players>2</players>
 		<favorite>true</favorite>
 		<genreid>1792</genreid>
+	</game>
+	<game id="22791" source="ScreenScraper.fr">
+		<path>./Destruction Derby Arenas (USA).gz</path>
+		<name>Destruction Derby Arenas</name>
+		<desc>The PS1 Destruction Derby titles would put you in the seat of a high powered vehicle, in either an arena or a track, and the target was to race to the finish, while causing as much destruction to the other cars as possible. 
+ 
+Now comes the PS2 sequel.  Because this is now on the PS2, the capabilities are much higher, so now there is a vastly improved graphics engine, physics engine, and levels. 
+ 
+There are now loads of online play modes to try, with up to 19 other racers online with you, and now, the crashes are bigger than ever.</desc>
+		<image>./mixart/Destruction Derby Arenas (USA).png</image>
+		<video>./snap/Destruction Derby Arenas (USA).mp4</video>
+		<marquee>./wheel/Destruction Derby Arenas (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040401T000000</releasedate>
+		<developer>Studio 33</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-20</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22196" source="ScreenScraper.fr">
+		<path>./DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).gz</path>
+		<name>DOA 2: Hardcore</name>
+		<desc>Dead or Alive 2 is a fighting game in the Dead or Alive series. It debuted in arcades in October 1999 and was released on February 29, 2000 for the Dreamcast, and later for the PlayStation 2. It had also several enhanced editions and was remade for the Xbox as part of Dead or Alive Ultimate. 
+ 
+ The story is narrative continuation of the first game. A great leader was killed at the end of the 20th century. His name was Fame Douglas, and he was renowned as the sponsor of the legendary Dead or Alive World Combat Championship. Since his death, and in the absence of his charisma and leadership, the world has become chaotic. Yet something appears to be transpiring. Amid this chaos, it is announced that the Dead or Alive Championship 2 will be held. However, Douglas's passing has taken with it the purpose and significance of the tournament.</desc>
+		<image>./mixart/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).png</image>
+		<video>./snap/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/DOA2 - Hardcore (USA) (En,Ja,Fr,De,Es,It).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001025T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>de,en,jp,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>262</genreid>
+	</game>
+	<game id="23192" source="ScreenScraper.fr">
+		<path>./F1 Championship Season 2000 (USA).gz</path>
+		<name>F1 Championship Season 2000</name>
+		<desc>All cars and drivers from the 2000 season are here and the game modes include a single race, a championship season, a custom season (where you pick the track order yourself) and a quick race where you start at last place in the field, and you must get as far up the field as possible in just 4 laps.</desc>
+		<image>./mixart/F1 Championship Season 2000 (USA).png</image>
+		<video>./snap/F1 Championship Season 2000 (USA).mp4</video>
+		<marquee>./wheel/F1 Championship Season 2000 (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010102T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="22479" source="ScreenScraper.fr">
+		<path>./Headhunter - Redemption (USA).gz</path>
+		<name>Headhunter : Redemption</name>
+		<desc>As bounty hunters in a disturbing future, players must sneak by, strong-arm, and shoot down those who would flee from justice. This action-adventure is built upon the story and gameplay of the original Headhunter (also developed by Amuze), released in 2001 for European Dreamcasts and ported to North American PS2s the following year. Unlike the original, however, Headhunter: Redemption offers two main characters and two different, urban game worlds for them to patrol and protect. 
+ 
+ Played primarily from a third-person perspective, Redemption has players taking the role of either headhunter veteran Jack Wade or his new associate, a punky street kid called Leeza X. Acting as a force for order, the two will travel to the city's wealthy, well-lit "Above," as well as its dark and downtrodden "Below," to enforce a justice once common to both of these two, disparate places.</desc>
+		<image>./mixart/Headhunter - Redemption (USA).png</image>
+		<video>./snap/Headhunter - Redemption (USA).mp4</video>
+		<marquee>./wheel/Headhunter - Redemption (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040921T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>Amuze AB</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>512</genreid>
 	</game>
 </gameList>

@@ -2077,23 +2077,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<cheevosHash>6311BDA4830FADFB4CB19BB64E0AAABC</cheevosHash>
 	</game>
 	<game>
-		<path>./lastbld2.zip</path>
-		<name>Bakumatsu Roman Dai Ni Maku: Gekka no Kenshi</name>
-		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.</desc>
-		<image>./mixart/lastbld2.png</image>
-		<video>./snap/lastbld2.mp4</video>
-		<marquee>./wheel/lastbld2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990128T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>5C14F94978DFAD8FFB95CD5B405ABFD8</cheevosHash>
-		<cheevosId>11753</cheevosId>
-	</game>
-	<game>
 		<path>./neodrift.zip</path>
 		<name>Neo Drift Out - New Technology</name>
 		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
@@ -2320,5 +2303,22 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<lang>en</lang>
 		<cheevosHash>98A59E2482E9E4779ED2E2F36C37E462</cheevosHash>
 		<cheevosId>11801</cheevosId>
+	</game>
+	<game>
+		<path>./lastbld2.zip</path>
+		<name>Bakumatsu Roman Dai Ni Maku: Gekka no Kenshi</name>
+		<desc>The Last Blade 2: Heart of the Samurai is a 2D fighting game which features anime-style characters that fight each other with swords, clubs, and even fishing poles. These characters pull off their special moves with that 'quarter-circle-to-half-circle' and 'double-half-circle' controller motions, reminiscent of Street Fighter.</desc>
+		<image>./mixart/lastbld2.png</image>
+		<video>./snap/lastbld2.mp4</video>
+		<marquee>./wheel/lastbld2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990128T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>5C14F94978DFAD8FFB95CD5B405ABFD8</cheevosHash>
+		<cheevosId>11753</cheevosId>
 	</game>
 </gameList>
