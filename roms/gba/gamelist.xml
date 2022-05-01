@@ -7875,24 +7875,6 @@ Finally, there is also a feature called the "Bonus Board."  You can play with a 
 		<cheevosHash>9D0D27345BF88DE8B025AA24D54D6BAD</cheevosHash>
 		<cheevosId>5093</cheevosId>
 	</game>
-	<game id="84123" source="ScreenScraper.fr">
-		<path>./Mario Pinball Land (USA, Australia).7z</path>
-		<name>Mario Pinball Land</name>
-		<desc>This is the standard "Bowser has kidnapped the Princess, and Mario must rescue her" story. In this case, the Princess is transformed into a ball and launched from a Super Mario 64-style cannon, which a pair of goombas aim directly at Bowser's Castle. Mario is also transformed into a ball and chases after her.
-
-There are 5 levels, each consisting of a set of pinball tables. Each table has some exits (including the one below the flippers) that Mario can use to move to other tables. Also, each one holds a star, normally obtained by defeating all enemies on the table. Some exits require that Mario has a certain number of stars. To gain access to Bowser's castle, Mario must defeat the bosses of the first 4 levels, which gives him star keys. The game also features a "Time Attack" mode, which allows players to fight already defeated bosses again.</desc>
-		<image>./mixart/Mario Pinball Land (USA, Australia).png</image>
-		<video>./snap/Mario Pinball Land (USA, Australia).mp4</video>
-		<marquee>./wheel/Mario Pinball Land (USA, Australia).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20041004T000000</releasedate>
-		<developer>Fuse Games Limited</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Simulation-Pinball</genre>
-		<players>1</players>
-		<cheevosHash>08C41541EB69A1D652937ED3F88824BE</cheevosHash>
-		<cheevosId>2445</cheevosId>
-	</game>
 	<game id="3819" source="ScreenScraper.fr">
 		<path>./Mario Tennis - Power Tour (USA, Australia) (En,Fr,De,Es,It).7z</path>
 		<name>Mario Tennis: Power Tour</name>
@@ -15918,5 +15900,23 @@ The game has a lot of options available. You can toggle on or off the music or t
 		<genre>Role playing games-Sports</genre>
 		<players>2</players>
 		<cheevosHash>CE57EDC0645572AF5244E3E24B586133</cheevosHash>
+	</game>
+	<game id="84123" source="ScreenScraper.fr">
+		<path>./Mario Pinball Land (USA, Australia).7z</path>
+		<name>Mario Pinball Land</name>
+		<desc>This is the standard "Bowser has kidnapped the Princess, and Mario must rescue her" story. In this case, the Princess is transformed into a ball and launched from a Super Mario 64-style cannon, which a pair of goombas aim directly at Bowser's Castle. Mario is also transformed into a ball and chases after her.
+
+There are 5 levels, each consisting of a set of pinball tables. Each table has some exits (including the one below the flippers) that Mario can use to move to other tables. Also, each one holds a star, normally obtained by defeating all enemies on the table. Some exits require that Mario has a certain number of stars. To gain access to Bowser's castle, Mario must defeat the bosses of the first 4 levels, which gives him star keys. The game also features a "Time Attack" mode, which allows players to fight already defeated bosses again.</desc>
+		<image>./mixart/Mario Pinball Land (USA, Australia).png</image>
+		<video>./snap/Mario Pinball Land (USA, Australia).mp4</video>
+		<marquee>./wheel/Mario Pinball Land (USA, Australia).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Fuse Games Limited</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Simulation-Pinball</genre>
+		<players>1</players>
+		<cheevosHash>08C41541EB69A1D652937ED3F88824BE</cheevosHash>
+		<cheevosId>2445</cheevosId>
 	</game>
 </gameList>

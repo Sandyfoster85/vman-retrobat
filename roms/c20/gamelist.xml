@@ -1851,22 +1851,6 @@ The submarines can shoot mines up, so take care!</desc>
 		<md5>f5a6c14e241bb761f829558f221c3691</md5>
 		<lang>en</lang>
 	</game>
-	<game id="116692">
-		<path>./Tooth Invaders.prg</path>
-		<name>Tooth Invaders</name>
-		<desc>Play as Plaqueman to fight the plaque D. K. This Plague Germ is covering all the teeth. Your weapons are the toothbrush and dental floss. All the while you must not come into physical contact with D.K. or you will be "eliminated." Your brush needs fluoride toothpaste to energize it. If you don't pass the toothbrush through the toothpaste it will not work. Floss has to be used to get the spaces in between teeth. If teeth start decaying you will get warning sounds.</desc>
-		<image>./mixart/tooth invaders.png</image>
-		<video>./snap/tooth invaders.mp4</video>
-		<marquee>./wheel/Tooth Invaders.png</marquee>
-		<rating>0</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Commodore</developer>
-		<publisher>Commodore</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>3ae320a93ad1f18c65e156d4eab22853</md5>
-		<lang>en</lang>
-	</game>
 	<game id="269008">
 		<path>./Topper.NTSC.prg</path>
 		<name>Topper</name>
@@ -2198,6 +2182,22 @@ To make things more difficult you have limited time in form of a fuel tank which
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>e1d5a52bf6e5cce910c5ea99959fb90b</md5>
+		<lang>en</lang>
+	</game>
+	<game id="116692">
+		<path>./Tooth Invaders.prg</path>
+		<name>Tooth Invaders</name>
+		<desc>Play as Plaqueman to fight the plaque D. K. This Plague Germ is covering all the teeth. Your weapons are the toothbrush and dental floss. All the while you must not come into physical contact with D.K. or you will be "eliminated." Your brush needs fluoride toothpaste to energize it. If you don't pass the toothbrush through the toothpaste it will not work. Floss has to be used to get the spaces in between teeth. If teeth start decaying you will get warning sounds.</desc>
+		<image>./mixart/tooth invaders.png</image>
+		<video>./snap/tooth invaders.mp4</video>
+		<marquee>./wheel/Tooth Invaders.png</marquee>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>3ae320a93ad1f18c65e156d4eab22853</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

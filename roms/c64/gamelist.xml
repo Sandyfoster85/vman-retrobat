@@ -15,33 +15,6 @@
 		<image>./mixart/Cyberdine Warrior.png</image>
 		<video>./snap/Cyberdine Warrior.mp4</video>
 	</game>
-	<game id="109471" source="ScreenScraper.fr">
-		<path>./Addicta Ball.d64</path>
-		<name>Addicta Ball</name>
-		<desc>A great new 1 or 2 player arcade classic. Simple for all the familly to play with joystick or mouse but so deadly addictive you can't stop playing.  You need courage, lightning reflexes, tactical genius and strategic planning to beat the ball but you'll certainly enjoy finding all the hidden features along the way.</desc>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<publisher>Alligata Software</publisher>
-		<genre>Action / Breakout games-Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Addicta Ball.png</image>
-		<marquee>./wheel/Addicta Ball.png</marquee>
-		<video>./snap/Addicta Ball.mp4</video>
-	</game>
-	<game id="36103" source="ScreenScraper.fr">
-		<path>./Advanced Pinball Simulator.d64</path>
-		<name>Advanced Pinball Simulator</name>
-		<desc>Part of Codemasters' original budget-price range,  this pinball game aimed to put fast &amp; furious action first.  The table design features extra flippers on both sides, which are at the bases of sections of features. The best scores can be achieved by repeatedly bashing away at sections of blocks.  The essential theme of the table is of magic and wizardry, with the targets to be lit including the word 'MAGIC' as well as a weather potion and a magic cottage. Trapdoors must be shot open to get their bonuses, then shot shut again to prevent the ball being lost in them. Extra balls are offered every 10,000 points.</desc>
-		<rating>0.35</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Pinball-Simulation</genre>
-		<players>1-3</players>
-		<image>./mixart/Advanced Pinball Simulator.png</image>
-		<marquee>./wheel/Advanced Pinball Simulator.png</marquee>
-		<video>./snap/Advanced Pinball Simulator.mp4</video>
-	</game>
 	<game id="35965" source="ScreenScraper.fr">
 		<path>./Afterburner.d64</path>
 		<name>Afterburner - US Version</name>
@@ -8090,7 +8063,7 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<video>./snap/Abbaye des Morts.mp4</video>
 		<marquee>./wheel/Abbaye des Morts.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="35996" source="ScreenScraper.fr">
@@ -8159,5 +8132,33 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<genre>Race, Driving</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game id="109471" source="ScreenScraper.fr">
+		<path>./Addicta Ball.d64</path>
+		<name>Addicta Ball</name>
+		<desc>A great new 1 or 2 player arcade classic. Simple for all the familly to play with joystick or mouse but so deadly addictive you can't stop playing.  You need courage, lightning reflexes, tactical genius and strategic planning to beat the ball but you'll certainly enjoy finding all the hidden features along the way.</desc>
+		<image>./mixart/Addicta Ball.png</image>
+		<video>./snap/Addicta Ball.mp4</video>
+		<marquee>./wheel/Addicta Ball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Alligata Software</publisher>
+		<genre>Action / Breakout games-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="36103" source="ScreenScraper.fr">
+		<path>./Advanced Pinball Simulator.d64</path>
+		<name>Advanced Pinball Simulator</name>
+		<desc>Part of Codemasters' original budget-price range,  this pinball game aimed to put fast &amp; furious action first.  The table design features extra flippers on both sides, which are at the bases of sections of features. The best scores can be achieved by repeatedly bashing away at sections of blocks.  The essential theme of the table is of magic and wizardry, with the targets to be lit including the word 'MAGIC' as well as a weather potion and a magic cottage. Trapdoors must be shot open to get their bonuses, then shot shut again to prevent the ball being lost in them. Extra balls are offered every 10,000 points.</desc>
+		<image>./mixart/Advanced Pinball Simulator.png</image>
+		<video>./snap/Advanced Pinball Simulator.mp4</video>
+		<marquee>./wheel/Advanced Pinball Simulator.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Pinball-Simulation</genre>
+		<players>3</players>
 	</game>
 </gameList>

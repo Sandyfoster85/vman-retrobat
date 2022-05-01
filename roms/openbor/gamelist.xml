@@ -1868,15 +1868,6 @@
 		<players>1-4</players>
 	</game>
 	<game>
-		<path>./Beats of Fighting.pak</path>
-		<name>Beats Of Fighting</name>
-		<image>./mixart/Beats of Fighting.png</image>
-		<video>./snap/Beats of Fighting.mp4</video>
-		<marquee>./wheel/Beats of Fighting.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./Beats of Rage Alliance Super Sayan.pak</path>
 		<name>Beats Of Rage Alliance Super Sayan</name>
 		<image>./mixart/Beats of Rage Alliance Super Sayan.png</image>
@@ -3124,18 +3115,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
-		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
-		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
-		<image>./mixart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</image>
-		<video>./snap/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
-		<marquee>./wheel/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Battletoads Double Dragon - The Revenge.PAK</path>
 		<name>Battletoads Double Dragon - The Revenge</name>
 		<image>./mixart/Battletoads Double Dragon - The Revenge.png</image>
@@ -3846,6 +3825,28 @@
 		<genre>2D-Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
+		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
+		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
+		<image>./mixart/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</image>
+		<video>./snap/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.mp4</video>
+		<marquee>./wheel/Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
+		<genre>Plateform / Fighter Scrolling-Fight / 2D-Platform-Fight</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Beats of Fighting.pak</path>
+		<name>Beats Of Fighting</name>
+		<image>./mixart/Beats of Fighting.png</image>
+		<video>./snap/Beats of Fighting.mp4</video>
+		<marquee>./wheel/Beats of Fighting.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
 		<lang>en</lang>
 	</game>
 </gameList>

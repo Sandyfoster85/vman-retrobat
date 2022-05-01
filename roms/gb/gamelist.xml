@@ -4212,26 +4212,6 @@ Gameplay consists of a platform game. Kirby is like no other platform character 
 		<cheevosHash>DDB5BFAE32B0CA39CF8AB6C46880126C</cheevosHash>
 		<cheevosId>707</cheevosId>
 	</game>
-	<game id="3110" source="ScreenScraper.fr">
-		<path>./Kirby's Pinball Land (USA, Europe).7z</path>
-		<name>Kirby's Pinball Land</name>
-		<desc>Kirby's Pinball Land is a game of pinball based on the Kirby series of games, with Kirby as the ball.  In the game you have to help Kirby defeat King Dedede and the three bosses who each guard one of the Pinball Lands.  
-
-The game is divided into three tables or Pinball Lands, each consisting of four screens, three ordinary screens, and a boss screen  If you fall off the bottom of the lowest one, you lose a life, unless you press A at the right moment to activate the springboard, which becomes harder each time.  Each screen has a variety of things to do.  The middle screen will give access to some sort of bonus game, where you must try to get as many points as you can, and can add to your bonus and bonus multiplier.  The bonus is added to your score when you lose a life, as in ordinary pinball.
-
-The aim is to defeat each boss.  To get to the boss you must perform a task on the top ordinary screen.  The bosses themselves must be defeated by firing Kirby at them, but they will try to stop you, sometimes by temporarily de-activating one or both of the flippers.  If you defeat the boss on each table, you face Kind Dedede himself.</desc>
-		<image>./mixart/Kirby's Pinball Land (USA, Europe).png</image>
-		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
-		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate />
-		<developer>HAL Laboratory, Inc.</developer>
-		<publisher>Nintendo of America Inc.</publisher>
-		<genre>Various-Action-Pinball</genre>
-		<players>1</players>
-		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
-		<cheevosId>708</cheevosId>
-	</game>
 	<game id="3208" source="ScreenScraper.fr">
 		<path>./Kirby's Star Stacker (USA, Europe).7z</path>
 		<name>Kirby's Star Stacker</name>
@@ -9743,5 +9723,26 @@ The game is a side scroller, Master Higgins moves across the screen from left to
 		<genre>Action-Platform</genre>
 		<cheevosHash>D67E58BF5F39D5FB073FED85C3D9BEDE</cheevosHash>
 		<cheevosId>2265</cheevosId>
+	</game>
+	<game id="3110" source="ScreenScraper.fr">
+		<path>./Kirby's Pinball Land (USA, Europe).7z</path>
+		<name>Kirby's Pinball Land</name>
+		<desc>Kirby's Pinball Land is a game of pinball based on the Kirby series of games, with Kirby as the ball.  In the game you have to help Kirby defeat King Dedede and the three bosses who each guard one of the Pinball Lands.  
+
+The game is divided into three tables or Pinball Lands, each consisting of four screens, three ordinary screens, and a boss screen  If you fall off the bottom of the lowest one, you lose a life, unless you press A at the right moment to activate the springboard, which becomes harder each time.  Each screen has a variety of things to do.  The middle screen will give access to some sort of bonus game, where you must try to get as many points as you can, and can add to your bonus and bonus multiplier.  The bonus is added to your score when you lose a life, as in ordinary pinball.
+
+The aim is to defeat each boss.  To get to the boss you must perform a task on the top ordinary screen.  The bosses themselves must be defeated by firing Kirby at them, but they will try to stop you, sometimes by temporarily de-activating one or both of the flippers.  If you defeat the boss on each table, you face Kind Dedede himself.</desc>
+		<image>./mixart/Kirby's Pinball Land (USA, Europe).png</image>
+		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
+		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate></releasedate>
+		<developer>HAL Laboratory, Inc.</developer>
+		<publisher>Nintendo of America Inc.</publisher>
+		<genre>Various-Action-Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
+		<cheevosId>708</cheevosId>
 	</game>
 </gameList>

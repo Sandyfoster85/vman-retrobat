@@ -1357,22 +1357,6 @@ Following its release, Onimusha: Warlords achieved high popularity becoming the 
 		<region>us</region>
 	</game>
 	<game>
-		<path>./TaoFang - Fist of the Lotus.iso</path>
-		<name>Tao Feng: Fist of the Lotus</name>
-		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
-		<image>./mixart/TaoFang - Fist of the Lotus.png</image>
-		<video>./snap/TaoFang - Fist of the Lotus.mp4</video>
-		<marquee>./wheel/TaoFang - Fist of the Lotus.png</marquee>
-		<releasedate>20030318T000000</releasedate>
-		<developer>Studio Gigante</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dead or Alive Extreme Beach Volleyball.iso</path>
 		<name>Dead or Alive: Xtreme Beach Volleyball</name>
 		<desc>Are you ready for some extreme action?  Then your wait is over because the girls of Dead or Alive are back and better than ever in the first ever "Sports Fantasy Simulation."  Developed by Team Ninja, the guys who brought you the million-selling Dead or Alive 3 fighting game, Dead or Alive Xtreme Beach Volleyball is sure to have your heart racing with beautifully rendered graphics and action-packed gameplay.  The extreme action is transported from the fighting ring of Dead or Alive 3 to the beach this time around with the girls throwing on their bikinis to go head-to-head in the most outrageous beach volleyball game you have ever seen!</desc>
@@ -1692,21 +1676,6 @@ A port of the original Panzer Dragoon is included.</desc>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Outlaw Golf 2.iso</path>
-		<name>Outlaw Golf 2</name>
-		<desc>The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy.</desc>
-		<image>./mixart/Outlaw Golf 2.png</image>
-		<video>./snap/Outlaw Golf 2.mp4</video>
-		<marquee>./wheel/Outlaw Golf 2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20041019T000000</releasedate>
-		<developer>Hypnotix</developer>
-		<publisher>Global Star Software Inc.</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="14951" source="ScreenScraper.fr">
 		<path>./Aliens Versus Predator Extinction.iso</path>
 		<name>Aliens versus Predator : Extinction</name>
@@ -1723,5 +1692,37 @@ A port of the original Panzer Dragoon is included.</desc>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>1280</genreid>
+	</game>
+	<game>
+		<path>./Outlaw Golf 2.iso</path>
+		<name>Outlaw Golf 2</name>
+		<desc>The crude cast of Outlaw Golf is back with new friends, courses, fighting moves, and more. Choose from 11 wild characters--including babes, rappers, and thugs--and take on the challenges from eight courses, ranging from the arctic to the jungle. By playing through the tour and winning events, you can unlock more clubs, balls, and outfits. In addition to tournament mode, the game features match, time attack, and baseball golf modes. Just remember--even if your golf game is off, you can still beat up your opponents, or even your caddy.</desc>
+		<image>./mixart/Outlaw Golf 2.png</image>
+		<video>./snap/Outlaw Golf 2.mp4</video>
+		<marquee>./wheel/Outlaw Golf 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20041019T000000</releasedate>
+		<developer>Hypnotix</developer>
+		<publisher>Global Star Software Inc.</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TaoFang - Fist of the Lotus.iso</path>
+		<name>Tao Feng: Fist of the Lotus</name>
+		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
+		<image>./mixart/TaoFang - Fist of the Lotus.png</image>
+		<video>./snap/TaoFang - Fist of the Lotus.mp4</video>
+		<marquee>./wheel/TaoFang - Fist of the Lotus.png</marquee>
+		<releasedate>20030318T000000</releasedate>
+		<developer>Studio Gigante</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

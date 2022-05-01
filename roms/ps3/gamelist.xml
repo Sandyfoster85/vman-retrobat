@@ -1192,20 +1192,6 @@ Gather a team of two, thrust into battle, and go crazy with your attacks! From b
 		<region>eu</region>
 		<genreid>262</genreid>
 	</game>
-	<game id="26901" source="ScreenScraper.fr">
-		<path>./Raystorm HD.m3u</path>
-		<name>Raystorm Hd</name>
-		<desc>The core of Raystorm HD is exactly the same as the original Raystorm, with the same R-Gray fighters to pilot, the same vertically scrolling levels to fly, and the same sci-fi storyline where you defend Earth from a bunch of cheesed-off former colonists looking to blow the place up circa 2219.</desc>
-		<image>./mixart/Raystorm HD.png</image>
-		<video>./snap/Raystorm HD.mp4</video>
-		<marquee>./wheel/Raystorm HD.png</marquee>
-		<rating>0.25</rating>
-		<releasedate>20100506T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up</genre>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./Alien Breed 2 - Assault.m3u</path>
 		<name>Alien Breed 2 - Assault</name>
@@ -1897,5 +1883,19 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Square Enix</publisher>
 		<genre>Platform</genre>
 		<genreid>257</genreid>
+	</game>
+	<game id="26901" source="ScreenScraper.fr">
+		<path>./Raystorm HD.m3u</path>
+		<name>Raystorm Hd</name>
+		<desc>The core of Raystorm HD is exactly the same as the original Raystorm, with the same R-Gray fighters to pilot, the same vertically scrolling levels to fly, and the same sci-fi storyline where you defend Earth from a bunch of cheesed-off former colonists looking to blow the place up circa 2219.</desc>
+		<image>./mixart/Raystorm HD.png</image>
+		<video>./snap/Raystorm HD.mp4</video>
+		<marquee>./wheel/Raystorm HD.png</marquee>
+		<rating>0.25</rating>
+		<releasedate>20100506T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<genreid>260</genreid>
 	</game>
 </gameList>

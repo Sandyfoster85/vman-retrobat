@@ -26351,41 +26351,6 @@ Once you've picked your player, it's time to select your court surface. The game
 		<region>eu</region>
 		<cheevosHash>1CA6B6193F58F942E54747AD3003C670</cheevosHash>
 	</game>
-	<game id="1441" source="ScreenScraper.fr">
-		<path>./Rad Racer (USA).zip</path>
-		<name>Rad Racer</name>
-		<desc>Rad Racer is an arcade style 3-D racing game. The object of the game is to race to the goal within the given time limit. Along each course are several checkpoints which will increase the amount of time you have to reach the final destination. There are eight different stages with increasingly difficult roads, changing weather conditions, and a variety of opponents who tend to get in the way. Included with the game is an optional pair of red-blue 3-D glasses which can be used to give the game an even more 3-D appearance.</desc>
-		<image>./mixart/Rad Racer (USA).png</image>
-		<video>./snap/Rad Racer (USA).mp4</video>
-		<marquee>./wheel/Rad Racer (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19871001T000000</releasedate>
-		<developer>Square</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FA0688FD15C7851878997B0C61B109E9</cheevosHash>
-		<cheevosId>1900</cheevosId>
-	</game>
-	<game id="1655" source="ScreenScraper.fr">
-		<path>./Rad Racer II (USA).zip</path>
-		<name>Rad Racer II</name>
-		<desc>Rad Racer II is an arcade style racing game which is the sequel to Rad Racer and features similar gameplay. Played with a 3D perspective from behind your vehicle, the goal is to race through a series of different tracks before time runs out. Along each track are several checkpoints; crossing a checkpoint will increase the amount of time you have to reach the final destination. Eight new tracks are featured (with new graphics and music), each with a variety of hills, turns, obstacles, and other cars to get in your way. Crashing into other cars or any obstacles on the side of the road cause you to slow down or come to a stop and lose valuable time. Also new is a turbo boost which allows you to reach speeds of 255 mph. Unlike the original game, you now only have a choice of one car and the red-blue 3D glasses aren't supported.</desc>
-		<image>./mixart/Rad Racer II (USA).png</image>
-		<video>./snap/Rad Racer II (USA).mp4</video>
-		<marquee>./wheel/Rad Racer II (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19900601T000000</releasedate>
-		<developer>Square</developer>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A4BE48D5FB2A27AB0C75C43B83D13CDF</cheevosHash>
-		<cheevosId>1899</cheevosId>
-	</game>
 	<game id="18846" source="ScreenScraper.fr">
 		<path>./Rad Racket - Deluxe Tennis II (USA) (Unl).zip</path>
 		<name>Rad Racket: Deluxe Tennis II</name>
@@ -30596,5 +30561,40 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>0994EA979D8E06DFCB599389C8364787</cheevosHash>
+	</game>
+	<game id="1655" source="ScreenScraper.fr">
+		<path>./Rad Racer II (USA).zip</path>
+		<name>Rad Racer II</name>
+		<desc>Rad Racer II is an arcade style racing game which is the sequel to Rad Racer and features similar gameplay. Played with a 3D perspective from behind your vehicle, the goal is to race through a series of different tracks before time runs out. Along each track are several checkpoints; crossing a checkpoint will increase the amount of time you have to reach the final destination. Eight new tracks are featured (with new graphics and music), each with a variety of hills, turns, obstacles, and other cars to get in your way. Crashing into other cars or any obstacles on the side of the road cause you to slow down or come to a stop and lose valuable time. Also new is a turbo boost which allows you to reach speeds of 255 mph. Unlike the original game, you now only have a choice of one car and the red-blue 3D glasses aren't supported.</desc>
+		<image>./mixart/Rad Racer II (USA).png</image>
+		<video>./snap/Rad Racer II (USA).mp4</video>
+		<marquee>./wheel/Rad Racer II (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19900601T000000</releasedate>
+		<developer>Square</developer>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A4BE48D5FB2A27AB0C75C43B83D13CDF</cheevosHash>
+		<cheevosId>1899</cheevosId>
+	</game>
+	<game id="1441" source="ScreenScraper.fr">
+		<path>./Rad Racer (USA).zip</path>
+		<name>Rad Racer</name>
+		<desc>Rad Racer is an arcade style 3-D racing game. The object of the game is to race to the goal within the given time limit. Along each course are several checkpoints which will increase the amount of time you have to reach the final destination. There are eight different stages with increasingly difficult roads, changing weather conditions, and a variety of opponents who tend to get in the way. Included with the game is an optional pair of red-blue 3-D glasses which can be used to give the game an even more 3-D appearance.</desc>
+		<image>./mixart/Rad Racer (USA).png</image>
+		<video>./snap/Rad Racer (USA).mp4</video>
+		<marquee>./wheel/Rad Racer (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19871001T000000</releasedate>
+		<developer>Square</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FA0688FD15C7851878997B0C61B109E9</cheevosHash>
+		<cheevosId>1900</cheevosId>
 	</game>
 </gameList>

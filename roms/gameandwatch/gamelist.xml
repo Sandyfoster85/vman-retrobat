@@ -6,96 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="88052" source="ScreenScraper.fr">
-		<path>./Condor.mgw</path>
-		<name>Condor</name>
-		<desc>Move a caveman to prevent condors from stealing his food, then entrap them. When a condor gets a piece of food, one miss is scored. Five misses and game ends. 1 point is scored each time you entrap a condor. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Condor.png</image>
-		<marquee>./wheel/Condor.png</marquee>
-		<video>./snap/Condor.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88054" source="ScreenScraper.fr">
-		<path>./Defendo.mgw</path>
-		<name>Defendo</name>
-		<desc>Enemy soldiers continuously move towards your camp from three paths, trying to steal your Army's gold. Move the brave soldier to prevent soldiers from reaching the camp. When an enemy successfully reaches the camp, a chance is missed. Five misses and game ends. 1 point is scored each time an enemy soldier is hit. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Defendo.png</image>
-		<marquee>./wheel/Defendo.png</marquee>
-		<video>./snap/Defendo.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88055" source="ScreenScraper.fr">
-		<path>./Donkey Kong (Nintendo, Multi Screen).mgw</path>
-		<name>Donkey Kong (Multi Screen)</name>
-		<desc>Mario must reach the top of the structure, activate a lever which will put a crane in his reach. Then he must jump for the crane and demolish little by little the structure on which Donkey Kong is standing in order to rescue Pauline.</desc>
-		<rating>0</rating>
-		<releasedate>19820603T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Donkey Kong (Nintendo, Multi Screen).png</image>
-		<marquee>./wheel/Donkey Kong (Nintendo, Multi Screen).png</marquee>
-		<video>./snap/Donkey Kong (Nintendo, Multi Screen).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="99461" source="ScreenScraper.fr">
-		<path>./Donkey Kong Circus (Nintendo G&amp;W, Panorama).mgw</path>
-		<name>Donkey Kong Circus</name>
-		<desc>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</desc>
-		<rating>0</rating>
-		<releasedate>19840906T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<image>./mixart/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</image>
-		<marquee>./wheel/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</marquee>
-		<video>./snap/Donkey Kong Circus (Nintendo G&amp;W, Panorama).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88056" source="ScreenScraper.fr">
-		<path>./Donkey Kong II (Nintendo, Multi Screen).mgw</path>
-		<name>Donkey Kong II</name>
-		<desc>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
-- Press top of "PLUS" button when on top of chain. A lock opens.</desc>
-		<rating>0</rating>
-		<releasedate>19830307T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Donkey Kong II (Nintendo, Multi Screen).png</image>
-		<marquee>./wheel/Donkey Kong II (Nintendo, Multi Screen).png</marquee>
-		<video>./snap/Donkey Kong II (Nintendo, Multi Screen).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88098" source="ScreenScraper.fr">
-		<path>./Donkey Kong Jr. (Nintendo G&amp;W, Panorama).mgw</path>
-		<name>Donkey Kong Jr. (Panorama Screen)</name>
-		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</image>
-		<marquee>./wheel/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</marquee>
-		<video>./snap/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="88099" source="ScreenScraper.fr">
 		<path>./Donkey Kong Jr. (Nintendo, Table Top).mgw</path>
 		<name>Donkey Kong Jr. (Table Top)</name>
@@ -245,81 +155,6 @@
 		<video>./snap/Lifeboat (Nintendo, Multi Screen).mp4</video>
 		<hidden>false</hidden>
 	</game>
-	<game id="88073" source="ScreenScraper.fr">
-		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
-		<name>Mario Bros.</name>
-		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
-		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
-		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88074" source="ScreenScraper.fr">
-		<path>./Mario's Bombs Away (Nintendo G&amp;W, Panorama).mgw</path>
-		<name>Mario's Bombs Away</name>
-		<desc>Mario is in the jungle, fighting against an enemy army. His aim is to take five bombs on the right side of the jungle. Mario's companion on the right side places bombs close to enemies. When all five bombs are in place, they detonate and enemy army is beaten. Enemies try to light Mario's bomb; lift/lower Mario's bomb to keep it safe. If enemies torches reach Mario's bomb, all progress (bombs already placed) is lost. Three misses and game ends. 1 point when Mario steps forward. 5 points when Mario places a bomb. 10 points when Mario places the 5th bomb. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</image>
-		<marquee>./wheel/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</marquee>
-		<video>./snap/Mario's Bombs Away (Nintendo G&amp;W, Panorama).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88075" source="ScreenScraper.fr">
-		<path>./Mickey Mouse (Nintendo, Panorama Screen).mgw</path>
-		<name>Mickey Mouse (Panorama Screen)</name>
-		<desc>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Mickey Mouse (Nintendo, Panorama Screen).png</image>
-		<marquee>./wheel/Mickey Mouse (Nintendo, Panorama Screen).png</marquee>
-		<video>./snap/Mickey Mouse (Nintendo, Panorama Screen).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88076" source="ScreenScraper.fr">
-		<path>./Mickey Mouse (Nintendo, Wide Screen).mgw</path>
-		<name>Mickey Mouse (Wide Screen)</name>
-		<desc>Chickens lay eggs. Control Mickey Mouse so that he catches them in his basket. When Mickey Mouse drops an egg, one miss is scored. Minnie Mouse appears/disappears at every five seconds. When Minnie Mouse appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled. Maximum displayed score is 999 points.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Mickey Mouse (Nintendo, Wide Screen).png</image>
-		<marquee>./wheel/Mickey Mouse (Nintendo, Panorama Screen).png</marquee>
-		<video>./snap/Mickey Mouse (Nintendo, Panorama Screen).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88077" source="ScreenScraper.fr">
-		<path>./Monkey.mgw</path>
-		<name>Monkey</name>
-		<desc>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Monkey.png</image>
-		<marquee>./wheel/Monkey.png</marquee>
-		<video>./snap/Monkey.mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="88081" source="ScreenScraper.fr">
 		<path>./Pancake.mgw</path>
 		<name>Pancake</name>
@@ -363,51 +198,6 @@
 		<image>./mixart/Safari.png</image>
 		<marquee>./wheel/Safari.png</marquee>
 		<video>./snap/Safari.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88087" source="ScreenScraper.fr">
-		<path>./Sleep Walker.mgw</path>
-		<name>Sleep Walker</name>
-		<desc>Move a busy man in pyjamas around the house to save sleepwalkers. When a sleepwalker gets awaken, one miss is scored. Five misses and game ends. 1 point is scored for each safe sleepwalker. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Sleep Walker.png</image>
-		<marquee>./wheel/Sleep Walker.png</marquee>
-		<video>./snap/Sleep Walker.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88088" source="ScreenScraper.fr">
-		<path>./Snoopy (Nintendo G&amp;W, Panorama).mgw</path>
-		<name>Snoopy (Panorama Screen)</name>
-		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Snoopy (Nintendo G&amp;W, Panorama).png</image>
-		<marquee>./wheel/Snoopy (Nintendo G&amp;W, Panorama).png</marquee>
-		<video>./snap/Snoopy (Nintendo G&amp;W, Panorama).mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88089" source="ScreenScraper.fr">
-		<path>./Snoopy (Nintendo, Table Top).mgw</path>
-		<name>Snoopy (Table Top)</name>
-		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Snoopy (Nintendo, Table Top).png</image>
-		<marquee>./wheel/Snoopy (Nintendo, Table Top).png</marquee>
-		<video>./snap/Snoopy (Nintendo, Table Top).mp4</video>
 		<hidden>false</hidden>
 	</game>
 	<game id="88092" source="ScreenScraper.fr">
@@ -587,18 +377,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Donkey Kong Coleco.mgw</path>
-		<name>Donkey Kong</name>
-		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
-		<image>./mixart/Donkey Kong Coleco.png</image>
-		<video>./snap/Donkey Kong Coleco.mp4</video>
-		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-	</game>
-	<game>
 		<path>./Tron.mgw</path>
 		<name>Tron</name>
 		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
@@ -610,20 +388,6 @@
 		<developer>Tomytronic</developer>
 		<publisher>Tomytronic</publisher>
 		<genre>Action</genre>
-	</game>
-	<game id="88057" source="ScreenScraper.fr">
-		<path>./Donkey Kong Jr. (Coleco).mgw</path>
-		<name>Donkey Kong Jr.</name>
-		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
-		<image>./mixart/Donkey Kong Jr. (Coleco).png</image>
-		<video>./snap/Donkey Kong Jr. (Coleco).mp4</video>
-		<marquee>./wheel/Donkey Kong Jr. (Coleco).png</marquee>
-		<rating>0</rating>
-		<releasedate>19820626T000000</releasedate>
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-		<genre>Action</genre>
-		<players>1</players>
 	</game>
 	<game>
 		<path>./Galaxy II.mgw</path>
@@ -679,7 +443,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Banana.mp4</video>
 		<marquee>./wheel/Banana.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -693,7 +457,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Baseball.mp4</video>
 		<marquee>./wheel/Baseball.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -708,7 +472,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Bomb Fight.mp4</video>
 		<marquee>./wheel/Bomb Fight.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -723,7 +487,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Casio-HF.mp4</video>
 		<marquee>./wheel/Casio-HF.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -738,7 +502,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Casio-SF.mp4</video>
 		<marquee>./wheel/Casio-SF.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -756,6 +520,244 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<releasedate>19820101T000000</releasedate>
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88052" source="ScreenScraper.fr">
+		<path>./Condor.mgw</path>
+		<name>Condor</name>
+		<desc>Move a caveman to prevent condors from stealing his food, then entrap them. When a condor gets a piece of food, one miss is scored. Five misses and game ends. 1 point is scored each time you entrap a condor. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Condor.png</image>
+		<video>./snap/Condor.mp4</video>
+		<marquee>./wheel/Condor.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88054" source="ScreenScraper.fr">
+		<path>./Defendo.mgw</path>
+		<name>Defendo</name>
+		<desc>Enemy soldiers continuously move towards your camp from three paths, trying to steal your Army's gold. Move the brave soldier to prevent soldiers from reaching the camp. When an enemy successfully reaches the camp, a chance is missed. Five misses and game ends. 1 point is scored each time an enemy soldier is hit. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Defendo.png</image>
+		<video>./snap/Defendo.mp4</video>
+		<marquee>./wheel/Defendo.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88055" source="ScreenScraper.fr">
+		<path>./Donkey Kong (Nintendo, Multi Screen).mgw</path>
+		<name>Donkey Kong (Multi Screen)</name>
+		<desc>Mario must reach the top of the structure, activate a lever which will put a crane in his reach. Then he must jump for the crane and demolish little by little the structure on which Donkey Kong is standing in order to rescue Pauline.</desc>
+		<image>./mixart/Donkey Kong (Nintendo, Multi Screen).png</image>
+		<video>./snap/Donkey Kong (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Donkey Kong (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820603T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="99461" source="ScreenScraper.fr">
+		<path>./Donkey Kong Circus (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Donkey Kong Circus</name>
+		<desc>Donkey Kong juggles pineapples while balancing on a barrel. Catch the pineapples, but beware of fireballs. Donkey Kong will automatically toss the pineapples he catches. Mario watches his juggling performance. Lives are lost either if a pineapple falls on the floor or if Donkey Kong touches a fireball. Mario laughs at Donkey Kong as he misses. Three misses and game ends. 1 point for each pineapple Donkey Kong catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per pineapple caught) until a miss is made.</desc>
+		<image>./mixart/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</image>
+		<video>./snap/Donkey Kong Circus (Nintendo G&amp;W, Panorama).mp4</video>
+		<marquee>./wheel/Donkey Kong Circus (Nintendo G&amp;W, Panorama).png</marquee>
+		<rating>0</rating>
+		<releasedate>19840906T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong</name>
+		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
+		<image>./mixart/Donkey Kong Coleco.png</image>
+		<video>./snap/Donkey Kong Coleco.mp4</video>
+		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="88056" source="ScreenScraper.fr">
+		<path>./Donkey Kong II (Nintendo, Multi Screen).mgw</path>
+		<name>Donkey Kong II</name>
+		<desc>A continuation of the famous Donkey Kong Story. Now Mario has chained Donkey Kong. Donkey Kong Junior braves snapjaws, sparks and birds, throwing the key which will open Donkey Kong's locks, up to where his papa is held prisoner. Avoid sparks overhead and make Junior jump and throw key to upper screen. When a snapjaw attacks, make Junior jump without hitting overhead spark. When Junior reaches the upper screen, he has to jump to get the key he threw again. The key jumps to one of the four locks.
+- Press top of "PLUS" button when on top of chain. A lock opens.</desc>
+		<image>./mixart/Donkey Kong II (Nintendo, Multi Screen).png</image>
+		<video>./snap/Donkey Kong II (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Donkey Kong II (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830307T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88057" source="ScreenScraper.fr">
+		<path>./Donkey Kong Jr. (Coleco).mgw</path>
+		<name>Donkey Kong Jr.</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./mixart/Donkey Kong Jr. (Coleco).png</image>
+		<video>./snap/Donkey Kong Jr. (Coleco).mp4</video>
+		<marquee>./wheel/Donkey Kong Jr. (Coleco).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820626T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88098" source="ScreenScraper.fr">
+		<path>./Donkey Kong Jr. (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Donkey Kong Jr. (Panorama Screen)</name>
+		<desc>Donkey Kong has been captured and chained by Mario. Donkey Kong Jr. goes to papa's rescue with key he needs to open the locks on the chains. Junior is attacked by fierce birds. He uses umbrellas to leap from heights, and balloons to get up there, opening the locks on the way. When he opens all 4 locks, papa is free. Each time he opens one lock, he must go back to START to retrieve the key, then sets out again is lost. With three misses game ends. 1 point when Junior jumps to umbrella or balloon. 2 to 10 points when Junior hits fierce bird with coconut. 10 points when Junior opens one lock. 10 points (extra bonus) when Junior opens all four locks. When score reaches 300 points and there are one or two misses, all the misses are cleared with fanfare. If there are no misses when a 300 score is reached, game goes into "CHANCE TIME". Score flashes and all the points are awarded at double value until a miss is scored. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./mixart/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</image>
+		<video>./snap/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).mp4</video>
+		<marquee>./wheel/Donkey Kong Jr. (Nintendo G&amp;W, Panorama).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88073" source="ScreenScraper.fr">
+		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
+		<name>Mario Bros.</name>
+		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
+		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
+		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88074" source="ScreenScraper.fr">
+		<path>./Mario's Bombs Away (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Mario's Bombs Away</name>
+		<desc>Mario is in the jungle, fighting against an enemy army. His aim is to take five bombs on the right side of the jungle. Mario's companion on the right side places bombs close to enemies. When all five bombs are in place, they detonate and enemy army is beaten. Enemies try to light Mario's bomb; lift/lower Mario's bomb to keep it safe. If enemies torches reach Mario's bomb, all progress (bombs already placed) is lost. Three misses and game ends. 1 point when Mario steps forward. 5 points when Mario places a bomb. 10 points when Mario places the 5th bomb. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum displayed score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./mixart/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</image>
+		<video>./snap/Mario's Bombs Away (Nintendo G&amp;W, Panorama).mp4</video>
+		<marquee>./wheel/Mario's Bombs Away (Nintendo G&amp;W, Panorama).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88075" source="ScreenScraper.fr">
+		<path>./Mickey Mouse (Nintendo, Panorama Screen).mgw</path>
+		<name>Mickey Mouse (Panorama Screen)</name>
+		<desc>Mickey Mouse performs baton acrobatics while balancing on a ball in a circus. Donald Duck watches his acrobatic feats. Move Mickey Mouse left and right to catch the batons, but beware of the flaming torches. One miss is scored when Mickey Mouse fails to catch a baton, or when he catches a flaming torch. Three misses and game ends. 1 point for each baton Mickey Mouse catches and tosses. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled. If there are no misses when 300 points are reached, game goes into "Chance-Time": all points are awarded at double value (2 points per baton caught) until a miss is made.</desc>
+		<image>./mixart/Mickey Mouse (Nintendo, Panorama Screen).png</image>
+		<video>./snap/Mickey Mouse (Nintendo, Panorama Screen).mp4</video>
+		<marquee>./wheel/Mickey Mouse (Nintendo, Panorama Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88076" source="ScreenScraper.fr">
+		<path>./Mickey Mouse (Nintendo, Wide Screen).mgw</path>
+		<name>Mickey Mouse (Wide Screen)</name>
+		<desc>Chickens lay eggs. Control Mickey Mouse so that he catches them in his basket. When Mickey Mouse drops an egg, one miss is scored. Minnie Mouse appears/disappears at every five seconds. When Minnie Mouse appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled. Maximum displayed score is 999 points.</desc>
+		<image>./mixart/Mickey Mouse (Nintendo, Wide Screen).png</image>
+		<video>./snap/Mickey Mouse (Nintendo, Panorama Screen).mp4</video>
+		<marquee>./wheel/Mickey Mouse (Nintendo, Panorama Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88077" source="ScreenScraper.fr">
+		<path>./Monkey.mgw</path>
+		<name>Monkey</name>
+		<desc>Monkeys continuously climb the trees to steal coconuts. You should try your best to avoid the coconuts being stolen. When a monkey successfully reaches a coconut, a missed is scored. Five misses and game ends. 1 point is scored each time a monkey is hit. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Monkey.png</image>
+		<video>./snap/Monkey.mp4</video>
+		<marquee>./wheel/Monkey.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88087" source="ScreenScraper.fr">
+		<path>./Sleep Walker.mgw</path>
+		<name>Sleep Walker</name>
+		<desc>Move a busy man in pyjamas around the house to save sleepwalkers. When a sleepwalker gets awaken, one miss is scored. Five misses and game ends. 1 point is scored for each safe sleepwalker. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Sleep Walker.png</image>
+		<video>./snap/Sleep Walker.mp4</video>
+		<marquee>./wheel/Sleep Walker.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88088" source="ScreenScraper.fr">
+		<path>./Snoopy (Nintendo G&amp;W, Panorama).mgw</path>
+		<name>Snoopy (Panorama Screen)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./mixart/Snoopy (Nintendo G&amp;W, Panorama).png</image>
+		<video>./snap/Snoopy (Nintendo G&amp;W, Panorama).mp4</video>
+		<marquee>./wheel/Snoopy (Nintendo G&amp;W, Panorama).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88089" source="ScreenScraper.fr">
+		<path>./Snoopy (Nintendo, Table Top).mgw</path>
+		<name>Snoopy (Table Top)</name>
+		<desc>Shroeder is playing his piano. The notes fly through the air to where Woodstock is sleeping. Operate Snoopy left and right to strike down the notes with his hammer so that Woodstock may sleep in peace. If a note gets to any nest, a miss occurs; three misses and game ends. Game A: 3 lines of notes. Game B: 4 lines of notes. 1 point for each note knocked down. At 300 points a music is played and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value until miss is made. Maximum display score is 999 points. At 999 points score resets and game starts again (at higher speed).</desc>
+		<image>./mixart/Snoopy (Nintendo, Table Top).png</image>
+		<video>./snap/Snoopy (Nintendo, Table Top).mp4</video>
+		<marquee>./wheel/Snoopy (Nintendo, Table Top).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>

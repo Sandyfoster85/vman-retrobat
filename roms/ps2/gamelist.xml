@@ -2491,25 +2491,6 @@ Grandia Xtreme is the first Grandia game to be originally released for Playstati
 		<region>us</region>
 		<genreid>256</genreid>
 	</game>
-	<game id="23313" source="ScreenScraper.fr">
-		<path>./Gunbird Special Edition (Europe) (En,Fr,De).gz</path>
-		<name>Gunbird Special Edition</name>
-		<desc>Gunbird Special Edition brings you one of the most popular arcade series for the first time on your console. Gunbird offers you the adventure for the legendary Atlers mirror that possesses a magical power to grant any wish to those who claim it. In search of the treasure are five adventurers ready to battle with all who attempt to stop them; only bravery, skill, and sheer determination can prevail. Can you take to the sky and battle your way to gaining the treasure?  
- 
-In the second instalment of Gunbird you will set off on a crusade for the legendary wish fulfilling, Holy Elixir. The potion can only be found once all the elements from the Sun, Moon, and Star are uncovered and taken to the holy temple. Hot on your tail for the Elixir are the infamous sky pirates, you must defeat the pirates and fulfill the challenges set before you in order to make all your dreams come true. Let the Gunbird Adventure begin!!</desc>
-		<image>./mixart/Gunbird Special Edition (Europe) (En,Fr,De).png</image>
-		<video>./snap/Gunbird Special Edition (Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/Gunbird Special Edition (Europe) (En,Fr,De).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050325T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
-		<genreid>260</genreid>
-	</game>
 	<game id="22636" source="ScreenScraper.fr">
 		<path>./Gungrave (USA).gz</path>
 		<name>Gungrave</name>
@@ -7653,5 +7634,24 @@ There are now loads of online play modes to try, with up to 19 other racers onli
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>512</genreid>
+	</game>
+	<game id="23313" source="ScreenScraper.fr">
+		<path>./Gunbird Special Edition (Europe) (En,Fr,De).gz</path>
+		<name>Gunbird Special Edition</name>
+		<desc>Gunbird Special Edition brings you one of the most popular arcade series for the first time on your console. Gunbird offers you the adventure for the legendary Atlers mirror that possesses a magical power to grant any wish to those who claim it. In search of the treasure are five adventurers ready to battle with all who attempt to stop them; only bravery, skill, and sheer determination can prevail. Can you take to the sky and battle your way to gaining the treasure?  
+ 
+In the second instalment of Gunbird you will set off on a crusade for the legendary wish fulfilling, Holy Elixir. The potion can only be found once all the elements from the Sun, Moon, and Star are uncovered and taken to the holy temple. Hot on your tail for the Elixir are the infamous sky pirates, you must defeat the pirates and fulfill the challenges set before you in order to make all your dreams come true. Let the Gunbird Adventure begin!!</desc>
+		<image>./mixart/Gunbird Special Edition (Europe) (En,Fr,De).png</image>
+		<video>./snap/Gunbird Special Edition (Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/Gunbird Special Edition (Europe) (En,Fr,De).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050325T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

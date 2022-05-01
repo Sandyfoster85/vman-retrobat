@@ -126,21 +126,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./badlands.daphne</path>
-		<name>Badlands</name>
-		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
-		<image>./mixart/badlands.png</image>
-		<video>./snap/badlands.mp4</video>
-		<marquee>./wheel/badlands.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19840515T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./roadblaster.daphne</path>
 		<name>Road Blaster</name>
 		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
@@ -234,7 +219,7 @@
 		<image>./mixart/ace.png</image>
 		<video>./snap/ace.mp4</video>
 		<marquee>./wheel/ace.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19840429T000000</releasedate>
 		<developer>AMS</developer>
 		<publisher>Cinematronics</publisher>
@@ -249,11 +234,26 @@
 		<image>./mixart/lair.png</image>
 		<video>./snap/lair.mp4</video>
 		<marquee>./wheel/lair.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19830623T000000</releasedate>
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./badlands.daphne</path>
+		<name>Badlands</name>
+		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
+		<image>./mixart/badlands.png</image>
+		<video>./snap/badlands.mp4</video>
+		<marquee>./wheel/badlands.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840515T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

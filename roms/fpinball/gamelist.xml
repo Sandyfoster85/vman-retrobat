@@ -2071,16 +2071,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Akira_v0.9.fpt</path>
-		<name>Akira</name>
-		<desc>Flipper Akira</desc>
-		<image>./mixart/Akira_v0.9.png</image>
-		<video>./snap/Akira_v0.9.mp4</video>
-		<marquee>./wheel/Akira_v0.9.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bond 50 (Anniversary Edition) (1.0).fpt</path>
 		<name>Bond 50 (Anniversary Edition) (1.0)</name>
 		<desc>Flipper Bond 50 (Anniversary Edition) (1.0)</desc>
@@ -3045,6 +3035,48 @@
 		<video>./snap/x-wingV100.mp4</video>
 		<marquee>./wheel/x-wingV100.png</marquee>
 		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The house of the dead 3.fpt</path>
+		<name>The House of the Dead 3</name>
+		<desc>Flipper The House of the Dead 3</desc>
+		<image>./mixart/The house of the dead 3.png</image>
+		<video>./snap/The house of the dead 3.mp4</video>
+		<marquee>./wheel/The house of the dead 3.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Akira_v0.9.fpt</path>
+		<name>Akira</name>
+		<desc>Flipper Akira</desc>
+		<image>./mixart/Akira_v0.9.png</image>
+		<video>./snap/Akira_v0.9.mp4</video>
+		<marquee>./wheel/Akira_v0.9.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro</name>
+		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
+		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
