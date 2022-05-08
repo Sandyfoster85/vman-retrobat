@@ -48,6 +48,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstat
 rem 9. 2022-04-02 - Fix PS3 After Burner Climax.m3u - reported by Virtualman
 copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\RetroBat\roms\ps3\
 
+rem 10. 2022-05-08 - Xbox Xemu config update for 0.7.x - reported by Virtualman/Bilu
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\xemu\ V:\RetroBat\emulators\xemu\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
