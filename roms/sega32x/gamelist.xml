@@ -530,25 +530,6 @@ There are 3 main game modes: exhibition, full season, and playoff.  Exhibition i
 		<players>2</players>
 		<cheevosHash>4D14EAB0585E79E2FC4789E090755F2D</cheevosHash>
 	</game>
-	<game id="12681" source="ScreenScraper.fr">
-		<path>./WWF Raw (World).7z</path>
-		<name>WWF Raw</name>
-		<desc>WWF Raw is a professional wrestling game featuring 10 superstars from the World Wrestling Federation.  The wrestlers you can choose from include Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker, and Yokozuna.
-
-In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more.  There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.
-
-This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.</desc>
-		<image>./mixart/WWF Raw (World).png</image>
-		<video>./snap/WWF Raw (World).mp4</video>
-		<marquee>./wheel/WWF Raw (World).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950131T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Fight-Sports-Action</genre>
-		<players>4</players>
-		<cheevosHash>B3788F861803D21CFA0E559695835F44</cheevosHash>
-	</game>
 	<game id="12687" source="ScreenScraper.fr">
 		<path>./WWF WrestleMania - The Arcade Game (USA).7z</path>
 		<name>WWF WrestleMania : The Arcade Game</name>
@@ -582,27 +563,6 @@ Although the basic goal of each of the 9 levels is to shoot everything without g
 		<genre>Shoot'em Up-Action</genre>
 		<players>2</players>
 		<cheevosHash>BD32A5E46D0159DC88CB31EA4BD9D899</cheevosHash>
-	</game>
-	<game>
-		<path>./Star Wars Arcade (USA).7z</path>
-		<name>Star Wars Arcade</name>
-		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
-
-Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
-		<image>./mixart/Star Wars Arcade (USA).png</image>
-		<video>./snap/Star Wars Arcade (USA).mp4</video>
-		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19941121T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AE3A42C6297EF25C6018A209FDA0194E</cheevosHash>
-		<cheevosId>14206</cheevosId>
 	</game>
 	<game>
 		<path>./Virtua Fighter (Japan, USA).7z</path>
@@ -642,5 +602,47 @@ The game is viewed from behind the plane with you fighting wave after wave of en
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosHash>EC9529858CC7961B39F5382B2F657B8F</cheevosHash>
+	</game>
+	<game>
+		<path>./Star Wars Arcade (USA).7z</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a 3D shoot 'em-up set in Episodes 4, 5, and 6 of the Star Wars saga.  You take control of either an X-Wing or Y-Wing, and are put right in the middle of the space combat.  In some levels, you have to shoot down a specific number of TIE fighters before time runs out. In other levels, your goal is to simply to make it to the end without getting blasted out of the sky.
+
+Some of the missions take place in deep space, around asteroids, or near Star Destroyers.  Other missions take place on the surface of the Death Star and re-create the Luke Skywalker's famous trench run to destroy it.</desc>
+		<image>./mixart/Star Wars Arcade (USA).png</image>
+		<video>./snap/Star Wars Arcade (USA).mp4</video>
+		<marquee>./wheel/Star Wars Arcade (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19941121T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AE3A42C6297EF25C6018A209FDA0194E</cheevosHash>
+		<cheevosId>14206</cheevosId>
+	</game>
+	<game id="12681" source="ScreenScraper.fr">
+		<path>./WWF Raw (World).7z</path>
+		<name>WWF Raw</name>
+		<desc>WWF Raw is a professional wrestling game featuring 10 superstars from the World Wrestling Federation.  The wrestlers you can choose from include Bret "Hit Man" Hart, Bam Bam Bigelow, 1-2-3 Kid, Diesel, Doink, Lex Luger, Luna Vachon, Owen Hart, Razor Ramon, Shawn Michaels, Undertaker, and Yokozuna.
+
+In this game, you attempt to pin your opponent to the mat by reducing his power meter until he can fight no more.  There is a large number of moves to perform, including turnbuckle maneuvers and "illegal" acts such as hitting your opponent with a metal folding chair.
+
+This game supports up to 4 simultaneous players, and has the following game modes: One-on-One, Tag Team, Bedlam, Survivor Series, Royal Rumble, Raw Endurance Match, and Rematch.</desc>
+		<image>./mixart/WWF Raw (World).png</image>
+		<video>./snap/WWF Raw (World).mp4</video>
+		<marquee>./wheel/WWF Raw (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950131T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Fight-Sports-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>B3788F861803D21CFA0E559695835F44</cheevosHash>
 	</game>
 </gameList>

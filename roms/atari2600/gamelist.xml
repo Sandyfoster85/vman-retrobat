@@ -749,23 +749,6 @@ The ultimate goal in BOWLING is to roll 12 consecutive strikes for a "perfect" s
 		<cheevosHash>C9B7AFAD3BFD922E006A6BFC1D4F3FE7</cheevosHash>
 		<cheevosId>12991</cheevosId>
 	</game>
-	<game>
-		<path>./Boxing (USA).zip</path>
-		<name>Boxing</name>
-		<desc>Boxing shows a top-down view of two boxers, one white and one black. When close enough, a boxer can hit his opponent with a punch (executed by pressing the fire button on the Atari joystick). This causes his opponent to reel back slightly. Long punches score one point, while closer punches (power punches, from the manual) score two. There are no knockdowns or rounds. A match is completed either when one player lands 100 punches (a "knockout") or two minutes have elapsed (a "decision"). In the case of a decision, the player with the most landed punches is the winner. Ties are possible.
-While the gameplay is simple, there are subtleties, such as getting an opponent on the "ropes" and "juggling" him back and forth between alternate punches.</desc>
-		<image>./mixart/Boxing (USA).png</image>
-		<video>./snap/Boxing (USA).mp4</video>
-		<marquee>./wheel/Boxing (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>C3EF5C4653212088EDA54DC91D787870</cheevosHash>
-		<cheevosId>12912</cheevosId>
-	</game>
 	<game id="14050" source="ScreenScraper.fr">
 		<path>./Brain Games (USA).zip</path>
 		<name>Brain Games</name>
@@ -11690,5 +11673,22 @@ In advanced mode and later levels, you have to hit the ramp/pipe at more precise
 		<players>2</players>
 		<cheevosHash>107CC025334211E6D29DA0B6BE46AEC7</cheevosHash>
 		<cheevosId>13062</cheevosId>
+	</game>
+	<game>
+		<path>./Boxing (USA).zip</path>
+		<name>Boxing</name>
+		<desc>Boxing shows a top-down view of two boxers, one white and one black. When close enough, a boxer can hit his opponent with a punch (executed by pressing the fire button on the Atari joystick). This causes his opponent to reel back slightly. Long punches score one point, while closer punches (power punches, from the manual) score two. There are no knockdowns or rounds. A match is completed either when one player lands 100 punches (a "knockout") or two minutes have elapsed (a "decision"). In the case of a decision, the player with the most landed punches is the winner. Ties are possible.
+While the gameplay is simple, there are subtleties, such as getting an opponent on the "ropes" and "juggling" him back and forth between alternate punches.</desc>
+		<image>./mixart/Boxing (USA).png</image>
+		<video>./snap/Boxing (USA).mp4</video>
+		<marquee>./wheel/Boxing (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<cheevosHash>C3EF5C4653212088EDA54DC91D787870</cheevosHash>
+		<cheevosId>12912</cheevosId>
 	</game>
 </gameList>

@@ -1660,21 +1660,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<players>2</players>
 		<favorite>true</favorite>
 	</game>
-	<game>
-		<path>./Everybody's Golf - World Tour.m3u</path>
-		<name>Everybody's Golf - World Tour</name>
-		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
-		<image>./mixart/Everybody's Golf - World Tour.png</image>
-		<video>./snap/Everybody's Golf - World Tour.mp4</video>
-		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./1942 Joint Strike.m3u</path>
 		<name>1942 Joint Strike</name>
@@ -1805,22 +1790,6 @@ The multiplayer portion offers 2 game modes. In Backlot Battle players have to p
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Super Mega Baseball.m3u</path>
-		<name>Super Mega Baseball</name>
-		<desc>Super Mega Baseball is a wonderfully goofy arcade baseball game that harkens back to the days of yore - by which I mean the 1990s. The whole time I was playing it, I couldn’t help but think how much my 10-year-old self would’ve killed for a game like this. It’s simple to pick up and play, it’s extremely fun in small doses, and yet it has a surprising amount of depth if you stick around. But you don’t have to be an ‘80s kid or even a huge baseball fan in order to have fun playing Super Mega Basebal.</desc>
-		<image>./mixart/Super Mega Baseball.png</image>
-		<video>./snap/Super Mega Baseball.mp4</video>
-		<marquee>./wheel/Super Mega Baseball.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20141125T000000</releasedate>
-		<developer>Metalhead Software</developer>
-		<publisher>Metalhead Software</publisher>
-		<genre>Sports, Baseball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super StarDust HD.m3u</path>
 		<name>Super Stardust HD</name>
 		<desc>Super Stardust is an asteroid arcade shooter viewed from above. Super Stardust HD for the PlayStation 3 system is a fully updated version of the classic game Stardust. Your mission is simple: destroy everything in sight! Visit different planets and fend off giant asteroids and waves of enemies by utilizing three upgradeable weapons to save your home solar system from total annihilation. With five highly detailed 3D planets to save, hordes of enemies and asteroids to destroy, and various game play modes, Super Stardust HD presents super intense action.</desc>
@@ -1897,5 +1866,36 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Taito</publisher>
 		<genre>Shoot'em Up</genre>
 		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./Everybody's Golf - World Tour.m3u</path>
+		<name>Everybody's Golf - World Tour</name>
+		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
+		<image>./mixart/Everybody's Golf - World Tour.png</image>
+		<video>./snap/Everybody's Golf - World Tour.mp4</video>
+		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports, Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./Super Mega Baseball.m3u</path>
+		<name>Super Mega Baseball</name>
+		<desc>Super Mega Baseball is a wonderfully goofy arcade baseball game that harkens back to the days of yore - by which I mean the 1990s. The whole time I was playing it, I couldn’t help but think how much my 10-year-old self would’ve killed for a game like this. It’s simple to pick up and play, it’s extremely fun in small doses, and yet it has a surprising amount of depth if you stick around. But you don’t have to be an ‘80s kid or even a huge baseball fan in order to have fun playing Super Mega Basebal.</desc>
+		<image>./mixart/Super Mega Baseball.png</image>
+		<video>./snap/Super Mega Baseball.mp4</video>
+		<marquee>./wheel/Super Mega Baseball.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20141125T000000</releasedate>
+		<developer>Metalhead Software</developer>
+		<publisher>Metalhead Software</publisher>
+		<genre>Sports, Baseball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

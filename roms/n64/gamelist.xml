@@ -1313,23 +1313,6 @@
 		<cheevosId>10459</cheevosId>
 	</game>
 	<game>
-		<path>./Excitebike 64 (USA).n64</path>
-		<name>Excitebike 64</name>
-		<desc>Excitebike 64 is an update to the original Excitebike, for the NES. The outrageous jumps and precision timing required in the original have been translated into a modern 3D racing game.  There are several game modes to choose from. First, there is a season mode with multiple skill levels. Completing a 5-race season in first place unlocks special tracks and more difficult classes. Second, there is a exhibition mode which allows you and up to 3 other people to choose a single track to race on. Third, there is a time trial mode in which you try to get the best times on the 20 tracks.  Finally. there are multiple special tracks. Some of the special tracks include a point-to-point race through the desert, a hill-climb competition, motocross soccer, and a pixel-perfect conversion of the original Excitebike. Excitebike 64 also includes a track editor for building your own competitions.</desc>
-		<image>./mixart/Excitebike 64 (USA).png</image>
-		<video>./snap/Excitebike 64 (USA).mp4</video>
-		<marquee>./wheel/Excitebike 64 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000430T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Left Field Productions</publisher>
-		<genre>Sports-Race, Driving-Race, Driving / Motorcycle</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4A5ECA1D547CB1A36F832F56328F1FD5</cheevosHash>
-	</game>
-	<game>
 		<path>./Extreme-G (USA).n64</path>
 		<name>Extreme-G</name>
 		<desc>Blazingly fast futuristic motor cycle racing. Blast your opponents off the track with laser cannons, homing missiles and an assortment of other weapons, such as mines, bombs and tripwires - all at 300 MPH. Includes championship and multiplayer modes, with a tournament mode for 16 players, over a host of tracks set in four different worlds.</desc>
@@ -2266,24 +2249,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3A99F4F24ADEE8C6E53BCC410FBD35FE</cheevosHash>
-	</game>
-	<game>
-		<path>./Mario Golf (USA).n64</path>
-		<name>Mario Golf 64</name>
-		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
-		<image>./mixart/Mario Golf (USA).png</image>
-		<video>./snap/Mario Golf (USA).mp4</video>
-		<marquee>./wheel/Mario Golf (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19990726T000000</releasedate>
-		<developer>Camelot Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports-Sports / Golf</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>846984C666C35407961C7C069066FC42</cheevosHash>
-		<cheevosId>10259</cheevosId>
 	</game>
 	<game>
 		<path>./Mario Kart 64 (USA).n64</path>
@@ -5156,5 +5121,40 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FB1C4E85F13E95B5154C550A06408808</cheevosHash>
+	</game>
+	<game>
+		<path>./Excitebike 64 (USA).n64</path>
+		<name>Excitebike 64</name>
+		<desc>Excitebike 64 is an update to the original Excitebike, for the NES. The outrageous jumps and precision timing required in the original have been translated into a modern 3D racing game.  There are several game modes to choose from. First, there is a season mode with multiple skill levels. Completing a 5-race season in first place unlocks special tracks and more difficult classes. Second, there is a exhibition mode which allows you and up to 3 other people to choose a single track to race on. Third, there is a time trial mode in which you try to get the best times on the 20 tracks.  Finally. there are multiple special tracks. Some of the special tracks include a point-to-point race through the desert, a hill-climb competition, motocross soccer, and a pixel-perfect conversion of the original Excitebike. Excitebike 64 also includes a track editor for building your own competitions.</desc>
+		<image>./mixart/Excitebike 64 (USA).png</image>
+		<video>./snap/Excitebike 64 (USA).mp4</video>
+		<marquee>./wheel/Excitebike 64 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000430T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Left Field Productions</publisher>
+		<genre>Sports-Race, Driving-Race, Driving / Motorcycle</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4A5ECA1D547CB1A36F832F56328F1FD5</cheevosHash>
+	</game>
+	<game>
+		<path>./Mario Golf (USA).n64</path>
+		<name>Mario Golf 64</name>
+		<desc>Forget buying expensive golf gear--Mario brings the game to you. Mario Golf features four complete 18-hole courses, 11 golfers, and precise play control. Create your own golfer and build up his or her experience and skill levels by competing in various tournaments and head-to-head matches. The more you play, the stronger and more accurate your golfer becomes. There are many different modes of play in Mario Golf, including a wide variety of minigames designed to challenge even the most level-headed swingers.</desc>
+		<image>./mixart/Mario Golf (USA).png</image>
+		<video>./snap/Mario Golf (USA).mp4</video>
+		<marquee>./wheel/Mario Golf (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19990726T000000</releasedate>
+		<developer>Camelot Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports-Sports / Golf</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>846984C666C35407961C7C069066FC42</cheevosHash>
+		<cheevosId>10259</cheevosId>
 	</game>
 </gameList>

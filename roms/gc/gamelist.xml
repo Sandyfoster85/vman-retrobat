@@ -8657,23 +8657,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="5382" source="ScreenScraper.fr">
-		<path>./Backyard Baseball (USA).rvz</path>
-		<name>Backyard Baseball</name>
-		<desc>Major League Baseball pros join the Backyard Kids. Now, for the first time on the Sony PlayStation 2 computer entertainment system, young baseball fans can pick Alex Rodriguez, Alfonso Soriano and 14 other stars, all playing as kids. Choose lineups, team logos, and awesome fields and control every pitch. With outrageous power-ups and surprises, kids can smash homeruns, throw clutch strikeouts and have a one-of-a-kind Backyard Sports experience. Features include all 30 MLB team logos, customizable players, quick, single games and Season Play mode, Home Run Derby mini-game, full stats and standings in Season Play, multiple camera views and instant replay, unlockable fields and special players, tutorial mode, baseball darts and other mini-games.</desc>
-		<image>./mixart/Backyard Baseball (USA).png</image>
-		<video>./snap/Backyard Baseball (USA).mp4</video>
-		<marquee>./wheel/Backyard Baseball (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030409T000000</releasedate>
-		<developer>Humongous</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1536</genreid>
-	</game>
 	<game id="4841" source="ScreenScraper.fr">
 		<path>./Killer 7 (USA) (Disc 2).rvz</path>
 		<name>Killer 7 (Disc 2)</name>
@@ -9030,5 +9013,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<players>2-4</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="5382" source="ScreenScraper.fr">
+		<path>./Backyard Baseball (USA).rvz</path>
+		<name>Backyard Baseball</name>
+		<desc>Major League Baseball pros join the Backyard Kids. Now, for the first time on the Sony PlayStation 2 computer entertainment system, young baseball fans can pick Alex Rodriguez, Alfonso Soriano and 14 other stars, all playing as kids. Choose lineups, team logos, and awesome fields and control every pitch. With outrageous power-ups and surprises, kids can smash homeruns, throw clutch strikeouts and have a one-of-a-kind Backyard Sports experience. Features include all 30 MLB team logos, customizable players, quick, single games and Season Play mode, Home Run Derby mini-game, full stats and standings in Season Play, multiple camera views and instant replay, unlockable fields and special players, tutorial mode, baseball darts and other mini-games.</desc>
+		<image>./mixart/Backyard Baseball (USA).png</image>
+		<video>./snap/Backyard Baseball (USA).mp4</video>
+		<marquee>./wheel/Backyard Baseball (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030409T000000</releasedate>
+		<developer>Humongous</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1536</genreid>
 	</game>
 </gameList>

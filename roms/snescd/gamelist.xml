@@ -444,17 +444,6 @@ As you eliminate evil from different parts of the land, you allow villagers to r
 		<cheevosId>5211</cheevosId>
 	</game>
 	<game source="ScreenScraper">
-		<path>./BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).sfc</path>
-		<name>BS Zelda Ancient Stone Tablets - Week 1 (MSU-1)</name>
-		<image>./mixart/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).png</image>
-		<video>./snap/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).mp4</video>
-		<marquee>./wheel/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).png</marquee>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<lang>en</lang>
-		<cheevosHash>6A77D19812369B3FBB52041B71C768AD</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
 		<path>./BS Zelda Ancient Stone Tablets - Week 2 (MSU-1).smc</path>
 		<name>BS Zelda Ancient Stone Tablets - Week 2 (MSU-1)</name>
 		<image>./mixart/BS Zelda Ancient Stone Tablets - Week 2 (MSU-1).png</image>
@@ -938,22 +927,6 @@ Killer Instinct is known for its heavy combo based fighting system, allowing pla
 		<cheevosId>990</cheevosId>
 	</game>
 	<game>
-		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
-		<name>The Legend of Zelda - A Link to the Past</name>
-		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
-		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
-		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920413T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>632E6BBA4DF3F2E9A459B06BEB2969E8</cheevosHash>
-	</game>
-	<game>
 		<path>./Legend_of_Zelda,_The_-_Parallel_Worlds_(USA)_(MSU1).sfc</path>
 		<name>The Legend of Zelda - Parallel Worlds</name>
 		<desc>The Legend of Zelda: Parallel Worlds is a fan overhaul of The Legend of Zelda: A Link to the Past using new graphics, new music, a new overworld and underworld, and a new storyline.
@@ -1117,24 +1090,6 @@ To win the main tournament, the player must beat each of the other human players
 		<region>us</region>
 		<cheevosHash>23EFA445CC013CAB7906F34F062577C2</cheevosHash>
 		<cheevosId>498</cheevosId>
-	</game>
-	<game id="172350" source="ScreenScraper.fr">
-		<path>./Out_of_this_World_(USA)_(MSU1).sfc</path>
-		<name>Out Of This World</name>
-		<desc>You play Lester, a young physics professor, who suddenly finds himself in a strange alien world after a lightning struck during his particle experiment. Now he must fight for his life, first with his bare hands, then with a gun he finds. But what gives him courage is that he is not alone. One of the aliens, who together with him escapes from the prison, helps him on his dangerous quest. Friendship can overcome all the obstacles.  Out of This World is an action adventure game, where the adventuring element is concealed behind what looks like a typical platform shooter. The gameplay is based mainly on physical and environmental puzzles. There is no on-screen interface, and no in-game dialogue. Each enemy requires a different strategy, and often there is only one way to solve the problem. Typically, enemies will be defeated through the use of a gun you find near the beginning of the game; the gun can be used to create a shield from behind which you can safely fire.   The game is divided into levels, each one of which can be accessed by typing a code you learn after having completed the level. If you die (which is often) you restart the level anew. The game features vector graphics and animated cut scenes.</desc>
-		<image>./mixart/Out_of_this_World_(USA)_(MSU1).png</image>
-		<video>./snap/Out_of_this_World_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Out_of_this_World_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19921101T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Interplay</publisher>
-		<genre>Adventure-Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>ECA6CE2559706E1DDFB23E933818A465</cheevosHash>
-		<cheevosId>1081</cheevosId>
 	</game>
 	<game id="172248" source="ScreenScraper.fr">
 		<path>./Pilotwings_(USA)_(MSU1).sfc</path>
@@ -2018,5 +1973,50 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>us</region>
 		<cheevosHash>8C70E7DE02F2056A646511731B4ECDF4</cheevosHash>
 		<cheevosId>342</cheevosId>
+	</game>
+	<game source="ScreenScraper">
+		<path>./BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).sfc</path>
+		<name>BS Zelda Ancient Stone Tablets - Week 1 (MSU-1)</name>
+		<image>./mixart/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).png</image>
+		<video>./snap/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).mp4</video>
+		<marquee>./wheel/BS Zelda Ancient Stone Tablets - Week 1 (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>6A77D19812369B3FBB52041B71C768AD</cheevosHash>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
+		<name>The Legend of Zelda - A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
+		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>632E6BBA4DF3F2E9A459B06BEB2969E8</cheevosHash>
+	</game>
+	<game id="172350" source="ScreenScraper.fr">
+		<path>./Out_of_this_World_(USA)_(MSU1).sfc</path>
+		<name>Out Of This World</name>
+		<desc>You play Lester, a young physics professor, who suddenly finds himself in a strange alien world after a lightning struck during his particle experiment. Now he must fight for his life, first with his bare hands, then with a gun he finds. But what gives him courage is that he is not alone. One of the aliens, who together with him escapes from the prison, helps him on his dangerous quest. Friendship can overcome all the obstacles.  Out of This World is an action adventure game, where the adventuring element is concealed behind what looks like a typical platform shooter. The gameplay is based mainly on physical and environmental puzzles. There is no on-screen interface, and no in-game dialogue. Each enemy requires a different strategy, and often there is only one way to solve the problem. Typically, enemies will be defeated through the use of a gun you find near the beginning of the game; the gun can be used to create a shield from behind which you can safely fire.   The game is divided into levels, each one of which can be accessed by typing a code you learn after having completed the level. If you die (which is often) you restart the level anew. The game features vector graphics and animated cut scenes.</desc>
+		<image>./mixart/Out_of_this_World_(USA)_(MSU1).png</image>
+		<video>./snap/Out_of_this_World_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Out_of_this_World_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19921101T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Interplay</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>ECA6CE2559706E1DDFB23E933818A465</cheevosHash>
+		<cheevosId>1081</cheevosId>
 	</game>
 </gameList>

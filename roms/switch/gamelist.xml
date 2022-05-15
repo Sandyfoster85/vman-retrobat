@@ -848,22 +848,6 @@ Start now your speedway adventure through countries like every speedway-fan shou
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sports and Adventure Pinball.nsp</path>
-		<name>Sports and Adventure Pinball</name>
-		<desc>This pack includes the games: World Soccer Pinball, Touchdown Pinball, Basketball Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.</desc>
-		<image>./mixart/Sports and Adventure Pinball.jpg</image>
-		<video>./snap/Sports and Adventure Pinball.mp4</video>
-		<marquee>./wheel/Sports and Adventure Pinball.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Super PowerUp</developer>
-		<publisher>Super PowerUp</publisher>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Startide.xci</path>
 		<name>Startide</name>
 		<desc>Play as an elite pilot driving the Interstellar Recon Mecha geared with a unique set of weapons and special abilities. Choose your favorite fighter and face the procedurally generated enemy fleet.</desc>
@@ -1138,5 +1122,21 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>1538</genreid>
+	</game>
+	<game>
+		<path>./Sports and Adventure Pinball.nsp</path>
+		<name>Sports and Adventure Pinball</name>
+		<desc>This pack includes the games: World Soccer Pinball, Touchdown Pinball, Basketball Pinball, Dragon Pinball, Pirates Pinball and Titan Pinball.</desc>
+		<image>./mixart/Sports and Adventure Pinball.jpg</image>
+		<video>./snap/Sports and Adventure Pinball.mp4</video>
+		<marquee>./wheel/Sports and Adventure Pinball.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Super PowerUp</developer>
+		<publisher>Super PowerUp</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -1203,22 +1203,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
-		<name>Blade Runner ULTIMATE Pro 1.04</name>
-		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
-		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
-		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
-		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Robocop ULTIMATE Pro 1.03.fpt</path>
 		<name>Robocop ULTIMATE Pro 1.03</name>
 		<desc>Flipper Robocop ULTIMATE Pro 1.03</desc>
@@ -2142,16 +2126,6 @@
 		<image>./mixart/BUGS BUNNYS BIRTHDAY BALL.png</image>
 		<video>./snap/BUGS BUNNYS BIRTHDAY BALL.mp4</video>
 		<marquee>./wheel/BUGS BUNNYS BIRTHDAY BALL.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./castlevania VAMPIRE RISING.fpt</path>
-		<name>castlevania VAMPIRE RISING</name>
-		<desc>Flipper Castlevania VAMPIRE RISING</desc>
-		<image>./mixart/castlevania VAMPIRE RISING.png</image>
-		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
-		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
 		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
 	</game>
@@ -3378,22 +3352,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Lara_v09.fpt</path>
-		<name>Lara Croft</name>
-		<desc>Flipper Lara Croft Tomb Raider</desc>
-		<image>./mixart/Lara_v09.png</image>
-		<video>./snap/Lara_v09.mp4</video>
-		<marquee>./wheel/Lara_v09.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Little Queen.fpt</path>
 		<name>Little Queen</name>
 		<desc>Flipper Little Queen</desc>
@@ -4525,6 +4483,64 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman (Atari 1979) Full HD.fpt</path>
+		<name>Superman (Atari 1979) HD</name>
+		<desc>Flipper Superman (Atari 1979) Full HD</desc>
+		<image>./mixart/Superman (Atari 1979) Full HD.png</image>
+		<video>./snap/Superman (Atari 1979) Full HD.mp4</video>
+		<marquee>./wheel/Superman (Atari 1979) Full HD.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lara_v09.fpt</path>
+		<name>Lara Croft</name>
+		<desc>Flipper Lara Croft Tomb Raider</desc>
+		<image>./mixart/Lara_v09.png</image>
+		<video>./snap/Lara_v09.mp4</video>
+		<marquee>./wheel/Lara_v09.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./castlevania VAMPIRE RISING.fpt</path>
+		<name>castlevania VAMPIRE RISING</name>
+		<desc>Flipper Castlevania VAMPIRE RISING</desc>
+		<image>./mixart/castlevania VAMPIRE RISING.png</image>
+		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
+		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 		<lang>en</lang>
 	</game>
 </gameList>

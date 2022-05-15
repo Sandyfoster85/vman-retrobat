@@ -29821,25 +29821,6 @@ The game has two modules: the Melee, in which you can simply blast the computer 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Stardust_v1.5_2102.lha</path>
-		<name>Stardust</name>
-		<desc>Stardust is basically Asteroids, but with a lot of gameplay modifications. There are 30 standard levels split into 5 worlds. The 6 levels a world is made of can be completed in any order. However, you must fight an end-of-level bad guy once you have finished the 6th level of a world. While each level has the standard disintegrating rocks to destroy, all but 2 of them have extra bad guys, with a range of attack patterns.
-
-There are a number of different weapons available, which are collected by moving your ship so that it crosses their paths as they float through space. Each of these can be powered up - some weapons start strong but can't be powered up as much as others; fortunately you can power up one weapon while using another. Extra lives, shield enhancements and a smart bomb are also on offer. 
-
-Along with the standard levels, there are also 4 tunnel levels, which involve shooting what you can and dodging everything else as you dart through a ray-traced 3D tunnel, and 2 optional Thrust-style bonus levels in which lives can be won or lost.</desc>
-		<image>./mixart/Stardust_v1.5_2102.png</image>
-		<video>./snap/Stardust_v1.5_2102.mp4</video>
-		<marquee>./wheel/Stardust_v1.5_2102.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Bloodhouse Ltd.</developer>
-		<publisher>Bloodhouse Ltd.</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Starflight_v1.0_0855.lha</path>
 		<name>Starflight</name>
 		<desc>A long time ago, a great empire comprised of Humans, Velox, Thrynn and Elowan ruled the stars. The Empire's currency was an energy source called Endurium. But something happened and this empire is no more. Furthermore, the small colony world named Arth has forgotten this heritage and technology. 1000 years have since passed and the people of Arth have rediscovered archaeological evidence of their empire. Using these discoveries, they create spaceships and form the Interstel corporation to govern the fleet. It's time to take the first steps back into space... but could it be the same enemy that destroyed the Empire still exists?
@@ -38636,6 +38617,25 @@ The action is viewed from immediately behind you, showing a world of pathways an
 		<developer>Graftgold</developer>
 		<publisher>MicroStyle</publisher>
 		<genre>3d, Behind, Cockpit, Intoscreen, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stardust_v1.5_2102.lha</path>
+		<name>Stardust</name>
+		<desc>Stardust is basically Asteroids, but with a lot of gameplay modifications. There are 30 standard levels split into 5 worlds. The 6 levels a world is made of can be completed in any order. However, you must fight an end-of-level bad guy once you have finished the 6th level of a world. While each level has the standard disintegrating rocks to destroy, all but 2 of them have extra bad guys, with a range of attack patterns.
+
+There are a number of different weapons available, which are collected by moving your ship so that it crosses their paths as they float through space. Each of these can be powered up - some weapons start strong but can't be powered up as much as others; fortunately you can power up one weapon while using another. Extra lives, shield enhancements and a smart bomb are also on offer. 
+
+Along with the standard levels, there are also 4 tunnel levels, which involve shooting what you can and dodging everything else as you dart through a ray-traced 3D tunnel, and 2 optional Thrust-style bonus levels in which lives can be won or lost.</desc>
+		<image>./mixart/Stardust_v1.5_2102.png</image>
+		<video>./snap/Stardust_v1.5_2102.mp4</video>
+		<marquee>./wheel/Stardust_v1.5_2102.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Bloodhouse Ltd.</developer>
+		<publisher>Bloodhouse Ltd.</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

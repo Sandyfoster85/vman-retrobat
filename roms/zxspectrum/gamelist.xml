@@ -12,199 +12,6 @@
 		<rating>0</rating>
 		<releasedate>19700101T000000</releasedate>
 	</game>
-	<game>
-		<path>./3D Starfighter (Europe).tzx</path>
-		<name>3D Starfighter</name>
-		<desc>3D Starfighter is a 3D shoot-'em-up where you must using a set of cross hairs shoot the rapidly approaching enemy craft, before they career into you and drain your shields. Use your lasers sparingly, for they also drain your energy.
-
-The player is in the role a special agent whose mission is to deliver the Complete Hostile Alien Obliteration System (CHAOS) weapon to the population of a distant planet overrun by hostile aliens. Clear each space zone of hostiles before you encounter the ultimate goal to destroy the enemy Battlestar.</desc>
-		<emulator>libretro</emulator>
-		<core>fuse</core>
-		<image>./mixart/3D Starfighter (Europe).png</image>
-		<video>./snap/3D Starfighter (Europe).mp4</video>
-		<marquee>./wheel/3D Starfighter (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>The Oliver Twins, Mervin James, James Wilson, Jon Paul Eldridge</developer>
-		<publisher>Codemasters</publisher>
-		<players>2</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./3D Starstrike (Europe).tzx</path>
-		<name>3D Starstrike</name>
-		<desc>The Outsiders have attacked the Earth Federation, laying waste to its defense fleets. In desperation, Federation Command sends the new Starstrike space fighters to attack the Outsiders's main bases (which are converted moons), hoping to exploit a fatal flaw in the design: a direct hit to the reactor at the center of the base might lead to its destruction.
-
-Both regarding graphics and gameplay, 3D Starstrike is essentially a clone of Atari's Star Wars. Using wireframe graphics with a first-person perspective, the player controls the Starstrike fighter in several distinct phases: the first phase is the approach to the enemy base, where Outsider space fighters must be destroyed. The second phase takes place close to the surface of the base, where enemy bunkers and laser towers await. The third phase is a trench run, where gun turrets await at the side of the trench, and catwalks blocking the way must be dogded. The run culminates in the reactor room, where two reactor pods must be hit to destroy the base.
-
-After a base is destroyed, the game continues with a new base in the next level, with later levels having a higher difficulty.</desc>
-		<image>./mixart/3D Starstrike (Europe).png</image>
-		<video>./snap/3D Starstrike (Europe).mp4</video>
-		<marquee>./wheel/3D Starstrike (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Realtime Games Software Ltd.</developer>
-		<publisher>Realtime Games Software Ltd.</publisher>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Alien (1984)(Argus Press Software).tzx</path>
-		<name>Alien</name>
-		<desc>"In space no-one can hear you scream."
-That tagline from the movie is apt for this strategy adaptation that follows the plotline of the first movie in the franchise. The action starts after the chestburster scene which unleashes an alien organism into their enclosed spaceship.  The remaining crew members must attempt to destroy it while the traitorous android tries to protect the alien.  
-
-There are 3 decks to search with 35 different rooms which are connected by ducts which the alien can use to sneak up on people.  You can herd the alien into an airlock to blast it out into space, or set the auto-destruct on the ship and flee in the shuttle with all remaining live crew members plus Jones the cat who must be found and put in a box.
-
-The screen shows you a plan of the deck you are on, and the ducts in the immediate area.  There are trackers and sensors which can be used to pinpoint movement in other areas.  In ordering each crew member, you are given possible movements or other actions such as picking up weapons, entering the ducts or catching the cat. In certain situations, special options will appear such as starting the self-destruct system when in the command centre. The responses to orders are also affected by the personality of the crew member, and how much they have had to suffer. 
-
-The screen also displays reports on the condition of the crew member youve selected, whether there is any damage to the room youre in and whether the duct grills are open (meaning the Alien has been through there). You also get the occasional message from the ship's computer Mother like when a crew member dies.  Sound effects create suspense. At times you hear the alien move around or doors and grills being opened as well as the blip from the tracker.</desc>
-		<image>./mixart/Alien (1984)(Argus Press Software).png</image>
-		<video>./snap/Alien (1984)(Argus Press Software).mp4</video>
-		<marquee>./wheel/Alien (1984)(Argus Press Software).png</marquee>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Concept Software Ltd.</developer>
-		<publisher>Argus Press</publisher>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="44583" source="ScreenScraper.fr">
-		<path>./Ant Attack (Europe).tzx</path>
-		<name>Ant Attack</name>
-		<desc>An early isometric game that predates Ultimate's classic Knight Lore by a year. Used what it called the "softsolid 3d" algorithm to represent a large scrolling city from a switchable isometric perspective. The city, identified in the inlay blurb as Antescher, a combination of Ant and Escher, the famous visual paradox artist, is teeming with deadly giant ants. The player controls a boy or a girl and races around the city trying to find his/her lost half while jumping on structures to avoid the ants, or fighting the insects by either jumping on them or throwing grenades.
-
-Ant Attack, like most games of its time, was created almost solely by a single programmer, who also designed the graphics and sound. This game had a unique visual appeal in a time before isometric action-adventures became all the rage.</desc>
-		<image>./mixart/Ant Attack (Europe).png</image>
-		<video>./snap/Ant Attack (Europe).mp4</video>
-		<marquee>./wheel/Ant Attack (Europe).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Quicksilva Ltd.</developer>
-		<publisher>Quicksilva Ltd.</publisher>
-		<players>1</players>
-		<crc32>F6BA8828</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Arkanoid (Europe).tzx</path>
-		<name>Arkanoid</name>
-		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
-
-The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
-
-By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the ball.... sorry, bolt.... down. Needless to say, the game inspired tonnes of clones, few of which added anything else.</desc>
-		<image>./mixart/Arkanoid (Europe).png</image>
-		<video>./snap/Arkanoid (Europe).mp4</video>
-		<marquee>./wheel/Arkanoid (Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Imagine</publisher>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="44600" source="ScreenScraper.fr">
-		<path>./Arkanoid II - Revenge of Doh (Europe).tzx</path>
-		<name>Arkanoid II: Revenge of Doh</name>
-		<desc>Revenge of Doh is a direct sequel to the original arcade smash Arkanoid. Along with improved graphic engine, better sound and music, better hardware support and more levels, Revenge of Doh also features a built-in editor and allows you to create your own level sets!
-
-Revenge of Doh continues Arkanoid's plot as follows, directly taken (including typoes) from the game:
-
-A long time period passed and the dimension controlling force Doh has again come back to life. Occupying the huge starship Xorg, it has entered our universe from a different dimension. Mixtec, Arkanoid type spaceship, has lauched the craft Vaus II to make a preemptive attack on Xorg.</desc>
-		<image>./mixart/Arkanoid II - Revenge of Doh (Europe).png</image>
-		<video>./snap/Arkanoid II - Revenge of Doh (Europe).mp4</video>
-		<marquee>./wheel/Arkanoid II - Revenge of Doh (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Imagine Software</publisher>
-		<players>1</players>
-		<crc32>3E3A0B62</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="44606" source="ScreenScraper.fr">
-		<path>./Asterix and the Magic Cauldron (Europe).tzx</path>
-		<name>Asterix and the Magic Cauldron</name>
-		<desc>Goscinny and Uderzos cartoon characters are from the only Gaullish village in 50BC able to resist the Roman invasion. They can do this due to Getafix the druids magic potion, however the cauldron used to make this has been smashed into several pieces. Can brave Asterix and overweight Obelix find the pieces?
-
-In this arcade adventure, it all comes down to you. The fifty screens you must explore take in your home village, a Roman encampment, and the forests in between. You have five pieces of wild boar, and these are used as you become hungry. 
-
-Contact with wild boars or Roman soldiers triggers a one-on-one fight with punches and kicks. Defeating a boar earns you another piece of food, to restore energy once all lives are gone. Some sections are blocked until you collect their keys.
-
-In the US version the character Asterix was replaced by a barbarian and the game's title was changed to Ardok the Barbarian.</desc>
-		<image>./mixart/Asterix and the Magic Cauldron (Europe).png</image>
-		<video>./snap/Asterix and the Magic Cauldron (Europe).mp4</video>
-		<marquee>./wheel/Asterix and the Magic Cauldron (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Beam Software Pty., Ltd.</developer>
-		<publisher>Melbourne House</publisher>
-		<players>1</players>
-		<crc32>027D7533</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="132796" source="ScreenScraper.fr">
-		<path>./Astro Blaster (Europe).tzx</path>
-		<name>Astro Blaster</name>
-		<image>./mixart/Astro Blaster (Europe).png</image>
-		<video>./snap/Astro Blaster (Europe).mp4</video>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>John Edwards, Glenn Flood</developer>
-		<publisher>Quicksilva</publisher>
-		<players>1</players>
-		<crc32>5296C1BF</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Astroball (Europe).tzx</path>
-		<name>Astroball</name>
-		<image>./mixart/Astroball (Europe).png</image>
-		<video>./snap/Astroball (Europe).mp4</video>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Revelation Software (Balor Knight, Chris Pile, Jade Lucas)</developer>
-		<publisher>Digital Reality</publisher>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="44611" source="ScreenScraper.fr">
-		<path>./Atic Atac (1983)(Ultimate).tzx</path>
-		<name>Atic Atac</name>
-		<desc>As the game begins, you fall through a trapdoor and end up inside an evil castle with only one way to get out of it - find all the pieces of the great ACG key that lets you unlock the main door.
-
-Many problems lie on your way to freedom, however - not only is the castle pretty big and spread out over several floors, it is also littered with enemies that must be avoided or dispensed of. For some doors, you need keys to open them.
-
-This game pioneered in several ways - the mix of fast-paced action and exploration of the large castle with little "puzzles" was innovative at that time, and you got to choose a character class, each one with its own weapon and skills - each class had different secret routes and shortcuts through the castle.</desc>
-		<image>./mixart/Atic Atac (1983)(Ultimate).png</image>
-		<video>./snap/Atic Atac (1983)(Ultimate).mp4</video>
-		<marquee>./wheel/Atic Atac (1983)(Ultimate).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Ashby Computers and Graphics Ltd.</developer>
-		<publisher>Ashby Computers and Graphics Ltd.</publisher>
-		<players>1</players>
-		<crc32>28B3AD66</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="44615" source="ScreenScraper.fr">
-		<path>./Auf Wiedersehen Monty (Europe).tzx</path>
-		<name>Auf Wiedersehen Monty</name>
-		<desc>In Monty On the Run the intrepid coal thief Monty Mole fled to the rocky island of Gibraltar. However, the Intermole agency is on to him, and his only hope of escape is to trek across Europe, collecting enough cash to buy the Greek island of Montoss and live there in luxury.
-
-This is Monty's third game, and the structure is similar to the previous two. It's platform and ladders based, with 80 screens each representing some area of Europe - the Eiffel Tower and the Leaning Tower of Pisa are among the identifiable landmarks. 
-
-There are different ways of travelling through the levels - some bouncy platforms coupled with a new super-leap move allow for big progress to be made, while Monty can also suspend from the ceilings and dodge his way across. Monty can now fall without being hurt, although landing on water can cause multiple lives to be lost in quick succession.
-
-There are many items to collect  - the most important are Eurocheques for money and airplane tickets. Once on a plane you must fight off the encroaching Intermole planes for extra points.</desc>
-		<image>./mixart/Auf Wiedersehen Monty (Europe).png</image>
-		<video>./snap/Auf Wiedersehen Monty (Europe).mp4</video>
-		<marquee>./wheel/Auf Wiedersehen Monty (Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Gremlin</developer>
-		<publisher>Gremlin Graphics</publisher>
-		<players>1</players>
-		<crc32>D78472BA</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="134251" source="ScreenScraper.fr">
 		<path>./Avalon (Europe).tzx</path>
 		<name>Avalon</name>
@@ -3108,6 +2915,219 @@ You have an energy bar which decreases constantly, and contact with the ants, sp
 		<publisher>Firebird Software</publisher>
 		<players>2</players>
 		<crc32>8B5D0E1F</crc32>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./3D Starfighter (Europe).tzx</path>
+		<name>3D Starfighter</name>
+		<desc>3D Starfighter is a 3D shoot-'em-up where you must using a set of cross hairs shoot the rapidly approaching enemy craft, before they career into you and drain your shields. Use your lasers sparingly, for they also drain your energy.
+
+The player is in the role a special agent whose mission is to deliver the Complete Hostile Alien Obliteration System (CHAOS) weapon to the population of a distant planet overrun by hostile aliens. Clear each space zone of hostiles before you encounter the ultimate goal to destroy the enemy Battlestar.</desc>
+		<emulator>libretro</emulator>
+		<core>fuse</core>
+		<image>./mixart/3D Starfighter (Europe).png</image>
+		<video>./snap/3D Starfighter (Europe).mp4</video>
+		<marquee>./wheel/3D Starfighter (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>The Oliver Twins, Mervin James, James Wilson, Jon Paul Eldridge</developer>
+		<publisher>Codemasters</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./3D Starstrike (Europe).tzx</path>
+		<name>3D Starstrike</name>
+		<desc>The Outsiders have attacked the Earth Federation, laying waste to its defense fleets. In desperation, Federation Command sends the new Starstrike space fighters to attack the Outsiders's main bases (which are converted moons), hoping to exploit a fatal flaw in the design: a direct hit to the reactor at the center of the base might lead to its destruction.
+
+Both regarding graphics and gameplay, 3D Starstrike is essentially a clone of Atari's Star Wars. Using wireframe graphics with a first-person perspective, the player controls the Starstrike fighter in several distinct phases: the first phase is the approach to the enemy base, where Outsider space fighters must be destroyed. The second phase takes place close to the surface of the base, where enemy bunkers and laser towers await. The third phase is a trench run, where gun turrets await at the side of the trench, and catwalks blocking the way must be dogded. The run culminates in the reactor room, where two reactor pods must be hit to destroy the base.
+
+After a base is destroyed, the game continues with a new base in the next level, with later levels having a higher difficulty.</desc>
+		<image>./mixart/3D Starstrike (Europe).png</image>
+		<video>./snap/3D Starstrike (Europe).mp4</video>
+		<marquee>./wheel/3D Starstrike (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Realtime Games Software Ltd.</developer>
+		<publisher>Realtime Games Software Ltd.</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Alien (1984)(Argus Press Software).tzx</path>
+		<name>Alien</name>
+		<desc>"In space no-one can hear you scream."
+That tagline from the movie is apt for this strategy adaptation that follows the plotline of the first movie in the franchise. The action starts after the chestburster scene which unleashes an alien organism into their enclosed spaceship.  The remaining crew members must attempt to destroy it while the traitorous android tries to protect the alien.  
+
+There are 3 decks to search with 35 different rooms which are connected by ducts which the alien can use to sneak up on people.  You can herd the alien into an airlock to blast it out into space, or set the auto-destruct on the ship and flee in the shuttle with all remaining live crew members plus Jones the cat who must be found and put in a box.
+
+The screen shows you a plan of the deck you are on, and the ducts in the immediate area.  There are trackers and sensors which can be used to pinpoint movement in other areas.  In ordering each crew member, you are given possible movements or other actions such as picking up weapons, entering the ducts or catching the cat. In certain situations, special options will appear such as starting the self-destruct system when in the command centre. The responses to orders are also affected by the personality of the crew member, and how much they have had to suffer. 
+
+The screen also displays reports on the condition of the crew member youve selected, whether there is any damage to the room youre in and whether the duct grills are open (meaning the Alien has been through there). You also get the occasional message from the ship's computer Mother like when a crew member dies.  Sound effects create suspense. At times you hear the alien move around or doors and grills being opened as well as the blip from the tracker.</desc>
+		<image>./mixart/Alien (1984)(Argus Press Software).png</image>
+		<video>./snap/Alien (1984)(Argus Press Software).mp4</video>
+		<marquee>./wheel/Alien (1984)(Argus Press Software).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Concept Software Ltd.</developer>
+		<publisher>Argus Press</publisher>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="44583" source="ScreenScraper.fr">
+		<path>./Ant Attack (Europe).tzx</path>
+		<name>Ant Attack</name>
+		<desc>An early isometric game that predates Ultimate's classic Knight Lore by a year. Used what it called the "softsolid 3d" algorithm to represent a large scrolling city from a switchable isometric perspective. The city, identified in the inlay blurb as Antescher, a combination of Ant and Escher, the famous visual paradox artist, is teeming with deadly giant ants. The player controls a boy or a girl and races around the city trying to find his/her lost half while jumping on structures to avoid the ants, or fighting the insects by either jumping on them or throwing grenades.
+
+Ant Attack, like most games of its time, was created almost solely by a single programmer, who also designed the graphics and sound. This game had a unique visual appeal in a time before isometric action-adventures became all the rage.</desc>
+		<image>./mixart/Ant Attack (Europe).png</image>
+		<video>./snap/Ant Attack (Europe).mp4</video>
+		<marquee>./wheel/Ant Attack (Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Quicksilva Ltd.</developer>
+		<publisher>Quicksilva Ltd.</publisher>
+		<players>1</players>
+		<crc32>F6BA8828</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Arkanoid (Europe).tzx</path>
+		<name>Arkanoid</name>
+		<desc>The original Breakout concept involves controlling a bat at the bottom of the screen and using it to catch and direct a ball so as to hit all the bricks which are arranged at the top of the screen. It was unpopular for over a decade, before Taito revived it with some new ideas in this arcade game.
+
+The game's plot redefines the bat as a Vaus spaceship, the ball as an energy bolt, and the bricks form a mysterious wall stopping the ship from progressing to safety.
+
+By the mid-80s, power-ups were popular in most types of arcade games, and Arkanoid features them. They are caught by positioning the bat below them as they fall (meaning that you risk missing the ball if you go for them at the wrong time). The power-ups include lasers (which are mounted to each side of the ship and allow you to shoot out the blocks), a catching device (so as to be able to fire the ball off at a different angle every time you hit it) and one that slows the ball.... sorry, bolt.... down. Needless to say, the game inspired tonnes of clones, few of which added anything else.</desc>
+		<image>./mixart/Arkanoid (Europe).png</image>
+		<video>./snap/Arkanoid (Europe).mp4</video>
+		<marquee>./wheel/Arkanoid (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Imagine</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="44600" source="ScreenScraper.fr">
+		<path>./Arkanoid II - Revenge of Doh (Europe).tzx</path>
+		<name>Arkanoid II: Revenge of Doh</name>
+		<desc>Revenge of Doh is a direct sequel to the original arcade smash Arkanoid. Along with improved graphic engine, better sound and music, better hardware support and more levels, Revenge of Doh also features a built-in editor and allows you to create your own level sets!
+
+Revenge of Doh continues Arkanoid's plot as follows, directly taken (including typoes) from the game:
+
+A long time period passed and the dimension controlling force Doh has again come back to life. Occupying the huge starship Xorg, it has entered our universe from a different dimension. Mixtec, Arkanoid type spaceship, has lauched the craft Vaus II to make a preemptive attack on Xorg.</desc>
+		<image>./mixart/Arkanoid II - Revenge of Doh (Europe).png</image>
+		<video>./snap/Arkanoid II - Revenge of Doh (Europe).mp4</video>
+		<marquee>./wheel/Arkanoid II - Revenge of Doh (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Imagine Software</publisher>
+		<players>1</players>
+		<crc32>3E3A0B62</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="44606" source="ScreenScraper.fr">
+		<path>./Asterix and the Magic Cauldron (Europe).tzx</path>
+		<name>Asterix and the Magic Cauldron</name>
+		<desc>Goscinny and Uderzos cartoon characters are from the only Gaullish village in 50BC able to resist the Roman invasion. They can do this due to Getafix the druids magic potion, however the cauldron used to make this has been smashed into several pieces. Can brave Asterix and overweight Obelix find the pieces?
+
+In this arcade adventure, it all comes down to you. The fifty screens you must explore take in your home village, a Roman encampment, and the forests in between. You have five pieces of wild boar, and these are used as you become hungry. 
+
+Contact with wild boars or Roman soldiers triggers a one-on-one fight with punches and kicks. Defeating a boar earns you another piece of food, to restore energy once all lives are gone. Some sections are blocked until you collect their keys.
+
+In the US version the character Asterix was replaced by a barbarian and the game's title was changed to Ardok the Barbarian.</desc>
+		<image>./mixart/Asterix and the Magic Cauldron (Europe).png</image>
+		<video>./snap/Asterix and the Magic Cauldron (Europe).mp4</video>
+		<marquee>./wheel/Asterix and the Magic Cauldron (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Beam Software Pty., Ltd.</developer>
+		<publisher>Melbourne House</publisher>
+		<players>1</players>
+		<crc32>027D7533</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="132796" source="ScreenScraper.fr">
+		<path>./Astro Blaster (Europe).tzx</path>
+		<name>Astro Blaster</name>
+		<image>./mixart/Astro Blaster (Europe).png</image>
+		<video>./snap/Astro Blaster (Europe).mp4</video>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>John Edwards, Glenn Flood</developer>
+		<publisher>Quicksilva</publisher>
+		<players>1</players>
+		<crc32>5296C1BF</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Astroball (Europe).tzx</path>
+		<name>Astroball</name>
+		<image>./mixart/Astroball (Europe).png</image>
+		<video>./snap/Astroball (Europe).mp4</video>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Revelation Software (Balor Knight, Chris Pile, Jade Lucas)</developer>
+		<publisher>Digital Reality</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="44611" source="ScreenScraper.fr">
+		<path>./Atic Atac (1983)(Ultimate).tzx</path>
+		<name>Atic Atac</name>
+		<desc>As the game begins, you fall through a trapdoor and end up inside an evil castle with only one way to get out of it - find all the pieces of the great ACG key that lets you unlock the main door.
+
+Many problems lie on your way to freedom, however - not only is the castle pretty big and spread out over several floors, it is also littered with enemies that must be avoided or dispensed of. For some doors, you need keys to open them.
+
+This game pioneered in several ways - the mix of fast-paced action and exploration of the large castle with little "puzzles" was innovative at that time, and you got to choose a character class, each one with its own weapon and skills - each class had different secret routes and shortcuts through the castle.</desc>
+		<image>./mixart/Atic Atac (1983)(Ultimate).png</image>
+		<video>./snap/Atic Atac (1983)(Ultimate).mp4</video>
+		<marquee>./wheel/Atic Atac (1983)(Ultimate).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Ashby Computers and Graphics Ltd.</developer>
+		<publisher>Ashby Computers and Graphics Ltd.</publisher>
+		<players>1</players>
+		<crc32>28B3AD66</crc32>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="44615" source="ScreenScraper.fr">
+		<path>./Auf Wiedersehen Monty (Europe).tzx</path>
+		<name>Auf Wiedersehen Monty</name>
+		<desc>In Monty On the Run the intrepid coal thief Monty Mole fled to the rocky island of Gibraltar. However, the Intermole agency is on to him, and his only hope of escape is to trek across Europe, collecting enough cash to buy the Greek island of Montoss and live there in luxury.
+
+This is Monty's third game, and the structure is similar to the previous two. It's platform and ladders based, with 80 screens each representing some area of Europe - the Eiffel Tower and the Leaning Tower of Pisa are among the identifiable landmarks. 
+
+There are different ways of travelling through the levels - some bouncy platforms coupled with a new super-leap move allow for big progress to be made, while Monty can also suspend from the ceilings and dodge his way across. Monty can now fall without being hurt, although landing on water can cause multiple lives to be lost in quick succession.
+
+There are many items to collect  - the most important are Eurocheques for money and airplane tickets. Once on a plane you must fight off the encroaching Intermole planes for extra points.</desc>
+		<image>./mixart/Auf Wiedersehen Monty (Europe).png</image>
+		<video>./snap/Auf Wiedersehen Monty (Europe).mp4</video>
+		<marquee>./wheel/Auf Wiedersehen Monty (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Gremlin</developer>
+		<publisher>Gremlin Graphics</publisher>
+		<players>1</players>
+		<crc32>D78472BA</crc32>
+		<lang>en</lang>
+		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

@@ -1520,19 +1520,6 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<cheevosHash>E8E11C2EB60CECBCFCC9547CF85003F7</cheevosHash>
 	</game>
 	<game>
-		<path>./Zaxxon (USA, Europe).zip</path>
-		<name>Zaxxon</name>
-		<desc>This fantastic 3-dimensional space battle game puts you in control of a futuristic spaceship! Your ship zooms over an alien asteroid, and dives down to attack the enemy's installations. Your ship must avoid hazardous walls, enemy fire, and other unforeseen dangers! Can you survive and score?</desc>
-		<image>./mixart/Zaxxon (USA, Europe).png</image>
-		<video>./snap/Zaxxon (USA, Europe).mp4</video>
-		<marquee>./wheel/Zaxxon (USA, Europe).png</marquee>
-		<releasedate>19820601T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<cheevosHash>7C677F80C4EE957559D7ABEBD8EE1BE1</cheevosHash>
-		<cheevosId>14076</cheevosId>
-	</game>
-	<game>
 		<path>./Zenji (USA).zip</path>
 		<name>Zenji</name>
 		<desc>Zenji is an action/strategy game where you control a rolling face throughout a maze. Each section of the maze can be rotated by the face. The goal is to turn the entire maze green by connecting each section of the maze to the source at the center of the screen. After all sections of the maze have been connected, you can move on to the next, more challenging level. In addition to having a time limit to complete your task, you need to avoid the flames and sparks which wander about the maze. From time to time a number will appear in a maze section and count down from 9 to 0. If you touch the number before it disappears, bonus points are earned. As the levels progress, the mazes become larger, trickier and more flames will appear.</desc>
@@ -1587,5 +1574,18 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<players>2</players>
 		<cheevosHash>613A3E457758E274A0E0819FF6AA2D43</cheevosHash>
 		<cheevosId>14068</cheevosId>
+	</game>
+	<game>
+		<path>./Zaxxon (USA, Europe).zip</path>
+		<name>Zaxxon</name>
+		<desc>This fantastic 3-dimensional space battle game puts you in control of a futuristic spaceship! Your ship zooms over an alien asteroid, and dives down to attack the enemy's installations. Your ship must avoid hazardous walls, enemy fire, and other unforeseen dangers! Can you survive and score?</desc>
+		<image>./mixart/Zaxxon (USA, Europe).png</image>
+		<video>./snap/Zaxxon (USA, Europe).mp4</video>
+		<marquee>./wheel/Zaxxon (USA, Europe).png</marquee>
+		<releasedate>19820601T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<cheevosHash>7C677F80C4EE957559D7ABEBD8EE1BE1</cheevosHash>
+		<cheevosId>14076</cheevosId>
 	</game>
 </gameList>
