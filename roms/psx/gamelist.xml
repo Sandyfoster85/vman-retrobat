@@ -4051,24 +4051,6 @@ This game plays very much like any old platform game on the NES (specifically, i
 		<cheevosHash>B4879033E6C8BF5F1BEDE04E1377DFAA</cheevosHash>
 		<cheevosId>14414</cheevosId>
 	</game>
-	<game>
-		<path>./Chocobo Racing (USA).chd</path>
-		<name>Chocobo Racing</name>
-		<desc>The Chocobo has appeared in every Final Fantasy game as a large yellow bird that you can ride to other destinations or use during fights. With Chocobo Racing, you can race a Chocobo along with a range of different characters both from the Final Fantasy world and created just for the game through many different fantasy worlds at high speed, using a selection of weapons to aid you. 1 and 2 player racing available.</desc>
-		<image>./mixart/Chocobo Racing (USA).png</image>
-		<video>./snap/Chocobo Racing (USA).mp4</video>
-		<marquee>./wheel/Chocobo Racing (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19991102T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DBDDD86CDA9D33AD59AC62955D1B7871</cheevosHash>
-		<cheevosId>11352</cheevosId>
-	</game>
 	<game id="20081" source="ScreenScraper.fr">
 		<path>./Chocobo's Dungeon 2 (USA).chd</path>
 		<name>Chocobo's Dungeon 2</name>
@@ -21488,5 +21470,23 @@ There are a variety of modes including a career mode where the player can compet
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
+	</game>
+	<game>
+		<path>./Chocobo Racing (USA).chd</path>
+		<name>Chocobo Racing</name>
+		<desc>The Chocobo has appeared in every Final Fantasy game as a large yellow bird that you can ride to other destinations or use during fights. With Chocobo Racing, you can race a Chocobo along with a range of different characters both from the Final Fantasy world and created just for the game through many different fantasy worlds at high speed, using a selection of weapons to aid you. 1 and 2 player racing available.</desc>
+		<image>./mixart/Chocobo Racing (USA).png</image>
+		<video>./snap/Chocobo Racing (USA).mp4</video>
+		<marquee>./wheel/Chocobo Racing (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19991102T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DBDDD86CDA9D33AD59AC62955D1B7871</cheevosHash>
+		<cheevosId>11352</cheevosId>
 	</game>
 </gameList>

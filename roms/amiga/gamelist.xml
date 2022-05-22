@@ -26066,21 +26066,6 @@ The mouse is used for control, with options to vary the sensitivity of the respo
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Reflexity_v1.0.lha</path>
-		<name>Reflexity</name>
-		<desc>Reflexity: Pinball Challenge was developed by Hitech Studio Designs and was released in Germany in 1992.</desc>
-		<image>./mixart/Reflexity_v1.0.png</image>
-		<video>./snap/Reflexity_v1.0.mp4</video>
-		<marquee>./wheel/Reflexity_v1.0.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Hitech Studio Designs</developer>
-		<publisher>Amiga Fun (CompuTec Verlag)</publisher>
-		<genre>Navigation, Pinball, Reaction, Topdown</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Renaissance_v1.01_2415.lha</path>
 		<name>Renaissance</name>
 		<desc>RENAISSANCE is an all-in-one collection of four classic arcade games (Invaders, Rokstorm, Megapede and Draxians), which come in two flavours each:
@@ -38637,6 +38622,21 @@ Along with the standard levels, there are also 4 tunnel levels, which involve sh
 		<publisher>Bloodhouse Ltd.</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Reflexity_v1.0.lha</path>
+		<name>Reflexity</name>
+		<desc>Reflexity: Pinball Challenge was developed by Hitech Studio Designs and was released in Germany in 1992.</desc>
+		<image>./mixart/Reflexity_v1.0.png</image>
+		<video>./snap/Reflexity_v1.0.mp4</video>
+		<marquee>./wheel/Reflexity_v1.0.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Hitech Studio Designs</developer>
+		<publisher>Amiga Fun (CompuTec Verlag)</publisher>
+		<genre>Navigation, Pinball, Reaction, Topdown</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

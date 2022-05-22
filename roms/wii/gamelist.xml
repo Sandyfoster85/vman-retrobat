@@ -3234,26 +3234,6 @@ Episode 1 was released in October 2010 with slight variations in exact date and 
 		<players>2</players>
 		<genreid>260</genreid>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>256</genreid>
-	</game>
 	<game id="10305">
 		<path>./Alien Crush Returns (USA) (WiiWare).wad</path>
 		<name>Alien Crush Returns</name>
@@ -3294,5 +3274,25 @@ Indy 500 features mission based racing that includes challenging famous rivals t
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1537</genreid>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

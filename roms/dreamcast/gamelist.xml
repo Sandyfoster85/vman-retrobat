@@ -4361,21 +4361,6 @@ Whilst being a nice attempt to add some sparkle to a tired genre, many aspects o
 		<region>eu</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="13764" source="ScreenScraper.fr">
-		<path>./Sports Jam (USA).chd</path>
-		<name>Sports Jam</name>
-		<desc>Sports Jam has eight competitive sports for players to master in head-to-head 2-player matches. The goal is for the player to earn the title King of Sports, and this can only be done by mastering all 12 events including Football, Baseball, Hockey, Basketball, Tennis, Soccer, Golf and Cycling.</desc>
-		<image>./mixart/Sports Jam (USA).png</image>
-		<video>./snap/Sports Jam (USA).mp4</video>
-		<marquee>./wheel/Sports Jam (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010720T000000</releasedate>
-		<developer>Wow Entertainment</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="13582" source="ScreenScraper.fr">
 		<path>./Star Wars - Demolition (USA).chd</path>
 		<name>Star Wars - Demolition</name>
@@ -5379,6 +5364,21 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<publisher>Capcom</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="13764" source="ScreenScraper.fr">
+		<path>./Sports Jam (USA).chd</path>
+		<name>Sports Jam</name>
+		<desc>Sports Jam has eight competitive sports for players to master in head-to-head 2-player matches. The goal is for the player to earn the title King of Sports, and this can only be done by mastering all 12 events including Football, Baseball, Hockey, Basketball, Tennis, Soccer, Golf and Cycling.</desc>
+		<image>./mixart/Sports Jam (USA).png</image>
+		<video>./snap/Sports Jam (USA).mp4</video>
+		<marquee>./wheel/Sports Jam (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010720T000000</releasedate>
+		<developer>Wow Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

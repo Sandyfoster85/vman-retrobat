@@ -498,22 +498,6 @@ With Crash™ Team Racing Nitro-Fueled, the stakes are high and the competition 
 		<players>4</players>
 		<lang>en</lang>
 	</game>
-	<game id="197817">
-		<path>./Diablo_III_Eternal_Collection.xci</path>
-		<name>Diablo 3 - Eternal Collection</name>
-		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
-		<image>./mixart/Diablo_III_Eternal_Collection-image.png</image>
-		<video>./snap/Diablo_III_Eternal_Collection.mp4</video>
-		<marquee>./wheel/Diablo_III_Eternal_Collection-marquee.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20181102T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Blizzard Entertainment</publisher>
-		<genre>Adventure</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="196015">
 		<path>./Hyrule_Warriors_Definitive_Edition.xci</path>
 		<name>Hyrule Warriors - Definitive Edition</name>
@@ -929,22 +913,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Wild and Horror Pinball.nsp</path>
-		<name>Wild and Horror Pinball</name>
-		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
-		<image>./mixart/Wild and Horror Pinball.jpg</image>
-		<video>./snap/Wild and Horror Pinball.mp4</video>
-		<marquee>./wheel/Wild and Horror Pinball.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Super PowerUp</developer>
-		<publisher>Super PowerUp</publisher>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super Smash Bros. Ultimate.xci</path>
 		<name>Super Smash Bros. Ultimate + DLC</name>
 		<desc>New characters and stages join the entire legacy roster! Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</desc>
@@ -1136,6 +1104,54 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Super PowerUp</publisher>
 		<genre>Pinball</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wild and Horror Pinball.nsp</path>
+		<name>Wild and Horror Pinball</name>
+		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
+		<image>./mixart/Wild and Horror Pinball.jpg</image>
+		<video>./snap/Wild and Horror Pinball.mp4</video>
+		<marquee>./wheel/Wild and Horror Pinball.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Super PowerUp</developer>
+		<publisher>Super PowerUp</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Chocobo_GP.nsp</path>
+		<name>Chocobo GP</name>
+		<desc>Chocobo GP racing classic originally on PS1 now in HD for the Nintendo Switch! Join Chocobo and friends as they hit the track in a variety of wacky vehicles! Learn the basics in story mode, then take on all-comers in the game mode of your choice! Use classic magic spells like fire and aero to blast the competition, or even turn the tables in a miracle comeback with each character’s unique abilities! Numerous ways to play, including time attack challenges and tournament-style survival races.</desc>
+		<image>./mixart/Chocobo_GP.jpg</image>
+		<video>./snap/Chocobo_GP.mp4</video>
+		<marquee>./wheel/Chocobo_GP.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20221106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="197817">
+		<path>./Diablo_III_Eternal_Collection.xci</path>
+		<name>Diablo 3 - Eternal Collection</name>
+		<desc>Ages ago, angels and demons birthed your world in a forbidden union. Now they've come to claim it. Stand tall among Sanctuary's meek and wicked to battle walking corpses, horrifying cultists, fallen seraphs, and the Lords of Hell. When the High Heavens and the Burning Hells war, humanity must be its own salvation.</desc>
+		<image>./mixart/Diablo_III_Eternal_Collection-image.png</image>
+		<video>./snap/Diablo_III_Eternal_Collection.mp4</video>
+		<marquee>./wheel/Diablo_III_Eternal_Collection-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20181102T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Blizzard Entertainment</publisher>
+		<genre>Adventure</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

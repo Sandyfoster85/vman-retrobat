@@ -1978,24 +1978,6 @@ You have four energy and four power units - more can be collected up to a limit 
 		<players>1</players>
 		<cheevosHash>0EDCEF2BC04F338A5C7362F3007BE037</cheevosHash>
 	</game>
-	<game id="22" source="ScreenScraper.fr">
-		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe).7z</path>
-		<name>Castle of Illusion Starring Mickey Mouse</name>
-		<desc>This is the first Mickey Mouse game for Sega consoles. In this game the famous Disney character must face the dangers of weird fantasy lands such as an enchanted forest and a toy world. Mickey must rescue his girlfriend Minnie who's been kidnapped by the evil witch Mizrabel.
-
-The game play follows the traditional 2D hop 'n' bop platform style in both 8-bit and 16-bit versions. Apart from the story and the music, which is the same, all the rest (including controls, moves, stages and, obviously, graphics), are totally different.</desc>
-		<image>./mixart/Castle of Illusion Starring Mickey Mouse (USA, Europe).png</image>
-		<video>./snap/Castle of Illusion Starring Mickey Mouse (USA, Europe).mp4</video>
-		<marquee>./wheel/Castle of Illusion Starring Mickey Mouse (USA, Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<cheevosHash>24863151ABD5BAF28C9386D49FFE3C09</cheevosHash>
-		<cheevosId>9</cheevosId>
-	</game>
 	<game id="40" source="ScreenScraper.fr">
 		<path>./Castlevania - Bloodlines (USA).7z</path>
 		<name>Castlevania : Bloodlines</name>
@@ -14349,5 +14331,23 @@ Use Sonic as a pinball in 4 dangerous levels. Score points, get rings, collect C
 		<genre>Various-Action</genre>
 		<players>2</players>
 		<cheevosHash>6FA7CD092A175C9040B318D289FFFF93</cheevosHash>
+	</game>
+	<game id="22" source="ScreenScraper.fr">
+		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe).7z</path>
+		<name>Castle of Illusion Starring Mickey Mouse</name>
+		<desc>This is the first Mickey Mouse game for Sega consoles. In this game the famous Disney character must face the dangers of weird fantasy lands such as an enchanted forest and a toy world. Mickey must rescue his girlfriend Minnie who's been kidnapped by the evil witch Mizrabel.
+
+The game play follows the traditional 2D hop 'n' bop platform style in both 8-bit and 16-bit versions. Apart from the story and the music, which is the same, all the rest (including controls, moves, stages and, obviously, graphics), are totally different.</desc>
+		<image>./mixart/Castle of Illusion Starring Mickey Mouse (USA, Europe).png</image>
+		<video>./snap/Castle of Illusion Starring Mickey Mouse (USA, Europe).mp4</video>
+		<marquee>./wheel/Castle of Illusion Starring Mickey Mouse (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<cheevosHash>24863151ABD5BAF28C9386D49FFE3C09</cheevosHash>
+		<cheevosId>9</cheevosId>
 	</game>
 </gameList>

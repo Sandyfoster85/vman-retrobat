@@ -33197,35 +33197,6 @@ Now Rock is a teenager, and Terry is a man in his 30s, and both are about to com
 		<region>us</region>
 		<cheevosHash>87DE6A00487B35B972661B0C6C1B783C</cheevosHash>
 	</game>
-	<game>
-		<path>./gaunt2.zip</path>
-		<name>Gauntlet II</name>
-		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
-
-As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
-
-Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
-
-Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
-
-Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
-
-New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gaunt2.png</image>
-		<video>./snap/gaunt2.mp4</video>
-		<marquee>./wheel/gaunt2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F9B1BFDBAC1F48B9DFD6B518B9B6028</cheevosHash>
-	</game>
 	<game id="41396">
 		<path>./gauntdl.zip</path>
 		<name>Gauntlet Dark Legacy</name>
@@ -35985,28 +35956,6 @@ As with "Ikari Warriors", Guerrilla War features full 360 degree gameplay with a
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>60B1F37320860DE43CDC9F12448EB04E</cheevosHash>
-	</game>
-	<game>
-		<path>./gyruss.zip</path>
-		<name>Gyruss</name>
-		<desc>Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars. 
-
-It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over. 
-
-Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.</desc>
-		<image>./mixart/gyruss.png</image>
-		<video>./snap/gyruss.mp4</video>
-		<marquee>./wheel/gyruss.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Shooter / Plane, 3rd person</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0A9374ACD05251A6B904092CCA0A7554</cheevosHash>
-		<cheevosId>12173</cheevosId>
 	</game>
 	<game>
 		<path>./hachamf.zip</path>
@@ -70677,22 +70626,6 @@ Game Tengoku - The Game Paradise offers both 'Standard' and 'Time Attack' modes 
 		<region>us</region>
 		<cheevosHash>26C98E66F7BCFFB0FD61A9F6B8BF96A0</cheevosHash>
 	</game>
-	<game id="149684">
-		<path>./pwrflip.zip</path>
-		<name>Power Flipper Pinball Shooting V1.33</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/pwrflip.png</image>
-		<video>./snap/pwrflip.mp4</video>
-		<marquee>./wheel/pwrflip.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<md5>58a37aaeed1584cc9c01f045e06da0ab</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5EA8D9D44E30AE2E09BE470ED774057E</cheevosHash>
-	</game>
 	<game id="43187">
 		<path>./souledgeua.zip</path>
 		<name>Soul Edge Ver. II</name>
@@ -71531,26 +71464,6 @@ As an emergency maneuver, a player can press the Shields button. An octagon will
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
-	<game id="40178" source="ScreenScraper.fr">
-		<path>./bbust2.zip</path>
-		<name>Beast Busters 2nd Nightmare</name>
-		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds. 
- 
-The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/bbust2.png</image>
-		<video>./snap/bbust2.mp4</video>
-		<marquee>./wheel/bbust2.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Lightgun Shooter-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game>
 		<path>./missile.zip</path>
@@ -72485,108 +72398,6 @@ After Burner's straightforward shoot-em-up gameplay is simple and repetitive, bu
 		<cheevosHash>EDB0C9707493E999CF61AE4E6A335F91</cheevosHash>
 		<cheevosId>11751</cheevosId>
 	</game>
-	<game id="41179" source="ScreenScraper.fr">
-		<path>./fatfurwa.zip</path>
-		<name>Fatal Fury: Wild Ambition</name>
-		<desc>Fatal Fury: Wild Ambition is SNK's attempt to bring Fatal Fury into 3D.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/fatfurwa.png</image>
-		<video>./snap/fatfurwa.mp4</video>
-		<marquee>./wheel/fatfurwa.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="150415" source="ScreenScraper.fr">
-		<path>./roadedge.zip</path>
-		<name>Roads Edge</name>
-		<desc>An exciting racing game up to four players linkable, featuring four challenging courses and four SUV cars to choose, different camera angles and for selectable soundtracks make this game a fun ride. The internal vibration inside the seat is a nice addition to the driving experience.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/roadedge.png</image>
-		<video>./snap/roadedge.mp4</video>
-		<marquee>./wheel/roadedge.png</marquee>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="79409" source="ScreenScraper.fr">
-		<path>./sams64.zip</path>
-		<name>Samurai Shodown 64</name>
-		<desc>Samurai Shodown 64 (c) 1997 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 02  Main CPU : R4600 (@ 12.5 Mhz), V30 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1997.  This game is kno</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sams64.png</image>
-		<video>./snap/sams64.mp4</video>
-		<marquee>./wheel/sams64.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="42879" source="ScreenScraper.fr">
-		<path>./sams64_2.zip</path>
-		<name>Samurai Shodown: Warrior's Rage</name>
-		<desc>Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sams64_2.png</image>
-		<video>./snap/sams64_2.mp4</video>
-		<marquee>./wheel/sams64_2.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./sf2rb3.zip</path>
-		<name>'H' Street Fighter II' : Champion (Rainbow Edition)</name>
-		<desc>SF2 Rainbow Edition: From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
-		<image>./mixart/sf2rb3.png</image>
-		<video>./snap/sf2rb3.mp4</video>
-		<marquee>./wheel/sf2rb3.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
-	</game>
-	<game id="79425" source="ScreenScraper.fr">
-		<path>./xrally.zip</path>
-		<name>Xtreme Rally / Off Beat Racer!</name>
-		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/xrally.png</image>
-		<video>./snap/xrally.mp4</video>
-		<marquee>./wheel/xrally.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game>
 		<path>./overtop.zip</path>
 		<name>Over Top</name>
@@ -72888,5 +72699,201 @@ The player drives a Formula-1 race car on each track. The first objective of the
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3CE98D9B3E323DC72CCFF23809B5AE4F</cheevosHash>
+	</game>
+	<game id="149684">
+		<path>./pwrflip.zip</path>
+		<name>Power Flipper Pinball Shooting V1.33</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/pwrflip.png</image>
+		<video>./snap/pwrflip.mp4</video>
+		<marquee>./wheel/pwrflip.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<md5>58a37aaeed1584cc9c01f045e06da0ab</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5EA8D9D44E30AE2E09BE470ED774057E</cheevosHash>
+	</game>
+	<game>
+		<path>./gaunt2.zip</path>
+		<name>Gauntlet II</name>
+		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
+
+As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
+
+Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
+
+Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
+
+Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
+
+New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gaunt2.png</image>
+		<video>./snap/gaunt2.mp4</video>
+		<marquee>./wheel/gaunt2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F9B1BFDBAC1F48B9DFD6B518B9B6028</cheevosHash>
+	</game>
+	<game>
+		<path>./gyruss.zip</path>
+		<name>Gyruss</name>
+		<desc>Gyruss is a single-player shoot-em-up in which the purpose is to fly through the solar system, destroying waves of alien attackers, before finally reaching Earth. Planets that must be passed before Earth is reached are Neptune, Uranus, Saturn, Jupiter, and Mars. 
+
+It only takes two warps to reach Neptune, but all of the others, including Earth, take three warps to get to. Each time the player reaches a planet, they will be faced with a 'Chance Stage', a bonus stage in which players try to destroy as many aliens as possible to accrue points. After reaching Earth, there is a Chance Stage, followed by a very fast '3 Warps to Neptune' stage. After this, the levels and the background music start over. 
+
+Gyruss' superb gameplay, in which the player ship rotates around the edges of the screen and fires 'inwards', is heavily influenced by Atari's 1981 classic, "Tempest". While the design of the alien ships themselves is similar to those of Namco's also-legendary "Galaga" series.</desc>
+		<image>./mixart/gyruss.png</image>
+		<video>./snap/gyruss.mp4</video>
+		<marquee>./wheel/gyruss.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / Plane, 3rd person</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0A9374ACD05251A6B904092CCA0A7554</cheevosHash>
+		<cheevosId>12173</cheevosId>
+	</game>
+	<game id="40178" source="ScreenScraper.fr">
+		<path>./bbust2.zip</path>
+		<name>Beast Busters 2nd Nightmare</name>
+		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds. 
+ 
+The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/bbust2.png</image>
+		<video>./snap/bbust2.mp4</video>
+		<marquee>./wheel/bbust2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lightgun Shooter-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EBDDA81FD81FD41A4583F8180236F4BA</cheevosHash>
+	</game>
+	<game id="41179" source="ScreenScraper.fr">
+		<path>./fatfurwa.zip</path>
+		<name>Fatal Fury: Wild Ambition</name>
+		<desc>Fatal Fury: Wild Ambition is SNK's attempt to bring Fatal Fury into 3D.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/fatfurwa.png</image>
+		<video>./snap/fatfurwa.mp4</video>
+		<marquee>./wheel/fatfurwa.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>31DC5AA28B6987FA11D293633C56DABE</cheevosHash>
+	</game>
+	<game id="150415" source="ScreenScraper.fr">
+		<path>./roadedge.zip</path>
+		<name>Roads Edge</name>
+		<desc>An exciting racing game up to four players linkable, featuring four challenging courses and four SUV cars to choose, different camera angles and for selectable soundtracks make this game a fun ride. The internal vibration inside the seat is a nice addition to the driving experience.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/roadedge.png</image>
+		<video>./snap/roadedge.mp4</video>
+		<marquee>./wheel/roadedge.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8EB651EC53E7904B39ABF385B4332C3A</cheevosHash>
+	</game>
+	<game id="79409" source="ScreenScraper.fr">
+		<path>./sams64.zip</path>
+		<name>Samurai Shodown 64</name>
+		<desc>Samurai Shodown 64 (c) 1997 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 02  Main CPU : R4600 (@ 12.5 Mhz), V30 (@ 8 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in December 1997.  This game is kno</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64.png</image>
+		<video>./snap/sams64.mp4</video>
+		<marquee>./wheel/sams64.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CCE4DC28E674F05D0FE3D040F7C98A1F</cheevosHash>
+	</game>
+	<game id="42879" source="ScreenScraper.fr">
+		<path>./sams64_2.zip</path>
+		<name>Samurai Shodown: Warrior's Rage</name>
+		<desc>Samurai Shodown 64 - Warrior's Rage (c) 1998 SNK.  - TECHNICAL -  SNK Hyper Neo-Geo 64 hardware Game ID : HNG64 No. 05  Main CPU : R4600 (@ 50 Mhz), V30 (@ 8 Mhz), Z80 (@ 12.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 4  - TRIVIA -  Released in</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sams64_2.png</image>
+		<video>./snap/sams64_2.mp4</video>
+		<marquee>./wheel/sams64_2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C1D7EDF4E329B46E8B6AC49FE1DD4ABF</cheevosHash>
+	</game>
+	<game>
+		<path>./sf2rb3.zip</path>
+		<name>'H' Street Fighter II' : Champion (Rainbow Edition)</name>
+		<desc>SF2 Rainbow Edition: From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./mixart/sf2rb3.png</image>
+		<video>./snap/sf2rb3.mp4</video>
+		<marquee>./wheel/sf2rb3.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DE7D34DBD63215293F83B0A887072D0B</cheevosHash>
+		<genreid>262</genreid>
+	</game>
+	<game id="79425" source="ScreenScraper.fr">
+		<path>./xrally.zip</path>
+		<name>Xtreme Rally / Off Beat Racer!</name>
+		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/xrally.png</image>
+		<video>./snap/xrally.mp4</video>
+		<marquee>./wheel/xrally.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4BA3BC924E9C952DB540AD0D9553F6FA</cheevosHash>
 	</game>
 </gameList>

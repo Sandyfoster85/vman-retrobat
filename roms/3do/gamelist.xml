@@ -1657,22 +1657,6 @@
 		<cheevosHash>3ED8E4B9F55DCEA400DB407220D8722B</cheevosHash>
 	</game>
 	<game>
-		<path>./Real Pinball (Europe).chd</path>
-		<name>Fireball</name>
-		<desc>Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.</desc>
-		<image>./mixart/Real Pinball (Europe).png</image>
-		<video>./snap/Real Pinball (Europe).mp4</video>
-		<marquee>./wheel/Real Pinball (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Nippon Data Works</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Pinball-Simulation</genre>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>3C074E5179F557C4F38BD36C66D57F45</cheevosHash>
-	</game>
-	<game>
 		<path>./T&amp;E VR Golf - Masters - Harukanaru Augusta 3 (Japan).chd</path>
 		<name>Masters Harukanaru Augusta 3</name>
 		<desc>Masters New: Harukanaru Augusta 3 is a golf sim and the third game in T&amp;E Soft's Harukanaru Augusta franchise. Like its predecessors, it is officially endorsed by the Masters Tournament golf competition and by Augusta National Golf Club, where the Masters takes place.    The game uses digitized photos for its golfers and crowds, as well as for menus and the title screen, for a sense of realism. The game also produces weather effects that can modify the course.</desc>
@@ -1832,5 +1816,21 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Real Pinball (Europe).chd</path>
+		<name>Fireball</name>
+		<desc>Real Pinball is the standard video game conversion of the actual machines with five different tables to choose from with the main goal being to gain as many points as possible by using the game controller to control the flippers of the machine. The game features realistic graphics made to resemble an actual machine.</desc>
+		<image>./mixart/Real Pinball (Europe).png</image>
+		<video>./snap/Real Pinball (Europe).mp4</video>
+		<marquee>./wheel/Real Pinball (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Nippon Data Works</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Pinball-Simulation</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3C074E5179F557C4F38BD36C66D57F45</cheevosHash>
 	</game>
 </gameList>

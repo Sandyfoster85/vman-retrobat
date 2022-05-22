@@ -2110,24 +2110,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<cheevosId>13796</cheevosId>
 	</game>
 	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X - Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
-		<cheevosId>11770</cheevosId>
-	</game>
-	<game>
 		<path>./shocktr2.zip</path>
 		<name>Shock Troopers - 2nd Squad</name>
 		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
@@ -2320,5 +2302,23 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<lang>en</lang>
 		<cheevosHash>5C14F94978DFAD8FFB95CD5B405ABFD8</cheevosHash>
 		<cheevosId>11753</cheevosId>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
+		<cheevosId>11770</cheevosId>
 	</game>
 </gameList>

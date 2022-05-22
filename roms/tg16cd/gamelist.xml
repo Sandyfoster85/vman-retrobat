@@ -1822,20 +1822,6 @@ Ranma's curse becomes a gameplay feature in the game: cold and hot water turn Ra
 		<crc32>00000000</crc32>
 		<cheevosHash>C22E4C4B37E6AF8C84EC63F66D2623BF</cheevosHash>
 	</game>
-	<game id="141167" source="ScreenScraper.fr">
-		<path>./Renny Blaster.chd</path>
-		<name>Renny Blaster</name>
-		<desc>Renny Blaster is a beat-em-up in which the player can choose to control either the paranormal private investigator Fujiro Yarai, or a man with a mysterious past and supernatural abilities named Seishiro. The two characters have the same goal: prevent a secret organization of monsters and undead, run by a maniacal vampire, from taking control over Europe. The two characters begin with different initial stages, but continue on the same path afterwards. Seishiro is physically weaker and has a default ranged energy attack; Fujiro fights with regular punches and kicks. Both characters have access to unique elemental attacks that are activated by holding down a button. Most of the stages are straightforward side-scrolling action with boss battles at the end of each; a few areas contain light platforming elements.</desc>
-		<image>./mixart/Renny Blaster.png</image>
-		<video>./snap/Renny Blaster.mp4</video>
-		<marquee>./wheel/Renny Blaster.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>J-Force</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<crc32>00000000</crc32>
-		<cheevosHash>4ADA5CADAE79DB5280043A2F97687112</cheevosHash>
-	</game>
 	<game id="106875" source="ScreenScraper.fr">
 		<path>./Riot Zone.chd</path>
 		<name>Riot Zone</name>
@@ -2576,5 +2562,19 @@ An alien race called the Bydo attacks humanity without mercy. The prototype spac
 		<developer>Irem</developer>
 		<crc32>00000000</crc32>
 		<cheevosHash>394DF9406A203CFDEB39D3603FDD189F</cheevosHash>
+	</game>
+	<game id="141167" source="ScreenScraper.fr">
+		<path>./Renny Blaster.chd</path>
+		<name>Renny Blaster</name>
+		<desc>Renny Blaster is a beat-em-up in which the player can choose to control either the paranormal private investigator Fujiro Yarai, or a man with a mysterious past and supernatural abilities named Seishiro. The two characters have the same goal: prevent a secret organization of monsters and undead, run by a maniacal vampire, from taking control over Europe. The two characters begin with different initial stages, but continue on the same path afterwards. Seishiro is physically weaker and has a default ranged energy attack; Fujiro fights with regular punches and kicks. Both characters have access to unique elemental attacks that are activated by holding down a button. Most of the stages are straightforward side-scrolling action with boss battles at the end of each; a few areas contain light platforming elements.</desc>
+		<image>./mixart/Renny Blaster.png</image>
+		<video>./snap/Renny Blaster.mp4</video>
+		<marquee>./wheel/Renny Blaster.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>J-Force</developer>
+		<publisher>NEC Avenue, Ltd.</publisher>
+		<crc32>00000000</crc32>
+		<cheevosHash>4ADA5CADAE79DB5280043A2F97687112</cheevosHash>
 	</game>
 </gameList>
