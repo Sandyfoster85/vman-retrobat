@@ -525,4 +525,20 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./AM2R.lnk</path>
+		<name>'H'AM2R Another Metroid 2 Remake</name>
+		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
+		<image>./mixart/AM2R.png</image>
+		<video>./snap/AM2R.mp4</video>
+		<marquee>./wheel/AM2R.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160825T000000</releasedate>
+		<developer>DoctorM64</developer>
+		<publisher>DoctorM64</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>
