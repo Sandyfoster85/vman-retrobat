@@ -742,24 +742,6 @@ It´s like a Zelda-clone, Ardy and Link are not twins but they have same goal, t
 		<cheevosHash>000C3BB276FD456E0E259553DEDE9BA4</cheevosHash>
 		<cheevosId>390</cheevosId>
 	</game>
-	<game id="2603" source="ScreenScraper.fr">
-		<path>./Arkanoid - Doh It Again (USA).7z</path>
-		<name>Arkanoid : Doh It Again</name>
-		<desc>A sequel to the arcade game Arkanoid. Use your paddle to move the ball around and hit bricks to clear the level. Once all the bricks are gone in the current level, you go on to the next level. Power-ups, like lasers and paddle lengthening will help you during the levels. Unlike the arcade version, the sequel has boss battles and somewhat of a storyline.</desc>
-		<image>./mixart/Arkanoid - Doh It Again (USA).png</image>
-		<video>./snap/Arkanoid - Doh It Again (USA).mp4</video>
-		<marquee>./wheel/Arkanoid - Doh It Again (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19971101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>03D30CA9AAA89738640CF14532DDFE6C</cheevosHash>
-		<cheevosId>392</cheevosId>
-	</game>
 	<game id="2446" source="ScreenScraper.fr">
 		<path>./Art of Fighting (USA).7z</path>
 		<name>Art of Fighting</name>
@@ -15175,5 +15157,23 @@ Gameplay is fairly similar to X-Men-Mutant Apocalypse.  Combat is all on a 2D pl
 		<players>2</players>
 		<cheevosHash>90E90F2AAE4770EE98130580A594E2BB</cheevosHash>
 		<cheevosId>857</cheevosId>
+	</game>
+	<game id="2603" source="ScreenScraper.fr">
+		<path>./Arkanoid - Doh It Again (USA).7z</path>
+		<name>Arkanoid : Doh It Again</name>
+		<desc>A sequel to the arcade game Arkanoid. Use your paddle to move the ball around and hit bricks to clear the level. Once all the bricks are gone in the current level, you go on to the next level. Power-ups, like lasers and paddle lengthening will help you during the levels. Unlike the arcade version, the sequel has boss battles and somewhat of a storyline.</desc>
+		<image>./mixart/Arkanoid - Doh It Again (USA).png</image>
+		<video>./snap/Arkanoid - Doh It Again (USA).mp4</video>
+		<marquee>./wheel/Arkanoid - Doh It Again (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19971101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>03D30CA9AAA89738640CF14532DDFE6C</cheevosHash>
+		<cheevosId>392</cheevosId>
 	</game>
 </gameList>

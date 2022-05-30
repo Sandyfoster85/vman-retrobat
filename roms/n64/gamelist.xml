@@ -1364,26 +1364,6 @@
 		<cheevosHash>664CC372586A1AD7D1B15C1008E41470</cheevosHash>
 	</game>
 	<game>
-		<path>./F-Zero X (USA).n64</path>
-		<name>F-Zero X</name>
-		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.  Where the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game. As well as the cups, you can also race in time trial mode, against a 'ghost car' recording of your best previous lap, a lá Mario Kart 64.  Gone are the entirely flat tracks of the original, having been replaced with tracks that twist, turn, loop, rotate and basically contort into the most crazy shapes you could imagine. One unique feature amongst almost all other racing games is the "X" tournament, where courses are totally randomly generated each time you start.  One of the most important changes to the format is the inclusion of multiplayer support for up to 4 players. The various combat moves are especially important against aggressive human play.  This game has a  rock soundtrack, which I believe is the first game soundtrack ever to feature the bestial grunting found only in death metal music.</desc>
-		<emulator>libretro</emulator>
-		<core>mupen64plus_next</core>
-		<image>./mixart/F-Zero X (USA).png</image>
-		<video>./snap/F-Zero X (USA).mp4</video>
-		<marquee>./wheel/F-Zero X (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19981026T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DEE6EF2CBAAC89846A59983E19A55348</cheevosHash>
-		<cheevosId>10133</cheevosId>
-	</game>
-	<game>
 		<path>./F1 Pole Position 64 (USA) (En,Fr,De).n64</path>
 		<name>F1 Pole Position 64</name>
 		<desc>A Formula 1 racing game, officially acknowledged by the FIA F1 World Championship, containing the 16 World championship circuits of the day, ranging from Monza and the old Hockenheim to Monaco and the Hungaroring.   Car setup is highly detailed, reflecting real Formula One and the game's simulation basis. You will have to race in the wet, which means further setup modification to cope with the reduced grip. You can also edit the level of car damage, the pit-car radio, and whether the CPU cars can collide. There are also Battle and Time Trial modes, with your best laptimes recorded.</desc>
@@ -5156,5 +5136,25 @@
 		<region>us</region>
 		<cheevosHash>846984C666C35407961C7C069066FC42</cheevosHash>
 		<cheevosId>10259</cheevosId>
+	</game>
+	<game>
+		<path>./F-Zero X (USA).n64</path>
+		<name>F-Zero X</name>
+		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.  Where the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game. As well as the cups, you can also race in time trial mode, against a 'ghost car' recording of your best previous lap, a lá Mario Kart 64.  Gone are the entirely flat tracks of the original, having been replaced with tracks that twist, turn, loop, rotate and basically contort into the most crazy shapes you could imagine. One unique feature amongst almost all other racing games is the "X" tournament, where courses are totally randomly generated each time you start.  One of the most important changes to the format is the inclusion of multiplayer support for up to 4 players. The various combat moves are especially important against aggressive human play.  This game has a  rock soundtrack, which I believe is the first game soundtrack ever to feature the bestial grunting found only in death metal music.</desc>
+		<emulator>libretro</emulator>
+		<core>mupen64plus_next</core>
+		<image>./mixart/F-Zero X (USA).png</image>
+		<video>./snap/F-Zero X (USA).mp4</video>
+		<marquee>./wheel/F-Zero X (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19981026T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DEE6EF2CBAAC89846A59983E19A55348</cheevosHash>
+		<cheevosId>10133</cheevosId>
 	</game>
 </gameList>

@@ -43287,24 +43287,6 @@ Marble Madness features six different mazes.</desc>
 		<cheevosHash>A909B944804141354049983D9C6CC236</cheevosHash>
 	</game>
 	<game>
-		<path>./mario.zip</path>
-		<name>Mario Bros.</name>
-		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
-
-Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
-
-As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
-		<image>./mixart/mario.png</image>
-		<video>./snap/mario.mp4</video>
-		<marquee>./wheel/mario.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
-		<cheevosId>11946</cheevosId>
-	</game>
-	<game>
 		<path>./markham.zip</path>
 		<name>Markham</name>
 		<desc>When you run the game for the first time, the default highscore table has all entries set to 010000.</desc>
@@ -44832,32 +44814,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<region>us</region>
 		<cheevosHash>07D935680B6501B2E42FE4BAEA021389</cheevosHash>
 		<cheevosId>14976</cheevosId>
-	</game>
-	<game>
-		<path>./mk2.zip</path>
-		<name>Mortal Kombat 2</name>
-		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
-
-As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
-
-Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
-
-Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
-
-Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
-		<image>./mixart/mk2.png</image>
-		<video>./snap/mk2.mp4</video>
-		<marquee>./wheel/mk2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930625T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A683090976EC0F04DCA81F6DB9CA7484</cheevosHash>
-		<cheevosId>14978</cheevosId>
 	</game>
 	<game id="78949">
 		<path>./mk4.zip</path>
@@ -72192,32 +72148,6 @@ In a future where space travel has existed since 2119. Humans explored space, an
 		<cheevosHash>5E387412312B631FE2B9960CF2F95273</cheevosHash>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
-	</game>
-	<game>
 		<path>./ssridersubc.zip</path>
 		<name>Sunset Riders</name>
 		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
@@ -72895,5 +72825,75 @@ The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port T
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>4BA3BC924E9C952DB540AD0D9553F6FA</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game>
+		<path>./mk2.zip</path>
+		<name>Mortal Kombat 2</name>
+		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
+
+As with its predecessor, MKII's matches are divided into rounds, with victory awarded to the first player to win two rounds. At the point of defeat, the losing fighter will become dazed and the winner is given the opportunity to execute a 'finishing move'. 
+
+Some of the standard fighting moves (moves shared by all characters) have now been expanded or enhanced. A crouching punch has been added and the 'roundhouse kick' is more powerful and now knocks opponents across the screen. Also, the difference in hit boxes between high and low kicks is now more marked. 
+
+Additionally, returning characters gain new special moves and MKII marks the first appearence of multiple Fatalities - as well as additional, non-lethal finishing moves - in the series. In addition to the Fatalities of its predecessor, MKII offers 'Babalities' (turning a defeated opponent into a crying baby), 'Friendships' (a non-malicious interaction, such as dancing or giving a gift to the defeated opponent) and stage-specific Fatalities (the winner uppercutting their opponent into an abyss below, spikes above, or a pool of acid in the background). 
+
+Each character still shares generic attributes - speed, power, jump height and airtime - albeit with differing hit boxes. The sequel drops the points system of its prequel in favour of a consecutive win tally.</desc>
+		<image>./mixart/mk2.png</image>
+		<video>./snap/mk2.mp4</video>
+		<marquee>./wheel/mk2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930625T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A683090976EC0F04DCA81F6DB9CA7484</cheevosHash>
+		<cheevosId>14978</cheevosId>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
+
+Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
+
+As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
+		<image>./mixart/mario.png</image>
+		<video>./snap/mario.mp4</video>
+		<marquee>./wheel/mario.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
+		<cheevosId>11946</cheevosId>
 	</game>
 </gameList>

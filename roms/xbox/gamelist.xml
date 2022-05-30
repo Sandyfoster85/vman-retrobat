@@ -560,21 +560,6 @@ As Patrick, the leader of SOAR, you are tasked with exploring the ship, putting 
 		<players>1</players>
 		<genreid>256</genreid>
 	</game>
-	<game id="15060" source="ScreenScraper.fr">
-		<path>./Galleon (Europe) (En Fr De).iso</path>
-		<name>Galleon</name>
-		<desc>Galleon sur Xbox est un jeu d'action/aventure ancré dans l'univers de la piraterie. Embarquez pour une quête et découvrez les origines d'un mystérieux navire qui pourrait bien cacher la clé d'un pouvoir. Participez à de nombreux combats contre des monstres et des créatures maléfiques dans une aventure qui ne s'annonce pas de tout repos.</desc>
-		<image>./mixart/Galleon (Europe) (En Fr De).png</image>
-		<video>./snap/Galleon (Europe) (En Fr De).mp4</video>
-		<marquee>./wheel/Galleon (Europe) (En Fr De).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040611T000000</releasedate>
-		<developer>SCi Games</developer>
-		<publisher>Confounding Factor</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<genreid>512</genreid>
-	</game>
 	<game id="14974" source="ScreenScraper.fr">
 		<path>./Gun Valkyrie (Europe) (En,Fr,De,Es,It).iso</path>
 		<name>Gun Valkyrie</name>
@@ -602,21 +587,6 @@ As Patrick, the leader of SOAR, you are tasked with exploring the ship, putting 
 		<developer>High Voltage</developer>
 		<publisher>Interplay</publisher>
 		<players>24</players>
-	</game>
-	<game id="14774" source="ScreenScraper.fr">
-		<path>./Kung Fu Chaos (Europe) (En,Fr,De).iso</path>
-		<name>Kung Fu Chaos</name>
-		<desc>Jouez les ninjas du dimanche dans ce party-game sorti sur Xbox. Kung Fu Chaos vous met dans la peau d'un acteur d'une vieille série des années 70 sur le kung fu. Suivez les directions du réalisateur et affrontez-vous à 4 dans des mini-jeux où l'humour est omniprésent.</desc>
-		<image>./mixart/Kung Fu Chaos (Europe) (En,Fr,De).png</image>
-		<video>./snap/Kung Fu Chaos (Europe) (En,Fr,De).mp4</video>
-		<marquee>./wheel/Kung Fu Chaos (Europe) (En,Fr,De).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20030411T000000</releasedate>
-		<developer>Just Add Monsters</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Casual Game</genre>
-		<players>2-4</players>
-		<genreid>2304</genreid>
 	</game>
 	<game id="14675" source="ScreenScraper.fr">
 		<path>./Midtown Madness 3.iso</path>
@@ -661,21 +631,6 @@ As Patrick, the leader of SOAR, you are tasked with exploring the ship, putting 
 		<genre>Fight</genre>
 		<players>2</players>
 		<genreid>262</genreid>
-	</game>
-	<game id="14648" source="ScreenScraper.fr">
-		<path>./Star Wars Episode III - Revenge of the Sith.iso</path>
-		<name>Star Wars Episode III : La Revanche des Sith</name>
-		<desc>Star Wars Episode III : La Revanche des Sith sur Xbox vous entraîne au coeur de la trame obscure du film, aux côtés d'Obi-wan Kenobi ou d'Anakin Skywalker. Force et sabres lasers seront de mise, face à des hordes d'ennemis prêts à en découdre. Votre personnage évolue grâce à des points d'expérience octroyés à la fin de chaque niveau.</desc>
-		<image>./mixart/Star Wars Episode III - Revenge of the Sith.png</image>
-		<video>./snap/Star Wars Episode III - Revenge of the Sith.mp4</video>
-		<marquee>./wheel/Star Wars Episode III - Revenge of the Sith.png</marquee>
-		<rating>0.8</rating>
-		<releasedate />
-		<developer>Activision</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<genreid>512</genreid>
 	</game>
 	<game id="14896" source="ScreenScraper.fr">
 		<path>./Whacked! (USA Europe).iso</path>
@@ -1514,21 +1469,6 @@ A port of the original Panzer Dragoon is included.</desc>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
-	<game id="14860" source="ScreenScraper.fr">
-		<path>./Project Gotham Racing (USA).iso</path>
-		<name>Project Gotham Racing</name>
-		<desc>Project Gotham Racing est un jeu de courses sur Xbox qui vous propose 25 voitures dont la Ferrari F50, la Porsche Boxster S, la Corvette Z06 et l'Aston Martin Vanquish. Roulez sur plus de 200 circuits de New York à Tokyo en passant par Londres et San Francisco. Amassez les points Kudos en faisant preuve de vitesse, de style et d'habileté pour débloquer des bonus. Project Gotham Racing est jouable à 4 en écran séparé.</desc>
-		<image>./mixart/Project Gotham Racing (USA).png</image>
-		<video>./snap/Project Gotham Racing (USA).mp4</video>
-		<marquee>./wheel/Project Gotham Racing (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20011115T000000</releasedate>
-		<developer>Bizarre Creations</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Pure Pinball.iso</path>
 		<name>Pure Pinball</name>
@@ -1739,5 +1679,72 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
+	</game>
+	<game id="15060" source="ScreenScraper.fr">
+		<path>./Galleon (Europe) (En Fr De).iso</path>
+		<name>Galleon</name>
+		<desc>Galleon sur Xbox est un jeu d'action/aventure ancré dans l'univers de la piraterie. Embarquez pour une quête et découvrez les origines d'un mystérieux navire qui pourrait bien cacher la clé d'un pouvoir. Participez à de nombreux combats contre des monstres et des créatures maléfiques dans une aventure qui ne s'annonce pas de tout repos.</desc>
+		<image>./mixart/Galleon (Europe) (En Fr De).png</image>
+		<video>./snap/Galleon (Europe) (En Fr De).mp4</video>
+		<marquee>./wheel/Galleon (Europe) (En Fr De).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040611T000000</releasedate>
+		<developer>SCi Games</developer>
+		<publisher>Confounding Factor</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<genreid>512</genreid>
+	</game>
+	<game id="14774" source="ScreenScraper.fr">
+		<path>./Kung Fu Chaos (Europe) (En,Fr,De).iso</path>
+		<name>Kung Fu Chaos</name>
+		<desc>Jouez les ninjas du dimanche dans ce party-game sorti sur Xbox. Kung Fu Chaos vous met dans la peau d'un acteur d'une vieille série des années 70 sur le kung fu. Suivez les directions du réalisateur et affrontez-vous à 4 dans des mini-jeux où l'humour est omniprésent.</desc>
+		<image>./mixart/Kung Fu Chaos (Europe) (En,Fr,De).png</image>
+		<video>./snap/Kung Fu Chaos (Europe) (En,Fr,De).mp4</video>
+		<marquee>./wheel/Kung Fu Chaos (Europe) (En,Fr,De).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030411T000000</releasedate>
+		<developer>Just Add Monsters</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Casual Game</genre>
+		<players>2-4</players>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<genreid>2304</genreid>
+	</game>
+	<game id="14860" source="ScreenScraper.fr">
+		<path>./Project Gotham Racing (USA).iso</path>
+		<name>Project Gotham Racing</name>
+		<desc>Project Gotham Racing est un jeu de courses sur Xbox qui vous propose 25 voitures dont la Ferrari F50, la Porsche Boxster S, la Corvette Z06 et l'Aston Martin Vanquish. Roulez sur plus de 200 circuits de New York à Tokyo en passant par Londres et San Francisco. Amassez les points Kudos en faisant preuve de vitesse, de style et d'habileté pour débloquer des bonus. Project Gotham Racing est jouable à 4 en écran séparé.</desc>
+		<image>./mixart/Project Gotham Racing (USA).png</image>
+		<video>./snap/Project Gotham Racing (USA).mp4</video>
+		<marquee>./wheel/Project Gotham Racing (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20011115T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="14648" source="ScreenScraper.fr">
+		<path>./Star Wars Episode III - Revenge of the Sith.iso</path>
+		<name>Star Wars Episode III : La Revanche des Sith</name>
+		<desc>Star Wars Episode III : La Revanche des Sith sur Xbox vous entraîne au coeur de la trame obscure du film, aux côtés d'Obi-wan Kenobi ou d'Anakin Skywalker. Force et sabres lasers seront de mise, face à des hordes d'ennemis prêts à en découdre. Votre personnage évolue grâce à des points d'expérience octroyés à la fin de chaque niveau.</desc>
+		<image>./mixart/Star Wars Episode III - Revenge of the Sith.png</image>
+		<video>./snap/Star Wars Episode III - Revenge of the Sith.mp4</video>
+		<marquee>./wheel/Star Wars Episode III - Revenge of the Sith.png</marquee>
+		<rating>0.8</rating>
+		<releasedate></releasedate>
+		<developer>Activision</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>512</genreid>
 	</game>
 </gameList>

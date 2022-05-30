@@ -353,22 +353,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Space Pirates.cmd</path>
-		<name>Space Pirates</name>
-		<desc>Space Pirates was a laserdisc game created by American Laser Games in 1992.  Colonial Star One is under attack by the Black Brigade.  Captain Tallinn and his cut throat pirates are in control of the Star Splitter Cannon.  Captain Tallinn is trying to take over the galaxy by using the Star Splitter Cannon, but in order to use the cannon, he must find the cannon star crystals.  The star crystals have been lost for years on different worlds throughout the solar system.  You must find the crystals before Tallinn does.  Your journey across the galaxy won't be easy though.  Mutant life forms, sorceresses, and other alien life forms will try to stop you from getting the crystals.  Find the crystals and go on to the final showdown to take out Captain Tallinn and win the game!</desc>
-		<image>./mixart/Space Pirates.png</image>
-		<video>./content/Space_Pirates_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Space Pirates.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Last Bounty Hunter.cmd</path>
 		<name>The Last Bounty Hunter</name>
 		<desc>The Last Bounty Hunter was a laserdisc game created by American Laser Games in 1994.  In this game, four outlaws have been terrorizing the county.   You must search the area for Handsome Harry, Nasty Dan, El Loco, and Cactus Kid.   You don't shoot to kill though.... you have to take them alive and bring them to justice!</desc>
@@ -453,6 +437,22 @@
 		<marquee>./wheel/Maddog McCree.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Space Pirates.cmd</path>
+		<name>Space Pirates</name>
+		<desc>Space Pirates was a laserdisc game created by American Laser Games in 1992.  Colonial Star One is under attack by the Black Brigade.  Captain Tallinn and his cut throat pirates are in control of the Star Splitter Cannon.  Captain Tallinn is trying to take over the galaxy by using the Star Splitter Cannon, but in order to use the cannon, he must find the cannon star crystals.  The star crystals have been lost for years on different worlds throughout the solar system.  You must find the crystals before Tallinn does.  Your journey across the galaxy won't be easy though.  Mutant life forms, sorceresses, and other alien life forms will try to stop you from getting the crystals.  Find the crystals and go on to the final showdown to take out Captain Tallinn and win the game!</desc>
+		<image>./mixart/Space Pirates.png</image>
+		<video>./content/Space_Pirates_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Space Pirates.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>

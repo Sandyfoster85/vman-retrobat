@@ -51,17 +51,6 @@
 		<path>./antcolb.zip</path>
 	</game>
 	<game>
-		<path>./parsec.zip</path>
-		<name>Parsec</name>
-		<image>./mixart/Parsec.png</image>
-		<video>./snap/Parsec.mp4</video>
-		<marquee>./wheel/Parsec.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./alpiner.zip</path>
 		<name>Alpiner</name>
 		<image>./mixart/Alpiner.png</image>
@@ -702,6 +691,14 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./wumpus.zip</path>
+		<name>Hunt The Wumpus</name>
+		<image>./mixart/Hunt The Wumpus.png</image>
+		<video>./snap/Hunt The Wumpus.mp4</video>
+		<marquee>./wheel/Hunt The Wumpus.png</marquee>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./wingwar.zip</path>
 		<name>Wing War</name>
 		<image>./mixart/Wing War.png</image>
@@ -711,11 +708,14 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./wumpus.zip</path>
-		<name>Hunt The Wumpus</name>
-		<image>./mixart/Hunt The Wumpus.png</image>
-		<video>./snap/Hunt The Wumpus.mp4</video>
-		<marquee>./wheel/Hunt The Wumpus.png</marquee>
+		<path>./parsec.zip</path>
+		<name>Parsec</name>
+		<image>./mixart/Parsec.png</image>
+		<video>./snap/Parsec.mp4</video>
+		<marquee>./wheel/Parsec.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

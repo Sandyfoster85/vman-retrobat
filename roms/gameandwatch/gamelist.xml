@@ -6,51 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="88067" source="ScreenScraper.fr">
-		<path>./HippoT.mgw</path>
-		<name>Hippo Teeth (Mini Time &amp; Fun)</name>
-		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/HippoT.png</image>
-		<marquee>./wheel/HippoT.png</marquee>
-		<video>./snap/HippoT.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88070" source="ScreenScraper.fr">
-		<path>./Hot Line.mgw</path>
-		<name>Hot Line (Sporty Time &amp; Fun)</name>
-		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Hot Line.png</image>
-		<marquee>./wheel/Hot Line.png</marquee>
-		<video>./snap/Hot Line.mp4</video>
-		<hidden>false</hidden>
-	</game>
-	<game id="88071" source="ScreenScraper.fr">
-		<path>./Las Vegas.mgw</path>
-		<name>Las Vegas</name>
-		<desc>Your hero is very poor because he lost all his money playing the slot-machines. There are a few luckier gamblers than he, whose coins fall from the slot-machines. Your hero tries to get all of the coins falling from their slot-machines. When he collects 100 coins, he plays the slot-machine and attempts to win some more money. Gambling game starts whenever he scores 1000 points. 10 points are scored when your hero grabs a falling coin. 100 points are scored when your hero scores 111 at the slot machine. 200 points are scored when your hero scores 333 at the slot machine. 500 points are scored when your hero scores 777 at the slot machine. A money bag is awarded when your hero scores 777 at the slot machine. A money bag is lost when your hero scores a miss at the gambling game.</desc>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Bandai</developer>
-		<publisher>Bandai</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Las Vegas.png</image>
-		<marquee>./wheel/Las Vegas.png</marquee>
-		<video>./snap/Las Vegas.mp4</video>
-		<hidden>false</hidden>
-	</game>
 	<game id="88072" source="ScreenScraper.fr">
 		<path>./Lifeboat (Nintendo, Multi Screen).mgw</path>
 		<name>Lifeboat</name>
@@ -288,19 +243,6 @@
 		<genre>Action</genre>
 	</game>
 	<game>
-		<path>./Grab Man.mgw</path>
-		<name>Grab Man</name>
-		<desc>Same as Pac Man - do you really need instructions? Notice: Grab Man can eat pills when walking from right to left only! Pill: 5 points. Power pill: 100 points. Ghosts: 200 to 800 points. Apple: 200 to 2000 points (depending on game stage). Apples appear whenever Grab Man eats 8 pills (maximum 2 cherries per stage). Bonus points (1000) are given at level 6 and at every 5 levels. A bonus life is awarded at 5000 and at every 20000 points (just in case you have less than 3 lives left).</desc>
-		<image>./mixart/Grab Man.png</image>
-		<video>./snap/Grab Man.mp4</video>
-		<marquee>./wheel/Grab Man.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>unknown manufacturer</developer>
-		<publisher>unknown manufacturer</publisher>
-		<genre>Action</genre>
-	</game>
-	<game>
 		<path>./Banana.mgw</path>
 		<name>Banana</name>
 		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
@@ -447,19 +389,6 @@
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Donkey Kong Coleco.mgw</path>
-		<name>Donkey Kong</name>
-		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
-		<image>./mixart/Donkey Kong Coleco.png</image>
-		<video>./snap/Donkey Kong Coleco.mp4</video>
-		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
 		<lang>en</lang>
 	</game>
 	<game id="88056" source="ScreenScraper.fr">
@@ -657,20 +586,6 @@
 		<genre>Action</genre>
 		<lang>en</lang>
 	</game>
-	<game id="99462" source="ScreenScraper.fr">
-		<path>./Egg (Nintendo, Wide Screen).mgw</path>
-		<name>Egg</name>
-		<desc>Chickens lay eggs. Control the wolf so that he catches them in his cap. When the wolf drops an egg, one miss is scored. The cock appears/disappears at every five seconds. When the cock appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled.</desc>
-		<image>./mixart/Egg (Nintendo, Wide Screen).png</image>
-		<video>./snap/Egg (Nintendo, Wide Screen).mp4</video>
-		<marquee>./wheel/Egg (Nintendo, Wide Screen).png</marquee>
-		<rating>0</rating>
-		<releasedate>19811009T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
 	<game id="88059" source="ScreenScraper.fr">
 		<path>./Engine Room.mgw</path>
 		<name>Engine Room</name>
@@ -759,10 +674,96 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Galaxy II.mp4</video>
 		<marquee>./wheel/Galaxy II.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Epoch</developer>
 		<publisher>Epoch</publisher>
 		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Donkey Kong Coleco.mgw</path>
+		<name>Donkey Kong</name>
+		<desc>Move Mario to make him rescue his girlfriend, kidnapped by Donkey Kong. In odd levels, Donkey Kong throws barrels at Mario. Operate Mario and take him to the top of the building, making him avoid barrels. In even levels, operate Mario in order to remove all rivets from the girders by walking above them. Fireballs hang around: be sure Mario won't touch them! Additional info: don't let Mario move too left or right of the girders or he'll fall down; the left ladder on the second girder is a "safe position" from barrels; Mario can walk, not jump through the electric fence below Donkey Kong.</desc>
+		<image>./mixart/Donkey Kong Coleco.png</image>
+		<video>./snap/Donkey Kong Coleco.mp4</video>
+		<marquee>./wheel/Donkey Kong Coleco.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="99462" source="ScreenScraper.fr">
+		<path>./Egg (Nintendo, Wide Screen).mgw</path>
+		<name>Egg</name>
+		<desc>Chickens lay eggs. Control the wolf so that he catches them in his cap. When the wolf drops an egg, one miss is scored. The cock appears/disappears at every five seconds. When the cock appears while egg falls, half miss is scored (miss mark blinks). Three full misses and game is over. 1 point per caught egg. At 200 and 500 points, if there are one or more misses, fanfare sounds and all misses are canceled.</desc>
+		<image>./mixart/Egg (Nintendo, Wide Screen).png</image>
+		<video>./snap/Egg (Nintendo, Wide Screen).mp4</video>
+		<marquee>./wheel/Egg (Nintendo, Wide Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate>19811009T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Grab Man.mgw</path>
+		<name>Grab Man</name>
+		<desc>Same as Pac Man - do you really need instructions? Notice: Grab Man can eat pills when walking from right to left only! Pill: 5 points. Power pill: 100 points. Ghosts: 200 to 800 points. Apple: 200 to 2000 points (depending on game stage). Apples appear whenever Grab Man eats 8 pills (maximum 2 cherries per stage). Bonus points (1000) are given at level 6 and at every 5 levels. A bonus life is awarded at 5000 and at every 20000 points (just in case you have less than 3 lives left).</desc>
+		<image>./mixart/Grab Man.png</image>
+		<video>./snap/Grab Man.mp4</video>
+		<marquee>./wheel/Grab Man.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>unknown manufacturer</developer>
+		<publisher>unknown manufacturer</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+	</game>
+	<game id="88067" source="ScreenScraper.fr">
+		<path>./HippoT.mgw</path>
+		<name>Hippo Teeth (Mini Time &amp; Fun)</name>
+		<desc>Help the busy dentist to prevent hippo's teeth from being eaten by the tooth-invaders. When a tooth is eaten, a miss is scored. Three misses and game ends. 10 points per killed tooth-invader. All teeth are restored at every 1000 points scored. Maximum displayed score is 9999.</desc>
+		<image>./mixart/HippoT.png</image>
+		<video>./snap/HippoT.mp4</video>
+		<marquee>./wheel/HippoT.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88070" source="ScreenScraper.fr">
+		<path>./Hot Line.mgw</path>
+		<name>Hot Line (Sporty Time &amp; Fun)</name>
+		<desc>A clerk has the task to answer phone calls very quickly. Move the clerk left and right to answer phone calls. When a phone call is not answered, a chance is missed. The secretary appears occasionally, waiting for the clerk to sign a few documents (game B only). Three misses and game ends. 10 points are scored each time a phone call is answered. 50 points are scored each time a document is signed. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./mixart/Hot Line.png</image>
+		<video>./snap/Hot Line.mp4</video>
+		<marquee>./wheel/Hot Line.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="88071" source="ScreenScraper.fr">
+		<path>./Las Vegas.mgw</path>
+		<name>Las Vegas</name>
+		<desc>Your hero is very poor because he lost all his money playing the slot-machines. There are a few luckier gamblers than he, whose coins fall from the slot-machines. Your hero tries to get all of the coins falling from their slot-machines. When he collects 100 coins, he plays the slot-machine and attempts to win some more money. Gambling game starts whenever he scores 1000 points. 10 points are scored when your hero grabs a falling coin. 100 points are scored when your hero scores 111 at the slot machine. 200 points are scored when your hero scores 333 at the slot machine. 500 points are scored when your hero scores 777 at the slot machine. A money bag is awarded when your hero scores 777 at the slot machine. A money bag is lost when your hero scores a miss at the gambling game.</desc>
+		<image>./mixart/Las Vegas.png</image>
+		<video>./snap/Las Vegas.mp4</video>
+		<marquee>./wheel/Las Vegas.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Bandai</developer>
+		<publisher>Bandai</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

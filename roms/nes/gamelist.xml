@@ -14332,24 +14332,6 @@ Players start by choosing 2 students to accompany Dave to the Edison mansion, an
 		<cheevosHash>81706ABDAE6D1D11B0C8986FC4383EC0</cheevosHash>
 		<cheevosId>1823</cheevosId>
 	</game>
-	<game>
-		<path>./Mario Bros. (World).zip</path>
-		<name>Mario Bros.</name>
-		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
-		<image>./mixart/Mario Bros. (World).png</image>
-		<video>./snap/Mario Bros. (World).mp4</video>
-		<marquee>./wheel/Mario Bros. (World).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850602T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>B51085D9AB4267746A9ED6FC609A98D0</cheevosHash>
-		<cheevosId>1824</cheevosId>
-	</game>
 	<game id="1914" source="ScreenScraper.fr">
 		<path>./Mechanized Attack (USA).zip</path>
 		<name>Mechanized Attack</name>
@@ -30596,5 +30578,23 @@ Ryu will battle through urban city settings, forests, jungles, snow covered cast
 		<region>us</region>
 		<cheevosHash>07C1B92AE9B78F209075A8CC6D3EEBF0</cheevosHash>
 		<cheevosId>1859</cheevosId>
+	</game>
+	<game>
+		<path>./Mario Bros. (World).zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario and Luigi are doing some underground plumbing when all sorts of weird creatures come flying out of the pipes. Turtles, crabs - even fighterflies - attack the helpless Mario Bros. It's up to you to kick, punch, and knock out these sewer pests before time runs out! But beware. Just when you think you got rid of them, they come back for more! Play against the computer, or with a friend - either way, this is one underground classic you'll want to play time and time again!</desc>
+		<image>./mixart/Mario Bros. (World).png</image>
+		<video>./snap/Mario Bros. (World).mp4</video>
+		<marquee>./wheel/Mario Bros. (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850602T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>B51085D9AB4267746A9ED6FC609A98D0</cheevosHash>
+		<cheevosId>1824</cheevosId>
 	</game>
 </gameList>
