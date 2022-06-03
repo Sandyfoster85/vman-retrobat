@@ -615,23 +615,6 @@ Includes cartridge and full-color manual. Available in NTSC and PAL television f
 		<region>eu</region>
 		<cheevosHash>18F299EDB5BA709A64C80C8C9CEC24F2</cheevosHash>
 	</game>
-	<game>
-		<path>./Barnstorming (USA).zip</path>
-		<name>Barnstorming</name>
-		<desc>In Barnstorming, you are the pilot of a biplane. Your point of view is from the side as the screen scrolls by horizontally. Your goal is to fly through a set number of barns in the shortest amount of time possible. Several obstacles will appear in your way, including flocks of geese, windmills, and weather vanes. Crashing into any of these will cause you to lose speed which will increase your overall time. There are several difficulty levels included which will require that you fly through anywhere from 10 to 25 barns.</desc>
-		<image>./mixart/Barnstorming (USA).png</image>
-		<video>./snap/Barnstorming (USA).mp4</video>
-		<marquee>./wheel/Barnstorming (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F8240E62D8C0A64A61E19388414E3104</cheevosHash>
-	</game>
 	<game id="14022" source="ScreenScraper.fr">
 		<path>./BLiP Football (USA) (Unl).zip</path>
 		<name>Football</name>
@@ -893,56 +876,6 @@ You have three levels on the screen. You must select a level then press your but
 		<region>us</region>
 		<cheevosHash>76F53ABBBF39A0063F24036D6EE0968A</cheevosHash>
 	</game>
-	<game id="14071" source="ScreenScraper.fr">
-		<path>./Bumper Bash (USA).zip</path>
-		<name>Bumper Bash</name>
-		<desc>This is a pinball game for the Atari 2600. You use the buttons on a paddle controller. To pull down the plunger, you press the right button. To reduce the plunger strength, you press the left button. To fire, you press both buttons. You then use the left and right buttons to control the flippers.
-
-The game features roll-over targets, bumpers, spinners and pop-up targets.
-
-Scoring
-Top Rollover=100 points
-Rollover Button=50 points 
-Top Bumper=50 or 500 when flashing 
-Bumper Pair=10 or 100 when flashing
-Spinner=10
-Drop Target=100 x Drop Target Value
-Rail Bumper=5
-
-Game select and the difficulty switches are not used.</desc>
-		<image>./mixart/Bumper Bash (USA).png</image>
-		<video>./snap/Bumper Bash (USA).mp4</video>
-		<marquee>./wheel/Bumper Bash (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Action</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>AA1C41F86EC44C0A44EB64C332CE08AF</cheevosHash>
-		<cheevosId>13097</cheevosId>
-	</game>
-	<game id="37693" source="ScreenScraper.fr">
-		<path>./BurgerTime (USA).zip</path>
-		<name>BurgerTime</name>
-		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
-
-To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.
-
-Higher levels result in new level design, faster enemies and more ingredients to assemble.
-
-The PlayStation 2 version is a port of the original arcade game and comes with a soundtrack disc, a DVD, a guide book and some other bonuses.</desc>
-		<image>./mixart/BurgerTime (USA).png</image>
-		<video>./snap/BurgerTime (USA).mp4</video>
-		<marquee>./wheel/BurgerTime (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>0443CFA9872CDB49069186413275FA21</cheevosHash>
-	</game>
 	<game id="51193" source="ScreenScraper.fr">
 		<path>./Burning Desire (Australia).zip</path>
 		<name>Burning Desire</name>
@@ -958,23 +891,6 @@ The PlayStation 2 version is a port of the original arcade game and comes with a
 		<players>1</players>
 		<lang>en</lang>
 		<cheevosHash>19D6956FF17A959C48FCD8F4706A848D</cheevosHash>
-	</game>
-	<game id="51194" source="ScreenScraper.fr">
-		<path>./Cabbage Patch Kids - Adventures in the Park (USA) (Proto).zip</path>
-		<name>Cabbage Patch Kids : Adventures in the Park</name>
-		<desc>Another long-lost unreleased prototype has now seen the light of day, thanks to a discovery by Alex Handy at a flea market in California. Alex located a cache of old EPROMs, later realizing he had come across a copy of Cabbage Patch Kids: Adventures in the Park for the Atari 2600, a title released for the ColecoVision but which never saw the light of day on the 2600. With the help of long-time Atari enthusiast Joe Grand, all of Alex's finds were dumped. The bulk of the dumps were ColecoVision related, but the Cabbage Patch game for the 2600 turned out to be the find of a lifetime for Atari fans. Alex quickly posted all of the dumped binaries on his blog, including 10 different versions of the Cabbage Patch game.
-
-As luck would have it, Cabbage Patch Kids: Adventures in the Park is an impressive game, comparable in quality to many modern homebrew games. Cabbage Patch Kids is a side-scrolling game, similar to Pitfall! in this regard. The game consists of various screens that have different obstacles that must be overcome in order to proceed to the next screen. These include water-filled pits, bouncing balls, floating platforms, bees, and fires. You must complete ten screens on each level before a timer runs out. While traversing the screens you can also use trampolines to collect objects hidden in the trees for additional points.
-
-Our thanks go out to Alex Handy for graciously sharing all of his impressive flea market haul with the classic gaming community.</desc>
-		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).png</image>
-		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).mp4</video>
-		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>Coleco</publisher>
-		<genre>Platform</genre>
-		<cheevosHash>66FCF7643D554F5E15D4D06BAB59FE70</cheevosHash>
 	</game>
 	<game id="14116" source="ScreenScraper.fr">
 		<path>./Cakewalk (USA).zip</path>
@@ -1174,68 +1090,6 @@ Falling rocks in the locked caves will fall twice as fast</desc>
 		<rating>0</rating>
 		<releasedate />
 		<cheevosHash>2F21515EA4C7EB39A4B4CA7B25D759BA</cheevosHash>
-	</game>
-	<game id="37695" source="ScreenScraper.fr">
-		<path>./Centipede (USA).zip</path>
-		<name>Centipede</name>
-		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. 
-
-The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands. 
-
-Insect Opponents and Mushrooms
-All enemy insects have a distinctive sound before attacking, which may help the player identify which insect is attacking. Enemies and objects in the game are as the following:
-
-1. The Centipede
-The Centipede will attack in 12 waves. In the first wave, the Centipede will have a head attached to 11 body segments. In the second wave, the Centipede will have a head attached to 10 body segments, in addition to a detached head. The third wave will have the Centipede with an attached head, 9 body segments, plus two detached heads. These body segments will transform into heads and continue to do so until Wave 12. In the last wave, the Centipede will have 12 detached heads, independently attacking the player. Centipede heads are worth more points than body segments.
-
-Attacks from the Centipede will come from the top of the screen, moving downward. If a spark hits any part of the Centipede, that particular body segment will transform into a mushroom, while the body segment behind it will become the new Centipede head. When the Centipede is destroyed, it will briefly disappear and re-appear from the top of the screen again.
-
-The Spider
-The Spider will attempt to distract the player from attacking the Centipede. It will destroy any mushroom it touches. Spiders will score more points if it is hit in closer distances.
-
-The Flea
-The Flea will appear if the player has destroyed most of the existing mushrooms. It will drop down creating a new batch of mushrooms where it falls. The Flea will disappear after two hits. After the first hit, the Flea will drop down much faster.
-
-The Scorpion
-The Scorpion will appear in the third wave. It moves slowly but will pick up speed, moving faster. While doing so, it will poison any mushroom it touches.
-
-Mushrooms
-Mushrooms fill the Enchanted Forest and may act as obstacles or cover for the player, with added effects to enemy insects. It takes for shots to complete destroy a mushroom. There are two type of mushrooms: Magic Mushrooms and Poisonous mushrooms. Magic mushrooms are the default mushrooms in the game and are also the the result of the player destroying an insect or Centipede body segment. Poisonous Mushrooms are the result of the Scorpion touching a mushroom. Poisonous Mushrooms will prompt the Centipede near it to move straight towards the player through any mushroom. Losing a wand will restore any partially damaged mushroom.
-
-Game Difficulty and Variations
-The game offers four difficulty levels: Novice, Standard, Advanced, and Expert. Game Variations are as the following:
-
-1. One Player
-Two Player Alternating
-Two players will take turns when the active player is bitten.
-Dual Player Competition
-Two players will appear on the screen at the same time. Scoring is separate. Shots fired from one player will paralyze the other player.
-Team Play
-Two players will appear on the screen at the same time. Scoring is combined. Shots fired from one player will not paralyze the other player.
-
-Scoring
-The player will win a bonus magic wand for every 12,000 points to a maximum of six wands. The game will end when all wands are lost. Scoring are as the following:
-
-Centipede Head - 100 points
-Centipede Body Segment - 10 points
-Spider at close range - 900 points
-Spider at medium range - 600 points
-Flea - 200 points
-Scorpion - 1,000 points
-Flea - 200 points
-Restored mushroom - 5 points
-Destroyed mushroom - 1 points</desc>
-		<image>./mixart/Centipede (USA).png</image>
-		<video>./snap/Centipede (USA).mp4</video>
-		<marquee>./wheel/Centipede (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>91C2098E88A6B13F977AF8C003E0BCA5</cheevosHash>
-		<cheevosId>11799</cheevosId>
 	</game>
 	<game id="51196" source="ScreenScraper.fr">
 		<path>./Challenge (Europe).zip</path>
@@ -2099,49 +1953,6 @@ It's all enough to make you quack up.</desc>
 		<players>1</players>
 		<cheevosHash>E4C00BEB17FDC5881757855F2838C816</cheevosHash>
 	</game>
-	<game id="59433" source="ScreenScraper.fr">
-		<path>./Death Trap (USA).zip</path>
-		<name>Death Trap</name>
-		<desc>You have been sent to deliver a message. Suddenly, you run into the giant ship IT. IT doesn't want that message to get to the Galactic Emperor. You must destroy all three power generators to escape. One generator is hidden until the other two are destroyed.
-
-IT is protected by three shields above you; which are A, B, and C, from top to bottom. There is a forth shield, D, below you. Touching any shield is instant game over. IT also has guided fireballs that chase your ship for a short distance. Getting hit by these too many times will kill you. If you can avoid getting hit long enough, your repair crew might can undo some of the damage (see Game variations below)
-
-You use the joystick to move the ship, left, right, up or down. Press the fire button to launch a torpedo. If you keep the fire button down, you can guide the torpedo left or right or accelerate it. Be advised, though, that you ship isn't moving while you are guiding the torpedo and could get damaged or destroyed.
-
-As you damage IT's generators, shields A, B, and C will get invulnerable sections. These move across the shields, making it harder to get shots through the longer you play. If you do not hit the left or right generators for 15 seconds, IT will lower shield C, reducing your maneuvering room. You will also lose points (see Scoring below).
-
-After you destroy the left and right generators, the center generator will be visible. When you destroy that, you win the game. However, as you hit the center generator, shield D will raise so you must work fast as possible.
-
-You start with six ships at the bottom of the screen. Each time a fireball hits you, you lose a ship. Lose them all and the game is over.
-
-Game variations
-After you press the fire button to select your joystick, you then choose your difficulty by moving the joystick up or down.
-
-The difficulty settings are:
-Easy (the square)=Fireball firing rate is slow, invulnerable shield segments are small, you have a repair crew.
-Normal (the X)=Fireball firing rate is normal, invulnerable shield segments are normal, you have a repair crew.
-Hard (the diamond)=Fireball firing rate is fast, invulnerable shield segments are normal, you do not have a repair crew. That means any lost ships from fireball strikes are never regained.
-
-The difficulty switches are not used.
-After you have the setting you want, move the joystick to the right to begin the game.
-
-Scoring
-Readiness=Every few seconds, you get 1 point for each ship at the bottom of the screen, up to a maximum of 6.
-Damage=The number of hits to a generator multiplied by ten. For instance, the first hit is 10 points, the 7th hit is 70 points, the 12th hit is 120 points, etc.
-Destroy the left or right generator=2000 points
-Destroy the center generator=5000 points
-Shield C lowers=lose 90 points, although your score will never be lower than zero.</desc>
-		<image>./mixart/Death Trap (USA).png</image>
-		<video>./snap/Death Trap (USA).mp4</video>
-		<marquee>./wheel/Death Trap (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Avalon Hill</developer>
-		<publisher>Avalon Hill</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<cheevosHash>4E15DDFD48BCA4F0BF999240C47B49F5</cheevosHash>
-	</game>
 	<game>
 		<path>./Defender (USA).zip</path>
 		<name>Defender</name>
@@ -2308,31 +2119,6 @@ Donkey Kong is also notable for being one of the first complete narratives in vi
 		<cheevosHash>36B20C427975760CB9CF4A47E41369E4</cheevosHash>
 		<cheevosId>13095</cheevosId>
 	</game>
-	<game id="59435" source="ScreenScraper.fr">
-		<path>./Donkey Kong Junior (USA).zip</path>
-		<name>Donkey Kong Junior</name>
-		<desc>Mario has kidnapped Junior's Papa!
-
-Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong.  In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage.  As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.
-
-Along the way, Mario will send out Snapjaws, swooping purple birds, and electric sparks in an attempt to stop Junior.  Junior can defend himself by dropping fruit found around the levels on the heads of his foes.  The more foes a piece of fruit hits in a falling sequence, the higher bonus points can be scored.
-
-Junior can also avoid enemies more easily by grabbing hold of two chains or vines at a time to climb away faster, or by jumping over his foes.  However, any long fall or falling into the water on certain levels will mean the loss of a life for Junior.
-
-In the final cut scene, Junior will free Donkey Kong and both will escape after giving Mario the boot.  Once all four levels are cleared, the game levels will start over at a higher difficulty.
-
-Like the original Donkey Kong, the earlier 1980's console versions do not have all of the levels and animations from the arcade.</desc>
-		<image>./mixart/Donkey Kong Junior (USA).png</image>
-		<video>./snap/Donkey Kong Junior (USA).mp4</video>
-		<marquee>./wheel/Donkey Kong Junior (USA).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Coleco</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>C8FA5D69D9E555EB16068EF87B1C9C45</cheevosHash>
-	</game>
 	<game id="59436" source="ScreenScraper.fr">
 		<path>./Double Dragon (USA).zip</path>
 		<name>Double Dragon</name>
@@ -2395,20 +2181,6 @@ On the bottom of the screen a strange creature would attempt to make his way pas
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>41810DD94BD0DE1110BEDC5092BEF5B0</cheevosHash>
-	</game>
-	<game id="37719" source="ScreenScraper.fr">
-		<path>./Dragonstomper (USA).zip</path>
-		<name>Dragonstomper</name>
-		<desc>Long ago, a Druid magician created an amulet of great power that could subdue a dragon. Heading to the dragon's lair, the Druid accidentally dropped the amulet and it fell deep into its lair. Over time, the amulet imbued the dragon with cunning and power so that it began to spread treachery and evil about the peaceful Kingdom. The player's quest begins with the king summoning the player to defeat the dragon once and for all. Taking up the call to arms, the player begins by gathering their strength and fighting creatures in the enchanted countryside to build up enough power to become a Dragonstomper. When finally ready, the player moves on to an oppressed village near the dragon's lair in order to recruit soldiers, buy magical scrolls, and acquire medicines and elixirs needed to face the dragon in its lair. With all of his skills, training, equipment and soldiers, the Dragonstomper descends into the dragon's lair for a final combat to bring peace to the Kingdom.</desc>
-		<image>./mixart/Dragonstomper (USA).png</image>
-		<video>./snap/Dragonstomper (USA).mp4</video>
-		<rating>0.6</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Starpath Corporation</developer>
-		<publisher>Starpath Corporation</publisher>
-		<genre>Role playing games</genre>
-		<cheevosHash>90CCF4F30A5AD8C801090B388DDD5613</cheevosHash>
-		<cheevosId>11699</cheevosId>
 	</game>
 	<game id="14086" source="ScreenScraper.fr">
 		<path>./Dragster (USA).zip</path>
@@ -2613,23 +2385,6 @@ There are three types of games, each with up to ten difficulty levels. In game t
 		<genre>Educational</genre>
 		<players>2</players>
 		<cheevosHash>B6812EAF87127F043E78F91F2028F9F4</cheevosHash>
-	</game>
-	<game id="51216" source="ScreenScraper.fr">
-		<path>./Elk Attack (USA) (Proto).zip</path>
-		<name>Elk Attack</name>
-		<desc>With a name like Elk Attack you'd probably expect a game involving herds of deadly rampaging elk right?  Well I hate disappoint you but there aren't herds of rampaging elk in this game, in fact this game has nothing to do with elks at all!  Elk Attack is really a port of the obscure Taito arcade game Electric Yo-Yo! Programmer Mark Hahn named the game Elk Attack as a joke, and probably would have changed the name had it been published.
-
-Silly name aside, Elk Attack is really a Pac-Man type game but without a maze.  You control a Yo-Yo type machine, which must use its string to latch onto and destroy all the colored blocks on the screen.  Along the way you'll encounter strange worm like creatures (sorry no elks), which will attempt to disrupt your Yo-Yo.  To help you fight the worms there are power squares scattered around the board which when grabbed will render your Yo-Yo temporarily invincible and increase your speed.   However unlike Pac-Man touching a worm while invincible will only net you points, and will not destroy of them.  Because of this its best to just go about your business and clear the maze instead of hunting down the worms.
-
-Since you use your string as your main means of propulsion, you must be careful as the screen becomes more and more open. For once you latch onto a block you can't let go until you touch it.  The most common way of dying is to accidentally latch onto a block on the other side of the screen and be sucked into a waiting enemy.  Clearing the board in a set pattern is the best way to avoid leaving large (and potentially dangerous) gaps between blocks.</desc>
-		<image>./mixart/Elk Attack (USA) (Proto).png</image>
-		<video>./snap/Elk Attack (USA) (Proto).mp4</video>
-		<marquee>./wheel/Elk Attack (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate>19870101T000000</releasedate>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<cheevosHash>7EAFC9827E8D5B1336905939E097AAE7</cheevosHash>
 	</game>
 	<game id="37726" source="ScreenScraper.fr">
 		<path>./Encaved (USA) (Unl).zip</path>
@@ -3379,44 +3134,6 @@ Move your ship across the surface of the planet and destroy Vegan tanks that you
 		<region>us</region>
 		<cheevosHash>DB971B6AFC9D243F614EBF380AF0AC60</cheevosHash>
 	</game>
-	<game id="37751" source="ScreenScraper.fr">
-		<path>./Gangster Alley (USA).zip</path>
-		<name>Gangster Alley</name>
-		<desc>S.B.I. (Spectravision Bureau of Investigation) file on Chicago Joe and his gang:
-We apprehended Chicago Joe but in retaliation, his gang have holed up in an apartment building, taking hostage a dame and her kid. The following men have been positively identified:
-
-Shifty
-2. Scar Face
-3. Mugsy
-4. Lefty
-5. Nitro Ed
-
-Your orders are to snipe any gang member. DO NOT SHOOT AN INNOCENT! Watch out for Nitro Ed. He likes to play with hand grenades. One of those and you're pushing up daisies. Good luck.
-
-You move the joystick to aim at a gangster and push the button to fire. Your ammo is limited so don't fire randomly. Occasionally, Nitro Ed, on the roof, will hold up a grenade. You must shoot him to disarm him. You get money for each gangster shot. The values for level one are:
-
-1. Mugsy=$20
-2. Scare Face=$30
-3. Lefty=$40
-4. Shifty=$50
-5. Disarming Nitro Ed=$100
-
-These amounts increase for each level by $10.  You also get $10 for each bullet you have left after each level. There are six levels. The fourth level is a nighttime level. In this level, you must fire one bullet to light up the windows. If you do not fire for a couple seconds, they go dark again.
-If you shoot an innocent, you will lose $1000 or you total amount if you have less than $1000.
-
-If a gangster rises all the way out of a window, after a couple of seconds, he will shoot you and you will lose one bullet proof vest (life). After you lose all your vests, the game is over and Nitro Ed will laugh at you. If Nitro Ed gets off his hand grenade, no matter how many vests you have, the game is over. And Nitro Ed will laugh at you. You start with four vests and can earn another at $5000.</desc>
-		<image>./mixart/Gangster Alley (USA).png</image>
-		<video>./snap/Gangster Alley (USA).mp4</video>
-		<marquee>./wheel/Gangster Alley (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Spectravision</developer>
-		<publisher>Spectravision</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>20EDCC3AA6C189259FA7E2F044A99C49</cheevosHash>
-		<cheevosId>16271</cheevosId>
-	</game>
 	<game id="51230" source="ScreenScraper.fr">
 		<path>./Garfield (USA) (Proto).zip</path>
 		<name>Garfield</name>
@@ -3515,54 +3232,6 @@ B=jumping and ducking less difficult</desc>
 		<genre>Action</genre>
 		<players>1</players>
 		<cheevosHash>2BEE7F226D506C217163BAD4AB1768C0</cheevosHash>
-	</game>
-	<game id="14003" source="ScreenScraper.fr">
-		<path>./Ghostbusters (USA).zip</path>
-		<name>Ghostbusters</name>
-		<desc>Based on the movie of the same name, the Ghostbusters are the ones to call who will "bust" any ghost hauntings. It does this through the use of nuclear accelerated "proton packs" and traps, whereby the ghosts can be captured and transferred to a secure storage facility. However New York City has suddenly become a very haunted place, and the number of ghosts has suddenly increased. The Ghostbusters must reduce the paranormal (PK) level in the city, representing ghost power, before the Temple of Zuul awakens and ressurects an evil goddess, Gozer.
-
-Ghostbusters is an action game that combines an overhead view and a side-view. From Ghostbusters HQ, the player must monitor the map of New York City for "ghost alarms" as well as casual spirits, and plot a route to the alarmed area. The player then controls the Ghostbuster vehicle as it drives through traffic. Here, the player is able to capture casual ghosts on the way if they are en route. Once at the location, the game switches to a side-view. Two of the ghostbusters will take position and activate their proton beams and toss a trap to the ground. The player will attempt to  maneuver the ghost(s) over the placed trap. Once activated, the trap attempts to capture any ghosts directly above it. Successful capture will earn the player money, which can then be used to purchase new Ghostbusters vehicles and new modifications for the vehicle. Unsuccessful capture will see the ghost fly away.
-
-As the game progresses, the PK energy of the city increases. Ghostbusters must keep it under critical levels by being constantly  successful at ghost captures. Eventually the Temple of Zuul will activate, and if the PK levels are still manageable, the Ghostbusters can venture there for a final showdown with Gozer.</desc>
-		<image>./mixart/Ghostbusters (USA).png</image>
-		<video>./snap/Ghostbusters (USA).mp4</video>
-		<marquee>./wheel/Ghostbusters (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Action</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>E314B42761CD13C03DEF744B4AFC7B1B</cheevosHash>
-		<cheevosId>16305</cheevosId>
-	</game>
-	<game id="59450" source="ScreenScraper.fr">
-		<path>./Ghostbusters II (Europe).zip</path>
-		<name>Ghostbusters II</name>
-		<desc>Ghostbusters II by Activision (the makers of the original Atari VCS Ghostbusters game) never even hit a store shelf in the United States. With the video game market (circa 1989) having shifted toward more advanced systems like the NES and Sega Master System, Activision felt it would be wasting its time releasing a new VCS game. Yet it was released overseas by Salu. In scenes inspired by the movie of the same name, Ghostbusters II puts players in the shoes of the apparition-apprehending heroes as they descend into a slime-filled underground tunnel, trying to blast ghosts and collect samples of "mood slime." Ghosts will attack both the player's Ghostbuster and the rope he's hanging from, and the Ghostbuster's "courage" meter must be monitored as well (though that can be replenished by picking up "elixir" power-ups in the tunnel). In the game's second level, players guide a mobile Statue of Liberty through the streets of New York City (echoing the movie's goofy climax), fending off more ghosts with her fireball-shooting torch and trying to keep a steady supply of "mood slime" to keep the statue moving.</desc>
-		<image>./mixart/Ghostbusters II (Europe).png</image>
-		<video>./snap/Ghostbusters II (Europe).mp4</video>
-		<marquee>./wheel/Ghostbusters II (Europe).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Salu Ltd.</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>C2B5C50CCB59816867036D7CF730BF75</cheevosHash>
-	</game>
-	<game id="51232" source="ScreenScraper.fr">
-		<path>./Gigolo (USA).zip</path>
-		<name>Gigolo</name>
-		<desc>In Gigolo, you are a lady out for a man or two -- hit the bank to get some cash, then sneak into one of many houses to find the gigolos and score some 'scores' before the cops catch you in the act! (The male and female roles of both games were swapped in the publisher's clones, Bachelorette Party and Cathouse Blues.)</desc>
-		<image>./mixart/Gigolo (USA).png</image>
-		<video>./snap/Gigolo (USA).mp4</video>
-		<marquee>./wheel/Gigolo (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19820101T000000</releasedate>
-		<publisher>PlayAround - J.H.M.</publisher>
-		<genre>Action</genre>
-		<cheevosHash>1C8C42D1AEE5010B30E7F1992D69216E</cheevosHash>
 	</game>
 	<game id="107147" source="ScreenScraper.fr">
 		<path>./Gingerbread Man (USA) (Unl).zip</path>
@@ -3985,23 +3654,6 @@ Each round consists of twenty-five moles. When a mole pops out of his hole, pres
 		<players>1</players>
 		<cheevosHash>C52D9BBDC5530E1EF8E8BA7BE692B01E</cheevosHash>
 	</game>
-	<game id="14111" source="ScreenScraper.fr">
-		<path>./Home Run (USA).zip</path>
-		<name>Home Run : Baseball</name>
-		<desc>The game can be played against the computer or with another player. You have the option to have 1, 2 or 3 players in the field. As a pitcher, you use the joystick to throw the ball and to control its speed and curve. After the ball is hit, your control all your men (they all move together since they follow the orders of a single joystick) in the field to catch the ball. As a batter, you can control the position of the baseball bat with the joystick. If you consider that your runners would make it to the next base, you can press the controller button so they stop at their current base. 
-
-The rest of the rules are basically like real baseball. Each team has nine innings in a game. You are out after three strikes, your get to first base after four balls (balls that do not fly over Home) or if the pitcher hits you with a ball. In the field, you can put out a batter by catching his ball, then another runner by reaching his next base before him or simply by touching him between bases, thus completing a double play. The only way to accomplish a home run is by hitting the ball over second base without having it caught by the field players. You score a point for each runner that reaches Home base after each of the first three.</desc>
-		<image>./mixart/Home Run (USA).png</image>
-		<video>./snap/Home Run (USA).mp4</video>
-		<marquee>./wheel/Home Run (USA).png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>0BFABF1E98BDB180643F35F2165995D0</cheevosHash>
-	</game>
 	<game id="14098" source="ScreenScraper.fr">
 		<path>./Human Cannonball (USA).zip</path>
 		<name>Human Cannonball : Cannon Man</name>
@@ -4034,21 +3686,6 @@ of platforming to impress Esmeralda, climbing up and down ladders to gather bell
 		<genre>Adventure-Action</genre>
 		<players>1</players>
 		<cheevosHash>9FA0C664B157A0C27D10319DBBCA812C</cheevosHash>
-	</game>
-	<game id="14122" source="ScreenScraper.fr">
-		<path>./Hunt &amp; Score (USA).zip</path>
-		<name>Hunt &amp; Score : Memory Match</name>
-		<desc>Hunt &amp; Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</desc>
-		<image>./mixart/Hunt &amp; Score (USA).png</image>
-		<video>./snap/Hunt &amp; Score (USA).mp4</video>
-		<marquee>./wheel/Hunt &amp; Score (USA).png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>102672BBD7E25CD79F4384DD7214C32B</cheevosHash>
 	</game>
 	<game id="51237" source="ScreenScraper.fr">
 		<path>./I Project (Europe) (Unl).zip</path>
@@ -4363,60 +4000,6 @@ In the Atari 2600 version, there is also a pterodactyl on the screen the interfe
 		<players>2</players>
 		<cheevosHash>EC40D4B995A795650CF5979726DA67DF</cheevosHash>
 	</game>
-	<game id="59458" source="ScreenScraper.fr">
-		<path>./Jr. Pac-Man (USA).zip</path>
-		<name>Jr. Pac-Man</name>
-		<desc>Jr. Pac-Man features gameplay similar to the original Pac-Man, but with a few changes. As Jr., you need to eat all of the dots in a maze without running into the four ghosts that are trying to get you. The maze is now much larger, and no longer fits on a single screen. The maze will scroll around to follow the action. From time to time a tasty bonus will bounce around the screen which can be eaten for extra points. There are tricycles, kites, drums, balloons, trains, root beers, and other bonuses that appear as the levels progress. When the bonus items bounce around the screen, any dots they touch will become larger and are now worth 50 points each instead of 10. However, one of these larger dots will cause Jr. Pac-Man to slow down greatly when he eats them making it more difficult to remain one step ahead of the ghosts which constantly pursue him! Located throughout the maze are power pellets; when Jr. eats one of these, the ghosts will temporarily turn blue and can now be eaten to earn even more points.</desc>
-		<image>./mixart/Jr. Pac-Man (USA).png</image>
-		<video>./snap/Jr. Pac-Man (USA).mp4</video>
-		<marquee>./wheel/Jr. Pac-Man (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>36C29CEEE2C151B23A1AD7AA04BD529D</cheevosHash>
-	</game>
-	<game id="87780" source="ScreenScraper.fr">
-		<path>./Jungle Fever (USA).zip</path>
-		<name>Jungle Fever/Knight on the Town</name>
-		<desc>This is a double-ender cartridge with Jungle Fever on one end and Knight on the Town on the other.
-
-Jungle Fever is just a gender-reversed version of Burning Desire in which your boyfriend is being held for sacrifice and you must rescue him while avoiding the rocks thrown by the amazons.
-
-Knight on the Town involves you (the knight in question) building a bridge over the moat to reach the princess. You must contend with a castration-minded alligator and a troll. Also, if you select it, the bird above you will drop fire to remove one of your bridge sections. Once you reach your lady, you can get your "reward".</desc>
-		<image>./mixart/Jungle Fever (USA).png</image>
-		<video>./snap/Jungle Fever (USA).mp4</video>
-		<marquee>./wheel/Jungle Fever (USA).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>PlayAround</developer>
-		<publisher>PlayAround</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>2CCCC079C15E9AF94246F867FFC7E9BF</cheevosHash>
-	</game>
-	<game id="14061" source="ScreenScraper.fr">
-		<path>./Jungle Hunt (USA).zip</path>
-		<name>Jungle Hunt</name>
-		<desc>Jungle Hunt offers four unique adventure experiences, which repeat with greater difficulty once all four have been survived.  If you don't survive these adventures, you will not only lose your own life but that of the lovely Penelope, who has been captured by cannibals!
-
-The first part challenges your Tarzan skills - can you swing on the vines without plummeting to your doom?  The second part pits you against a whole bunch of nasty crocodiles in a mighty river.  Fortunately, you have a knife to fight back with.  Don't forget to go up for air!  In the third part, you face a battle against oncoming boulders of varying sizes and physics.  Once you've cleared all these treacherous hazards, you still must confront the dreaded cannibal, who is armed with a wicked spear.  Can you get past him and save the lovely Penelope?
-
-Gameplay involves much strategic jumping and knife play (in the river/crocodile phase).  The view is always a side view, much like Pitfall! and later platform games.</desc>
-		<image>./mixart/Jungle Hunt (USA).png</image>
-		<video>./snap/Jungle Hunt (USA).mp4</video>
-		<marquee>./wheel/Jungle Hunt (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Plate-Forme</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>2BB9F4686F7E08C5FCC69EC1A1C66FE7</cheevosHash>
-		<cheevosId>13210</cheevosId>
-	</game>
 	<game id="51244" source="ScreenScraper.fr">
 		<path>./Juno First (USA) (Unl).zip</path>
 		<name>Juno First</name>
@@ -4508,22 +4091,6 @@ Thankfully there's a little more to Kamikaze Saucers than mindless shooting.  No
 		<players>2</players>
 		<cheevosHash>4326EDB70FF20D0EE5BA58FA5CB09D60</cheevosHash>
 		<cheevosId>13001</cheevosId>
-	</game>
-	<game id="14114" source="ScreenScraper.fr">
-		<path>./Karate (USA).zip</path>
-		<name>Karate</name>
-		<desc>If you think you're good, think again! Start as a white belt battling another white belt in a 2-minute match of wits, skill and force. As your opponent steps toward you, do you stand your ground or step back or move into him? You block some of his kicks and punches, but how much can you take? Time ticks away, so you move in to unleash your arsenal of kicks and punches, trying for that elusive knockdown! When you win, you advance one belt: from white to red... all the way up to black belt expert. But when you lose, your opponent gets even tougher in the next match. You have to be good... or you may take the beating of your life!</desc>
-		<image>./mixart/Karate (USA).png</image>
-		<video>./snap/Karate (USA).mp4</video>
-		<marquee>./wheel/Karate (USA).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sport</developer>
-		<publisher>Sport</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>CEDBD67D1FF321C996051EEC843F8716</cheevosHash>
-		<cheevosId>17461</cheevosId>
 	</game>
 	<game id="37772" source="ScreenScraper.fr">
 		<path>./Keystone Kapers (USA).zip</path>
@@ -4711,21 +4278,6 @@ Hearts are best used as blue powerups as they will act as multipliers for the X'
 		<genre>Action</genre>
 		<cheevosHash>1FA58679D4A39052BD9DB059E8CDA4AD</cheevosHash>
 	</game>
-	<game id="51250" source="ScreenScraper.fr">
-		<path>./Lasercade (USA) (Proto).zip</path>
-		<name>Lasercade</name>
-		<desc>Clear all the targets at the back of the gallery within the given time limit.
-The game ends if you fail to do so. 
-You start with 4 in round one and a new, smaller one is added for every 2 rounds you clear (up to 8).</desc>
-		<image>./mixart/Lasercade (USA) (Proto).png</image>
-		<video>./snap/Lasercade (USA) (Proto).mp4</video>
-		<marquee>./wheel/Lasercade (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>20th Century Fox</publisher>
-		<genre>Shoot'em Up</genre>
-		<cheevosHash>1FAB68FD67FE5A86B2C0A9227A59BB95</cheevosHash>
-	</game>
 	<game id="106810" source="ScreenScraper.fr">
 		<path>./Last Starfighter, The (USA) (Proto).zip</path>
 		<name>The Last Starfighter</name>
@@ -4857,18 +4409,6 @@ You win if you get promoted to Captain, whereupon you will be given a desk job.<
 		<region>us</region>
 		<cheevosHash>E4B12DEAAFD1DBF5AC31AFE4B8E9C233</cheevosHash>
 	</game>
-	<game id="59466" source="ScreenScraper.fr">
-		<path>./Lord of the Rings, The - Journey to Rivendell (USA) (Proto).zip</path>
-		<name>The Lord of the Rings : Journey to Rivendell</name>
-		<desc>The Lord of the Rings: Journey to Rivendell has been the subject of speculation for many years by Atari collectors. Now one of the most sought-after Atari 2600 prototypes is finally available. What's the story, you ask?
-Way back in 1983 Parker Brothers featured this game in one of their catalogs. Video game and Tolkien fans alike were excited by this announcement, but the wait would be in vain. Lord of the Rings was never released, and Parker Brothers reportedly informed people that called and asked for the game that it was sold out in an attempt to cover up for the fact that it was never published.</desc>
-		<image>./mixart/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).png</image>
-		<video>./snap/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).mp4</video>
-		<marquee>./wheel/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<cheevosHash>E24D7D879281FFEC0641E9C3F52E505A</cheevosHash>
-	</game>
 	<game id="59467" source="ScreenScraper.fr">
 		<path>./Lost Luggage (USA).zip</path>
 		<name>Lost Luggage</name>
@@ -4883,40 +4423,6 @@ Way back in 1983 Parker Brothers featured this game in one of their catalogs. Vi
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>7C00E7A205D3FDA98EB20DA7C9C50A55</cheevosHash>
-	</game>
-	<game>
-		<path>./M.A.D. (USA).zip</path>
-		<name>M.A.D.</name>
-		<desc>M.A.D. (which stands for Missile Attack and Defense) is an arcade action game somewhat similar to Missile Command. You control a photon cannon at the bottom of the screen, and your goal is to protect six energy stations located to your left and right. Waves of rockets and other ships will fly by on the screen, and occasionally one will drop in an attempt to destroy one of the stations (as a warning on most levels, the enemy will turn white just before it drops). You need to make sure you shoot it before your energy station is destroyed! When all six energy stations are gone, the game is over. A two player variation is also included; one player will control the photon cannon, and the second player controls a cursor and can select when and where an enemy will drop. The players alternate between offense and defense in this version.</desc>
-		<image>./mixart/M.A.D. (USA).png</image>
-		<video>./snap/M.A.D. (USA).mp4</video>
-		<marquee>./wheel/M.A.D. (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>U.S. Games</developer>
-		<publisher>U.S. Games</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>393E41CA8BDD35B52BF6256A968A9B89</cheevosHash>
-	</game>
-	<game id="51253" source="ScreenScraper.fr">
-		<path>./M.A.S.H (USA).zip</path>
-		<name>M.A.S.H</name>
-		<desc>M*A*S*H was one of the many attempts by various software companies to take a successful movie or television show and convert it into a playable game.
-
-In this game, you play the role of "Hawkeye Pierce," a surgeon stationed at the Mobile Army Surgical Hospital #4077 during the Korean War (1950-1953). There are two main stages in the game, each of which you must pass to move to the next round. The first mission involves rescuing injured soldiers from the battlefield with your helicopter and returning them to home base without being shot down by enemy tanks. The second mission takes place in the operating room while you are required to carefully remove bullets and shrapnel from wounded soldiers... it is very similar to the classic "OPERATION" tweezers game by Milton Bradley.
-
-Each set of missions are repeated four times. The first player to reach 999 points wins the game. There are four different variations of games, each selectable as either one player (against the computer) or two-player mode.</desc>
-		<image>./mixart/M.A.S.H (USA).png</image>
-		<video>./snap/M.A.S.H (USA).mp4</video>
-		<marquee>./wheel/M.A.S.H (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate />
-		<developer>Fox Video Games, Inc.</developer>
-		<publisher>Fox Video Games, Inc.</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<cheevosHash>835759FF95C2CDC2324D7C1E7C5FA237</cheevosHash>
 	</game>
 	<game id="51254" source="ScreenScraper.fr">
 		<path>./MagiCard (USA).zip</path>
@@ -4966,41 +4472,6 @@ Difficulty switches set to "A"=15 seconds from compartment before Malagai attack
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>CCB5FA954FB76F09CAAE9A8C66462190</cheevosHash>
-	</game>
-	<game id="37781" source="ScreenScraper.fr">
-		<path>./Mangia' (USA).zip</path>
-		<name>Mangia'</name>
-		<desc>Mama Mia! That's a  lots a pasta!
-
-Mama brings pasta to the table. You must either eat the pasta, toss it to Frankie the cat when he is at the window, or toss it to Sergio the dog when he is under the table.
-
-You have four lives. If you eat more than 20 plates of pasta, you will burst (literally) and lose 1 life. If more than 9 plates of pasta are placed on the table, it will collapse and you will lose 1 life.
-
-To eat pasta, you move the joystick to the right then the left. To toss pasta to a pet, you move the joystick to the right then up or down in one smooth motion. You must throw when Mama's back is turned and the cat is in the window or the dog is in the right spot under the table. If you throw food at the floor or window when the pet is not in position or if Mama sees you throw food to a pet, she will bring 3 plates the next time. Remember, over nine plates on the table and it is arrivederci una vita (goodbye one life).
-
-To clear a level, you must eat or toss a certain number of plates of pasta.
-1=31
-2=32
-3=35
-4=37
-5=40
-6=42
-7=45
-8=47
-9=49
-
-The point value of each plate of pasta starts at 5 at level 1 and increases by 1 point per level, to a maximum of 13 at level 9.
-You get an extra life at every 1,000 points. The highest points you can reach is 9,999.</desc>
-		<image>./mixart/Mangia' (USA).png</image>
-		<video>./snap/Mangia' (USA).mp4</video>
-		<marquee>./wheel/Mangia' (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Spectravision</developer>
-		<publisher>Spectravision</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>54A1C1255ED45EB8F71414DADB1CF669</cheevosHash>
 	</game>
 	<game id="37782" source="ScreenScraper.fr">
 		<path>./Marauder (USA).zip</path>
@@ -5299,33 +4770,6 @@ If a player exceeds a score of 999,999 the game ends.</desc>
 		<players>2</players>
 		<cheevosHash>DFAF2E8345DE4C98F8EAD3A850DFF702</cheevosHash>
 	</game>
-	<game id="14125" source="ScreenScraper.fr">
-		<path>./Merlin's Walls (France) (Unl).zip</path>
-		<name>Merlin's Walls</name>
-		<desc>You are trapped in a maze and have a limited amount of time to locate the exit. You can find and use dynamite to open additional doors in some mazes. There are sixteen mazes total. The game's orientation requires you to turn your TV 90°, lay on your right side, use mirrors so the screen looks like it is 90° turned or create a tabletop monitor.</desc>
-		<image>./mixart/Merlin's Walls (France) (Unl).png</image>
-		<video>./snap/Merlin's Walls (France) (Unl).mp4</video>
-		<marquee>./wheel/Merlin's Walls (France) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Stratégie</developer>
-		<publisher>Aventure</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<cheevosHash>50568C80AC61CAB789D9923C9B05B68E</cheevosHash>
-	</game>
-	<game id="51259" source="ScreenScraper.fr">
-		<path>./Meteoroids (USA) (Proto).zip</path>
-		<name>Meteoroids</name>
-		<image>./mixart/Meteoroids (USA) (Proto).png</image>
-		<video>./snap/Meteoroids (USA) (Proto).mp4</video>
-		<marquee>./wheel/Meteoroids (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>Arcadia Corporation</publisher>
-		<genre>Shoot'em Up</genre>
-		<cheevosHash>08BF437D012DB07B05FF57A0C745C49E</cheevosHash>
-	</game>
 	<game id="58701" source="ScreenScraper.fr">
 		<path>./Midnight Magic (USA).zip</path>
 		<name>Midnight Magic</name>
@@ -5492,39 +4936,6 @@ Using the standard joystick controller, you can position the club to adjust the 
 		<genre>Sports</genre>
 		<players>2</players>
 		<cheevosHash>DF62A658496AC98A3AA4A6EE5719C251</cheevosHash>
-	</game>
-	<game id="14038" source="ScreenScraper.fr">
-		<path>./Missile Command (USA).zip</path>
-		<name>Missile Command</name>
-		<desc>Aliens from the planet of Krytol are attacking your cities!! As the commander of a missile base, it is your responsibility to defend them. A variety of enemy weapons and planes will be incoming trying to destroy the six cities at the bottom of the screen. You need to fire missiles to destroy the incoming weapons. If anything gets through, one of your cities could be destroyed. When all of the cities are gone, the game is over. On each level you have a limited amount of ammo, so make sure most (if not all) of your shots are accurate or you could run out of ammo and leave your cities at risk! As the levels progress, there are more and more enemy weapons to destroy which come in at an increasingly faster rate.</desc>
-		<image>./mixart/Missile Command (USA).png</image>
-		<video>./snap/Missile Command (USA).mp4</video>
-		<marquee>./wheel/Missile Command (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Shoot'em Up</developer>
-		<publisher>Shoot'em Up</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>1A8204A2BCD793F539168773D9AD6230</cheevosHash>
-	</game>
-	<game id="59472" source="ScreenScraper.fr">
-		<path>./Missile Control (Europe).zip</path>
-		<name>Missile Control</name>
-		<desc>Missile Control is a Missile Command-style game. The player has to defend their cities from incoming bombs fire by alien spaceships.
-
-The player controls a cursor on the screen which indicates the direction of fire for the defense missiles. Once launched, they travel in a straight line from the launcher through the point the player specified until they hit an object. Each level is won by destroying all alien spaceships. The player loses once all their cities are destroyed. Bonus cities can be obtained by destroying a sufficient number of alien spacecraft.
-
-The game gets progressively harder, for example bombs will fall faster and energy barriers might protect the aliens from the player's attacks. To get around the barriers, players can deflect their shots from large defense missiles launched at the sides of the screen.</desc>
-		<image>./mixart/Missile Control (Europe).png</image>
-		<video>./snap/Missile Control (Europe).mp4</video>
-		<marquee>./wheel/Missile Control (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<publisher>Video Gems</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>CB24210DC86D92DF97B38CF2A51782DA</cheevosHash>
 	</game>
 	<game id="87805" source="ScreenScraper.fr">
 		<path>./Mission 3,000 A.D. (Europe).zip</path>
@@ -5717,22 +5128,6 @@ Finish the race first=100 points</desc>
 		<genre>Action</genre>
 		<players>1</players>
 		<cheevosHash>DB4EB44BC5D652D9192451383D3249FC</cheevosHash>
-	</game>
-	<game id="14031" source="ScreenScraper.fr">
-		<path>./Mouse Trap (USA).zip</path>
-		<name>Mouse Trap</name>
-		<desc>Mouse Trap is an arcade action game similar to Pac-Man. You control a mouse in a maze; your goal is to eat all of the bits of cheese in order to score points and move on to the next maze. Wandering throughout the maze are several cats who are trying to catch you! Your mouse has the ability to temporarily turn into a dog and be able to chase the cats. To do so, however, he will need to eat the dog bones which are located throughout the maze. The maze also contains numerous doors. The mouse can move these doors to reconfigure the maze in an attempt to outsmart the cats.</desc>
-		<image>./mixart/Mouse Trap (USA).png</image>
-		<video>./snap/Mouse Trap (USA).mp4</video>
-		<marquee>./wheel/Mouse Trap (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Action</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>5678EBAA09CA3B699516DBA4671643ED</cheevosHash>
-		<cheevosId>11725</cheevosId>
 	</game>
 	<game id="87810" source="ScreenScraper.fr">
 		<path>./Mr. Do! (USA).zip</path>
@@ -5956,25 +5351,6 @@ Come, but pray you will awaken before it's too late!</desc>
 		<players>1</players>
 		<cheevosHash>E3C35EAC234537396A865D23BAFB1C84</cheevosHash>
 	</game>
-	<game id="14049" source="ScreenScraper.fr">
-		<path>./Obelix (USA).zip</path>
-		<name>Obélix</name>
-		<desc>The objective of the game is to help Asterix "stun" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.
-
-If by any chance a stunned soldier is not whacked by a flying menhir, they turn "red" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the "red" Romans, so be ready to catch some when Getafix comes knocking.
-
-There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points.</desc>
-		<image>./mixart/Obelix (USA).png</image>
-		<video>./snap/Obelix (USA).mp4</video>
-		<marquee>./wheel/Obelix (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Action</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>133A4234512E8C4E9E8C5651469D4A09</cheevosHash>
-	</game>
 	<game id="59480" source="ScreenScraper.fr">
 		<path>./Off the Wall (USA).zip</path>
 		<name>Off the Wall</name>
@@ -6130,47 +5506,6 @@ For ages three to seven.</desc>
 		<publisher>Atari</publisher>
 		<players>2</players>
 		<cheevosHash>FA1B060FD8E0BCA0C2A097DCFFCE93D3</cheevosHash>
-	</game>
-	<game id="14030" source="ScreenScraper.fr">
-		<path>./Othello (USA).zip</path>
-		<name>Othello</name>
-		<desc>Othello is a conversion of the board game. Each player tries to fill the game board with as many discs of his color as possible. On each turn the player places a disc on the board by selecting a location where the opponents discs will become trapped between two of his discs. The trapped discs are flipped over to the players color. The game ends when the board is filled or time runs out, and the player with the greatest number of his color discs on the board wins. Two players can play against each other, or one player against the computer.</desc>
-		<image>./mixart/Othello (USA).png</image>
-		<video>./snap/Othello (USA).mp4</video>
-		<marquee>./wheel/Othello (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Strategy</genre>
-		<players>2</players>
-		<cheevosHash>55949CB7884F9DB0F8DFCF8707C7E5CB</cheevosHash>
-	</game>
-	<game id="59481" source="ScreenScraper.fr">
-		<path>./Out of Control (USA).zip</path>
-		<name>Out of Control</name>
-		<desc>This is an obstacle race in a space ship. The ship controls in a rather Asteroids-like way, in that you push left or right to rotate and press fire to thrust. Once you stop thrusting, the ship does not immediately stop, although it will slow down on its own. To stop sooner, you have to face away from the direction you are traveling and thrust.
-
-First, you must pass a set number of hurdles. If there is a single hurdle, you must pass on the side indicated by the arrow. If there are two hurdles, you must pass in between them. If there are three, you can pass through them or go around. If you hit a hurdle, you must go back to the last successfully passed hurdle and do it again to continue.
-
-After the hurdles, you must pop ten space balloons by running in to them. They appear one at a time at random spots on the screen. After you pop all ten balloons, you must dock in the space dock to end the race.
-
-The difficulty switches are not used. You select your game variation by moving the joystick up or down.
-
-Game variations
-There are 28 variations. The odd numbered ones have fast maneuvering, the even numbered ones, slow.
-
-The number of hurdles also varies. The first two have 10 hurdles, the next two, 14, then 22 (twice), 27 (twice), 35 (twice), 39 (four times), 47 (twice), 51 (twice), 54 (twice), 63 (twice), 64 (twice), 72 (twice), and 82 (twice).</desc>
-		<image>./mixart/Out of Control (USA).png</image>
-		<video>./snap/Out of Control (USA).mp4</video>
-		<marquee>./wheel/Out of Control (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Avalon Hill</developer>
-		<publisher>Avalon Hill</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<cheevosHash>F97DEE1AA2629911F30F225CA31789D4</cheevosHash>
 	</game>
 	<game id="14026" source="ScreenScraper.fr">
 		<path>./Outlaw (USA).zip</path>
@@ -6337,25 +5672,6 @@ Feels like Pac-Man!</desc>
 		<genre>Action</genre>
 		<cheevosHash>4331B19128DA212F51299377A397353C</cheevosHash>
 	</game>
-	<game id="51271" source="ScreenScraper.fr">
-		<path>./Pete Rose Baseball (USA).zip</path>
-		<name>Pete Rose Baseball</name>
-		<desc>This baseball game licenses former Cincinnati Reds player Pete Rose. It allows the player to play every position on the field. Different batting and pitching styles are available.
-
-It has digitized voice and sound, and provides a variety of play options including One or Two-player action, season play or exhibition. In a somewhat ahead-of-its-time move, eight different perspectives are offered. 
-
-There are also some team management capabilities, as you select and order your team, and hire new players. This can run over ten seasons, making for one of the first Career modes.</desc>
-		<image>./mixart/Pete Rose Baseball (USA).png</image>
-		<video>./snap/Pete Rose Baseball (USA).mp4</video>
-		<marquee>./wheel/Pete Rose Baseball (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Absolute Entertainment</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>9848B5EF7A0C02FE808B920A2AC566D2</cheevosHash>
-	</game>
 	<game id="59484" source="ScreenScraper.fr">
 		<path>./Phantom II - Pirate (USA) (Unl).zip</path>
 		<name>Phantom II / Pirate</name>
@@ -6461,23 +5777,6 @@ In addition to the regular symbols, there are also some special objects on the s
 		<genre>Puzzle-Game-Strategy</genre>
 		<players>2</players>
 		<cheevosHash>DA79AAD11572C80A96E261E4AC6392D0</cheevosHash>
-	</game>
-	<game id="37805" source="ScreenScraper.fr">
-		<path>./Pick Up (USA) (Proto).zip</path>
-		<name>Pick Up</name>
-		<desc>OK, here's the deal. If you want that lover of your dreams to get off their pedestal and go out with you, you need to present them with the right gifts. Then you can head over to the Love Nest Hotel to really score!
-
-You start with your lover of a pedestal on the left and various items floating above you. You must shoot each item once to acquire it. If an item starts flashing, shoot it next because after a short time, you'll lose a chance. If you shoot an item a second time, you will lose it and a chance. Lose all your chances and the game is over. If you collect all the items needed, head over to the pedestal then head off the screen to the right. Head to the door of the hotel and the hotel sign will say how many times you have scored. Now head left to start the next level.</desc>
-		<image>./mixart/Pick Up (USA) (Proto).png</image>
-		<video>./snap/Pick Up (USA) (Proto).mp4</video>
-		<marquee>./wheel/Pick Up (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Fox Video Games, Inc.</developer>
-		<publisher>CGE Services Corporation</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>1D4E0A034AD1275BC4D75165AE236105</cheevosHash>
 	</game>
 	<game id="37806" source="ScreenScraper.fr">
 		<path>./Picnic (USA).zip</path>
@@ -6788,85 +6087,6 @@ The second scene takes place at the wolves lair.  Here the wolves have reinforce
 		<players>2</players>
 		<cheevosHash>C7F13EF38F61EE2367ADA94FDCC6D206</cheevosHash>
 	</game>
-	<game id="37814" source="ScreenScraper.fr">
-		<path>./Porky's (USA).zip</path>
-		<name>Porky's</name>
-		<desc>You play as Edward "Pee Wee" Morris, who, despite his shortcomings, strives to get revenge on Porky, the owner of the bar that dissed Pee Wee and his friends.
-
-County Line
------------------
-You begin at the county line. You must move up from highway lane to highway lane without getting hit. You get points for dodging various obstacles on your way to Porky's.
-
-Motor Boat=1 point
-The Police=100 points
-Porky's Girls=200 points
-Attack Pigs=400 points
-Porky's Bouncers=800 points
-Pig Mobile=1600 points
-Last Band=3200 points
-
-Porky's Bar
------------------
-After you get all the way to the top, you enter Porky's Bar, where you have to travel the correct path up  the scaffolding, planting charges as you go. If you get to the top, there will be a detonator and so long Porky's! If you fall and Porky catches you, it is off to the swamp.
-
-Porky catches you=lose 200 points
-What points you get for exiting the scaffolding depends on the difficulty you have set the game to. The points are from 100 to 3200.
-
-The Swamp
------------------
-If you get caught on any other screen, you end up here. You must pole vault up and release when in mid-flight to get up to one of the platforms.
-
-The first time you are there, you have to collect bricks then place then on the wall on the other side until you can climb out. 
-
-If you are sent to the swamp a second time, you can climb out right away but look out for Porky.
-
-Place a brick=100 points
-Getting out of the swamp screen=100 points
-Each pole vault jump=lose 25 points
-Falling into swamp=lose 100 points
-Caught by Porky=lose a random number of points
-
-The Shower
--------------------
-Push the random object that appears at center, top into the pit at the bottom without getting caught by Ms. Balbricker or falling in the pit the climb out the top back to the county line. Every time you get through the shower, you stop or slow a lane on the highway.
-
-You get 100 points for pushing an object into the pit.
-You lose 200 points if you fall in the pit or are caught by Ms. Balbricker.
-Every ten seconds you are in the shower, you lose ten points so don't dawdle.
-
-The difficulty settings:
-Left difficulty switch set to A=Shower scene most difficult
-Left difficulty switch set to B=Shower scene less difficult
-Right difficulty switch set to A=Swamp scene most difficult
-Right difficulty switch set to B=Swamp scene less difficult
-B&amp;W/Color switch set to black &amp; white=Balbricker most aggressive
-B&amp;W/Color switch set to color=Balbricker less aggressive</desc>
-		<image>./mixart/Porky's (USA).png</image>
-		<video>./snap/Porky's (USA).mp4</video>
-		<marquee>./wheel/Porky's (USA).png</marquee>
-		<rating>0.15</rating>
-		<releasedate />
-		<developer>Dunhill Electronic Media Corp.|Lazer Microsystems Inc.</developer>
-		<publisher>Fox Video Games, Inc.</publisher>
-		<genre>Adventure-Action</genre>
-		<players>1</players>
-		<cheevosHash>F93D7FEE92717E161E6763A88A293FFA</cheevosHash>
-	</game>
-	<game id="37815" source="ScreenScraper.fr">
-		<path>./Power Off! (France) (Unl).zip</path>
-		<name>Power Off!</name>
-		<desc>You are Brian Mareck. Your father created a super computer to help mankind but when it was switched on, something went wrong. You must deactivate the computer, but beware of the robots that have been reprogrammed to protect the computer at all costs. You must run and climb ladders to get to the 'power pills' and deactivate them. Avoid the robots as they will kill you. Once you have deactivated all the 'power pills' in that part of the lab (level), it is off to the next.</desc>
-		<image>./mixart/Power Off! (France) (Unl).png</image>
-		<video>./snap/Power Off! (France) (Unl).mp4</video>
-		<marquee>./wheel/Power Off! (France) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Ébivision</developer>
-		<publisher>Ébivision</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>92A25D11A387EF1F63008ABF44D33CC4</cheevosHash>
-	</game>
 	<game id="37816" source="ScreenScraper.fr">
 		<path>./Pressure Cooker (USA).zip</path>
 		<name>Pressure Cooker</name>
@@ -6911,37 +6131,6 @@ B&amp;W/Color switch set to color=Balbricker less aggressive</desc>
 		<genre>Action</genre>
 		<players>1</players>
 		<cheevosHash>EF3A4F64B6494BA770862768CAF04B86</cheevosHash>
-	</game>
-	<game id="51280" source="ScreenScraper.fr">
-		<path>./Q-bert (USA).zip</path>
-		<name>Q*bert</name>
-		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
-		<image>./mixart/Q-bert (USA).png</image>
-		<video>./snap/Q-bert (USA).mp4</video>
-		<marquee>./wheel/Q-bert (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Western Technologies Inc.</developer>
-		<publisher>Parker Brothers</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>484B0076816A104875E00467D431C2D2</cheevosHash>
-		<cheevosId>11786</cheevosId>
-	</game>
-	<game id="14023" source="ScreenScraper.fr">
-		<path>./Q-bert's Qubes (USA).zip</path>
-		<name>Q*bert's Qubes</name>
-		<desc>Q*Bert's Qubes is the sequel to the game Q*Bert and features similar gameplay, but is now in three dimensions. Once again your goal is to change multicolored blocks to a target color, but now you must make sure all three visible sides of the blocks match the target color. You control Q*Bert on the playfield of blocks; Q*Bert changes the colors by jumping to a block which will cause it to rotate in the direction of his jump. Unlike the original game, you don't need to change the colors of the whole playfield, but rather need to form straight line(s) of the target colors, and when you do you can move on to the next round. Of course, to make this task more challenging are a variety of creatures (including a giant rat!) that chase you around the playfield. Each creature is a different color, and if it lands on a block where the top face is the same color then the creature falls off of the playfield, but if Q*Bert gets caught by a creature then a life is lost! As the game progresses, more creatures chase Q*Bert and additional colors are added to the playfield making it tougher to find the target color. There are no longer any discs on the sides of the playfield to carry you to safety, so make sure you don't jump off the edge! To help out, a green ball may appear from time to time; if you catch this, all the enemies become frozen temporarily.</desc>
-		<image>./mixart/Q-bert's Qubes (USA).png</image>
-		<video>./snap/Q-bert's Qubes (USA).mp4</video>
-		<marquee>./wheel/Q-bert's Qubes (USA).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Parker Brothers</developer>
-		<publisher>Parker Brothers</publisher>
-		<genre>Strategy-Action</genre>
-		<players>1</players>
-		<cheevosHash>517592E6E0C71731019C0CEBC2CE044F</cheevosHash>
 	</game>
 	<game id="37818" source="ScreenScraper.fr">
 		<path>./Quadrun (USA).zip</path>
@@ -7643,21 +6832,6 @@ In the Warhead Showdown, you must destroy the warhead with a shot. Of course, th
 		<players>1</players>
 		<cheevosHash>01297D9B450455DD716DB9658EFB2FAE</cheevosHash>
 	</game>
-	<game id="14121" source="ScreenScraper.fr">
-		<path>./Save the Whales (USA) (Proto).zip</path>
-		<name>Save the Whales</name>
-		<desc>In the interim that the SEAL is seeking for the crystals in the severe cold arctic ocean with a heap of floating ice blocks, there are coming a shoal of WHALES around and waiting for a favorable moment to sorrow the weak and timid SEAL.  Now you have to give the SEAL a hand to push the ice blocks and try to push the ice blocks and try to crush the whales to death so that the SEAL can find out all the three crystals and get them arranged in a line.  Can you help the SEAL?  The outcome depends on you!</desc>
-		<image>./mixart/Save the Whales (USA) (Proto).png</image>
-		<video>./snap/Save the Whales (USA) (Proto).mp4</video>
-		<marquee>./wheel/Save the Whales (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Action</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>E377C3AF4F54A51B85EFE37D4B7029E6</cheevosHash>
-	</game>
 	<game id="37834" source="ScreenScraper.fr">
 		<path>./SCSIcide (USA) (Unl).zip</path>
 		<name>SCSIcide</name>
@@ -7776,61 +6950,6 @@ You, the Secret Agent, must catch the falling agent items, like U.S. documents, 
 		<players>2</players>
 		<cheevosHash>605FD59BFEF88901C8C4794193A4CBAD</cheevosHash>
 	</game>
-	<game>
-		<path>./Secret Quest (USA).zip</path>
-		<name>Secret Quest</name>
-		<desc>It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs.
-
-You move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. You also use oxygen at the rate of one bottle per minute while exploring.
-
-Along the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations.
-
-Once you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy.
-
-Weapon energy use and damage
-Energy sword=1 energy and 2 strength
-Sonic blaster=2 energy and 4 strength
-Particle beam=4 energy and 8 strength.
-
-Scoring
-Bear trap=50 points
-Potato Man=100 points
-Chopper=150 points
-Machine=200 points
-Floater=250 points
-Spinner=350 points
-Medusa=400 points
-Squid=500 points
-Stomper=550 points
-Ghost=600 points
-Firecracker=650 points
-Snake=700 points
-Dragon=750 points</desc>
-		<image>./mixart/Secret Quest (USA).png</image>
-		<video>./snap/Secret Quest (USA).mp4</video>
-		<marquee>./wheel/Secret Quest (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Axlon</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<cheevosHash>FC24A94D4371C69BC58F5245ADA43C44</cheevosHash>
-	</game>
-	<game id="14075" source="ScreenScraper.fr">
-		<path>./Sentinel (USA).zip</path>
-		<name>Sentinel</name>
-		<desc>Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need to free them. To do this, a glowing orb called the Sentinel has been sent which can absorb the alien energy. As the Sentinel floats above the various, scrolling landscapes, you need to protect it from attacks by using the light gun to destroy enemies and enemy fire. If you don't destroy an enemy, it will deplete the Sentinels energy supply which will eventually destroy it. There are four levels of increasing difficulty, each with a large boss at the end. To help out on your mission, several bonuses may be encountered from time to time; increased firepower and energy can be acquired when you shoot the bonus capsules that appear. Three levels of difficulty are available.</desc>
-		<image>./mixart/Sentinel (USA).png</image>
-		<video>./snap/Sentinel (USA).mp4</video>
-		<marquee>./wheel/Sentinel (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Shoot'em Up</developer>
-		<publisher>Action</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>8DA51E0C4B6B46F7619425119C7D018E</cheevosHash>
-	</game>
 	<game id="37838" source="ScreenScraper.fr">
 		<path>./Shootin' Gallery (USA).zip</path>
 		<name>Shootin' Gallery</name>
@@ -7896,21 +7015,6 @@ The player pilots a lone spacecraft, and must create "Sinibombs" by shooting at 
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<cheevosHash>1E85F8BCCB4B866D4DAA9FCF89306474</cheevosHash>
-	</game>
-	<game id="37840" source="ScreenScraper.fr">
-		<path>./Sir Lancelot (USA).zip</path>
-		<name>Sir Lancelot</name>
-		<desc>A damsel in distress is being held in a castle by a fire breathing dragon! As Sir Lancelot, you need to ride your winged horse Pegasus to the rescue. Each level in this action game consists of two screens. First you are outside the castle which is guarded by numerous flying creatures. You need to fly around the screen and destroy all of the creatures by hitting them with your lance (careful, if they hit you instead you'll lose a life). After all of the creatures are gone, you enter the second screen which is inside the castle. Here there is a large pit of lava and a flying dragon. To destroy the dragon you need to hit it's stomach with your lance. If you are hit by one of the dragon's fireballs you'll be temporarily stunned and unable to fly. If you end up falling into the lava, you'll lose a life. If you can defeat the dragon, the game repeats at a higher difficulty level. The game ends when you lose all of your lives.</desc>
-		<image>./mixart/Sir Lancelot (USA).png</image>
-		<video>./snap/Sir Lancelot (USA).mp4</video>
-		<marquee>./wheel/Sir Lancelot (USA).png</marquee>
-		<rating>0.15</rating>
-		<releasedate />
-		<developer>Xonox</developer>
-		<publisher>Xonox</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>4C8970F6C294A0A54C9C45E5E8445F93</cheevosHash>
 	</game>
 	<game id="37841" source="ScreenScraper.fr">
 		<path>./Skate Boardin' (USA).zip</path>
@@ -8018,20 +7122,6 @@ This game was inspired by the TRS-80 CoCo game The Phantom Slayer. In this title
 		<releasedate />
 		<cheevosHash>F10E3F45FB01416C87E5835AB270B53A</cheevosHash>
 	</game>
-	<game>
-		<path>./Skiing (USA).zip</path>
-		<name>Skiing</name>
-		<desc>In Skiing, your goal is to ski to the bottom of the mountain in the shortest time possible. The mountain is treacherous with plenty of trees and moguls in the way! There are two different modes of gameplay. In slalom mode, there are a series of gates you need to ski through; missing any will result in a penalty to your time. In downhill mode you just need to ski to the bottom as fast as possible. Each mode includes five different skill levels which affect the length of the course (and the number of gates in slalom mode.)</desc>
-		<image>./mixart/Skiing (USA).png</image>
-		<video>./snap/Skiing (USA).mp4</video>
-		<marquee>./wheel/Skiing (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Sports</genre>
-		<cheevosHash>7623A639A6FFFDB246775FE2EABC8D01</cheevosHash>
-	</game>
 	<game id="51291" source="ScreenScraper.fr">
 		<path>./Skindiver (Europe).zip</path>
 		<name>Skindiver</name>
@@ -8043,16 +7133,6 @@ This game was inspired by the TRS-80 CoCo game The Phantom Slayer. In this title
 		<publisher>Sancho - Tang's Electronic Co.</publisher>
 		<genre>Action</genre>
 		<cheevosHash>340F546D59E72FB358C49AC2CA8482BB</cheevosHash>
-	</game>
-	<game id="87870" source="ScreenScraper.fr">
-		<path>./Sky Alien (Europe).zip</path>
-		<name>Sky Alien</name>
-		<image>./mixart/Sky Alien (Europe).png</image>
-		<video>./snap/Sky Alien (Europe).mp4</video>
-		<marquee>./wheel/Sky Alien (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<cheevosHash>C31A17942D162B80962CB1F7571CD1D5</cheevosHash>
 	</game>
 	<game id="14070" source="ScreenScraper.fr">
 		<path>./Sky Diver (USA).zip</path>
@@ -8150,20 +7230,6 @@ You steer your car with a joystick. Each time you hit your enemy with a missile,
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>AED82052F7589DF05A3F417BB4E45F0C</cheevosHash>
-	</game>
-	<game id="106800" source="ScreenScraper.fr">
-		<path>./Smurf - Rescue in Gargamel's Castle (USA).zip</path>
-		<name>Smurf : Rescue in Gargamel's Castle</name>
-		<desc>Gargamel has kidnapped Smurfette. As a Smurf, the player has to walk from the Smurf village through a forest and a cave on the way to Gargamel's castle, where Smurfette awaits rescue. The player has an energy bar that slowly depletes over time.
-Each side-scrolling screen presents various obstacles that the player must precisely jump over (e.g. fences, stalagmites) or land upon (e.g. ledges). Failure to execute any jump results in instant death. Higher difficulty levels introduce flying bats and spiders that the player must also avoid.
-The ColecoVision version of Smurf: Rescue in Gargamel's Castle contains an Easter egg. Upon reaching Smurfette's screen, the player can return to the previous screen. Just before the screen changes, it will appear as though the top of Smurfette's dress comes off, making her appear topless.</desc>
-		<image>./mixart/Smurf - Rescue in Gargamel's Castle (USA).png</image>
-		<video>./snap/Smurf - Rescue in Gargamel's Castle (USA).mp4</video>
-		<marquee>./wheel/Smurf - Rescue in Gargamel's Castle (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<cheevosHash>3D1E83AFDB4265FA2FB84819C9CFD39C</cheevosHash>
-		<cheevosId>13214</cheevosId>
 	</game>
 	<game id="87877" source="ScreenScraper.fr">
 		<path>./Smurfs Save the Day (USA).zip</path>
@@ -8278,23 +7344,6 @@ After the river, you must make your way through the forest without getting grabb
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>947317A89AF38A49C4864D6BDD6A91FB</cheevosHash>
-	</game>
-	<game id="87881" source="ScreenScraper.fr">
-		<path>./Solar Plexus (USA) (Unl).zip</path>
-		<name>Solar Plexus</name>
-		<desc>You are salvaging for fuel in the far reaches of the galaxy when you spot an artificial sun in the area. You need that fuel before you run out but watch out for colliding with that sun.
-
-You start on the screen with the artificial sun bouncing around and a fuel item on the right. You must grab the fuel before your ship is out of fuel, as it uses fuel at an impressive rate. If you run out of fuel, you lose a life. Beware of the sun as its touch is instant death. After every two fuels you grab, the pace picks up. You can accelerate by pressing your button.</desc>
-		<image>./mixart/Solar Plexus (USA) (Unl).png</image>
-		<video>./snap/Solar Plexus (USA) (Unl).mp4</video>
-		<marquee>./wheel/Solar Plexus (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>JessCREATIONS</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>B5BE87B87FD38C61B1628E8E2D469CB5</cheevosHash>
 	</game>
 	<game id="14088" source="ScreenScraper.fr">
 		<path>./Solar Storm (USA).zip</path>
@@ -8969,25 +8018,6 @@ Two player game variations are also included; in these one player controls Star 
 		<cheevosHash>C9F6E521A49A2D15DAC56B6DDB3FB4C7</cheevosHash>
 		<cheevosId>13336</cheevosId>
 	</game>
-	<game id="13994" source="ScreenScraper.fr">
-		<path>./Star Wars - Return of the Jedi - Death Star Battle (USA).zip</path>
-		<name>Star Wars : Return of the Jedi, Death Star Battle</name>
-		<desc>"Death Star Battle" is loosely based on the events of "Star Wars, Part 6: Return of the Jedi". Your task is to destroy the Death Star before its construction is finished. You start the task outside the shield perimeter of the Death Star. There you'll have to combat different imperial vessels and avoid the death ray while waiting for an opportunity to slip through one of the random openings in the energy shield. After reaching the Death Star you must reduce its structure up to the point where you can hit the core. In the following blow up of the station you must avoid collision with Death Star debris.
-
-After successful destruction the game will restart with increased difficulty (faster enemies, faster Death Star build up, etc).
-
-Overall difficulty can also be adjusted before starting the game.</desc>
-		<image>./mixart/Star Wars - Return of the Jedi - Death Star Battle (USA).png</image>
-		<video>./snap/Star Wars - Return of the Jedi - Death Star Battle (USA).mp4</video>
-		<marquee>./wheel/Star Wars - Return of the Jedi - Death Star Battle (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Parker Brothers</developer>
-		<publisher>Parker Brothers</publisher>
-		<genre>Shooter-Action</genre>
-		<players>2</players>
-		<cheevosHash>5336F86F6B982CC925532F2E80AA1E17</cheevosHash>
-	</game>
 	<game id="87913" source="ScreenScraper.fr">
 		<path>./Star Wars - Return of the Jedi - Ewok Adventure (USA) (Proto).zip</path>
 		<name>Star Wars : Return of the Jedi, Ewok Adventure</name>
@@ -9528,27 +8558,6 @@ Once the player reaches the top of the board, a new and more difficult round sta
 		<players>1</players>
 		<cheevosHash>C20F15282A1AA8724D70C117E5C9709E</cheevosHash>
 	</game>
-	<game id="14127" source="ScreenScraper.fr">
-		<path>./Surround (USA).zip</path>
-		<name>Surround : Chase</name>
-		<desc>Welcome to the exciting and competitive world of SURROUND. Your basic objective is to surround your opponent, causing him to run out of space in which to move, and at the same time not running into anything yourself. You can set up a blockade, force him into a corner or wander off by yourself and hope that he runs into something on his own.
-
-Along with the basic SURROUND game, we've added four game features to make things more interesting. Be sure to read Section 4 to learn more about these features.
-
-Then there's VIDEO GRAFFITI. It's just for fun without the competitive edge thrown in. VIDEO GRAFFITI actually allows you to draw on the screen.
-
-Surround was one of the nine Atari 2600 launch titles released in September 1977.</desc>
-		<image>./mixart/Surround (USA).png</image>
-		<video>./snap/Surround (USA).mp4</video>
-		<marquee>./wheel/Surround (USA).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19770101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Sears, Roebuck and Co.</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>4D7517AE69F95CFBC053BE01312B7DBA</cheevosHash>
-	</game>
 	<game id="87939" source="ScreenScraper.fr">
 		<path>./Survival Run (USA).zip</path>
 		<name>Survival Run</name>
@@ -9659,32 +8668,6 @@ The sets of numbers, for instance 8-4, were actually a combination of a page num
 		<genre>Action-Adventure</genre>
 		<players>1</players>
 		<cheevosHash>BC5389839857612CFABEB810BA7EFFDC</cheevosHash>
-	</game>
-	<game id="37870" source="ScreenScraper.fr">
-		<path>./Sync (USA) (Unl).zip</path>
-		<name>Sync</name>
-		<desc>Sync is a collection of rhythm and puzzle games.
-
-Mantra:
-The screen will show various symbols. Move the joystick to match the sequence until the sequence completes and you receive points.
-
-Jitter:
-Much like Mantra, you must match the sequence but now, each time you match a symbol, your control moves, automatically, to the next in the sequence.
-
-Flow:
-You have to place bars around those placed by the CPU. As soon as a counter completes a given number, every CPU cell whose number of bars corresponds to the sum of adjacent bars placed by the player is removed, and points are scored.
-
-Four:
-Four has four mini-games. In Gate, you have to match symbols place by the CPU on a vertically scrolling column. In Here, you clear a cell whenever an arrow in inside each cell. Also in Four are Jitter 1K and Flow 1K, scaled down versions of their 4K cousins.</desc>
-		<image>./mixart/Sync (USA) (Unl).png</image>
-		<video>./snap/Sync (USA) (Unl).mp4</video>
-		<marquee>./wheel/Sync (USA) (Unl).png</marquee>
-		<rating>0.7</rating>
-		<releasedate />
-		<publisher>AtariAge</publisher>
-		<genre>Strategy</genre>
-		<players>2</players>
-		<cheevosHash>C0EEE10F8868DE535C9AC0995EF3F6DC</cheevosHash>
 	</game>
 	<game id="51308" source="ScreenScraper.fr">
 		<path>./Synthcart (USA) (Unl).zip</path>
@@ -9907,25 +8890,6 @@ To make things more difficult you have limited time in form of a fuel tank which
 		<genre>Action</genre>
 		<players>2</players>
 		<cheevosHash>E63A87C231EE9A506F9599AA4EF7DFB9</cheevosHash>
-	</game>
-	<game id="37879" source="ScreenScraper.fr">
-		<path>./Thunderground (USA).zip</path>
-		<name>Thunderground</name>
-		<desc>There are six Core nuclear bases on the planet's surface. You must burrow underground to each of these bases and destroy them. But be warned, they are guarded by patrolling Core Ranger tanks that if they get you in their line of fire, will destroy you.
-
-There are two types of tanks. The white Sentry tanks only move through existing tunnels and will only fire on you if there is clear space between you and them. The blue Digger tanks will create their own tunnels to pursue you. There is also a Sentry tank at the bottom of the screen that slowly moves towards your reserve tanks. If this tank reaches you reserves before you destroy all six bases, you lose a life. The game is over if you lose all lives.
-
-There are enemy supplies buried in random areas that if you get them will get you bonus points. Later levels have the bases only appear one at a time or have no dirt between you and the enemy tanks, leaving them to pursue you from the start.</desc>
-		<image>./mixart/Thunderground (USA).png</image>
-		<video>./snap/Thunderground (USA).mp4</video>
-		<marquee>./wheel/Thunderground (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate />
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>CF507910D6E74568A68AC949537BCCF9</cheevosHash>
 	</game>
 	<game id="51316" source="ScreenScraper.fr">
 		<path>./Thwocker (USA) (Proto).zip</path>
@@ -10888,18 +9852,6 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
 		<cheevosHash>C5930D0E8CDAE3E037349BFA08E871BE</cheevosHash>
 		<cheevosId>13025</cheevosId>
 	</game>
-	<game id="51328" source="ScreenScraper.fr">
-		<path>./Z-Blocks (USA) (Unl).zip</path>
-		<name>Z-Blocks</name>
-		<image>./mixart/Z-Blocks (USA) (Unl).png</image>
-		<video>./snap/Z-Blocks (USA) (Unl).mp4</video>
-		<marquee>./wheel/Z-Blocks (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>Hozer Video Games - Alex G.</publisher>
-		<genre>Strategy</genre>
-		<cheevosHash>546D5E38CAE07C19EE76E575E8E55BD2</cheevosHash>
-	</game>
 	<game id="37904" source="ScreenScraper.fr">
 		<path>./Zaxxon (USA).zip</path>
 		<name>Zaxxon</name>
@@ -11690,5 +10642,1153 @@ While the gameplay is simple, there are subtleties, such as getting an opponent 
 		<players>2</players>
 		<cheevosHash>C3EF5C4653212088EDA54DC91D787870</cheevosHash>
 		<cheevosId>12912</cheevosId>
+	</game>
+	<game>
+		<path>./Barnstorming (USA).zip</path>
+		<name>Barnstorming</name>
+		<desc>In Barnstorming, you are the pilot of a biplane. Your point of view is from the side as the screen scrolls by horizontally. Your goal is to fly through a set number of barns in the shortest amount of time possible. Several obstacles will appear in your way, including flocks of geese, windmills, and weather vanes. Crashing into any of these will cause you to lose speed which will increase your overall time. There are several difficulty levels included which will require that you fly through anywhere from 10 to 25 barns.</desc>
+		<image>./mixart/Barnstorming (USA).png</image>
+		<video>./snap/Barnstorming (USA).mp4</video>
+		<marquee>./wheel/Barnstorming (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F8240E62D8C0A64A61E19388414E3104</cheevosHash>
+	</game>
+	<game id="14071" source="ScreenScraper.fr">
+		<path>./Bumper Bash (USA).zip</path>
+		<name>Bumper Bash</name>
+		<desc>This is a pinball game for the Atari 2600. You use the buttons on a paddle controller. To pull down the plunger, you press the right button. To reduce the plunger strength, you press the left button. To fire, you press both buttons. You then use the left and right buttons to control the flippers.
+
+The game features roll-over targets, bumpers, spinners and pop-up targets.
+
+Scoring
+Top Rollover=100 points
+Rollover Button=50 points 
+Top Bumper=50 or 500 when flashing 
+Bumper Pair=10 or 100 when flashing
+Spinner=10
+Drop Target=100 x Drop Target Value
+Rail Bumper=5
+
+Game select and the difficulty switches are not used.</desc>
+		<image>./mixart/Bumper Bash (USA).png</image>
+		<video>./snap/Bumper Bash (USA).mp4</video>
+		<marquee>./wheel/Bumper Bash (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AA1C41F86EC44C0A44EB64C332CE08AF</cheevosHash>
+		<cheevosId>13097</cheevosId>
+	</game>
+	<game id="37693" source="ScreenScraper.fr">
+		<path>./BurgerTime (USA).zip</path>
+		<name>BurgerTime</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
+
+To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.
+
+Higher levels result in new level design, faster enemies and more ingredients to assemble.
+
+The PlayStation 2 version is a port of the original arcade game and comes with a soundtrack disc, a DVD, a guide book and some other bonuses.</desc>
+		<image>./mixart/BurgerTime (USA).png</image>
+		<video>./snap/BurgerTime (USA).mp4</video>
+		<marquee>./wheel/BurgerTime (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0443CFA9872CDB49069186413275FA21</cheevosHash>
+	</game>
+	<game id="51194" source="ScreenScraper.fr">
+		<path>./Cabbage Patch Kids - Adventures in the Park (USA) (Proto).zip</path>
+		<name>Cabbage Patch Kids : Adventures in the Park</name>
+		<desc>Another long-lost unreleased prototype has now seen the light of day, thanks to a discovery by Alex Handy at a flea market in California. Alex located a cache of old EPROMs, later realizing he had come across a copy of Cabbage Patch Kids: Adventures in the Park for the Atari 2600, a title released for the ColecoVision but which never saw the light of day on the 2600. With the help of long-time Atari enthusiast Joe Grand, all of Alex's finds were dumped. The bulk of the dumps were ColecoVision related, but the Cabbage Patch game for the 2600 turned out to be the find of a lifetime for Atari fans. Alex quickly posted all of the dumped binaries on his blog, including 10 different versions of the Cabbage Patch game.
+
+As luck would have it, Cabbage Patch Kids: Adventures in the Park is an impressive game, comparable in quality to many modern homebrew games. Cabbage Patch Kids is a side-scrolling game, similar to Pitfall! in this regard. The game consists of various screens that have different obstacles that must be overcome in order to proceed to the next screen. These include water-filled pits, bouncing balls, floating platforms, bees, and fires. You must complete ten screens on each level before a timer runs out. While traversing the screens you can also use trampolines to collect objects hidden in the trees for additional points.
+
+Our thanks go out to Alex Handy for graciously sharing all of his impressive flea market haul with the classic gaming community.</desc>
+		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).png</image>
+		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).mp4</video>
+		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>Coleco</publisher>
+		<genre>Platform</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>66FCF7643D554F5E15D4D06BAB59FE70</cheevosHash>
+	</game>
+	<game id="37695" source="ScreenScraper.fr">
+		<path>./Centipede (USA).zip</path>
+		<name>Centipede</name>
+		<desc>In Centipede, the player is trapped in the Enchanted Forest. Armed with only a magic wand to ward off the forest's insect denizens, all of which apparently are attacking in the player in continuous waves. 
+
+The player must use the magic wand to shoot sparks at approaching insects to score points by pressing the controller button. Holding down the controller button will set the wand to rapid fire shots. If the player is bitten by an insect, the player will be temporarily paralyzed and lose one of the three starting magic wands. 
+
+Insect Opponents and Mushrooms
+All enemy insects have a distinctive sound before attacking, which may help the player identify which insect is attacking. Enemies and objects in the game are as the following:
+
+1. The Centipede
+The Centipede will attack in 12 waves. In the first wave, the Centipede will have a head attached to 11 body segments. In the second wave, the Centipede will have a head attached to 10 body segments, in addition to a detached head. The third wave will have the Centipede with an attached head, 9 body segments, plus two detached heads. These body segments will transform into heads and continue to do so until Wave 12. In the last wave, the Centipede will have 12 detached heads, independently attacking the player. Centipede heads are worth more points than body segments.
+
+Attacks from the Centipede will come from the top of the screen, moving downward. If a spark hits any part of the Centipede, that particular body segment will transform into a mushroom, while the body segment behind it will become the new Centipede head. When the Centipede is destroyed, it will briefly disappear and re-appear from the top of the screen again.
+
+The Spider
+The Spider will attempt to distract the player from attacking the Centipede. It will destroy any mushroom it touches. Spiders will score more points if it is hit in closer distances.
+
+The Flea
+The Flea will appear if the player has destroyed most of the existing mushrooms. It will drop down creating a new batch of mushrooms where it falls. The Flea will disappear after two hits. After the first hit, the Flea will drop down much faster.
+
+The Scorpion
+The Scorpion will appear in the third wave. It moves slowly but will pick up speed, moving faster. While doing so, it will poison any mushroom it touches.
+
+Mushrooms
+Mushrooms fill the Enchanted Forest and may act as obstacles or cover for the player, with added effects to enemy insects. It takes for shots to complete destroy a mushroom. There are two type of mushrooms: Magic Mushrooms and Poisonous mushrooms. Magic mushrooms are the default mushrooms in the game and are also the the result of the player destroying an insect or Centipede body segment. Poisonous Mushrooms are the result of the Scorpion touching a mushroom. Poisonous Mushrooms will prompt the Centipede near it to move straight towards the player through any mushroom. Losing a wand will restore any partially damaged mushroom.
+
+Game Difficulty and Variations
+The game offers four difficulty levels: Novice, Standard, Advanced, and Expert. Game Variations are as the following:
+
+1. One Player
+Two Player Alternating
+Two players will take turns when the active player is bitten.
+Dual Player Competition
+Two players will appear on the screen at the same time. Scoring is separate. Shots fired from one player will paralyze the other player.
+Team Play
+Two players will appear on the screen at the same time. Scoring is combined. Shots fired from one player will not paralyze the other player.
+
+Scoring
+The player will win a bonus magic wand for every 12,000 points to a maximum of six wands. The game will end when all wands are lost. Scoring are as the following:
+
+Centipede Head - 100 points
+Centipede Body Segment - 10 points
+Spider at close range - 900 points
+Spider at medium range - 600 points
+Flea - 200 points
+Scorpion - 1,000 points
+Flea - 200 points
+Restored mushroom - 5 points
+Destroyed mushroom - 1 points</desc>
+		<image>./mixart/Centipede (USA).png</image>
+		<video>./snap/Centipede (USA).mp4</video>
+		<marquee>./wheel/Centipede (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>91C2098E88A6B13F977AF8C003E0BCA5</cheevosHash>
+		<cheevosId>11799</cheevosId>
+	</game>
+	<game id="59433" source="ScreenScraper.fr">
+		<path>./Death Trap (USA).zip</path>
+		<name>Death Trap</name>
+		<desc>You have been sent to deliver a message. Suddenly, you run into the giant ship IT. IT doesn't want that message to get to the Galactic Emperor. You must destroy all three power generators to escape. One generator is hidden until the other two are destroyed.
+
+IT is protected by three shields above you; which are A, B, and C, from top to bottom. There is a forth shield, D, below you. Touching any shield is instant game over. IT also has guided fireballs that chase your ship for a short distance. Getting hit by these too many times will kill you. If you can avoid getting hit long enough, your repair crew might can undo some of the damage (see Game variations below)
+
+You use the joystick to move the ship, left, right, up or down. Press the fire button to launch a torpedo. If you keep the fire button down, you can guide the torpedo left or right or accelerate it. Be advised, though, that you ship isn't moving while you are guiding the torpedo and could get damaged or destroyed.
+
+As you damage IT's generators, shields A, B, and C will get invulnerable sections. These move across the shields, making it harder to get shots through the longer you play. If you do not hit the left or right generators for 15 seconds, IT will lower shield C, reducing your maneuvering room. You will also lose points (see Scoring below).
+
+After you destroy the left and right generators, the center generator will be visible. When you destroy that, you win the game. However, as you hit the center generator, shield D will raise so you must work fast as possible.
+
+You start with six ships at the bottom of the screen. Each time a fireball hits you, you lose a ship. Lose them all and the game is over.
+
+Game variations
+After you press the fire button to select your joystick, you then choose your difficulty by moving the joystick up or down.
+
+The difficulty settings are:
+Easy (the square)=Fireball firing rate is slow, invulnerable shield segments are small, you have a repair crew.
+Normal (the X)=Fireball firing rate is normal, invulnerable shield segments are normal, you have a repair crew.
+Hard (the diamond)=Fireball firing rate is fast, invulnerable shield segments are normal, you do not have a repair crew. That means any lost ships from fireball strikes are never regained.
+
+The difficulty switches are not used.
+After you have the setting you want, move the joystick to the right to begin the game.
+
+Scoring
+Readiness=Every few seconds, you get 1 point for each ship at the bottom of the screen, up to a maximum of 6.
+Damage=The number of hits to a generator multiplied by ten. For instance, the first hit is 10 points, the 7th hit is 70 points, the 12th hit is 120 points, etc.
+Destroy the left or right generator=2000 points
+Destroy the center generator=5000 points
+Shield C lowers=lose 90 points, although your score will never be lower than zero.</desc>
+		<image>./mixart/Death Trap (USA).png</image>
+		<video>./snap/Death Trap (USA).mp4</video>
+		<marquee>./wheel/Death Trap (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Avalon Hill</developer>
+		<publisher>Avalon Hill</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4E15DDFD48BCA4F0BF999240C47B49F5</cheevosHash>
+	</game>
+	<game id="59435" source="ScreenScraper.fr">
+		<path>./Donkey Kong Junior (USA).zip</path>
+		<name>Donkey Kong Junior</name>
+		<desc>Mario has kidnapped Junior's Papa!
+
+Donkey Kong Jr. was originally released in the arcades in 1982 as a sequel to Donkey Kong.  In this game, Mario plays the antagonist, finally having captured Donkey Kong, and has put the ape in a locked cage.  As Donkey Kong Jr., players will have to make their way through four different levels (Vines, Springboard, Chains and Mario's Hideout) in an attempt to find keys to free the little monkey's Father.
+
+Along the way, Mario will send out Snapjaws, swooping purple birds, and electric sparks in an attempt to stop Junior.  Junior can defend himself by dropping fruit found around the levels on the heads of his foes.  The more foes a piece of fruit hits in a falling sequence, the higher bonus points can be scored.
+
+Junior can also avoid enemies more easily by grabbing hold of two chains or vines at a time to climb away faster, or by jumping over his foes.  However, any long fall or falling into the water on certain levels will mean the loss of a life for Junior.
+
+In the final cut scene, Junior will free Donkey Kong and both will escape after giving Mario the boot.  Once all four levels are cleared, the game levels will start over at a higher difficulty.
+
+Like the original Donkey Kong, the earlier 1980's console versions do not have all of the levels and animations from the arcade.</desc>
+		<image>./mixart/Donkey Kong Junior (USA).png</image>
+		<video>./snap/Donkey Kong Junior (USA).mp4</video>
+		<marquee>./wheel/Donkey Kong Junior (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C8FA5D69D9E555EB16068EF87B1C9C45</cheevosHash>
+	</game>
+	<game id="37719" source="ScreenScraper.fr">
+		<path>./Dragonstomper (USA).zip</path>
+		<name>Dragonstomper</name>
+		<desc>Long ago, a Druid magician created an amulet of great power that could subdue a dragon. Heading to the dragon's lair, the Druid accidentally dropped the amulet and it fell deep into its lair. Over time, the amulet imbued the dragon with cunning and power so that it began to spread treachery and evil about the peaceful Kingdom. The player's quest begins with the king summoning the player to defeat the dragon once and for all. Taking up the call to arms, the player begins by gathering their strength and fighting creatures in the enchanted countryside to build up enough power to become a Dragonstomper. When finally ready, the player moves on to an oppressed village near the dragon's lair in order to recruit soldiers, buy magical scrolls, and acquire medicines and elixirs needed to face the dragon in its lair. With all of his skills, training, equipment and soldiers, the Dragonstomper descends into the dragon's lair for a final combat to bring peace to the Kingdom.</desc>
+		<image>./mixart/Dragonstomper (USA).png</image>
+		<video>./snap/Dragonstomper (USA).mp4</video>
+		<rating>0.6</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Starpath Corporation</developer>
+		<publisher>Starpath Corporation</publisher>
+		<genre>Role playing games</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>90CCF4F30A5AD8C801090B388DDD5613</cheevosHash>
+		<cheevosId>11699</cheevosId>
+	</game>
+	<game id="51216" source="ScreenScraper.fr">
+		<path>./Elk Attack (USA) (Proto).zip</path>
+		<name>Elk Attack</name>
+		<desc>With a name like Elk Attack you'd probably expect a game involving herds of deadly rampaging elk right?  Well I hate disappoint you but there aren't herds of rampaging elk in this game, in fact this game has nothing to do with elks at all!  Elk Attack is really a port of the obscure Taito arcade game Electric Yo-Yo! Programmer Mark Hahn named the game Elk Attack as a joke, and probably would have changed the name had it been published.
+
+Silly name aside, Elk Attack is really a Pac-Man type game but without a maze.  You control a Yo-Yo type machine, which must use its string to latch onto and destroy all the colored blocks on the screen.  Along the way you'll encounter strange worm like creatures (sorry no elks), which will attempt to disrupt your Yo-Yo.  To help you fight the worms there are power squares scattered around the board which when grabbed will render your Yo-Yo temporarily invincible and increase your speed.   However unlike Pac-Man touching a worm while invincible will only net you points, and will not destroy of them.  Because of this its best to just go about your business and clear the maze instead of hunting down the worms.
+
+Since you use your string as your main means of propulsion, you must be careful as the screen becomes more and more open. For once you latch onto a block you can't let go until you touch it.  The most common way of dying is to accidentally latch onto a block on the other side of the screen and be sucked into a waiting enemy.  Clearing the board in a set pattern is the best way to avoid leaving large (and potentially dangerous) gaps between blocks.</desc>
+		<image>./mixart/Elk Attack (USA) (Proto).png</image>
+		<video>./snap/Elk Attack (USA) (Proto).mp4</video>
+		<marquee>./wheel/Elk Attack (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7EAFC9827E8D5B1336905939E097AAE7</cheevosHash>
+	</game>
+	<game id="37751" source="ScreenScraper.fr">
+		<path>./Gangster Alley (USA).zip</path>
+		<name>Gangster Alley</name>
+		<desc>S.B.I. (Spectravision Bureau of Investigation) file on Chicago Joe and his gang:
+We apprehended Chicago Joe but in retaliation, his gang have holed up in an apartment building, taking hostage a dame and her kid. The following men have been positively identified:
+
+Shifty
+2. Scar Face
+3. Mugsy
+4. Lefty
+5. Nitro Ed
+
+Your orders are to snipe any gang member. DO NOT SHOOT AN INNOCENT! Watch out for Nitro Ed. He likes to play with hand grenades. One of those and you're pushing up daisies. Good luck.
+
+You move the joystick to aim at a gangster and push the button to fire. Your ammo is limited so don't fire randomly. Occasionally, Nitro Ed, on the roof, will hold up a grenade. You must shoot him to disarm him. You get money for each gangster shot. The values for level one are:
+
+1. Mugsy=$20
+2. Scare Face=$30
+3. Lefty=$40
+4. Shifty=$50
+5. Disarming Nitro Ed=$100
+
+These amounts increase for each level by $10.  You also get $10 for each bullet you have left after each level. There are six levels. The fourth level is a nighttime level. In this level, you must fire one bullet to light up the windows. If you do not fire for a couple seconds, they go dark again.
+If you shoot an innocent, you will lose $1000 or you total amount if you have less than $1000.
+
+If a gangster rises all the way out of a window, after a couple of seconds, he will shoot you and you will lose one bullet proof vest (life). After you lose all your vests, the game is over and Nitro Ed will laugh at you. If Nitro Ed gets off his hand grenade, no matter how many vests you have, the game is over. And Nitro Ed will laugh at you. You start with four vests and can earn another at $5000.</desc>
+		<image>./mixart/Gangster Alley (USA).png</image>
+		<video>./snap/Gangster Alley (USA).mp4</video>
+		<marquee>./wheel/Gangster Alley (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Spectravision</developer>
+		<publisher>Spectravision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>20EDCC3AA6C189259FA7E2F044A99C49</cheevosHash>
+		<cheevosId>16271</cheevosId>
+	</game>
+	<game id="14003" source="ScreenScraper.fr">
+		<path>./Ghostbusters (USA).zip</path>
+		<name>Ghostbusters</name>
+		<desc>Based on the movie of the same name, the Ghostbusters are the ones to call who will "bust" any ghost hauntings. It does this through the use of nuclear accelerated "proton packs" and traps, whereby the ghosts can be captured and transferred to a secure storage facility. However New York City has suddenly become a very haunted place, and the number of ghosts has suddenly increased. The Ghostbusters must reduce the paranormal (PK) level in the city, representing ghost power, before the Temple of Zuul awakens and ressurects an evil goddess, Gozer.
+
+Ghostbusters is an action game that combines an overhead view and a side-view. From Ghostbusters HQ, the player must monitor the map of New York City for "ghost alarms" as well as casual spirits, and plot a route to the alarmed area. The player then controls the Ghostbuster vehicle as it drives through traffic. Here, the player is able to capture casual ghosts on the way if they are en route. Once at the location, the game switches to a side-view. Two of the ghostbusters will take position and activate their proton beams and toss a trap to the ground. The player will attempt to  maneuver the ghost(s) over the placed trap. Once activated, the trap attempts to capture any ghosts directly above it. Successful capture will earn the player money, which can then be used to purchase new Ghostbusters vehicles and new modifications for the vehicle. Unsuccessful capture will see the ghost fly away.
+
+As the game progresses, the PK energy of the city increases. Ghostbusters must keep it under critical levels by being constantly  successful at ghost captures. Eventually the Temple of Zuul will activate, and if the PK levels are still manageable, the Ghostbusters can venture there for a final showdown with Gozer.</desc>
+		<image>./mixart/Ghostbusters (USA).png</image>
+		<video>./snap/Ghostbusters (USA).mp4</video>
+		<marquee>./wheel/Ghostbusters (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E314B42761CD13C03DEF744B4AFC7B1B</cheevosHash>
+		<cheevosId>16305</cheevosId>
+	</game>
+	<game id="59450" source="ScreenScraper.fr">
+		<path>./Ghostbusters II (Europe).zip</path>
+		<name>Ghostbusters II</name>
+		<desc>Ghostbusters II by Activision (the makers of the original Atari VCS Ghostbusters game) never even hit a store shelf in the United States. With the video game market (circa 1989) having shifted toward more advanced systems like the NES and Sega Master System, Activision felt it would be wasting its time releasing a new VCS game. Yet it was released overseas by Salu. In scenes inspired by the movie of the same name, Ghostbusters II puts players in the shoes of the apparition-apprehending heroes as they descend into a slime-filled underground tunnel, trying to blast ghosts and collect samples of "mood slime." Ghosts will attack both the player's Ghostbuster and the rope he's hanging from, and the Ghostbuster's "courage" meter must be monitored as well (though that can be replenished by picking up "elixir" power-ups in the tunnel). In the game's second level, players guide a mobile Statue of Liberty through the streets of New York City (echoing the movie's goofy climax), fending off more ghosts with her fireball-shooting torch and trying to keep a steady supply of "mood slime" to keep the statue moving.</desc>
+		<image>./mixart/Ghostbusters II (Europe).png</image>
+		<video>./snap/Ghostbusters II (Europe).mp4</video>
+		<marquee>./wheel/Ghostbusters II (Europe).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Salu Ltd.</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>C2B5C50CCB59816867036D7CF730BF75</cheevosHash>
+	</game>
+	<game id="51232" source="ScreenScraper.fr">
+		<path>./Gigolo (USA).zip</path>
+		<name>Gigolo</name>
+		<desc>In Gigolo, you are a lady out for a man or two -- hit the bank to get some cash, then sneak into one of many houses to find the gigolos and score some 'scores' before the cops catch you in the act! (The male and female roles of both games were swapped in the publisher's clones, Bachelorette Party and Cathouse Blues.)</desc>
+		<image>./mixart/Gigolo (USA).png</image>
+		<video>./snap/Gigolo (USA).mp4</video>
+		<marquee>./wheel/Gigolo (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>PlayAround - J.H.M.</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1C8C42D1AEE5010B30E7F1992D69216E</cheevosHash>
+	</game>
+	<game id="14111" source="ScreenScraper.fr">
+		<path>./Home Run (USA).zip</path>
+		<name>Home Run : Baseball</name>
+		<desc>The game can be played against the computer or with another player. You have the option to have 1, 2 or 3 players in the field. As a pitcher, you use the joystick to throw the ball and to control its speed and curve. After the ball is hit, your control all your men (they all move together since they follow the orders of a single joystick) in the field to catch the ball. As a batter, you can control the position of the baseball bat with the joystick. If you consider that your runners would make it to the next base, you can press the controller button so they stop at their current base. 
+
+The rest of the rules are basically like real baseball. Each team has nine innings in a game. You are out after three strikes, your get to first base after four balls (balls that do not fly over Home) or if the pitcher hits you with a ball. In the field, you can put out a batter by catching his ball, then another runner by reaching his next base before him or simply by touching him between bases, thus completing a double play. The only way to accomplish a home run is by hitting the ball over second base without having it caught by the field players. You score a point for each runner that reaches Home base after each of the first three.</desc>
+		<image>./mixart/Home Run (USA).png</image>
+		<video>./snap/Home Run (USA).mp4</video>
+		<marquee>./wheel/Home Run (USA).png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0BFABF1E98BDB180643F35F2165995D0</cheevosHash>
+	</game>
+	<game id="14122" source="ScreenScraper.fr">
+		<path>./Hunt &amp; Score (USA).zip</path>
+		<name>Hunt &amp; Score : Memory Match</name>
+		<desc>Hunt &amp; Score is similar to the game Memory. The player is presented with a numbered grid; behind each grid section is a picture. On each turn, the player chooses two grid sections in an attempt to find two matching pictures. Points are earned for finding matching pictures, and the player with the most points at the end wins. Several game options include a 16 or 30 square game grid, the ability to handicap one of the players, and the ability to enable or disable wild cards.</desc>
+		<image>./mixart/Hunt &amp; Score (USA).png</image>
+		<video>./snap/Hunt &amp; Score (USA).mp4</video>
+		<marquee>./wheel/Hunt &amp; Score (USA).png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>102672BBD7E25CD79F4384DD7214C32B</cheevosHash>
+	</game>
+	<game id="59458" source="ScreenScraper.fr">
+		<path>./Jr. Pac-Man (USA).zip</path>
+		<name>Jr. Pac-Man</name>
+		<desc>Jr. Pac-Man features gameplay similar to the original Pac-Man, but with a few changes. As Jr., you need to eat all of the dots in a maze without running into the four ghosts that are trying to get you. The maze is now much larger, and no longer fits on a single screen. The maze will scroll around to follow the action. From time to time a tasty bonus will bounce around the screen which can be eaten for extra points. There are tricycles, kites, drums, balloons, trains, root beers, and other bonuses that appear as the levels progress. When the bonus items bounce around the screen, any dots they touch will become larger and are now worth 50 points each instead of 10. However, one of these larger dots will cause Jr. Pac-Man to slow down greatly when he eats them making it more difficult to remain one step ahead of the ghosts which constantly pursue him! Located throughout the maze are power pellets; when Jr. eats one of these, the ghosts will temporarily turn blue and can now be eaten to earn even more points.</desc>
+		<image>./mixart/Jr. Pac-Man (USA).png</image>
+		<video>./snap/Jr. Pac-Man (USA).mp4</video>
+		<marquee>./wheel/Jr. Pac-Man (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>36C29CEEE2C151B23A1AD7AA04BD529D</cheevosHash>
+	</game>
+	<game id="87780" source="ScreenScraper.fr">
+		<path>./Jungle Fever (USA).zip</path>
+		<name>Jungle Fever/Knight on the Town</name>
+		<desc>This is a double-ender cartridge with Jungle Fever on one end and Knight on the Town on the other.
+
+Jungle Fever is just a gender-reversed version of Burning Desire in which your boyfriend is being held for sacrifice and you must rescue him while avoiding the rocks thrown by the amazons.
+
+Knight on the Town involves you (the knight in question) building a bridge over the moat to reach the princess. You must contend with a castration-minded alligator and a troll. Also, if you select it, the bird above you will drop fire to remove one of your bridge sections. Once you reach your lady, you can get your "reward".</desc>
+		<image>./mixart/Jungle Fever (USA).png</image>
+		<video>./snap/Jungle Fever (USA).mp4</video>
+		<marquee>./wheel/Jungle Fever (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>PlayAround</developer>
+		<publisher>PlayAround</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2CCCC079C15E9AF94246F867FFC7E9BF</cheevosHash>
+	</game>
+	<game id="14061" source="ScreenScraper.fr">
+		<path>./Jungle Hunt (USA).zip</path>
+		<name>Jungle Hunt</name>
+		<desc>Jungle Hunt offers four unique adventure experiences, which repeat with greater difficulty once all four have been survived.  If you don't survive these adventures, you will not only lose your own life but that of the lovely Penelope, who has been captured by cannibals!
+
+The first part challenges your Tarzan skills - can you swing on the vines without plummeting to your doom?  The second part pits you against a whole bunch of nasty crocodiles in a mighty river.  Fortunately, you have a knife to fight back with.  Don't forget to go up for air!  In the third part, you face a battle against oncoming boulders of varying sizes and physics.  Once you've cleared all these treacherous hazards, you still must confront the dreaded cannibal, who is armed with a wicked spear.  Can you get past him and save the lovely Penelope?
+
+Gameplay involves much strategic jumping and knife play (in the river/crocodile phase).  The view is always a side view, much like Pitfall! and later platform games.</desc>
+		<image>./mixart/Jungle Hunt (USA).png</image>
+		<video>./snap/Jungle Hunt (USA).mp4</video>
+		<marquee>./wheel/Jungle Hunt (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Plate-Forme</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2BB9F4686F7E08C5FCC69EC1A1C66FE7</cheevosHash>
+		<cheevosId>13210</cheevosId>
+	</game>
+	<game id="14114" source="ScreenScraper.fr">
+		<path>./Karate (USA).zip</path>
+		<name>Karate</name>
+		<desc>If you think you're good, think again! Start as a white belt battling another white belt in a 2-minute match of wits, skill and force. As your opponent steps toward you, do you stand your ground or step back or move into him? You block some of his kicks and punches, but how much can you take? Time ticks away, so you move in to unleash your arsenal of kicks and punches, trying for that elusive knockdown! When you win, you advance one belt: from white to red... all the way up to black belt expert. But when you lose, your opponent gets even tougher in the next match. You have to be good... or you may take the beating of your life!</desc>
+		<image>./mixart/Karate (USA).png</image>
+		<video>./snap/Karate (USA).mp4</video>
+		<marquee>./wheel/Karate (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sport</developer>
+		<publisher>Sport</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CEDBD67D1FF321C996051EEC843F8716</cheevosHash>
+		<cheevosId>17461</cheevosId>
+	</game>
+	<game id="51250" source="ScreenScraper.fr">
+		<path>./Lasercade (USA) (Proto).zip</path>
+		<name>Lasercade</name>
+		<desc>Clear all the targets at the back of the gallery within the given time limit.
+The game ends if you fail to do so. 
+You start with 4 in round one and a new, smaller one is added for every 2 rounds you clear (up to 8).</desc>
+		<image>./mixart/Lasercade (USA) (Proto).png</image>
+		<video>./snap/Lasercade (USA) (Proto).mp4</video>
+		<marquee>./wheel/Lasercade (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>20th Century Fox</publisher>
+		<genre>Shoot'em Up</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1FAB68FD67FE5A86B2C0A9227A59BB95</cheevosHash>
+	</game>
+	<game id="59466" source="ScreenScraper.fr">
+		<path>./Lord of the Rings, The - Journey to Rivendell (USA) (Proto).zip</path>
+		<name>The Lord of the Rings : Journey to Rivendell</name>
+		<desc>The Lord of the Rings: Journey to Rivendell has been the subject of speculation for many years by Atari collectors. Now one of the most sought-after Atari 2600 prototypes is finally available. What's the story, you ask?
+Way back in 1983 Parker Brothers featured this game in one of their catalogs. Video game and Tolkien fans alike were excited by this announcement, but the wait would be in vain. Lord of the Rings was never released, and Parker Brothers reportedly informed people that called and asked for the game that it was sold out in an attempt to cover up for the fact that it was never published.</desc>
+		<image>./mixart/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).png</image>
+		<video>./snap/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).mp4</video>
+		<marquee>./wheel/Lord of the Rings, The - Journey to Rivendell (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E24D7D879281FFEC0641E9C3F52E505A</cheevosHash>
+	</game>
+	<game>
+		<path>./M.A.D. (USA).zip</path>
+		<name>M.A.D.</name>
+		<desc>M.A.D. (which stands for Missile Attack and Defense) is an arcade action game somewhat similar to Missile Command. You control a photon cannon at the bottom of the screen, and your goal is to protect six energy stations located to your left and right. Waves of rockets and other ships will fly by on the screen, and occasionally one will drop in an attempt to destroy one of the stations (as a warning on most levels, the enemy will turn white just before it drops). You need to make sure you shoot it before your energy station is destroyed! When all six energy stations are gone, the game is over. A two player variation is also included; one player will control the photon cannon, and the second player controls a cursor and can select when and where an enemy will drop. The players alternate between offense and defense in this version.</desc>
+		<image>./mixart/M.A.D. (USA).png</image>
+		<video>./snap/M.A.D. (USA).mp4</video>
+		<marquee>./wheel/M.A.D. (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>U.S. Games</developer>
+		<publisher>U.S. Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>393E41CA8BDD35B52BF6256A968A9B89</cheevosHash>
+	</game>
+	<game id="51253" source="ScreenScraper.fr">
+		<path>./M.A.S.H (USA).zip</path>
+		<name>M.A.S.H</name>
+		<desc>M*A*S*H was one of the many attempts by various software companies to take a successful movie or television show and convert it into a playable game.
+
+In this game, you play the role of "Hawkeye Pierce," a surgeon stationed at the Mobile Army Surgical Hospital #4077 during the Korean War (1950-1953). There are two main stages in the game, each of which you must pass to move to the next round. The first mission involves rescuing injured soldiers from the battlefield with your helicopter and returning them to home base without being shot down by enemy tanks. The second mission takes place in the operating room while you are required to carefully remove bullets and shrapnel from wounded soldiers... it is very similar to the classic "OPERATION" tweezers game by Milton Bradley.
+
+Each set of missions are repeated four times. The first player to reach 999 points wins the game. There are four different variations of games, each selectable as either one player (against the computer) or two-player mode.</desc>
+		<image>./mixart/M.A.S.H (USA).png</image>
+		<video>./snap/M.A.S.H (USA).mp4</video>
+		<marquee>./wheel/M.A.S.H (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate></releasedate>
+		<developer>Fox Video Games, Inc.</developer>
+		<publisher>Fox Video Games, Inc.</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>835759FF95C2CDC2324D7C1E7C5FA237</cheevosHash>
+	</game>
+	<game id="37781" source="ScreenScraper.fr">
+		<path>./Mangia' (USA).zip</path>
+		<name>Mangia'</name>
+		<desc>Mama Mia! That's a  lots a pasta!
+
+Mama brings pasta to the table. You must either eat the pasta, toss it to Frankie the cat when he is at the window, or toss it to Sergio the dog when he is under the table.
+
+You have four lives. If you eat more than 20 plates of pasta, you will burst (literally) and lose 1 life. If more than 9 plates of pasta are placed on the table, it will collapse and you will lose 1 life.
+
+To eat pasta, you move the joystick to the right then the left. To toss pasta to a pet, you move the joystick to the right then up or down in one smooth motion. You must throw when Mama's back is turned and the cat is in the window or the dog is in the right spot under the table. If you throw food at the floor or window when the pet is not in position or if Mama sees you throw food to a pet, she will bring 3 plates the next time. Remember, over nine plates on the table and it is arrivederci una vita (goodbye one life).
+
+To clear a level, you must eat or toss a certain number of plates of pasta.
+1=31
+2=32
+3=35
+4=37
+5=40
+6=42
+7=45
+8=47
+9=49
+
+The point value of each plate of pasta starts at 5 at level 1 and increases by 1 point per level, to a maximum of 13 at level 9.
+You get an extra life at every 1,000 points. The highest points you can reach is 9,999.</desc>
+		<image>./mixart/Mangia' (USA).png</image>
+		<video>./snap/Mangia' (USA).mp4</video>
+		<marquee>./wheel/Mangia' (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Spectravision</developer>
+		<publisher>Spectravision</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>54A1C1255ED45EB8F71414DADB1CF669</cheevosHash>
+	</game>
+	<game id="14125" source="ScreenScraper.fr">
+		<path>./Merlin's Walls (France) (Unl).zip</path>
+		<name>Merlin's Walls</name>
+		<desc>You are trapped in a maze and have a limited amount of time to locate the exit. You can find and use dynamite to open additional doors in some mazes. There are sixteen mazes total. The game's orientation requires you to turn your TV 90°, lay on your right side, use mirrors so the screen looks like it is 90° turned or create a tabletop monitor.</desc>
+		<image>./mixart/Merlin's Walls (France) (Unl).png</image>
+		<video>./snap/Merlin's Walls (France) (Unl).mp4</video>
+		<marquee>./wheel/Merlin's Walls (France) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Stratégie</developer>
+		<publisher>Aventure</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>fr</lang>
+		<region>eu</region>
+		<cheevosHash>50568C80AC61CAB789D9923C9B05B68E</cheevosHash>
+	</game>
+	<game id="51259" source="ScreenScraper.fr">
+		<path>./Meteoroids (USA) (Proto).zip</path>
+		<name>Meteoroids</name>
+		<image>./mixart/Meteoroids (USA) (Proto).png</image>
+		<video>./snap/Meteoroids (USA) (Proto).mp4</video>
+		<marquee>./wheel/Meteoroids (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>Arcadia Corporation</publisher>
+		<genre>Shoot'em Up</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>08BF437D012DB07B05FF57A0C745C49E</cheevosHash>
+	</game>
+	<game id="14038" source="ScreenScraper.fr">
+		<path>./Missile Command (USA).zip</path>
+		<name>Missile Command</name>
+		<desc>Aliens from the planet of Krytol are attacking your cities!! As the commander of a missile base, it is your responsibility to defend them. A variety of enemy weapons and planes will be incoming trying to destroy the six cities at the bottom of the screen. You need to fire missiles to destroy the incoming weapons. If anything gets through, one of your cities could be destroyed. When all of the cities are gone, the game is over. On each level you have a limited amount of ammo, so make sure most (if not all) of your shots are accurate or you could run out of ammo and leave your cities at risk! As the levels progress, there are more and more enemy weapons to destroy which come in at an increasingly faster rate.</desc>
+		<image>./mixart/Missile Command (USA).png</image>
+		<video>./snap/Missile Command (USA).mp4</video>
+		<marquee>./wheel/Missile Command (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Shoot'em Up</developer>
+		<publisher>Shoot'em Up</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1A8204A2BCD793F539168773D9AD6230</cheevosHash>
+	</game>
+	<game id="59472" source="ScreenScraper.fr">
+		<path>./Missile Control (Europe).zip</path>
+		<name>Missile Control</name>
+		<desc>Missile Control is a Missile Command-style game. The player has to defend their cities from incoming bombs fire by alien spaceships.
+
+The player controls a cursor on the screen which indicates the direction of fire for the defense missiles. Once launched, they travel in a straight line from the launcher through the point the player specified until they hit an object. Each level is won by destroying all alien spaceships. The player loses once all their cities are destroyed. Bonus cities can be obtained by destroying a sufficient number of alien spacecraft.
+
+The game gets progressively harder, for example bombs will fall faster and energy barriers might protect the aliens from the player's attacks. To get around the barriers, players can deflect their shots from large defense missiles launched at the sides of the screen.</desc>
+		<image>./mixart/Missile Control (Europe).png</image>
+		<video>./snap/Missile Control (Europe).mp4</video>
+		<marquee>./wheel/Missile Control (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<publisher>Video Gems</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>CB24210DC86D92DF97B38CF2A51782DA</cheevosHash>
+	</game>
+	<game id="14031" source="ScreenScraper.fr">
+		<path>./Mouse Trap (USA).zip</path>
+		<name>Mouse Trap</name>
+		<desc>Mouse Trap is an arcade action game similar to Pac-Man. You control a mouse in a maze; your goal is to eat all of the bits of cheese in order to score points and move on to the next maze. Wandering throughout the maze are several cats who are trying to catch you! Your mouse has the ability to temporarily turn into a dog and be able to chase the cats. To do so, however, he will need to eat the dog bones which are located throughout the maze. The maze also contains numerous doors. The mouse can move these doors to reconfigure the maze in an attempt to outsmart the cats.</desc>
+		<image>./mixart/Mouse Trap (USA).png</image>
+		<video>./snap/Mouse Trap (USA).mp4</video>
+		<marquee>./wheel/Mouse Trap (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5678EBAA09CA3B699516DBA4671643ED</cheevosHash>
+		<cheevosId>11725</cheevosId>
+	</game>
+	<game id="14049" source="ScreenScraper.fr">
+		<path>./Obelix (USA).zip</path>
+		<name>Obélix</name>
+		<desc>The objective of the game is to help Asterix "stun" Roman soldiers (simply by running into them, and they turn white from blue) while you command good ol'Obelix to throws his oversized Menhirs down at stunned Romans with a splat.
+
+If by any chance a stunned soldier is not whacked by a flying menhir, they turn "red" and hostile, which means Asterix is in trouble. In any case, he needs some good ol' magic potion from Getafix in order to defeat the "red" Romans, so be ready to catch some when Getafix comes knocking.
+
+There are 2 types of Roman soldiers to thump: the fat legionnaires and the small centurions. Centurions are worth more points.</desc>
+		<image>./mixart/Obelix (USA).png</image>
+		<video>./snap/Obelix (USA).mp4</video>
+		<marquee>./wheel/Obelix (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>133A4234512E8C4E9E8C5651469D4A09</cheevosHash>
+	</game>
+	<game id="14030" source="ScreenScraper.fr">
+		<path>./Othello (USA).zip</path>
+		<name>Othello</name>
+		<desc>Othello is a conversion of the board game. Each player tries to fill the game board with as many discs of his color as possible. On each turn the player places a disc on the board by selecting a location where the opponents discs will become trapped between two of his discs. The trapped discs are flipped over to the players color. The game ends when the board is filled or time runs out, and the player with the greatest number of his color discs on the board wins. Two players can play against each other, or one player against the computer.</desc>
+		<image>./mixart/Othello (USA).png</image>
+		<video>./snap/Othello (USA).mp4</video>
+		<marquee>./wheel/Othello (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>55949CB7884F9DB0F8DFCF8707C7E5CB</cheevosHash>
+	</game>
+	<game id="59481" source="ScreenScraper.fr">
+		<path>./Out of Control (USA).zip</path>
+		<name>Out of Control</name>
+		<desc>This is an obstacle race in a space ship. The ship controls in a rather Asteroids-like way, in that you push left or right to rotate and press fire to thrust. Once you stop thrusting, the ship does not immediately stop, although it will slow down on its own. To stop sooner, you have to face away from the direction you are traveling and thrust.
+
+First, you must pass a set number of hurdles. If there is a single hurdle, you must pass on the side indicated by the arrow. If there are two hurdles, you must pass in between them. If there are three, you can pass through them or go around. If you hit a hurdle, you must go back to the last successfully passed hurdle and do it again to continue.
+
+After the hurdles, you must pop ten space balloons by running in to them. They appear one at a time at random spots on the screen. After you pop all ten balloons, you must dock in the space dock to end the race.
+
+The difficulty switches are not used. You select your game variation by moving the joystick up or down.
+
+Game variations
+There are 28 variations. The odd numbered ones have fast maneuvering, the even numbered ones, slow.
+
+The number of hurdles also varies. The first two have 10 hurdles, the next two, 14, then 22 (twice), 27 (twice), 35 (twice), 39 (four times), 47 (twice), 51 (twice), 54 (twice), 63 (twice), 64 (twice), 72 (twice), and 82 (twice).</desc>
+		<image>./mixart/Out of Control (USA).png</image>
+		<video>./snap/Out of Control (USA).mp4</video>
+		<marquee>./wheel/Out of Control (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Avalon Hill</developer>
+		<publisher>Avalon Hill</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F97DEE1AA2629911F30F225CA31789D4</cheevosHash>
+	</game>
+	<game id="51271" source="ScreenScraper.fr">
+		<path>./Pete Rose Baseball (USA).zip</path>
+		<name>Pete Rose Baseball</name>
+		<desc>This baseball game licenses former Cincinnati Reds player Pete Rose. It allows the player to play every position on the field. Different batting and pitching styles are available.
+
+It has digitized voice and sound, and provides a variety of play options including One or Two-player action, season play or exhibition. In a somewhat ahead-of-its-time move, eight different perspectives are offered. 
+
+There are also some team management capabilities, as you select and order your team, and hire new players. This can run over ten seasons, making for one of the first Career modes.</desc>
+		<image>./mixart/Pete Rose Baseball (USA).png</image>
+		<video>./snap/Pete Rose Baseball (USA).mp4</video>
+		<marquee>./wheel/Pete Rose Baseball (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Absolute Entertainment</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9848B5EF7A0C02FE808B920A2AC566D2</cheevosHash>
+	</game>
+	<game id="37805" source="ScreenScraper.fr">
+		<path>./Pick Up (USA) (Proto).zip</path>
+		<name>Pick Up</name>
+		<desc>OK, here's the deal. If you want that lover of your dreams to get off their pedestal and go out with you, you need to present them with the right gifts. Then you can head over to the Love Nest Hotel to really score!
+
+You start with your lover of a pedestal on the left and various items floating above you. You must shoot each item once to acquire it. If an item starts flashing, shoot it next because after a short time, you'll lose a chance. If you shoot an item a second time, you will lose it and a chance. Lose all your chances and the game is over. If you collect all the items needed, head over to the pedestal then head off the screen to the right. Head to the door of the hotel and the hotel sign will say how many times you have scored. Now head left to start the next level.</desc>
+		<image>./mixart/Pick Up (USA) (Proto).png</image>
+		<video>./snap/Pick Up (USA) (Proto).mp4</video>
+		<marquee>./wheel/Pick Up (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Fox Video Games, Inc.</developer>
+		<publisher>CGE Services Corporation</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1D4E0A034AD1275BC4D75165AE236105</cheevosHash>
+	</game>
+	<game id="37814" source="ScreenScraper.fr">
+		<path>./Porky's (USA).zip</path>
+		<name>Porky's</name>
+		<desc>You play as Edward "Pee Wee" Morris, who, despite his shortcomings, strives to get revenge on Porky, the owner of the bar that dissed Pee Wee and his friends.
+
+County Line
+-----------------
+You begin at the county line. You must move up from highway lane to highway lane without getting hit. You get points for dodging various obstacles on your way to Porky's.
+
+Motor Boat=1 point
+The Police=100 points
+Porky's Girls=200 points
+Attack Pigs=400 points
+Porky's Bouncers=800 points
+Pig Mobile=1600 points
+Last Band=3200 points
+
+Porky's Bar
+-----------------
+After you get all the way to the top, you enter Porky's Bar, where you have to travel the correct path up  the scaffolding, planting charges as you go. If you get to the top, there will be a detonator and so long Porky's! If you fall and Porky catches you, it is off to the swamp.
+
+Porky catches you=lose 200 points
+What points you get for exiting the scaffolding depends on the difficulty you have set the game to. The points are from 100 to 3200.
+
+The Swamp
+-----------------
+If you get caught on any other screen, you end up here. You must pole vault up and release when in mid-flight to get up to one of the platforms.
+
+The first time you are there, you have to collect bricks then place then on the wall on the other side until you can climb out. 
+
+If you are sent to the swamp a second time, you can climb out right away but look out for Porky.
+
+Place a brick=100 points
+Getting out of the swamp screen=100 points
+Each pole vault jump=lose 25 points
+Falling into swamp=lose 100 points
+Caught by Porky=lose a random number of points
+
+The Shower
+-------------------
+Push the random object that appears at center, top into the pit at the bottom without getting caught by Ms. Balbricker or falling in the pit the climb out the top back to the county line. Every time you get through the shower, you stop or slow a lane on the highway.
+
+You get 100 points for pushing an object into the pit.
+You lose 200 points if you fall in the pit or are caught by Ms. Balbricker.
+Every ten seconds you are in the shower, you lose ten points so don't dawdle.
+
+The difficulty settings:
+Left difficulty switch set to A=Shower scene most difficult
+Left difficulty switch set to B=Shower scene less difficult
+Right difficulty switch set to A=Swamp scene most difficult
+Right difficulty switch set to B=Swamp scene less difficult
+B&amp;W/Color switch set to black &amp; white=Balbricker most aggressive
+B&amp;W/Color switch set to color=Balbricker less aggressive</desc>
+		<image>./mixart/Porky's (USA).png</image>
+		<video>./snap/Porky's (USA).mp4</video>
+		<marquee>./wheel/Porky's (USA).png</marquee>
+		<rating>0.15</rating>
+		<releasedate></releasedate>
+		<developer>Dunhill Electronic Media Corp.|Lazer Microsystems Inc.</developer>
+		<publisher>Fox Video Games, Inc.</publisher>
+		<genre>Adventure-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F93D7FEE92717E161E6763A88A293FFA</cheevosHash>
+	</game>
+	<game id="37815" source="ScreenScraper.fr">
+		<path>./Power Off! (France) (Unl).zip</path>
+		<name>Power Off!</name>
+		<desc>You are Brian Mareck. Your father created a super computer to help mankind but when it was switched on, something went wrong. You must deactivate the computer, but beware of the robots that have been reprogrammed to protect the computer at all costs. You must run and climb ladders to get to the 'power pills' and deactivate them. Avoid the robots as they will kill you. Once you have deactivated all the 'power pills' in that part of the lab (level), it is off to the next.</desc>
+		<image>./mixart/Power Off! (France) (Unl).png</image>
+		<video>./snap/Power Off! (France) (Unl).mp4</video>
+		<marquee>./wheel/Power Off! (France) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Ébivision</developer>
+		<publisher>Ébivision</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>fr</lang>
+		<region>eu</region>
+		<cheevosHash>92A25D11A387EF1F63008ABF44D33CC4</cheevosHash>
+	</game>
+	<game id="51280" source="ScreenScraper.fr">
+		<path>./Q-bert (USA).zip</path>
+		<name>Q*bert</name>
+		<desc>Q*bert is an isometric platform game with puzzle elements where the player controls the titular protagonist from a third-person perspective. Q*bert starts each game at the top of a pyramid of cubes, and moves by jumping diagonally from cube to cube. Landing on a cube causes it to change color, and changing every cube to the target color allows the player to progress to the next stage.</desc>
+		<image>./mixart/Q-bert (USA).png</image>
+		<video>./snap/Q-bert (USA).mp4</video>
+		<marquee>./wheel/Q-bert (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Western Technologies Inc.</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>484B0076816A104875E00467D431C2D2</cheevosHash>
+		<cheevosId>11786</cheevosId>
+	</game>
+	<game id="14023" source="ScreenScraper.fr">
+		<path>./Q-bert's Qubes (USA).zip</path>
+		<name>Q*bert's Qubes</name>
+		<desc>Q*Bert's Qubes is the sequel to the game Q*Bert and features similar gameplay, but is now in three dimensions. Once again your goal is to change multicolored blocks to a target color, but now you must make sure all three visible sides of the blocks match the target color. You control Q*Bert on the playfield of blocks; Q*Bert changes the colors by jumping to a block which will cause it to rotate in the direction of his jump. Unlike the original game, you don't need to change the colors of the whole playfield, but rather need to form straight line(s) of the target colors, and when you do you can move on to the next round. Of course, to make this task more challenging are a variety of creatures (including a giant rat!) that chase you around the playfield. Each creature is a different color, and if it lands on a block where the top face is the same color then the creature falls off of the playfield, but if Q*Bert gets caught by a creature then a life is lost! As the game progresses, more creatures chase Q*Bert and additional colors are added to the playfield making it tougher to find the target color. There are no longer any discs on the sides of the playfield to carry you to safety, so make sure you don't jump off the edge! To help out, a green ball may appear from time to time; if you catch this, all the enemies become frozen temporarily.</desc>
+		<image>./mixart/Q-bert's Qubes (USA).png</image>
+		<video>./snap/Q-bert's Qubes (USA).mp4</video>
+		<marquee>./wheel/Q-bert's Qubes (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Strategy-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>517592E6E0C71731019C0CEBC2CE044F</cheevosHash>
+	</game>
+	<game id="14121" source="ScreenScraper.fr">
+		<path>./Save the Whales (USA) (Proto).zip</path>
+		<name>Save the Whales</name>
+		<desc>In the interim that the SEAL is seeking for the crystals in the severe cold arctic ocean with a heap of floating ice blocks, there are coming a shoal of WHALES around and waiting for a favorable moment to sorrow the weak and timid SEAL.  Now you have to give the SEAL a hand to push the ice blocks and try to push the ice blocks and try to crush the whales to death so that the SEAL can find out all the three crystals and get them arranged in a line.  Can you help the SEAL?  The outcome depends on you!</desc>
+		<image>./mixart/Save the Whales (USA) (Proto).png</image>
+		<video>./snap/Save the Whales (USA) (Proto).mp4</video>
+		<marquee>./wheel/Save the Whales (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Action</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E377C3AF4F54A51B85EFE37D4B7029E6</cheevosHash>
+	</game>
+	<game>
+		<path>./Secret Quest (USA).zip</path>
+		<name>Secret Quest</name>
+		<desc>It started with one station, then three, then eight. If something isn't done, the aliens will overrun Earth. It is up to you to destroy the stations by setting their self destructs.
+
+You move from room to room, fighting any enemies you encounter. When you beat an enemy, you get an energy pod or oxygen bottle. Fighting aliens depletes you energy and/or oxygen so kill quickly. You also use oxygen at the rate of one bottle per minute while exploring.
+
+Along the way, you will sometimes find sonic keys, and energy sword, sonic blaster or particle beam. Sonic keys are needed for certain doors you encounter in later stations.
+
+Once you set the self destruct code, a clock starts and you must make it to the teleporter before the time runs out. The game ends when you destroy all eight stations, run out of oxygen or do not get off a station before it self destructs. If you run out of energy, the game does not end but you will not be able to use any weapon so you can't kill monsters so you can't replenish oxygen. Hence, the game won't go long if you run out of energy.
+
+Weapon energy use and damage
+Energy sword=1 energy and 2 strength
+Sonic blaster=2 energy and 4 strength
+Particle beam=4 energy and 8 strength.
+
+Scoring
+Bear trap=50 points
+Potato Man=100 points
+Chopper=150 points
+Machine=200 points
+Floater=250 points
+Spinner=350 points
+Medusa=400 points
+Squid=500 points
+Stomper=550 points
+Ghost=600 points
+Firecracker=650 points
+Snake=700 points
+Dragon=750 points</desc>
+		<image>./mixart/Secret Quest (USA).png</image>
+		<video>./snap/Secret Quest (USA).mp4</video>
+		<marquee>./wheel/Secret Quest (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Axlon</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FC24A94D4371C69BC58F5245ADA43C44</cheevosHash>
+	</game>
+	<game id="14075" source="ScreenScraper.fr">
+		<path>./Sentinel (USA).zip</path>
+		<name>Sentinel</name>
+		<desc>Sentinel is a side scrolling action game. Several worlds have fallen victim of an alien attack, and you need to free them. To do this, a glowing orb called the Sentinel has been sent which can absorb the alien energy. As the Sentinel floats above the various, scrolling landscapes, you need to protect it from attacks by using the light gun to destroy enemies and enemy fire. If you don't destroy an enemy, it will deplete the Sentinels energy supply which will eventually destroy it. There are four levels of increasing difficulty, each with a large boss at the end. To help out on your mission, several bonuses may be encountered from time to time; increased firepower and energy can be acquired when you shoot the bonus capsules that appear. Three levels of difficulty are available.</desc>
+		<image>./mixart/Sentinel (USA).png</image>
+		<video>./snap/Sentinel (USA).mp4</video>
+		<marquee>./wheel/Sentinel (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Shoot'em Up</developer>
+		<publisher>Action</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8DA51E0C4B6B46F7619425119C7D018E</cheevosHash>
+	</game>
+	<game id="37840" source="ScreenScraper.fr">
+		<path>./Sir Lancelot (USA).zip</path>
+		<name>Sir Lancelot</name>
+		<desc>A damsel in distress is being held in a castle by a fire breathing dragon! As Sir Lancelot, you need to ride your winged horse Pegasus to the rescue. Each level in this action game consists of two screens. First you are outside the castle which is guarded by numerous flying creatures. You need to fly around the screen and destroy all of the creatures by hitting them with your lance (careful, if they hit you instead you'll lose a life). After all of the creatures are gone, you enter the second screen which is inside the castle. Here there is a large pit of lava and a flying dragon. To destroy the dragon you need to hit it's stomach with your lance. If you are hit by one of the dragon's fireballs you'll be temporarily stunned and unable to fly. If you end up falling into the lava, you'll lose a life. If you can defeat the dragon, the game repeats at a higher difficulty level. The game ends when you lose all of your lives.</desc>
+		<image>./mixart/Sir Lancelot (USA).png</image>
+		<video>./snap/Sir Lancelot (USA).mp4</video>
+		<marquee>./wheel/Sir Lancelot (USA).png</marquee>
+		<rating>0.15</rating>
+		<releasedate></releasedate>
+		<developer>Xonox</developer>
+		<publisher>Xonox</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4C8970F6C294A0A54C9C45E5E8445F93</cheevosHash>
+	</game>
+	<game>
+		<path>./Skiing (USA).zip</path>
+		<name>Skiing</name>
+		<desc>In Skiing, your goal is to ski to the bottom of the mountain in the shortest time possible. The mountain is treacherous with plenty of trees and moguls in the way! There are two different modes of gameplay. In slalom mode, there are a series of gates you need to ski through; missing any will result in a penalty to your time. In downhill mode you just need to ski to the bottom as fast as possible. Each mode includes five different skill levels which affect the length of the course (and the number of gates in slalom mode.)</desc>
+		<image>./mixart/Skiing (USA).png</image>
+		<video>./snap/Skiing (USA).mp4</video>
+		<marquee>./wheel/Skiing (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7623A639A6FFFDB246775FE2EABC8D01</cheevosHash>
+	</game>
+	<game id="87870" source="ScreenScraper.fr">
+		<path>./Sky Alien (Europe).zip</path>
+		<name>Sky Alien</name>
+		<image>./mixart/Sky Alien (Europe).png</image>
+		<video>./snap/Sky Alien (Europe).mp4</video>
+		<marquee>./wheel/Sky Alien (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>C31A17942D162B80962CB1F7571CD1D5</cheevosHash>
+	</game>
+	<game id="106800" source="ScreenScraper.fr">
+		<path>./Smurf - Rescue in Gargamel's Castle (USA).zip</path>
+		<name>Smurf : Rescue in Gargamel's Castle</name>
+		<desc>Gargamel has kidnapped Smurfette. As a Smurf, the player has to walk from the Smurf village through a forest and a cave on the way to Gargamel's castle, where Smurfette awaits rescue. The player has an energy bar that slowly depletes over time.
+Each side-scrolling screen presents various obstacles that the player must precisely jump over (e.g. fences, stalagmites) or land upon (e.g. ledges). Failure to execute any jump results in instant death. Higher difficulty levels introduce flying bats and spiders that the player must also avoid.
+The ColecoVision version of Smurf: Rescue in Gargamel's Castle contains an Easter egg. Upon reaching Smurfette's screen, the player can return to the previous screen. Just before the screen changes, it will appear as though the top of Smurfette's dress comes off, making her appear topless.</desc>
+		<image>./mixart/Smurf - Rescue in Gargamel's Castle (USA).png</image>
+		<video>./snap/Smurf - Rescue in Gargamel's Castle (USA).mp4</video>
+		<marquee>./wheel/Smurf - Rescue in Gargamel's Castle (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3D1E83AFDB4265FA2FB84819C9CFD39C</cheevosHash>
+		<cheevosId>13214</cheevosId>
+	</game>
+	<game id="87881" source="ScreenScraper.fr">
+		<path>./Solar Plexus (USA) (Unl).zip</path>
+		<name>Solar Plexus</name>
+		<desc>You are salvaging for fuel in the far reaches of the galaxy when you spot an artificial sun in the area. You need that fuel before you run out but watch out for colliding with that sun.
+
+You start on the screen with the artificial sun bouncing around and a fuel item on the right. You must grab the fuel before your ship is out of fuel, as it uses fuel at an impressive rate. If you run out of fuel, you lose a life. Beware of the sun as its touch is instant death. After every two fuels you grab, the pace picks up. You can accelerate by pressing your button.</desc>
+		<image>./mixart/Solar Plexus (USA) (Unl).png</image>
+		<video>./snap/Solar Plexus (USA) (Unl).mp4</video>
+		<marquee>./wheel/Solar Plexus (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>JessCREATIONS</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B5BE87B87FD38C61B1628E8E2D469CB5</cheevosHash>
+	</game>
+	<game id="13994" source="ScreenScraper.fr">
+		<path>./Star Wars - Return of the Jedi - Death Star Battle (USA).zip</path>
+		<name>Star Wars : Return of the Jedi, Death Star Battle</name>
+		<desc>"Death Star Battle" is loosely based on the events of "Star Wars, Part 6: Return of the Jedi". Your task is to destroy the Death Star before its construction is finished. You start the task outside the shield perimeter of the Death Star. There you'll have to combat different imperial vessels and avoid the death ray while waiting for an opportunity to slip through one of the random openings in the energy shield. After reaching the Death Star you must reduce its structure up to the point where you can hit the core. In the following blow up of the station you must avoid collision with Death Star debris.
+
+After successful destruction the game will restart with increased difficulty (faster enemies, faster Death Star build up, etc).
+
+Overall difficulty can also be adjusted before starting the game.</desc>
+		<image>./mixart/Star Wars - Return of the Jedi - Death Star Battle (USA).png</image>
+		<video>./snap/Star Wars - Return of the Jedi - Death Star Battle (USA).mp4</video>
+		<marquee>./wheel/Star Wars - Return of the Jedi - Death Star Battle (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5336F86F6B982CC925532F2E80AA1E17</cheevosHash>
+	</game>
+	<game id="14127" source="ScreenScraper.fr">
+		<path>./Surround (USA).zip</path>
+		<name>Surround : Chase</name>
+		<desc>Welcome to the exciting and competitive world of SURROUND. Your basic objective is to surround your opponent, causing him to run out of space in which to move, and at the same time not running into anything yourself. You can set up a blockade, force him into a corner or wander off by yourself and hope that he runs into something on his own.
+
+Along with the basic SURROUND game, we've added four game features to make things more interesting. Be sure to read Section 4 to learn more about these features.
+
+Then there's VIDEO GRAFFITI. It's just for fun without the competitive edge thrown in. VIDEO GRAFFITI actually allows you to draw on the screen.
+
+Surround was one of the nine Atari 2600 launch titles released in September 1977.</desc>
+		<image>./mixart/Surround (USA).png</image>
+		<video>./snap/Surround (USA).mp4</video>
+		<marquee>./wheel/Surround (USA).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Sears, Roebuck and Co.</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4D7517AE69F95CFBC053BE01312B7DBA</cheevosHash>
+	</game>
+	<game id="37870" source="ScreenScraper.fr">
+		<path>./Sync (USA) (Unl).zip</path>
+		<name>Sync</name>
+		<desc>Sync is a collection of rhythm and puzzle games.
+
+Mantra:
+The screen will show various symbols. Move the joystick to match the sequence until the sequence completes and you receive points.
+
+Jitter:
+Much like Mantra, you must match the sequence but now, each time you match a symbol, your control moves, automatically, to the next in the sequence.
+
+Flow:
+You have to place bars around those placed by the CPU. As soon as a counter completes a given number, every CPU cell whose number of bars corresponds to the sum of adjacent bars placed by the player is removed, and points are scored.
+
+Four:
+Four has four mini-games. In Gate, you have to match symbols place by the CPU on a vertically scrolling column. In Here, you clear a cell whenever an arrow in inside each cell. Also in Four are Jitter 1K and Flow 1K, scaled down versions of their 4K cousins.</desc>
+		<image>./mixart/Sync (USA) (Unl).png</image>
+		<video>./snap/Sync (USA) (Unl).mp4</video>
+		<marquee>./wheel/Sync (USA) (Unl).png</marquee>
+		<rating>0.7</rating>
+		<releasedate></releasedate>
+		<publisher>AtariAge</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C0EEE10F8868DE535C9AC0995EF3F6DC</cheevosHash>
+	</game>
+	<game id="37879" source="ScreenScraper.fr">
+		<path>./Thunderground (USA).zip</path>
+		<name>Thunderground</name>
+		<desc>There are six Core nuclear bases on the planet's surface. You must burrow underground to each of these bases and destroy them. But be warned, they are guarded by patrolling Core Ranger tanks that if they get you in their line of fire, will destroy you.
+
+There are two types of tanks. The white Sentry tanks only move through existing tunnels and will only fire on you if there is clear space between you and them. The blue Digger tanks will create their own tunnels to pursue you. There is also a Sentry tank at the bottom of the screen that slowly moves towards your reserve tanks. If this tank reaches you reserves before you destroy all six bases, you lose a life. The game is over if you lose all lives.
+
+There are enemy supplies buried in random areas that if you get them will get you bonus points. Later levels have the bases only appear one at a time or have no dirt between you and the enemy tanks, leaving them to pursue you from the start.</desc>
+		<image>./mixart/Thunderground (USA).png</image>
+		<video>./snap/Thunderground (USA).mp4</video>
+		<marquee>./wheel/Thunderground (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate></releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CF507910D6E74568A68AC949537BCCF9</cheevosHash>
+	</game>
+	<game id="51328" source="ScreenScraper.fr">
+		<path>./Z-Blocks (USA) (Unl).zip</path>
+		<name>Z-Blocks</name>
+		<image>./mixart/Z-Blocks (USA) (Unl).png</image>
+		<video>./snap/Z-Blocks (USA) (Unl).mp4</video>
+		<marquee>./wheel/Z-Blocks (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>Hozer Video Games - Alex G.</publisher>
+		<genre>Strategy</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>546D5E38CAE07C19EE76E575E8E55BD2</cheevosHash>
 	</game>
 </gameList>

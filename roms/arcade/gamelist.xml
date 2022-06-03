@@ -68717,27 +68717,6 @@ The player's life bar is represented by a fire breathing dragon in the upper cor
 		<cheevosHash>87CBDD65B96A085D1B7514CD9534DB43</cheevosHash>
 	</game>
 	<game>
-		<path>./willow.zip</path>
-		<name>Willow</name>
-		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
-
-The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
-		<image>./mixart/willow.png</image>
-		<video>./snap/willow.mp4</video>
-		<marquee>./wheel/willow.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Lucasfilm</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
-		<cheevosId>11836</cheevosId>
-	</game>
-	<game>
 		<path>./wilytowr.zip</path>
 		<name>Wily Tower</name>
 		<desc>A platform game where you must climb around lattice of pipes to deactivate power switches for main computer while avoiding robots. Jump on generators to send out disrupters and kill robots.</desc>
@@ -72895,5 +72874,26 @@ As well as the game's enemies, players are also hampered by the huge amount of i
 		<region>us</region>
 		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
 		<cheevosId>11946</cheevosId>
+	</game>
+	<game>
+		<path>./willow.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./mixart/willow.png</image>
+		<video>./snap/willow.mp4</video>
+		<marquee>./wheel/willow.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
+		<cheevosId>11836</cheevosId>
 	</game>
 </gameList>

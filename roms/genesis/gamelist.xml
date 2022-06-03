@@ -4906,26 +4906,6 @@ Also, you can pick up crates and barrels and haul it at enemies to knock them do
 		<players>1</players>
 		<cheevosHash>B4FE88CB2842314C9B9169D2F393D514</cheevosHash>
 	</game>
-	<game id="89" source="ScreenScraper.fr">
-		<path>./Gunstar Heroes (USA).7z</path>
-		<name>Gunstar Heroes</name>
-		<desc>Chaos has broken out on the planet Gunstar-9!!
-
-The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
-
-Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!</desc>
-		<image>./mixart/Gunstar Heroes (USA).png</image>
-		<video>./snap/Gunstar Heroes (USA).mp4</video>
-		<marquee>./wheel/Gunstar Heroes (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930909T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up-Action</genre>
-		<players>2</players>
-		<cheevosHash>9A369CFC6355DB48677771E345421E0E</cheevosHash>
-		<cheevosId>7</cheevosId>
-	</game>
 	<game id="579" source="ScreenScraper.fr">
 		<path>./Hard Drivin' (World).7z</path>
 		<name>Hard Drivin'</name>
@@ -14349,5 +14329,25 @@ The game play follows the traditional 2D hop 'n' bop platform style in both 8-bi
 		<players>1</players>
 		<cheevosHash>24863151ABD5BAF28C9386D49FFE3C09</cheevosHash>
 		<cheevosId>9</cheevosId>
+	</game>
+	<game id="89" source="ScreenScraper.fr">
+		<path>./Gunstar Heroes (USA).7z</path>
+		<name>Gunstar Heroes</name>
+		<desc>Chaos has broken out on the planet Gunstar-9!!
+
+The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+
+Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!</desc>
+		<image>./mixart/Gunstar Heroes (USA).png</image>
+		<video>./snap/Gunstar Heroes (USA).mp4</video>
+		<marquee>./wheel/Gunstar Heroes (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930909T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>2</players>
+		<cheevosHash>9A369CFC6355DB48677771E345421E0E</cheevosHash>
+		<cheevosId>7</cheevosId>
 	</game>
 </gameList>

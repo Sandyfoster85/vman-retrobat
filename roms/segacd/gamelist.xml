@@ -866,22 +866,6 @@ The game features CD-based audio tracks, replacing those from the original.</des
 		<region>us</region>
 		<cheevosHash>AD350998D1886CCF9E578DE77071779C</cheevosHash>
 	</game>
-	<game>
-		<path>./Battlecorps (USA).chd</path>
-		<name>Battlecorps</name>
-		<desc>Battlecorps is a giant-mech game that takes place on a mining planet known as Mandlebrot's World.  The colony supercomputer has been infected with a virus, and now the planet's giant machines are turning against the people who created them.  You must pilot your bipedal attack machine through 12 missions to reboot the computer.
-
-The graphics in this game use scaled and rotated sprites to achieve a 3D environment. The effect is similar to other Core Design games for the Sega CD.</desc>
-		<image>./mixart/Battlecorps (USA).png</image>
-		<video>./snap/Battlecorps (USA).mp4</video>
-		<marquee>./wheel/Battlecorps (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940000T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Simulation</genre>
-		<cheevosHash>CDD76439ED11376EE7D78CE30F2CB372</cheevosHash>
-	</game>
 	<game id="97343" source="ScreenScraper.fr">
 		<path>./BattleTech - Gray Death Legion (USA) (Unl).chd</path>
 		<name>Battletech - Gray Death Legion</name>
@@ -898,223 +882,6 @@ The graphics in this game use scaled and rotated sprites to achieve a 3D environ
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5EFA675A2C788DB5D68BFA01F906F64E</cheevosHash>
-	</game>
-	<game id="12797" source="ScreenScraper">
-		<path>./BC Racers (USA).chd</path>
-		<name>BC Racers</name>
-		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
-
-Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
-
-Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
-		<image>./mixart/BC Racers (USA).png</image>
-		<video>./snap/BC Racers (USA).mp4</video>
-		<marquee>./wheel/BC Racers (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19941201T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<cheevosHash>6D14797A2108C284E27DFAC0657B6692</cheevosHash>
-	</game>
-	<game id="12849" source="ScreenScraper">
-		<path>./Bill Walsh College Football (USA).chd</path>
-		<name>Bill Walsh College Football</name>
-		<desc>The game features 24 college football teams from the 1993 season and 24 of the all-time college teams since 1978. Play modes include exhibition, playoffs and all-time playoffs and the SNES version also has an eleven week season mode.with the National Championship as the ultimate goal. 
-
-The playbook consists of 56 offensive plays and 52 defensive plays.
-On offense, running backs can dive, spin and hurdle. Also, passing is dealt with by having the receivers in their own windowed boxes . When on defense, defenders can dive at the ball carrier, and raise hands to block kicks or intercept passes.
-
-The game also features four weather conditions (fair, windy, rain and snow), and three different quarter lengths (20, 40 and 60 minutes).</desc>
-		<image>./mixart/Bill Walsh College Football (USA).png</image>
-		<video>./snap/Bill Walsh College Football (USA).mp4</video>
-		<marquee>./wheel/Bill Walsh College Football (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Visual Concepts</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<cheevosHash>0D61EEF7AABA3942DCD21B6B4AC47AA3</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
-		<path>./Black Hole Assault (USA).chd</path>
-		<name>Black Hole Assault (USA)</name>
-		<image>./mixart/Black Hole Assault (USA).png</image>
-		<video>./snap/Black Hole Assault (USA).mp4</video>
-		<marquee>./wheel/Black Hole Assault (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>FB9BF17E153DCDD0C0633830995228AF</cheevosHash>
-	</game>
-	<game id="12826" source="ScreenScraper.fr">
-		<path>./Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd</path>
-		<name>Bloodshot</name>
-		<desc>The year is 2049. An alien armada assaults the Solar System. You are a nameless hero whose mission is to board the enemy's main battle cruiser and to disable all sixteen of its main plasma nodes.  A special Battle Frenzy chip (code name Bloodshot) is implanted into your neural net, making you the one ultimate soldier on whom the entire humanity depends now.  This is a 3D first-person shooter. You move through maze-like corridors of the alien ship, getting weapons and items, and blasting everything you encounter on your way. There is also a two players mode with split screens.</desc>
-		<image>./mixart/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</image>
-		<video>./snap/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).mp4</video>
-		<marquee>./wheel/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Domark</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>50AB41923E9EDB04E7D047975F5A90CC</cheevosHash>
-	</game>
-	<game id="12818" source="ScreenScraper">
-		<path>./Bouncers (USA).chd</path>
-		<name>Bouncers</name>
-		<desc>Arcade basketball game where YOU are the ball. You can't jump high enough on your own to go through the hoop, so you must bounce off other players. Supports up to four simultaneous players.
-
-There are eight characters to choose from, powerups (and powerdowns) that affect your speed and jumping ability.
-
-Games can turn into fighting matches of sorts, as players can kick each other to get their opponent in the air. With practice, you can learn to shoot three pointers and slam dunk yourself into the basket.
-
-Courts range from a standard city court to an underwater and low-gravity moon court.</desc>
-		<image>./mixart/Bouncers (USA).png</image>
-		<video>./snap/Bouncers (USA).mp4</video>
-		<marquee>./wheel/Bouncers (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940000T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Dynamix</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>FD7720C80CB080541CFBDDACA02C173A</cheevosHash>
-	</game>
-	<game>
-		<path>./Bram Stoker's Dracula (USA).chd</path>
-		<name>Bram Stoker's Dracula (USA)</name>
-		<image>./mixart/Bram Stoker's Dracula (USA).png</image>
-		<video>./snap/Bram Stoker's Dracula (USA).mp4</video>
-		<marquee>./wheel/Bram Stoker's Dracula (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>2AD894ADA689A4C10B7396A4AF92063C</cheevosHash>
-	</game>
-	<game id="58712" source="ScreenScraper">
-		<path>./Brutal - Paws of Fury (USA).chd</path>
-		<name>Brutal: Paws of Fury</name>
-		<desc>Across the world, invitations were delivered. Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well.. Brutal Island. Each will use their own unique mental and physical martial arts style and training in a tournament to prove the worlds one true champion.</desc>
-		<image>./mixart/Brutal - Paws of Fury (USA).png</image>
-		<video>./snap/Brutal - Paws of Fury (USA).mp4</video>
-		<marquee>./wheel/Brutal - Paws of Fury (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19950000T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>GameTek</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>F551034768405CEF3FD7C908377E80FE</cheevosHash>
-	</game>
-	<game id="97344" source="ScreenScraper.fr">
-		<path>./Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).chd</path>
-		<name>Bug Blasters - The Exterminators</name>
-		<desc>Los Angeles - a quiet little town until... THEY CAME!    Now a terrified city crawling with crime!    A band of warrior insects calling themselves "The League of Insects" under the control of General Grub and El Roacho have captured city hall and are holding Los Angeles hostage! You are the rookie member of the elite fighting force, The Bug Blasters. Accompanied by a team of experts, including Team Captain McVay, a veteran of the New York City Roach Wars of '79, you must vanquish the insect threat throughout the city and the long overlooked underground tunnels in which they have been swarming. Prevent these pests from further capturing and cocooning humans. You are an exterminator. Destroy their hive, and get out before it's too late!    "Who ya Gonna call?" BUG BLASTERS    "You've got a problem... We're here to SOLVE IT!"</desc>
-		<image>./mixart/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</image>
-		<video>./snap/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).mp4</video>
-		<marquee>./wheel/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Stargate</developer>
-		<publisher>Good Deal Games</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<cheevosHash>E8F04A3E835EDB234116E788C74F2A0F</cheevosHash>
-	</game>
-	<game id="97345" source="ScreenScraper.fr">
-		<path>./Burning Fists - Force Striker (USA) (Unl).chd</path>
-		<name>Burning Fists - Force Striker</name>
-		<desc>Burning Fist (also known as Force Striker in its early alpha build) is a cancelled fighting game that was in development in 1994 by Sega of Japan for the Mega CD. As we can read at Sega Base, both the Force Striker alpha and the Burning Fists beta were leaked rom a former SoJ employee and sold on eBay some years ago. Burning Fist was never officially released, but in 2006 those alpha / beta builds were re-sold to Good Deal Games.</desc>
-		<image>./mixart/Burning Fists - Force Striker (USA) (Unl).png</image>
-		<video>./snap/Burning Fists - Force Striker (USA) (Unl).mp4</video>
-		<marquee>./wheel/Burning Fists - Force Striker (USA) (Unl).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Good Deal Game</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<cheevosHash>F32EC0553DF747C94A2D3BABC90E3AF5</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
-		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA).chd</path>
-		<name>Cadillacs and Dinosaurs - The Second Cataclysm (USA)</name>
-		<image>./mixart/Cadillacs and Dinosaurs - The Second Cataclysm (USA).png</image>
-		<video>./snap/Cadillacs and Dinosaurs - The Second Cataclysm (USA).mp4</video>
-		<marquee>./wheel/Cadillacs and Dinosaurs - The Second Cataclysm (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>033544049BE92F9BDE40A6C078D37746</cheevosHash>
-	</game>
-	<game id="12743" source="ScreenScraper">
-		<path>./Chuck Rock (USA).chd</path>
-		<name>Chuck Rock</name>
-		<desc>Chuck Rock is your typical average cave man.  He likes to spend his Sunday afternoons watching football and drinking beer.  Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter.  So, Chuck is rather upset about this whole situation and you have to help him make things right.
-
-The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick. Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
-		<image>./mixart/Chuck Rock (USA).png</image>
-		<video>./snap/Chuck Rock (USA).mp4</video>
-		<marquee>./wheel/Chuck Rock (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920000T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>1D82340D7CE33385951B16FE1F5AD4C1</cheevosHash>
-	</game>
-	<game id="12732" source="ScreenScraper">
-		<path>./Chuck Rock II - Son of Chuck (USA).chd</path>
-		<name>Chuck Rock II: Son of Chuck</name>
-		<desc>As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter.</desc>
-		<image>./mixart/Chuck Rock II - Son of Chuck (USA).png</image>
-		<video>./snap/Chuck Rock II - Son of Chuck (USA).mp4</video>
-		<marquee>./wheel/Chuck Rock II - Son of Chuck (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>A4B142A5557A0510A66FB58EA6BE2080</cheevosHash>
-	</game>
-	<game id="97347" source="ScreenScraper.fr">
-		<path>./Citizen X (USA) (Unl).chd</path>
-		<name>Citizen X</name>
-		<desc>Citizen X has a somewhat mixed genre, ranging in gameplay from a side-view platformer to FMV-based on a story where you play the role of a secret agent recruited off the street and placed in direct confrontation with an elite terrorist organization.  The game is mostly platformer-based, but has many points where FMV will cut in that may have something to do with the area you are in. You have about 15 minutes to disarm a bomb and save the city. During this time, you have to shoot your way through sewers infested with mutant humanoids and rats, and circus tents with insane clowns throwing bombs at you. You need to break walls to find other passages, and even break into a space shuttle launch pad. Does it sound crazy? It is!</desc>
-		<image>./mixart/Citizen X (USA) (Unl).png</image>
-		<video>./snap/Citizen X (USA) (Unl).mp4</video>
-		<marquee>./wheel/Citizen X (USA) (Unl).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>OlderGames</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<cheevosHash>8659FB8A92F8434EC24D9D745CD481BB</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
-		<path>./Cliffhanger (USA).chd</path>
-		<name>Cliffhanger (USA)</name>
-		<image>./mixart/Cliffhanger (USA).png</image>
-		<video>./snap/Cliffhanger (USA).mp4</video>
-		<marquee>./wheel/Cliffhanger (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>12528701985A89E3B2B4731512A004B9</cheevosHash>
-	</game>
-	<game>
-		<path>./Cobra Command (USA).chd</path>
-		<name>Cobra Command (USA)</name>
-		<image>./mixart/Cobra Command (USA).png</image>
-		<video>./snap/Cobra Command (USA).mp4</video>
-		<marquee>./wheel/Cobra Command (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>7EB7F731F2FA52E276E3D6C4F481F234</cheevosHash>
 	</game>
 	<game>
 		<path>./Corpse Killer (USA).chd</path>
@@ -1294,21 +1061,6 @@ The characters level up automatically as they amass the necessary experience poi
 		<rating>0</rating>
 		<releasedate>00000000T000000</releasedate>
 		<cheevosHash>AC7D80DEE578E35E7011B54C5F0FB993</cheevosHash>
-	</game>
-	<game id="12771" source="ScreenScraper.fr">
-		<path>./Earnest Evans (Japan).chd</path>
-		<name>Earnest Evans</name>
-		<desc>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...  This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</desc>
-		<image>./mixart/Earnest Evans (Japan).png</image>
-		<video>./snap/Earnest Evans (Japan).mp4</video>
-		<marquee>./wheel/Earnest Evans (Japan).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Renovation Products</developer>
-		<publisher>Renovation Products</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>D9FB5E8F32E161BC62D52C9BEA7A9CA1</cheevosHash>
 	</game>
 	<game source="ScreenScraper">
 		<path>./Earthworm Jim - Special Edition (USA).chd</path>
@@ -2871,30 +2623,6 @@ Surgical Strike is an on-rails action shooter game that takes place against a fu
 		<players>1</players>
 		<cheevosHash>C51EE6BEEBD2263DFB3A16CFF67F4D02</cheevosHash>
 	</game>
-	<game>
-		<path>./Terminator, The (USA).chd</path>
-		<name>The Terminator</name>
-		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
-
-The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
-
-Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
-
-Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
-		<image>./mixart/Terminator, The (USA).png</image>
-		<video>./snap/Terminator, The (USA).mp4</video>
-		<marquee>./wheel/Terminator, The (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4B64F8013A066FEB347C427778013947</cheevosHash>
-		<cheevosId>10071</cheevosId>
-	</game>
 	<game id="12802" source="ScreenScraper.fr">
 		<path>./Thunderhawk (Europe) (En,Fr,De,Es) (RE).chd</path>
 		<name>Thunderhawk</name>
@@ -3136,5 +2864,311 @@ The six continents of Mistral can be challenged in any order, each of which are 
 		<region>us</region>
 		<cheevosHash>9D7B20D30326563892681EBC0AD0AF7E</cheevosHash>
 		<cheevosId>16031</cheevosId>
+	</game>
+	<game>
+		<path>./Battlecorps (USA).chd</path>
+		<name>Battlecorps</name>
+		<desc>Battlecorps is a giant-mech game that takes place on a mining planet known as Mandlebrot's World.  The colony supercomputer has been infected with a virus, and now the planet's giant machines are turning against the people who created them.  You must pilot your bipedal attack machine through 12 missions to reboot the computer.
+
+The graphics in this game use scaled and rotated sprites to achieve a 3D environment. The effect is similar to other Core Design games for the Sega CD.</desc>
+		<image>./mixart/Battlecorps (USA).png</image>
+		<video>./snap/Battlecorps (USA).mp4</video>
+		<marquee>./wheel/Battlecorps (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940000T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CDD76439ED11376EE7D78CE30F2CB372</cheevosHash>
+	</game>
+	<game id="12797" source="ScreenScraper">
+		<path>./BC Racers (USA).chd</path>
+		<name>BC Racers</name>
+		<desc>BC Racers is a kart racing game starring characters from the Core Design's Chuck Rock series of games.
+
+Each of the racers in this game rides a prehistoric motorcycle with a side car. On each two-character team, one person drives the motorcycle, and the other fights off opponents using clubs, punches, kicks, etc.
+
+Graphics in BC Racers consist of a flat landscape decorated with scaled sprites to compose the track and scenery.</desc>
+		<image>./mixart/BC Racers (USA).png</image>
+		<video>./snap/BC Racers (USA).mp4</video>
+		<marquee>./wheel/BC Racers (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19941201T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6D14797A2108C284E27DFAC0657B6692</cheevosHash>
+	</game>
+	<game id="12849" source="ScreenScraper">
+		<path>./Bill Walsh College Football (USA).chd</path>
+		<name>Bill Walsh College Football</name>
+		<desc>The game features 24 college football teams from the 1993 season and 24 of the all-time college teams since 1978. Play modes include exhibition, playoffs and all-time playoffs and the SNES version also has an eleven week season mode.with the National Championship as the ultimate goal. 
+
+The playbook consists of 56 offensive plays and 52 defensive plays.
+On offense, running backs can dive, spin and hurdle. Also, passing is dealt with by having the receivers in their own windowed boxes . When on defense, defenders can dive at the ball carrier, and raise hands to block kicks or intercept passes.
+
+The game also features four weather conditions (fair, windy, rain and snow), and three different quarter lengths (20, 40 and 60 minutes).</desc>
+		<image>./mixart/Bill Walsh College Football (USA).png</image>
+		<video>./snap/Bill Walsh College Football (USA).mp4</video>
+		<marquee>./wheel/Bill Walsh College Football (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Visual Concepts</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0D61EEF7AABA3942DCD21B6B4AC47AA3</cheevosHash>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Black Hole Assault (USA).chd</path>
+		<name>Black Hole Assault (USA)</name>
+		<image>./mixart/Black Hole Assault (USA).png</image>
+		<video>./snap/Black Hole Assault (USA).mp4</video>
+		<marquee>./wheel/Black Hole Assault (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FB9BF17E153DCDD0C0633830995228AF</cheevosHash>
+	</game>
+	<game id="12826" source="ScreenScraper.fr">
+		<path>./Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).chd</path>
+		<name>Bloodshot</name>
+		<desc>The year is 2049. An alien armada assaults the Solar System. You are a nameless hero whose mission is to board the enemy's main battle cruiser and to disable all sixteen of its main plasma nodes.  A special Battle Frenzy chip (code name Bloodshot) is implanted into your neural net, making you the one ultimate soldier on whom the entire humanity depends now.  This is a 3D first-person shooter. You move through maze-like corridors of the alien ship, getting weapons and items, and blasting everything you encounter on your way. There is also a two players mode with split screens.</desc>
+		<image>./mixart/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</image>
+		<video>./snap/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).mp4</video>
+		<marquee>./wheel/Bloodshot ~ Battle Frenzy (Europe) (En,Fr,De,Es).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Domark</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>de,en,es,fr</lang>
+		<region>eu</region>
+		<cheevosHash>50AB41923E9EDB04E7D047975F5A90CC</cheevosHash>
+	</game>
+	<game id="12818" source="ScreenScraper">
+		<path>./Bouncers (USA).chd</path>
+		<name>Bouncers</name>
+		<desc>Arcade basketball game where YOU are the ball. You can't jump high enough on your own to go through the hoop, so you must bounce off other players. Supports up to four simultaneous players.
+
+There are eight characters to choose from, powerups (and powerdowns) that affect your speed and jumping ability.
+
+Games can turn into fighting matches of sorts, as players can kick each other to get their opponent in the air. With practice, you can learn to shoot three pointers and slam dunk yourself into the basket.
+
+Courts range from a standard city court to an underwater and low-gravity moon court.</desc>
+		<image>./mixart/Bouncers (USA).png</image>
+		<video>./snap/Bouncers (USA).mp4</video>
+		<marquee>./wheel/Bouncers (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940000T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Dynamix</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD7720C80CB080541CFBDDACA02C173A</cheevosHash>
+	</game>
+	<game>
+		<path>./Bram Stoker's Dracula (USA).chd</path>
+		<name>Bram Stoker's Dracula (USA)</name>
+		<image>./mixart/Bram Stoker's Dracula (USA).png</image>
+		<video>./snap/Bram Stoker's Dracula (USA).mp4</video>
+		<marquee>./wheel/Bram Stoker's Dracula (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2AD894ADA689A4C10B7396A4AF92063C</cheevosHash>
+	</game>
+	<game id="58712" source="ScreenScraper">
+		<path>./Brutal - Paws of Fury (USA).chd</path>
+		<name>Brutal: Paws of Fury</name>
+		<desc>Across the world, invitations were delivered. Under the watchful eye of the great master Dali Llama, the worlds greatest martial artists would return to a place they knew well.. Brutal Island. Each will use their own unique mental and physical martial arts style and training in a tournament to prove the worlds one true champion.</desc>
+		<image>./mixart/Brutal - Paws of Fury (USA).png</image>
+		<video>./snap/Brutal - Paws of Fury (USA).mp4</video>
+		<marquee>./wheel/Brutal - Paws of Fury (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950000T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>GameTek</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F551034768405CEF3FD7C908377E80FE</cheevosHash>
+	</game>
+	<game id="97344" source="ScreenScraper.fr">
+		<path>./Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).chd</path>
+		<name>Bug Blasters - The Exterminators</name>
+		<desc>Los Angeles - a quiet little town until... THEY CAME!    Now a terrified city crawling with crime!    A band of warrior insects calling themselves "The League of Insects" under the control of General Grub and El Roacho have captured city hall and are holding Los Angeles hostage! You are the rookie member of the elite fighting force, The Bug Blasters. Accompanied by a team of experts, including Team Captain McVay, a veteran of the New York City Roach Wars of '79, you must vanquish the insect threat throughout the city and the long overlooked underground tunnels in which they have been swarming. Prevent these pests from further capturing and cocooning humans. You are an exterminator. Destroy their hive, and get out before it's too late!    "Who ya Gonna call?" BUG BLASTERS    "You've got a problem... We're here to SOLVE IT!"</desc>
+		<image>./mixart/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</image>
+		<video>./snap/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).mp4</video>
+		<marquee>./wheel/Bug Blasters - The Exterminators (USA) (Unl) (Rerelease).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Stargate</developer>
+		<publisher>Good Deal Games</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E8F04A3E835EDB234116E788C74F2A0F</cheevosHash>
+	</game>
+	<game id="97345" source="ScreenScraper.fr">
+		<path>./Burning Fists - Force Striker (USA) (Unl).chd</path>
+		<name>Burning Fists - Force Striker</name>
+		<desc>Burning Fist (also known as Force Striker in its early alpha build) is a cancelled fighting game that was in development in 1994 by Sega of Japan for the Mega CD. As we can read at Sega Base, both the Force Striker alpha and the Burning Fists beta were leaked rom a former SoJ employee and sold on eBay some years ago. Burning Fist was never officially released, but in 2006 those alpha / beta builds were re-sold to Good Deal Games.</desc>
+		<image>./mixart/Burning Fists - Force Striker (USA) (Unl).png</image>
+		<video>./snap/Burning Fists - Force Striker (USA) (Unl).mp4</video>
+		<marquee>./wheel/Burning Fists - Force Striker (USA) (Unl).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Good Deal Game</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F32EC0553DF747C94A2D3BABC90E3AF5</cheevosHash>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Cadillacs and Dinosaurs - The Second Cataclysm (USA).chd</path>
+		<name>Cadillacs and Dinosaurs - The Second Cataclysm (USA)</name>
+		<image>./mixart/Cadillacs and Dinosaurs - The Second Cataclysm (USA).png</image>
+		<video>./snap/Cadillacs and Dinosaurs - The Second Cataclysm (USA).mp4</video>
+		<marquee>./wheel/Cadillacs and Dinosaurs - The Second Cataclysm (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>033544049BE92F9BDE40A6C078D37746</cheevosHash>
+	</game>
+	<game id="12743" source="ScreenScraper">
+		<path>./Chuck Rock (USA).chd</path>
+		<name>Chuck Rock</name>
+		<desc>Chuck Rock is your typical average cave man.  He likes to spend his Sunday afternoons watching football and drinking beer.  Unfortunately, his peaceful existence is interrupted one day when his wife, Ophelia Rock, is kidnapped by the village wierdo, Gary Gritter.  So, Chuck is rather upset about this whole situation and you have to help him make things right.
+
+The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs using his belly-buster attack and a jump kick. Occasionally he has to pick up and throw rocks to defeat enemies and allow him to jump to greater heights.</desc>
+		<image>./mixart/Chuck Rock (USA).png</image>
+		<video>./snap/Chuck Rock (USA).mp4</video>
+		<marquee>./wheel/Chuck Rock (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920000T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1D82340D7CE33385951B16FE1F5AD4C1</cheevosHash>
+	</game>
+	<game id="12732" source="ScreenScraper">
+		<path>./Chuck Rock II - Son of Chuck (USA).chd</path>
+		<name>Chuck Rock II: Son of Chuck</name>
+		<desc>As you may remember, Chuck Rock had to rescue his girl, Ophelia from the bad dude Gary Gritter.</desc>
+		<image>./mixart/Chuck Rock II - Son of Chuck (USA).png</image>
+		<video>./snap/Chuck Rock II - Son of Chuck (USA).mp4</video>
+		<marquee>./wheel/Chuck Rock II - Son of Chuck (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A4B142A5557A0510A66FB58EA6BE2080</cheevosHash>
+	</game>
+	<game id="97347" source="ScreenScraper.fr">
+		<path>./Citizen X (USA) (Unl).chd</path>
+		<name>Citizen X</name>
+		<desc>Citizen X has a somewhat mixed genre, ranging in gameplay from a side-view platformer to FMV-based on a story where you play the role of a secret agent recruited off the street and placed in direct confrontation with an elite terrorist organization.  The game is mostly platformer-based, but has many points where FMV will cut in that may have something to do with the area you are in. You have about 15 minutes to disarm a bomb and save the city. During this time, you have to shoot your way through sewers infested with mutant humanoids and rats, and circus tents with insane clowns throwing bombs at you. You need to break walls to find other passages, and even break into a space shuttle launch pad. Does it sound crazy? It is!</desc>
+		<image>./mixart/Citizen X (USA) (Unl).png</image>
+		<video>./snap/Citizen X (USA) (Unl).mp4</video>
+		<marquee>./wheel/Citizen X (USA) (Unl).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>OlderGames</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8659FB8A92F8434EC24D9D745CD481BB</cheevosHash>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Cliffhanger (USA).chd</path>
+		<name>Cliffhanger (USA)</name>
+		<image>./mixart/Cliffhanger (USA).png</image>
+		<video>./snap/Cliffhanger (USA).mp4</video>
+		<marquee>./wheel/Cliffhanger (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>12528701985A89E3B2B4731512A004B9</cheevosHash>
+	</game>
+	<game>
+		<path>./Cobra Command (USA).chd</path>
+		<name>Cobra Command (USA)</name>
+		<image>./mixart/Cobra Command (USA).png</image>
+		<video>./snap/Cobra Command (USA).mp4</video>
+		<marquee>./wheel/Cobra Command (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7EB7F731F2FA52E276E3D6C4F481F234</cheevosHash>
+	</game>
+	<game id="12771" source="ScreenScraper.fr">
+		<path>./Earnest Evans (Japan).chd</path>
+		<name>Earnest Evans</name>
+		<desc>The story of the game is connected to that of  El Viento. Earnest Evans is a brave treasure hunter. His grandfather was a famous archaeologist who searched for three legendary idols in the 1930s. It was said that those idols could bring disaster upon the Earth if fallen into the wrong hands. But despite his efforts, he could never find even one of the idols. Now it's up to the grandson to continue his work, fifty years later. But the evil syndicate leader Brady Tressider has his own plans, and will do anything to stop Earnest...  This is an action platform game in which you control Earnest Evans, armed with his trusty whip. The hero can jump, climb ropes, crouch, and crawl. There are plenty of obstacles on the levels (bottomless pits, spikes, crushing bridges, lava, etc.), as well as gangsters and monsters to dispose of.</desc>
+		<image>./mixart/Earnest Evans (Japan).png</image>
+		<video>./snap/Earnest Evans (Japan).mp4</video>
+		<marquee>./wheel/Earnest Evans (Japan).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Renovation Products</developer>
+		<publisher>Renovation Products</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>D9FB5E8F32E161BC62D52C9BEA7A9CA1</cheevosHash>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).chd</path>
+		<name>The Terminator</name>
+		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
+
+The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
+
+Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
+
+Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4B64F8013A066FEB347C427778013947</cheevosHash>
+		<cheevosId>10071</cheevosId>
 	</game>
 </gameList>
