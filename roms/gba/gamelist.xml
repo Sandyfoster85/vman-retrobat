@@ -9321,21 +9321,6 @@ The Saturn version has Phantasy Star IV: The End of the Millennium as well.</des
 		<genre>Adventure</genre>
 		<cheevosHash>7AA675F783554E6734239DF89E2B7CBE</cheevosHash>
 	</game>
-	<game id="4680" source="ScreenScraper.fr">
-		<path>./Pinball Advance (Europe) (En,Fr,De,Es,It).7z</path>
-		<name>Pinball Advance</name>
-		<desc>Pinball Advance features the Tarantula, Jailbreak and Daredevil pinball tables, all fully rendered in shiny 3D and each with their own exclusive single and multiball game modes. The Tarantula table will allow budding pinball wizards to venture into the spider?s lair and fight their way onto the scoreboard overcoming the terror of the table. In Jailbreak, players will have to prove their innocence to the judge or escape past the prison guards. Finally, The Daredevil will let players take their chances with the Wheel of Death and The Loop of Fire.</desc>
-		<image>./mixart/Pinball Advance (Europe) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Pinball Advance (Europe) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Pinball Advance (Europe) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20021111T000000</releasedate>
-		<developer>Universal Interactive</developer>
-		<publisher>Digital Illusions</publisher>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<cheevosHash>1E5F91DB7B8FA135CC3B118A3F8E686C</cheevosHash>
-	</game>
 	<game id="4594" source="ScreenScraper.fr">
 		<path>./Pinball Challenge Deluxe (Europe).7z</path>
 		<name>Pinball Challenge Deluxe</name>
@@ -11612,23 +11597,6 @@ The game takes a moderate amount of time to play through as all the characters, 
 		<players>4</players>
 		<cheevosHash>100579EF01225C620560F88E65CA423A</cheevosHash>
 		<cheevosId>2188</cheevosId>
-	</game>
-	<game id="4218" source="ScreenScraper.fr">
-		<path>./Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).7z</path>
-		<name>Sonic Pinball Party</name>
-		<desc>Sonic Pinball Party is the second Sonic Pinball game since Sonic Spinball in the early 90's. The game has an arcade mode, a tutorial mode, and a vs mode (party mode). In the game the game has pinball tables of famous Sonic Team characters such as Nights, Samba de Amigo, and of course SONIC! 
-
-The story mode of the game is the usual type of story, Robotnik steals animals visiting Casinopolis, and is going turn into his Robotic slaves. Of course, Sonic is going to try and stop him. Before he does, he has to win a pinball competition and during the game you unlock prizes. The competition is set out as a knockout format. The game also has a Casinopolis mode, which has Casino games like Roulette. There is also a chao garden, just like in the Sonic Advance games.</desc>
-		<image>./mixart/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).png</image>
-		<video>./snap/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20030601T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Pinball</genre>
-		<players>4</players>
-		<cheevosHash>DE40B1738A7C670CA28DDF44BB908DF6</cheevosHash>
 	</game>
 	<game id="4155" source="ScreenScraper.fr">
 		<path>./Sonic the Hedgehog - Genesis (USA).7z</path>
@@ -15746,7 +15714,7 @@ The game has a lot of options available. You can toggle on or off the music or t
 		<video>./snap/Backyard Skateboarding (USA).mp4</video>
 		<marquee>./wheel/Backyard Skateboarding (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Atari</developer>
 		<publisher>Humongous Entertainment</publisher>
 		<lang>en</lang>
@@ -15930,7 +15898,7 @@ Thieves and brigands have driven you and your family from your farmland home. De
 		<video>./snap/Barbie Groovy Games (USA).mp4</video>
 		<marquee>./wheel/Barbie Groovy Games (USA).png</marquee>
 		<rating>0.2</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Dice</developer>
 		<publisher>Vivendi Universal Games</publisher>
 		<genre>Sports</genre>
@@ -15980,9 +15948,41 @@ Thieves and brigands have driven you and your family from your farmland home. De
 		<video>./snap/Barbie Superpack (USA).mp4</video>
 		<marquee>./wheel/Barbie Superpack (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>50552A80C5D80210C941E4AD8230E814</cheevosHash>
+	</game>
+	<game id="4680" source="ScreenScraper.fr">
+		<path>./Pinball Advance (Europe) (En,Fr,De,Es,It).7z</path>
+		<name>Pinball Advance</name>
+		<desc>Pinball Advance features the Tarantula, Jailbreak and Daredevil pinball tables, all fully rendered in shiny 3D and each with their own exclusive single and multiball game modes. The Tarantula table will allow budding pinball wizards to venture into the spider?s lair and fight their way onto the scoreboard overcoming the terror of the table. In Jailbreak, players will have to prove their innocence to the judge or escape past the prison guards. Finally, The Daredevil will let players take their chances with the Wheel of Death and The Loop of Fire.</desc>
+		<image>./mixart/Pinball Advance (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Pinball Advance (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Pinball Advance (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20021111T000000</releasedate>
+		<developer>Universal Interactive</developer>
+		<publisher>Digital Illusions</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<cheevosHash>1E5F91DB7B8FA135CC3B118A3F8E686C</cheevosHash>
+	</game>
+	<game id="4218" source="ScreenScraper.fr">
+		<path>./Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).7z</path>
+		<name>Sonic Pinball Party</name>
+		<desc>Sonic Pinball Party is the second Sonic Pinball game since Sonic Spinball in the early 90's. The game has an arcade mode, a tutorial mode, and a vs mode (party mode). In the game the game has pinball tables of famous Sonic Team characters such as Nights, Samba de Amigo, and of course SONIC! 
+
+The story mode of the game is the usual type of story, Robotnik steals animals visiting Casinopolis, and is going turn into his Robotic slaves. Of course, Sonic is going to try and stop him. Before he does, he has to win a pinball competition and during the game you unlock prizes. The competition is set out as a knockout format. The game also has a Casinopolis mode, which has Casino games like Roulette. There is also a chao garden, just like in the Sonic Advance games.</desc>
+		<image>./mixart/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).png</image>
+		<video>./snap/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Sonic Pinball Party (USA) (En,Ja,Fr,De,Es,It).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20030601T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Pinball</genre>
+		<players>4</players>
+		<cheevosHash>DE40B1738A7C670CA28DDF44BB908DF6</cheevosHash>
 	</game>
 </gameList>

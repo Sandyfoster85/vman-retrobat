@@ -1529,23 +1529,6 @@ Each of the four tables has one or two high-scoring rounds that can be started b
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].chd</path>
-		<name>Pinball Prelude</name>
-		<desc>The central theme of the pinball game Pinball Prelude is time. The first table is set in the past and features a dinosaur setting, with table elements being not easily recognizable as such since they blend into the environment. The second table is set in the present and at the same time the most conventional of the three design-wise. The third table plays in the future and contains five flippers in total.
-
-Some of the features include a hi-res mode for multi-ball, vertical and horizontal scrolling of the playfield and a rubber ball, which behaves much differently than the standard steel sphere.</desc>
-		<image>./mixart/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].png</image>
-		<video>./snap/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].mp4</video>
-		<marquee>./wheel/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Effigy Software</developer>
-		<publisher>Effigy Software</publisher>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pirates! Gold (Europe) (En,De).chd</path>
 		<name>Pirates! Gold</name>
 		<desc>As with the original, this is a blend of strategy, action and adventure. Pirates! Gold lets you play the role of a beginning buccaneer in the 17th century Spanish Main, in search of fame and fortune. Each town in this untamed raw region has different surprises and dangers.
@@ -2615,6 +2598,23 @@ There are four large levels, which also scroll a small amount horizontally, the 
 		<developer>Simone Bevilacqua</developer>
 		<publisher>RGCD</publisher>
 		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].chd</path>
+		<name>Pinball Prelude</name>
+		<desc>The central theme of the pinball game Pinball Prelude is time. The first table is set in the past and features a dinosaur setting, with table elements being not easily recognizable as such since they blend into the environment. The second table is set in the present and at the same time the most conventional of the three design-wise. The third table plays in the future and contains five flippers in total.
+
+Some of the features include a hi-res mode for multi-ball, vertical and horizontal scrolling of the playfield and a rubber ball, which behaves much differently than the standard steel sphere.</desc>
+		<image>./mixart/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].png</image>
+		<video>./snap/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].mp4</video>
+		<marquee>./wheel/Pinball Prelude (1996)(Effigy Software)[!][Amiga-CD32-PC].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Effigy Software</developer>
+		<publisher>Effigy Software</publisher>
+		<genre>Pinball</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

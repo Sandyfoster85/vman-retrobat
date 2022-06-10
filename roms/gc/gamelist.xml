@@ -5570,22 +5570,6 @@ If Four players are not available computers will act as any ghost not directly c
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Pinball Hall of Fame - The Gottlieb Collection (USA).rvz</path>
-		<name>Pinball Hall Of Fame - The Gottlieb Collection</name>
-		<desc>Pinball Hall of Fame features more than eight pinball tables from the '60s through the '90s. The game features realistic physics, detailed graphics, and sounds captured directly from the actual tables. A tutorial fly-through of each table helps you plan your strategy and make every shot count. Compete for the high score alone or against three of your friends. With enough play, you'll learn fun facts about each table and even unlock a bonus table.</desc>
-		<image>./mixart/Pinball Hall of Fame - The Gottlieb Collection (USA).png</image>
-		<video>./snap/Pinball Hall of Fame - The Gottlieb Collection (USA).mp4</video>
-		<marquee>./wheel/Pinball Hall of Fame - The Gottlieb Collection (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050320T000000</releasedate>
-		<developer>FarSight Studios</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Pinball</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4962" source="ScreenScraper.fr">
 		<path>./Pitfall - The Lost Expedition (USA).rvz</path>
 		<name>Pitfall: The Lost Expedition</name>
@@ -9030,5 +9014,21 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game>
+		<path>./Pinball Hall of Fame - The Gottlieb Collection (USA).rvz</path>
+		<name>Pinball Hall Of Fame - The Gottlieb Collection</name>
+		<desc>Pinball Hall of Fame features more than eight pinball tables from the '60s through the '90s. The game features realistic physics, detailed graphics, and sounds captured directly from the actual tables. A tutorial fly-through of each table helps you plan your strategy and make every shot count. Compete for the high score alone or against three of your friends. With enough play, you'll learn fun facts about each table and even unlock a bonus table.</desc>
+		<image>./mixart/Pinball Hall of Fame - The Gottlieb Collection (USA).png</image>
+		<video>./snap/Pinball Hall of Fame - The Gottlieb Collection (USA).mp4</video>
+		<marquee>./wheel/Pinball Hall of Fame - The Gottlieb Collection (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050320T000000</releasedate>
+		<developer>FarSight Studios</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Pinball</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

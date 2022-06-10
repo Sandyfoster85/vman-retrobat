@@ -6610,21 +6610,6 @@ Your weapons can be upgraded by earning medals during your missions. You can ear
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Pinball Hall of Fame - The Williams Collection (USA).gz</path>
-		<name>Pinball Hall of Fame : The Williams Collection</name>
-		<desc>Pinball Hall of Fame: The Williams Collection faithfully recreates eight of the most memorable tables from the golden age of pinball in photorealistic 3D. Working closely with Williams to ensure authenticity of each of the games, the collection is highlighted by some of the most popular and innovative Williams pinball tables, including Gorgar, the first-ever talking pinball machine, Black Knight, which introduced "Magna-Save" and Bonus Ball, and Space Shuttle, which took the pinball industry by storm in 1984. Every table has been meticulously recreated to bring players the visuals, sound effects and gameplay that made these games legendary successes. Pinball Hall of Fame: The Williams Collection harkens back to the arcades of the 1980s. Players begin Pinball Hall of Fame: The Williams Collection with access to four pinball tables, and the remaining four tables are unlocked as the game progresses. Players can spend as little as two minutes on a quick pinball challenge, or delve deeper into the game, gaining rewards in a token-based system as they unlock each of the pinball tables. Single-player Arcade and Challenge modes provide hours of solo entertainment, and a Multiplayer mode lets players face each other head-on.</desc>
-		<image>./mixart/Pinball Hall of Fame - The Williams Collection (USA).png</image>
-		<video>./snap/Pinball Hall of Fame - The Williams Collection (USA).mp4</video>
-		<marquee>./wheel/Pinball Hall of Fame - The Williams Collection (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20080226T000000</releasedate>
-		<developer>FarSight Studios</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Pinball</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="23096" source="ScreenScraper.fr">
 		<path>./Hot Shots Tennis (USA).gz</path>
 		<name>Hot Shots Tennis</name>
@@ -7675,5 +7660,20 @@ The new features for the Fire ProWrestling series debuting in Fire ProWrestling 
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>3328</genreid>
+	</game>
+	<game>
+		<path>./Pinball Hall of Fame - The Williams Collection (USA).gz</path>
+		<name>Pinball Hall of Fame : The Williams Collection</name>
+		<desc>Pinball Hall of Fame: The Williams Collection faithfully recreates eight of the most memorable tables from the golden age of pinball in photorealistic 3D. Working closely with Williams to ensure authenticity of each of the games, the collection is highlighted by some of the most popular and innovative Williams pinball tables, including Gorgar, the first-ever talking pinball machine, Black Knight, which introduced "Magna-Save" and Bonus Ball, and Space Shuttle, which took the pinball industry by storm in 1984. Every table has been meticulously recreated to bring players the visuals, sound effects and gameplay that made these games legendary successes. Pinball Hall of Fame: The Williams Collection harkens back to the arcades of the 1980s. Players begin Pinball Hall of Fame: The Williams Collection with access to four pinball tables, and the remaining four tables are unlocked as the game progresses. Players can spend as little as two minutes on a quick pinball challenge, or delve deeper into the game, gaining rewards in a token-based system as they unlock each of the pinball tables. Single-player Arcade and Challenge modes provide hours of solo entertainment, and a Multiplayer mode lets players face each other head-on.</desc>
+		<image>./mixart/Pinball Hall of Fame - The Williams Collection (USA).png</image>
+		<video>./snap/Pinball Hall of Fame - The Williams Collection (USA).mp4</video>
+		<marquee>./wheel/Pinball Hall of Fame - The Williams Collection (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20080226T000000</releasedate>
+		<developer>FarSight Studios</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Pinball</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

@@ -143,20 +143,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Wolfenstein 3D - Coop.lnk</path>
-		<name>'H'Wolfenstein 3D Coop</name>
-		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
-		<image>./mixart/Wolfenstein 3D-Coop.png</image>
-		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
-		<marquee>./wheel/Wolfenstein 3D.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>ID Software</developer>
-		<publisher>ID Software</publisher>
-		<genre>Shooter</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Commander Genius.lnk</path>
 		<name>Commander Genius</name>
 		<desc>Commander Keen was a video game series originally on DOS. By default the emulator comes with 3 Commander Keen games, follow the file format of the games that are there when adding new games. You can then select them from the Commander Genius Launch Menu.
@@ -253,35 +239,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Solarus Engine - Zelda Return of the Hylian SE.lnk</path>
-		<name>Zelda Return of the Hylian SE</name>
-		<desc>Zelda Return of the Hylian SE. Zelda Return of the Hylian Solarus Edition is a remake of the original Zelda Return of the Hylian, a short but pleasant fangame from Vincent Jouillat.
-	
-After Link's victory over Ganon (in "A Link to the Past"), no one knows what Link's wish to the Triforce was. But this wish reunified the Light World and the Dark World and brought the 7 wise men's descendants back to life. Peace was back in Hyrule. But unfortunately, this wish also resurrected Ganon .
-
-NOTE: Requires keyboard to exit!</desc>
-		<image>./mixart/Zelda Return of the Hylian SE.png</image>
-		<video>./snap/Zelda Return of the Hylian SE.mp4</video>
-		<marquee>./wheel/Zelda Return of the Hylian SE.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<developer>Vincent Jouillat</developer>
-		<publisher>Vincent Jouillat</publisher>
-	</game>
-	<game>
-		<path>./SuperTuxKart.lnk</path>
-		<name>SuperTuxKart</name>
-		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned) See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents. You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
-		<image>./mixart/SuperTuxKart.png</image>
-		<video>./snap/SuperTuxKart.mp4</video>
-		<marquee>./wheel/SuperTuxKart.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20030401T000000</releasedate>
-		<developer>SuperTux Development Team</developer>
-		<genre>Platform</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ur-quan Masters.lnk</path>
 		<name>The Ur-quan Masters</name>
 		<desc>n 1990, Toys for Bob released a simple multiplayer space battle game called Star Control. In 1992, it birthed a sequel, Star Control 2, an MS-DOS space exploration adventure of dizzying scope. Ten years later, the creators made the source code of the 3DO version available as open source. Another nine years passed, and the game was reborn as The Ur-Quan Masters, a non-commercial PC recreation of the original game for a new generation.</desc>
@@ -335,25 +292,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<publisher>LucasArts/Fanmade</publisher>
 		<genre>Action, Flight Simulator</genre>
 		<favorite>true</favorite>
-	</game>
-	<game>
-		<path>./Quake.lnk</path>
-		<name>Quake</name>
-		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
-
-There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
-
-The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
-		<image>./mixart/Quake.png</image>
-		<video>./snap/Quake.mp4</video>
-		<marquee>./wheel/Quake.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>ID Software</developer>
-		<publisher>ID Software</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Streets of Rage Remake.lnk</path>
@@ -425,21 +363,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Jazz Jackrabbit.lnk</path>
-		<name>Jazz Jackrabbit OpenJAZZ</name>
-		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
-		<image>./mixart/Jazz Jackrabbit.png</image>
-		<video>./snap/Jazz Jackrabbit.mp4</video>
-		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>OpenSource</developer>
-		<publisher>OpenSource</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Cannonball - OutRun Engine.lnk</path>
 		<name>CannonBall: The Enhanced OutRun</name>
 		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
@@ -465,18 +388,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<releasedate>20150101T000000</releasedate>
 		<genre>Shooter</genre>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario War.lnk</path>
-		<name>Super Mario War</name>
-		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
-		<image>./mixart/Super Mario War.png</image>
-		<video>./snap/Super Mario War.mp4</video>
-		<marquee>./wheel/Super Mario War.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20060101T000000</releasedate>
-		<genre>Fighting</genre>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -542,6 +453,100 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Jazz Jackrabbit.lnk</path>
+		<name>Jazz Jackrabbit OpenJAZZ</name>
+		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
+		<image>./mixart/Jazz Jackrabbit.png</image>
+		<video>./snap/Jazz Jackrabbit.mp4</video>
+		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>OpenSource</developer>
+		<publisher>OpenSource</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marble Madness II.lnk</path>
+		<name>Marble Man: Marble Madness II</name>
+		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
+		<image>./mixart/Marble Madness II.jpg</image>
+		<video>./snap/Marble Madness II.mp4</video>
+		<marquee>./wheel/Marble Madness II.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20220626T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Arcade, Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Quake.lnk</path>
+		<name>Quake</name>
+		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
+
+There are 4 Quake games: Quake, Quake II, and Quake III Arena and Quake 4. RetroPie includes Quake, TyrQuake (an optimized build of the original Quake Engine), and Quake III Arena.
+
+The source code to the original Quake engine was released under the GPLv2 license on December 21st 1999. This has enabled a wide variety of source ports and improvements to be made and for the game to run on alternative operating systems and architectures.</desc>
+		<image>./mixart/Quake.png</image>
+		<video>./snap/Quake.mp4</video>
+		<marquee>./wheel/Quake.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Solarus Engine - Zelda Return of the Hylian SE.lnk</path>
+		<name>Zelda Return of the Hylian SE</name>
+		<desc>Zelda Return of the Hylian SE. Zelda Return of the Hylian Solarus Edition is a remake of the original Zelda Return of the Hylian, a short but pleasant fangame from Vincent Jouillat.
+	
+After Link's victory over Ganon (in "A Link to the Past"), no one knows what Link's wish to the Triforce was. But this wish reunified the Light World and the Dark World and brought the 7 wise men's descendants back to life. Peace was back in Hyrule. But unfortunately, this wish also resurrected Ganon .
+
+NOTE: Requires keyboard to exit!</desc>
+		<image>./mixart/Zelda Return of the Hylian SE.png</image>
+		<video>./snap/Zelda Return of the Hylian SE.mp4</video>
+		<marquee>./wheel/Zelda Return of the Hylian SE.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<developer>Vincent Jouillat</developer>
+		<publisher>Vincent Jouillat</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Mario War.lnk</path>
+		<name>Super Mario War</name>
+		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
+		<image>./mixart/Super Mario War.png</image>
+		<video>./snap/Super Mario War.mp4</video>
+		<marquee>./wheel/Super Mario War.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SuperTuxKart.lnk</path>
+		<name>SuperTuxKart</name>
+		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned) See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents. You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
+		<image>./mixart/SuperTuxKart.png</image>
+		<video>./snap/SuperTuxKart.mp4</video>
+		<marquee>./wheel/SuperTuxKart.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030401T000000</releasedate>
+		<developer>SuperTux Development Team</developer>
+		<genre>Platform</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Teenage Mutant Ninja Turtles HD.lnk</path>
 		<name>'H'Teenage Mutant Ninja Turtles HD</name>
 		<desc>WIP - Fanmade TMNT HD remastered is an action fanmade game. Do you remenber this wonderfull game? This is a fan remaster, made with love and passion. Its not 100% clone of the original arcade, but im almost there ^_^.</desc>
@@ -555,6 +560,20 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<genre>Beatem'up</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D - Coop.lnk</path>
+		<name>'H'Wolfenstein 3D Coop</name>
+		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
+		<image>./mixart/Wolfenstein 3D-Coop.png</image>
+		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
+		<marquee>./wheel/Wolfenstein 3D.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
 		<lang>en</lang>
 	</game>
 </gameList>
