@@ -51,6 +51,16 @@ copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\Ret
 rem 10. 2022-05-08 - Xbox Xemu config update for 0.7.x - reported by Virtualman/Bilu
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\xemu\ V:\RetroBat\emulators\xemu\ /S /NFL /NDL /IS /MT:4
 
+rem 11. 2022-06-11 - Add lr-hatari settings if not existing, search/replace via updates.txt used afterwards
+set RAOPTS=V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg
+findstr /c:"hatari_frameskips" %RAOPTS% >nul || echo hatari_frameskips = "0" >> %RAOPTS%
+findstr /c:"hatari_nokeys" %RAOPTS% >nul || echo hatari_nokeys = "false" >> %RAOPTS%
+findstr /c:"hatari_nomouse" %RAOPTS% >nul || echo hatari_nomouse = "false" >> %RAOPTS%
+findstr /c:"hatari_polarized_filter" %RAOPTS% >nul || echo hatari_polarized_filter = "false" >> %RAOPTS%
+findstr /c:"hatari_twojoy" %RAOPTS% >nul || echo hatari_twojoy = "false" >> %RAOPTS%
+findstr /c:"hatari_video_crop_overscan" %RAOPTS% >nul || echo hatari_video_crop_overscan = "true" >> %RAOPTS%
+findstr /c:"hatari_video_hires" %RAOPTS% >nul || echo hatari_video_hires = "true" >> %RAOPTS%
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
