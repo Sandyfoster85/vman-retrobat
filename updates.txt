@@ -26,3 +26,5 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 14|2022-06-11|"Atari ST : optimized settings"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|hatari_twojoy = "true"|hatari_twojoy = "false"
 14|2022-06-11|"Atari ST : optimized settings"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|hatari_video_crop_overscan = "false"|hatari_video_crop_overscan = "true"
 14|2022-06-11|"Atari ST : optimized settings"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|hatari_video_hires = "false"|hatari_video_hires = "true"
+15|2022-06-11|"Atari ST : lr-hatari performance optimized"||V:\RetroBat\bios\hatari.cfg|bCompatibleCpu = TRUE|bCompatibleCpu = FALSE
+15|2022-06-11|"Atari ST : lr-hatari performance optimized"||V:\RetroBat\bios\hatari.cfg|bBlitter = FALSE|bBlitter = TRUE
