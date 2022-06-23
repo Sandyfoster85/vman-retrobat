@@ -12876,23 +12876,6 @@ Enter Vectorman, a humble robot in charge of cleaning up toxic sludge by simply 
 		<cheevosHash>9666D682CC7C69B26B834B4D8A949277</cheevosHash>
 		<cheevosId>1443</cheevosId>
 	</game>
-	<game id="564" source="ScreenScraper.fr">
-		<path>./Viewpoint (USA).7z</path>
-		<name>Viewpoint</name>
-		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
-
-One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
-		<image>./mixart/Viewpoint (USA).png</image>
-		<video>./snap/Viewpoint (USA).mp4</video>
-		<marquee>./wheel/Viewpoint (USA).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19941101T000000</releasedate>
-		<developer>Sammy</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<cheevosHash>8CD197AE13FA8B4E93CC109502DB957B</cheevosHash>
-	</game>
 	<game id="99" source="ScreenScraper.fr">
 		<path>./Virtua Fighter 2 (USA, Europe).7z</path>
 		<name>Virtua Fighter 2</name>
@@ -14349,5 +14332,22 @@ Unleash some mad blasting action onto the Colonel's army and don't let him bring
 		<players>2</players>
 		<cheevosHash>9A369CFC6355DB48677771E345421E0E</cheevosHash>
 		<cheevosId>7</cheevosId>
+	</game>
+	<game id="564" source="ScreenScraper.fr">
+		<path>./Viewpoint (USA).7z</path>
+		<name>Viewpoint</name>
+		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
+
+One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
+		<image>./mixart/Viewpoint (USA).png</image>
+		<video>./snap/Viewpoint (USA).mp4</video>
+		<marquee>./wheel/Viewpoint (USA).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19941101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<cheevosHash>8CD197AE13FA8B4E93CC109502DB957B</cheevosHash>
 	</game>
 </gameList>

@@ -290,22 +290,6 @@ Basha Trix
 		<video>./snap/Basha Trix.mp4</video>
 		<genreid>3584</genreid>
 	</game>
-	<game id="29167" source="ScreenScraper.fr">
-		<path>./Bashi Blocks.cso</path>
-		<name>Bashi Blocks</name>
-		<desc>Bashi Blocks - Make your Own Levels, Make Your Own Game! With ninety game levels to play through, huge end of zone bosses and several game modes to choose from including customized arcade tournaments, players of all ages are guaranteed hours of endless fun!  
- 
-The unique built-in game editor offers unlimited level design possibilities; you can even structure your own game tournament!</desc>
-		<releasedate />
-		<developer>Icon Games</developer>
-		<publisher>Icon Games</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<image>./mixart/Bashi Blocks.png</image>
-		<marquee>./wheel/Bashi Blocks.png</marquee>
-		<video>./snap/Bashi Blocks.mp4</video>
-		<genreid>256</genreid>
-	</game>
 	<game id="144035" source="ScreenScraper.fr">
 		<path>./Battle Poker.cso</path>
 		<name>Battle Poker</name>
@@ -4128,7 +4112,7 @@ In all modes your ships (one red, one blue) are tasked with destroying wave upon
 		<image>./mixart/Ninjamurai.png</image>
 		<video>./snap/Ninjamurai.mp4</video>
 		<marquee>./wheel/Ninjamurai.png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Open Emotions</developer>
 		<publisher>Open Emotions</publisher>
 		<genre>Platform</genre>
@@ -4163,5 +4147,21 @@ In all modes your ships (one red, one blue) are tasked with destroying wave upon
 		<genre>Beat'em Up</genre>
 		<lang>en</lang>
 		<genreid>263</genreid>
+	</game>
+	<game id="29167" source="ScreenScraper.fr">
+		<path>./Bashi Blocks.cso</path>
+		<name>Bashi Blocks</name>
+		<desc>Bashi Blocks - Make your Own Levels, Make Your Own Game! With ninety game levels to play through, huge end of zone bosses and several game modes to choose from including customized arcade tournaments, players of all ages are guaranteed hours of endless fun!  
+ 
+The unique built-in game editor offers unlimited level design possibilities; you can even structure your own game tournament!</desc>
+		<image>./mixart/Bashi Blocks.png</image>
+		<video>./snap/Bashi Blocks.mp4</video>
+		<marquee>./wheel/Bashi Blocks.png</marquee>
+		<releasedate></releasedate>
+		<developer>Icon Games</developer>
+		<publisher>Icon Games</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<genreid>256</genreid>
 	</game>
 </gameList>

@@ -3324,22 +3324,6 @@
 		<cheevosHash>9EAE8DC27F03A9855C1FFC92CD46BE27</cheevosHash>
 	</game>
 	<game>
-		<path>./NHL All-Star Hockey 98 (USA).chd</path>
-		<name>NHL All-Star Hockey 98</name>
-		<desc>NHL All-Star Hockey 98 sur Saturn est un jeu de hockey regroupant les 26 équipes de la NHL. Vous pouvez jouer jusqu'à huit si des amis vous rejoignent et que vous avez un adaptateur. Le jeu utilise des nouveaux angles de caméra pour une action intense dont vous ne perdrez pas la moindre miette !</desc>
-		<image>./mixart/NHL All-Star Hockey 98 (USA).png</image>
-		<video>./snap/NHL All-Star Hockey 98 (USA).mp4</video>
-		<marquee>./wheel/NHL All-Star Hockey 98 (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Radical Entertainment</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DD70CE08939811FE183236D353A6F1F0</cheevosHash>
-	</game>
-	<game>
 		<path>./NHL Powerplay '96 (USA).chd</path>
 		<name>NHL Powerplay '96</name>
 		<desc>An early competitor to the EA Sports NHL series, NHL Powerplay '96 features motion-captured players, an NHL Player’s Association license, a variety of managerial options, and the ability to play seasons and tournaments.  It is the first NHL game to include a World Tournament mode in which the NHL players can compete against each other on their respective national teams.  In a time where developers tried to get the most from 32-bit consoles, leading to the "unlimited camera angles" blurb on many games, NHL Powerplay stuck with the one most people used, the overhead "behind the goal" view, popularized by EA's NHL series - and it was one of first full 3D sports games on the market.</desc>
@@ -5403,5 +5387,21 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>B16BEF72870F47E6869991D6350ECEDC</cheevosHash>
+	</game>
+	<game>
+		<path>./NHL All-Star Hockey 98 (USA).chd</path>
+		<name>NHL All-Star Hockey 98</name>
+		<desc>NHL All-Star Hockey 98 sur Saturn est un jeu de hockey regroupant les 26 équipes de la NHL. Vous pouvez jouer jusqu'à huit si des amis vous rejoignent et que vous avez un adaptateur. Le jeu utilise des nouveaux angles de caméra pour une action intense dont vous ne perdrez pas la moindre miette !</desc>
+		<image>./mixart/NHL All-Star Hockey 98 (USA).png</image>
+		<video>./snap/NHL All-Star Hockey 98 (USA).mp4</video>
+		<marquee>./wheel/NHL All-Star Hockey 98 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DD70CE08939811FE183236D353A6F1F0</cheevosHash>
 	</game>
 </gameList>

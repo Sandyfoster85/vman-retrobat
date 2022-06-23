@@ -6991,22 +6991,6 @@ The ultimate goal is to top the championship table, and then defeat the Adversar
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Extreme Pinball.pc</path>
-		<name>Extreme Pinball</name>
-		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Extreme Pinball.png</image>
-		<video>./snap/Extreme Pinball.mp4</video>
-		<marquee>./wheel/Extreme Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Electronic Arts</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Nascar Racing 2.pc</path>
 		<name>NASCAR Racing 2</name>
 		<desc>The sequel to Sierra's award-winning NASCAR Racing, NASCAR 2 used a new game engine, which improved the graphics, physics, sound, and multiplayer.
@@ -7084,6 +7068,22 @@ There is also a freeform mode where the player is given an unlimited number of p
 		<developer>Dynamix</developer>
 		<publisher>Sierra On-Line</publisher>
 		<genre>Strategy</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Extreme Pinball.pc</path>
+		<name>Extreme Pinball</name>
+		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Extreme Pinball.png</image>
+		<video>./snap/Extreme Pinball.mp4</video>
+		<marquee>./wheel/Extreme Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Electronic Arts</publisher>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -1557,17 +1557,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<md5>22ff114797f17322c846e6e016a1ffcd</md5>
 		<lang>en</lang>
 	</game>
-	<game id="246311">
-		<path>./NES Remix Pack (USA).wux</path>
-		<name>NES Remix Pack</name>
-		<image>./mixart/NES Remix Pack-01.png</image>
-		<video>./snap/NES Remix.mp4</video>
-		<marquee>./wheel/NES Remix Pack-01.png</marquee>
-		<rating>0.86</rating>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="241512">
 		<path>./The Legend of Zelda Breath of the Wild/code/The Legend of Zelda Breath of the Wild.rpx</path>
 		<name>The Legend of Zelda: Breath of the Wild</name>
@@ -1634,5 +1623,16 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<favorite>true</favorite>
 		<md5>1357c833acd98ec03218eb773296824a</md5>
 		<lang>en</lang>
+	</game>
+	<game id="246311">
+		<path>./NES Remix Pack (USA).wux</path>
+		<name>NES Remix Pack</name>
+		<image>./mixart/NES Remix Pack-01.png</image>
+		<video>./snap/NES Remix.mp4</video>
+		<marquee>./wheel/NES Remix Pack-01.png</marquee>
+		<rating>0.86</rating>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

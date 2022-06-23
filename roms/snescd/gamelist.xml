@@ -1633,18 +1633,6 @@ Similar to it's predecessors, Super Turican features large levels that are cramm
 		<cheevosHash>BB86AFD45871A361A94B6982C22C5B02</cheevosHash>
 	</game>
 	<game source="ScreenScraper">
-		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).sfc</path>
-		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1)</name>
-		<image>./mixart/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).png</marquee>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<lang>en</lang>
-		<cheevosHash>45EC2656D6D074C18F1642E663ED97E7</cheevosHash>
-		<cheevosId>350</cheevosId>
-	</game>
-	<game source="ScreenScraper">
 		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).sfc</path>
 		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1)</name>
 		<image>./mixart/Teenage Mutant Ninja Turtles IV - Turtles in Time OC Remix (MSU-1).png</image>
@@ -1985,22 +1973,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<lang>en</lang>
 		<cheevosHash>6A77D19812369B3FBB52041B71C768AD</cheevosHash>
 	</game>
-	<game>
-		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
-		<name>The Legend of Zelda - A Link to the Past</name>
-		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
-		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
-		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19920413T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>632E6BBA4DF3F2E9A459B06BEB2969E8</cheevosHash>
-	</game>
 	<game id="172350" source="ScreenScraper.fr">
 		<path>./Out_of_this_World_(USA)_(MSU1).sfc</path>
 		<name>Out Of This World</name>
@@ -2018,5 +1990,33 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>wr</region>
 		<cheevosHash>ECA6CE2559706E1DDFB23E933818A465</cheevosHash>
 		<cheevosId>1081</cheevosId>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).sfc</path>
+		<name>Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1)</name>
+		<image>./mixart/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles IV - Turtles in Time Hyperstone Heist OST (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>45EC2656D6D074C18F1642E663ED97E7</cheevosHash>
+		<cheevosId>350</cheevosId>
+	</game>
+	<game>
+		<path>./Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).sfc</path>
+		<name>The Legend of Zelda - A Link to the Past</name>
+		<desc>Venture back to Hyrule and an age of magic and heroes. The predecessors of Link and Zelda face monsters on the march when a menacing magician takes over the kingdom. Only you can prevent his evil plot from shattering the land of Hyrule. In your quest, you'll venture into twisting mazes, dungeons, palaces and shadowy forests. Test your mettle with mighty swords and magical weapons. Or heft a boulder and hurl it at your enemies. If the going gets tough, dive into a river - you can swim to escape! Learn the powerful spells, locate magical artifacts and solve the mysteries of the evil magician and the hidden realm of Hyrule.</desc>
+		<image>./mixart/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</image>
+		<video>./snap/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Legend_of_Zelda,_The_-_A_Link_to_the_Past_(USA)_(MSU1).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19920413T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>632E6BBA4DF3F2E9A459B06BEB2969E8</cheevosHash>
 	</game>
 </gameList>

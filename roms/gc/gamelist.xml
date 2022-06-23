@@ -5455,22 +5455,6 @@ If Four players are not available computers will act as any ghost not directly c
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="5240" source="ScreenScraper.fr">
-		<path>./Pac-Man World Rally (USA).rvz</path>
-		<name>Pac-Man World Rally</name>
-		<desc>In Pac-Man World Rally, players can race through a variety of environments from Pac-Man World as Pac-Man, Pac Jr. and other beloved characters from past Namco classics. In one of the fastest and most exciting kart racing games ever, players will race for the win or fight it out in colorful Battle Arenas with special weapons, power ups and variety Pac-Man powers.                  * Fastest Kart Racing Game Ever - Race against the computer or with your friends in the fastest, most exciting kart racer to date. Feel unprecedented sense of speed as you race on some of the most exciting tracks ever created                 * Play as either iconic characters from the Pac-Man universe or choose from an all-star cast of classic Namco characters                 * Battle in Pac-Style - Special power ups, tracks and abilities prove that it's Pac-Man's world, and we only live in it</desc>
-		<image>./mixart/Pac-Man World Rally (USA).png</image>
-		<video>./snap/Pac-Man World Rally (USA).mp4</video>
-		<marquee>./wheel/Pac-Man World Rally (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20060822T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4761" source="ScreenScraper.fr">
 		<path>./Paper Mario - The Thousand-Year Door (USA).rvz</path>
 		<name>Paper Mario: The Thousand-Year Door</name>
@@ -7384,22 +7368,6 @@ In this implementation, you can play in one of 8 different settings, including a
 		<lang>en,fr</lang>
 		<region>eu</region>
 	</game>
-	<game>
-		<path>./Teenage Mutant Ninja Turtles (USA).rvz</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell!  The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick.</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles (USA).png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles (USA).mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20040416T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Fight-Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5043" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Disc 2).rvz</path>
 		<name>Teenage Mutant Ninja Turtles 2 : Battle Nexus (Disc 2)</name>
@@ -9027,6 +8995,38 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<developer>FarSight Studios</developer>
 		<publisher>Crave Entertainment</publisher>
 		<genre>Pinball</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Teenage Mutant Ninja Turtles (USA).rvz</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Based on the newer anime styled FOX cartoon of the same name, Teenage Mutant Ninja Turtles features Leonardo, Raphael, Michelangelo and Donatello as green ninjas. Living in the sewers, they creep out when nobody is looking to fight for truth, justice and another slice of pizza. Fighting against the public face of inventor Baxter Stockman and the more shadowy figure of Shredder and his Foot Clan, these Ninja Turtles will get the chance to make their opponents eat shell!  The game is a 3D beat-em-up with multiple players. The game sprites all resemble the cartoony look of the TV show and each turtle features unique moves, sound bytes and fighting style all his own. Ninja Turtle moves include a weaker/quicker attack, a stronger/slower attack, Ninja Shuriken and a Jump-Kick.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles (USA).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles (USA).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20040416T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Fight-Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5240" source="ScreenScraper.fr">
+		<path>./Pac-Man World Rally (USA).rvz</path>
+		<name>Pac-Man World Rally</name>
+		<desc>In Pac-Man World Rally, players can race through a variety of environments from Pac-Man World as Pac-Man, Pac Jr. and other beloved characters from past Namco classics. In one of the fastest and most exciting kart racing games ever, players will race for the win or fight it out in colorful Battle Arenas with special weapons, power ups and variety Pac-Man powers.                  * Fastest Kart Racing Game Ever - Race against the computer or with your friends in the fastest, most exciting kart racer to date. Feel unprecedented sense of speed as you race on some of the most exciting tracks ever created                 * Play as either iconic characters from the Pac-Man universe or choose from an all-star cast of classic Namco characters                 * Battle in Pac-Style - Special power ups, tracks and abilities prove that it's Pac-Man's world, and we only live in it</desc>
+		<image>./mixart/Pac-Man World Rally (USA).png</image>
+		<video>./snap/Pac-Man World Rally (USA).mp4</video>
+		<marquee>./wheel/Pac-Man World Rally (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20060822T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving</genre>
 		<players>4</players>
 		<lang>en</lang>
 		<region>us</region>

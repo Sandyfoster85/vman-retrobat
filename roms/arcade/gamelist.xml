@@ -67059,26 +67059,6 @@ There are a few minor differences between the Japanese and American releases. Th
 		<cheevosHash>83988ADDCDDA86F306A666DD3C4D05CE</cheevosHash>
 	</game>
 	<game>
-		<path>./vendetta2pu.zip</path>
-		<name>Vendetta</name>
-		<desc>The hero gang, called The Cobras, numbers five members: Blood (former prizefighter, with a passing resemblance to Mike Tyson), Hawk (former professional wrestler, with strong resemblance to Hulk Hogan), Boomer (a martial artist, possibly based on Jean-Claude Van Damme), Sledge (a military ex-convict with passing resemblance to Mr. T), and Kate, the damsel in distress, described as Hawk's protegee and wearing blue clothing similar to his.
-
-One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. The four men go save her, fighting through the waves of enemies that are sent against them.</desc>
-		<image>./mixart/vendetta.png</image>
-		<video>./snap/vendetta.mp4</video>
-		<marquee>./wheel/vendetta.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Fight-Fight / 2.5D-Beat'em Up</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
-	</game>
-	<game>
 		<path>./venture.zip</path>
 		<name>Venture</name>
 		<desc>Venture is a 1- or 2-player "Gauntlet" style game (although Venture pre-dates the Atari legend by 4 years) set in a multi-level dungeon. The player, armed with a bow and arrow fights through enemy infested levels in the quest to collect treasure.
@@ -70538,23 +70518,6 @@ Game Tengoku - The Game Paradise offers both 'Standard' and 'Time Attack' modes 
 		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
 	</game>
 	<game>
-		<path>./tmnt2po.zip</path>
-		<name>Teenage Mutant Ninja Turtles</name>
-		<desc>Teenage Mutant Ninja Turtles est un beat them all à défilement latéral dans lequel jusqu'à quatre joueurs peuvent choisir de jouer avec l'une des 4 tortues, soit «Leonardo» (bandana bleu, katana), «Raphael» (bandana rouge, 2 saïs), «Michaelangelo» (bandana orange, nunchakus) ou «Donatello» (bandana pourpre, Bo) contre la puissance de l'armée de Shredder pour tenter de sauver April O'Neil et Splinter, avant une confrontation finale avec leurs ennemis jurés Krang et Shredder.</desc>
-		<image>./mixart/tmnt2po.png</image>
-		<video>./snap/tmnt2po.mp4</video>
-		<marquee>./wheel/tmnt2po.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C3439EE4A8BBCDADF913F59B2FF04DAA</cheevosHash>
-	</game>
-	<game>
 		<path>./moomesa.zip</path>
 		<name>Wild West C.O.W.-Boys of Moo Mesa</name>
 		<desc>Wild West C.O.W. Boys of Moo Mesa is a horizontally-scrolling platform run 'n' gun game for up to four players. The game is set in America's Wild West and is based on the cartoon series of the same name. 
@@ -70611,23 +70574,6 @@ Sunset Riders features eight stages of play.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6F5AB02A089FD3A30BAA4DB7785234A6</cheevosHash>
-	</game>
-	<game>
-		<path>./tmnt.zip</path>
-		<name>Teenage Mutant Ninja Turtles (4 players)</name>
-		<desc>Teenage Mutant Ninja Turtles, released in Japan as TMNT: Super Kame Ninja and in Europe as Teenage Mutant Hero Turtles, is a 1989 beat 'em up arcade game released by Konami. It is based on the Teenage Mutant Ninja Turtles franchise, including the first animated series that began airing two years earlier.</desc>
-		<image>./mixart/tmnt2po.png</image>
-		<video>./snap/tmnt2po.mp4</video>
-		<marquee>./wheel/tmnt2po.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C3439EE4A8BBCDADF913F59B2FF04DAA</cheevosHash>
 	</game>
 	<game id="149954">
 		<path>./simpsons.zip</path>
@@ -72897,5 +72843,59 @@ The 4th game in the "Gradius" series brings a considerable graphical upgrade, pa
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CC5670E8FEC23B64CE9B44CAB69B36DA</cheevosHash>
+	</game>
+	<game>
+		<path>./tmnt.zip</path>
+		<name>Teenage Mutant Ninja Turtles (4 players)</name>
+		<desc>Teenage Mutant Ninja Turtles, released in Japan as TMNT: Super Kame Ninja and in Europe as Teenage Mutant Hero Turtles, is a 1989 beat 'em up arcade game released by Konami. It is based on the Teenage Mutant Ninja Turtles franchise, including the first animated series that began airing two years earlier.</desc>
+		<image>./mixart/tmnt2po.png</image>
+		<video>./snap/tmnt2po.mp4</video>
+		<marquee>./wheel/tmnt2po.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C3439EE4A8BBCDADF913F59B2FF04DAA</cheevosHash>
+	</game>
+	<game>
+		<path>./tmnt2po.zip</path>
+		<name>Teenage Mutant Ninja Turtles</name>
+		<desc>Teenage Mutant Ninja Turtles est un beat them all à défilement latéral dans lequel jusqu'à quatre joueurs peuvent choisir de jouer avec l'une des 4 tortues, soit «Leonardo» (bandana bleu, katana), «Raphael» (bandana rouge, 2 saïs), «Michaelangelo» (bandana orange, nunchakus) ou «Donatello» (bandana pourpre, Bo) contre la puissance de l'armée de Shredder pour tenter de sauver April O'Neil et Splinter, avant une confrontation finale avec leurs ennemis jurés Krang et Shredder.</desc>
+		<image>./mixart/tmnt2po.png</image>
+		<video>./snap/tmnt2po.mp4</video>
+		<marquee>./wheel/tmnt2po.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C3439EE4A8BBCDADF913F59B2FF04DAA</cheevosHash>
+	</game>
+	<game>
+		<path>./vendetta2pu.zip</path>
+		<name>Vendetta</name>
+		<desc>The hero gang, called The Cobras, numbers five members: Blood (former prizefighter, with a passing resemblance to Mike Tyson), Hawk (former professional wrestler, with strong resemblance to Hulk Hogan), Boomer (a martial artist, possibly based on Jean-Claude Van Damme), Sledge (a military ex-convict with passing resemblance to Mr. T), and Kate, the damsel in distress, described as Hawk's protegee and wearing blue clothing similar to his.
+
+One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. The four men go save her, fighting through the waves of enemies that are sent against them.</desc>
+		<image>./mixart/vendetta.png</image>
+		<video>./snap/vendetta.mp4</video>
+		<marquee>./wheel/vendetta.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight-Fight / 2.5D-Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
 	</game>
 </gameList>

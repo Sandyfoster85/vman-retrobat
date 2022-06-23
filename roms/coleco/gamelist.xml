@@ -190,33 +190,6 @@ After beating all four levels, they loop with more difficult enemies and faster 
 		<cheevosHash>45548D960E081445560FA492A675E457</cheevosHash>
 	</game>
 	<game>
-		<path>./BurgerTime (USA, Europe).zip</path>
-		<name>BurgerTime</name>
-		<desc>Your chef is battling for his life in the fast-paced world of fast food. He scurries up ladders and across planks in a frantic effort to build delicious hamburgers. Horrible hot dogs, evil eggs, and perilous pickles constantly try to surround and trap him. Dust those nasties with a pinch of pepper and stop them in their tracks. Gulp some coffee or gobble some fries and you store some extra pepper. Get through the seventh maze and you are a certified burger-maniac.
-
-Pickles, eggs, and hot dogs relentlessly chase your chef through the maze. Be smart and be quick but most of all, carry plenty of pepper.
-
-Give nasties a ride on a falling bun to score the big points. Watch out though! These nasties never die.</desc>
-		<image>./mixart/BurgerTime (USA, Europe).png</image>
-		<video>./snap/BurgerTime (USA, Europe).mp4</video>
-		<marquee>./wheel/BurgerTime (USA, Europe).png</marquee>
-		<releasedate>19831125T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<cheevosHash>927CE5BA5BF3E0F6C8C5A115DB51F264</cheevosHash>
-	</game>
-	<game>
-		<path>./Cabbage Patch Kids - Adventures in the Park (USA, Europe).zip</path>
-		<name>Cabbage Patch Kids - Adventures in the Park</name>
-		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</image>
-		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
-		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</marquee>
-		<releasedate />
-		<cheevosHash>ADE704F01E694FB539BD805D9E276C99</cheevosHash>
-	</game>
-	<game>
 		<path>./Cabbage Patch Kids Picture Show (USA, Europe).zip</path>
 		<name>Cabbage Patch Kids Picture Show</name>
 		<image>./mixart/Cabbage Patch Kids Picture Show (USA, Europe).png</image>
@@ -1587,5 +1560,32 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<publisher>Sega</publisher>
 		<cheevosHash>7C677F80C4EE957559D7ABEBD8EE1BE1</cheevosHash>
 		<cheevosId>14076</cheevosId>
+	</game>
+	<game>
+		<path>./BurgerTime (USA, Europe).zip</path>
+		<name>BurgerTime</name>
+		<desc>Your chef is battling for his life in the fast-paced world of fast food. He scurries up ladders and across planks in a frantic effort to build delicious hamburgers. Horrible hot dogs, evil eggs, and perilous pickles constantly try to surround and trap him. Dust those nasties with a pinch of pepper and stop them in their tracks. Gulp some coffee or gobble some fries and you store some extra pepper. Get through the seventh maze and you are a certified burger-maniac.
+
+Pickles, eggs, and hot dogs relentlessly chase your chef through the maze. Be smart and be quick but most of all, carry plenty of pepper.
+
+Give nasties a ride on a falling bun to score the big points. Watch out though! These nasties never die.</desc>
+		<image>./mixart/BurgerTime (USA, Europe).png</image>
+		<video>./snap/BurgerTime (USA, Europe).mp4</video>
+		<marquee>./wheel/BurgerTime (USA, Europe).png</marquee>
+		<releasedate>19831125T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<cheevosHash>927CE5BA5BF3E0F6C8C5A115DB51F264</cheevosHash>
+	</game>
+	<game>
+		<path>./Cabbage Patch Kids - Adventures in the Park (USA, Europe).zip</path>
+		<name>Cabbage Patch Kids - Adventures in the Park</name>
+		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</image>
+		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
+		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</marquee>
+		<releasedate></releasedate>
+		<cheevosHash>ADE704F01E694FB539BD805D9E276C99</cheevosHash>
 	</game>
 </gameList>

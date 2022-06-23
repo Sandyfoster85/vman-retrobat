@@ -290,22 +290,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./fotns.zip</path>
-		<name>Fist Of The North Star</name>
-		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
-		<image>./mixart/fotns.png</image>
-		<video>./snap/fotns.mp4</video>
-		<marquee>./wheel/fotns.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./dolphin.zip</path>
 		<name>Dolphin Blue</name>
 		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
@@ -410,6 +394,22 @@
 		<releasedate>20040101T000000</releasedate>
 		<genre>Sports-Sports / Football</genre>
 		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./fotns.zip</path>
+		<name>Fist Of The North Star</name>
+		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
+		<image>./mixart/fotns.png</image>
+		<video>./snap/fotns.mp4</video>
+		<marquee>./wheel/fotns.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

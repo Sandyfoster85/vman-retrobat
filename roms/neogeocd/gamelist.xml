@@ -1140,36 +1140,6 @@
 		<players>2</players>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="143271" source="ScreenScraper.fr">
-		<path>./OverTop (World).chd</path>
-		<name>OverTop</name>
-		<desc>The ultimate NEOGEO Racing Game! The game features branching paths and a variety of car models for maximum replayability!nnnnPlayers will participate in breathtaking races through urban areas, mountainous regions, and snowy roads. The courses also feature weather variations to add more variety to the game.nnnnIn addition to the various vehicles with different performance factors which players can use, they can also enjoy the thrill of drifting their way through corners to clear courses.</desc>
-		<image>./mixart/OverTop (World).png</image>
-		<video>./snap/OverTop (World).mp4</video>
-		<marquee>./wheel/OverTop (World).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19960726T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="143261" source="ScreenScraper.fr">
-		<path>./Pleasuregoal - 5 on 5 Mini Soccer (World).chd</path>
-		<name>Pleasure Goal / Futsal - 5 On 5 Mini Soccer</name>
-		<desc>Released in 1996, Pleasure Goal (Japanese title: Futsal) is Saurus' first and only football (Soccer) game for the Neo Geo. It features 16 teams which compete for the "Saurus Cup". Your team plays against all the others in your group, then it goes into an elimination tournament's semifinals and then the final to win the cup. It's worth mentioning that Pleasure Goal's rules barely base on Futsal, which is basically a 5-on-5 player indoor soccer style.nn</desc>
-		<image>./mixart/Pleasuregoal - 5 on 5 Mini Soccer (World).png</image>
-		<video>./snap/Pleasuregoal - 5 on 5 Mini Soccer (World).mp4</video>
-		<marquee>./wheel/Pleasuregoal - 5 on 5 Mini Soccer (World).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19960719T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Soccer-Sports</genre>
-		<players>2</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="107066" source="ScreenScraper.fr">
 		<path>./Power Spikes II (World).chd</path>
 		<name>Power Spikes 2</name>
@@ -1784,6 +1754,40 @@
 		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="143271" source="ScreenScraper.fr">
+		<path>./OverTop (World).chd</path>
+		<name>OverTop</name>
+		<desc>The ultimate NEOGEO Racing Game! The game features branching paths and a variety of car models for maximum replayability!nnnnPlayers will participate in breathtaking races through urban areas, mountainous regions, and snowy roads. The courses also feature weather variations to add more variety to the game.nnnnIn addition to the various vehicles with different performance factors which players can use, they can also enjoy the thrill of drifting their way through corners to clear courses.</desc>
+		<image>./mixart/OverTop (World).png</image>
+		<video>./snap/OverTop (World).mp4</video>
+		<marquee>./wheel/OverTop (World).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960726T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="143261" source="ScreenScraper.fr">
+		<path>./Pleasuregoal - 5 on 5 Mini Soccer (World).chd</path>
+		<name>Pleasure Goal / Futsal - 5 On 5 Mini Soccer</name>
+		<desc>Released in 1996, Pleasure Goal (Japanese title: Futsal) is Saurus' first and only football (Soccer) game for the Neo Geo. It features 16 teams which compete for the "Saurus Cup". Your team plays against all the others in your group, then it goes into an elimination tournament's semifinals and then the final to win the cup. It's worth mentioning that Pleasure Goal's rules barely base on Futsal, which is basically a 5-on-5 player indoor soccer style.nn</desc>
+		<image>./mixart/Pleasuregoal - 5 on 5 Mini Soccer (World).png</image>
+		<video>./snap/Pleasuregoal - 5 on 5 Mini Soccer (World).mp4</video>
+		<marquee>./wheel/Pleasuregoal - 5 on 5 Mini Soccer (World).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

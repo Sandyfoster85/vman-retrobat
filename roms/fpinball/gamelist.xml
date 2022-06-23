@@ -1265,22 +1265,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Spectrum (Bally).fpt</path>
 		<name>Spectrum (Bally)</name>
 		<desc>Flipper Spectrum (Bally)</desc>
@@ -1450,22 +1434,6 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./GREMLINS MOD 2.0.fpt</path>
-		<name>Gremlins</name>
-		<desc>Flipper GREMLINS MOD 2.0</desc>
-		<image>./mixart/GREMLINS MOD 2.0.png</image>
-		<video>./snap/GREMLINS MOD 2.0.mp4</video>
-		<marquee>./wheel/GREMLINS MOD 2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1956,18 +1924,6 @@
 		<video>./snap/Legend of Zelda.mp4</video>
 		<marquee>./wheel/Legend of Zelda.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
-		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
-		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
-		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<releasedate>20210101T000000</releasedate>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4534,6 +4490,50 @@
 		<image>./mixart/Tron.png</image>
 		<video>./snap/Tron.mp4</video>
 		<marquee>./wheel/Tron.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
+		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
+		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
+		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<releasedate>20210101T000000</releasedate>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./GREMLINS MOD 2.0.fpt</path>
+		<name>Gremlins</name>
+		<desc>Flipper GREMLINS MOD 2.0</desc>
+		<image>./mixart/GREMLINS MOD 2.0.png</image>
+		<video>./snap/GREMLINS MOD 2.0.mp4</video>
+		<marquee>./wheel/GREMLINS MOD 2.0.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

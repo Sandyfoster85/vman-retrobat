@@ -547,6 +547,20 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Wolfenstein 3D - Coop.lnk</path>
+		<name>'H'Wolfenstein 3D Coop</name>
+		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
+		<image>./mixart/Wolfenstein 3D-Coop.png</image>
+		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
+		<marquee>./wheel/Wolfenstein 3D.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>ID Software</developer>
+		<publisher>ID Software</publisher>
+		<genre>Shooter</genre>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Teenage Mutant Ninja Turtles HD.lnk</path>
 		<name>'H'Teenage Mutant Ninja Turtles HD</name>
 		<desc>WIP - Fanmade TMNT HD remastered is an action fanmade game. Do you remenber this wonderfull game? This is a fan remaster, made with love and passion. Its not 100% clone of the original arcade, but im almost there ^_^.</desc>
@@ -560,20 +574,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<genre>Beatem'up</genre>
 		<players>4</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Wolfenstein 3D - Coop.lnk</path>
-		<name>'H'Wolfenstein 3D Coop</name>
-		<desc>4 player Wolfenstein 3D, custom mod with splitscreen support for pure coop fun. Aka Splitwolf - Wolfenstein ID Software First Person Shooter series originally developed for the PC by Id Software.</desc>
-		<image>./mixart/Wolfenstein 3D-Coop.png</image>
-		<video>./snap/Wolfenstein 3D-Coop.mp4</video>
-		<marquee>./wheel/Wolfenstein 3D.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>ID Software</developer>
-		<publisher>ID Software</publisher>
-		<genre>Shooter</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

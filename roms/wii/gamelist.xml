@@ -2690,20 +2690,6 @@ The Space Invaders are back, and this time they re out to get even! Take control
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8935" source="ScreenScraper.fr">
-		<path>./Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.rvz</path>
-		<name>Teenage Mutant Ninja Turtles : Smash-Up</name>
-		<desc>The game is a 4-player 2.5D fighting game, similar to the Super Smash Bros. series. During battle, players attempt to KO opponents by depleting their life bar, knocking them off the stage or into traps.</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20090902T000000</releasedate>
-		<developer>Game Arts</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Fight</genre>
-		<genreid>262</genreid>
-	</game>
 	<game id="9667" source="ScreenScraper.fr">
 		<path>./Tetris Party.wad</path>
 		<name>Tetris Party</name>
@@ -3294,5 +3280,20 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game id="8935" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.rvz</path>
+		<name>Teenage Mutant Ninja Turtles : Smash-Up</name>
+		<desc>The game is a 4-player 2.5D fighting game, similar to the Super Smash Bros. series. During battle, players attempt to KO opponents by depleting their life bar, knocking them off the stage or into traps.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles - Smash-Up (USA) (En,Fr,De,Es,It).cc.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20090902T000000</releasedate>
+		<developer>Game Arts</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<genreid>262</genreid>
 	</game>
 </gameList>

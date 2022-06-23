@@ -8100,21 +8100,6 @@ There are no game or season stats and there is no way to save your season, but t
 		<players>1</players>
 		<cheevosHash>DC2732DBA9121AAD355FA2E1DFBBB069</cheevosHash>
 	</game>
-	<game id="3014" source="ScreenScraper.fr">
-		<path>./Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).7z</path>
-		<name>Teenage Mutant Ninja Turtles : Fall of the Foot Clan</name>
-		<desc>The Turtles' first Game Boy game is a fairly simple platforming-style game, where Leonardo, Michaelangelo, Raphael, and Donatello must battle against Krang and Shredder and save their friend April O'Neil in the process.</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).png</image>
-		<video>./snap/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900403T000000</releasedate>
-		<developer>Ultra Software Corporation</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<cheevosHash>AD868E84FB6071A3B6A211D16E6CBB66</cheevosHash>
-		<cheevosId>735</cheevosId>
-	</game>
 	<game id="70767" source="ScreenScraper.fr">
 		<path>./Teenage Mutant Ninja Turtles II - Back from the Sewers (USA).7z</path>
 		<name>Teenage Mutant Ninja Turtles II : Back from the Sewers</name>
@@ -9726,7 +9711,7 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<video>./snap/Parodius (Europe).mp4</video>
 		<marquee>./wheel/Parodius (Europe).png</marquee>
 		<rating>0.6</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Konami Co., Ltd.</developer>
 		<publisher>Konami Co., Ltd.</publisher>
 		<genre>Shoot'em Up-Action</genre>
@@ -9743,7 +9728,7 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<video>./snap/Pierre Le Chef is.. Out to Lunch (Europe).mp4</video>
 		<marquee>./wheel/Pierre Le Chef is.. Out to Lunch (Europe).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>E41AAC285898754055EB3F0C3F280EA3</cheevosHash>
@@ -9782,11 +9767,26 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<video>./snap/Ultra Golf (USA).mp4</video>
 		<marquee>./wheel/Ultra Golf (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0A1CBC05D75C2BD3E01AAD3ACB4E4019</cheevosHash>
+	</game>
+	<game id="3014" source="ScreenScraper.fr">
+		<path>./Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).7z</path>
+		<name>Teenage Mutant Ninja Turtles : Fall of the Foot Clan</name>
+		<desc>The Turtles' first Game Boy game is a fairly simple platforming-style game, where Leonardo, Michaelangelo, Raphael, and Donatello must battle against Krang and Shredder and save their friend April O'Neil in the process.</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).png</image>
+		<video>./snap/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles - Fall of the Foot Clan (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900403T000000</releasedate>
+		<developer>Ultra Software Corporation</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<cheevosHash>AD868E84FB6071A3B6A211D16E6CBB66</cheevosHash>
+		<cheevosId>735</cheevosId>
 	</game>
 </gameList>

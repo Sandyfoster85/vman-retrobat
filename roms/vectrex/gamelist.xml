@@ -80,22 +80,6 @@ future groups begin firing at you! Added danger lurks when Evil Otto enters. He 
 		<cheevosHash>5D74770BB175357812E61EE7CA731270</cheevosHash>
 	</game>
 	<game>
-		<path>./Clean Sweep (World).zip</path>
-		<name>Clean Sweep</name>
-		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
-		<image>./mixart/Clean Sweep (World).png</image>
-		<video>./snap/Clean Sweep (World).mp4</video>
-		<marquee>./wheel/Clean Sweep (World).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>A376D5648E08F348E5965C058C631C6D</cheevosHash>
-		<cheevosId>3581</cheevosId>
-	</game>
-	<game>
 		<path>./Cosmic Chasm (World).zip</path>
 		<name>Cosmic Chasm</name>
 		<desc>Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</desc>
@@ -349,21 +333,6 @@ As you approach, you are overwhelmed with the beauty of the Castle but you sudde
 		<cheevosHash>ADD42C10019E88F47DD98791F8DE3148</cheevosHash>
 	</game>
 	<game>
-		<path>./Pole Position (USA).zip</path>
-		<name>Pole Position</name>
-		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
-Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
-		<image>./mixart/Pole Position (USA).png</image>
-		<video>./snap/Pole Position (USA).mp4</video>
-		<marquee>./wheel/Pole Position (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving</genre>
-		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
-	</game>
-	<game>
 		<path>./Armor..Attack (World).zip</path>
 		<name>Armor Attack</name>
 		<desc>Maneuver your jeep through the streets and alleys of an occupied town. Hide from the enemy tanks behind buildings and launch your own surprise attack! Improve your chance of survival by playing with an alley. But beware of the deadly helicopter flying overhead . . . no place is safe from this treacherous enemy.</desc>
@@ -418,5 +387,36 @@ You become the Hawk King - a creature capable of incredible speed and power - as
 		<region>us</region>
 		<cheevosHash>A398C18B4CE87929471B559B2BC7E79F</cheevosHash>
 		<cheevosId>7017</cheevosId>
+	</game>
+	<game>
+		<path>./Clean Sweep (World).zip</path>
+		<name>Clean Sweep</name>
+		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
+		<image>./mixart/Clean Sweep (World).png</image>
+		<video>./snap/Clean Sweep (World).mp4</video>
+		<marquee>./wheel/Clean Sweep (World).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<cheevosHash>A376D5648E08F348E5965C058C631C6D</cheevosHash>
+		<cheevosId>3581</cheevosId>
+	</game>
+	<game>
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./mixart/Pole Position (USA).png</image>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<marquee>./wheel/Pole Position (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving</genre>
+		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
 	</game>
 </gameList>
