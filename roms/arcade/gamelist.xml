@@ -36067,25 +36067,6 @@ Have fun! Tons of fun!</desc>
 		<cheevosHash>C49D0C96CBD148FA21427CA54DAB1656</cheevosHash>
 	</game>
 	<game>
-		<path>./hangon.zip</path>
-		<name>Hang-On</name>
-		<desc>Hang-On is a superb point-to-point sprite scaling racing game in which the player takes control of a superbike and must race over five twisting circuits, avoiding rival bikers and trying to reach the end of each stage before the time limit expires.
-
-Hang-On's handling and superb graphics were unlike anything seen before in the arcades and, like many Yu Suzuki games that followed, revolutionised the racing genre.</desc>
-		<image>./mixart/hangon.png</image>
-		<video>./snap/hangon.mp4</video>
-		<marquee>./wheel/hangon.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EB68C6D51FD67021AAAC4C8C10D83282</cheevosHash>
-	</game>
-	<game>
 		<path>./hangonjr.zip</path>
 		<name>Hang-On Jr.</name>
 		<desc>Hang-On Jr. is a cut-down version of its legendary parent, 'Hang-On Jr' features similar gameplay to "Hang-On", but is rendered in more primitive graphics due to the vastly inferior host hardware.</desc>
@@ -72897,5 +72878,24 @@ One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. T
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
+	</game>
+	<game>
+		<path>./hangon.zip</path>
+		<name>Hang-On</name>
+		<desc>Hang-On is a superb point-to-point sprite scaling racing game in which the player takes control of a superbike and must race over five twisting circuits, avoiding rival bikers and trying to reach the end of each stage before the time limit expires.
+
+Hang-On's handling and superb graphics were unlike anything seen before in the arcades and, like many Yu Suzuki games that followed, revolutionised the racing genre.</desc>
+		<image>./mixart/hangon.png</image>
+		<video>./snap/hangon.mp4</video>
+		<marquee>./wheel/hangon.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Motorcycle Race, 3rd Pers.</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EB68C6D51FD67021AAAC4C8C10D83282</cheevosHash>
 	</game>
 </gameList>

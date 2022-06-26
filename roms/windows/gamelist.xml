@@ -4628,22 +4628,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Centipede - Recharged.lnk</path>
-		<name>Centipede: Recharged</name>
-		<desc>The original bug-blasting arcade game is back! Centipede: Recharged has been reimagined for modern gameplay, with vibrant visuals designed for modern screens, a 16:9 field of play, and an original soundtrack from award-winning video game composer Megan McDuffee. Aim for a high score in the old school arcade mode and earn bragging rights with your name at the top of the leaderboard. Or test your skills and rank on the boards in one of 30 intensely creative challenges, which twist the gameplay in new and exciting ways. A dozen new power-ups can give you an edge by introducing abilities like screen-clearing explosions, rail guns, and even slowing down time. Every mode and level is playable in local co-op mode with a friend.</desc>
-		<image>./mixart/Centipede - Recharged.jpg</image>
-		<video>./snap/Centipede - Recharged.mp4</video>
-		<marquee>./wheel/Centipede - Recharged.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210620T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Crazy Taxi 3 - Definitive Edition.lnk</path>
 		<name>Crazy Taxi 3 - Definitive Edition</name>
 		<desc>Crazy Taxi 3 Reborn HD Hack - Trade in those furry dice, sit back and get ready to make CRAZY MONEY. From the vertical streets of the West Coast to the frantic mayhem of the Small Apple and the zany nightlife of Glitter Oasis, you'd better throw the highway code out the window cos' this is driving CRAZY TAXI 3 style. Bring chaos to the streets day and night, meet the all-new CRAZY PASSENGERS and race like mad across the city to their destinations. You gotta get that dude there on time!</desc>
@@ -4864,22 +4848,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Blowfish Studios</publisher>
 		<genre>Action, Fighting</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./LodeRunner Legacy.lnk</path>
-		<name>Lode Runner Legacy</name>
-		<desc>Lode Runner: Legacy is the latest edition in the classic Lode Runner series, a masterpiece of action puzzle gaming introduced in the U.S. in 1983. Players manipulate “Runner” to infiltrate the evil empire and recover stolen gold while avoiding enemies and minefields. The ingenious balance of puzzle and action gameplay from the original Lode Runner is alive in Lode Runner Legacy, along with many new features that offer a fresh experience to both new players and returning fans alike, including an updated Voxel visual style and powerful game editors.</desc>
-		<image>./mixart/LodeRunner Legacy.jpg</image>
-		<video>./snap/LodeRunner Legacy.mp4</video>
-		<marquee>./wheel/LodeRunner Legacy.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20170620T000000</releasedate>
-		<developer>Esquadra</developer>
-		<publisher>Tozai</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -8711,5 +8679,37 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<genre>Adventure, Horror</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+	</game>
+	<game>
+		<path>./LodeRunner Legacy.lnk</path>
+		<name>Lode Runner Legacy</name>
+		<desc>Lode Runner: Legacy is the latest edition in the classic Lode Runner series, a masterpiece of action puzzle gaming introduced in the U.S. in 1983. Players manipulate “Runner” to infiltrate the evil empire and recover stolen gold while avoiding enemies and minefields. The ingenious balance of puzzle and action gameplay from the original Lode Runner is alive in Lode Runner Legacy, along with many new features that offer a fresh experience to both new players and returning fans alike, including an updated Voxel visual style and powerful game editors.</desc>
+		<image>./mixart/LodeRunner Legacy.jpg</image>
+		<video>./snap/LodeRunner Legacy.mp4</video>
+		<marquee>./wheel/LodeRunner Legacy.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170620T000000</releasedate>
+		<developer>Esquadra</developer>
+		<publisher>Tozai</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Centipede - Recharged.lnk</path>
+		<name>Centipede: Recharged</name>
+		<desc>The original bug-blasting arcade game is back! Centipede: Recharged has been reimagined for modern gameplay, with vibrant visuals designed for modern screens, a 16:9 field of play, and an original soundtrack from award-winning video game composer Megan McDuffee. Aim for a high score in the old school arcade mode and earn bragging rights with your name at the top of the leaderboard. Or test your skills and rank on the boards in one of 30 intensely creative challenges, which twist the gameplay in new and exciting ways. A dozen new power-ups can give you an edge by introducing abilities like screen-clearing explosions, rail guns, and even slowing down time. Every mode and level is playable in local co-op mode with a friend.</desc>
+		<image>./mixart/Centipede - Recharged.jpg</image>
+		<video>./snap/Centipede - Recharged.mp4</video>
+		<marquee>./wheel/Centipede - Recharged.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210620T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

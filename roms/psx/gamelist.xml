@@ -8627,25 +8627,6 @@ This is a 2D fighting game, in which you can play as one of 10 very different ki
 		<region>eu</region>
 		<cheevosHash>636541A018F2BD1F8CD4E4FE8F079F44</cheevosHash>
 	</game>
-	<game>
-		<path>./Gunner's Heaven (Japan).chd</path>
-		<name>Gunner's Heaven</name>
-		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.
-
-As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
-		<image>./mixart/Gunner's Heaven (Japan).png</image>
-		<video>./snap/Gunner's Heaven (Japan).mp4</video>
-		<marquee>./wheel/Gunner's Heaven (Japan).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950428T000000</releasedate>
-		<developer>Media.Vision Entertainment Inc.</developer>
-		<publisher>Sony Computer Entertainment Incorporated</publisher>
-		<genre>Various-Action-Shooter / Run and Gun</genre>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>52B38761CAC77A1624B299ADCD97AD77</cheevosHash>
-	</game>
 	<game id="20653" source="ScreenScraper.fr">
 		<path>./Gunship (USA).chd</path>
 		<name>Gunship</name>
@@ -21286,23 +21267,6 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
 		<cheevosId>14345</cheevosId>
 	</game>
-	<game>
-		<path>./Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).chd</path>
-		<name>Saban's Power Rangers Zeo : Full Tilt Battle Pinball</name>
-		<desc>Pinball, a game that has been around since the 1930s, has been translated into video game format once again, this time via the Mighty Morphing Power Rangers, those multi-colored ninja heroes of low-budget television. Composed of 5 different 3D play fields, this one-player simulation takes place in fifteen locations around the world, including Japan, New York, and Africa.     Each play field consists of the usual pinball trappings such as ramps, targets, flippers, bumpers, and multi-ball specials. Before and between each level of play, a cinematic storyline plays out involving the invasion of Earth by aliens and the Power Ranger's attempts at stopping this dreaded scourge. Along with the Rangers, several other characters from this juggernaut franchise are featured including: Zeo Zords, King Mondo, and Queen Madrina.</desc>
-		<image>./mixart/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).png</image>
-		<video>./snap/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).mp4</video>
-		<marquee>./wheel/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19960930T000000</releasedate>
-		<developer>Kaze</developer>
-		<publisher>Bandai</publisher>
-		<genre>Pinball</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>577DB77959A5857909F955C064B5A355</cheevosHash>
-	</game>
 	<game id="19925" source="ScreenScraper.fr">
 		<path>./Space Invaders (USA).chd</path>
 		<name>Space Invaders</name>
@@ -21488,5 +21452,41 @@ There are a variety of modes including a career mode where the player can compet
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A7F5E4F61340655A295E37D167543E21</cheevosHash>
+	</game>
+	<game>
+		<path>./Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).chd</path>
+		<name>Saban's Power Rangers Zeo : Full Tilt Battle Pinball</name>
+		<desc>Pinball, a game that has been around since the 1930s, has been translated into video game format once again, this time via the Mighty Morphing Power Rangers, those multi-colored ninja heroes of low-budget television. Composed of 5 different 3D play fields, this one-player simulation takes place in fifteen locations around the world, including Japan, New York, and Africa.     Each play field consists of the usual pinball trappings such as ramps, targets, flippers, bumpers, and multi-ball specials. Before and between each level of play, a cinematic storyline plays out involving the invasion of Earth by aliens and the Power Ranger's attempts at stopping this dreaded scourge. Along with the Rangers, several other characters from this juggernaut franchise are featured including: Zeo Zords, King Mondo, and Queen Madrina.</desc>
+		<image>./mixart/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).png</image>
+		<video>./snap/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).mp4</video>
+		<marquee>./wheel/Saban's Power Rangers Zeo - Full Tilt Battle Pinball (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Kaze</developer>
+		<publisher>Bandai</publisher>
+		<genre>Pinball</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>577DB77959A5857909F955C064B5A355</cheevosHash>
+	</game>
+	<game>
+		<path>./Gunner's Heaven (Japan).chd</path>
+		<name>Gunner's Heaven</name>
+		<desc>The object of interest in this game is the mysterious Valkiry Stone. Two treasure hunters, Axel and Ruka, set out to find the stone, but the evil gang known as the Pumpkin Heads wants to find the stone first.
+
+As either Axel or Ruka, blast your way through six side-scrolling levels against hordes of enemies, facing off against several bosses in each level. You can select from four different weapon effects (normal, bouncing, homing and flamethrower), use smartbombs and a grappling hook.</desc>
+		<image>./mixart/Gunner's Heaven (Japan).png</image>
+		<video>./snap/Gunner's Heaven (Japan).mp4</video>
+		<marquee>./wheel/Gunner's Heaven (Japan).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950428T000000</releasedate>
+		<developer>Media.Vision Entertainment Inc.</developer>
+		<publisher>Sony Computer Entertainment Incorporated</publisher>
+		<genre>Various-Action-Shooter / Run and Gun</genre>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>52B38761CAC77A1624B299ADCD97AD77</cheevosHash>
 	</game>
 </gameList>

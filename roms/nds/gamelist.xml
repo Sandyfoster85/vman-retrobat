@@ -10718,25 +10718,6 @@ When player lives are expended, the option of continuing is granted according to
 		<region>eu</region>
 		<cheevosHash>40447C98F02B31586D5822AB8843D95D</cheevosHash>
 	</game>
-	<game id="6631" source="ScreenScraper.fr">
-		<path>./Bubble Bobble Revolution (USA).zip</path>
-		<name>Bubble Bobble Revolution</name>
-		<desc>Bubble Bobble Revolution is an update of the classic arcade game, Bubble Bobble.  In this DS exclusive version, Bub and Bob tackle 100 all-new levels with a larger playing field, as well as all-new methods of attacking foes, such as the Rolling Bubble, which lets your dino trap themselves in a bubble and bounce against the walls, knocking out any enemies.
-
-The game also features use of the touch screen, which is used for a bonus game where you must turn on fans to keep bubbles up in the air, and the microphone, which you must blow into to briefly activate fans in certain stages.  Included as a bonus is the original arcade version of Bubble Bobble, but unlike Bubble Bobble Old &amp; New for the Game Boy Advance, this version does not include single-cart multiplayer.</desc>
-		<image>./mixart/Bubble Bobble Revolution (USA).png</image>
-		<video>./snap/Bubble Bobble Revolution (USA).mp4</video>
-		<marquee>./wheel/Bubble Bobble Revolution (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20051227T000000</releasedate>
-		<developer>Rising Star Games</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<crc32>C434664F</crc32>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0A020E61AE76DDF3454861EC2F37B480</cheevosHash>
-	</game>
 	<game id="7821" source="ScreenScraper.fr">
 		<path>./Bubble Guppies (USA).zip</path>
 		<name>Bubble Guppies</name>
@@ -29245,5 +29226,24 @@ Zubo has 10 worlds to explore, including Fairytale, Horror, Pop and High Seas. A
 		<region>eu</region>
 		<cheevosHash>6443482622C274D8543F7C5EAD7CAAC7</cheevosHash>
 		<genreid>263</genreid>
+	</game>
+	<game id="6631" source="ScreenScraper.fr">
+		<path>./Bubble Bobble Revolution (USA).zip</path>
+		<name>Bubble Bobble Revolution</name>
+		<desc>Bubble Bobble Revolution is an update of the classic arcade game, Bubble Bobble.  In this DS exclusive version, Bub and Bob tackle 100 all-new levels with a larger playing field, as well as all-new methods of attacking foes, such as the Rolling Bubble, which lets your dino trap themselves in a bubble and bounce against the walls, knocking out any enemies.
+
+The game also features use of the touch screen, which is used for a bonus game where you must turn on fans to keep bubbles up in the air, and the microphone, which you must blow into to briefly activate fans in certain stages.  Included as a bonus is the original arcade version of Bubble Bobble, but unlike Bubble Bobble Old &amp; New for the Game Boy Advance, this version does not include single-cart multiplayer.</desc>
+		<image>./mixart/Bubble Bobble Revolution (USA).png</image>
+		<video>./snap/Bubble Bobble Revolution (USA).mp4</video>
+		<marquee>./wheel/Bubble Bobble Revolution (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20051227T000000</releasedate>
+		<developer>Rising Star Games</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<crc32>C434664F</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0A020E61AE76DDF3454861EC2F37B480</cheevosHash>
 	</game>
 </gameList>

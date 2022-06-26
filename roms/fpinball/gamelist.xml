@@ -1102,17 +1102,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Elvis Stern.fpt</path>
-		<name>Elvis Stern</name>
-		<desc>Flipper Elvis Stern</desc>
-		<image>./mixart/Elvis Stern.png</image>
-		<video>./snap/Elvis Stern.mp4</video>
-		<marquee>./wheel/Elvis Stern.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Fifth Element, The (Original) (2.2).fpt</path>
 		<name>Fifth Element, The (Original) (2.2)</name>
 		<desc>Flipper Fifth Element, The (Original) (2.2)</desc>
@@ -1595,20 +1584,6 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Return_of_KingKong_1.0.fpt</path>
-		<name>Return of KingKong</name>
-		<desc>Flipper Return of KingKong</desc>
-		<image>./mixart/Return_of_KingKong_1.0.png</image>
-		<video>./snap/Return_of_KingKong_1.0.mp4</video>
-		<marquee>./wheel/Return_of_KingKong_1.0.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20210101T000000</releasedate>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2649,22 +2624,6 @@
 		<video>./snap/Akira_v0.9.mp4</video>
 		<marquee>./wheel/Akira_v0.9.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
-		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
-		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
-		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
-		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
-		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4528,6 +4487,17 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Elvis Stern.fpt</path>
+		<name>Elvis Stern</name>
+		<desc>Flipper Elvis Stern</desc>
+		<image>./mixart/Elvis Stern.png</image>
+		<video>./snap/Elvis Stern.mp4</video>
+		<marquee>./wheel/Elvis Stern.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./GREMLINS MOD 2.0.fpt</path>
 		<name>Gremlins</name>
 		<desc>Flipper GREMLINS MOD 2.0</desc>
@@ -4540,6 +4510,36 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
+		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
+		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Return_of_KingKong_1.0.fpt</path>
+		<name>Return of KingKong</name>
+		<desc>Flipper Return of KingKong</desc>
+		<image>./mixart/Return_of_KingKong_1.0.png</image>
+		<video>./snap/Return_of_KingKong_1.0.mp4</video>
+		<marquee>./wheel/Return_of_KingKong_1.0.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20210101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
