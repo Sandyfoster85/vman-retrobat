@@ -2021,23 +2021,6 @@ Unique to Aggressors of Dark Kombat is the combination of traditional side-scrol
 		<cheevosHash>C52CFE7543F7CCA1EC21E873C1E9746B</cheevosHash>
 	</game>
 	<game>
-		<path>./aof.zip</path>
-		<name>Art of Fighting</name>
-		<desc>The storyline of Art of Fighting takes place in 1978. Ryo Sakazaki and Robert Garcia set out to find Ryo's sister, Yuri, who was kidnapped by Mr. Big. Mr. Big took Yuri to entice Takuma Sakazaki, Ryo's father and originator of Kyokugen Karate, and also because Ryo refused to work for Big. After Ryo &amp; Robert defeat Mr. Big, they face the enigmatic Mr. Karate. Art of Fighting's story ends with a cliff-hanger; Yuri is about to disclose the true identity of Mr. Karate as their father Takuma.</desc>
-		<image>./mixart/aof.png</image>
-		<video>./snap/aof.mp4</video>
-		<marquee>./wheel/aof.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight-Fight / Versus-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>DF4A8B32238C36921A260ED6AB784850</cheevosHash>
-		<cheevosId>11758</cheevosId>
-	</game>
-	<game>
 		<path>./aof2.zip</path>
 		<name>Art of Fighting 2</name>
 		<desc>In this sequel to the original Art of Fighting, and prequel to the original Fatal Fury, we learn that Mr. Karate, the final boss of the original game, behind the mask, is really Takuma Sakazaki, Ryo and Yuri's father, that Takuma was being used by Geese Howard for his own evil intentions, and that Mr. Big was the one who had originally kidnapped Yuri.
@@ -2320,5 +2303,22 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<lang>en</lang>
 		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
 		<cheevosId>11770</cheevosId>
+	</game>
+	<game>
+		<path>./aof.zip</path>
+		<name>Art of Fighting</name>
+		<desc>The storyline of Art of Fighting takes place in 1978. Ryo Sakazaki and Robert Garcia set out to find Ryo's sister, Yuri, who was kidnapped by Mr. Big. Mr. Big took Yuri to entice Takuma Sakazaki, Ryo's father and originator of Kyokugen Karate, and also because Ryo refused to work for Big. After Ryo &amp; Robert defeat Mr. Big, they face the enigmatic Mr. Karate. Art of Fighting's story ends with a cliff-hanger; Yuri is about to disclose the true identity of Mr. Karate as their father Takuma.</desc>
+		<image>./mixart/aof.png</image>
+		<video>./snap/aof.mp4</video>
+		<marquee>./wheel/aof.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight-Fight / Versus-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>DF4A8B32238C36921A260ED6AB784850</cheevosHash>
+		<cheevosId>11758</cheevosId>
 	</game>
 </gameList>

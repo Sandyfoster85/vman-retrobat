@@ -283,23 +283,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<players>1</players>
 		<genreid>1027</genreid>
 	</game>
-	<game>
-		<path>./Daytona USA 2.zip</path>
-		<name>Daytona USA 2: Battle on the Edge</name>
-		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
-		<image>./mixart/Daytona USA 2.png</image>
-		<video>./snap/Daytona USA 2.mp4</video>
-		<marquee>./wheel/Daytona USA 2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="43284" source="ScreenScraper.fr">
 		<path>./Sega Rally 2.zip</path>
 		<name>Sega Rally 2</name>
@@ -356,6 +339,23 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shoot'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Daytona USA 2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<image>./mixart/Daytona USA 2.png</image>
+		<video>./snap/Daytona USA 2.mp4</video>
+		<marquee>./wheel/Daytona USA 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

@@ -101,77 +101,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./cobraab.daphne</path>
-		<name>Cobra Commando</name>
-		<image>./mixart/cobraab.png</image>
-		<video>./snap/cobraab.mp4</video>
-		<marquee>./wheel/cobraab.png</marquee>
-		<rating />
-		<releasedate />
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./galaxy.daphne</path>
-		<name>Galaxy Ranger</name>
-		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
-		<image>./mixart/galaxy.png</image>
-		<video>./snap/galaxy.mp4</video>
-		<marquee>./wheel/galaxy.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./roadblaster.daphne</path>
-		<name>Road Blaster</name>
-		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
-		<image>./mixart/rb.png</image>
-		<video>./snap/rb.mp4</video>
-		<marquee>./wheel/rb.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850515T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./interstellar.daphne</path>
-		<name>Interstellar Laser Fantasy</name>
-		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
-		<image>./mixart/interstellar.png</image>
-		<video>./snap/interstellar.mp4</video>
-		<marquee>./wheel/interstellar.png</marquee>
-		<rating />
-		<releasedate>19830101T0000001201T000000</releasedate>
-		<developer>FUNAI</developer>
-		<publisher>FUNAI</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./sdq.daphne</path>
 		<name>Super Don Quix-ote</name>
 		<desc>Super Don Quix-ote is a laserdisc video game released by Universal in 1984. In it, the player controls the knight Don as he attempts to rescue a princess from an evil witch.</desc>
@@ -213,6 +142,21 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./badlands.daphne</path>
+		<name>Badlands</name>
+		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
+		<image>./mixart/badlands.png</image>
+		<video>./snap/badlands.mp4</video>
+		<marquee>./wheel/badlands.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840515T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./ace.daphne</path>
 		<name>Space Ace</name>
 		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
@@ -228,32 +172,88 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./cobraab.daphne</path>
+		<name>Cobra Commando</name>
+		<image>./mixart/cobraab.png</image>
+		<video>./snap/cobraab.mp4</video>
+		<marquee>./wheel/cobraab.png</marquee>
+		<rating />
+		<releasedate />
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./galaxy.daphne</path>
+		<name>Galaxy Ranger</name>
+		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>./mixart/galaxy.png</image>
+		<video>./snap/galaxy.mp4</video>
+		<marquee>./wheel/galaxy.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./interstellar.daphne</path>
+		<name>Interstellar Laser Fantasy</name>
+		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
+		<image>./mixart/interstellar.png</image>
+		<video>./snap/interstellar.mp4</video>
+		<marquee>./wheel/interstellar.png</marquee>
+		<rating />
+		<releasedate>19830101T0000001201T000000</releasedate>
+		<developer>FUNAI</developer>
+		<publisher>FUNAI</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./roadblaster.daphne</path>
+		<name>Road Blaster</name>
+		<desc>Road Blaster was a laser disc game created by Data East in 1985. Your mission is to seek out a gang of bikers who attacked and killed your wife.  You are behind the wheel of a supped-up sports car, weaving in and out of traffic and other obstacles while in pursuit of the bikers.</desc>
+		<image>./mixart/rb.png</image>
+		<video>./snap/rb.mp4</video>
+		<marquee>./wheel/rb.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850515T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./mixart/astron.png</image>
+		<video>./snap/astron.mp4</video>
+		<marquee>./wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./lair.daphne</path>
 		<name>Dragon's Lair</name>
 		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
 		<image>./mixart/lair.png</image>
 		<video>./snap/lair.mp4</video>
 		<marquee>./wheel/lair.png</marquee>
-		<rating />
+		<rating></rating>
 		<releasedate>19830623T000000</releasedate>
 		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./badlands.daphne</path>
-		<name>Badlands</name>
-		<desc>Badlands early laserdisc video, the game is themed as an old West shooter, the function of the button is almost always the fire the main character's gun to fend off against attackers. If the player shoots too soon, he will be hanged for murder. Failing to fire in time, however, will result in being killed by the attack.</desc>
-		<image>./mixart/badlands.png</image>
-		<video>./snap/badlands.mp4</video>
-		<marquee>./wheel/badlands.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19840515T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

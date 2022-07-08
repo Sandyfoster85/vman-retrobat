@@ -487,23 +487,6 @@ As you eliminate evil from different parts of the land, you allow villagers to r
 		<lang>en</lang>
 		<cheevosHash>F9E7F21E35B6BADBAF0D1DCE704E8447</cheevosHash>
 	</game>
-	<game>
-		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
-		<name>Castlevania - Dracula X</name>
-		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
-		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
-		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951031T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
-		<cheevosId>300</cheevosId>
-	</game>
 	<game id="172244" source="ScreenScraper.fr">
 		<path>./Choujikuu_Yousai_Macross_-_Scrambled_Valkyrie_(Japan)_(MSU1).sfc</path>
 		<name>Choujikuu Yousai Macross - Scrambled Valkyrie</name>
@@ -776,17 +759,6 @@ Like the previous games, this game is a side-scrolling fighting game (i.e. Doubl
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E25790A7A202EBE0575DE3A17FC04174</cheevosHash>
-	</game>
-	<game source="ScreenScraper">
-		<path>./Flashback - The Quest for Identity (MSU-1).sfc</path>
-		<name>Flashback - The Quest for Identity (MSU-1)</name>
-		<image>./mixart/Flashback - The Quest for Identity (MSU-1).png</image>
-		<video>./snap/Flashback - The Quest for Identity (MSU-1).mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity (MSU-1).png</marquee>
-		<rating>0</rating>
-		<releasedate>01010101T000000</releasedate>
-		<lang>en</lang>
-		<cheevosHash>D7F5CB079E98C44CE6934A1790DB27E5</cheevosHash>
 	</game>
 	<game id="172189" source="ScreenScraper.fr">
 		<path>./Hong_Kong_97_(Unl)_(MSU1).sfc</path>
@@ -1488,29 +1460,6 @@ Over 90 levels are on offer, with plenty of Bowser's evil koopas and new charact
 		<cheevosHash>39A55FA140D4966D2CD58CC60B2A0194</cheevosHash>
 		<cheevosId>558</cheevosId>
 	</game>
-	<game>
-		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
-		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>82094CA2DB9D6E78C91C88D31D7C0D06</cheevosHash>
-		<cheevosId>236</cheevosId>
-	</game>
 	<game id="172157" source="ScreenScraper.fr">
 		<path>./Super_Off_Road_(USA)_(MSU1).sfc</path>
 		<name>Super Off Road</name>
@@ -2018,5 +1967,56 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>632E6BBA4DF3F2E9A459B06BEB2969E8</cheevosHash>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Flashback - The Quest for Identity (MSU-1).sfc</path>
+		<name>Flashback - The Quest for Identity (MSU-1)</name>
+		<image>./mixart/Flashback - The Quest for Identity (MSU-1).png</image>
+		<video>./snap/Flashback - The Quest for Identity (MSU-1).mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity (MSU-1).png</marquee>
+		<rating>0</rating>
+		<releasedate>01010101T000000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>D7F5CB079E98C44CE6934A1790DB27E5</cheevosHash>
+	</game>
+	<game>
+		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
+		<name>Castlevania - Dracula X</name>
+		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
+		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
+		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
+		<cheevosId>300</cheevosId>
+	</game>
+	<game>
+		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
+		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>82094CA2DB9D6E78C91C88D31D7C0D06</cheevosHash>
+		<cheevosId>236</cheevosId>
 	</game>
 </gameList>

@@ -371,25 +371,6 @@ Dead Moon is a side scrolling shooter with 6 levels that take place on earth, in
 		<players>1</players>
 		<cheevosHash>AE3165E430F12FD57DE382AB34E16DEE</cheevosHash>
 	</game>
-	<game>
-		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
-		<name>Devil's Crush</name>
-		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
-		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
-		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
-		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19900000T000000</releasedate>
-		<developer>Naxat Soft</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
-		<cheevosId>2291</cheevosId>
-	</game>
 	<game id="78630" source="ScreenScraper">
 		<path>./Double Dungeons - W (USA).zip</path>
 		<name>Double Dungeons</name>
@@ -1535,24 +1516,6 @@ Dungeon Explorer plays like Gauntlet: you choose one of several different charac
 		<cheevosHash>A07C43BEA439C8C904BC4908737AF5C5</cheevosHash>
 	</game>
 	<game>
-		<path>./1941 - Counter Attack.zip</path>
-		<name>1941 - Counter Attack</name>
-		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
-
-The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
-		<image>./mixart/1941 - Counter Attack.png</image>
-		<video>./snap/1941 - Counter Attack.mp4</video>
-		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating />
-		<releasedate>19910823</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>30686DBA4795521174658DE2492E0046</cheevosHash>
-	</game>
-	<game>
 		<path>./Aero Blasters (USA).zip</path>
 		<name>Aero Blasters</name>
 		<desc>Air Buster is a fast side-scrolling shooter. The player controls a small craft through different levels with many enemies. Every level ends with a boss and some section speed up the gameplay, offering fast obstacle courses both horizontally and vertically</desc>
@@ -1755,5 +1718,42 @@ Each level has it's own tough boss at the end.</desc>
 		<players>1</players>
 		<cheevosHash>BC7D4B0852D04FE49F6E3705B899C5E5</cheevosHash>
 		<cheevosId>2328</cheevosId>
+	</game>
+	<game>
+		<path>./1941 - Counter Attack.zip</path>
+		<name>1941 - Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
+
+The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
+		<image>./mixart/1941 - Counter Attack.png</image>
+		<video>./snap/1941 - Counter Attack.mp4</video>
+		<marquee>./wheel/1941 - Counter Attack.png</marquee>
+		<rating></rating>
+		<releasedate>19910823</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>30686DBA4795521174658DE2492E0046</cheevosHash>
+	</game>
+	<game>
+		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
+		<name>Devil's Crush</name>
+		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
+		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
+		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
+		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19900000T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
+		<cheevosId>2291</cheevosId>
 	</game>
 </gameList>

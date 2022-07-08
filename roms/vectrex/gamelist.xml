@@ -389,6 +389,21 @@ You become the Hawk King - a creature capable of incredible speed and power - as
 		<cheevosId>7017</cheevosId>
 	</game>
 	<game>
+		<path>./Pole Position (USA).zip</path>
+		<name>Pole Position</name>
+		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
+Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
+		<image>./mixart/Pole Position (USA).png</image>
+		<video>./snap/Pole Position (USA).mp4</video>
+		<marquee>./wheel/Pole Position (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>GCE</publisher>
+		<genre>Race, Driving</genre>
+		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
+	</game>
+	<game>
 		<path>./Clean Sweep (World).zip</path>
 		<name>Clean Sweep</name>
 		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
@@ -403,20 +418,5 @@ You become the Hawk King - a creature capable of incredible speed and power - as
 		<players>2</players>
 		<cheevosHash>A376D5648E08F348E5965C058C631C6D</cheevosHash>
 		<cheevosId>3581</cheevosId>
-	</game>
-	<game>
-		<path>./Pole Position (USA).zip</path>
-		<name>Pole Position</name>
-		<desc>The spectacular arcade game, Pole Position, takes on an exciting new look through the magic of Vectrex! Experience all the challenge of a Grand Prix racing event with non-stop action that'll leave you breathless!
-Do you possess the skill, dexterity and courage to pull out from the crowd for qualification in one of the exclusive starting positions... or will you end up as an also ran?</desc>
-		<image>./mixart/Pole Position (USA).png</image>
-		<video>./snap/Pole Position (USA).mp4</video>
-		<marquee>./wheel/Pole Position (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>GCE</publisher>
-		<genre>Race, Driving</genre>
-		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
 	</game>
 </gameList>

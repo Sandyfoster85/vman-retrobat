@@ -45,27 +45,6 @@ Graphics in BC Racers consist of a flat landscape decorated with scaled sprites 
 		<region>us</region>
 		<cheevosHash>35A11E021CA0B7FF909E4774EB8B3236</cheevosHash>
 	</game>
-	<game>
-		<path>./Blackthorne (USA).7z</path>
-		<name>Blackthorne</name>
-		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
-
-This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Blackthorne (USA).png</image>
-		<video>./snap/Blackthorne (USA).mp4</video>
-		<marquee>./wheel/Blackthorne (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
-	</game>
 	<game id="12684" source="ScreenScraper.fr">
 		<path>./Brutal Unleashed - Above the Claw (USA).7z</path>
 		<name>Brutal Unleashed : Above the Claw</name>
@@ -644,5 +623,26 @@ This game supports up to 4 simultaneous players, and has the following game mode
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>B3788F861803D21CFA0E559695835F44</cheevosHash>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).7z</path>
+		<name>Blackthorne</name>
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Blackthorne (USA).png</image>
+		<video>./snap/Blackthorne (USA).mp4</video>
+		<marquee>./wheel/Blackthorne (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
 	</game>
 </gameList>

@@ -168,19 +168,6 @@ After beating all four levels, they loop with more difficult enemies and faster 
 		<cheevosHash>302846579767D876883D8A560738DAAE</cheevosHash>
 	</game>
 	<game>
-		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
-		<name>Buck Rogers - Planet Of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
-		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
-	</game>
-	<game>
 		<path>./Bump 'N' Jump (USA, Europe).zip</path>
 		<name>Bump 'N' Jump</name>
 		<image>./mixart/Bump 'N' Jump (USA, Europe).png</image>
@@ -1505,26 +1492,6 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<cheevosHash>5595DC8ACC25F51AAED0D72BBB96E68B</cheevosHash>
 	</game>
 	<game>
-		<path>./Jumpman Junior (USA).zip</path>
-		<name>Jumpman Junior</name>
-		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
-
-Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
-		<image>./mixart/Jumpman Junior (USA).png</image>
-		<video>./snap/Jumpman Junior (USA).mp4</video>
-		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Epyx</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
-		<cheevosId>6339</cheevosId>
-	</game>
-	<game>
 		<path>./Mr. Do! (USA, Europe).zip</path>
 		<name>Mr. Do!</name>
 		<image>./mixart/Mr. Do! (USA, Europe).png</image>
@@ -1585,7 +1552,40 @@ Give nasties a ride on a falling bun to score the big points. Watch out though! 
 		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</image>
 		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
 		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<cheevosHash>ADE704F01E694FB539BD805D9E276C99</cheevosHash>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
+	</game>
+	<game>
+		<path>./Jumpman Junior (USA).zip</path>
+		<name>Jumpman Junior</name>
+		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
+
+Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
+		<image>./mixart/Jumpman Junior (USA).png</image>
+		<video>./snap/Jumpman Junior (USA).mp4</video>
+		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
+		<cheevosId>6339</cheevosId>
 	</game>
 </gameList>

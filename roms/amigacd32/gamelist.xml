@@ -2514,27 +2514,6 @@ In the options menu the player can change the difficulty and the game speed (two
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Alien Breed - Tower Assault (Europe).chd</path>
-		<name>Alien Breed - Tower Assault</name>
-		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.
-
-As with the previous Alien Breed, the gameplay is viewed from above. Your soldier shoots his way through the levels, collecting keys, ammunition and credits along the way. Computers can be logged into to buy new weapons. A new 'retreat' mode allows you to fire while moving backwards.
-
-The game is largely non-linear, as most levels have multiple exits, and the game can be moved through in different ways. There is a variety of indoor and outdoor levels, although you spend most time inside some of the multi-level towers. After activating a self-destruct mechanism, you must escape the building quickly.</desc>
-		<image>./mixart/Alien Breed - Tower Assault (Europe).png</image>
-		<video>./snap/Alien Breed - Tower Assault (Europe).mp4</video>
-		<marquee>./wheel/Alien Breed - Tower Assault (Europe).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Team 17</developer>
-		<publisher>Team 17</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Super Stardust (Europe).chd</path>
 		<name>Super Stardust</name>
 		<desc>Like Stardust, in this Asteroids clone you control your Panther PX-2 ship through successive waves of asteroids and other enemies, which are drawn using ray-tracing techniques.
@@ -2617,5 +2596,26 @@ Some of the features include a hi-res mode for multi-ball, vertical and horizont
 		<genre>Pinball</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alien Breed - Tower Assault (Europe).chd</path>
+		<name>Alien Breed - Tower Assault</name>
+		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.
+
+As with the previous Alien Breed, the gameplay is viewed from above. Your soldier shoots his way through the levels, collecting keys, ammunition and credits along the way. Computers can be logged into to buy new weapons. A new 'retreat' mode allows you to fire while moving backwards.
+
+The game is largely non-linear, as most levels have multiple exits, and the game can be moved through in different ways. There is a variety of indoor and outdoor levels, although you spend most time inside some of the multi-level towers. After activating a self-destruct mechanism, you must escape the building quickly.</desc>
+		<image>./mixart/Alien Breed - Tower Assault (Europe).png</image>
+		<video>./snap/Alien Breed - Tower Assault (Europe).mp4</video>
+		<marquee>./wheel/Alien Breed - Tower Assault (Europe).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Team 17</developer>
+		<publisher>Team 17</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 </gameList>

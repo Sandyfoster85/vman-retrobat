@@ -24091,17 +24091,6 @@ The biggest advance from the original Starglider was seen as the polygon graphic
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
-		<name>Another World</name>
-		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
-		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
-		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
-		<rating />
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Barbarian II (1988)(Palace)[!].zip</path>
 		<name>Barbarian II : The Dungeon of Drax</name>
 		<desc>In the sequel to Barbarian / Death Sword, the Wizard Drax is back after your previous defeat of him. But this time, you're not alone. The princess you saved back then has taken up a sword and joined your cause! Now, it's more than a death match. You have to explore the many tunnels in his dungeon, defeat the dangerous monsters that come between you and put cold steel to Drax's throat.
@@ -24136,8 +24125,8 @@ The game has similar game play to the original, but with a different challenge. 
 		<image>./mixart/Lethal Xcess - Wings of Death (1991)(Eclipse)[cr Elite][t].png</image>
 		<video>./snap/Lethal Xcess - Wings of Death (1991)(Eclipse)[cr Elite][t].mp4</video>
 		<marquee>./wheel/Lethal Xcess - Wings of Death (1991)(Eclipse)[cr Elite][t].png</marquee>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -24169,7 +24158,7 @@ The main objective on each of your missions is to rescue all the Oids on each pl
 		<image>./mixart/Rogue Trooper (1990)(Krisalis Software)[cr Empire].png</image>
 		<video>./snap/Rogue Trooper (1990)(Krisalis Software)[cr Empire].mp4</video>
 		<marquee>./wheel/Rogue Trooper (1990)(Krisalis Software)[cr Empire].png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19900101T000000</releasedate>
 		<publisher>Krisalis Software</publisher>
 		<lang>en</lang>
@@ -24181,7 +24170,7 @@ The main objective on each of your missions is to rescue all the Oids on each pl
 		<image>./mixart/Running Man, The (1989)(Grandslam)[cr Replicants].png</image>
 		<video>./snap/Running Man, The (1989)(Grandslam)[cr Replicants].mp4</video>
 		<marquee>./wheel/Running Man, The (1989)(Grandslam)[cr Replicants].png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19890101T000000</releasedate>
 		<developer>Emerald Software</developer>
 		<publisher>Grandslam Entertainment Ltd.</publisher>
@@ -24291,6 +24280,17 @@ Driving levels are high-speed side-scrolling runs, with the player's vehicle mov
 		<publisher>Codemasters</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
+		<name>Another World</name>
+		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
+		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
+		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
+		<rating></rating>
+		<releasedate></releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

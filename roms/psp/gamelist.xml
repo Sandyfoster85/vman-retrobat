@@ -11751,53 +11751,6 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<genreid>2816</genreid>
 	</game>
 	<game>
-		<path>./Little Big Planet (USA).cso</path>
-		<name>LittleBigPlanet</name>
-		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
-		<image>./mixart/Little Big Planet (USA).png</image>
-		<video>./snap/Little Big Planet (USA).mp4</video>
-		<marquee>./wheel/Little Big Planet (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20091117T000000</releasedate>
-		<developer>SCE Studio Cambridge</developer>
-		<publisher>Sony Computer Entertainment America, Inc.</publisher>
-		<genre>Platform-Various-Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./300.cso</path>
-		<name>300 : March to Glory</name>
-		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
-		<image>./mixart/300.png</image>
-		<video>./snap/300.mp4</video>
-		<marquee>./wheel/300.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20070330T000000</releasedate>
-		<developer>Collision Studios</developer>
-		<publisher>Warner Brothers</publisher>
-		<genre>Beat'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Mega Man Maverick Hunter X.cso</path>
-		<name>Mega Man : Maverick Hunter X</name>
-		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
-		<image>./mixart/Mega Man Maverick Hunter X.png</image>
-		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
-		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060131T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Tekken - Dark Resurrection (USA).cso</path>
 		<name>Tekken : Dark Resurrection</name>
 		<image>./mixart/Tekken - Dark Resurrection (USA).png</image>
@@ -12046,6 +11999,53 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<publisher>Sierra</publisher>
 		<genre>Strategy</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./300.cso</path>
+		<name>300 : March to Glory</name>
+		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
+		<image>./mixart/300.png</image>
+		<video>./snap/300.mp4</video>
+		<marquee>./wheel/300.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070330T000000</releasedate>
+		<developer>Collision Studios</developer>
+		<publisher>Warner Brothers</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Little Big Planet (USA).cso</path>
+		<name>LittleBigPlanet</name>
+		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
+		<image>./mixart/Little Big Planet (USA).png</image>
+		<video>./snap/Little Big Planet (USA).mp4</video>
+		<marquee>./wheel/Little Big Planet (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20091117T000000</releasedate>
+		<developer>SCE Studio Cambridge</developer>
+		<publisher>Sony Computer Entertainment America, Inc.</publisher>
+		<genre>Platform-Various-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Mega Man Maverick Hunter X.cso</path>
+		<name>Mega Man : Maverick Hunter X</name>
+		<desc>Set a century after the events in the original Mega Man series, Mega Man Maverick Hunter X is a remake of the original SNES game Mega Man X, and details the story of Dr. Light's greatest creation: X, a robot with free will. Dr. Cain's discovery of X led to the creation of reploids, robots modeled after the design of X. When the maverick virus infects a group of reploids, they band together in a revolt against humanity. The call goes to the maverick hunters, X and Zero, to fight the Mavericks.  The game is a side-scrolling action game where the player controls X as he hunts the maverick reploids. Notable features include the ability to find enhancements to augment X's abilities, and the ability to absorb the powers of the maverick reploids X defeats. The original moves, such as dashes, wall jumps and charge shorts are still present.  The original flat backgrounds have been replaced by polygonal models, and the remake features enhanced explosions and generally more detail. Additionally, animated cutscenes and voice acting have been added. All weapon and armour upgrades have been relocated to new hidden areas, and there is a new mode: Vile, in which you can play the entire game as maverick Vile, with abilities Mega Man does not have. As a bonus, there is a demo of Mega Man Powered Up on the UMD - a remake of the very first Mega Man game.</desc>
+		<image>./mixart/Mega Man Maverick Hunter X.png</image>
+		<video>./snap/Mega Man Maverick Hunter X.mp4</video>
+		<marquee>./wheel/Mega Man Maverick Hunter X.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060131T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

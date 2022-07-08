@@ -7,22 +7,6 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./Ai Senshi Nicol (Japan).zip</path>
-		<name>Ai Senshi Nicol</name>
-		<desc>Help the brave inventor Nicol rescue his kidnapped girlfriend Stella from a Demon Bull King from the planet Dairass in this overhead action game. Control Nicol through 7 continents as he recovers 3 pieces on each level to his dimensional transporter invention that the Demon King stole and encased in diamonds. You'll blast away at various minions and avoid treacherous terrain while exploring multiple floors of each continent searching out the diamonds to be re-united with Stella and defeat the evil Demon King!</desc>
-		<image>./mixart/Ai Senshi Nicol (Japan).png</image>
-		<video>./snap/Ai Senshi Nicol (Japan).mp4</video>
-		<marquee>./wheel/Ai Senshi Nicol (Japan).png</marquee>
-		<rating>1</rating>
-		<releasedate>19870424T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>C263801F3B19B89159DB089C039A1B16</cheevosHash>
-	</game>
-	<game>
 		<path>./Akumajou Dracula II - Noroi no Fuuin (Japan).zip</path>
 		<name>Akumajou Dracula II: Noroi no Fuuin</name>
 		<desc>The game's setting takes place seven years after the original Castlevania. The prologue begins when Simon visits his family's resting ground. His back is critically injured from his last encounter with Dracula in the previous game. He suddenly feels someone's presence, and turns to see a young woman standing within the mist. She tells him that a curse was placed upon him by Dracula during their last battle, and that he does not have long to live. The woman continues to say that the curse can be undone if he resurrects Dracula himself. She further explains that Dracula's body was split into five different parts after his defeat seven years ago, and Simon must recover these and bring them to the ruins of Dracula's castle. There, he must seal Dracula and defeat him. Before disappearing, the unknown woman says she cannot guarantee that this will destroy Dracula permanently.
@@ -2167,5 +2151,21 @@ The original Famicom Disk System versions feature save slots, unlike the North A
 		<players>1</players>
 		<crc32>AA05F769</crc32>
 		<cheevosHash>7B474D0D8F1776D0A646BAFDF656D51B</cheevosHash>
+	</game>
+	<game>
+		<path>./Ai Senshi Nicol (Japan).zip</path>
+		<name>Ai Senshi Nicol</name>
+		<desc>Help the brave inventor Nicol rescue his kidnapped girlfriend Stella from a Demon Bull King from the planet Dairass in this overhead action game. Control Nicol through 7 continents as he recovers 3 pieces on each level to his dimensional transporter invention that the Demon King stole and encased in diamonds. You'll blast away at various minions and avoid treacherous terrain while exploring multiple floors of each continent searching out the diamonds to be re-united with Stella and defeat the evil Demon King!</desc>
+		<image>./mixart/Ai Senshi Nicol (Japan).png</image>
+		<video>./snap/Ai Senshi Nicol (Japan).mp4</video>
+		<marquee>./wheel/Ai Senshi Nicol (Japan).png</marquee>
+		<rating>1</rating>
+		<releasedate>19870424T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>C263801F3B19B89159DB089C039A1B16</cheevosHash>
 	</game>
 </gameList>

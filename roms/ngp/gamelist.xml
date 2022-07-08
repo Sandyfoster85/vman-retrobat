@@ -6,22 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game>
-		<path>./Baseball Stars.zip</path>
-		<name>Baseball Stars</name>
-		<desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
-		<image>./mixart/Baseball Stars.png</image>
-		<video>./snap/Baseball Stars.mp4</video>
-		<marquee>./wheel/Baseball Stars.png</marquee>
-		<rating>0</rating>
-		<releasedate>19981028T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports / Baseball-Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>9150A58F7094A48B980C1AC71B9CFAB9</cheevosHash>
-	</game>
 	<game id="47061" source="ScreenScraper.fr">
 		<path>./Renketsu Puzzle Tsunagete Pon!.zip</path>
 		<name>Renketsu Puzzle Tsunagete Pon!</name>
@@ -145,5 +129,21 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>6523C679A90573B09B4F70532CDFF09C</cheevosHash>
+	</game>
+	<game>
+		<path>./Baseball Stars.zip</path>
+		<name>Baseball Stars</name>
+		<desc>Baseball Stars is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics, like stamina.</desc>
+		<image>./mixart/Baseball Stars.png</image>
+		<video>./snap/Baseball Stars.mp4</video>
+		<marquee>./wheel/Baseball Stars.png</marquee>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports / Baseball-Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>9150A58F7094A48B980C1AC71B9CFAB9</cheevosHash>
 	</game>
 </gameList>

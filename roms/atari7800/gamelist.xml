@@ -23,24 +23,6 @@ Your mission ... stop enemy trains, intercept the terrible german V-1 buzz bombs
 		<region>us</region>
 		<cheevosHash>4DD96D99C1228BB1FCAE8C1B5C239197</cheevosHash>
 	</game>
-	<game>
-		<path>./Dark Chambers (USA).7z</path>
-		<name>Dark Chambers</name>
-		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
-		<image>./mixart/Dark Chambers (USA).png</image>
-		<video>./snap/Dark Chambers (USA).mp4</video>
-		<marquee>./wheel/Dark Chambers (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B94B39A2ECE024BC79AD350914219A72</cheevosHash>
-	</game>
 	<game id="38016" source="ScreenScraper.fr">
 		<path>./F-18 Hornet (USA).7z</path>
 		<name>F-18 Hornet</name>
@@ -117,40 +99,6 @@ Survive a few rounds of gameplay, and the player will be treated to humorous int
 		<region>us</region>
 		<cheevosHash>BB551483D114DCC5BAE7AAA892EE856A</cheevosHash>
 	</game>
-	<game>
-		<path>./One-on-One Basketball (USA).7z</path>
-		<name>One-on-One Basketball</name>
-		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
-		<image>./mixart/One-on-One Basketball (USA).png</image>
-		<video>./snap/One-on-One Basketball (USA).mp4</video>
-		<marquee>./wheel/One-on-One Basketball (USA).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Computer Magic</developer>
-		<publisher>Atari</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>485478092C2F192EAF29CA199B753D16</cheevosHash>
-	</game>
-	<game id="44466" source="ScreenScraper.fr">
-		<path>./Pete Rose Baseball (USA).7z</path>
-		<name>Pete Rose Baseball</name>
-		<desc>It's the last game of the World Series. You're in the 9th innings. Bases loaded. One out. And your up to bat.
-
-What do you do? Swing away? Wait for a walk? Go for the fences? It's all up to you, just like in real pro ball.
-
-Sure, we'll give you the options. And some tips. Like in pitching. Batting. And Fielding. But, it's you call .</desc>
-		<image>./mixart/Pete Rose Baseball (USA).png</image>
-		<video>./snap/Pete Rose Baseball (USA).mp4</video>
-		<marquee>./wheel/Pete Rose Baseball (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Robert Curtiss</developer>
-		<publisher>Absolute Entertainment</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>E749DB4D81DB283C1B6628181504B1B8</cheevosHash>
-	</game>
 	<game id="38040" source="ScreenScraper.fr">
 		<path>./Planet Smashers (USA).7z</path>
 		<name>Planet Smashers</name>
@@ -169,21 +117,6 @@ One difference in this game that sets it apart from others of the same type is t
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>923EE9602E0AF45FE5D2131DFD78214C</cheevosHash>
-	</game>
-	<game id="38041" source="ScreenScraper.fr">
-		<path>./Pole Position II (USA).7z</path>
-		<name>Pole Position II</name>
-		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole Position II and it's predecessor is that now you have four tracks to select from.</desc>
-		<image>./mixart/Pole Position II (USA).png</image>
-		<video>./snap/Pole Position II (USA).mp4</video>
-		<marquee>./wheel/Pole Position II (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<cheevosHash>8A4F2F898EE79593E2FC30061526CA08</cheevosHash>
 	</game>
 	<game id="38042" source="ScreenScraper.fr">
 		<path>./Rampage (USA).7z</path>
@@ -1164,5 +1097,78 @@ After each mission you will receive a Mission Rating which is based on your flyi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3976ABF29E9D6AA000BFF8268C0D534E</cheevosHash>
+	</game>
+	<game>
+		<path>./One-on-One Basketball (USA).7z</path>
+		<name>One-on-One Basketball</name>
+		<desc>Control either Julius Erving or Larry Bird in front of a single basket, in a game of one on one.  The user can select to play either to a certain score or for a certain amount of time.  When on offense, the player can rotate to keep away from his rival, take a shot from a distance or move in to the basket for special up-close slam-dunks.  When on defense, you can try to take your rival's ball or jump up to block a shot.  Particularly good set-ups get a slow-motion replay.  You can even smash the glass on the backboard, which will send an irate janitor onto the court to clean up the mess.</desc>
+		<image>./mixart/One-on-One Basketball (USA).png</image>
+		<video>./snap/One-on-One Basketball (USA).mp4</video>
+		<marquee>./wheel/One-on-One Basketball (USA).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Computer Magic</developer>
+		<publisher>Atari</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>485478092C2F192EAF29CA199B753D16</cheevosHash>
+	</game>
+	<game id="44466" source="ScreenScraper.fr">
+		<path>./Pete Rose Baseball (USA).7z</path>
+		<name>Pete Rose Baseball</name>
+		<desc>It's the last game of the World Series. You're in the 9th innings. Bases loaded. One out. And your up to bat.
+
+What do you do? Swing away? Wait for a walk? Go for the fences? It's all up to you, just like in real pro ball.
+
+Sure, we'll give you the options. And some tips. Like in pitching. Batting. And Fielding. But, it's you call .</desc>
+		<image>./mixart/Pete Rose Baseball (USA).png</image>
+		<video>./snap/Pete Rose Baseball (USA).mp4</video>
+		<marquee>./wheel/Pete Rose Baseball (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Robert Curtiss</developer>
+		<publisher>Absolute Entertainment</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E749DB4D81DB283C1B6628181504B1B8</cheevosHash>
+	</game>
+	<game id="38041" source="ScreenScraper.fr">
+		<path>./Pole Position II (USA).7z</path>
+		<name>Pole Position II</name>
+		<desc>In Pole Position II, based on the arcade sequel to Pole Position, you are again driving an F-1 racer in a timed qualifying run, trying to achieve the pole position. Then it is off to the race, in hopes of taking that top spot. The difference in Pole Position II and it's predecessor is that now you have four tracks to select from.</desc>
+		<image>./mixart/Pole Position II (USA).png</image>
+		<video>./snap/Pole Position II (USA).mp4</video>
+		<marquee>./wheel/Pole Position II (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8A4F2F898EE79593E2FC30061526CA08</cheevosHash>
+	</game>
+	<game>
+		<path>./Dark Chambers (USA).7z</path>
+		<name>Dark Chambers</name>
+		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
+		<image>./mixart/Dark Chambers (USA).png</image>
+		<video>./snap/Dark Chambers (USA).mp4</video>
+		<marquee>./wheel/Dark Chambers (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B94B39A2ECE024BC79AD350914219A72</cheevosHash>
 	</game>
 </gameList>

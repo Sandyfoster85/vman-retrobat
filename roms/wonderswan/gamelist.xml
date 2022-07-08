@@ -6,23 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game>
-		<path>./Anchorz Field (Japan).zip</path>
-		<name>Anchor Field 2</name>
-		<desc>Anchorz Field is a Strategy game, developed and published by Sammy Studios, which was released in Japan in 1999.</desc>
-		<image>./mixart/Anchorz Field (Japan).png</image>
-		<video>./snap/Anchorz Field (Japan).mp4</video>
-		<marquee>./wheel/Anchorz Field (Japan).png</marquee>
-		<rating>1</rating>
-		<releasedate>19990624T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Strategy</genre>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>7528A5DE5924896D152920B1EAF8FD5D</cheevosHash>
-	</game>
 	<game id="46249" source="ScreenScraper.fr">
 		<path>./Armored Unit (Japan).zip</path>
 		<name>Armored Unit</name>
@@ -1575,7 +1558,7 @@
 		<video>./snap/MobileWonderGate (Japan).mp4</video>
 		<marquee>./wheel/MobileWonderGate (Japan).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<genre>Various</genre>
 		<players>1</players>
 		<lang>jp</lang>
@@ -1697,5 +1680,22 @@
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>1601867A338B41A2EA973597B87B634D</cheevosHash>
+	</game>
+	<game>
+		<path>./Anchorz Field (Japan).zip</path>
+		<name>Anchor Field 2</name>
+		<desc>Anchorz Field is a Strategy game, developed and published by Sammy Studios, which was released in Japan in 1999.</desc>
+		<image>./mixart/Anchorz Field (Japan).png</image>
+		<video>./snap/Anchorz Field (Japan).mp4</video>
+		<marquee>./wheel/Anchorz Field (Japan).png</marquee>
+		<rating>1</rating>
+		<releasedate>19990624T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Strategy</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>7528A5DE5924896D152920B1EAF8FD5D</cheevosHash>
 	</game>
 </gameList>

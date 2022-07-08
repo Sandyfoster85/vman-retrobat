@@ -588,23 +588,6 @@ There are several types of enemies in the game, most of which can be defeated wi
 		<cheevosHash>D8E6D89D520C91A9EA219291B55284BB</cheevosHash>
 		<cheevosId>18064</cheevosId>
 	</game>
-	<game>
-		<path>./James Bond 007 (Japan).zip</path>
-		<name>007 James Bond</name>
-		<desc>007 James Bond is a shoot-'em-up game developed and published by Tsukuda Original for the SG-1000. It was ported from Parker Brothers's 1983 game of the same name, which was published for various American computers/consoles.
-
-007 James Bond was the last SG-1000 game to be produced by the company.</desc>
-		<image>./mixart/James Bond 007 (Japan).png</image>
-		<video>./snap/James Bond 007 (Japan).mp4</video>
-		<marquee>./wheel/James Bond 007 (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830630T000000</releasedate>
-		<developer>Tsukuda Original</developer>
-		<publisher>Tsukuda Original</publisher>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>B2AC0C7755E0D6BA0A737861EE190A53</cheevosHash>
-	</game>
 	<game id="65729" source="ScreenScraper.fr">
 		<path>./Lode Runner (Japan, Europe).zip</path>
 		<name>Lode Runner</name>
@@ -1110,5 +1093,22 @@ Though most home ports of the game are based on Planet of Zoom, Zoom 909 was bro
 		<publisher>Sega</publisher>
 		<cheevosHash>8F46800E6FC7D5A40716045F6D739932</cheevosHash>
 		<cheevosId>17771</cheevosId>
+	</game>
+	<game>
+		<path>./James Bond 007 (Japan).zip</path>
+		<name>007 James Bond</name>
+		<desc>007 James Bond is a shoot-'em-up game developed and published by Tsukuda Original for the SG-1000. It was ported from Parker Brothers's 1983 game of the same name, which was published for various American computers/consoles.
+
+007 James Bond was the last SG-1000 game to be produced by the company.</desc>
+		<image>./mixart/James Bond 007 (Japan).png</image>
+		<video>./snap/James Bond 007 (Japan).mp4</video>
+		<marquee>./wheel/James Bond 007 (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830630T000000</releasedate>
+		<developer>Tsukuda Original</developer>
+		<publisher>Tsukuda Original</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>B2AC0C7755E0D6BA0A737861EE190A53</cheevosHash>
 	</game>
 </gameList>

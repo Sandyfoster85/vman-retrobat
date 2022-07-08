@@ -16295,52 +16295,6 @@ Finally, a pool hall that fits almost anywhere.</desc>
 		<region>us</region>
 		<cheevosHash>E46EB7F741A23738D0F6A56C96E56B78</cheevosHash>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
-	<game>
-		<path>./aafb.zip</path>
-		<name>All American Football</name>
-		<desc>Exciting!
-Authentic!
-The Ultimate Video Sports Game
-
-RUN PLAY and PASS PLAY. Which to choose to attack!? Select either of the eight formations. Players are free to use either punt kick or field goal, so they can enjoy as exciting and thrilling a game as a real game. "ALL AMERICAN FOOTBALL" can be played either by only one player, or together with his friend. We assure you that it will become #1 game at your location!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/aafb.png</image>
-		<video>./snap/aafb.mp4</video>
-		<marquee>./wheel/aafb.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Leland Corp.</developer>
-		<publisher>Leland Corp.</publisher>
-		<genre>Sports-Sports / Football</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AEAC01E35058B4304F11E24E08D5218B</cheevosHash>
-	</game>
 	<game id="39925">
 		<path>./abaseb.zip</path>
 		<name>Atari Baseball</name>
@@ -17203,29 +17157,6 @@ Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting
 		<region>us</region>
 		<cheevosHash>0B93DA8B0E080DD7948A9DF939DB5765</cheevosHash>
 	</game>
-	<game id="39990">
-		<path>./alpinr2b.zip</path>
-		<name>Alpine Racer 2</name>
-		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/alpinr2b.png</image>
-		<video>./snap/alpinr2b.mp4</video>
-		<marquee>./wheel/alpinr2b.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports / Skiing</genre>
-		<family>Alpine Racer</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
-	</game>
 	<game>
 		<path>./altair.zip</path>
 		<name>Altair</name>
@@ -17590,28 +17521,6 @@ Along the way, players must refuel their patrol car (by driving through filling 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>50C3C5EC5222E20E2ACCA9D138EF60D6</cheevosHash>
-	</game>
-	<game id="40029">
-		<path>./aquajet.zip</path>
-		<name>Aqua Jet</name>
-		<desc>A 3-D waterscooter simulator with racing elements.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/aquajet.png</image>
-		<video>./snap/aquajet.mp4</video>
-		<marquee>./wheel/aquajet.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Boat</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>6a312ddb5960c50efba168a4635650ad</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B267466D355FBF6F1DE9F7A3C62A4E5C</cheevosHash>
 	</game>
 	<game>
 		<path>./aquarium.zip</path>
@@ -18991,24 +18900,6 @@ The player's character 'inhabits' a body with which to combat the game's enemies
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>7E665C8CC6D9A3003CC878390E03EAA8</cheevosHash>
-	</game>
-	<game>
-		<path>./aztarac.zip</path>
-		<name>Aztarac</name>
-		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
-		<image>./mixart/aztarac.png</image>
-		<video>./snap/aztarac.mp4</video>
-		<marquee>./wheel/aztarac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Tim Stryker</developer>
-		<publisher>Centuri</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
 	</game>
 	<game>
 		<path>./azurian.zip</path>
@@ -21923,25 +21814,6 @@ The game's levels force-scroll from right to left, although the vehicle's speed 
 		<region>us</region>
 		<cheevosHash>46D68C2864A5CFC700AD5988057A6D65</cheevosHash>
 	</game>
-	<game>
-		<path>./brutforc.zip</path>
-		<name>Brute Force</name>
-		<desc>A 3-player melee in the city streets against various gangs. Lots of weapons and items to pick up and lots of things in the background to break with them.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/brutforc.png</image>
-		<video>./snap/brutforc.mp4</video>
-		<marquee>./wheel/brutforc.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Leland</developer>
-		<publisher>Leland</publisher>
-		<genre>Fight-Shooter</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0F7BA106DFB75DF4DC6ACD89457ACA6F</cheevosHash>
-	</game>
 	<game id="40373">
 		<path>./brvbladeu.zip</path>
 		<name>Brave Blade</name>
@@ -22250,23 +22122,6 @@ While the game plays identically to its predecessor, several new changes and add
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>677116EEFE519F60E5FAE870E2FD6D8F</cheevosHash>
-	</game>
-	<game>
-		<path>./buckrog.zip</path>
-		<name>Buck Rogers: Planet of Zoom</name>
-		<desc>Buck Rogers: Planet of Zoom is a forward-scrolling rail shooter where the user controls a spaceship in a behind-the-back third-person perspective that must destroy enemy ships and avoid obstacles. The game was notable for its fast pseudo 3-D scaling and detailed sprites. The game would later go on to influence the 1985 Sega hit Space Harrier. Buck is never seen in the game, except presumably in the illustration on the side of the arcade cabinet, and its only real connections to Buck Rogers are the use of the name and the outer space setting. In Japan, the game was known as Zoom 909.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/buckrog.png</image>
-		<video>./snap/buckrog.mp4</video>
-		<marquee>./wheel/buckrog.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Plane, 3rd person</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4A4273CB3E8FB7804AAEBF5F65606F0D</cheevosHash>
 	</game>
 	<game>
 		<path>./bucky.zip</path>
@@ -22900,62 +22755,6 @@ Drive you car thru demolition tracks, you must crashing the rivals cars and go d
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B41905AB859CC700CD490A9F6567D253</cheevosHash>
-	</game>
-	<game id="40450">
-		<path>./carnevil.zip</path>
-		<name>Carnevil</name>
-		<desc>CarnEvil is a rail shooter arcade game using a light gun. The game is set in the fictional town of Greeley Valley, Iowa. The main character's, Jacob (Player 1) and Lisa (Player 2), join a tractor-drawn trailer called Spooky Sam's Ghost Tour on its path through a cemetery. According to an urban legend, if a golden token is inserted into the jester's mouth on top of the tombstone of someone by the name of Ludwig Von TÃ¶kkentÃ¤kker, a haunted amusement park will rise from the earth.
-
-Jacob leaves the tour with his friend, Lisa, and approaches the tombstone to find a golden coin sitting in a small hole on the tombstone, and surprised, Jacob inserts the coin into the jester's mouth, resulting in the legendary undead carnival rising from the ground. Jacob and Lisa take 2 [shotgun or shotguns] from the shooting gallery at the entrance and use them to fight through hordes of monsters, zombies, and insects as they escape.
-
-First, Jacob and Lisa go to the "Rickety Town". There, they hop on the "Slay Ride" and battle several demonic elves, zombies dressed as goofy dinosaurs and flying bug like things and see Betty trapped on a ferris wheel. Finally, they battle "Krumpas", a Santa Claus like monster.
-
-Jacob and Lisa then go to the "Haunted House" and battle through hordes of zombies, spiders, ghosts and bats. They notice that Betty is being chased by zombies. Jacob and Lisa enter the building and encounter Hambone, a large Jason Vorhees-like creature with a gatling gun for a hand. Jacob and Lisa defeat Hambone and proceed through the building. They find Betty being kidnapped by a Giant Spider upstairs and go after them. After going through "the hall of hands", Jacob and Lisa fight Hambone once again, who now has a skull launching grenade launcher for a hand, and is defeated again. Jacob and Lisa go onto the rooftop only to be pushed off by the car into a grave with a tombstone saying "Rest in Pieces". Jacob and Lisa at last fight "Evil Marie" who, after being defeated, falls on a tombstone.
-
-The 2 then visit the "Freak Show" where they encounter Conjoined Acrobatic Men, Flies and Maggots with human heads, 8 legged monkeys, and a giant demon called "Eye-clops", a cyclops with more than one eye. They kill the monster and enter "The Chamber of Horrors", where they find Betty in a torture device. They leave to a Colosseum and fight "Junior", a Frankenstein-Like baby (or through the options menu, they can fight "Deddy", a disfigured Teddy Bear).
-
-Then, they enter the Big Top, and fight clowns and circus animals to reach the center ring, whence they are taken to TÃ¶kkentÃ¤kker's zeppelin to face TÃ¶kkentÃ¤kker and his jester Umlaut.
-
-After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, Jacob, Lisa, and Betty awaken a few hours later in a pile of leaves in the cemetery, and in front of TÃ¶kkentÃ¤kker's tombstone. Jacob then sees the token in its slot and, ignoring Betty's protests, puts it into the jester's mouth for a repeat performance.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/carnevil.png</image>
-		<video>./snap/carnevil.mp4</video>
-		<marquee>./wheel/carnevil.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>8c4a2e2ad8d1fabcbeeef63a5c1fef95</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
-	</game>
-	<game>
-		<path>./carnival.zip</path>
-		<name>Carnival</name>
-		<desc>CARNIVAL is a 1 or 2 player alternate action game that simulates a carnival shooting gallery. The playfield consists of three target rows, a rotating pipe wheel, a bonus message panel, and a 'special' target block.
-
-The player uses a left right control to position a rifle at the bottom of the screen, and a shoot control to fire the rifle. Two rows of bullets at the bottom of the screen indicate the number of shots remaining to the player. Every time the player shoots, one of the bullets disappears from the screen. More bullets are given during the first round than the others, so, the inexperienced player will have a chance to enjoy the play.
-bear between rounds for extra points.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/carnival.png</image>
-		<video>./snap/carnival.mp4</video>
-		<marquee>./wheel/carnival.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD7D02101D1E2E15045A1E8FD2433459</cheevosHash>
 	</game>
 	<game>
 		<path>./carnking.zip</path>
@@ -25077,25 +24876,6 @@ The screen is an overhead view of a city street, with the cops on one side, and 
 		<cheevosHash>4179A52B4E997E24645B79ECEE6FEE05</cheevosHash>
 	</game>
 	<game>
-		<path>./cosmicg.zip</path>
-		<name>Cosmic Guerilla</name>
-		<desc>For some reason you have 2 of your ships placed in the middle of the playing field and aliens all around them. Luckily, they're protected by 5 rows of barriers and you're on the bottom, doing your job to protect them.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/cosmicg.png</image>
-		<video>./snap/cosmicg.mp4</video>
-		<marquee>./wheel/cosmicg.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>Universal Co., Ltd.</developer>
-		<publisher>Universal</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4E64E11FCF4E6A7A44B27045D5748AAF</cheevosHash>
-	</game>
-	<game>
 		<path>./cosmo.zip</path>
 		<name>Cosmo</name>
 		<desc>Cosmo is an old shoot'em up like Space Invaders.</desc>
@@ -25130,29 +24910,6 @@ The screen is an overhead view of a city street, with the cops on one side, and 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>71DA16B64B77C82DB048420DC5FBEEBA</cheevosHash>
-	</game>
-	<game id="40688">
-		<path>./cosmos.zip</path>
-		<name>Cosmos</name>
-		<desc>An early shoot'em up game. Destroy swarms of aliens and asteroids. If there are too many enemies on the screen, use the time warp to slow all your foes down.
-
-This is one of the top candidates for Century's most blatant ripoff. Century copied everything from the laser temperature and fuel gauge to the docking to the mothership.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/cosmos.png</image>
-		<video>./snap/cosmos.mp4</video>
-		<marquee>./wheel/cosmos.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Century Electronics</developer>
-		<publisher>Century Electronics</publisher>
-		<genre>Shooter / Space Invaders Like</genre>
-		<arcadesystemname>centurye</arcadesystemname>
-		<players>2</players>
-		<md5>bfaad0d91abeca64e24eef058e2fc0f5</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3989DA4EB832867DA1EB82598A780C37</cheevosHash>
 	</game>
 	<game>
 		<path>./cotton.zip</path>
@@ -25285,24 +25042,6 @@ Whereas Cotton 2 was more of a tactical shooter (whenever that is applicable to 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DAD49EAA5F9FB5A37BBB9A6DD260ACB2</cheevosHash>
-	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
 	</game>
 	<game>
 		<path>./cppicf.zip</path>
@@ -32086,27 +31825,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4371&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>1F65AE3D70DF6915C2FED2C1262AFCF1</cheevosHash>
-	</game>
-	<game>
-		<path>./frenzy.zip</path>
-		<name>Frenzy</name>
-		<desc>A sequel to the 1980 game, "Berzerk", Frenzy once again has the player battling through a maze of rooms, populated by robotic skeletons, robotic octopi and walls. Everything in each room, except walls is deadly to the touch.
-
-The object is to shoot all the robots, and then escape out of the room through one of the doorways. Like its prequel, Frenzy consist of 64000 levels. Once all 64000 have been cleared the game will crash.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/frenzy.png</image>
-		<video>./snap/frenzy.mp4</video>
-		<marquee>./wheel/frenzy.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Stern Electronics, Inc.</developer>
-		<publisher>Stern Electronics</publisher>
-		<genre>Action / Labyrinth-Shooter Small-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5B956DC4F880A4AA8C5F3E9F330DF83C</cheevosHash>
 	</game>
 	<game>
 		<path>./friskyt.zip</path>
@@ -50100,26 +49818,6 @@ In battle, players must defend against wave after wave of enemy planes (fighter 
 		<region>us</region>
 		<cheevosHash>98DB746840B6D444D4C512487B0E6C44</cheevosHash>
 	</game>
-	<game>
-		<path>./polepos.zip</path>
-		<name>Pole Position</name>
-		<desc>Pole Position is a 1-player game using a color raster-scan video display. Game action takes place at the Fuji Speedway in Japan. The country around the speedway consists of green meadows, hills, and snow-capped Mt. Fuji. 
-
-The player drives a Formula-1 race car on the track. The first objective of the game is to finish the qualifying lap as quickly as possible. If the player beats the clock, he or she qualifies for the race. If not, he or she drives out the remainder of the time along the qualifying course.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/polepos.png</image>
-		<video>./snap/polepos.mp4</video>
-		<marquee>./wheel/polepos.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>533DA8752E25D2C54038A92326FAB23C</cheevosHash>
-	</game>
 	<game id="42449">
 		<path>./policetr.zip</path>
 		<name>Police Trainer</name>
@@ -62411,25 +62109,6 @@ At the top of each level are blue tunnel sections, while at the bottom are purpl
 		<cheevosHash>8CD8BAB7556DE5C1C867256E9E578028</cheevosHash>
 	</game>
 	<game>
-		<path>./szaxxon.zip</path>
-		<name>Super Zaxxon</name>
-		<desc>Super Zaxxon is a 1- or 2-player video game that presents the player with tremendous challenge and excitement never before experienced. The 3-dimensional-like, isometric graphics are produced by projecting the picture at a slant on the screen, putting the player in remote controlled realism with his player ship.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/szaxxon.png</image>
-		<video>./snap/szaxxon.mp4</video>
-		<marquee>./wheel/szaxxon.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Diagonal</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F92E43B7EABDFBC4305C491A3018A004</cheevosHash>
-	</game>
-	<game>
 		<path>./tacscan.zip</path>
 		<name>Tac/Scan</name>
 		<desc>TAC/SCAN is a one or two-player vector-based shoot-em-up in which players control a formation squadron of seven fighter ships. All seven ships fire at once when the FIRE button is pressed, producing a spectacular missile salvo.
@@ -70318,27 +69997,6 @@ As an added attraction, when a game player completes each level, there are anima
 		<cheevosHash>85CFF0E830F7203716B277C3338B8941</cheevosHash>
 	</game>
 	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
-	</game>
-	<game>
 		<path>./aof3.zip</path>
 		<name>Art of Fighting 3 - The Path of the Warrior</name>
 		<desc>In this third and final entry in the Art of Fighting series, the story shifts from Ryo Sakazaki to his best friend and rival, Robert Garcia, as he ventures into Mexico to try and locate Freia Lawrence, a childhood friend, who asked for his help. However, he leaves without the consent of The Garcia Foundation, which sends an agent named Karman Cole to get him back. But not everything is as simple as it looks... because Robert is not the only one looking for Freia.
@@ -70475,28 +70133,6 @@ Game Tengoku - The Game Paradise offers both 'Standard' and 'Time Attack' modes 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>67FA856BBB826C643B94ACFE6F6FAB92</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
 	</game>
 	<game>
 		<path>./moomesa.zip</path>
@@ -71226,40 +70862,6 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<cheevosHash>844C1DF443B3B35CB0072342FEF3111F</cheevosHash>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
-	<game>
 		<path>./missile.zip</path>
 		<name>Missile Command</name>
 		<desc>Missile Command is a one or two-player game depicting the outbreak of a nuclear war. Players must defend six cities from waves of incoming nuclear missiles by launching their own anti-ballistic missiles (ABMs) from one of three missile batteries. 
@@ -71408,26 +71010,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
-	</game>
-	<game>
-		<path>./crkdown.zip</path>
-		<name>Crack Down</name>
-		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
-
-The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
-		<image>./mixart/crkdown.png</image>
-		<video>./snap/crkdown.mp4</video>
-		<marquee>./wheel/crkdown.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D9F61B96A7F65AE92012371069E14844</cheevosHash>
 	</game>
 	<game>
 		<path>./dmnfrnt.zip</path>
@@ -71627,65 +71209,6 @@ After defeating three attack waves, the Alien Robot holding that city will reapp
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>565B1578BF3C5962A87D3CB0A67D8ACC</cheevosHash>
-	</game>
-	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
-	</game>
-	<game>
-		<path>./blktiger.zip</path>
-		<name>Black Dragon</name>
-		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
-
-The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
-
-Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
-
-The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
-
-The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
-
-Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
-		<image>./mixart/blktiger.png</image>
-		<video>./snap/blktiger.mp4</video>
-		<marquee>./wheel/blktiger.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
 	</game>
 	<game>
 		<path>./calibr50.zip</path>
@@ -72352,24 +71875,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<cheevosHash>72A669A6A000928DA3AB24C3A79E554C</cheevosHash>
 	</game>
 	<game>
-		<path>./mk3.zip</path>
-		<name>Mortal Kombat 3</name>
-		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
-		<image>./mixart/mk3.png</image>
-		<video>./snap/mk3.mp4</video>
-		<marquee>./wheel/mk3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950401T000000</releasedate>
-		<developer>bootleg / Midway</developer>
-		<publisher>bootleg / Midway</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3A6ACD06F1F6E1D3D7C813CFBA4BB29F</cheevosHash>
-	</game>
-	<game>
 		<path>./spcinv95.zip</path>
 		<name>Space Invaders '95: The Attack Of Lunar Loonies</name>
 		<desc>A remake of the classic invading aliens shoot'em up game that features interesting enemies and a wide variety of characters to choose from.</desc>
@@ -72385,51 +71890,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6FDD6BFDCECB35ABBE9FFBDC5FB294A1</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game>
-		<path>./outrun.zip</path>
-		<name>'H' Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
 	</game>
 	<game>
 		<path>./polepos2.zip</path>
@@ -72738,26 +72198,6 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<cheevosId>11836</cheevosId>
 	</game>
 	<game>
-		<path>./mario.zip</path>
-		<name>Mario Bros.</name>
-		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
-
-Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
-
-As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/mario.png</image>
-		<video>./snap/mario.mp4</video>
-		<marquee>./wheel/mario.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
-		<cheevosId>11946</cheevosId>
-	</game>
-	<game>
 		<path>./contra.zip</path>
 		<name>Contra</name>
 		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
@@ -72880,6 +72320,24 @@ One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. T
 		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
 	</game>
 	<game>
+		<path>./aztarac.zip</path>
+		<name>Aztarac</name>
+		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
+		<image>./mixart/aztarac.png</image>
+		<video>./snap/aztarac.mp4</video>
+		<marquee>./wheel/aztarac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Tim Stryker</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
+	</game>
+	<game>
 		<path>./hangon.zip</path>
 		<name>Hang-On</name>
 		<desc>Hang-On is a superb point-to-point sprite scaling racing game in which the player takes control of a superbike and must race over five twisting circuits, avoiding rival bikers and trying to reach the end of each stage before the time limit expires.
@@ -72897,5 +72355,547 @@ Hang-On's handling and superb graphics were unlike anything seen before in the a
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EB68C6D51FD67021AAAC4C8C10D83282</cheevosHash>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Dragon</name>
+		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
+
+The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
+
+Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
+
+The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
+
+The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
+
+Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
+		<image>./mixart/blktiger.png</image>
+		<video>./snap/blktiger.mp4</video>
+		<marquee>./wheel/blktiger.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
+	</game>
+	<game>
+		<path>./crkdown.zip</path>
+		<name>Crack Down</name>
+		<desc>A futuristic city has been over-taken by a powerful, bio-mechanical army; created by an evil scientist in a bid to take over the world. 2 elite agents must plant a series of time bombs to destroy their base and crush the rebellion.
+
+The 1- or 2-player shoot-em-up action is displayed via an innovative split screen that allows 2 players to work either individually or as a team. A timer countdown timers adds to the tension. Time bombs must be set by running over areas marked with an 'X'; while machine guns and cannons can be reloaded by finding the ammo caches that appear on each level. If ammo runs out, players must result to punching and kicking to defeat opponents.</desc>
+		<image>./mixart/crkdown.png</image>
+		<video>./snap/crkdown.mp4</video>
+		<marquee>./wheel/crkdown.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D9F61B96A7F65AE92012371069E14844</cheevosHash>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game id="39990">
+		<path>./alpinr2b.zip</path>
+		<name>Alpine Racer 2</name>
+		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/alpinr2b.png</image>
+		<video>./snap/alpinr2b.mp4</video>
+		<marquee>./wheel/alpinr2b.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports / Skiing</genre>
+		<family>Alpine Racer</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
+	</game>
+	<game id="40029">
+		<path>./aquajet.zip</path>
+		<name>Aqua Jet</name>
+		<desc>A 3-D waterscooter simulator with racing elements.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/aquajet.png</image>
+		<video>./snap/aquajet.mp4</video>
+		<marquee>./wheel/aquajet.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Boat</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>6a312ddb5960c50efba168a4635650ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B267466D355FBF6F1DE9F7A3C62A4E5C</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>'H' Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
+	</game>
+	<game>
+		<path>./mk3.zip</path>
+		<name>Mortal Kombat 3</name>
+		<desc>Succeeding in taking over the Earth realm, Shao Kahn takes all the human souls on Earth as his own. To stop the Outworld realm from totally merging with the Earth realm, a few Earth warriors were chosen to have their souls protected from Shao Kahn in order to defend the Earth realm in a new Mortal Kombat tournament. 14 digitized characters fight to overthrow Shao Kahn and his Centaur lieutenant Motaro.</desc>
+		<image>./mixart/mk3.png</image>
+		<video>./snap/mk3.mp4</video>
+		<marquee>./wheel/mk3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950401T000000</releasedate>
+		<developer>bootleg / Midway</developer>
+		<publisher>bootleg / Midway</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3A6ACD06F1F6E1D3D7C813CFBA4BB29F</cheevosHash>
+	</game>
+	<game>
+		<path>./aafb.zip</path>
+		<name>All American Football</name>
+		<desc>Exciting!
+Authentic!
+The Ultimate Video Sports Game
+
+RUN PLAY and PASS PLAY. Which to choose to attack!? Select either of the eight formations. Players are free to use either punt kick or field goal, so they can enjoy as exciting and thrilling a game as a real game. "ALL AMERICAN FOOTBALL" can be played either by only one player, or together with his friend. We assure you that it will become #1 game at your location!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/aafb.png</image>
+		<video>./snap/aafb.mp4</video>
+		<marquee>./wheel/aafb.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Leland Corp.</developer>
+		<publisher>Leland Corp.</publisher>
+		<genre>Sports-Sports / Football</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AEAC01E35058B4304F11E24E08D5218B</cheevosHash>
+	</game>
+	<game>
+		<path>./buckrog.zip</path>
+		<name>Buck Rogers: Planet of Zoom</name>
+		<desc>Buck Rogers: Planet of Zoom is a forward-scrolling rail shooter where the user controls a spaceship in a behind-the-back third-person perspective that must destroy enemy ships and avoid obstacles. The game was notable for its fast pseudo 3-D scaling and detailed sprites. The game would later go on to influence the 1985 Sega hit Space Harrier. Buck is never seen in the game, except presumably in the illustration on the side of the arcade cabinet, and its only real connections to Buck Rogers are the use of the name and the outer space setting. In Japan, the game was known as Zoom 909.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/buckrog.png</image>
+		<video>./snap/buckrog.mp4</video>
+		<marquee>./wheel/buckrog.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Plane, 3rd person</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4A4273CB3E8FB7804AAEBF5F65606F0D</cheevosHash>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game id="40450">
+		<path>./carnevil.zip</path>
+		<name>Carnevil</name>
+		<desc>CarnEvil is a rail shooter arcade game using a light gun. The game is set in the fictional town of Greeley Valley, Iowa. The main character's, Jacob (Player 1) and Lisa (Player 2), join a tractor-drawn trailer called Spooky Sam's Ghost Tour on its path through a cemetery. According to an urban legend, if a golden token is inserted into the jester's mouth on top of the tombstone of someone by the name of Ludwig Von TÃ¶kkentÃ¤kker, a haunted amusement park will rise from the earth.
+
+Jacob leaves the tour with his friend, Lisa, and approaches the tombstone to find a golden coin sitting in a small hole on the tombstone, and surprised, Jacob inserts the coin into the jester's mouth, resulting in the legendary undead carnival rising from the ground. Jacob and Lisa take 2 [shotgun or shotguns] from the shooting gallery at the entrance and use them to fight through hordes of monsters, zombies, and insects as they escape.
+
+First, Jacob and Lisa go to the "Rickety Town". There, they hop on the "Slay Ride" and battle several demonic elves, zombies dressed as goofy dinosaurs and flying bug like things and see Betty trapped on a ferris wheel. Finally, they battle "Krumpas", a Santa Claus like monster.
+
+Jacob and Lisa then go to the "Haunted House" and battle through hordes of zombies, spiders, ghosts and bats. They notice that Betty is being chased by zombies. Jacob and Lisa enter the building and encounter Hambone, a large Jason Vorhees-like creature with a gatling gun for a hand. Jacob and Lisa defeat Hambone and proceed through the building. They find Betty being kidnapped by a Giant Spider upstairs and go after them. After going through "the hall of hands", Jacob and Lisa fight Hambone once again, who now has a skull launching grenade launcher for a hand, and is defeated again. Jacob and Lisa go onto the rooftop only to be pushed off by the car into a grave with a tombstone saying "Rest in Pieces". Jacob and Lisa at last fight "Evil Marie" who, after being defeated, falls on a tombstone.
+
+The 2 then visit the "Freak Show" where they encounter Conjoined Acrobatic Men, Flies and Maggots with human heads, 8 legged monkeys, and a giant demon called "Eye-clops", a cyclops with more than one eye. They kill the monster and enter "The Chamber of Horrors", where they find Betty in a torture device. They leave to a Colosseum and fight "Junior", a Frankenstein-Like baby (or through the options menu, they can fight "Deddy", a disfigured Teddy Bear).
+
+Then, they enter the Big Top, and fight clowns and circus animals to reach the center ring, whence they are taken to TÃ¶kkentÃ¤kker's zeppelin to face TÃ¶kkentÃ¤kker and his jester Umlaut.
+
+After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, Jacob, Lisa, and Betty awaken a few hours later in a pile of leaves in the cemetery, and in front of TÃ¶kkentÃ¤kker's tombstone. Jacob then sees the token in its slot and, ignoring Betty's protests, puts it into the jester's mouth for a repeat performance.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/carnevil.png</image>
+		<video>./snap/carnevil.mp4</video>
+		<marquee>./wheel/carnevil.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>8c4a2e2ad8d1fabcbeeef63a5c1fef95</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
+	</game>
+	<game>
+		<path>./brutforc.zip</path>
+		<name>Brute Force</name>
+		<desc>A 3-player melee in the city streets against various gangs. Lots of weapons and items to pick up and lots of things in the background to break with them.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/brutforc.png</image>
+		<video>./snap/brutforc.mp4</video>
+		<marquee>./wheel/brutforc.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Leland</developer>
+		<publisher>Leland</publisher>
+		<genre>Fight-Shooter</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0F7BA106DFB75DF4DC6ACD89457ACA6F</cheevosHash>
+	</game>
+	<game>
+		<path>./carnival.zip</path>
+		<name>Carnival</name>
+		<desc>CARNIVAL is a 1 or 2 player alternate action game that simulates a carnival shooting gallery. The playfield consists of three target rows, a rotating pipe wheel, a bonus message panel, and a 'special' target block.
+
+The player uses a left right control to position a rifle at the bottom of the screen, and a shoot control to fire the rifle. Two rows of bullets at the bottom of the screen indicate the number of shots remaining to the player. Every time the player shoots, one of the bullets disappears from the screen. More bullets are given during the first round than the others, so, the inexperienced player will have a chance to enjoy the play.
+bear between rounds for extra points.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/carnival.png</image>
+		<video>./snap/carnival.mp4</video>
+		<marquee>./wheel/carnival.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD7D02101D1E2E15045A1E8FD2433459</cheevosHash>
+	</game>
+	<game>
+		<path>./cosmicg.zip</path>
+		<name>Cosmic Guerilla</name>
+		<desc>For some reason you have 2 of your ships placed in the middle of the playing field and aliens all around them. Luckily, they're protected by 5 rows of barriers and you're on the bottom, doing your job to protect them.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/cosmicg.png</image>
+		<video>./snap/cosmicg.mp4</video>
+		<marquee>./wheel/cosmicg.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Universal Co., Ltd.</developer>
+		<publisher>Universal</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4E64E11FCF4E6A7A44B27045D5748AAF</cheevosHash>
+	</game>
+	<game id="40688">
+		<path>./cosmos.zip</path>
+		<name>Cosmos</name>
+		<desc>An early shoot'em up game. Destroy swarms of aliens and asteroids. If there are too many enemies on the screen, use the time warp to slow all your foes down.
+
+This is one of the top candidates for Century's most blatant ripoff. Century copied everything from the laser temperature and fuel gauge to the docking to the mothership.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/cosmos.png</image>
+		<video>./snap/cosmos.mp4</video>
+		<marquee>./wheel/cosmos.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Century Electronics</developer>
+		<publisher>Century Electronics</publisher>
+		<genre>Shooter / Space Invaders Like</genre>
+		<arcadesystemname>centurye</arcadesystemname>
+		<players>2</players>
+		<md5>bfaad0d91abeca64e24eef058e2fc0f5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3989DA4EB832867DA1EB82598A780C37</cheevosHash>
+	</game>
+	<game>
+		<path>./frenzy.zip</path>
+		<name>Frenzy</name>
+		<desc>A sequel to the 1980 game, "Berzerk", Frenzy once again has the player battling through a maze of rooms, populated by robotic skeletons, robotic octopi and walls. Everything in each room, except walls is deadly to the touch.
+
+The object is to shoot all the robots, and then escape out of the room through one of the doorways. Like its prequel, Frenzy consist of 64000 levels. Once all 64000 have been cleared the game will crash.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/frenzy.png</image>
+		<video>./snap/frenzy.mp4</video>
+		<marquee>./wheel/frenzy.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Stern Electronics</publisher>
+		<genre>Action / Labyrinth-Shooter Small-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5B956DC4F880A4AA8C5F3E9F330DF83C</cheevosHash>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
+
+Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
+
+As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/mario.png</image>
+		<video>./snap/mario.mp4</video>
+		<marquee>./wheel/mario.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
+		<cheevosId>11946</cheevosId>
+	</game>
+	<game>
+		<path>./polepos.zip</path>
+		<name>Pole Position</name>
+		<desc>Pole Position is a 1-player game using a color raster-scan video display. Game action takes place at the Fuji Speedway in Japan. The country around the speedway consists of green meadows, hills, and snow-capped Mt. Fuji. 
+
+The player drives a Formula-1 race car on the track. The first objective of the game is to finish the qualifying lap as quickly as possible. If the player beats the clock, he or she qualifies for the race. If not, he or she drives out the remainder of the time along the qualifying course.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/polepos.png</image>
+		<video>./snap/polepos.mp4</video>
+		<marquee>./wheel/polepos.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>533DA8752E25D2C54038A92326FAB23C</cheevosHash>
+	</game>
+	<game>
+		<path>./szaxxon.zip</path>
+		<name>Super Zaxxon</name>
+		<desc>Super Zaxxon is a 1- or 2-player video game that presents the player with tremendous challenge and excitement never before experienced. The 3-dimensional-like, isometric graphics are produced by projecting the picture at a slant on the screen, putting the player in remote controlled realism with his player ship.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/szaxxon.png</image>
+		<video>./snap/szaxxon.mp4</video>
+		<marquee>./wheel/szaxxon.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Diagonal</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F92E43B7EABDFBC4305C491A3018A004</cheevosHash>
 	</game>
 </gameList>

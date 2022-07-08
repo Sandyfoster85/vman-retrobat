@@ -936,27 +936,6 @@ Also noteworthy are Dark Wizard's long animated cutscenes with spoken dialogues 
 		<cheevosHash>6A480004891AE5D942E62AFDBBBD1B52</cheevosHash>
 	</game>
 	<game>
-		<path>./Demolition Man (USA).chd</path>
-		<name>Demolition Man</name>
-		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
-
-Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
-
-The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</desc>
-		<image>./mixart/Demolition Man (USA).png</image>
-		<video>./snap/Demolition Man (USA).mp4</video>
-		<marquee>./wheel/Demolition Man (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950000T000000</releasedate>
-		<developer>Alexandria, Inc.</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E8A591459675BC15793B36847491C194</cheevosHash>
-	</game>
-	<game>
 		<path>./Double Switch (USA).chd</path>
 		<name>Double Switch</name>
 		<desc>Double Switch is one of Digital Pictures' many full-motion video games from the mid 90s.  In this "cinematic mystery" you must watch your serveilance cameras in order to trap intruders in the Edward Arms mansion.
@@ -1250,20 +1229,6 @@ Fatal Fury Special still features the series' trademark pseudo-3D movement along
 		<players>2</players>
 		<cheevosHash>26AE70CCE7A0E7F4B2B2E9EDB78A399C</cheevosHash>
 		<cheevosId>10070</cheevosId>
-	</game>
-	<game>
-		<path>./Flashback - The Quest for Identity (USA).chd</path>
-		<name>Flashback - The Quest for Identity (USA)</name>
-		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
-		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9E622C639D62CEBD0A027FF788FB820D</cheevosHash>
-		<cheevosId>15557</cheevosId>
 	</game>
 	<game>
 		<path>./Flink (USA).chd</path>
@@ -1827,24 +1792,6 @@ Mortal Kombat began its life as a 2-player arcade title. It is notable for its u
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<cheevosHash>8710429CA1C98C1F6A079497BBF09295</cheevosHash>
-	</game>
-	<game>
-		<path>./Night Trap (USA) (Disc 1).cue</path>
-		<name>Night Trap (Disc 1)</name>
-		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
-
-Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Night Trap (USA) (Disc 1).png</image>
-		<video>./snap/Night Trap (USA) (Disc 1).mp4</video>
-		<marquee>./wheel/Night Trap (USA) (Disc 1).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19911231T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-		<cheevosHash>3110D9F656697ADB3CBF5F1CB0D77E6F</cheevosHash>
 	</game>
 	<game>
 		<path>./Night Trap (USA) (Disc 2).cue</path>
@@ -3170,5 +3117,58 @@ Between levels, the game shows small digitized clips from the film that advance 
 		<region>us</region>
 		<cheevosHash>4B64F8013A066FEB347C427778013947</cheevosHash>
 		<cheevosId>10071</cheevosId>
+	</game>
+	<game>
+		<path>./Night Trap (USA) (Disc 1).cue</path>
+		<name>Night Trap (Disc 1)</name>
+		<desc>Five girls go to a party to a nice house on a lakeside. Five girls disappear without a trace... Now another five girls go there, in order to spend the vacation with the Martins, the owners of the house, in particular with the lovely Ms. Martin. This time, you should not let them die a gruesome death! Because "nice people" can sometimes turn out to be... yes, that's right - vampires. The whole house is full of traps, that are intended to catch the poor innocent girls, so that the vampires can suck their blood... ugh. Luckily, the brave adventurer is there in order to cease to be hunted and to become a hunter instead! Set the traps so that they will capture the villains themselves, using precise timing and good organization.
+
+Night Trap was the very first game that used the FMV (full-motion video) technology with live actors. Although it didn't contain nudity or particularly gory scenes, it was considered one of the first games to have a mature content.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Night Trap (USA) (Disc 1).png</image>
+		<video>./snap/Night Trap (USA) (Disc 1).mp4</video>
+		<marquee>./wheel/Night Trap (USA) (Disc 1).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19911231T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<cheevosHash>3110D9F656697ADB3CBF5F1CB0D77E6F</cheevosHash>
+	</game>
+	<game>
+		<path>./Demolition Man (USA).chd</path>
+		<name>Demolition Man</name>
+		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
+
+Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
+
+The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</desc>
+		<image>./mixart/Demolition Man (USA).png</image>
+		<video>./snap/Demolition Man (USA).mp4</video>
+		<marquee>./wheel/Demolition Man (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950000T000000</releasedate>
+		<developer>Alexandria, Inc.</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E8A591459675BC15793B36847491C194</cheevosHash>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity (USA).chd</path>
+		<name>Flashback - The Quest for Identity (USA)</name>
+		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
+		<video>./snap/Flashback - The Quest for Identity (USA).mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9E622C639D62CEBD0A027FF788FB820D</cheevosHash>
+		<cheevosId>15557</cheevosId>
 	</game>
 </gameList>

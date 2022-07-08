@@ -1124,22 +1124,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./1942 Joint Strike.m3u</path>
-		<name>1942 Joint Strike</name>
-		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
-		<image>./mixart/1942 Joint Strike.png</image>
-		<video>./snap/1942 Joint Strike.mp4</video>
-		<marquee>./wheel/1942 Joint Strike.png</marquee>
-		<rating>0.69</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Daytona USA.m3u</path>
 		<name>Daytona USA</name>
@@ -1358,22 +1342,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./God of War Collection.m3u</path>
-		<name>God of War Collection</name>
-		<desc>A must-have for action/adventure fans on the PlayStation 3 platform, the God of War Collection features both PlayStation 2 single player classics, God of War and God of War II. Remastered in high definition and re-released for play on the PS3 this collection allows both longtime fans of the series and those coming to it new to indulge in the addictive action and puzzle-solving fun of taking on the gods ruling the world of ancient Greek mythology. The God of War series, made up of God of War and God of War II, featuring the brutal yet tortured anti-hero Kratos, engrossing storylines based in Greek mythology, over-the-top addictive action and puzzle-solving gameplay and simple controls is often referred to as one of the best, and/or most popular single player action games series ever made for PlayStation 2.</desc>
-		<image>./mixart/God of War Collection.png</image>
-		<video>./snap/God of War Collection.mp4</video>
-		<marquee>./wheel/God of War Collection.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20091125T000000</releasedate>
-		<developer>Santa Monica Studio</developer>
-		<publisher>Sony</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./LittleBigPlanet - Game of the Year Edition.m3u</path>
 		<name>LittleBigPlanet - Game of the Year Edition</name>
 		<desc>LittleBigPlanet is a community-based game that allows players to PLAY, CREATE and SHARE. There are developer and user-generated levels to explore and PLAY, a huge host of materials, tools, stickers and more to CREATE, and a robust set of online features for the community to SHARE with each other via PlayStation Network. The LittleBigPlanet experience starts with players learning about their character's powers to interact physically with the environment. There are obstacles to explore, bits and pieces to collect and puzzles to solve – requiring a combination of brains and collaborative teamwork.</desc>
@@ -1404,23 +1372,6 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./NHL Legacy Edition (USA) (En,Fr).m3u</path>
-		<name>NHL Legacy Edition</name>
-		<desc>EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix on PlayStation 3.</desc>
-		<image>./mixart/NHL Legacy Edition.png</image>
-		<video>./snap/NHL Legacy Edition.mp4</video>
-		<marquee>./wheel/NHL Legacy Edition.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20151125T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports, Hockey</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en,fr</lang>
-		<region>eu</region>
 	</game>
 	<game>
 		<path>./NovaStrike.m3u</path>
@@ -1745,22 +1696,6 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="26419" source="ScreenScraper.fr">
-		<path>./OutRun Online Arcade.m3u</path>
-		<name>OutRun Online Arcade</name>
-		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
-		<image>./mixart/OutRun Online Arcade.png</image>
-		<video>./snap/OutRun Online Arcade.mp4</video>
-		<marquee>./wheel/OutRun Online Arcade.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090416T000000</releasedate>
-		<developer>Sumo Digital</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Legasista.m3u</path>
 		<name>Legasista</name>
@@ -1935,5 +1870,70 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NHL Legacy Edition (USA) (En,Fr).m3u</path>
+		<name>NHL Legacy Edition</name>
+		<desc>EA SPORTS NHL Legacy Edition brings together the most popular modes and award-winning gameplay features from nine years of NHL hockey. Featuring updated rosters and authentic schedules, it’s the perfect experience for fans looking to get that complete hockey fix on PlayStation 3.</desc>
+		<image>./mixart/NHL Legacy Edition.png</image>
+		<video>./snap/NHL Legacy Edition.mp4</video>
+		<marquee>./wheel/NHL Legacy Edition.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20151125T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports, Hockey</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="26419" source="ScreenScraper.fr">
+		<path>./OutRun Online Arcade.m3u</path>
+		<name>OutRun Online Arcade</name>
+		<desc>Experience the mayhem and action as you race and rediscover 15 challenging courses. Test your time, speed and handling ability as you bring your next-gen skills online with this coin-op classic. Feel the kick as you put your foot to the floor in one of 10 high-performance Ferrari cars racing your way across the U.S. From the steep streets of San Francisco to the beautiful beaches of California, it's mile after mile of unrelenting acceleration, thrills and action.</desc>
+		<image>./mixart/OutRun Online Arcade.png</image>
+		<video>./snap/OutRun Online Arcade.mp4</video>
+		<marquee>./wheel/OutRun Online Arcade.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090416T000000</releasedate>
+		<developer>Sumo Digital</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./God of War Collection.m3u</path>
+		<name>God of War Collection</name>
+		<desc>A must-have for action/adventure fans on the PlayStation 3 platform, the God of War Collection features both PlayStation 2 single player classics, God of War and God of War II. Remastered in high definition and re-released for play on the PS3 this collection allows both longtime fans of the series and those coming to it new to indulge in the addictive action and puzzle-solving fun of taking on the gods ruling the world of ancient Greek mythology. The God of War series, made up of God of War and God of War II, featuring the brutal yet tortured anti-hero Kratos, engrossing storylines based in Greek mythology, over-the-top addictive action and puzzle-solving gameplay and simple controls is often referred to as one of the best, and/or most popular single player action games series ever made for PlayStation 2.</desc>
+		<image>./mixart/God of War Collection.png</image>
+		<video>./snap/God of War Collection.mp4</video>
+		<marquee>./wheel/God of War Collection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20091125T000000</releasedate>
+		<developer>Santa Monica Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

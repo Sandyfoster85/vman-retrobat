@@ -1495,21 +1495,6 @@ Sound: Russ Haft</desc>
 		<releasedate />
 	</game>
 	<game>
-		<path>./4-TRIS (World).7z</path>
-		<name>4-TRIS</name>
-		<desc>Tetraminoes are pieces created from 4 blocks joined together into 7 different patterns. By rotating them, you can position the pieces as they are falling so they fill open spaces. When an entire horizontal line fills with the pieces, the line clears and you are on your way to higher levels!
-Blocks will fall from the top of the screen towards the bottom. Arrange the pieces so that a row is completely filled by the blocks. Failing to do so will fill up the screen making it more and more difficult to clear rows. A cleared row will disappear giving you points and making game play easier.</desc>
-		<image>./mixart/4-TRIS (World).png</image>
-		<video>./snap/4-TRIS (World).mp4</video>
-		<marquee>./wheel/4-TRIS (World).png</marquee>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Joseph Zbiciak</developer>
-		<publisher>independent</publisher>
-		<genre>Puzzle</genre>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./ABPA Backgammon (World).7z</path>
 		<name>ABPA Backgammon</name>
 		<desc>Intellivision Backgammon is identical with the board game. Backgammon is a game played by two players (the computer can be one of the players). Each player has 15 pieces. The object of the game is to be the first to move all your pieces completely around and finally off the board. Moving your pieces off the board is called "bearing off". The first player to bear off all his pieces is the winner. Each player moves in a direction beginning from his opponent's Home Table and coming around to his own Home Table. Thus one player always moves clockwise and the other always counterclockwise. You can play against the computer at two skill levels - one for beginners or intermediate, another for experts - or two players can compete against each other. It displays the American Backgammon Players Association (ABPA) logo.</desc>
@@ -1850,6 +1835,21 @@ Congo Bongo. Straight from the arcade and into your home. It's more fun than a b
 		<video>./snap/Deep Pockets - Super Pro Pool and Billiards (World).mp4</video>
 		<marquee>./wheel/Deep Pockets - Super Pro Pool and Billiards (World).png</marquee>
 		<releasedate />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./4-TRIS (World).7z</path>
+		<name>4-TRIS</name>
+		<desc>Tetraminoes are pieces created from 4 blocks joined together into 7 different patterns. By rotating them, you can position the pieces as they are falling so they fill open spaces. When an entire horizontal line fills with the pieces, the line clears and you are on your way to higher levels!
+Blocks will fall from the top of the screen towards the bottom. Arrange the pieces so that a row is completely filled by the blocks. Failing to do so will fill up the screen making it more and more difficult to clear rows. A cleared row will disappear giving you points and making game play easier.</desc>
+		<image>./mixart/4-TRIS (World).png</image>
+		<video>./snap/4-TRIS (World).mp4</video>
+		<marquee>./wheel/4-TRIS (World).png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Joseph Zbiciak</developer>
+		<publisher>independent</publisher>
+		<genre>Puzzle</genre>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

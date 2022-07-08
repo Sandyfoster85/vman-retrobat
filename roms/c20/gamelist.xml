@@ -1,22 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="36275">
-		<path>./Avenger.prg</path>
-		<name>Avenger</name>
-		<desc>Avenger (or VIC Avenger as the Vic version is known as) is a Space Invaders variant. The player has to defend Earth from endless rows of attacking aliens. Flying saucers can be shot for extra points. Was later ported to the C64.</desc>
-		<image>./mixart/vic avenger.jpg</image>
-		<video>./snap/vic avenger.mp4</video>
-		<marquee>./wheel/Avenger-01.png</marquee>
-		<rating>0</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Commodore</developer>
-		<publisher>Commodore</publisher>
-		<genre>Action, Shooter / Space Invaders Like</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>644713c9de45ddfc3fce394d3b5c9630</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Bandits.prg</path>
 		<name>Bandits</name>
@@ -312,23 +295,6 @@ This version of the game has various options before and during play. You can cho
 		<genre>Shooter</genre>
 		<players>2</players>
 		<md5>d3e2719e73c293e176b59e329b646fc8</md5>
-		<lang>en</lang>
-	</game>
-	<game id="109606">
-		<path>./Attack of the Mutant Camels.prg</path>
-		<name>Attack of the Mutant Camels</name>
-		<desc>Attack of the Mutant Camels (better known as Matrix: Gridrunner 2 in Europe) is the sequel to Gridrunner. In this Centipede style game you play a retired captain of a starship, one of those who had won the previous war against aliens. You come out of retirement because the aliens are back, tougher than ever. Thus a second gridwar begins. You pilot your ship and shoot at chains of pods coming at you. As you hit the pods, they break into smaller independent chains. The aliens seem to have a sense of humor, though. Each pod in the chain coming at you looks like a...camel. Flying camels from outer space. As you start shooting the camels, you are attacked by guns from the bottom of the screen and from the left side of the screen. Even worse, a human traitor has joined the aliens, and when he appears on the screen, running across the grid on top, the guns get very accurate at shooting you. Luckily you can shoot traitors. Other twists include deflectors, which turn your bullets and even ricochet them back at you. The enemy fires back too. And as you advance in level, the enemy changes the direction of their attack. Not to be confused with Advance of the Megacamel which is also called Attack of the Mutant Camels in Europe.</desc>
-		<image>./mixart/attack of the mutant camels.jpg</image>
-		<video>./snap/attack of the mutant camels.mp4</video>
-		<marquee>./wheel/Attack of the Mutant Camels-marquee.png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Llamasoft</developer>
-		<publisher>HesWare</publisher>
-		<genre>Shoot'em Up, Shoot'em Up / Horizontal, Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>1a5074ebcc13d310679e8f63e946a733</md5>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2198,6 +2164,40 @@ To make things more difficult you have limited time in form of a fuel tank which
 		<genre>Shooter</genre>
 		<players>1</players>
 		<md5>1116d31f1cc510bff007e619aadebd28</md5>
+		<lang>en</lang>
+	</game>
+	<game id="36275">
+		<path>./Avenger.prg</path>
+		<name>Avenger</name>
+		<desc>Avenger (or VIC Avenger as the Vic version is known as) is a Space Invaders variant. The player has to defend Earth from endless rows of attacking aliens. Flying saucers can be shot for extra points. Was later ported to the C64.</desc>
+		<image>./mixart/vic avenger.jpg</image>
+		<video>./snap/vic avenger.mp4</video>
+		<marquee>./wheel/Avenger-01.png</marquee>
+		<rating>0</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Commodore</developer>
+		<publisher>Commodore</publisher>
+		<genre>Action, Shooter / Space Invaders Like</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>644713c9de45ddfc3fce394d3b5c9630</md5>
+		<lang>en</lang>
+	</game>
+	<game id="109606">
+		<path>./Attack of the Mutant Camels.prg</path>
+		<name>Attack of the Mutant Camels</name>
+		<desc>Attack of the Mutant Camels (better known as Matrix: Gridrunner 2 in Europe) is the sequel to Gridrunner. In this Centipede style game you play a retired captain of a starship, one of those who had won the previous war against aliens. You come out of retirement because the aliens are back, tougher than ever. Thus a second gridwar begins. You pilot your ship and shoot at chains of pods coming at you. As you hit the pods, they break into smaller independent chains. The aliens seem to have a sense of humor, though. Each pod in the chain coming at you looks like a...camel. Flying camels from outer space. As you start shooting the camels, you are attacked by guns from the bottom of the screen and from the left side of the screen. Even worse, a human traitor has joined the aliens, and when he appears on the screen, running across the grid on top, the guns get very accurate at shooting you. Luckily you can shoot traitors. Other twists include deflectors, which turn your bullets and even ricochet them back at you. The enemy fires back too. And as you advance in level, the enemy changes the direction of their attack. Not to be confused with Advance of the Megacamel which is also called Attack of the Mutant Camels in Europe.</desc>
+		<image>./mixart/attack of the mutant camels.jpg</image>
+		<video>./snap/attack of the mutant camels.mp4</video>
+		<marquee>./wheel/Attack of the Mutant Camels-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Llamasoft</developer>
+		<publisher>HesWare</publisher>
+		<genre>Shoot'em Up, Shoot'em Up / Horizontal, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>1a5074ebcc13d310679e8f63e946a733</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

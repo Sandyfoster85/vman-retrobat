@@ -1150,45 +1150,6 @@ There are emotion icons in the game and by touching these icons your player will
 		<cheevosHash>9AAB75984B06C21ED8E6214474D3A68E</cheevosHash>
 		<cheevosId>17872</cheevosId>
 	</game>
-	<game>
-		<path>./Vampire Killer (Japan, Europe).zip</path>
-		<name>Akumajyo Drakyula</name>
-		<desc>You are young Simon, who has just entered Dracula's Satanic Castle.
-The world of Dransylvania is in trouble, and you are the one to set it right. You have to fight your way through 18 stages of demons to where Dracula is hiding. Once you have destroyed Dracula, the evil force behind all the trouble will show up, attempting to destroy you! Destroy this menace, and Dransylvania will return to it's happy days after a wait of hundreds of years.
-
-Vampire Killer follows the same plot as Castlevania, but with a different gameplay. At each stage, Simon has to find a white key to open the exit door which leads to the next stage. The keys are usually hidden in the castle's walls, in which he will also find useful items. Items can also be found by whipping candles and other sources of light inside the castle.
-
-Among the items which can be found are:
-Gold Cross: wipes out all enemies;
-Silver Cross: prevent enemies from appearing for a short time;
-Sapphire Ring: renders Simon invincible for a short time;
-Blue Crystal: renders Simon invisible for a short time;
-Yellow Key: is used to open chests containing items;
-Candle: highlights destructible walls; 
-Map: can be used up to three times and shows Simon location n the castle;
-Red Book: increases item's prices;
-White Book: decreases item's prices
-Tan Shield: blocks enemy attacks;
-Red Shield: reduces damage upon enemy contact;
-Boots: make Simon walk faster;
-Wings: make Simon jump higher;
-Holy Water: a secondary weapon, which uses hearts as ammunition;
-Hourglass: stops enemy movement for a short time, consuming hearts.
-Hearts are both a kind of ammunition and currency in the game. They can be found by whipping candles or killing enemies. They are used for buying items from the Old Crone and as ammo for the Holy Water and the Hourglass.
-
-Simon can also find several primary weapons in the game, such as whip upgrades, a throwing dagger, an axe and a cross. Differently from Castlevania, the dagger, axe and cross replace the whip and do not use hearts as ammo.</desc>
-		<image>./mixart/Vampire Killer (Japan, Europe).png</image>
-		<video>./snap/Vampire Killer (Japan, Europe).mp4</video>
-		<marquee>./wheel/Vampire Killer (Japan, Europe).png</marquee>
-		<rating>1</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<lang>jp</lang>
-		<region>eu</region>
-		<cheevosHash>92BA9DAB3C7A4AC6C8A130F6CCBAC91C</cheevosHash>
-		<cheevosId>3289</cheevosId>
-	</game>
 	<game id="95783" source="ScreenScraper.fr">
 		<path>./Video Hustler (Japan).zip</path>
 		<name>Video Hustler</name>
@@ -1646,5 +1607,44 @@ Unlike Aleste 1, you are not controlling a spaceship, but instead you're control
 		<region>jp</region>
 		<cheevosHash>7087B51F3CCFDF314CE60D5D8AAF644A</cheevosHash>
 		<cheevosId>7578</cheevosId>
+	</game>
+	<game>
+		<path>./Vampire Killer (Japan, Europe).zip</path>
+		<name>Akumajyo Drakyula</name>
+		<desc>You are young Simon, who has just entered Dracula's Satanic Castle.
+The world of Dransylvania is in trouble, and you are the one to set it right. You have to fight your way through 18 stages of demons to where Dracula is hiding. Once you have destroyed Dracula, the evil force behind all the trouble will show up, attempting to destroy you! Destroy this menace, and Dransylvania will return to it's happy days after a wait of hundreds of years.
+
+Vampire Killer follows the same plot as Castlevania, but with a different gameplay. At each stage, Simon has to find a white key to open the exit door which leads to the next stage. The keys are usually hidden in the castle's walls, in which he will also find useful items. Items can also be found by whipping candles and other sources of light inside the castle.
+
+Among the items which can be found are:
+Gold Cross: wipes out all enemies;
+Silver Cross: prevent enemies from appearing for a short time;
+Sapphire Ring: renders Simon invincible for a short time;
+Blue Crystal: renders Simon invisible for a short time;
+Yellow Key: is used to open chests containing items;
+Candle: highlights destructible walls; 
+Map: can be used up to three times and shows Simon location n the castle;
+Red Book: increases item's prices;
+White Book: decreases item's prices
+Tan Shield: blocks enemy attacks;
+Red Shield: reduces damage upon enemy contact;
+Boots: make Simon walk faster;
+Wings: make Simon jump higher;
+Holy Water: a secondary weapon, which uses hearts as ammunition;
+Hourglass: stops enemy movement for a short time, consuming hearts.
+Hearts are both a kind of ammunition and currency in the game. They can be found by whipping candles or killing enemies. They are used for buying items from the Old Crone and as ammo for the Holy Water and the Hourglass.
+
+Simon can also find several primary weapons in the game, such as whip upgrades, a throwing dagger, an axe and a cross. Differently from Castlevania, the dagger, axe and cross replace the whip and do not use hearts as ammo.</desc>
+		<image>./mixart/Vampire Killer (Japan, Europe).png</image>
+		<video>./snap/Vampire Killer (Japan, Europe).mp4</video>
+		<marquee>./wheel/Vampire Killer (Japan, Europe).png</marquee>
+		<rating>1</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<lang>jp</lang>
+		<region>eu</region>
+		<cheevosHash>92BA9DAB3C7A4AC6C8A130F6CCBAC91C</cheevosHash>
+		<cheevosId>3289</cheevosId>
 	</game>
 </gameList>

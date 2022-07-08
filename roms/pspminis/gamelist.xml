@@ -3987,21 +3987,6 @@ Players can enjoy the following four different game modes:
 		<genre>Shoot'em Up</genre>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Angry Birds.cso</path>
-		<name>Angry Birds</name>
-		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
-		<image>./mixart/Angry Birds.png</image>
-		<video>./snap/Angry Birds.mp4</video>
-		<marquee>./wheel/Angry Birds.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20110112T000000</releasedate>
-		<developer>Rovio Mobile</developer>
-		<publisher>Chillingo</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="28748" source="ScreenScraper.fr">
 		<path>./Space Shooter for Two Bucks!, A.cso</path>
 		<name>A Space Shooter For Two Bucks!</name>
@@ -4157,11 +4142,26 @@ The unique built-in game editor offers unlimited level design possibilities; you
 		<image>./mixart/Bashi Blocks.png</image>
 		<video>./snap/Bashi Blocks.mp4</video>
 		<marquee>./wheel/Bashi Blocks.png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Icon Games</developer>
 		<publisher>Icon Games</publisher>
 		<genre>Action</genre>
 		<players>2</players>
 		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Angry Birds.cso</path>
+		<name>Angry Birds</name>
+		<desc>The survival of the Angry Birds is at stake. Dish out revenge on the green pigs who stole the Birds' eggs. Use the unique destructive powers of the Angry Birds to lay waste to the pigs' fortified castles. Angry Birds features hours of gameplay, challenging physics-based castle demolition, and lots of replay value. Each of the 63 levels requires logic, skill, and brute force to crush the enemy.</desc>
+		<image>./mixart/Angry Birds.png</image>
+		<video>./snap/Angry Birds.mp4</video>
+		<marquee>./wheel/Angry Birds.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20110112T000000</releasedate>
+		<developer>Rovio Mobile</developer>
+		<publisher>Chillingo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

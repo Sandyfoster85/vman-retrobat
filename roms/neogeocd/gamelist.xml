@@ -769,24 +769,6 @@
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Ironclad (World).chd</path>
-		<name>Ironclad</name>
-		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
-		<image>./mixart/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</image>
-		<video>./snap/Ironclad (World).mp4</video>
-		<marquee>./wheel/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960920T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="38365" source="ScreenScraper.fr">
 		<path>./Kabuki Klash (World).chd</path>
 		<name>Far East Of Eden - Kabuki Klash</name>
@@ -1788,6 +1770,24 @@
 		<publisher>SNK</publisher>
 		<genre>Sports / Soccer-Sports</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Ironclad (World).chd</path>
+		<name>Ironclad</name>
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<image>./mixart/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</image>
+		<video>./snap/Ironclad (World).mp4</video>
+		<marquee>./wheel/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

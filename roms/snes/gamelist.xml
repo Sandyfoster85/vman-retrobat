@@ -4828,20 +4828,6 @@ The levels move from left to right but on several different vertical levels, and
 		<players>2</players>
 		<cheevosHash>3838BA14B7C686C9F4DA9A0DA6F48C11</cheevosHash>
 	</game>
-	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
-		<cheevosId>12825</cheevosId>
-	</game>
 	<game id="2489" source="ScreenScraper.fr">
 		<path>./Hyper V-Ball (USA).7z</path>
 		<name>Hyper V-Ball</name>
@@ -7893,22 +7879,6 @@ There are three modes of play to choose from: two Practice modes, one which show
 		<cheevosId>1293</cheevosId>
 	</game>
 	<game>
-		<path>./New Super Mario Land.7z</path>
-		<name>'H'New Super Mario Land</name>
-		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<image>./mixart/New Super Mario Land.png</image>
-		<video>./snap/New Super Mario Land.mp4</video>
-		<marquee>./wheel/New Super Mario Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
-		<cheevosId>1234</cheevosId>
-	</game>
-	<game>
 		<path>./New Super Mario World 2 Around The World.7z</path>
 		<name>'H'New Super Mario World 2 Around The World</name>
 		<desc>New Super Mario World 2 Around The World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -8164,30 +8134,6 @@ Before each race you can customize wing downforce, gear ratio, tyre selection an
 		<region>us</region>
 		<cheevosHash>EAEADF3718805132AC2348C6BC093563</cheevosHash>
 		<cheevosId>1069</cheevosId>
-	</game>
-	<game>
-		<path>./Ninja Gaiden Trilogy (USA).7z</path>
-		<name>Ninja Gaiden Trilogy</name>
-		<desc>Ninja Gaiden Trilogy is a compilation of the three games in the series previously released for the NES:
-
-1. Ninja Gaiden
-2. Ninja Gaiden II: The Dark Sword of Chaos
-2. Ninja Gaiden III: The Ancient Ship of Doom
-
-All three games tell the story of ninja Ryu Hayabusa through alternating cinematic cutscenes and levels of 2D side-scrolling action.  The graphics and sound are essentially the same as in the originals, but enhanced for the SNES.</desc>
-		<image>./mixart/Ninja Gaiden Trilogy (USA).png</image>
-		<video>./snap/Ninja Gaiden Trilogy (USA).mp4</video>
-		<marquee>./wheel/Ninja Gaiden Trilogy (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950810T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform-Compilation-Action-Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
-		<cheevosId>498</cheevosId>
 	</game>
 	<game id="2377" source="ScreenScraper.fr">
 		<path>./Ninja Warriors, The (USA).7z</path>
@@ -15175,5 +15121,59 @@ In addition to the power-ups listed above, fruity bubblegum can also be found. O
 		<genre>Platform-Action</genre>
 		<players>2</players>
 		<cheevosHash>665F1A4A60EE1F70FEF1CDE6D028FE4F</cheevosHash>
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
+		<cheevosId>12825</cheevosId>
+	</game>
+	<game>
+		<path>./New Super Mario Land.7z</path>
+		<name>'H'New Super Mario Land</name>
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/New Super Mario Land.png</image>
+		<video>./snap/New Super Mario Land.mp4</video>
+		<marquee>./wheel/New Super Mario Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
+		<cheevosId>1234</cheevosId>
+	</game>
+	<game>
+		<path>./Ninja Gaiden Trilogy (USA).7z</path>
+		<name>Ninja Gaiden Trilogy</name>
+		<desc>Ninja Gaiden Trilogy is a compilation of the three games in the series previously released for the NES:
+
+1. Ninja Gaiden
+2. Ninja Gaiden II: The Dark Sword of Chaos
+2. Ninja Gaiden III: The Ancient Ship of Doom
+
+All three games tell the story of ninja Ryu Hayabusa through alternating cinematic cutscenes and levels of 2D side-scrolling action.  The graphics and sound are essentially the same as in the originals, but enhanced for the SNES.</desc>
+		<image>./mixart/Ninja Gaiden Trilogy (USA).png</image>
+		<video>./snap/Ninja Gaiden Trilogy (USA).mp4</video>
+		<marquee>./wheel/Ninja Gaiden Trilogy (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950810T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform-Compilation-Action-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
+		<cheevosId>498</cheevosId>
 	</game>
 </gameList>

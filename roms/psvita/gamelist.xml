@@ -35,11 +35,6 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<md5>74e57dcb2819bedc0ab45269318acc4d</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Dreii.cmd</path>
-		<name>Dreii</name>
-		<md5>f97d1806595d0d5f8c623f43a8cf4423</md5>
-	</game>
 	<game id="29958">
 		<path>./Foosball 2012.cmd</path>
 		<name>Foosball 2012</name>
@@ -50,11 +45,6 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<genre>Sports</genre>
 		<md5>ba95461b9e526e9862b291eced247e33</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Home - A Unique Horror Adventure.cmd</path>
-		<name>Home - A Unique Horror Adventure</name>
-		<md5>8b03ee83ff441d7836d6d8904ab6744d</md5>
 	</game>
 	<game id="29941">
 		<path>./Hungry Giraffe.cmd</path>
@@ -329,21 +319,6 @@ Some functions and features may not be available on PlayStation TV.</desc>
 		<players>1</players>
 		<md5>7ebcbcb2fcf83278b3d8b36f115288f3</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Asphalt - Injection.cmd</path>
-		<name>Asphalt Injection</name>
-		<desc>Asphalt: Injection is a racing game for the PlayStation Vita developed by Gameloft and released in December 2011. Gameplay[edit] The game contain three main gameplay modes. The "Career" mode allows the player to unlock tracks, cars and upgrades. In "Free Play", the player can play with previously unlocked tracks and vehicles. The "Multiplayer" mode gives the player the ability to play against others online. The game includes 52 licensed cars, 20 career classes and 15 race tracks from the Android version of Asphalt 6: Adrenaline.[citation needed] Although the previous game Asphalt 3D has 17 tracks from the Android version of Asphalt 5.</desc>
-		<image>./mixart/Asphalt Injection.jpg</image>
-		<video>./snap/Asphalt Injection.mp4</video>
-		<marquee>./wheel/Asphalt Injection.png</marquee>
-		<rating>7.85</rating>
-		<releasedate>20111217T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 	</game>
 	<game>
 		<path>./Assassin's Creed Chronicles.cmd</path>
@@ -1239,11 +1214,6 @@ Genre(s): Strategy</desc>
 		<md5>5f42d3d0a52363533d267d6807e04de0</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Dreamwalker (3.61+!) [3.69].cmd</path>
-		<name>Dreamwalker (3.61+!) [3.69]</name>
-		<md5>09d6db871e2b23d75e878fb786eb7afa</md5>
-	</game>
 	<game id="29722">
 		<path>./Duke Nukem 3D - Megaton Edition.cmd</path>
 		<name>Duke Nukem 3D : Megaton Edition</name>
@@ -1373,6 +1343,40 @@ Most of the stages consist of run and gun and platforming gameplay, with several
 		<genre>Puzzle-Game</genre>
 		<players>1</players>
 		<md5>75eb87148fde8c3b9e3bb1560f2c420c</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dreamwalker (3.61+!) [3.69].cmd</path>
+		<name>Dreamwalker (3.61+!) [3.69]</name>
+		<md5>09d6db871e2b23d75e878fb786eb7afa</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dreii.cmd</path>
+		<name>Dreii</name>
+		<md5>f97d1806595d0d5f8c623f43a8cf4423</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Home - A Unique Horror Adventure.cmd</path>
+		<name>Home - A Unique Horror Adventure</name>
+		<md5>8b03ee83ff441d7836d6d8904ab6744d</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Asphalt - Injection.cmd</path>
+		<name>Asphalt Injection</name>
+		<desc>Asphalt: Injection is a racing game for the PlayStation Vita developed by Gameloft and released in December 2011. Gameplay[edit] The game contain three main gameplay modes. The "Career" mode allows the player to unlock tracks, cars and upgrades. In "Free Play", the player can play with previously unlocked tracks and vehicles. The "Multiplayer" mode gives the player the ability to play against others online. The game includes 52 licensed cars, 20 career classes and 15 race tracks from the Android version of Asphalt 6: Adrenaline.[citation needed] Although the previous game Asphalt 3D has 17 tracks from the Android version of Asphalt 5.</desc>
+		<image>./mixart/Asphalt Injection.jpg</image>
+		<video>./snap/Asphalt Injection.mp4</video>
+		<marquee>./wheel/Asphalt Injection.png</marquee>
+		<rating>7.85</rating>
+		<releasedate>20111217T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

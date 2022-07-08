@@ -421,38 +421,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Goldeneye XBLA.lnk</path>
-		<name>'H'GoldenEye 007 XBLA</name>
-		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
-		<image>./mixart/Goldeneye XBLA.png</image>
-		<video>./snap/Goldeneye XBLA.mp4</video>
-		<marquee>./wheel/Goldeneye XBLA.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210825T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Xbox/Nintendo</publisher>
-		<genre>Action-Shooter-Shooter / 1st person</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./AM2R.lnk</path>
-		<name>'H'AM2R Another Metroid 2 Remake</name>
-		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
-		<image>./mixart/AM2R.png</image>
-		<video>./snap/AM2R.mp4</video>
-		<marquee>./wheel/AM2R.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20160825T000000</releasedate>
-		<developer>DoctorM64</developer>
-		<publisher>DoctorM64</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Jazz Jackrabbit.lnk</path>
 		<name>Jazz Jackrabbit OpenJAZZ</name>
 		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
@@ -464,22 +432,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<developer>OpenSource</developer>
 		<publisher>OpenSource</publisher>
 		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Marble Madness II.lnk</path>
-		<name>Marble Man: Marble Madness II</name>
-		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
-		<image>./mixart/Marble Madness II.jpg</image>
-		<video>./snap/Marble Madness II.mp4</video>
-		<marquee>./wheel/Marble Madness II.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20220626T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Arcade, Pinball</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -573,6 +525,54 @@ NOTE: Requires keyboard to exit!</desc>
 		<publisher>Fanmade</publisher>
 		<genre>Beatem'up</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Goldeneye XBLA.lnk</path>
+		<name>'H'GoldenEye 007 XBLA</name>
+		<desc>**DX12 SUPPORTED VIDEO CARD REQUIRED - LONG BOOT IS NORMAL!**. After 13 years of it appearing briefly on Microsofts PartnerNet service, Goldeneye 007 XBLA on the Xbox 360 has leaked. The name is Bond. James Bond. The famous hero of Ian Fleming's novels returns in this first-person shooter, which is based on the movie of the same name. Agent 007 and his friend Alec Trevalyan (a.k.a. Agent 006) were sent to Soviet Union on a secret mission. But everything goes wrong, James Bond barely escapes, and his friend is presumed dead.  Ten years later, a mysterious organization named "Janus" appeared. Commanding a new satellite called "GoldenEye", the organizations attempts to steal money electronically from banks, deleting all evidence of transfer. It's up to our Agent 007 to venture to Soviet Union once again, and to put an end to Janus' ambitions.  In this 3D action game, you control James Bond from a first-person perspective, using a variety of weapons (from knuckles to grenade launcher) to eliminate your foes. However, many parts require you to be careful, to stay unnoticed or to snipe guards from distance, since they will react to your presence and alarm their comrades. The game is divided into missions, and in some of them you'll have to perform other tasks besides killing your enemies: disarm bombs, take pictures of important evidence, or avoid killing scientists. The game features a multiplayer mode with a variety of options, and three difficulty levels.</desc>
+		<image>./mixart/Goldeneye XBLA.png</image>
+		<video>./snap/Goldeneye XBLA.mp4</video>
+		<marquee>./wheel/Goldeneye XBLA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210825T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Xbox/Nintendo</publisher>
+		<genre>Action-Shooter-Shooter / 1st person</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AM2R.lnk</path>
+		<name>'H'AM2R Another Metroid 2 Remake</name>
+		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
+		<image>./mixart/AM2R.png</image>
+		<video>./snap/AM2R.mp4</video>
+		<marquee>./wheel/AM2R.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160825T000000</releasedate>
+		<developer>DoctorM64</developer>
+		<publisher>DoctorM64</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marble Madness II.lnk</path>
+		<name>Marble Man: Marble Madness II</name>
+		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
+		<image>./mixart/Marble Madness II.jpg</image>
+		<video>./snap/Marble Madness II.mp4</video>
+		<marquee>./wheel/Marble Madness II.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20220626T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Arcade, Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

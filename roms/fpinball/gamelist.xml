@@ -2627,22 +2627,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./300 Maresa FULL HD.fpt</path>
-		<name>300 Maresa</name>
-		<desc>Flipper 300 Maresa FULL HD</desc>
-		<image>./mixart/300 Maresa FULL HD.png</image>
-		<video>./snap/300 Maresa FULL HD.mp4</video>
-		<marquee>./wheel/300 Maresa FULL HD.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Amigo.fpt</path>
 		<name>Amigo</name>
 		<desc>Flipper Amigo</desc>
@@ -4115,17 +4099,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Avatar Collector's Edition 1.05.fpt</path>
-		<name>Avatar Collector's Edition 1.05</name>
-		<desc>Flipper Avatar Collector's Edition</desc>
-		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
-		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
-		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Star Wars Jedi Version (Original) (2012) (1.2).fpt</path>
 		<name>Star Wars Jedi Version (Original) (2012) (1.2)</name>
 		<desc>Flipper Star Wars Jedi Version (Original) (2012) (1.2)</desc>
@@ -4315,22 +4288,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
-		<name>Star Wars DSA ULTIMATE Pro</name>
-		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
-		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
-		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
-		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./American Pinball FULL HD.fpt</path>
 		<name>American Pinball</name>
 		<desc>Flipper American Pinball FULL HD</desc>
@@ -4471,22 +4428,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Elvis Stern.fpt</path>
 		<name>Elvis Stern</name>
 		<desc>Flipper Elvis Stern</desc>
@@ -4540,6 +4481,65 @@
 		<releasedate>20210101T000000</releasedate>
 		<genre>Pinball</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Avatar Collector's Edition 1.05.fpt</path>
+		<name>Avatar Collector's Edition 1.05</name>
+		<desc>Flipper Avatar Collector's Edition</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro</name>
+		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
+		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./300 Maresa FULL HD.fpt</path>
+		<name>300 Maresa</name>
+		<desc>Flipper 300 Maresa FULL HD</desc>
+		<image>./mixart/300 Maresa FULL HD.png</image>
+		<video>./snap/300 Maresa FULL HD.mp4</video>
+		<marquee>./wheel/300 Maresa FULL HD.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -3225,22 +3225,6 @@
 		<developer>Madgear</developer>
 	</game>
 	<game>
-		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
-		<name>Bruce Lee Revenge of the Dragon</name>
-		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
-		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
-		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./TMNT Rescue-Palooza! v0.9.3.pak</path>
 		<name>Tmnt Rescue-palooza!</name>
 		<image>./mixart/TMNT Rescue-Palooza! v0.9.3.png</image>
@@ -3686,17 +3670,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ghouls'n Ghosts.pak</path>
-		<name>Ghouls N Ghosts</name>
-		<image>./mixart/Ghouls'n Ghosts.png</image>
-		<video>./snap/Ghouls'n Ghosts.mp4</video>
-		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
-		<rating>1</rating>
-		<releasedate>19700101T010000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Double Dragon SNK Final Edition.pak</path>
 		<name>Double Dragon Snk</name>
 		<image>./mixart/Double Dragon SNK Final Edition.png</image>
@@ -3847,6 +3820,33 @@
 		<marquee>./wheel/Beats of Fighting.png</marquee>
 		<rating>0.6</rating>
 		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
+		<name>Bruce Lee Revenge of the Dragon</name>
+		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
+		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ghouls'n Ghosts.pak</path>
+		<name>Ghouls N Ghosts</name>
+		<image>./mixart/Ghouls'n Ghosts.png</image>
+		<video>./snap/Ghouls'n Ghosts.mp4</video>
+		<marquee>./wheel/Ghouls'n Ghosts.png</marquee>
+		<rating>1</rating>
+		<releasedate>19700101T010000</releasedate>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

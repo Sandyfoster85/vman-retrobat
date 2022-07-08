@@ -8440,27 +8440,6 @@ Again, all games can be played in color on the GBC, or in black and white on the
 		<region>us</region>
 		<cheevosHash>A2D07E7DA188092C88EF6D9FD2E5EAA4</cheevosHash>
 	</game>
-	<game>
-		<path>./Metal Gear Solid (USA).7z</path>
-		<name>Metal Gear Solid</name>
-		<desc>Metal Gear Solid (original Japanese name: Metal Gear: Ghost Babel) for GameBoy Color is not the same game as the popular Playstation/PC installment of the series. It is not set within the storyline of Metal Gear series, but instead tells an unrelated episode featuring the same hero - special agent Solid Snake. A secret government project, codenamed "Babel", attempts to revive the Metal Gear project - development of a highly destructive mech weapon. But an organization known as Gindran Liberation Front hijacked the Metal Gear prototype, without which any further development would be useless. Solid Snake is sent to infiltrate Outer Heaven, a location not entirely unfamiliar to him, and to retrieve the prototype.
-
-The game is similar in style and gameplay to early Metal Gear games. It is viewed from top-down perspective, and its gameplay is mostly based on stealth. Snake has to sneak past the guards, using various tactics to distract them or to kill them silently. Weapons, gadgets, and moves are all similar to those used in the other Metal Gear Solid game. From time to time Snake will also encounter bosses whom he will have to defeat in order to proceed to the next area. Virtual Missions for Snake are also included in this release.</desc>
-		<image>./mixart/Metal Gear Solid (USA).png</image>
-		<video>./snap/Metal Gear Solid (USA).mp4</video>
-		<marquee>./wheel/Metal Gear Solid (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F6DD1B1E5747412B9E5F25376C972D5A</cheevosHash>
-		<cheevosId>520</cheevosId>
-	</game>
 	<game id="37170" source="ScreenScraper.fr">
 		<path>./Rampage - World Tour (USA, Europe).7z</path>
 		<name>Rampage World Tour</name>
@@ -8545,5 +8524,26 @@ The graphics are worth noting as they are of a unique, colorful "cartoon" flavor
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A31652B6D1E7FC647C4AF7B9DFE05FF5</cheevosHash>
+	</game>
+	<game>
+		<path>./Metal Gear Solid (USA).7z</path>
+		<name>Metal Gear Solid</name>
+		<desc>Metal Gear Solid (original Japanese name: Metal Gear: Ghost Babel) for GameBoy Color is not the same game as the popular Playstation/PC installment of the series. It is not set within the storyline of Metal Gear series, but instead tells an unrelated episode featuring the same hero - special agent Solid Snake. A secret government project, codenamed "Babel", attempts to revive the Metal Gear project - development of a highly destructive mech weapon. But an organization known as Gindran Liberation Front hijacked the Metal Gear prototype, without which any further development would be useless. Solid Snake is sent to infiltrate Outer Heaven, a location not entirely unfamiliar to him, and to retrieve the prototype.
+
+The game is similar in style and gameplay to early Metal Gear games. It is viewed from top-down perspective, and its gameplay is mostly based on stealth. Snake has to sneak past the guards, using various tactics to distract them or to kill them silently. Weapons, gadgets, and moves are all similar to those used in the other Metal Gear Solid game. From time to time Snake will also encounter bosses whom he will have to defeat in order to proceed to the next area. Virtual Missions for Snake are also included in this release.</desc>
+		<image>./mixart/Metal Gear Solid (USA).png</image>
+		<video>./snap/Metal Gear Solid (USA).mp4</video>
+		<marquee>./wheel/Metal Gear Solid (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F6DD1B1E5747412B9E5F25376C972D5A</cheevosHash>
+		<cheevosId>520</cheevosId>
 	</game>
 </gameList>
