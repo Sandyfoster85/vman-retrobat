@@ -2532,24 +2532,6 @@ The game features both overhead and 3D sections. In the overhead part, you must 
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Banshee (Europe) (En,Fr,De,Da).chd</path>
-		<name>Banshee</name>
-		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
-There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
-		<image>./mixart/Banshee (Europe) (En,Fr,De,Da).png</image>
-		<video>./snap/Banshee (Europe) (En,Fr,De,Da).mp4</video>
-		<marquee>./wheel/Banshee (Europe) (En,Fr,De,Da).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Pinball Illusions (Europe).chd</path>
 		<name>Pinball Illusions</name>
 		<desc>Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law &amp; Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas. New to this version is multi-ball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.</desc>
@@ -2616,6 +2598,24 @@ The game is largely non-linear, as most levels have multiple exits, and the game
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Banshee (Europe) (En,Fr,De,Da).chd</path>
+		<name>Banshee</name>
+		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
+There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
+		<image>./mixart/Banshee (Europe) (En,Fr,De,Da).png</image>
+		<video>./snap/Banshee (Europe) (En,Fr,De,Da).mp4</video>
+		<marquee>./wheel/Banshee (Europe) (En,Fr,De,Da).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>de,en,fr</lang>
 		<region>eu</region>
 	</game>
 </gameList>

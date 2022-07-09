@@ -527,23 +527,6 @@ Although it is a wrestling title, this game is structured a lot like a one-on-on
 		<cheevosHash>8456CAE9975BA6CB041C4EF2BE54B1A1</cheevosHash>
 	</game>
 	<game>
-		<path>./Zaxxon's Motherbase 2000 (Japan, USA).7z</path>
-		<name>Zaxxon's Motherbase 2000</name>
-		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
-
-Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element.  Your basic spacecraft has very little firepower, and can only sustain one hit.  To make matters worse, there are very few power-ups.  In order to survive, you have to jump on top of enemies and take control of their weapons systems.  This system allows for a large variety of player-controllable ships.</desc>
-		<image>./mixart/Zaxxon's Motherbase 2000 (Japan, USA).png</image>
-		<video>./snap/Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
-		<marquee>./wheel/Zaxxon's Motherbase 2000 (Japan, USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19950601T000000</releasedate>
-		<developer>CSK Research Institute Corp.</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<cheevosHash>BD32A5E46D0159DC88CB31EA4BD9D899</cheevosHash>
-	</game>
-	<game>
 		<path>./Virtua Fighter (Japan, USA).7z</path>
 		<name>Virtua Fighter</name>
 		<desc>Virtua Fighter was the first of it's kind:  A one-on-one fighting game featuring fully 3D environments and characters. The fighters and arenas are rendered in flat-shaded polygons. Unlike many fighting games, Virtua Fighter focuses on deep gameplay based on actual fighting styles, rather than outrageous special moves and story lines.
@@ -644,5 +627,24 @@ This game is played from a side-view with non-scrolling backgrounds. It has stro
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
+	</game>
+	<game>
+		<path>./Zaxxon's Motherbase 2000 (Japan, USA).7z</path>
+		<name>Zaxxon's Motherbase 2000</name>
+		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
+
+Although the basic goal of each of the 9 levels is to shoot everything without getting shot, the game has a strategic element.  Your basic spacecraft has very little firepower, and can only sustain one hit.  To make matters worse, there are very few power-ups.  In order to survive, you have to jump on top of enemies and take control of their weapons systems.  This system allows for a large variety of player-controllable ships.</desc>
+		<image>./mixart/Zaxxon's Motherbase 2000 (Japan, USA).png</image>
+		<video>./snap/Zaxxon's Motherbase 2000 (Japan, USA).mp4</video>
+		<marquee>./wheel/Zaxxon's Motherbase 2000 (Japan, USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950601T000000</releasedate>
+		<developer>CSK Research Institute Corp.</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>BD32A5E46D0159DC88CB31EA4BD9D899</cheevosHash>
 	</game>
 </gameList>

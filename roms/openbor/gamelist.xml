@@ -2750,15 +2750,6 @@
 		<players>1-3</players>
 	</game>
 	<game>
-		<path>./DOOM Ultra-Violence.pak</path>
-		<name>Doom Ultra Violence</name>
-		<image>./mixart/DOOM Ultra-Violence.png</image>
-		<video>./snap/DOOM Ultra-Violence.mp4</video>
-		<marquee>./wheel/DOOM Ultra-Violence.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T010000</releasedate>
-	</game>
-	<game>
 		<path>./elm.pak</path>
 		<name>Dreams Of Rage (nightmare On Elm Street)</name>
 		<desc>The man of your dreams is back and this time in, full on, 16-bit glory. Fight through an army of Freddy's past victims, hellish nightmares, and Krueger himself as one of the Dream Warriors. Do you have what it takes?</desc>
@@ -3848,5 +3839,14 @@
 		<releasedate>19700101T010000</releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DOOM Ultra-Violence.pak</path>
+		<name>Doom Ultra Violence</name>
+		<image>./mixart/DOOM Ultra-Violence.png</image>
+		<video>./snap/DOOM Ultra-Violence.mp4</video>
+		<marquee>./wheel/DOOM Ultra-Violence.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T010000</releasedate>
 	</game>
 </gameList>

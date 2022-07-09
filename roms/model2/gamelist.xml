@@ -447,22 +447,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<genreid>1536</genreid>
 	</game>
 	<game>
-		<path>./srallyc.zip</path>
-		<name>Sega Rally Championship</name>
-		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
-		<image>./mixart/srallyc.png</image>
-		<video>./snap/srallyc.mp4</video>
-		<marquee>./wheel/srallyc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./hotd.zip</path>
 		<name>House of the Dead</name>
 		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
@@ -508,6 +492,22 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./srallyc.zip</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
+		<image>./mixart/srallyc.png</image>
+		<video>./snap/srallyc.mp4</video>
+		<marquee>./wheel/srallyc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

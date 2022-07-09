@@ -18117,24 +18117,6 @@ This simulator gives you a simple end-on view of the table, the joystick control
 		<region>us</region>
 		<cheevosHash>22CEA57EFC556471D8ED4F131B56A048</cheevosHash>
 	</game>
-	<game id="40038">
-		<path>./ar_ninj.zip</path>
-		<name>Ninja Mission</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/ar_ninj.png</image>
-		<video>./snap/ar_ninj.mp4</video>
-		<marquee>./wheel/ar_ninj.png</marquee>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Arcadia Systems, Inc.</developer>
-		<publisher>Arcadia Systems</publisher>
-		<genre>Fight / 2D</genre>
-		<players>1</players>
-		<md5>afb0af2f672ec9b9ce4a22efe12742cf</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>C981062BCE12BEB7416FBD7395932CF5</cheevosHash>
-	</game>
 	<game id="60219">
 		<path>./ar_pm.zip</path>
 		<name>Pharaohs Match</name>
@@ -26867,33 +26849,6 @@ Dragon Breed also includes platforming elements. At certain points during a stag
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>34EADF9562D7BC5469CA219BFCE975EA</cheevosHash>
-	</game>
-	<game>
-		<path>./ddboy.zip</path>
-		<name>Dam Dam Boy</name>
-		<desc>Medal game published 26 years ago:
-
-Dam Dam Boy (c) 1995 Konami Co., Ltd.
-
-Medal game from Konami.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=120248&amp;o=2</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/ddboy.png</image>
-		<video>./snap/ddboy.mp4</video>
-		<marquee>./wheel/ddboy.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Basketball</genre>
-		<players>1</players>
-		<md5>c35c8eb048556d9dbe710c0b0564952d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A6BD441FCED74B5E9AFEAFA778542EA9</cheevosHash>
 	</game>
 	<game>
 		<path>./ddcrew2.zip</path>
@@ -38696,52 +38651,6 @@ Hirohiko Araki served as a consultant for the game and created exclusive pieces 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5BD20BB105BF0243FC2C492A152786E3</cheevosHash>
-	</game>
-	<game>
-		<path>./journey.zip</path>
-		<name>Journey</name>
-		<desc>The Play mode begins when either the 1-PLAYER or the 2-PLAYER START button is pressed. The Play mode ends when all of your performers have been eliminated. When this happens, GAME OVER is written across the center of the monitor screen.
-
-ON THE SCREEN: The game is made up of groups of 5 sequences for each rack. When play begins, all the performers run onto the screen and jump aboard their transport ship, the Scarab. The Scarab then lifts off and heads for a point in space that is at the center of a grouping of five planets. (The song that is played in the background during this scene is 'Lights'.) Each group member's instrument is on a different planet.
-
-At the beginning of each sequence, when a 2-PLAYER game has been selected, the game tells which player is up.</desc>
-		<image>./mixart/journey.png</image>
-		<video>./snap/journey.mp4</video>
-		<marquee>./wheel/journey.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>98DC0157E90A9B28306967D14BDD2F4F</cheevosHash>
-	</game>
-	<game>
-		<path>./joust.zip</path>
-		<name>Joust</name>
-		<desc>Joust is a platform-based action combat game for one or two-players (with the two-player game offering either team-up OR head-to-head combat; the first time arcade gamers were given this choice) in which each player controls a knight riding on the back of a flying ostrich. 
-
-The object of the game is to progress through platform-based levels by defeating groups of buzzard-riding enemy knights. This is achieved by 'jousting'; both enemy and player knights carry a lance and must fly around the level (actioned by repeatedly hitting the 'Flap' button) trying to oust rival knights from their steeds by ramming them with the lance. This can only be achieved if the attacking rider is above the enemy knight when the lance connects. A collision of equal elevations results in the two knights bouncing off each other, but if a player is lower than their enemy at the instant of contact, they themselves will be knocked from their steed and lose a life. 
-
-A defeated enemy will turn into an egg that falls to the bottom of the screen. This must be quickly collected by players as if the egg lands on a platform and isn't retrieved in time, it will eventually hatch into another enemy knight that must be defeated again. 
-
-Joust features three different types of enemy knights - Bounder, Hunter, and Shadow Lord - with each earning players different points values when defeated. A pterodactyl will appear after a predetermined time to hunt the players. 
-
-Accurately navigating the player Knights can be initially quite difficult as control is strongly affected by both gravity and inertia. Players can lose a life by either being knocked from their steed by an enemy knight, or by falling into the lava pit at the bottom of each level.</desc>
-		<image>./mixart/joust.png</image>
-		<video>./snap/joust.mp4</video>
-		<marquee>./wheel/joust.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Plateform / Run Jump-Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0E7217251D81ADFD48614DF6680043D4</cheevosHash>
 	</game>
 	<game>
 		<path>./joust2.zip</path>
@@ -52433,25 +52342,6 @@ Also, the game maintains the capacity to destroy some things of the fight zone.<
 		<cheevosHash>51C154BADFF32C72E9632AA3B3BDD92A</cheevosHash>
 	</game>
 	<game>
-		<path>./rdft2.zip</path>
-		<name>Raiden Fighters 2: Operation Hell Dive</name>
-		<desc>Raiden Fighters 2: Operation Hell Dive was produced by Seibu Kaihatsu in 1997. One of the best vertically scrolling shooters yet. This game is Raiden on horse steroids; there is no other way to describe this game. There are ten different ships, each with different weapon configurations, manuverabilities, and other attributes. The Raiden ship from Raiden II is also in this one, purple laser and all.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/rdft2.png</image>
-		<video>./snap/rdft2.mp4</video>
-		<marquee>./wheel/rdft2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Seibu Kaihatsu</developer>
-		<publisher>Fabtek</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7E552DADFC823D8E89BBBA3ED9E8CA29</cheevosHash>
-	</game>
-	<game>
 		<path>./reactor.zip</path>
 		<name>Reactor</name>
 		<desc>In Reactor, the player controls a space ship inside of a nuclear reactor which they are trying to stop from melting down. The reactor core at the center of the screen is surrounded by a deadly kill wall. Roaming throughout the available space are positrons, neutrinos, and photons, all of which will be trying to knock the player's ship into the wall. To survive, the player will need to knock all of these attacking particles into the kill wall to destroy them. As each level progresses, the reactor core will slowly grow in size, making less and less room for the ship to maneuver in. Eventually the reactor core will melt down; to prevent this, the player will need to destroy all of the particles before the time runs out. To help out, the ship starts the game with a limited number of decoys. When a decoy is placed on the screen, all of the particles will be attracted to it instead of the actual ship. If the player places the decoy close enough to the kill wall, this will make it easier to destroy the particles. Also inside the reactor are two sets of control rods (located on the left and right sides of the screen); If the player destroys an entire set of rods by knocking the particles into them, the reactor core will shrink down in size, giving the player more time to do battle. If both sets of rods are destroyed, the player earns an extra decoy.</desc>
@@ -56474,28 +56364,6 @@ Players could chose to race on any one of four courses: Africa, Asia, America an
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B396D70D8956004A448E0DCF649868E9</cheevosHash>
-	</game>
-	<game>
-		<path>./sharrier.zip</path>
-		<name>Space Harrier</name>
-		<desc>Space Harrier is a sprite-scaling 3D shoot-em-up set in the 'Fantasy Zone'; a surreal world composed of abstract structures and a checkerboard landscape. The game's enemies are as abstract as its setting; with creatures including prehistoric Mammoths, alien pods, giant mushrooms and, at the end of most stages, a huge, fireball-spitting Chinese Dragon.
-
-The player's on-screen counterpart carries a portable jetpack under his arm which allows him to fly. The player can also run along the ground to avoid overhead structures and enemies.
-
-In addition to its flight capability, the jetpack is also equipped with a laser, used to destroy both the game's many enemies as well as some (but not all) obstructions, such as the trees and floating rocks on the first stage.
-
-Space Harrier has a total of 18 stages, each with a boss fight at the end. Three exceptions are the bonus stages (5th and 12th) and the 18th stage, which is a 'boss rush' featuring some of the bosses encountered up to that point.</desc>
-		<image>./mixart/sharrier.png</image>
-		<video>./snap/sharrier.mp4</video>
-		<marquee>./wheel/sharrier.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Plane, 3rd person</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3548F065B58393D52A24761EE87937BF</cheevosHash>
 	</game>
 	<game>
 		<path>./shdancer.zip</path>
@@ -72897,5 +72765,139 @@ The player drives a Formula-1 race car on the track. The first objective of the 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>F92E43B7EABDFBC4305C491A3018A004</cheevosHash>
+	</game>
+	<game>
+		<path>./journey.zip</path>
+		<name>Journey</name>
+		<desc>The Play mode begins when either the 1-PLAYER or the 2-PLAYER START button is pressed. The Play mode ends when all of your performers have been eliminated. When this happens, GAME OVER is written across the center of the monitor screen.
+
+ON THE SCREEN: The game is made up of groups of 5 sequences for each rack. When play begins, all the performers run onto the screen and jump aboard their transport ship, the Scarab. The Scarab then lifts off and heads for a point in space that is at the center of a grouping of five planets. (The song that is played in the background during this scene is 'Lights'.) Each group member's instrument is on a different planet.
+
+At the beginning of each sequence, when a 2-PLAYER game has been selected, the game tells which player is up.</desc>
+		<image>./mixart/journey.png</image>
+		<video>./snap/journey.mp4</video>
+		<marquee>./wheel/journey.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>98DC0157E90A9B28306967D14BDD2F4F</cheevosHash>
+	</game>
+	<game id="40038">
+		<path>./ar_ninj.zip</path>
+		<name>Ninja Mission</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/ar_ninj.png</image>
+		<video>./snap/ar_ninj.mp4</video>
+		<marquee>./wheel/ar_ninj.png</marquee>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Arcadia Systems, Inc.</developer>
+		<publisher>Arcadia Systems</publisher>
+		<genre>Fight / 2D</genre>
+		<players>1</players>
+		<md5>afb0af2f672ec9b9ce4a22efe12742cf</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>C981062BCE12BEB7416FBD7395932CF5</cheevosHash>
+	</game>
+	<game>
+		<path>./ddboy.zip</path>
+		<name>Dam Dam Boy</name>
+		<desc>Medal game published 26 years ago:
+
+Dam Dam Boy (c) 1995 Konami Co., Ltd.
+
+Medal game from Konami.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=120248&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/ddboy.png</image>
+		<video>./snap/ddboy.mp4</video>
+		<marquee>./wheel/ddboy.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Basketball</genre>
+		<players>1</players>
+		<md5>c35c8eb048556d9dbe710c0b0564952d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A6BD441FCED74B5E9AFEAFA778542EA9</cheevosHash>
+	</game>
+	<game>
+		<path>./joust.zip</path>
+		<name>Joust</name>
+		<desc>Joust is a platform-based action combat game for one or two-players (with the two-player game offering either team-up OR head-to-head combat; the first time arcade gamers were given this choice) in which each player controls a knight riding on the back of a flying ostrich. 
+
+The object of the game is to progress through platform-based levels by defeating groups of buzzard-riding enemy knights. This is achieved by 'jousting'; both enemy and player knights carry a lance and must fly around the level (actioned by repeatedly hitting the 'Flap' button) trying to oust rival knights from their steeds by ramming them with the lance. This can only be achieved if the attacking rider is above the enemy knight when the lance connects. A collision of equal elevations results in the two knights bouncing off each other, but if a player is lower than their enemy at the instant of contact, they themselves will be knocked from their steed and lose a life. 
+
+A defeated enemy will turn into an egg that falls to the bottom of the screen. This must be quickly collected by players as if the egg lands on a platform and isn't retrieved in time, it will eventually hatch into another enemy knight that must be defeated again. 
+
+Joust features three different types of enemy knights - Bounder, Hunter, and Shadow Lord - with each earning players different points values when defeated. A pterodactyl will appear after a predetermined time to hunt the players. 
+
+Accurately navigating the player Knights can be initially quite difficult as control is strongly affected by both gravity and inertia. Players can lose a life by either being knocked from their steed by an enemy knight, or by falling into the lava pit at the bottom of each level.</desc>
+		<image>./mixart/joust.png</image>
+		<video>./snap/joust.mp4</video>
+		<marquee>./wheel/joust.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Plateform / Run Jump-Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0E7217251D81ADFD48614DF6680043D4</cheevosHash>
+	</game>
+	<game>
+		<path>./rdft2.zip</path>
+		<name>Raiden Fighters 2: Operation Hell Dive</name>
+		<desc>Raiden Fighters 2: Operation Hell Dive was produced by Seibu Kaihatsu in 1997. One of the best vertically scrolling shooters yet. This game is Raiden on horse steroids; there is no other way to describe this game. There are ten different ships, each with different weapon configurations, manuverabilities, and other attributes. The Raiden ship from Raiden II is also in this one, purple laser and all.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/rdft2.png</image>
+		<video>./snap/rdft2.mp4</video>
+		<marquee>./wheel/rdft2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Seibu Kaihatsu</developer>
+		<publisher>Fabtek</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7E552DADFC823D8E89BBBA3ED9E8CA29</cheevosHash>
+	</game>
+	<game>
+		<path>./sharrier.zip</path>
+		<name>Space Harrier</name>
+		<desc>Space Harrier is a sprite-scaling 3D shoot-em-up set in the 'Fantasy Zone'; a surreal world composed of abstract structures and a checkerboard landscape. The game's enemies are as abstract as its setting; with creatures including prehistoric Mammoths, alien pods, giant mushrooms and, at the end of most stages, a huge, fireball-spitting Chinese Dragon.
+
+The player's on-screen counterpart carries a portable jetpack under his arm which allows him to fly. The player can also run along the ground to avoid overhead structures and enemies.
+
+In addition to its flight capability, the jetpack is also equipped with a laser, used to destroy both the game's many enemies as well as some (but not all) obstructions, such as the trees and floating rocks on the first stage.
+
+Space Harrier has a total of 18 stages, each with a boss fight at the end. Three exceptions are the bonus stages (5th and 12th) and the 18th stage, which is a 'boss rush' featuring some of the bosses encountered up to that point.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/sharrier.png</image>
+		<video>./snap/sharrier.mp4</video>
+		<marquee>./wheel/sharrier.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Plane, 3rd person</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3548F065B58393D52A24761EE87937BF</cheevosHash>
 	</game>
 </gameList>

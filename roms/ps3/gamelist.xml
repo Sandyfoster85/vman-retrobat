@@ -68,18 +68,6 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<video>./snap/Silent Hill - Downpour (USA) (En,Fr,De,Es,It,Pt).mp4</video>
 		<genreid>256</genreid>
 	</game>
-	<game id="25288" source="ScreenScraper.fr">
-		<path>./Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).m3u</path>
-		<name>Lollipop Chainsaw</name>
-		<desc>Lollipop Chainsaw is a comedy horror action hack and slash video game developed by Grasshopper Manufacture for the PlayStation 3 and Xbox 360 video game consoles. It features Juliet Starling (voiced by Tara Strong), a cheerleader zombie hunter fighting zombies in a fictional California high school.[4] A collaboration between game designer Suda51 and filmmaker James Gunn, the game was published by Kadokawa Games and Warner Bros. Interactive Entertainment and was released on June 12, 2012 in North America, June 14, 2012 in Japan and June 15, 2012 in Europe.</desc>
-		<rating>0.75</rating>
-		<releasedate>20120615T000000</releasedate>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>Grasshopper Manufacture Inc</publisher>
-		<image>./mixart/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).png</image>
-		<marquee>./wheel/Lollipop Chainsaw (USA).png</marquee>
-		<video>./snap/Lollipop Chainsaw (USA).mp4</video>
-	</game>
 	<game id="25512" source="ScreenScraper.fr">
 		<path>./Majin and the Forsaken Kingdom (USA) (En,Fr,Es).m3u</path>
 		<name>Majin And The Forsaken Kingdom</name>
@@ -1935,5 +1923,24 @@ Heart-Wrenching Storyline - A love lost and the journey through hell to get her 
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="25288" source="ScreenScraper.fr">
+		<path>./Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).m3u</path>
+		<name>Lollipop Chainsaw</name>
+		<desc>Lollipop Chainsaw is a comedy horror action hack and slash video game developed by Grasshopper Manufacture for the PlayStation 3 and Xbox 360 video game consoles. It features Juliet Starling (voiced by Tara Strong), a cheerleader zombie hunter fighting zombies in a fictional California high school.[4] A collaboration between game designer Suda51 and filmmaker James Gunn, the game was published by Kadokawa Games and Warner Bros. Interactive Entertainment and was released on June 12, 2012 in North America, June 14, 2012 in Japan and June 15, 2012 in Europe.</desc>
+		<image>./mixart/Lollipop Chainsaw (USA) (En,Fr,De,Es,It,Ru).png</image>
+		<video>./snap/Lollipop Chainsaw (USA).mp4</video>
+		<marquee>./wheel/Lollipop Chainsaw (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20120615T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>Grasshopper Manufacture Inc</publisher>
+	</game>
+	<game>
+		<path>./virtualFS/dev_hdd0/game/NPUB30051/USRDIR/media.zip</path>
+		<name>media</name>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<hidden>true</hidden>
 	</game>
 </gameList>

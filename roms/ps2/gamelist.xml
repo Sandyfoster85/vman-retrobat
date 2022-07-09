@@ -7074,25 +7074,6 @@ The player has many different weapons at his or her disposal, including shotguns
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="22129" source="ScreenScraper.fr">
-		<path>./Shadow of Rome (USA).gz</path>
-		<name>Shadow of Rome</name>
-		<desc>Shadow of Rome is a third-person, action-adventure game with some elements of racing. The game has two types of gameplay: close quarters combat levels involving Agrippa and stealth-based, puzzle-solving adventure levels involving Octavianus.[2] There are also levels in which Agrippa competes in chariot races.[3] 
-Agrippa uses various gladiator weapons to fight, including swords, maces, spears, among others.[3] Agrippa can use special moves such as "Red Volcano"â€”a move used to slice enemies in halfâ€” to please the crowds.[2] As a result, the crowd will throw down items to help Agrippa.[4] Once a weapon is used enough, it will break, and the player will have to find a new one inside the area.[3] 
-In Octavianus' levels, the player sneaks around various locations in Rome. Octavianus cannot kill enemies, he can only knock them out. Other ways to pass these levels are by hiding in large pots or by stealing clothes and impersonating someone.[3]</desc>
-		<image>./mixart/Shadow of Rome (USA).png</image>
-		<video>./snap/Shadow of Rome (USA).mp4</video>
-		<marquee>./wheel/Shadow of Rome (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050208T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>512</genreid>
-	</game>
 	<game>
 		<path>./Mortal Kombat - Armageddon (USA) (Premium Edition).gz</path>
 		<name>Mortal Kombat : Armageddon</name>
@@ -7675,5 +7656,24 @@ The new features for the Fire ProWrestling series debuting in Fire ProWrestling 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="22129" source="ScreenScraper.fr">
+		<path>./Shadow of Rome (USA).gz</path>
+		<name>Shadow of Rome</name>
+		<desc>Shadow of Rome is a third-person, action-adventure game with some elements of racing. The game has two types of gameplay: close quarters combat levels involving Agrippa and stealth-based, puzzle-solving adventure levels involving Octavianus.[2] There are also levels in which Agrippa competes in chariot races.[3] 
+Agrippa uses various gladiator weapons to fight, including swords, maces, spears, among others.[3] Agrippa can use special moves such as "Red Volcano"â€”a move used to slice enemies in halfâ€” to please the crowds.[2] As a result, the crowd will throw down items to help Agrippa.[4] Once a weapon is used enough, it will break, and the player will have to find a new one inside the area.[3] 
+In Octavianus' levels, the player sneaks around various locations in Rome. Octavianus cannot kill enemies, he can only knock them out. Other ways to pass these levels are by hiding in large pots or by stealing clothes and impersonating someone.[3]</desc>
+		<image>./mixart/Shadow of Rome (USA).png</image>
+		<video>./snap/Shadow of Rome (USA).mp4</video>
+		<marquee>./wheel/Shadow of Rome (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050208T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>512</genreid>
 	</game>
 </gameList>

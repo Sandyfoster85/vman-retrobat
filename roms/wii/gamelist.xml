@@ -3205,21 +3205,6 @@ Episode 1 was released in October 2010 with slight variations in exact date and 
 		<region>us</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="9140" source="ScreenScraper.fr">
-		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
-		<name>Geometry Wars Galaxies</name>
-		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
-		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
-		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
-		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>Kuju Entertainment</developer>
-		<publisher>Sierra</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<genreid>260</genreid>
-	</game>
 	<game id="10249" source="ScreenScraper.fr">
 		<path>./Indianapolis 500 Legends (USA).cc.rvz</path>
 		<name>Indianapolis 500 Legends</name>
@@ -3295,5 +3280,22 @@ Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinbal
 		<md5>26856a830782bcba2faba2f19f15116f</md5>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="9140" source="ScreenScraper.fr">
+		<path>./Geometry Wars - Galaxies (USA).cc.rvz</path>
+		<name>Geometry Wars Galaxies</name>
+		<desc>Blast your way through all-new battle grids, upgrade your new Battle Drone and blast through relentless waves of enemies in the first-ever Geometry Wars single-player campaign. Then join a friend for fast-paced multiplayer that's out of this world. Geometry Wars: Galaxies also includes the full version of Bizarre Creations' Geometry Wars: Retro Evolved, winner of IGN's Best Xbox Live Arcade Title of the Year.</desc>
+		<image>./mixart/Geometry Wars - Galaxies (USA).cc.png</image>
+		<video>./snap/Geometry Wars - Galaxies (USA).cc.mp4</video>
+		<marquee>./wheel/Geometry Wars - Galaxies (USA).cc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>Kuju Entertainment</developer>
+		<publisher>Sierra</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

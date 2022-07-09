@@ -270,21 +270,6 @@
 		<cheevosHash>0358F8C16A2A9C2CCBB54DAC0AFEFDB7</cheevosHash>
 	</game>
 	<game>
-		<path>./ngbc.zip</path>
-		<name>Neo-geo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./mixart/ngbc.png</image>
-		<video>./snap/ngbc.mp4</video>
-		<marquee>./wheel/ngbc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
-	</game>
-	<game>
 		<path>./rangrmsn.zip</path>
 		<name>Ranger Mission</name>
 		<desc>A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.</desc>
@@ -441,5 +426,20 @@
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
 		<cheevosHash>A9A87B9CA0C9065F4D64E6DD8000007B</cheevosHash>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
 	</game>
 </gameList>

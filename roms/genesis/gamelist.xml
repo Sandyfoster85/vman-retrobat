@@ -5725,21 +5725,6 @@ The game also features two "Madden Greats" teams. It was a rental exclusive game
 		<players>2</players>
 		<cheevosHash>0FCA001847700BFC51F52062C9F05B84</cheevosHash>
 	</game>
-	<game>
-		<path>./Jordan Vs Bird (USA, Europe) (v1.1).7z</path>
-		<name>Jordan vs Bird</name>
-		<desc>Michael Jordan of the Chicago Bulls and Larry Bird of the Boston Celtics were the only two characters in the game, which allowed the player to participate in a one on one basketball game. Mini-games included a slam dunk contest (utilizing Jordan) and a three point contest (utilizing Bird).</desc>
-		<image>./mixart/Jordan Vs Bird (USA, Europe) (v1.1).png</image>
-		<video>./snap/Jordan Vs Bird (USA, Europe) (v1.1).mp4</video>
-		<marquee>./wheel/Jordan Vs Bird (USA, Europe) (v1.1).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>0B37C95079A0C8E64230DF35EB3888C2</cheevosHash>
-	</game>
 	<game id="683" source="ScreenScraper.fr">
 		<path>./Joshua &amp; The Battle of Jericho (USA) (Unl).7z</path>
 		<name>Joshua &amp; the Battle of Jericho</name>
@@ -10299,22 +10284,6 @@ The game also features a sound test mode and a time trial mode, where the High S
 		<genre>Platform</genre>
 		<cheevosHash>17FFE04BB891253E7AC3FB0952BB2EDB</cheevosHash>
 	</game>
-	<game id="1184" source="ScreenScraper.fr">
-		<path>./Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).7z</path>
-		<name>Sonic &amp; Knuckles + Sonic The Hedgehog 2</name>
-		<desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
-		<image>./mixart/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).png</image>
-		<video>./snap/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).mp4</video>
-		<marquee>./wheel/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<cheevosHash>3E5E4B18D035775B916A06F2B3DC5031</cheevosHash>
-		<cheevosId>6312</cheevosId>
-	</game>
 	<game id="1185" source="ScreenScraper.fr">
 		<path>./Sonic &amp; Knuckles + Sonic the Hedgehog 3 (World).7z</path>
 		<name>Sonic &amp; Knuckles + Sonic The Hedgehog 3</name>
@@ -12822,24 +12791,6 @@ Enter Vectorman, a humble robot in charge of cleaning up toxic sludge by simply 
 		<cheevosHash>D7171A867739C8EC325AA65B175B0C49</cheevosHash>
 		<cheevosId>25</cheevosId>
 	</game>
-	<game>
-		<path>./Vectorman 2 (USA).7z</path>
-		<name>Vectorman 2</name>
-		<desc>This is a sequel to  Vectorman. This time, the super-powerful little robot was attacked while coming back to earth in his spaceship. He falls down on the earth only to discover dark locations full of hostile creatures and to participate in a platformer full of fast and furious action. Fight your enemies, collect photons, jump over obstacles, find weapons, morph into other creatures, and climb walls as the green "orbot" Vectorman.</desc>
-		<image>./mixart/Vectorman 2 (USA).png</image>
-		<video>./snap/Vectorman 2 (USA).mp4</video>
-		<marquee>./wheel/Vectorman 2 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>BlueSky Software, Inc.</developer>
-		<publisher>Blue Sky Software - Sega</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9666D682CC7C69B26B834B4D8A949277</cheevosHash>
-		<cheevosId>1443</cheevosId>
-	</game>
 	<game id="99" source="ScreenScraper.fr">
 		<path>./Virtua Fighter 2 (USA, Europe).7z</path>
 		<name>Virtua Fighter 2</name>
@@ -14349,5 +14300,58 @@ There are changes in both graphics (characters now are bigger, more detailed and
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>961E15EADA08AFC2A6C4B5E33E9A08E7</cheevosHash>
+	</game>
+	<game>
+		<path>./Vectorman 2 (USA).7z</path>
+		<name>Vectorman 2</name>
+		<desc>This is a sequel to  Vectorman. This time, the super-powerful little robot was attacked while coming back to earth in his spaceship. He falls down on the earth only to discover dark locations full of hostile creatures and to participate in a platformer full of fast and furious action. Fight your enemies, collect photons, jump over obstacles, find weapons, morph into other creatures, and climb walls as the green "orbot" Vectorman.</desc>
+		<image>./mixart/Vectorman 2 (USA).png</image>
+		<video>./snap/Vectorman 2 (USA).mp4</video>
+		<marquee>./wheel/Vectorman 2 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>BlueSky Software, Inc.</developer>
+		<publisher>Blue Sky Software - Sega</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9666D682CC7C69B26B834B4D8A949277</cheevosHash>
+		<cheevosId>1443</cheevosId>
+	</game>
+	<game>
+		<path>./Jordan Vs Bird (USA, Europe) (v1.1).7z</path>
+		<name>Jordan vs Bird</name>
+		<desc>Michael Jordan of the Chicago Bulls and Larry Bird of the Boston Celtics were the only two characters in the game, which allowed the player to participate in a one on one basketball game. Mini-games included a slam dunk contest (utilizing Jordan) and a three point contest (utilizing Bird).</desc>
+		<image>./mixart/Jordan Vs Bird (USA, Europe) (v1.1).png</image>
+		<video>./snap/Jordan Vs Bird (USA, Europe) (v1.1).mp4</video>
+		<marquee>./wheel/Jordan Vs Bird (USA, Europe) (v1.1).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>0B37C95079A0C8E64230DF35EB3888C2</cheevosHash>
+	</game>
+	<game id="1184" source="ScreenScraper.fr">
+		<path>./Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).7z</path>
+		<name>Sonic &amp; Knuckles + Sonic The Hedgehog 2</name>
+		<desc>Knuckles in Sonic 2 is the resulting game when Sonic the Hedgehog 2 is locked onto Sonic &amp; Knuckles with its passthrough port. Sonic is replaced by Knuckles and Tails is not playable whatsoever. The title screen features Knuckles also but removes the two player mode and options selections from it. This game is identical to Sonic 2 (aside from a few changes to make it more playable with Knuckles) but with Knuckles now playable instead of Sonic or Tails.</desc>
+		<image>./mixart/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).png</image>
+		<video>./snap/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).mp4</video>
+		<marquee>./wheel/Sonic &amp; Knuckles + Sonic the Hedgehog 2 (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>3E5E4B18D035775B916A06F2B3DC5031</cheevosHash>
+		<cheevosId>6312</cheevosId>
 	</game>
 </gameList>
