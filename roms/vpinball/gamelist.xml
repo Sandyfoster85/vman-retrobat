@@ -7376,38 +7376,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens_pupversion 1.0.vpx</path>
-		<name>Aliens (PupEdition)</name>
-		<desc>Flipper Aliens_pupversion 1.0</desc>
-		<image>./mixart/Aliens_pupversion 1.0.png</image>
-		<video>./snap/Aliens_pupversion 1.0.mp4</video>
-		<marquee>./wheel/Aliens_pupversion 1.0.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Breaking Bad PupPack Version.vpx</path>
-		<name>Breaking Bad (PupEdition)</name>
-		<desc>Flipper Breaking Bad PupPack Version</desc>
-		<image>./mixart/Breaking Bad PupPack Version.png</image>
-		<video>./snap/Breaking Bad PupPack Version.mp4</video>
-		<marquee>./wheel/Breaking Bad PupPack Version.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./pizzatime-64.vpx</path>
 		<name>Pizza-Time</name>
 		<desc>Flipper pizzatime-64</desc>
@@ -7416,22 +7384,6 @@
 		<marquee>./wheel/pizzatime-64.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Flash G.vpx</path>
-		<name>Flash Gordon (Bally 1981) (PupEdition)</name>
-		<desc>Flipper Flash Gordon (Bally 1981) PupEdition</desc>
-		<image>./mixart/Flash Gordon (Bally 1981) Sound Mod v2.0.png</image>
-		<video>./snap/Flash Gordon (Bally 1981) Sound Mod v2.0.mp4</video>
-		<marquee>./wheel/Flash Gordon (Bally 1981) Sound Mod v2.0.png</marquee>
-		<rating>1</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -7504,22 +7456,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sin City_pup v2.0.vpx</path>
-		<name>Sin City (PupEdition)</name>
-		<desc>Flipper Sin City_pup v2.0</desc>
-		<image>./mixart/Sin City_pup v2.0.png</image>
-		<video>./snap/Sin City_pup v2.0.mp4</video>
-		<marquee>./wheel/Sin City_pup v2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Beatles_007.vpx</path>
 		<name>The Beatles (PupEdition)</name>
 		<desc>Flipper The Beatles</desc>
@@ -7528,6 +7464,70 @@
 		<marquee>./wheel/The Beatles_007.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Way of the Dragon, The (TBA 2020).vpx</path>
+		<name>Way of the Dragon, The (PupEdition)</name>
+		<desc>Flipper Way of the Dragon, The (TBA 2020)</desc>
+		<image>./mixart/Way of the Dragon, The (TBA 2020).jpg</image>
+		<video>./snap/Way of the Dragon, The (TBA 2020).mp4</video>
+		<marquee>./wheel/Way of the Dragon, The (TBA 2020).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens_pupversion 1.0.vpx</path>
+		<name>Aliens (PupEdition)</name>
+		<desc>Flipper Aliens_pupversion 1.0</desc>
+		<image>./mixart/Aliens_pupversion 1.0.png</image>
+		<video>./snap/Aliens_pupversion 1.0.mp4</video>
+		<marquee>./wheel/Aliens_pupversion 1.0.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Breaking Bad PupPack Version.vpx</path>
+		<name>Breaking Bad (PupEdition)</name>
+		<desc>Flipper Breaking Bad PupPack Version</desc>
+		<image>./mixart/Breaking Bad PupPack Version.png</image>
+		<video>./snap/Breaking Bad PupPack Version.mp4</video>
+		<marquee>./wheel/Breaking Bad PupPack Version.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flash G.vpx</path>
+		<name>Flash Gordon (Bally 1981) (PupEdition)</name>
+		<desc>Flipper Flash Gordon (Bally 1981) PupEdition</desc>
+		<image>./mixart/Flash Gordon (Bally 1981) Sound Mod v2.0.png</image>
+		<video>./snap/Flash Gordon (Bally 1981) Sound Mod v2.0.mp4</video>
+		<marquee>./wheel/Flash Gordon (Bally 1981) Sound Mod v2.0.png</marquee>
+		<rating>1</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -7552,14 +7552,14 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TopGun 1.0b.vpx</path>
-		<name>TopGun (PupEdition)</name>
-		<desc>Flipper TopGun 1.0b</desc>
-		<image>./mixart/TopGun 1.0b.jpg</image>
-		<video>./snap/TopGun 1.0b.mp4</video>
-		<marquee>./wheel/TopGun 1.0b.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
+		<path>./Sin City_pup v2.0.vpx</path>
+		<name>Sin City (PupEdition)</name>
+		<desc>Flipper Sin City_pup v2.0</desc>
+		<image>./mixart/Sin City_pup v2.0.png</image>
+		<video>./snap/Sin City_pup v2.0.mp4</video>
+		<marquee>./wheel/Sin City_pup v2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -7568,12 +7568,12 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Way of the Dragon, The (TBA 2020).vpx</path>
-		<name>Way of the Dragon, The (PupEdition)</name>
-		<desc>Flipper Way of the Dragon, The (TBA 2020)</desc>
-		<image>./mixart/Way of the Dragon, The (TBA 2020).jpg</image>
-		<video>./snap/Way of the Dragon, The (TBA 2020).mp4</video>
-		<marquee>./wheel/Way of the Dragon, The (TBA 2020).png</marquee>
+		<path>./TopGun 1.0b.vpx</path>
+		<name>TopGun (PupEdition)</name>
+		<desc>Flipper TopGun 1.0b</desc>
+		<image>./mixart/TopGun 1.0b.jpg</image>
+		<video>./snap/TopGun 1.0b.mp4</video>
+		<marquee>./wheel/TopGun 1.0b.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
 		<developer>FanMade</developer>

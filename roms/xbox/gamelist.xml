@@ -344,22 +344,6 @@ Library of artistic trick shots: or set up your own to become a true shark</desc
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The Bible Game.iso</path>
-		<name>The Bible Game</name>
-		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
-		<image>./mixart/The Bible Game.jpg</image>
-		<video>./snap/The Bible Game.mp4</video>
-		<marquee>./wheel/The Bible Game.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20051018T000000</releasedate>
-		<developer>Mass Media, Inc.</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Strategy</genre>
-		<players>4</players>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Classified - Sentinel Crisis.iso</path>
 		<name>Classified: The Sentinel Crisis</name>
 		<desc>Assume the role a Black Ops soldier recruited by the US military's experimental Sentinel program. Your only tools are the intelligent Sentinel combat suit and the multifunction OIWC assault rifle, a weapon of unparalleled versatility and power. The military scientist responsible for the Sentinel Technology is missing in the Balkans. You must join forces with the Rebels to expose the enemy and locate your quarry before the Sentinel Technology falls into hostile hands.</desc>
@@ -2880,7 +2864,7 @@ Also included are various alternative missions, ranging from the protagonist sne
 	</game>
 	<game id="15347">
 		<path>./Psyvariar 2 - Extend Edition (Japan).xiso.iso</path>
-		<name>Psyvariar 2</name>
+		<name>Psyvariar 2 - Extend Edition</name>
 		<desc>Psyvariar 2 is a shooting game available on Xbox. This game uses a particular system called the buzz. When you come close to an enemy shot, this gauge increases to level up your robot. The player can choose between 2 robots: Yuhei puts a lot of emphasis on the buzz, while Kei makes your bar increase faster by shooting.</desc>
 		<image>./mixart/Psyvariar 2 - Extend Edition (Japan).xiso.png</image>
 		<video>./snap/Psyvariar 2 - Extend Edition (Japan).xiso.mp4</video>
@@ -3748,6 +3732,113 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<genre>Shooter</genre>
 		<players>16</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Inside Pitch 2003 (USA).xiso.iso</path>
+		<name>Inside Pitch 2003</name>
+		<desc>Play as all major teams and players of the Major League Baseball in a full season, single game and home run derby. Championship Challenges has you playing out actual events from the 2002 season and trying to break some of the records set during the year and Training Track will get you up-to-date with all the moves in the game with a range of drills for pitching, batting and fielding. Xbox Live is also supported, allowing you to download new stadiums and update your rosters, play against other games around the world and keep track of their win/loss stats.</desc>
+		<releasedate>20030520T000000</releasedate>
+		<developer>Microsoft</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Sports, Baseball</genre>
+		<players>1-2</players>
+		<image>./mixart/Inside Pitch 2003 (USA).xiso.png</image>
+		<marquee>./wheel/Inside Pitch 2003 (USA).xiso.png</marquee>
+		<video>./snap/Inside Pitch 2003 (USA).xiso.mp4</video>
+		<genreid>1536</genreid>
+	</game>
+	<game>
+		<path>./Land of the Dead - Road to Fiddler's Green (USA).xiso.iso</path>
+		<name>Land Of The Dead : Road To Fiddler's Green</name>
+		<desc>Land of the Dead: Road to Fiddler's Green on Xbox is a first-person shooter inspired by George Romero's feature film. Just like in the movie, your goal is to face hordes of zombies and of course to survive them. To do this, you'll need an arsenal of weapons: shotgun, pistols, spanner...</desc>
+		<rating>0.65</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Brainbox Games</developer>
+		<publisher>Brainbox Games</publisher>
+		<genre>Action</genre>
+		<players>1-8</players>
+		<image>./mixart/Land of the Dead - Road to Fiddler's Green (USA).xiso.png</image>
+		<marquee>./wheel/Land of the Dead - Road to Fiddler's Green (USA).xiso.png</marquee>
+		<video>./snap/Land of the Dead - Road to Fiddler's Green (USA).xiso.mp4</video>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Metal Slug 3 (USA, Japan) (En,Ja).xiso.iso</path>
+		<name>Metal Slug 3</name>
+		<desc>In the third installment of the Metal Slug series, General Morden is back and he plans to establish a new world order. The player guides one of the heroes: Marco, Tarma, Eri, or Fio, as they blast their way through side-scrolling levels with a unique theme, filled with countless enemies and bosses. The player has to free hostages and can ride bizarre vehicles such as camels, elephants, tanks, and robots.</desc>
+		<rating>0.85</rating>
+		<releasedate>20041112T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Nobilis</publisher>
+		<genre>Shooter-Shooter / Run and Gun-Beat'em Up</genre>
+		<players>2</players>
+		<image>./mixart/Metal Slug 3 (USA, Japan) (En,Ja).xiso.png</image>
+		<marquee>./wheel/Metal Slug 3 (USA, Japan) (En,Ja).xiso.png</marquee>
+		<video>./snap/Metal Slug 3 (USA, Japan) (En,Ja).xiso.mp4</video>
+		<genreid>263</genreid>
+	</game>
+	<game>
+		<path>./Monster Garage (USA).xiso.iso</path>
+		<name>Monster Garage</name>
+		<desc>Based on the TV show, this game takes various shows and lets you make the vehicle that was made on the shows.  For those who do not know the TV show, it works like this... 
+Jesse and his team are to build a creation that will do a certain task within 7 days and by spending under $3000 and the vehicle must look stock when completed. 
+The challenges of this game are to stay under the $3000 when buying/selling parts and to complete the track at the end.</desc>
+		<releasedate>20041103T000000</releasedate>
+		<developer>Invictus Games</developer>
+		<publisher>Activision</publisher>
+		<genre>Simulation</genre>
+		<players>1</players>
+		<image>./mixart/Monster Garage (USA).xiso.png</image>
+		<marquee>./wheel/Monster Garage (USA).xiso.png</marquee>
+		<video>./snap/Monster Garage (USA).xiso.mp4</video>
+		<genreid>1024</genreid>
+	</game>
+	<game>
+		<path>./KOF - Maximum Impact - Maniax (USA).xiso.iso</path>
+		<name>The King Of Fighters : Maximum Impact - Maniax</name>
+		<desc>The King of Fighters: Maximum Impact is a fighting game on Xbox featuring the vast majority of the characters from the saga, but with the particularity of being in 3D. Through modes such as Story, Team Battle, Challenge (sort of small thematic missions), will you win the confrontations featuring Terry Boggart, Mai or Soiree Meia?</desc>
+		<image>./mixart/KOF - Maximum Impact - Maniax (USA).xiso.png</image>
+		<video>./snap/KOF - Maximum Impact - Maniax (USA).xiso.mp4</video>
+		<marquee>./wheel/KOF - Maximum Impact - Maniax (USA).xiso.png</marquee>
+		<releasedate>20040812T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Nobilis</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Monster 4x4 - World Circuit (USA).xiso.iso</path>
+		<name>Monster 4x4 World Circuit</name>
+		<desc>Monster 4x4 World Circuit brings together brutal races, dangerous tracks and destructive machines in one game. Find all types of vehicles (sedans, ambulances, minis, cabs, racing cars...) that can be transformed into trucks in races with particularly winding routes.</desc>
+		<image>./mixart/Monster 4x4 - World Circuit (USA).xiso.png</image>
+		<video>./snap/Monster 4x4 - World Circuit (USA).xiso.mp4</video>
+		<marquee>./wheel/Monster 4x4 - World Circuit (USA).xiso.png</marquee>
+		<releasedate>20060323T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./The Bible Game.iso</path>
+		<name>The Bible Game</name>
+		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
+		<image>./mixart/The Bible Game.jpg</image>
+		<video>./snap/The Bible Game.mp4</video>
+		<marquee>./wheel/The Bible Game.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
