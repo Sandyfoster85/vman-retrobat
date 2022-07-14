@@ -3776,22 +3776,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sonic Pinball Mania.fpt</path>
-		<name>Sonic Pinball Mania</name>
-		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods</desc>
-		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
-		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
-		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Space Paranoids1_0.fpt</path>
 		<name>Space Paranoids</name>
 		<desc>Flipper Space Paranoids1_0</desc>
@@ -3888,18 +3872,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
-		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
-		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
-		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<releasedate>20210101T000000</releasedate>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Elvis Stern.fpt</path>
 		<name>Elvis Stern</name>
 		<desc>Flipper Elvis Stern</desc>
@@ -3980,22 +3952,6 @@
 		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
 		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
-		<name>Star Wars DSA ULTIMATE Pro</name>
-		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
-		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
-		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
-		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4507,6 +4463,50 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania.fpt</path>
+		<name>Sonic Pinball Mania</name>
+		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0.fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro</name>
+		<desc>Flipper Star Wars DSA (ULTIMATE Pro 1.06) - ESB 1.1 - PinEvent 1.0</desc>
+		<image>./mixart/Star Wars DSA ULTIMATE Pro 1.06.jpg</image>
+		<video>./snap/Star Wars DSA ULTIMATE Pro 1.06.mp4</video>
+		<marquee>./wheel/Star Wars DSA ULTIMATE Pro 1.06.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition 1.4 (PinEvent 1.1).fpt</path>
+		<name>Retroflair - BAM Edition 1.4 (PinEvent 1.1)</name>
+		<desc>Flipper Retroflair - BAM Edition 1.4</desc>
+		<image>./mixart/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<releasedate>20210101T000000</releasedate>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
