@@ -121,7 +121,7 @@
 	</game>
 	<game>
 		<path>./avatar 080116a mod 1.19.vpx</path>
-		<name>avatar 080116a mod 1.19</name>
+		<name>Avatar (PupEdition)</name>
 		<desc>Flipper avatar 080116a mod 1.19</desc>
 		<image>./mixart/avatar 080116a mod 1.19.jpg</image>
 		<video>./snap/avatar 080116a mod 1.19.mp4</video>
@@ -132,6 +132,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -602,7 +603,7 @@
 	</game>
 	<game>
 		<path>./Independence Day (SEGA 1996)  2.0.vpx</path>
-		<name>Independence Day (SEGA 1996)  2.0</name>
+		<name>Independence Day (SEGA 1996) (PupEdition)</name>
 		<desc>Flipper Independence Day (SEGA 1996)  2.0</desc>
 		<image>./mixart/Independence Day (SEGA 1996)  2.0.jpg</image>
 		<video>./snap/Independence Day (SEGA 1996)  2.0.mp4</video>
@@ -613,6 +614,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2039,7 +2041,7 @@
 	</game>
 	<game>
 		<path>./Star Wars (1992).vpx</path>
-		<name>Star Wars (1992)</name>
+		<name>Star Wars (1992) (PupEdition)</name>
 		<desc>Flipper Star Wars (1992)</desc>
 		<image>./mixart/Star Wars (1992).jpg</image>
 		<video>./snap/Star Wars (1992).mp4</video>
@@ -2050,6 +2052,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4935,6 +4938,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Elvis (2004).vpx</path>
+		<name>Elvis (2004) (PupEdition)</name>
+		<desc>Flipper Elvis (PupEdition)</desc>
+		<image>./mixart/Elvis (2004).jpg</image>
+		<video>./snap/Elvis (2004).mp4</video>
+		<marquee>./wheel/Elvis (2004).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Gremlins by Balutito 1.3.vpx</path>
 		<name>Gremlins</name>
 		<desc>Flipper Gremlins by Balutito 1.6</desc>
@@ -4991,22 +5010,6 @@
 		<marquee>./wheel/Thunderbirds original 2022 v1.0.png</marquee>
 		<rating>1</rating>
 		<releasedate>20220101T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Elvis (2004).vpx</path>
-		<name>Elvis (2004)</name>
-		<desc>Flipper Elvis (2004)</desc>
-		<image>./mixart/Elvis (2004).jpg</image>
-		<video>./snap/Elvis (2004).mp4</video>
-		<marquee>./wheel/Elvis (2004).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
