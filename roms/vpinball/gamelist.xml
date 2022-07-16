@@ -602,22 +602,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Independence Day (SEGA 1996)  2.0.vpx</path>
-		<name>Independence Day (SEGA 1996) (PupEdition)</name>
-		<desc>Flipper Independence Day (SEGA 1996)  2.0</desc>
-		<image>./mixart/Independence Day (SEGA 1996)  2.0.jpg</image>
-		<video>./snap/Independence Day (SEGA 1996)  2.0.mp4</video>
-		<marquee>./wheel/Independence Day (SEGA 1996)  2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Evil Dead 2 (TBA 2019).vpx</path>
 		<name>Evil Dead 2 (TBA 2019)</name>
 		<desc>Flipper Evil Dead 2 (TBA 2019)</desc>
@@ -2040,22 +2024,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star Wars (1992).vpx</path>
-		<name>Star Wars (1992) (PupEdition)</name>
-		<desc>Flipper Star Wars (1992)</desc>
-		<image>./mixart/Star Wars (1992).jpg</image>
-		<video>./snap/Star Wars (1992).mp4</video>
-		<marquee>./wheel/Star Wars (1992).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Star Wars Empire Strikes Back, The (1980).vpx</path>
 		<name>Star Wars Empire Strikes Back, The (1980)</name>
 		<desc>Flipper Star Wars Empire Strikes Back, The (1980)</desc>
@@ -2222,7 +2190,7 @@
 	</game>
 	<game>
 		<path>./Transformers v3.0.vpx</path>
-		<name>Transformers v3.0</name>
+		<name>Transformers (PupEdition)</name>
 		<desc>Flipper Transformers v3.0</desc>
 		<image>./mixart/Transformers v3.0.jpg</image>
 		<video>./snap/Transformers v3.0.mp4</video>
@@ -2233,6 +2201,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4938,22 +4907,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Elvis (2004).vpx</path>
-		<name>Elvis (2004) (PupEdition)</name>
-		<desc>Flipper Elvis (PupEdition)</desc>
-		<image>./mixart/Elvis (2004).jpg</image>
-		<video>./snap/Elvis (2004).mp4</video>
-		<marquee>./wheel/Elvis (2004).png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Gremlins by Balutito 1.3.vpx</path>
 		<name>Gremlins</name>
 		<desc>Flipper Gremlins by Balutito 1.6</desc>
@@ -7194,22 +7147,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The Beatles_007.vpx</path>
-		<name>The Beatles (PupEdition)</name>
-		<desc>Flipper The Beatles</desc>
-		<image>./mixart/The Beatles_007.png</image>
-		<video>./snap/The Beatles_007.mp4</video>
-		<marquee>./wheel/The Beatles_007.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Breaking Bad PupPack Version.vpx</path>
 		<name>Breaking Bad (PupEdition)</name>
 		<desc>Flipper Breaking Bad PupPack Version</desc>
@@ -7498,6 +7435,70 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx</path>
+		<name>Teenage Mutant Ninja Turtles (Data East 1991) (PupEdition)</name>
+		<desc>Flipper Teenage Mutant Ninja Turtles (Data East 1991) 1.2</desc>
+		<image>./mixart/Teenage Mutant Ninja Turtles (Data East ) 1.1.jpg</image>
+		<video>./snap/Teenage Mutant Ninja Turtles (Data East ) 1.1.mp4</video>
+		<marquee>./wheel/Teenage Mutant Ninja Turtles (Data East ) 1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bram Stoker's Dracula BALUTITO(MOD) V3.vpx</path>
+		<name>Bram Stoker's Dracula (PupEdition)</name>
+		<desc>Flipper Bram Stoker's Dracula BALUTITO(MOD) V3</desc>
+		<image>./mixart/Bram Stoker's Dracula BALUTITO(MOD) V3.png</image>
+		<video>./snap/Bram Stoker's Dracula BALUTITO(MOD) V3.mp4</video>
+		<marquee>./wheel/Bram Stoker's Dracula BALUTITO(MOD) V3.png</marquee>
+		<rating>1</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Elvis (2004).vpx</path>
+		<name>Elvis (2004) (PupEdition)</name>
+		<desc>Flipper Elvis (PupEdition)</desc>
+		<image>./mixart/Elvis (2004).jpg</image>
+		<video>./snap/Elvis (2004).mp4</video>
+		<marquee>./wheel/Elvis (2004).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Independence Day (SEGA 1996)  2.0.vpx</path>
+		<name>Independence Day (SEGA 1996) (PupEdition)</name>
+		<desc>Flipper Independence Day (SEGA 1996)  2.0</desc>
+		<image>./mixart/Independence Day (SEGA 1996)  2.0.jpg</image>
+		<video>./snap/Independence Day (SEGA 1996)  2.0.mp4</video>
+		<marquee>./wheel/Independence Day (SEGA 1996)  2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Robocop (1989).vpx</path>
 		<name>Robocop (1989) (PupEdition)</name>
 		<desc>Flipper Robocop (1989)</desc>
@@ -7530,6 +7531,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Star Wars (1992).vpx</path>
+		<name>Star Wars (1992) (PupEdition)</name>
+		<desc>Flipper Star Wars (1992)</desc>
+		<image>./mixart/Star Wars (1992).jpg</image>
+		<video>./snap/Star Wars (1992).mp4</video>
+		<marquee>./wheel/Star Wars (1992).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Street Fighter II (Hursty 2020).vpx</path>
 		<name>Street Fighter II (PupEdition)</name>
 		<desc>Flipper Street Fighter II</desc>
@@ -7546,12 +7563,12 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx</path>
-		<name>Teenage Mutant Ninja Turtles (Data East 1991) (PupEdition)</name>
-		<desc>Flipper Teenage Mutant Ninja Turtles (Data East 1991) 1.2</desc>
-		<image>./mixart/Teenage Mutant Ninja Turtles (Data East ) 1.1.jpg</image>
-		<video>./snap/Teenage Mutant Ninja Turtles (Data East ) 1.1.mp4</video>
-		<marquee>./wheel/Teenage Mutant Ninja Turtles (Data East ) 1.1.png</marquee>
+		<path>./The Beatles_007.vpx</path>
+		<name>The Beatles (PupEdition)</name>
+		<desc>Flipper The Beatles</desc>
+		<image>./mixart/The Beatles_007.png</image>
+		<video>./snap/The Beatles_007.mp4</video>
+		<marquee>./wheel/The Beatles_007.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
 		<developer>FanMade</developer>
@@ -7602,22 +7619,6 @@
 		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bram Stoker's Dracula BALUTITO(MOD) V3.vpx</path>
-		<name>Bram Stoker's Dracula (PupEdition)</name>
-		<desc>Flipper Bram Stoker's Dracula BALUTITO(MOD) V3</desc>
-		<image>./mixart/Bram Stoker's Dracula BALUTITO(MOD) V3.png</image>
-		<video>./snap/Bram Stoker's Dracula BALUTITO(MOD) V3.mp4</video>
-		<marquee>./wheel/Bram Stoker's Dracula BALUTITO(MOD) V3.png</marquee>
-		<rating>1</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
