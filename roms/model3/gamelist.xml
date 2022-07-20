@@ -328,6 +328,21 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="43284" source="ScreenScraper.fr">
+		<path>./Sega Rally 2.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 - Sega Rally Championship (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz) Sound CPU : 68EC000 (@ 11.3Mhz) Sound Chips : SCSPx2  Players : 1 Control : Paddle Buttons : 8  - TRIVIA -  Sega Rally 2 wa</desc>
+		<image>./mixart/Sega Rally 2.png</image>
+		<video>./snap/Sega Rally 2.mp4</video>
+		<marquee>./wheel/Sega Rally 2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
+		<genreid>1537</genreid>
+	</game>
 	<game>
 		<path>./Daytona USA 2.zip</path>
 		<name>Daytona USA 2: Battle on the Edge</name>
@@ -344,20 +359,5 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="43284" source="ScreenScraper.fr">
-		<path>./Sega Rally 2.zip</path>
-		<name>Sega Rally 2</name>
-		<desc>Sega Rally 2 - Sega Rally Championship (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz) Sound CPU : 68EC000 (@ 11.3Mhz) Sound Chips : SCSPx2  Players : 1 Control : Paddle Buttons : 8  - TRIVIA -  Sega Rally 2 wa</desc>
-		<image>./mixart/Sega Rally 2.png</image>
-		<video>./snap/Sega Rally 2.mp4</video>
-		<marquee>./wheel/Sega Rally 2.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>1</players>
-		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
-		<genreid>1537</genreid>
 	</game>
 </gameList>

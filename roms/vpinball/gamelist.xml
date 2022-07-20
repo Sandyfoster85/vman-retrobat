@@ -1094,6 +1094,21 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Lord of the Rings (Stern 2003)_VPW_v1.3.vpx</path>
+		<name>Lord Of The Rings (Stern) (PupEdition)</name>
+		<desc>Flipper Lord of the Rings (Stern 2003) VPW v1.3 (PupEdition)</desc>
+		<image>./mixart/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.jpg</image>
+		<video>./snap/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.mp4</video>
+		<marquee>./wheel/Lord Of The Rings (Stern - 2003) Siggi's Mod 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>2003</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -7419,22 +7434,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Playboy (Stern 2002) v1.1.vpx</path>
-		<name>Playboy (Stern 2002) (PupEdition)</name>
-		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
-		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
-		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
-		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles (Data East ) 1.1.vpx</path>
 		<name>Teenage Mutant Ninja Turtles (Data East 1991) (PupEdition)</name>
 		<desc>Flipper Teenage Mutant Ninja Turtles (Data East 1991) 1.2</desc>
@@ -7611,6 +7610,52 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Playboy (Stern 2002) v1.1.vpx</path>
+		<name>Playboy (Stern 2002) (PupEdition)</name>
+		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
+		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
+		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
+		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Doom Eternal - 1.00.vpx</path>
+		<name>Doom Eternal</name>
+		<desc>Flipper Doom Eternal - 1.00</desc>
+		<image>./mixart/Doom Eternal - 1.00.png</image>
+		<video>./snap/Doom Eternal - 1.00.mp4</video>
+		<marquee>./wheel/Doom Eternal - 1.00.png</marquee>
+		<rating>1</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Triple X (Williams 1973).vpx</path>
+		<name>Triple X (Williams 1973)</name>
+		<desc>Flipper Triple X (Williams 1973)</desc>
+		<image>./mixart/Triple X (Williams 1973).png</image>
+		<video>./snap/Triple X (Williams 1973).mp4</video>
+		<marquee>./wheel/Triple X (Williams 1973).png</marquee>
+		<rating>1</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./WWF Royal Rumble (1994).vpx</path>
 		<name>WWF Royal Rumble (1994) (PupEdition)</name>
 		<desc>Flipper WWF Royal Rumble (1994)</desc>
@@ -7619,6 +7664,22 @@
 		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TimeLord1_0_1.vpx</path>
+		<name>TimeLord</name>
+		<desc>Flipper TimeLord1_0_1</desc>
+		<image>./mixart/TimeLord1_0_1.png</image>
+		<video>./snap/TimeLord1_0_1.mp4</video>
+		<marquee>./wheel/TimeLord1_0_1.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
