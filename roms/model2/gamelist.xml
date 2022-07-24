@@ -52,21 +52,6 @@
 		<players>1</players>
 		<genreid>1536</genreid>
 	</game>
-	<game id="37485" source="ScreenScraper.fr">
-		<path>./skytargt.zip</path>
-		<name>Sky Target</name>
-		<desc>Sky Target is a 1995 arcade game by Sega. A rail shooter featuring a number of planes including the default F-14D Super Tomcat, it is best remembered for its semi-official connection to Sega's earlier hit After Burner. Although never billed as a sequel, its overt similarities to the 1987 classic were nonetheless referenced in official promotional materials and recognized by the media.</desc>
-		<image>./mixart/skytargt.png</image>
-		<video>./snap/skytargt.mp4</video>
-		<marquee>./wheel/skytargt.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<genreid>260</genreid>
-	</game>
 	<game id="37493" source="ScreenScraper.fr">
 		<path>./vcop.zip</path>
 		<name>Virtua Cop</name>
@@ -511,5 +496,20 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37485" source="ScreenScraper.fr">
+		<path>./skytargt.zip</path>
+		<name>Sky Target</name>
+		<desc>Sky Target is a 1995 arcade game by Sega. A rail shooter featuring a number of planes including the default F-14D Super Tomcat, it is best remembered for its semi-official connection to Sega's earlier hit After Burner. Although never billed as a sequel, its overt similarities to the 1987 classic were nonetheless referenced in official promotional materials and recognized by the media.</desc>
+		<image>./mixart/skytargt.png</image>
+		<video>./snap/skytargt.mp4</video>
+		<marquee>./wheel/skytargt.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<genreid>260</genreid>
 	</game>
 </gameList>

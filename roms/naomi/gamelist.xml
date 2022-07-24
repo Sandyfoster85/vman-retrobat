@@ -746,21 +746,6 @@
 		<cheevosHash>41D13ECEE91C99A4180D82ED35C7AE20</cheevosHash>
 	</game>
 	<game>
-		<path>./deathcox.zip</path>
-		<name>Death Crimson OX</name>
-		<desc>Death Crimson Ox is a lightgun-shooter, very similar to the "The House of the Dead" series.</desc>
-		<image>./mixart/deathcox.png</image>
-		<video>./snap/deathcox.mp4</video>
-		<marquee>./wheel/deathcox.png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Ecole Software</developer>
-		<publisher>Ecole</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<cheevosHash>24585FA3502B8283157986208840AEA3</cheevosHash>
-	</game>
-	<game>
 		<path>./doa2m.zip</path>
 		<name>Dead or Alive 2</name>
 		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
@@ -1698,22 +1683,6 @@
 		<cheevosHash>01BF05B95D6D610D279C17D7A5BC8CB8</cheevosHash>
 	</game>
 	<game>
-		<path>./vonot.zip</path>
-		<name>Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.66</name>
-		<desc>Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.66, known as Dennou Senki Virtual-On Oratorio Tangram M.S.B.S. Ver. 5.66, is the last of three major revisions to Cyber Troopers Virtual-On: Oratorio Tangram, a sequel to Cyber Troopers Virtual-On. M.S.B.S. Ver. 5.66 was released for Sega NAOMI arcade hardware and follows Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.4.    Ver. 5.66 makes significant changes to Oratorio Tangram, upgrading the aesthetics to suit the improved NAOMI hardware, introducing three new Virtuaroids, and including VMU support, allowing the game to interact with the Sega Dreamcast version of Ver. 5.4(5).    In 2009, this version of the game was brought to Xbox Live Arcade.</desc>
-		<image>./mixart/vonot.png</image>
-		<video>./snap/vonot.mp4</video>
-		<marquee>./wheel/vonot.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>408446BA2344483C7BE6BA1F3A7355AD</cheevosHash>
-	</game>
-	<game>
 		<path>./vs2_2k.zip</path>
 		<name>Virtua Striker 2 Ver. 2000 (rev C)</name>
 		<desc>Virtua Striker 2 is a football game. Players compete as 1 of 32 international teams, detailed down to the members' uniforms and playing styles. As the most dedicated soccer fanatic expects, the gameplay is highly detailed and the action is fast and furious. The realistic, motion-captured players perform a plethora of stylish moves, including bicycle kicks, headers, and slide tackles. One cool feature: as the virtual clock ticks away the hours from morning through evening, the environmental lighting adjusts accordingly. Of course, a social game like soccer is twice as fun with a fellow Pelé wannabe, which is why there's a head-to-head two-person multiplayer mode.</desc>
@@ -1861,5 +1830,36 @@
 		<publisher>Sega</publisher>
 		<genre>Puzzle-Game-Various</genre>
 		<cheevosHash>27AA949C43882F243094F13DBC9F087C</cheevosHash>
+	</game>
+	<game>
+		<path>./vonot.zip</path>
+		<name>Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.66</name>
+		<desc>Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.66, known as Dennou Senki Virtual-On Oratorio Tangram M.S.B.S. Ver. 5.66, is the last of three major revisions to Cyber Troopers Virtual-On: Oratorio Tangram, a sequel to Cyber Troopers Virtual-On. M.S.B.S. Ver. 5.66 was released for Sega NAOMI arcade hardware and follows Cyber Troopers Virtual-On: Oratorio Tangram M.S.B.S. Ver. 5.4.    Ver. 5.66 makes significant changes to Oratorio Tangram, upgrading the aesthetics to suit the improved NAOMI hardware, introducing three new Virtuaroids, and including VMU support, allowing the game to interact with the Sega Dreamcast version of Ver. 5.4(5).    In 2009, this version of the game was brought to Xbox Live Arcade.</desc>
+		<image>./mixart/vonot.png</image>
+		<video>./snap/vonot.mp4</video>
+		<marquee>./wheel/vonot.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>408446BA2344483C7BE6BA1F3A7355AD</cheevosHash>
+	</game>
+	<game>
+		<path>./deathcox.zip</path>
+		<name>Death Crimson OX</name>
+		<desc>Death Crimson Ox is a lightgun-shooter, very similar to the "The House of the Dead" series.</desc>
+		<image>./mixart/deathcox.png</image>
+		<video>./snap/deathcox.mp4</video>
+		<marquee>./wheel/deathcox.png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Ecole Software</developer>
+		<publisher>Ecole</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<cheevosHash>24585FA3502B8283157986208840AEA3</cheevosHash>
 	</game>
 </gameList>
