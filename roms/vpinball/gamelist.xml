@@ -92,7 +92,7 @@
 	</game>
 	<game>
 		<path>./Apollo 13 (Sega 1995) V1.62.vpx</path>
-		<name>Apollo 13 (Sega 1995) V1.62</name>
+		<name>Apollo 13 (Sega 1995) (PupEdition)</name>
 		<desc>Flipper Apollo 13 (Sega 1995) V1.62</desc>
 		<image>./mixart/Apollo 13 (Sega 1995) V1.62.jpg</image>
 		<video>./snap/Apollo 13 (Sega 1995) V1.62.mp4</video>
@@ -103,6 +103,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -287,7 +288,7 @@
 	</game>
 	<game>
 		<path>./Creature From The Black Lagoon (Bally 1992)_1.3.vpx</path>
-		<name>Creature From The Black Lagoon (Bally 1992)_1.3</name>
+		<name>Creature From The Black Lagoon (Bally 1992) (PupEdition)</name>
 		<desc>Flipper Creature From The Black Lagoon (Bally 1992) v1.3</desc>
 		<image>./mixart/Creature From The Black Lagoon (Bally 1992)_1.3.jpg</image>
 		<video>./snap/Creature From The Black Lagoon (Bally 1992)_1.3.mp4</video>
@@ -298,6 +299,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -317,7 +319,7 @@
 	</game>
 	<game>
 		<path>./Demolition Man (Knorr-Kiwi) 1.3.1.vpx</path>
-		<name>Demolition Man (Knorr-Kiwi) 1.3.1</name>
+		<name>Demolition Man (PupEdition)</name>
 		<desc>Flipper Demolition Man (Knorr-Kiwi) 1.3.1</desc>
 		<image>./mixart/Demolition Man (Knorr-Kiwi) 1.3.1.jpg</image>
 		<video>./snap/Demolition Man (Knorr-Kiwi) 1.3.1.mp4</video>
@@ -328,6 +330,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -407,7 +410,7 @@
 	</game>
 	<game>
 		<path>./Freddy A Nightmare On Elm Street (1994).vpx</path>
-		<name>Freddy A Nightmare On Elm Street (1994)</name>
+		<name>Freddy A Nightmare On Elm Street (1994) (PupEdition)</name>
 		<desc>Flipper Freddy A Nightmare On Elm Street (1994)</desc>
 		<image>./mixart/Freddy A Nightmare On Elm Street (1994).jpg</image>
 		<video>./snap/Freddy A Nightmare On Elm Street (1994).mp4</video>
@@ -418,6 +421,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4081,13 +4085,13 @@
 	</game>
 	<game>
 		<path>./Tales from the Crypt (Data East 1993) VPW v1.22.vpx</path>
-		<name>Tales from the Crypt (Data East 1993)</name>
+		<name>Tales from the Crypt (Data East) (PupEdition)</name>
 		<desc>Flipper Tales from the Crypt (Data East 1993) VPW v1.22</desc>
 		<image>./mixart/Tales from the Crypt (Data East 1993) VPW v1.22.png</image>
 		<video>./snap/Tales from the Crypt (Data East 1993) VPW v1.22.mp4</video>
 		<marquee>./wheel/Tales from the Crypt (Data East 1993) VPW v1.22.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
+		<rating>4</rating>
+		<releasedate>Unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -7350,22 +7354,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Playboy (Stern 2002) v1.1.vpx</path>
-		<name>Playboy (Stern 2002) (PupEdition)</name>
-		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
-		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
-		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
-		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Doom Eternal - 1.00.vpx</path>
 		<name>Doom Eternal</name>
 		<desc>Flipper Doom Eternal - 1.00</desc>
@@ -7705,6 +7693,38 @@
 		<marquee>./wheel/Walking Dead, The 1.2.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Playboy (Stern 2002) v1.1.vpx</path>
+		<name>Playboy (Stern 2002) (PupEdition)</name>
+		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
+		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
+		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
+		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Black Sabbath (Original 2020).vpx</path>
+		<name>Black Sabbath (Original 2020) (PupEdition)</name>
+		<desc>Flipper Black Sabbath (Original 2020)</desc>
+		<image>./mixart/Black Sabbath (Original 2020).png</image>
+		<video>./snap/Black Sabbath (Original 2020).mp4</video>
+		<marquee>./wheel/Black Sabbath (Original 2020).png</marquee>
+		<rating>3</rating>
+		<releasedate>2020</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
