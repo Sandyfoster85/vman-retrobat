@@ -5573,24 +5573,6 @@ Choice of 4 different game modes: race against the clock, attempt increasingly c
 		<cheevosHash>EA872AD35252B53D01CFD57E76913285</cheevosHash>
 	</game>
 	<game>
-		<path>./Diablo (USA).chd</path>
-		<name>Diablo</name>
-		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
-		<image>./mixart/Diablo (USA).png</image>
-		<video>./snap/Diablo (USA).mp4</video>
-		<marquee>./wheel/Diablo (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19980302T000000</releasedate>
-		<developer>Blizzard</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Role playing games</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A796211AA32C1A53BA998C93EAE8820F</cheevosHash>
-		<cheevosId>11344</cheevosId>
-	</game>
-	<game>
 		<path>./Die Hard Trilogy (USA).chd</path>
 		<name>Die Hard Trilogy</name>
 		<desc>Die Hard Trilogy is split into three games, each game representing one of the movies, obviously.  
@@ -21488,5 +21470,25 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<region>us</region>
 		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
 		<cheevosId>14345</cheevosId>
+	</game>
+	<game>
+		<path>./Diablo (USA).chd</path>
+		<name>Diablo</name>
+		<desc>Set in the fictional Kingdom of Khanduras, located in the world of Sanctuary, Diablo has the player take control of a lone hero battling to rid the world of Diablo, the Lord of Terror. Beneath the town of Tristram, the player journeys through sixteen dungeon levels, ultimately entering Hell itself in order to face Diablo.</desc>
+		<emulator>libretro</emulator>
+		<core>mednafen_psx_hw</core>
+		<image>./mixart/Diablo (USA).png</image>
+		<video>./snap/Diablo (USA).mp4</video>
+		<marquee>./wheel/Diablo (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19980302T000000</releasedate>
+		<developer>Blizzard</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Role playing games</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A796211AA32C1A53BA998C93EAE8820F</cheevosHash>
+		<cheevosId>11344</cheevosId>
 	</game>
 </gameList>

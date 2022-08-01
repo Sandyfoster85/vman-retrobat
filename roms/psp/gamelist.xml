@@ -3946,23 +3946,6 @@ The player can set up the car for the races with options to tweak aerodynamics, 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="28056" source="ScreenScraper.fr">
-		<path>./Fate-Unlimited Codes (USA).cso</path>
-		<name>Fate-Unlimited Codes Portable</name>
-		<desc>Based on the hit Japanese anime series, Fate/Stay Night, this compelling combat experience for the PSP system features a deep roster of characters with unique fighting moves, while employing a fast-paced, weapons-based fighting system that is sure to meet any Capcom fighter fan's highest expectations.</desc>
-		<image>./mixart/Fate-Unlimited Codes (USA).png</image>
-		<video>./snap/Fate-Unlimited Codes (USA).mp4</video>
-		<marquee>./wheel/Fate-Unlimited Codes (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090903T000000</releasedate>
-		<developer>Cavia</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
-	</game>
 	<game id="27945" source="ScreenScraper.fr">
 		<path>./Fate_Extra_USA_PSP-PLAYASiA.cso</path>
 		<name>Fate-Extra</name>
@@ -12048,5 +12031,22 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<genre>Platform-Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="28056" source="ScreenScraper.fr">
+		<path>./Fate-Unlimited Codes (USA).cso</path>
+		<name>Fate-Unlimited Codes Portable</name>
+		<desc>Based on the hit Japanese anime series, Fate/Stay Night, this compelling combat experience for the PSP system features a deep roster of characters with unique fighting moves, while employing a fast-paced, weapons-based fighting system that is sure to meet any Capcom fighter fan's highest expectations.</desc>
+		<image>./mixart/Fate-Unlimited Codes (USA).png</image>
+		<video>./snap/Fate-Unlimited Codes (USA).mp4</video>
+		<marquee>./wheel/Fate-Unlimited Codes (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090903T000000</releasedate>
+		<developer>Cavia</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
 	</game>
 </gameList>
