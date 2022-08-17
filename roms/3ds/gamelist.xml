@@ -3454,22 +3454,6 @@ As you explore the world, use your Yo-kai Watch to find them, befriend them, and
 		<region>us</region>
 		<genreid>768</genreid>
 	</game>
-	<game id="11030" source="ScreenScraper.fr">
-		<path>./Super Mario 3D Land (U).3ds</path>
-		<name>Super Mario 3D Land</name>
-		<desc>Super Mario 3D Land is a platform game that has been described by game designer Shigeru Miyamoto as a "3D Mario that plays as a 2D Mario game." As such, Super Mario 3D Land combines the elements of traditional side-scrolling Mario titles, such as linear-based levels, with those of the modern open world Mario titles, such as moving Mario in three dimensions and performing a variety of actions. Similar to the classic side-scrolling Mario games, the objective of each level is to reach and grab the "Goal Pole" located at the end of the course before the time limit expires. Super Mario 3D Land utilizes a similar health system to those games, in which Mario shrinks upon taking damage from enemies or hazards, and damage while as "Small Mario" results in losing a life.</desc>
-		<image>./mixart/Super Mario 3D Land (U).png</image>
-		<video>./snap/Super Mario 3D Land (U).mp4</video>
-		<marquee>./wheel/Super Mario 3D Land (U).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20111113T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<genreid>257</genreid>
-	</game>
 	<game id="11038" source="ScreenScraper.fr">
 		<path>./Mario &amp; Luigi - Dream Team (Usa).3ds</path>
 		<name>Mario &amp; Luigi: Dream Team</name>
@@ -3514,5 +3498,21 @@ Features:
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1537</genreid>
+	</game>
+	<game id="11030" source="ScreenScraper.fr">
+		<path>./Super Mario 3D Land (U).3ds</path>
+		<name>Super Mario 3D Land</name>
+		<desc>Super Mario 3D Land is a platform game that has been described by game designer Shigeru Miyamoto as a "3D Mario that plays as a 2D Mario game." As such, Super Mario 3D Land combines the elements of traditional side-scrolling Mario titles, such as linear-based levels, with those of the modern open world Mario titles, such as moving Mario in three dimensions and performing a variety of actions. Similar to the classic side-scrolling Mario games, the objective of each level is to reach and grab the "Goal Pole" located at the end of the course before the time limit expires. Super Mario 3D Land utilizes a similar health system to those games, in which Mario shrinks upon taking damage from enemies or hazards, and damage while as "Small Mario" results in losing a life.</desc>
+		<image>./mixart/Super Mario 3D Land (U).png</image>
+		<video>./snap/Super Mario 3D Land (U).mp4</video>
+		<marquee>./wheel/Super Mario 3D Land (U).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20111113T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<genreid>257</genreid>
 	</game>
 </gameList>

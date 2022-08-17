@@ -16650,25 +16650,6 @@ Losing a life resets your power and bomb count to the amount you start with. "Ai
 		<cheevosHash>749C0CA49386816DACE46712B6431635</cheevosHash>
 	</game>
 	<game>
-		<path>./airwolf.zip</path>
-		<name>Airwolf</name>
-		<desc>Airwolf is a horizontally scrolling shoot'em up game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/airwolf.png</image>
-		<video>./snap/airwolf.mp4</video>
-		<marquee>./wheel/airwolf.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Kyugo Boueki</developer>
-		<publisher>Kyugo of America, Inc</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>084F1203E22DF0FCAD06B4088FF169F3</cheevosHash>
-	</game>
-	<game>
 		<path>./ajax.zip</path>
 		<name>Ajax</name>
 		<desc>The player has been issued an emergency order. He must save the earth from being conquered by enemy forces. He climbs into his helicopter and prepares for intense aerial combat. Shooting oncoming enemy aircrafts and bombing the enemies below, he tries to make his way through the different stages to reach the enemy base. When he finishes the first stage, he is transported to his next mission by ab aircraft carrier. He hops into his jet fighters, tanks, ships, helicopters, and aircraft carriers. The player must also be aware of unseen enemies and surprise attacks.
@@ -16932,31 +16913,6 @@ As well as the standard Aliens and Face-huggers from the original film (that now
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>14178286E1C963D8D523452E3A8C4285</cheevosHash>
-	</game>
-	<game>
-		<path>./aliensyn.zip</path>
-		<name>Alien Syndrome</name>
-		<desc>Alien Syndrome is a overhead-view run and gun game for one or two players in which a number of Mankind's space ships and bases have been overrun by an alien race, who have taken the human inhabitants hostage.
-
-Players control two soldiers named Ricky and Mary and must fight their way through large eight-way scrolling levels to rescue their captured comrades. Once a set number of hostages have been rescued, an exit opens and players can pass through it to fight the end-of-level guardian. Once the guardian is defeated, play moves onto the next stage.
-
-A time-bomb is automatically set at the start of each stage, which must then be completed before the bomb's timer runs down. Failure to finish the level in time results in the death of the player characters. Weapon upgrades and maps of the current level are available at certain points and are accessed via hatchways in the wall.
-
-Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting solely of a fight to the death against the game's final, massive guardian.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/aliensyn.png</image>
-		<video>./snap/aliensyn.mp4</video>
-		<marquee>./wheel/aliensyn.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0103136B3BF5AD61E4F5187168797BCB</cheevosHash>
 	</game>
 	<game>
 		<path>./aligatorun.zip</path>
@@ -21211,31 +21167,6 @@ Once you've destroyed all the crystal balls, the haunted house starts falling ap
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>45C70FA099B5213ADE63A0F6DC39D843</cheevosHash>
-	</game>
-	<game>
-		<path>./bombjack.zip</path>
-		<name>Bomb Jack</name>
-		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
-
-Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
-
-A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
-
-Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
-
-The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".</desc>
-		<image>./mixart/bombjack.png</image>
-		<video>./snap/bombjack.mp4</video>
-		<marquee>./wheel/bombjack.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Tehkan</developer>
-		<publisher>Tehkan</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>89200B01515AC5483690875F00901B08</cheevosHash>
 	</game>
 	<game>
 		<path>./bombkick.zip</path>
@@ -38111,23 +38042,6 @@ After making it back to your house you get to watch a little intermission before
 		<region>us</region>
 		<cheevosHash>4FF9FC6E4E5D5F590C4F2134A8CC96D1</cheevosHash>
 	</game>
-	<game>
-		<path>./jackal.zip</path>
-		<name>Jackal</name>
-		<desc>Take the role of soldiers infiltrating enemy territory in a jeep to rescue your POW comrades.</desc>
-		<image>./mixart/jackal.png</image>
-		<video>./snap/jackal.mp4</video>
-		<marquee>./wheel/jackal.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter / Vehicle, Vertical-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5DA520440785B95DF2C6016087C315AE</cheevosHash>
-	</game>
 	<game id="41852">
 		<path>./jackrabt.zip</path>
 		<name>Jack Rabbit</name>
@@ -38258,47 +38172,6 @@ Hostages will randomly run across the screen and can be rescued by running into 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6205038A27293B32551CB779A6F849DB</cheevosHash>
-	</game>
-	<game id="41875">
-		<path>./jdredd.zip</path>
-		<name>Judge Dredd</name>
-		<desc>The game was not based on the movie - in fact, it was started long before the programmers/designers knew the movie. During its development, it underwent three name changes (two of which were completely unrelated) before finally returning to being a Dredd-based game!</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/jdredd.png</image>
-		<video>./snap/jdredd.mp4</video>
-		<marquee>./wheel/jdredd.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19971126T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight / 3D</genre>
-		<arcadesystemname>acclaim</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>13311ebf448d4bf27ae6d94e899af188</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
-	</game>
-	<game>
-		<path>./jdreddp.zip</path>
-		<name>Judge Dredd</name>
-		<desc>Here comes the judge! A beat-'em-up action based on the comics book of the same name.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/jdreddp.png</image>
-		<video>./snap/jdreddp.mp4</video>
-		<marquee>./wheel/jdreddp.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A22DF06C6DF447BEC2FC378D777D2B16</cheevosHash>
 	</game>
 	<game>
 		<path>./jedi.zip</path>
@@ -41866,27 +41739,6 @@ After the end of every stage, a cutscene where Lupin in a classic car travels to
 		<region>us</region>
 		<cheevosHash>AA9C6131F932AD47C56A823ACF537075</cheevosHash>
 	</game>
-	<game>
-		<path>./lwings.zip</path>
-		<name>Legendary Wings</name>
-		<desc>The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.
-
-The world was in a panic. The human race was on the brink of extinction.
-
-ARES, god of war, gave two young men Wings of Love and Courage and entrusted them with the survival and future of the human race. Time is of the essence. Destroy DARK Take wings, legendary soldiers.</desc>
-		<image>./mixart/lwings.png</image>
-		<video>./snap/lwings.mp4</video>
-		<marquee>./wheel/lwings.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>97081B1AA020A430B162B92969314719</cheevosHash>
-	</game>
 	<game id="42201">
 		<path>./m4.zip</path>
 		<name>M-4</name>
@@ -45308,29 +45160,6 @@ The music for the attract mode was remixed, then reused for the first stage of "
 		<cheevosId>11770</cheevosId>
 	</game>
 	<game>
-		<path>./mspacman.zip</path>
-		<name>Ms. Pac-Man</name>
-		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
-
-Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
-
-Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
-
-Ms Pac-Man features four different maze layouts, which alternate every two to four rounds:</desc>
-		<image>./mixart/mspacman.png</image>
-		<video>./snap/mspacman.mp4</video>
-		<marquee>./wheel/mspacman.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-		<genre>Action-Action / Labyrinth</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>01052A074F9E7CE8DC823A5DD2155D14</cheevosHash>
-	</game>
-	<game>
 		<path>./msword.zip</path>
 		<name>Magic Sword</name>
 		<desc>The land has been cast in darkness by Drokmar, who has been corrupted by the Black Orb; an artefact that promises immortality to anyone who comes under the influence of the orb's powerful sorcery. Tw</desc>
@@ -46898,33 +46727,6 @@ Players control one of the two aircraft piloted by a male pilot named 'Dalas' an
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CB8A0A7FFB65D165375B68EE99619BFB</cheevosHash>
-	</game>
-	<game>
-		<path>./nrallyx.zip</path>
-		<name>New Rally X</name>
-		<desc>New Rally-X is a scrolling, overhead mazed-based racing game in which the player drives a racing car around a maze and must collect ten yellow flags before the car's fuel runs out. In-game opponents consist of red enemy cars that pursue and try to ram into and destroy the player's car. The enemy cars are faster moving than the player's vehicle. 
-
-The player's car automatically moves in whichever direction the joystick is pushed and if it runs into a wall, it will turn automatically and continue moving. To disrupt the chasing enemy cars a smoke-screen can be activated that trails behind the player's car, causing any pursuing vehicles to crash. Activating the smoke screen uses a small amount of fuel, however, so players must be careful to not overuse it.
-
-Each maze also has rock formations and crashing into these will result in the loss of a player car. A radar display to the right-hand side of the playing area shows the relative positions of the flags, rocks and enemy vehicles. 
-
-In addition to the standard ten flags, each maze also contains a special flag (indicated by the letter "S"). If collected, the value earned for the round's remaining flags doubles from 100 to 200 points. If the player dies before the end of that round, the flag value is set back to 100 points and the double bonus is lost. 
-
-The mazes also contain a 'lucky flag'. This is marked with the letter 'L' and - providing there are still standard flags remaining - awards the player extra points for remaining fuel, after which the round will continue as normal. Upon completion of a round, bonus points are awarded based on how much fuel the player has remaining.
-
-As players progress through the rounds, the number or pursuing enemy cars increases.</desc>
-		<image>./mixart/nrallyx.png</image>
-		<video>./snap/nrallyx.mp4</video>
-		<marquee>./wheel/nrallyx.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Action / Labyrinth-Race, Driving-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4736176283CD0C7428727BA545E7BE6B</cheevosHash>
 	</game>
 	<game>
 		<path>./nratechu.zip</path>
@@ -52076,23 +51878,6 @@ Also, the game maintains the capacity to destroy some things of the fight zone.<
 		<cheevosHash>973B5FB5ED453A8BF76CC8EF009CE1EC</cheevosHash>
 	</game>
 	<game>
-		<path>./rbtapper.zip</path>
-		<name>Root Beer Tapper</name>
-		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:  Cowboys  Athletes  Punk Rockers  Aliens</desc>
-		<image>./mixart/rbtapper.png</image>
-		<video>./snap/rbtapper.mp4</video>
-		<marquee>./wheel/rbtapper.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>17F2B6DAC6D972045E777A8A13F8EA1C</cheevosHash>
-	</game>
-	<game>
 		<path>./rchase.zip</path>
 		<name>Rail Chase</name>
 		<desc>Rail Chase is a lightgun controlled one or two player shooting game, in which the players travel in a minecart through a huge rail network; pursued by a multitude of weapon-carrying enemies. The fast-paced action also features sections in which the player comes across junctions in the track and can chose whether to go left or right - the chosen route usually dictating how many tack obstacles and enemies the player must face - this is achieved by shooting the signposts that are situated in the middle of the points. Some sections also have the player's minecart leave the track entirely and travel over open ground.</desc>
@@ -53586,39 +53371,6 @@ After all the symbols are cleared, the round ends. In successive rounds, additio
 		<region>us</region>
 		<cheevosHash>C5D4C5917B39B5E57844B610C7BDEAEB</cheevosHash>
 	</game>
-	<game id="37549">
-		<path>./rsgun.zip</path>
-		<name>Radiant Silvergun</name>
-		<desc>Sometime in the future, scientists have discovered a diamond-shaped alien device deep in space. The mysterious alien device detonates while being probed, starting a chain reaction which destroys the entire planet. Fortunately, there's a group of slap-happy space cadets who are up in orbit who aren't affected by the explosion, but witness it, so they decide to do something about it - which means finding a way to travel back in time to avert the catastrophe before it happens!
-
-Radiant Silvergun is a vertically scrolling shoot-em-up rendered with a superb mix of 2 &amp; 3-D graphics, and is widely considered to be the finest ever game of its type in what is a very crowded genre.
-
-Part of the reason for the game's huge success is in the implementation of its weapons system. Unlike other shoot-em-ups, all of the game's weapons are available to the player from the very beginning. Silvergun's control panel consists of 3 different fire buttons, each of which activates a different weapon; either 'Vulcan', 'Homing' or 'Spread'. In addition, players can activate 4 extra weapons using a combination of the t3 fire buttons. These are:
-
-A + B = Homing Plasma 
-A + C = Backwards Wide Shot 
-B + C = Homing Spread 
-A + B + C = Radiant Sword
-
-At the start of a game, the player's weapons are very weak, but they can be 'powered-up' by shooting same-coloured enemies (chaining), in a fashion similar to gaining experience for a weapon in a role playing game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/rsgun.png</image>
-		<video>./snap/rsgun.mp4</video>
-		<marquee>./wheel/rsgun.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Treasure</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Radiant Silvergun</family>
-		<arcadesystemname>segastv</arcadesystemname>
-		<players>4</players>
-		<md5>9088cb25337ffff359a33e99f5cf8c33</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F66F244869F5F5D521E6AEC660FC6D00</cheevosHash>
-	</game>
 	<game>
 		<path>./rshark.zip</path>
 		<name>R-Shark</name>
@@ -53971,33 +53723,6 @@ Saboten Bombers is a single screen platform game. The gameplay consists of throw
 		<region>us</region>
 		<cheevosHash>1FF635B6DD49C1B03BB02C35C3823CF6</cheevosHash>
 		<cheevosId>4845</cheevosId>
-	</game>
-	<game>
-		<path>./salamand.zip</path>
-		<name>Salamander</name>
-		<desc>Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, "Nemesis". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels.
-
-Salamander's weapon power-up system is as follows:
-SPEED UP: Five speed levels.
-MISSILE: Press missile button to launch.
-LASER: Your forward rockets turn into deadly lasers.
-RIPPLE LASER: Use shoot button to fire.
-FORCE FIELD: Protect your ship with barriers.
-MULTIPLE: Increase your fire power by up to four times.
-
-Multiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.</desc>
-		<image>./mixart/salamand.png</image>
-		<video>./snap/salamand.mp4</video>
-		<marquee>./wheel/salamand.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Shooter / Plane</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C7895795EA1A8EF073903FDDDB00C28D</cheevosHash>
 	</game>
 	<game>
 		<path>./salarymc.zip</path>
@@ -55531,29 +55256,6 @@ The other major change over the Street Fighter 2 series are the Alpha counters. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6CFC3332A8EF7CE8079C2B09476EA155</cheevosHash>
-	</game>
-	<game id="42993">
-		<path>./sfex2h.zip</path>
-		<name>Street Fighter EX2</name>
-		<desc>Street Fighter EX2 is a 3-D game, in the normally-2-D Street Fighter game series.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/sfex2h.png</image>
-		<video>./snap/sfex2h.mp4</video>
-		<marquee>./wheel/sfex2h.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Street Fighter EX</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>4052824ee17bc49d6bcc18122a8082b8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D4D0349A783252B02A10FEFA83234A2C</cheevosHash>
 	</game>
 	<game id="42994">
 		<path>./sfex2ph.zip</path>
@@ -64887,23 +64589,6 @@ Tatsujin is a vertical scrolling shooter arcade game, featuring 8 levels with no
 		<cheevosHash>EB154922BF8EF386B4FE3E7435C5B948</cheevosHash>
 	</game>
 	<game>
-		<path>./tturf.zip</path>
-		<name>Tough Turf</name>
-		<desc>A fellow that looks like he just got off of work figures that he'd rid the city streets of those pesky gang members and their allies.</desc>
-		<image>./mixart/tturf.png</image>
-		<video>./snap/tturf.mp4</video>
-		<marquee>./wheel/tturf.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6A99DDBBBA15FDA5EB09C0952101C20E</cheevosHash>
-	</game>
-	<game>
 		<path>./tubep.zip</path>
 		<name>Tube Panic</name>
 		<desc>An early 3-D shoot'em up game.
@@ -67898,26 +67583,6 @@ The player's life bar is represented by a fire breathing dragon in the upper cor
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>790E02A43613AF22195906AEEF2813E4</cheevosHash>
-	</game>
-	<game id="44083">
-		<path>./winrun.zip</path>
-		<name>Winning Run</name>
-		<desc>The player would have a choice of race 'Easy Drive' or 'Technical Drive' (Auto Or Manual). Then the game would start in qualify (or Practice mode) successfully completing the course would then send the game into 'Grand Prix' mode. In both stages the player would be against an alloted time limit to get through the track.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/winrun.png</image>
-		<video>./snap/winrun.mp4</video>
-		<marquee>./wheel/winrun.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 1st Pers. view</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<md5>d0fc2efda050b1a833eb99388b2c546b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0EFB088E823CD5823468A3BABF80A9CC</cheevosHash>
 	</game>
 	<game id="44084">
 		<path>./winrun91.zip</path>
@@ -70941,34 +70606,6 @@ In a future where space travel has existed since 2119. Humans explored space, an
 		<region>us</region>
 		<cheevosHash>5E387412312B631FE2B9960CF2F95273</cheevosHash>
 	</game>
-	<game>
-		<path>./ssridersubc.zip</path>
-		<name>Sunset Riders</name>
-		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
-
-The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
-
-Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
-
-Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
-
-A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
-
-Sunset Riders features eight stages of play.</desc>
-		<image>./mixart/ssriders.png</image>
-		<video>./snap/ssriders.mp4</video>
-		<marquee>./wheel/ssriders.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Platform-Shooter / Horizontal-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>492EA859726D84D6FC94AAED5D07152C</cheevosHash>
-		<cheevosId>11932</cheevosId>
-	</game>
 	<game id="145728">
 		<path>./solarwar.zip</path>
 		<name>Solar War</name>
@@ -71255,23 +70892,6 @@ The clone - After defeating Willy, the player will have to fight their character
 		<cheevosHash>F40FF507C93E1F907BAF6D9941123F0D</cheevosHash>
 	</game>
 	<game>
-		<path>./dragnblz.zip</path>
-		<name>Dragon Blaze</name>
-		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
-		<image>./mixart/dragnblz.png</image>
-		<video>./snap/dragnblz.mp4</video>
-		<marquee>./wheel/dragnblz.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>BB12D3D5D28E54C09625C17CE20FD614</cheevosHash>
-	</game>
-	<game>
 		<path>./kicker.zip</path>
 		<name>Kicker</name>
 		<desc>Kung-fu player jumps around multiple level boards, kicking opponents and collecting power-ups and bonus items. Player defeats by way of three kicks the board "boss" and advances to the next level.</desc>
@@ -71518,32 +71138,6 @@ The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port T
 		<cheevosHash>4BA3BC924E9C952DB540AD0D9553F6FA</cheevosHash>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
-	</game>
-	<game>
 		<path>./mk2.zip</path>
 		<name>Mortal Kombat 2</name>
 		<desc>Mortal Kombat II is a direct sequel to the 1992 original featuring new fighters (increasing the character roster from 7 to 12) and improved graphics. 
@@ -71568,28 +71162,6 @@ Each character still shares generic attributes - speed, power, jump height and a
 		<region>us</region>
 		<cheevosHash>A683090976EC0F04DCA81F6DB9CA7484</cheevosHash>
 		<cheevosId>14978</cheevosId>
-	</game>
-	<game>
-		<path>./contra.zip</path>
-		<name>Contra</name>
-		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
-
-'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
-
-Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
-		<image>./mixart/contra.png</image>
-		<video>./snap/contra.mp4</video>
-		<marquee>./wheel/contra.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A83F0F76C2AFAD4F5D7260824430B798</cheevosHash>
 	</game>
 	<game>
 		<path>./marble.zip</path>
@@ -71862,29 +71434,6 @@ RUN PLAY and PASS PLAY. Which to choose to attack!? Select either of the eight f
 		<region>us</region>
 		<cheevosHash>4A4273CB3E8FB7804AAEBF5F65606F0D</cheevosHash>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
 	<game>
 		<path>./astdelux.zip</path>
 		<name>Asteroids Deluxe</name>
@@ -71971,28 +71520,6 @@ After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, J
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0F7BA106DFB75DF4DC6ACD89457ACA6F</cheevosHash>
-	</game>
-	<game>
-		<path>./carnival.zip</path>
-		<name>Carnival</name>
-		<desc>CARNIVAL is a 1 or 2 player alternate action game that simulates a carnival shooting gallery. The playfield consists of three target rows, a rotating pipe wheel, a bonus message panel, and a 'special' target block.
-
-The player uses a left right control to position a rifle at the bottom of the screen, and a shoot control to fire the rifle. Two rows of bullets at the bottom of the screen indicate the number of shots remaining to the player. Every time the player shoots, one of the bullets disappears from the screen. More bullets are given during the first round than the others, so, the inexperienced player will have a chance to enjoy the play.
-bear between rounds for extra points.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/carnival.png</image>
-		<video>./snap/carnival.mp4</video>
-		<marquee>./wheel/carnival.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD7D02101D1E2E15045A1E8FD2433459</cheevosHash>
 	</game>
 	<game>
 		<path>./cosmicg.zip</path>
@@ -72342,24 +71869,6 @@ Gyruss' superb gameplay, in which the player ship rotates around the edges of th
 		<cheevosId>12173</cheevosId>
 	</game>
 	<game>
-		<path>./kungfum.zip</path>
-		<name>Kung-Fu Master</name>
-		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
-		<image>./mixart/kungfum.png</image>
-		<video>./snap/kungfum.mp4</video>
-		<marquee>./wheel/kungfum.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Fight / 2D-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
-	</game>
-	<game>
 		<path>./narc.zip</path>
 		<name>Narc</name>
 		<desc>NARC is a graphically violent one or two-player side-scrolling shoot-em-up in which players take on the role of "Narcs"; futuristic police officers whose duty it is to either arrest or kill drug dealers, junkies and attack dogs as players fight to crush the criminal empire known as K.R.A.K. 
@@ -72380,26 +71889,6 @@ The Narcs have both machine guns and rocket launchers at their disposal and play
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D89658CC648D08594C86AC4505084D3A</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
 	</game>
 	<game>
 		<path>./outrun.zip</path>
@@ -72425,30 +71914,6 @@ As well as being able to choose routes, players could also - via the game's "in-
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game>
-		<path>./robotron.zip</path>
-		<name>Robotron: 2084</name>
-		<desc>Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
-
-The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
-
-At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
-
-MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.</desc>
-		<image>./mixart/robotron.png</image>
-		<video>./snap/robotron.mp4</video>
-		<marquee>./wheel/robotron.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Vid Kidz</developer>
-		<publisher>Williams / Vid Kidz</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>656AEFB80B236D5E86412607B50E5156</cheevosHash>
 	</game>
 	<game>
 		<path>./rygar.zip</path>
@@ -72620,31 +72085,6 @@ To advance through the game, players must fight their way through each room to a
 		<region>us</region>
 		<cheevosHash>5095A576FC147ACCB6EC751030ACC2FC</cheevosHash>
 	</game>
-	<game id="79093">
-		<path>./opwolf3u.zip</path>
-		<name>Operation Wolf 3</name>
-		<desc>Operation Wolf 3 is a light-gun controlled shoot-em-up in which a terrorist organization known as 'SKULL' has taken over an island and are armed with nuclear missiles. Two agents, codenamed 'Hornet' and 'Queen Bee' (players one and two respectively) are dispatched by the United Nations taskforce, 'Federation for Freedom', and must take down the SKULL organisation and disarm the nuclear missiles.
-
-Unlike the limited ammo found in the first game in the series, players now have unlimited ammo. As long as the trigger is squeezed, weapons will fire on full automatic. Once the ammo meter is depleted, the rate of fire decreases sharply. When the trigger is released, the meter instantly refills. Players can also carry a limited supply of grenades, although only three bombs can be carried at any one time, as opposed to the nine of the first game. As players progress through the stages, various power-ups can be found, such as stronger weapons and extra grenades.</desc>
-		<emulator>libretro</emulator>
-		<core>fbneo</core>
-		<image>./mixart/opwolf3u.png</image>
-		<video>./snap/opwolf3u.mp4</video>
-		<marquee>./wheel/opwolf3u.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter</genre>
-		<family>Operation Wolf</family>
-		<arcadesystemname>taito</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>d7eb1db3e696e7b351597b76841ee21a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8B9749F35BD29300E53C0085018ABE17</cheevosHash>
-	</game>
 	<game>
 		<path>./88games.zip</path>
 		<name>'88 Games</name>
@@ -72782,28 +72222,6 @@ Battle Mode: Lock and load your way through eight killer battle arenas.</desc>
 		<cheevosHash>DE7D34DBD63215293F83B0A887072D0B</cheevosHash>
 		<genreid>262</genreid>
 	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
 	<game>
 		<path>./kchamp.zip</path>
 		<name>Karate Champ</name>
@@ -72899,5 +72317,587 @@ Ridge Racer's superb gameplay places a large emphasis on 'power sliding'; lockin
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>1B2D8DB6E9C52997B0E272D5C0936775</cheevosHash>
+	</game>
+	<game>
+		<path>./contra.zip</path>
+		<name>Contra</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
+		<image>./mixart/contra.png</image>
+		<video>./snap/contra.mp4</video>
+		<marquee>./wheel/contra.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A83F0F76C2AFAD4F5D7260824430B798</cheevosHash>
+	</game>
+	<game>
+		<path>./mspacman.zip</path>
+		<name>Ms. Pac-Man</name>
+		<desc>In this, the first proper sequel to Namco's legendary pill eating maze game, players must once again run around a number of mazes, eating all of the pills that are scattered throughout. The ever-present ghosts (Blinky, Pinky, Inky and Sue) return to hamper the player's progress. The infamous 'Power Pills' are also present and correct, with four appearing in each maze. 
+
+Namco introduced a number of changes and enhancements over the original game. The first difference is in the main character. For the first time in video-game history, the game's lead character was female. Ms. Pac-Man is almost identical to the original character with two main differences; she wears a bow in her 'hair', and is also wearing lipstick. 
+
+Another change from the original is that the bonus fruit items are no longer static but now move randomly around the mazes. 
+
+Ms Pac-Man features four different maze layouts, which alternate every two to four rounds:</desc>
+		<image>./mixart/mspacman.png</image>
+		<video>./snap/mspacman.mp4</video>
+		<marquee>./wheel/mspacman.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Action-Action / Labyrinth</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>01052A074F9E7CE8DC823A5DD2155D14</cheevosHash>
+	</game>
+	<game id="79093">
+		<path>./opwolf3u.zip</path>
+		<name>Operation Wolf 3</name>
+		<desc>Operation Wolf 3 is a light-gun controlled shoot-em-up in which a terrorist organization known as 'SKULL' has taken over an island and are armed with nuclear missiles. Two agents, codenamed 'Hornet' and 'Queen Bee' (players one and two respectively) are dispatched by the United Nations taskforce, 'Federation for Freedom', and must take down the SKULL organisation and disarm the nuclear missiles.
+
+Unlike the limited ammo found in the first game in the series, players now have unlimited ammo. As long as the trigger is squeezed, weapons will fire on full automatic. Once the ammo meter is depleted, the rate of fire decreases sharply. When the trigger is released, the meter instantly refills. Players can also carry a limited supply of grenades, although only three bombs can be carried at any one time, as opposed to the nine of the first game. As players progress through the stages, various power-ups can be found, such as stronger weapons and extra grenades.</desc>
+		<emulator>libretro</emulator>
+		<core>fbneo</core>
+		<image>./mixart/opwolf3u.png</image>
+		<video>./snap/opwolf3u.mp4</video>
+		<marquee>./wheel/opwolf3u.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter</genre>
+		<family>Operation Wolf</family>
+		<arcadesystemname>taito</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>d7eb1db3e696e7b351597b76841ee21a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8B9749F35BD29300E53C0085018ABE17</cheevosHash>
+	</game>
+	<game>
+		<path>./rbtapper.zip</path>
+		<name>Root Beer Tapper</name>
+		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:  Cowboys  Athletes  Punk Rockers  Aliens</desc>
+		<image>./mixart/rbtapper.png</image>
+		<video>./snap/rbtapper.mp4</video>
+		<marquee>./wheel/rbtapper.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>17F2B6DAC6D972045E777A8A13F8EA1C</cheevosHash>
+	</game>
+	<game>
+		<path>./robotron.zip</path>
+		<name>Robotron: 2084</name>
+		<desc>Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
+
+The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
+
+At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
+
+MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.</desc>
+		<image>./mixart/robotron.png</image>
+		<video>./snap/robotron.mp4</video>
+		<marquee>./wheel/robotron.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams / Vid Kidz</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>656AEFB80B236D5E86412607B50E5156</cheevosHash>
+	</game>
+	<game id="42993">
+		<path>./sfex2h.zip</path>
+		<name>Street Fighter EX2</name>
+		<desc>Street Fighter EX2 is a 3-D game, in the normally-2-D Street Fighter game series.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/sfex2h.png</image>
+		<video>./snap/sfex2h.mp4</video>
+		<marquee>./wheel/sfex2h.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Street Fighter EX</family>
+		<arcadesystemname>capcom</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>4052824ee17bc49d6bcc18122a8082b8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D4D0349A783252B02A10FEFA83234A2C</cheevosHash>
+	</game>
+	<game>
+		<path>./ssridersubc.zip</path>
+		<name>Sunset Riders</name>
+		<desc>Sunset Riders is a horizontally-scrolling platform shoot-em-up for up to four players set in America's Wild West. Four sharpshooter bounty hunters (Steve, Billy, Bob and Cormano) set out to claim the bounties for killing the most wanted outlaws in the West, before a final showdown against the infamous Sir Richard de la Rose.
+
+The action takes place both on foot and on horseback, with play sometimes broken up with a wild west pursuit; such as having to run along the backs of a herd of fleeing Buffalo. Each level ends with players entering a one-on-one battle against one of the wanted men they have been pursuing. 
+
+Power-ups and bonus items can be obtained by entering saloons or defeating certain sack-carrying bandits. The power-ups comes in the form of either a golden sheriff badge (that gives the player's weapon auto-fire) or a silver badge that gives the player a second gun (making it possible to shoot in two directions simultaneously). Both power-ups can be equipped at the same time. 
+
+Other weapons that can be used by players include sticks of dynamite carried by female bandits that can be thrown back at the enemy before they explode and a mounted Gatling gun available only in the last stage. 
+
+A bonus mini-game appears at the end of Stages 2 and 5 in which players must shoot at enemies from a first-person perspective before the timer runs out.
+
+Sunset Riders features eight stages of play.</desc>
+		<image>./mixart/ssriders.png</image>
+		<video>./snap/ssriders.mp4</video>
+		<marquee>./wheel/ssriders.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Platform-Shooter / Horizontal-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>492EA859726D84D6FC94AAED5D07152C</cheevosHash>
+		<cheevosId>11932</cheevosId>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game id="44083">
+		<path>./winrun.zip</path>
+		<name>Winning Run</name>
+		<desc>The player would have a choice of race 'Easy Drive' or 'Technical Drive' (Auto Or Manual). Then the game would start in qualify (or Practice mode) successfully completing the course would then send the game into 'Grand Prix' mode. In both stages the player would be against an alloted time limit to get through the track.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/winrun.png</image>
+		<video>./snap/winrun.mp4</video>
+		<marquee>./wheel/winrun.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<md5>d0fc2efda050b1a833eb99388b2c546b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0EFB088E823CD5823468A3BABF80A9CC</cheevosHash>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game id="37549">
+		<path>./rsgun.zip</path>
+		<name>Radiant Silvergun</name>
+		<desc>Sometime in the future, scientists have discovered a diamond-shaped alien device deep in space. The mysterious alien device detonates while being probed, starting a chain reaction which destroys the entire planet. Fortunately, there's a group of slap-happy space cadets who are up in orbit who aren't affected by the explosion, but witness it, so they decide to do something about it - which means finding a way to travel back in time to avert the catastrophe before it happens!
+
+Radiant Silvergun is a vertically scrolling shoot-em-up rendered with a superb mix of 2 &amp; 3-D graphics, and is widely considered to be the finest ever game of its type in what is a very crowded genre.
+
+Part of the reason for the game's huge success is in the implementation of its weapons system. Unlike other shoot-em-ups, all of the game's weapons are available to the player from the very beginning. Silvergun's control panel consists of 3 different fire buttons, each of which activates a different weapon; either 'Vulcan', 'Homing' or 'Spread'. In addition, players can activate 4 extra weapons using a combination of the t3 fire buttons. These are:
+
+A + B = Homing Plasma 
+A + C = Backwards Wide Shot 
+B + C = Homing Spread 
+A + B + C = Radiant Sword
+
+At the start of a game, the player's weapons are very weak, but they can be 'powered-up' by shooting same-coloured enemies (chaining), in a fashion similar to gaining experience for a weapon in a role playing game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/rsgun.png</image>
+		<video>./snap/rsgun.mp4</video>
+		<marquee>./wheel/rsgun.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Treasure</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Radiant Silvergun</family>
+		<arcadesystemname>segastv</arcadesystemname>
+		<players>4</players>
+		<md5>9088cb25337ffff359a33e99f5cf8c33</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F66F244869F5F5D521E6AEC660FC6D00</cheevosHash>
+	</game>
+	<game>
+		<path>./salamand.zip</path>
+		<name>Salamander</name>
+		<desc>Salamander is a 1 or 2 player sequel to 1985's superb shoot-em-up, "Nemesis". While it retained the same basic gameplay and feel of its predecessor (particularly the superb and innovative weapons system), Salamander featured both superior graphics and a more imaginative approach to level design. The earliest example of the latter appears towards the end of the very first level, in which imposing, organic obstructions grow before the players' eyes. The game's third level - the infamous 'lava' level - is another good example of Salamander's superb design; with huge solar flares constantly erupting both above and below the player's ship that must be carefully navigated to avoid instant loss of life. Salamander introduced further variety to the action with the introduction vertically-scrolling levels, which alternated with the standard side-scrolling levels.
+
+Salamander's weapon power-up system is as follows:
+SPEED UP: Five speed levels.
+MISSILE: Press missile button to launch.
+LASER: Your forward rockets turn into deadly lasers.
+RIPPLE LASER: Use shoot button to fire.
+FORCE FIELD: Protect your ship with barriers.
+MULTIPLE: Increase your fire power by up to four times.
+
+Multiple special powers can be obtained, but the LASER cannot be used in conjunction with the RIPPLE Laser.</desc>
+		<image>./mixart/salamand.png</image>
+		<video>./snap/salamand.mp4</video>
+		<marquee>./wheel/salamand.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / Plane</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C7895795EA1A8EF073903FDDDB00C28D</cheevosHash>
+	</game>
+	<game>
+		<path>./bombjack.zip</path>
+		<name>Bomb Jack</name>
+		<desc>Bomb Jack is a fast-moving platform game in which the aim is to collect all of the bombs on each level before progressing to the next. A variety of constantly spawning mechanical enemies patrol the platforms and airspace so the longer a player takes to collect all of the bombs, the more difficult progress becomes. 
+
+Extra point bonuses are awarded for collecting bombs with their fuses lit. Only one bomb at any time has a lit fuse, and collecting twenty or more of these lit bombs on any given level will earn the player points bonus (see TIPS AND TRICKS for details). Jack is pursued around each level by the spawning enemies and when he gets killed, he drops down to the nearest platform, always landing on his head. 
+
+A 'Powerball' appears at semi-regular intervals and moves diagonally around the screen. If the player manages to grab this, all of the level's monsters are frozen for several seconds and can then be killed by having Jack fly into them (similar to the 'Powerpill' feature in "Pac-Man"). Collecting the Bonus 'B' symbols will increase the amount of points awarded for collecting bombs with their fuses lit. Picking up an 'Extra' symbol awards the player with an additional life, while catching the 'Special' symbol will give the player an extra credit. 
+
+Each of Bomb Jack's levels feature one of five different background pictures, some of which represent famous historical landmarks. They are: the Sphinx in Egypt, the Acropolis in Greece, Castle Neuschwanstein in Bavaria, skyscrapers and a cityscape by night. While the backgrounds themselves are repeated as the game progresses, the platform layouts for each level are completely different. At least until level 18, after which the levels are repeated. 
+
+The basic play mechanic of collecting objects to clear a level, as well as the powerball feature, is hugely reminiscent of Namco's seminal "Pac-Man".</desc>
+		<image>./mixart/bombjack.png</image>
+		<video>./snap/bombjack.mp4</video>
+		<marquee>./wheel/bombjack.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Tehkan</developer>
+		<publisher>Tehkan</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>89200B01515AC5483690875F00901B08</cheevosHash>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-Fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>./mixart/kungfum.png</image>
+		<video>./snap/kungfum.mp4</video>
+		<marquee>./wheel/kungfum.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight / 2D-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game>
+		<path>./airwolf.zip</path>
+		<name>Airwolf</name>
+		<desc>Airwolf is a horizontally scrolling shoot'em up game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/airwolf.png</image>
+		<video>./snap/airwolf.mp4</video>
+		<marquee>./wheel/airwolf.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Kyugo Boueki</developer>
+		<publisher>Kyugo of America, Inc</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>084F1203E22DF0FCAD06B4088FF169F3</cheevosHash>
+	</game>
+	<game>
+		<path>./dragnblz.zip</path>
+		<name>Dragon Blaze</name>
+		<desc>In a distant land, four brave dragonriders must make use of every trick in the book to survive wave after wave of powerful monsters and hulking bosses in this Psikyo shoot'em up masterpiece. Features some truly beautiful graphics &amp; sound, excellent control that features some interesting gameplay mechanics and tons of challenge.</desc>
+		<image>./mixart/dragnblz.png</image>
+		<video>./snap/dragnblz.mp4</video>
+		<marquee>./wheel/dragnblz.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BB12D3D5D28E54C09625C17CE20FD614</cheevosHash>
+	</game>
+	<game>
+		<path>./jdreddp.zip</path>
+		<name>Judge Dredd</name>
+		<desc>Here comes the judge! A beat-'em-up action based on the comics book of the same name.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/jdreddp.png</image>
+		<video>./snap/jdreddp.mp4</video>
+		<marquee>./wheel/jdreddp.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A22DF06C6DF447BEC2FC378D777D2B16</cheevosHash>
+	</game>
+	<game>
+		<path>./lwings.zip</path>
+		<name>Legendary Wings</name>
+		<desc>The human race was about to achieve the evolution from an ancient civilization to a state of millennium with the help of DARK, a super powerful computer left by spacemen long ago. DARK suddenly began to malfunction.
+
+The world was in a panic. The human race was on the brink of extinction.
+
+ARES, god of war, gave two young men Wings of Love and Courage and entrusted them with the survival and future of the human race. Time is of the essence. Destroy DARK Take wings, legendary soldiers.</desc>
+		<image>./mixart/lwings.png</image>
+		<video>./snap/lwings.mp4</video>
+		<marquee>./wheel/lwings.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>97081B1AA020A430B162B92969314719</cheevosHash>
+	</game>
+	<game>
+		<path>./tturf.zip</path>
+		<name>Tough Turf</name>
+		<desc>A fellow that looks like he just got off of work figures that he'd rid the city streets of those pesky gang members and their allies.</desc>
+		<image>./mixart/tturf.png</image>
+		<video>./snap/tturf.mp4</video>
+		<marquee>./wheel/tturf.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6A99DDBBBA15FDA5EB09C0952101C20E</cheevosHash>
+	</game>
+	<game id="41875">
+		<path>./jdredd.zip</path>
+		<name>Judge Dredd</name>
+		<desc>The game was not based on the movie - in fact, it was started long before the programmers/designers knew the movie. During its development, it underwent three name changes (two of which were completely unrelated) before finally returning to being a Dredd-based game!</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/jdredd.png</image>
+		<video>./snap/jdredd.mp4</video>
+		<marquee>./wheel/jdredd.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19971126T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight / 3D</genre>
+		<arcadesystemname>acclaim</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>13311ebf448d4bf27ae6d94e899af188</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game>
+		<path>./aliensyn.zip</path>
+		<name>Alien Syndrome</name>
+		<desc>Alien Syndrome is a overhead-view run and gun game for one or two players in which a number of Mankind's space ships and bases have been overrun by an alien race, who have taken the human inhabitants hostage.
+
+Players control two soldiers named Ricky and Mary and must fight their way through large eight-way scrolling levels to rescue their captured comrades. Once a set number of hostages have been rescued, an exit opens and players can pass through it to fight the end-of-level guardian. Once the guardian is defeated, play moves onto the next stage.
+
+A time-bomb is automatically set at the start of each stage, which must then be completed before the bomb's timer runs down. Failure to finish the level in time results in the death of the player characters. Weapon upgrades and maps of the current level are available at certain points and are accessed via hatchways in the wall.
+
+Alien Syndrome consists of 6 full stages plus a 7th final mini-stage, consisting solely of a fight to the death against the game's final, massive guardian.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/aliensyn.png</image>
+		<video>./snap/aliensyn.mp4</video>
+		<marquee>./wheel/aliensyn.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0103136B3BF5AD61E4F5187168797BCB</cheevosHash>
+	</game>
+	<game>
+		<path>./carnival.zip</path>
+		<name>Carnival</name>
+		<desc>CARNIVAL is a 1 or 2 player alternate action game that simulates a carnival shooting gallery. The playfield consists of three target rows, a rotating pipe wheel, a bonus message panel, and a 'special' target block.
+
+The player uses a left right control to position a rifle at the bottom of the screen, and a shoot control to fire the rifle. Two rows of bullets at the bottom of the screen indicate the number of shots remaining to the player. Every time the player shoots, one of the bullets disappears from the screen. More bullets are given during the first round than the others, so, the inexperienced player will have a chance to enjoy the play.
+bear between rounds for extra points.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/carnival.png</image>
+		<video>./snap/carnival.mp4</video>
+		<marquee>./wheel/carnival.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD7D02101D1E2E15045A1E8FD2433459</cheevosHash>
+	</game>
+	<game>
+		<path>./jackal.zip</path>
+		<name>Jackal</name>
+		<desc>Take the role of soldiers infiltrating enemy territory in a jeep to rescue your POW comrades.</desc>
+		<image>./mixart/jackal.png</image>
+		<video>./snap/jackal.mp4</video>
+		<marquee>./wheel/jackal.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Vehicle, Vertical-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5DA520440785B95DF2C6016087C315AE</cheevosHash>
+	</game>
+	<game>
+		<path>./nrallyx.zip</path>
+		<name>New Rally X</name>
+		<desc>New Rally-X is a scrolling, overhead mazed-based racing game in which the player drives a racing car around a maze and must collect ten yellow flags before the car's fuel runs out. In-game opponents consist of red enemy cars that pursue and try to ram into and destroy the player's car. The enemy cars are faster moving than the player's vehicle. 
+
+The player's car automatically moves in whichever direction the joystick is pushed and if it runs into a wall, it will turn automatically and continue moving. To disrupt the chasing enemy cars a smoke-screen can be activated that trails behind the player's car, causing any pursuing vehicles to crash. Activating the smoke screen uses a small amount of fuel, however, so players must be careful to not overuse it.
+
+Each maze also has rock formations and crashing into these will result in the loss of a player car. A radar display to the right-hand side of the playing area shows the relative positions of the flags, rocks and enemy vehicles. 
+
+In addition to the standard ten flags, each maze also contains a special flag (indicated by the letter "S"). If collected, the value earned for the round's remaining flags doubles from 100 to 200 points. If the player dies before the end of that round, the flag value is set back to 100 points and the double bonus is lost. 
+
+The mazes also contain a 'lucky flag'. This is marked with the letter 'L' and - providing there are still standard flags remaining - awards the player extra points for remaining fuel, after which the round will continue as normal. Upon completion of a round, bonus points are awarded based on how much fuel the player has remaining.
+
+As players progress through the rounds, the number or pursuing enemy cars increases.</desc>
+		<image>./mixart/nrallyx.png</image>
+		<video>./snap/nrallyx.mp4</video>
+		<marquee>./wheel/nrallyx.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action / Labyrinth-Race, Driving-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4736176283CD0C7428727BA545E7BE6B</cheevosHash>
 	</game>
 </gameList>

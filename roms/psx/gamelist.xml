@@ -10614,23 +10614,6 @@ You can choose to play through the single player campaign, or you can go head to
 		<region>us</region>
 		<cheevosHash>09D9B76B0D6818BEB33D8554B5759E26</cheevosHash>
 	</game>
-	<game>
-		<path>./Lode Runner (USA).chd</path>
-		<name>Lode Runner</name>
-		<desc>The computer classic Lode Runner comes to home to your PlayStation. Lode Runner: The Legend Returns and Lode Runner Extra are both included in this amazing 2-in-1 packaging. Dig and blast your way through hundreds of levels of exciting and challenging gameplay!</desc>
-		<image>./mixart/Lode Runner (USA).png</image>
-		<video>./snap/Lode Runner (USA).mp4</video>
-		<marquee>./wheel/Lode Runner (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19980204T000000</releasedate>
-		<developer>Banpresto</developer>
-		<publisher>Natsume</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3AD3982796C785014F8FE40ACCA9B77A</cheevosHash>
-	</game>
 	<game id="103513" source="ScreenScraper.fr">
 		<path>./Looney Tunes - Sheep Raider (USA).chd</path>
 		<name>Looney Tunes : Sheep Raider</name>
@@ -21490,5 +21473,23 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<region>us</region>
 		<cheevosHash>A796211AA32C1A53BA998C93EAE8820F</cheevosHash>
 		<cheevosId>11344</cheevosId>
+	</game>
+	<game>
+		<path>./Lode Runner (USA).chd</path>
+		<name>Lode Runner</name>
+		<desc>The computer classic Lode Runner comes to home to your PlayStation. Lode Runner: The Legend Returns and Lode Runner Extra are both included in this amazing 2-in-1 packaging. Dig and blast your way through hundreds of levels of exciting and challenging gameplay!</desc>
+		<image>./mixart/Lode Runner (USA).png</image>
+		<video>./snap/Lode Runner (USA).mp4</video>
+		<marquee>./wheel/Lode Runner (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19980204T000000</releasedate>
+		<developer>Banpresto</developer>
+		<publisher>Natsume</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3AD3982796C785014F8FE40ACCA9B77A</cheevosHash>
 	</game>
 </gameList>

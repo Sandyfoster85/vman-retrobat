@@ -692,16 +692,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Oblivion Movie.fpt</path>
-		<name>Oblivion Movie</name>
-		<desc>Flipper Oblivion Movie</desc>
-		<image>./mixart/Oblivion Movie.png</image>
-		<video>./snap/Oblivion Movie.mp4</video>
-		<marquee>./wheel/Oblivion Movie.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sons Of Anarchy - Jipar.fpt</path>
 		<name>Sons Of Anarchy - Jipar</name>
 		<desc>Flipper Sons Of Anarchy</desc>
@@ -3527,22 +3517,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./WALLACE and GROMIT.fpt</path>
-		<name>WALLACE and GROMIT</name>
-		<desc>Flipper WALLACE and GROMIT</desc>
-		<image>./mixart/WALLACE and GROMIT.png</image>
-		<video>./snap/WALLACE and GROMIT.mp4</video>
-		<marquee>./wheel/WALLACE and GROMIT.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bowling Champ (Gottlieb 1949).fpt</path>
 		<name>Bowling Champ (Gottlieb 1949)</name>
 		<desc>Flipper Bowling Champ (Gottlieb 1949)</desc>
@@ -3776,22 +3750,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tron Legacy (STERN) ULTIMATE 1.01.fpt</path>
-		<name>Tron Legacy (STERN) ULTIMATE 1.01</name>
-		<desc>Flipper Tron Legacy (STERN) ULTIMATE</desc>
-		<image>./mixart/Tron Legacy (STERN) ULTIMATE 1.01.jpg</image>
-		<video>./snap/Tron Legacy (STERN) ULTIMATE 1.01.mp4</video>
-		<marquee>./wheel/Tron Legacy (STERN) ULTIMATE 1.01.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./TRON Legacy ULTIMATE 1.13.fpt</path>
 		<name>TRON Legacy ULTIMATE 1.13</name>
 		<desc>Flipper TRON Legacy ULTIMATE 1.13</desc>
@@ -3840,17 +3798,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Elvis Stern.fpt</path>
-		<name>Elvis Stern</name>
-		<desc>Flipper Elvis Stern</desc>
-		<image>./mixart/Elvis Stern.png</image>
-		<video>./snap/Elvis Stern.mp4</video>
-		<marquee>./wheel/Elvis Stern.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./GREMLINS MOD 2.0.fpt</path>
 		<name>Gremlins</name>
 		<desc>Flipper GREMLINS MOD 2.0</desc>
@@ -3893,22 +3840,6 @@
 		<releasedate>20210101T000000</releasedate>
 		<genre>Pinball</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4446,22 +4377,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sonic Pinball Mania.fpt</path>
-		<name>Sonic Pinball Mania</name>
-		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods</desc>
-		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
-		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
-		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Superman (Atari 1979) Full HD.fpt</path>
 		<name>Superman (Atari 1979) HD</name>
 		<desc>Flipper Superman (Atari 1979) Full HD</desc>
@@ -4525,6 +4440,17 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Elvis Stern.fpt</path>
+		<name>Elvis Stern</name>
+		<desc>Flipper Elvis Stern</desc>
+		<image>./mixart/Elvis Stern.png</image>
+		<video>./snap/Elvis Stern.mp4</video>
+		<marquee>./wheel/Elvis Stern.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).fpt</path>
 		<name>Star Wars DSA ULTIMATE Pro - (Galactic Edition)</name>
 		<desc>Flipper Star Wars Death Star Assault - Galactic Edition (1.0 - PinEvent V2)</desc>
@@ -4532,6 +4458,80 @@
 		<video>./snap/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).mp4</video>
 		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
 		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic Pinball Mania.fpt</path>
+		<name>Sonic Pinball Mania</name>
+		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods</desc>
+		<image>./mixart/Sonic Pinball Mania (1.0).jpg</image>
+		<video>./snap/Sonic Pinball Mania (1.0).mp4</video>
+		<marquee>./wheel/Sonic Pinball Mania (1.0).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Legacy (STERN) ULTIMATE 1.01.fpt</path>
+		<name>Tron Legacy (STERN) ULTIMATE 1.01</name>
+		<desc>Flipper Tron Legacy (STERN) ULTIMATE</desc>
+		<image>./mixart/Tron Legacy (STERN) ULTIMATE 1.01.jpg</image>
+		<video>./snap/Tron Legacy (STERN) ULTIMATE 1.01.mp4</video>
+		<marquee>./wheel/Tron Legacy (STERN) ULTIMATE 1.01.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Oblivion Movie.fpt</path>
+		<name>Oblivion Movie</name>
+		<desc>Flipper Oblivion Movie</desc>
+		<image>./mixart/Oblivion Movie.png</image>
+		<video>./snap/Oblivion Movie.mp4</video>
+		<marquee>./wheel/Oblivion Movie.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WALLACE and GROMIT.fpt</path>
+		<name>WALLACE and GROMIT</name>
+		<desc>Flipper WALLACE and GROMIT</desc>
+		<image>./mixart/WALLACE and GROMIT.png</image>
+		<video>./snap/WALLACE and GROMIT.mp4</video>
+		<marquee>./wheel/WALLACE and GROMIT.png</marquee>
+		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>

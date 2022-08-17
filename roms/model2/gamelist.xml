@@ -248,23 +248,6 @@ The game is made to be played with a two-joystick setup, known as the twin-stick
 		<md5>8d314f44fcc63929b6925b614ae0d197</md5>
 		<genreid>1537</genreid>
 	</game>
-	<game id="37505" source="ScreenScraper.fr">
-		<path>./zerogun.zip</path>
-		<name>Zero Gunner</name>
-		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
-		<image>./mixart/zerogun.png</image>
-		<video>./snap/zerogun.mp4</video>
-		<marquee>./wheel/zerogun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shooter / Plane</genre>
-		<arcadesystemname>model2</arcadesystemname>
-		<players>2</players>
-		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
-		<genreid>260</genreid>
-	</game>
 	<game id="41073" source="ScreenScraper.fr">
 		<path>./dynamcop.zip</path>
 		<name>Dynamite Cop</name>
@@ -330,26 +313,6 @@ It has all the standard features of such a title: passing a checkpoint adds more
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="37495" source="ScreenScraper.fr">
-		<path>./vf2.zip</path>
-		<name>Virtua Fighter 2</name>
-		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
-
-The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
-		<image>./mixart/vf2.png</image>
-		<video>./snap/vf2.mp4</video>
-		<marquee>./wheel/vf2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
 	</game>
 	<game>
 		<path>./gunblade.zip</path>
@@ -447,24 +410,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37492" source="ScreenScraper.fr">
-		<path>./topskatr.zip</path>
-		<name>Top Skater</name>
-		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
-		<image>./mixart/topskatr.png</image>
-		<video>./snap/topskatr.mp4</video>
-		<marquee>./wheel/topskatr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports / Skateboard-Sports</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1538</genreid>
-	</game>
 	<game>
 		<path>./daytona.zip</path>
 		<name>Daytona USA</name>
@@ -510,6 +455,61 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<publisher>Sega</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
+		<genreid>260</genreid>
+	</game>
+	<game id="37492" source="ScreenScraper.fr">
+		<path>./topskatr.zip</path>
+		<name>Top Skater</name>
+		<desc>The first high tech skateboard simulator hits the streets with full body racing action! Perform difficult moves like the pros, without breaking your appendages. Players can use their entire body to maneuver through ultra-challenging skateboarding courses... this is not a video game its a spectator sport! Choose from six unique characters with individual style and personality. Includes all the hard-core skateboard moves: kick flips, 180-degree turns, 360 flips, indy nose bones, Oilies and more!</desc>
+		<image>./mixart/topskatr.png</image>
+		<video>./snap/topskatr.mp4</video>
+		<marquee>./wheel/topskatr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Skateboard-Sports</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1538</genreid>
+	</game>
+	<game id="37495" source="ScreenScraper.fr">
+		<path>./vf2.zip</path>
+		<name>Virtua Fighter 2</name>
+		<desc>Virtua Fighter 2 is a fighting game developed by Sega. It is the sequel to Virtua Fighter and the second game in the Virtua Fighter series. It was created by the Sega's Yu Suzuki-headed AM2 and was released in the arcade in 1994. VF2 was known for breakthrough graphics at the time. It used Sega's Model 2 arcade hardware to run the game at 60 frames per second at a high resolution with no slowdown.
+
+The arena size could be adjusted up to a very small platform or all the way to 82 meters, which in the genre is considered very large; this is the only game in the seriesâ€”other than Virtua Fighter Remixâ€”that could have such size adjustments. The physical energy meter could also be adjusted to infinity as well, giving you the advantage when beating opponents in the game or practicing moves against the computer player. Incidentally, players discovered that adjusting the arena to a smaller size and giving the characters infinite health could lead to mock sumo matches, wherein victory is achieved by knocking the other player out of the ring.</desc>
+		<image>./mixart/vf2.png</image>
+		<video>./snap/vf2.mp4</video>
+		<marquee>./wheel/vf2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogun.zip</path>
+		<name>Zero Gunner</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<image>./mixart/zerogun.png</image>
+		<video>./snap/zerogun.mp4</video>
+		<marquee>./wheel/zerogun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane</genre>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>2</players>
+		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
 		<genreid>260</genreid>
 	</game>
 </gameList>

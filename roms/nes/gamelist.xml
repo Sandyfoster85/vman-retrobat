@@ -30446,26 +30446,6 @@ Gameplay takes place in two perspectives: a top-down view, which lets you run ar
 		<cheevosId>2016</cheevosId>
 	</game>
 	<game>
-		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
-		<name>Castlevania HD</name>
-		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
-
-Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
-		<image>./mixart/Castlevania (USA).png</image>
-		<video>./#nes-hd/snap/Castlevania (USA) (Rev A) HD.mp4</video>
-		<marquee>./wheel/Castlevania (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870501T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>728E05F245AB8B7FE61083F6919DC485</cheevosHash>
-		<cheevosId>1462</cheevosId>
-	</game>
-	<game>
 		<path>./Blaster Master (USA).zip</path>
 		<name>Blaster Master</name>
 		<desc>The classic story of a boy and his frog who runs away, becomes radioactive and jumps into a hole. More importantly however, it's the story about a boy who finds a fully functional battletank, SOFIA the 3rd, and goes adventuring around the underground. His mission... to find new weapons and add-on parts to the battletank which will in turn allow him to explore more areas until eventually he finds that freedom-loving mutant frog. And while he's down there he might as well defeat the Evil Plutonium Boss who wishes to threaten the Earth.</desc>
@@ -30599,5 +30579,25 @@ Hearts taken from enemies are used in shops to buy various items and power-ups. 
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
+	</game>
+	<game>
+		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
+		<name>Castlevania HD</name>
+		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
+
+Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
+		<image>./mixart/Castlevania (USA).png</image>
+		<video>./#nes-hd/snap/Castlevania (USA) (Rev A) HD.mp4</video>
+		<marquee>./wheel/Castlevania (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>728E05F245AB8B7FE61083F6919DC485</cheevosHash>
+		<cheevosId>1462</cheevosId>
 	</game>
 </gameList>

@@ -6,36 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="37521" source="ScreenScraper.fr">
-		<path>./Spike Out Digital Battle Online.zip</path>
-		<name>Spikeout Digital Battle Online</name>
-		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<image>./mixart/Spike Out Digital Battle Online.png</image>
-		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
-		<video>./snap/Spike Out Digital Battle Online.mp4</video>
-		<genreid>263</genreid>
-	</game>
-	<game id="37526" source="ScreenScraper.fr">
-		<path>./Virtua Striker 2.zip</path>
-		<name>Virtua Striker 2</name>
-		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
-		<rating>0.8</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports / Soccer-Sports</genre>
-		<players>1-2</players>
-		<image>./mixart/Virtua Striker 2.png</image>
-		<marquee>./wheel/Virtua Striker 2.png</marquee>
-		<video>./snap/Virtua Striker 2.mp4</video>
-		<genreid>1538</genreid>
-	</game>
 	<game id="43989" source="ScreenScraper.fr">
 		<path>./Virtua Striker 2 99.zip</path>
 		<name>Virtua Striker 2 '99</name>
@@ -359,5 +329,35 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37521" source="ScreenScraper.fr">
+		<path>./Spike Out Digital Battle Online.zip</path>
+		<name>Spikeout Digital Battle Online</name>
+		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
+		<image>./mixart/Spike Out Digital Battle Online.png</image>
+		<video>./snap/Spike Out Digital Battle Online.mp4</video>
+		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<genreid>263</genreid>
+	</game>
+	<game id="37526" source="ScreenScraper.fr">
+		<path>./Virtua Striker 2.zip</path>
+		<name>Virtua Striker 2</name>
+		<desc>The Virtua Striker video games are arcade-style football/soccer sports games by Sega. Originally developed by Sega AM2, the series moved to Amusement Vision with Virtua Striker 3. But the series moved again to Sega AM2 with Virtua Striker 4. The original Virtua Striker, released in 1994, was the first association football game to use 3D computer graphics, and was also notable for its early use of texture mapping,[1] along with Sega's own racing video game Daytona USA.</desc>
+		<image>./mixart/Virtua Striker 2.png</image>
+		<video>./snap/Virtua Striker 2.mp4</video>
+		<marquee>./wheel/Virtua Striker 2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports / Soccer-Sports</genre>
+		<players>2</players>
+		<genreid>1538</genreid>
 	</game>
 </gameList>

@@ -746,23 +746,6 @@
 		<cheevosHash>41D13ECEE91C99A4180D82ED35C7AE20</cheevosHash>
 	</game>
 	<game>
-		<path>./doa2m.zip</path>
-		<name>Dead or Alive 2</name>
-		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
-		<image>./mixart/doa2.png</image>
-		<video>./snap/doa2.mp4</video>
-		<marquee>./wheel/doa2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
-	</game>
-	<game>
 		<path>./dybb99.zip</path>
 		<name>Dynamite Baseball '99 (Japan, Rev B)</name>
 		<desc>Dynamite Baseball '99 is the upgrade to the original version.Dynamite Baseball is simply a baseball game from Sega. You pick your team and players and play, you guessed it, baseball. For an early Naomi game, the graphics are quite good. The players have a realistic look to them that was uncommon in its day.</desc>
@@ -910,20 +893,6 @@
 		<genre>Sports-Sports / Wrestling</genre>
 		<players>2</players>
 		<cheevosHash>58D2B30F587A147E687B76C49FD7D6F9</cheevosHash>
-	</game>
-	<game>
-		<path>./gunsur2.zip</path>
-		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
-		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
-		<image>./mixart/gunsur2.png</image>
-		<video>./snap/gunsur2.mp4</video>
-		<marquee>./wheel/gunsur2.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<cheevosHash>4767B433E100780A8BA4EE33A214ECA4</cheevosHash>
 	</game>
 	<game>
 		<path>./gwing2.zip</path>
@@ -1861,5 +1830,37 @@
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
 		<cheevosHash>24585FA3502B8283157986208840AEA3</cheevosHash>
+	</game>
+	<game>
+		<path>./doa2m.zip</path>
+		<name>Dead or Alive 2</name>
+		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
+		<image>./mixart/doa2.png</image>
+		<video>./snap/doa2.mp4</video>
+		<marquee>./wheel/doa2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
+	</game>
+	<game>
+		<path>./gunsur2.zip</path>
+		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
+		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
+		<image>./mixart/gunsur2.png</image>
+		<video>./snap/gunsur2.mp4</video>
+		<marquee>./wheel/gunsur2.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<favorite>true</favorite>
+		<cheevosHash>4767B433E100780A8BA4EE33A214ECA4</cheevosHash>
 	</game>
 </gameList>

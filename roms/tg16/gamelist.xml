@@ -138,25 +138,6 @@ This top-down action-arcade game consists of nine levels per stage, each tougher
 		<players>1</players>
 		<cheevosHash>F4922BC12AC5C46C29D18D21E34F910F</cheevosHash>
 	</game>
-	<game>
-		<path>./Bonk's Adventure (USA).zip</path>
-		<name>Bonk's Adventure</name>
-		<desc>Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.
-
-The game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.
-
-If you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.</desc>
-		<image>./mixart/Bonk's Adventure (USA).png</image>
-		<video>./snap/Bonk's Adventure (USA).mp4</video>
-		<marquee>./wheel/Bonk's Adventure (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19891215T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>NEC</publisher>
-		<genre>Action</genre>
-		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
-		<cheevosId>2279</cheevosId>
-	</game>
 	<game id="78611" source="ScreenScraper">
 		<path>./Bonk's Revenge (USA).zip</path>
 		<name>Bonk's Revenge</name>
@@ -1755,5 +1736,24 @@ The main table is two screens high. There are at least 3 bonus games that are ac
 		<region>us</region>
 		<cheevosHash>0088D1D20861490677EDB147D2DE60BD</cheevosHash>
 		<cheevosId>2271</cheevosId>
+	</game>
+	<game>
+		<path>./Bonk's Adventure (USA).zip</path>
+		<name>Bonk's Adventure</name>
+		<desc>Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.
+
+The game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.
+
+If you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.</desc>
+		<image>./mixart/Bonk's Adventure (USA).png</image>
+		<video>./snap/Bonk's Adventure (USA).mp4</video>
+		<marquee>./wheel/Bonk's Adventure (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
+		<cheevosId>2279</cheevosId>
 	</game>
 </gameList>

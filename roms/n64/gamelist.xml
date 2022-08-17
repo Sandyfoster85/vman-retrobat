@@ -3032,23 +3032,6 @@
 		<cheevosHash>3B7330D7055AD8D514E4F516F2A80101</cheevosHash>
 	</game>
 	<game>
-		<path>./Off Road Challenge (USA).n64</path>
-		<name>Off Road Challenge</name>
-		<desc>Off Road Challenge is an off-road truck racing game for the Nintendo 64.  Like Cruis'n USA, it was also an arcade game ported over to the N64.  Gameplay is similar to that of its predecessor, Super Off Road: The Baja.  The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way.  Gold picked up on the course or earned from racing can be used to upgrade the vehicle.  Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
-		<image>./mixart/Off Road Challenge (USA).png</image>
-		<video>./snap/Off Road Challenge (USA).mp4</video>
-		<marquee>./wheel/Off Road Challenge (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980601T000000</releasedate>
-		<developer>Avalanche Software</developer>
-		<publisher>Midway</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4CA359921B3A49DCD5BBD725656A255D</cheevosHash>
-	</game>
-	<game>
 		<path>./Ogre Battle 64 - Person of Lordly Caliber (USA) (Rev A).n64</path>
 		<name>Ogre Battle 64 : Person of Lordly Caliber</name>
 		<desc>The Holy Lodis Empire is planning the domination of the entire continent of Zeteginia! It is up to you to raise the flag of revolution and rid the land of the Lodis threat. Make decisions in real-time and take control of numerous characters to prove victorious on the battlefield and regain freedom for all people!</desc>
@@ -5156,5 +5139,22 @@
 		<region>us</region>
 		<cheevosHash>1822EF9F6DA0DDF2B3CCC71F33D4A653</cheevosHash>
 		<cheevosId>10648</cheevosId>
+	</game>
+	<game>
+		<path>./Off Road Challenge (USA).n64</path>
+		<name>Off Road Challenge</name>
+		<desc>Off Road Challenge is an off-road truck racing game for the Nintendo 64.  Like Cruis'n USA, it was also an arcade game ported over to the N64.  Gameplay is similar to that of its predecessor, Super Off Road: The Baja.  The player races against other off-road vehicles across various landscapes, while collecting nitros and gold along the way.  Gold picked up on the course or earned from racing can be used to upgrade the vehicle.  Once the player has completed the circuit, they move up to the next difficulty level and go through it again, keeping the upgraded truck.</desc>
+		<image>./mixart/Off Road Challenge (USA).png</image>
+		<video>./snap/Off Road Challenge (USA).mp4</video>
+		<marquee>./wheel/Off Road Challenge (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980601T000000</releasedate>
+		<developer>Avalanche Software</developer>
+		<publisher>Midway</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4CA359921B3A49DCD5BBD725656A255D</cheevosHash>
 	</game>
 </gameList>

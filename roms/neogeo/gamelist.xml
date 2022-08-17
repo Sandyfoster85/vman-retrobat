@@ -2093,26 +2093,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<cheevosId>13796</cheevosId>
 	</game>
 	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers - 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
-
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
-		<image>./mixart/shocktr2.png</image>
-		<video>./snap/shocktr2.mp4</video>
-		<marquee>./wheel/shocktr2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
-		<cheevosId>11768</cheevosId>
-	</game>
-	<game>
 		<path>./bangbead.zip</path>
 		<name>Bang Bead</name>
 		<desc>Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the Game &amp; Watch series. You can select from 9 characters and play against another player or the computer. Knock out the stars behind the other player then get the bouncing ball through to win the round.</desc>
@@ -2287,6 +2267,23 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<cheevosId>11753</cheevosId>
 	</game>
 	<game>
+		<path>./aof.zip</path>
+		<name>Art of Fighting</name>
+		<desc>The storyline of Art of Fighting takes place in 1978. Ryo Sakazaki and Robert Garcia set out to find Ryo's sister, Yuri, who was kidnapped by Mr. Big. Mr. Big took Yuri to entice Takuma Sakazaki, Ryo's father and originator of Kyokugen Karate, and also because Ryo refused to work for Big. After Ryo &amp; Robert defeat Mr. Big, they face the enigmatic Mr. Karate. Art of Fighting's story ends with a cliff-hanger; Yuri is about to disclose the true identity of Mr. Karate as their father Takuma.</desc>
+		<image>./mixart/aof.png</image>
+		<video>./snap/aof.mp4</video>
+		<marquee>./wheel/aof.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight-Fight / Versus-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>DF4A8B32238C36921A260ED6AB784850</cheevosHash>
+		<cheevosId>11758</cheevosId>
+	</game>
+	<game>
 		<path>./mslugx.zip</path>
 		<name>Metal Slug X - Super Vehicle-001</name>
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
@@ -2305,20 +2302,23 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<cheevosId>11770</cheevosId>
 	</game>
 	<game>
-		<path>./aof.zip</path>
-		<name>Art of Fighting</name>
-		<desc>The storyline of Art of Fighting takes place in 1978. Ryo Sakazaki and Robert Garcia set out to find Ryo's sister, Yuri, who was kidnapped by Mr. Big. Mr. Big took Yuri to entice Takuma Sakazaki, Ryo's father and originator of Kyokugen Karate, and also because Ryo refused to work for Big. After Ryo &amp; Robert defeat Mr. Big, they face the enigmatic Mr. Karate. Art of Fighting's story ends with a cliff-hanger; Yuri is about to disclose the true identity of Mr. Karate as their father Takuma.</desc>
-		<image>./mixart/aof.png</image>
-		<video>./snap/aof.mp4</video>
-		<marquee>./wheel/aof.png</marquee>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
+		<image>./mixart/shocktr2.png</image>
+		<video>./snap/shocktr2.mp4</video>
+		<marquee>./wheel/shocktr2.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SNK</developer>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
 		<publisher>SNK</publisher>
-		<genre>Fight-Fight / Versus-Action</genre>
+		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
-		<cheevosHash>DF4A8B32238C36921A260ED6AB784850</cheevosHash>
-		<cheevosId>11758</cheevosId>
+		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
+		<cheevosId>11768</cheevosId>
 	</game>
 </gameList>
