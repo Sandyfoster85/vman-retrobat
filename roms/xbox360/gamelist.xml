@@ -3758,24 +3758,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17757">
-		<path>./Bonk.m3u</path>
-		<name>Bonk : Brink of Extinction</name>
-		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
-		<image>./mixart/Bonk.jpg</image>
-		<video>./snap/Bonk.mp4</video>
-		<marquee>./wheel/Bonk.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T132913" />
-	</game>
 	<game id="17818">
 		<path>./Burgertime World Tour.m3u</path>
 		<name>Burgertime World Tour</name>
@@ -3885,25 +3867,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<rating>0.6</rating>
 		<releasedate>20080101T000000</releasedate>
 		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="17283">
-		<path>./Double Dragon.m3u</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon on Xbox Live Arcade is a beat'em all set in chaotic New York in the heart of the 90s. Alone or in pairs, you play as Billy and Jim Lee, two brothers teaching martial arts. The story begins when Billy's girlfriend is kidnapped by an urban gang. The two brothers then decide to go straight to battle with the opposing gang. This version offers a choice between original and HD graphics.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Double Dragon.png</image>
-		<video>./snap/Double Dragon.mp4</video>
-		<marquee>./wheel/Double Dragon.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070509T000000</releasedate>
-		<developer>RazorWorks</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Double Dragon</family>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -4242,22 +4205,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<md5>0309bf2c9770b6a554d619df9a3e226d</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220813T082812" />
-	</game>
-	<game id="17960">
-		<path>./Pinball FX.m3u</path>
-		<name>Pinball Fx</name>
-		<desc>Pinball FX offers several pinball tables for both novices and experts. It combines traditional arcade feel with enhanced gameplay and innovative features for a game of this genre. With the power of the Xbox 360, Pinball FX sets a new standard for realistic ball physics and graphical detail.</desc>
-		<image>./mixart/Pinball FX.png</image>
-		<video>./snap/Pinball FX.mp4</video>
-		<marquee>./wheel/Pinball FX.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Zen Studios</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game id="16640">
 		<path>./Pool Nation.m3u</path>
@@ -4612,6 +4559,59 @@ The player control the series' main character, Strider Hiryu. The environment is
 		<publisher>Atari</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17960">
+		<path>./Pinball FX.m3u</path>
+		<name>Pinball Fx</name>
+		<desc>Pinball FX offers several pinball tables for both novices and experts. It combines traditional arcade feel with enhanced gameplay and innovative features for a game of this genre. With the power of the Xbox 360, Pinball FX sets a new standard for realistic ball physics and graphical detail.</desc>
+		<image>./mixart/Pinball FX.png</image>
+		<video>./snap/Pinball FX.mp4</video>
+		<marquee>./wheel/Pinball FX.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Zen Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17757">
+		<path>./Bonk.m3u</path>
+		<name>Bonk : Brink of Extinction</name>
+		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
+		<image>./mixart/Bonk.jpg</image>
+		<video>./snap/Bonk.mp4</video>
+		<marquee>./wheel/Bonk.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T132913" />
+	</game>
+	<game id="17283">
+		<path>./Double Dragon.m3u</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon on Xbox Live Arcade is a beat'em all set in chaotic New York in the heart of the 90s. Alone or in pairs, you play as Billy and Jim Lee, two brothers teaching martial arts. The story begins when Billy's girlfriend is kidnapped by an urban gang. The two brothers then decide to go straight to battle with the opposing gang. This version offers a choice between original and HD graphics.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Double Dragon.png</image>
+		<video>./snap/Double Dragon.mp4</video>
+		<marquee>./wheel/Double Dragon.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070509T000000</releasedate>
+		<developer>RazorWorks</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Double Dragon</family>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

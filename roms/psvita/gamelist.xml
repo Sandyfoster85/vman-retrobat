@@ -1,16 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="30142">
-		<path>./Burn the Rope.cmd</path>
-		<name>Burn The Rope</name>
-		<image>./mixart/Burn the Rope.png</image>
-		<rating>0.6</rating>
-		<developer>Big Blue Bubble</developer>
-		<publisher>Big Blue Bubble</publisher>
-		<genre>Action</genre>
-		<md5>d275456b8490ff84cb0be6ad32989904</md5>
-		<lang>en</lang>
-	</game>
 	<game id="30025">
 		<path>./Coconut Dodge Revitalised.cmd</path>
 		<name>Coconut Dodge Revitalised</name>
@@ -20,48 +9,56 @@ What are you doing?
 
 The goal of Coconut Dodge Revitalized is to collect as many treasures as possible, while avoiding getting hit three times by falling coconuts. To do this, move Clawrence back and forth along the bottom of the screen, choosing between three different speeds for the crab.
 If you die, you have to start over from the beginning, and everything repeats almost exactly the same way each time.</desc>
-		<image>./mixart/Coconut Dodge Revitalised.png</image>
+		<image>./mixart/Coconut Dodge Revitalised.jpg</image>
 		<rating>0.55</rating>
 		<developer>FuturLab</developer>
 		<publisher>FuturLab</publisher>
 		<genre>Action</genre>
 		<md5>5f0ce5a33d5ce315ef8ce8039d843b23</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Coconut Dodge Revitalised.png</marquee>
+		<video>./snap/Coconut Dodge Revitalised.mp4</video>
 	</game>
 	<game id="145256">
 		<path>./Crimsonland.cmd</path>
 		<name>Crimsonland</name>
-		<image>./mixart/Crimsonland.png</image>
+		<image>./mixart/Crimsonland.jpg</image>
 		<md5>74e57dcb2819bedc0ab45269318acc4d</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Crimsonland.png</marquee>
+		<video>./snap/Crimsonland.mp4</video>
 	</game>
 	<game id="29958">
 		<path>./Foosball 2012.cmd</path>
 		<name>Foosball 2012</name>
-		<image>./mixart/Foosball 2012.png</image>
+		<image>./mixart/Foosball 2012.jpg</image>
 		<rating>0.9</rating>
 		<developer>Grip Games</developer>
 		<publisher>Grip Games</publisher>
 		<genre>Sports</genre>
 		<md5>ba95461b9e526e9862b291eced247e33</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Foosball 2012.png</marquee>
+		<video>./snap/Foosball 2012.mp4</video>
 	</game>
 	<game id="29941">
 		<path>./Hungry Giraffe.cmd</path>
 		<name>Hungry Giraffe</name>
-		<image>./mixart/Hungry Giraffe.png</image>
+		<image>./mixart/Hungry Giraffe.jpg</image>
 		<rating>0.05</rating>
 		<releasedate>20121003T000000</releasedate>
 		<developer>Laughing Jackal</developer>
 		<publisher>Laughing Jackal</publisher>
 		<md5>357b41547aa30dae762d64f5174ffb62</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Hungry Giraffe.png</marquee>
+		<video>./snap/Hungry Giraffe.mp4</video>
 	</game>
 	<game id="30621">
 		<path>./Iconoclasts (3.61+!) [3.65].cmd</path>
 		<name>Iconoclasts</name>
-		<desc>Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people.nnnnRobin just wants to be a mechanic and help people, but without a license she's a sinner in Mother's eyes. Ever since picking up her wrench, the world has been going nuts and she's wanted to bolt it back together. Now Penance is raining down on everyone she loves and One Concern agents are after her.nnnnBut something big is going on – bigger than droughts of Ivory fuel and personal conflicts – and Robin's in the thick of it.</desc>
-		<image>./mixart/Iconoclasts (3.61+!) [3.65].png</image>
+		<desc>Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people.nnnnRobin just wants to be a mechanic and help people, but without a license she's a sinner in Mother's eyes. Ever since picking up her wrench, the world has been going nuts and she's wanted to bolt it back together. Now Penance is raining down on everyone she loves and One Concern agents are after her.nnnnBut something big is going on â€“ bigger than droughts of Ivory fuel and personal conflicts â€“ and Robin's in the thick of it.</desc>
+		<image>./mixart/Iconoclasts (3.61+!) [3.65].jpg</image>
 		<marquee>./wheel/Iconoclasts (3.61+!) [3.65].png</marquee>
 		<releasedate>20180123T000000</releasedate>
 		<developer>Konjak</developer>
@@ -70,11 +67,12 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<players>1</players>
 		<md5>0e2f5b06bc27909cf71c770af179b794</md5>
 		<lang>en</lang>
+		<video>./snap/Iconoclasts (3.61+!) [3.65].mp4</video>
 	</game>
 	<game id="30127">
 		<path>./King Oddball.cmd</path>
 		<name>King Oddball</name>
-		<image>./mixart/King Oddball.png</image>
+		<image>./mixart/King Oddball.jpg</image>
 		<marquee>./wheel/King Oddball.png</marquee>
 		<rating>0.8</rating>
 		<developer>10tons</developer>
@@ -82,21 +80,12 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<genre>Action</genre>
 		<md5>bcfbbd04329d360e8abd82a4c25be1aa</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Maliya.cmd</path>
-		<name>Maliya</name>
-		<md5>accb866b6736a5da2e3c8bcea1984bbe</md5>
-	</game>
-	<game>
-		<path>./Mekabolt.cmd</path>
-		<name>Mekabolt</name>
-		<md5>f83d7507c8451b2ac2be10254710c1bb</md5>
+		<video>./snap/King Oddball.mp4</video>
 	</game>
 	<game id="30502">
 		<path>./Metal Slug 3.cmd</path>
 		<name>Metal Slug 3</name>
-		<image>./mixart/Metal Slug 3.png</image>
+		<image>./mixart/Metal Slug 3.jpg</image>
 		<marquee>./wheel/Metal Slug 3.png</marquee>
 		<developer>DotEmu</developer>
 		<publisher>SNK</publisher>
@@ -105,16 +94,12 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<players>1-2</players>
 		<md5>1486dccc667db30cc209d98cba4a6a7f</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68].cmd</path>
-		<name>NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68]</name>
-		<md5>fe0770f04994bbe5bad5aa69f80873ee</md5>
+		<video>./snap/Metal Slug 3.mp4</video>
 	</game>
 	<game id="30270">
 		<path>./Paint Park.cmd</path>
 		<name>Paint Park</name>
-		<image>./mixart/Paint Park.png</image>
+		<image>./mixart/Paint Park.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>20120418T000000</releasedate>
 		<developer>Sony</developer>
@@ -122,58 +107,63 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<genre>Various</genre>
 		<md5>aa63083cd21110efa21e0e99927ada08</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Paint Park.png</marquee>
+		<video>./snap/Paint Park.mp4</video>
 	</game>
-	<game>
-		<path>./Paradox Soul.cmd</path>
-		<name>Paradox Soul</name>
-		<md5>5632a494b2983d08b5e50c30137c9f44</md5>
-	</game>
-	<game>
-		<path>./Pic-a-Pix Color (3.61+!) [3.67].cmd</path>
-		<name>Pic-a-Pix Color (3.61+!) [3.67]</name>
-		<md5>56c477703369d8371ab58a64150b2445</md5>
-	</game>
-	<game>
-		<path>./Red Bow (3.61+!) [3.69].cmd</path>
-		<name>Red Bow (3.61+!) [3.69]</name>
-		<md5>07859fa1699124d36fc6037e39bb1979</md5>
+	<game id="30112">
+		<path>./Pinball Heroes - Complete.cmd</path>
+		<name>Pinball Heroes Complete</name>
+		<image>./mixart/Pinball Heroes - Complete.jpg</image>
+		<rating>0.25</rating>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Pinball</genre>
+		<md5>32076b6840f9fae225b07315af4975d7</md5>
+		<lang>en</lang>
+		<marquee>./wheel/Pinball Heroes - Complete.png</marquee>
+		<video>./snap/Pinball Heroes - Complete.mp4</video>
 	</game>
 	<game id="29677">
 		<path>./Retro City Rampage DX.cmd</path>
 		<name>Retro City Rampage Dx</name>
-		<image>./mixart/Retro City Rampage DX.png</image>
+		<image>./mixart/Retro City Rampage DX.jpg</image>
 		<marquee>./wheel/Retro City Rampage DX.png</marquee>
 		<developer>Vblank Entertainment</developer>
 		<publisher>Vblank Entertainment</publisher>
 		<md5>c37b6801eacea7cb2d36e52fb2b3105f</md5>
 		<lang>en</lang>
+		<video>./snap/Retro City Rampage DX.mp4</video>
 	</game>
 	<game id="29942">
 		<path>./Samurai Warriors - Chronicles 3.cmd</path>
 		<name>Samurai Warriors Chronicles 3</name>
-		<image>./mixart/Samurai Warriors - Chronicles 3.png</image>
+		<image>./mixart/Samurai Warriors - Chronicles 3.jpg</image>
 		<rating>0.65</rating>
 		<developer>Tecmo</developer>
 		<publisher>Tecmo</publisher>
 		<md5>fe9ecdfd78b384c93b48907263ed064a</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Samurai Warriors - Chronicles 3.png</marquee>
+		<video>./snap/Samurai Warriors - Chronicles 3.mp4</video>
 	</game>
 	<game id="30044">
 		<path>./Skeleton Rider.cmd</path>
 		<name>Skeleton Rider</name>
-		<image>./mixart/Skeleton Rider.png</image>
+		<image>./mixart/Skeleton Rider.jpg</image>
 		<rating>0.6</rating>
 		<developer>iSquared Games</developer>
 		<publisher>iSquared Games</publisher>
 		<genre>Race, Driving</genre>
 		<md5>e508ea2e8b2e2e8dedce7572c977aff5</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Skeleton Rider.png</marquee>
+		<video>./snap/Skeleton Rider.mp4</video>
 	</game>
 	<game id="29615">
 		<path>./Street Fighter X Tekken.cmd</path>
 		<name>Street Fighter X Tekken</name>
-		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeâ€¦ AND on the go! Street Fighter X Tekken on the PlayStationÂ®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÂ®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
-		<image>./mixart/Street Fighter X Tekken.png</image>
+		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeÃ¢â‚¬Â¦ AND on the go! Street Fighter X Tekken on the PlayStationÃ‚Â®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÃ‚Â®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
 		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
 		<rating>0.8</rating>
 		<developer>Capcom</developer>
@@ -183,11 +173,12 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<players>2-4</players>
 		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
 		<lang>en</lang>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
 	</game>
 	<game id="29528">
 		<path>./Terraria.cmd</path>
 		<name>Terraria</name>
-		<image>./mixart/Terraria.png</image>
+		<image>./mixart/Terraria.jpg</image>
 		<marquee>./wheel/Terraria.png</marquee>
 		<rating>0.9</rating>
 		<developer>Re-Logic</developer>
@@ -195,22 +186,35 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<genre>Platform</genre>
 		<md5>912933691cfa390f2a128c127854a20e</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN.cmd</path>
-		<name>The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN</name>
-		<md5>2d70c35e19b11e700d6be50a5aca5938</md5>
+		<video>./snap/Terraria.mp4</video>
 	</game>
 	<game id="30579">
 		<path>./Whispering Willows.cmd</path>
 		<name>Whispering Willows</name>
-		<image>./mixart/Whispering Willows.png</image>
+		<image>./mixart/Whispering Willows.jpg</image>
 		<marquee>./wheel/Whispering Willows.png</marquee>
 		<developer>Night Light Interactive</developer>
 		<publisher>Night Light Interactive</publisher>
 		<genre>Adventure</genre>
 		<md5>4c189d384ff437dbc645150395de1373</md5>
 		<lang>en</lang>
+		<video>./snap/Whispering Willows.mp4</video>
+	</game>
+	<game id="29632">
+		<path>./Zero Escape - Virtue's Last Reward.cmd</path>
+		<name>Zero Escape: Virtue's Last Reward</name>
+		<desc>Zero Escape: Virtue's Last Reward is a suspense-driven visual novel/puzzle game and spiritual sequel to the hit, 999. Zero has kidnapped nine people and placed them in a warehouse to play the deadly Nonary Game. These seemingly nine strangers have bracelets that will kill them if they donÃ¢â‚¬â„¢t play the game correctly. However, how can they trust each other, and do some have ulterior motives? Play as Sigma and decide who to trust and who to betray in this plot twisting visual novel! Who is Zero, why has Sigma been brought here and who exactly are the others? With fully voiced dual language support, mind-bending puzzles and more, solve the mystery that is Zero!</desc>
+		<image>./mixart/Zero Escape - Virtue's Last Reward.jpg</image>
+		<marquee>./wheel/Zero Escape - Virtue's Last Reward.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20121023T000000</releasedate>
+		<developer>Rising Star Games</developer>
+		<publisher>Chunsoft</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<md5>75eb87148fde8c3b9e3bb1560f2c420c</md5>
+		<lang>en</lang>
+		<video>./snap/Zero Escape - Virtue's Last Reward.mp4</video>
 	</game>
 	<game>
 		<path>./10 Second Ninja X.cmd</path>
@@ -222,15 +226,18 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<players>2</players>
 		<md5>2c32a63abcce65653a0956d3d36e9264</md5>
 		<lang>en</lang>
+		<image>./mixart/10 Second Ninja X.jpg</image>
+		<marquee>./wheel/10 Second Ninja X.png</marquee>
+		<video>./snap/10 Second Ninja X.mp4</video>
 	</game>
 	<game>
 		<path>./A Rose in the Twilight (3.61+!) [3.63].cmd</path>
 		<name>A Rose in the Twilight</name>
 		<desc>A girl awakens in a castle void of color and time, affixed with the Curse of Thorns upon her back. After meeting a sleeping giant, the two work together to escape. Help them unravel the mystery of the thorns and the history behind the somber castle.
 
-In A Rose in the Twilight, use Rose's power to absorb blood and transfer it to static objects. By doing so, colorless objects become red and regain the essence of time. You will also need to make use of the giant’s super strength by lifting and throwing objects to clear your path.
+In A Rose in the Twilight, use Rose's power to absorb blood and transfer it to static objects. By doing so, colorless objects become red and regain the essence of time. You will also need to make use of the giantâ€™s super strength by lifting and throwing objects to clear your path.
 
-Every stage is a puzzle waiting to be pieced together. The further you get, the harder it becomes, but the greater the risk, the bigger the reward. Discover how to solve each stage as you delve deeper into the story’s grim origins.</desc>
+Every stage is a puzzle waiting to be pieced together. The further you get, the harder it becomes, but the greater the risk, the bigger the reward. Discover how to solve each stage as you delve deeper into the storyâ€™s grim origins.</desc>
 		<releasedate>20170411T000000</releasedate>
 		<developer>Nippon Ichi Software Inc.</developer>
 		<publisher>NIS America, Inc.</publisher>
@@ -238,12 +245,15 @@ Every stage is a puzzle waiting to be pieced together. The further you get, the 
 		<players>1</players>
 		<md5>65b2033d7ce693fc0b98cfff89bc9406</md5>
 		<lang>en</lang>
+		<image>./mixart/A Rose in the Twilight (3.61+!) [3.63].jpg</image>
+		<marquee>./wheel/A Rose in the Twilight (3.61+!) [3.63].png</marquee>
+		<video>./snap/A Rose in the Twilight (3.61+!) [3.63].mp4</video>
 	</game>
 	<game>
 		<path>./A Virus Named TOM.cmd</path>
 		<name>A Virus Named TOM</name>
 		<desc>A Virus Named TOM comes to the PS Vita, with all new levels mayhem. Hack your way through brain scrambling puzzles while maneuvering through a thumb cramping maze of enemies.</desc>
-		<image>./mixart/A Virus Named TOM.png</image>
+		<image>./mixart/A Virus Named TOM.jpg</image>
 		<releasedate>20160401T000000</releasedate>
 		<developer>Misfits Attic</developer>
 		<publisher>Misfits Attic</publisher>
@@ -251,6 +261,8 @@ Every stage is a puzzle waiting to be pieced together. The further you get, the 
 		<players>1</players>
 		<md5>e36359c9939041a60fe8625a6400fcb7</md5>
 		<lang>en</lang>
+		<marquee>./wheel/A Virus Named TOM.png</marquee>
+		<video>./snap/A Virus Named TOM.mp4</video>
 	</game>
 	<game>
 		<path>./Actual Sunlight.cmd</path>
@@ -261,12 +273,15 @@ Every stage is a puzzle waiting to be pieced together. The further you get, the 
 		<players>1</players>
 		<md5>429d92dd1650f44c7c93ec360902c828</md5>
 		<lang>en</lang>
+		<image>./mixart/Actual Sunlight.jpg</image>
+		<marquee>./wheel/Actual Sunlight.png</marquee>
+		<video>./snap/Actual Sunlight.mp4</video>
 	</game>
 	<game>
 		<path>./Age of Zombies.cmd</path>
 		<name>Age of Zombies</name>
 		<desc>Age of Zombies is a game where the hero, Barry Steakfries, employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs.</desc>
-		<image>./mixart/Age of Zombies.png</image>
+		<image>./mixart/Age of Zombies.jpg</image>
 		<releasedate>20140114T000000</releasedate>
 		<developer>Halfbrick Studios</developer>
 		<publisher>TBC</publisher>
@@ -274,18 +289,22 @@ Every stage is a puzzle waiting to be pieced together. The further you get, the 
 		<players>1</players>
 		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Age of Zombies.png</marquee>
+		<video>./snap/Age of Zombies.mp4</video>
 	</game>
 	<game>
 		<path>./Alien Shooter.cmd</path>
 		<name>Alien Shooter</name>
 		<desc>Sinister hordes of bloodthirsty aliens have infiltrated our world! Take on the role of a soldier and head to a secret military laboratory to end this invasion! You'll have a ragtag arsenal at your disposal, everything from pistols to with machine-guns and high-caliber blasters. Keep your eyes open: you never know what's waiting around the corner...</desc>
-		<image>./mixart/Alien Shooter.png</image>
+		<image>./mixart/Alien Shooter.jpg</image>
 		<releasedate>20150519T000000</releasedate>
 		<publisher>8Floor Ltd.</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
 		<md5>143c66b5da3c50179593eb8e04d9b397</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Alien Shooter.png</marquee>
+		<video>./snap/Alien Shooter.mp4</video>
 	</game>
 	<game>
 		<path>./Alone With You.cmd</path>
@@ -298,20 +317,23 @@ Every stage is a puzzle waiting to be pieced together. The further you get, the 
 		<players>1</players>
 		<md5>71d71f5d6ac194260bb01b44576c643e</md5>
 		<lang>en</lang>
+		<image>./mixart/Alone With You.jpg</image>
+		<marquee>./wheel/Alone With You.png</marquee>
+		<video>./snap/Alone With You.mp4</video>
 	</game>
 	<game>
 		<path>./Amnesia - Memories.cmd</path>
 		<name>Amnesia: Memories</name>
-		<desc>In this visual novel, you'll play as the Heroine whose life depends on hiding your recent loss of memory while you navigate complex relationships with five men. Choose your romantic path from the start to piece together that which was forgotten. Will you write the lasting love story you deserve, or will your love – and life – come to an end?
+		<desc>In this visual novel, you'll play as the Heroine whose life depends on hiding your recent loss of memory while you navigate complex relationships with five men. Choose your romantic path from the start to piece together that which was forgotten. Will you write the lasting love story you deserve, or will your love â€“ and life â€“ come to an end?
 
 Key Features
  
 1. Select one of five guys as your love interest, each with multiple branching story paths. Each choice creates a distinct world where characters assume different roles, allowing for 20+ endings!
-2. Parameters affect your relationship with your future love. Keep track of your relationship here and make sure you’re not headed to a bad ending!
+2. Parameters affect your relationship with your future love. Keep track of your relationship here and make sure youâ€™re not headed to a bad ending!
 3. Use touch controls to play mini-games like Rock, Paper, Scissors and Air Hockey against other characters.
-4. Unlock voiced images in the Gallery. Touching certain areas of the image will play dialogue of feelings that couldn’t be previously expressed.
+4. Unlock voiced images in the Gallery. Touching certain areas of the image will play dialogue of feelings that couldnâ€™t be previously expressed.
 Some functions and features may not be available on PlayStation TV.</desc>
-		<image>./mixart/Amnesia - Memories.png</image>
+		<image>./mixart/Amnesia - Memories.jpg</image>
 		<releasedate>20150825T000000</releasedate>
 		<developer>Idea Factory</developer>
 		<publisher>Idea Factory International</publisher>
@@ -319,6 +341,8 @@ Some functions and features may not be available on PlayStation TV.</desc>
 		<players>1</players>
 		<md5>7ebcbcb2fcf83278b3d8b36f115288f3</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Amnesia - Memories.png</marquee>
+		<video>./snap/Amnesia - Memories.mp4</video>
 	</game>
 	<game>
 		<path>./Assassin's Creed Chronicles.cmd</path>
@@ -333,6 +357,24 @@ Some functions and features may not be available on PlayStation TV.</desc>
 		<players>1</players>
 		<md5>fcaf518471f73548abce1938f967ea46</md5>
 		<lang>en</lang>
+		<image>./mixart/Assassin's Creed Chronicles.jpg</image>
+		<marquee>./wheel/Assassin's Creed Chronicles.png</marquee>
+		<video>./snap/Assassin's Creed Chronicles.mp4</video>
+	</game>
+	<game>
+		<path>./Atari Flashback Classics (3.61+!) [3.68].cmd</path>
+		<name>Atari Flashback Classics</name>
+		<desc>The most comprehensive collection of arcade and home console classics comes to the Sony PlayStation Vita system. Packed with 150 all-time favorites, rare gems, and unique homebrews, AtariÂ® Flashback Classics is designed to take advantage of the touch screen and Joy-Conâ„¢ controllers of the Nintendo Switch system to bring new life to these iconic Atari games. With all-new achievements, leaderboards and social features bringing players together, combined with an amazing archive of classic artwork make Atari Flashback Classics the most complete Atari collection ever!</desc>
+		<releasedate>20190802T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Limited Run Games</publisher>
+		<genre>Action, Adventure, Role-Playing</genre>
+		<players>1</players>
+		<md5>7874863bc73a74f0c664e0b62fe3993a</md5>
+		<lang>en</lang>
+		<image>./mixart/Atari Flashback Classics (3.61+!) [3.68].jpg</image>
+		<marquee>./wheel/Atari Flashback Classics (3.61+!) [3.68].png</marquee>
+		<video>./snap/Atari Flashback Classics (3.61+!) [3.68].mp4</video>
 	</game>
 	<game>
 		<path>./Awesome Pea (3.61+!) [3.69].cmd</path>
@@ -357,12 +399,15 @@ Help the greedy Pea make his way through 5 unique levels filled with deadly trap
 		<players>1</players>
 		<md5>58453d010a6d20cc0c46a1d6871f99f5</md5>
 		<lang>en</lang>
+		<image>./mixart/Awesome Pea (3.61+!) [3.69].jpg</image>
+		<marquee>./wheel/Awesome Pea (3.61+!) [3.69].png</marquee>
+		<video>./snap/Awesome Pea (3.61+!) [3.69].mp4</video>
 	</game>
 	<game>
 		<path>./Ben 10 - Galactic Racing.cmd</path>
 		<name>Ben 10: Galactic Racing</name>
 		<desc>BEN 10 Galactic Racing presents the ultimate racing experience! While Ben makes use of his Ultimatrix to transform into his alien forms mid-race, every other character utilizes their unique special abilities, based on powers straight out of the television series, to affect the outcome of each race. All characters can pick up special Omni-Node Power-Ups with varying alien-based abilities, including an Ultimate move that unleashes a super-charged, race-changing boost of speed and power that is themed to that character's abilities. Players will race with or against friends in any of the various game modes. They can also win trophies in each of the Galactic Grand Prix circuits, or they can race their favorite tracks in an attempt to set record-breaking times in Time Trials mode.</desc>
-		<image>./mixart/Ben 10 - Galactic Racing.png</image>
+		<image>./mixart/Ben 10 - Galactic Racing.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20120215T000000</releasedate>
 		<developer>Monkey Bar Games</developer>
@@ -371,6 +416,8 @@ Help the greedy Pea make his way through 5 unique levels filled with deadly trap
 		<players>1</players>
 		<md5>726edc53f8b459fab63c65717ee4a6f0</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Ben 10 - Galactic Racing.png</marquee>
+		<video>./snap/Ben 10 - Galactic Racing.mp4</video>
 	</game>
 	<game>
 		<path>./Bunny Must Die! Chelsea and the 7devils.cmd</path>
@@ -383,16 +430,9 @@ Help the greedy Pea make his way through 5 unique levels filled with deadly trap
 		<players>1</players>
 		<md5>61d9ad534e8aaa04a67fbc893a0e87c9</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Chasm (3.61+!) [3.68].cmd</path>
-		<name>Chasm</name>
-		<releasedate>20180731T000000</releasedate>
-		<developer>Bit Kid</developer>
-		<genre>Action, Adventure, Role-Playing, Platform</genre>
-		<players>1</players>
-		<md5>bdc4ff28bbfccd616ba5940195985f27</md5>
-		<lang>en</lang>
+		<image>./mixart/Bunny Must Die! Chelsea and the 7devils.jpg</image>
+		<marquee>./wheel/Bunny Must Die! Chelsea and the 7devils.png</marquee>
+		<video>./snap/Bunny Must Die! Chelsea and the 7devils.mp4</video>
 	</game>
 	<game>
 		<path>./Collar X Malice (3.61+!) [3.65].cmd</path>
@@ -403,13 +443,13 @@ Return to the thrilling, deadly world of Collar X Malice with exclusive Interlud
 
 Then buckle up for an entirely new investigatory experience as you search for traitors hidden deep within the shadowy Adonis organization. Embark on a desperate race against time before the next cataclysmic X-Day arrives!
 
-• Explore New Paths and Mysteries!
+â€¢ Explore New Paths and Mysteries!
 Pursue missed opportunities with the original cast, then discover completely original characters and events.
 
-• Investigate Challenging Cases!
+â€¢ Investigate Challenging Cases!
 Assemble clues and profile individuals in different times and settings to piece together the complete story.
 
-• Fresh Characters and Options Exclusive to Collar X Malice-Unlimited!
+â€¢ Fresh Characters and Options Exclusive to Collar X Malice-Unlimited!
 
 Take on the ultimate challenge of the Adonis storyline - designed for multiple replays! The clock is ticking, and no single play-through will uncover all your foes.</desc>
 		<image>./mixart/Collar X Malice (3.61+!) [3.65].jpg</image>
@@ -420,12 +460,30 @@ Take on the ultimate challenge of the Adonis storyline - designed for multiple r
 		<players>1</players>
 		<md5>f369ac5d75f2b2d0c80738b81aa9ef1b</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Collar X Malice (3.61+!) [3.65].png</marquee>
+		<video>./snap/Collar X Malice (3.61+!) [3.65].mp4</video>
+	</game>
+	<game>
+		<path>./Criminal Girls - Invite Only.cmd</path>
+		<name>Criminal Girls: Invite Only</name>
+		<desc>Lead seven sinful delinquents through the redemption program to return to their old lives as changed women. Just hired for a new, mysterious job, you soon discover that this isn't your normal prison gig. You've been entrusted with the care of a crew of girls whose sins have damned their souls to Hell and an eternity of punishment. Their only hope of salvation is for you to recognize their unique histories, and to guide them along the path to redemption. Navigate through the four trials of the Redemption Program, use the touch screen and rear touch pad to motivate your crew of delinquents to learn the skills to redeem themselves, or leave them to their fate.</desc>
+		<image>./mixart/Criminal Girls - Invite Only.jpg</image>
+		<rating>0.85</rating>
+		<releasedate>20150203T000000</releasedate>
+		<developer>Nippon Ichi Software Inc.</developer>
+		<publisher>NIS America, Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<players>1</players>
+		<md5>5f42d3d0a52363533d267d6807e04de0</md5>
+		<lang>en</lang>
+		<marquee>./wheel/Criminal Girls - Invite Only.png</marquee>
+		<video>./snap/Criminal Girls - Invite Only.mp4</video>
 	</game>
 	<game>
 		<path>./Danganronpa - Trigger Happy Havoc.cmd</path>
 		<name>Danganronpa: Trigger Happy Havoc</name>
-		<desc>DanganRonpa: Trigger Happy Havoc is a revised and revamped edition of a title originally released on the PlayStation®Portable in Japan in 2010. You'll take on the role of Makoto Naegi, a desperately average teenager who somehow finds himself accepted into Hope's Peak Academy, a prestigious high school normally reserved for the nation's "ultimate" students. But when he arrives, he and the other students soon find themselves trapped in a battle for survival against a twisted mastermind who has taken them all prisoner. You'll have to unmask the villain and uncover the secret of the school...or die trying!</desc>
-		<image>./mixart/Danganronpa - Trigger Happy Havoc.png</image>
+		<desc>DanganRonpa: Trigger Happy Havoc is a revised and revamped edition of a title originally released on the PlayStationÂ®Portable in Japan in 2010. You'll take on the role of Makoto Naegi, a desperately average teenager who somehow finds himself accepted into Hope's Peak Academy, a prestigious high school normally reserved for the nation's "ultimate" students. But when he arrives, he and the other students soon find themselves trapped in a battle for survival against a twisted mastermind who has taken them all prisoner. You'll have to unmask the villain and uncover the secret of the school...or die trying!</desc>
+		<image>./mixart/Danganronpa - Trigger Happy Havoc.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>20140211T000000</releasedate>
 		<developer>Spike Chunsoft Co., Ltd.</developer>
@@ -434,6 +492,8 @@ Take on the ultimate challenge of the Adonis storyline - designed for multiple r
 		<players>1</players>
 		<md5>90ddbf102d391f0b4dd7862370dc3e18</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Danganronpa - Trigger Happy Havoc.png</marquee>
+		<video>./snap/Danganronpa - Trigger Happy Havoc.mp4</video>
 	</game>
 	<game>
 		<path>./Danganronpa Another Episode - Ultra Despair Girls.cmd</path>
@@ -443,7 +503,7 @@ Take on the ultimate challenge of the Adonis storyline - designed for multiple r
 Also Available
 Danganronpa Another Episode: Ultra Despair Girls Limited Edition
 Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra Despair Girls Soundtrack CD, Kurokuma Eyepatch, Kurokuma Tie.</desc>
-		<image>./mixart/Danganronpa Another Episode - Ultra Despair Girls.png</image>
+		<image>./mixart/Danganronpa Another Episode - Ultra Despair Girls.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>20150901T000000</releasedate>
 		<developer>Spike Chunsoft Co., Ltd.</developer>
@@ -452,12 +512,14 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>cc11cf96eb0da97886150fbc1fbfb651</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Danganronpa Another Episode - Ultra Despair Girls.png</marquee>
+		<video>./snap/Danganronpa Another Episode - Ultra Despair Girls.mp4</video>
 	</game>
 	<game>
 		<path>./Deemo - The Last Recital.cmd</path>
 		<name>Deemo: The Last Recital</name>
 		<desc>Originally released in Asia in 2015, Deemo: The Last Recital is a PlayStation Vita exclusive adaptation of the original hit rhythm game, Deemo. The US release, brought to you by PM Studios (Superbeat: Xonic), is the first time that the game has been available physically outside of the Asian region. It was published on June 9, 2017 by Limited Run Games.</desc>
-		<image>./mixart/Deemo - The Last Recital.png</image>
+		<image>./mixart/Deemo - The Last Recital.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>20170609T000000</releasedate>
 		<developer>Rayark Inc.</developer>
@@ -466,12 +528,14 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>d6667bdc988b9b37f5813f251732d057</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Deemo - The Last Recital.png</marquee>
+		<video>./snap/Deemo - The Last Recital.mp4</video>
 	</game>
 	<game>
 		<path>./Disgaea 3 - Absence of Detention.cmd</path>
 		<name>Disgaea 3: Absence of Detention</name>
 		<desc>Disgaea 3 is a sequel to Disgaea, a hardcore, turn-based strategy RPG. The game follows the exploits of Mao, the most honored student at Evil Academy, a school where the tardiest, laziest, and rudest demons receive the highest marks. The son of the school chairman, Mao has never once attended class nor opened a textbook. He longs to overthrow his father and assume the title of Overlord, which he decides he must become a hero to achieve. Join him on his zany adventure filled with witty dialogue, exciting events, and thrilling strategy battles.</desc>
-		<image>./mixart/Disgaea 3 - Absence of Detention.png</image>
+		<image>./mixart/Disgaea 3 - Absence of Detention.jpg</image>
 		<rating>0.9</rating>
 		<releasedate>20120417T000000</releasedate>
 		<developer>NIS</developer>
@@ -480,18 +544,8 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>372df33407ee4d2781a66fbc1d7ff8a2</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Disgaea 4 - A Promise Revisited.cmd</path>
-		<name>Disgaea 4: A Promise Revisited</name>
-		<desc>Disgaea 4: A Promise Revisited is a port of Disgaea 4: A Promise Unforgotten on the Playstation Vita. It contains all of the downloadable content made available in the original PS3 game and also features newly added game content. However some content was also cut out, such as the old SD sprites and voice acting for certain scenes.</desc>
-		<image>./mixart/Disgaea 4 - A Promise Revisited.png</image>
-		<releasedate>20140812T000000</releasedate>
-		<developer>Nippon Ichi Software Inc.</developer>
-		<publisher>Nippon Ichi Software Inc.</publisher>
-		<genre>Role-Playing</genre>
-		<md5>9f5c297b3343292463ba72560fd1e9a9</md5>
-		<lang>en</lang>
+		<marquee>./wheel/Disgaea 3 - Absence of Detention.png</marquee>
+		<video>./snap/Disgaea 3 - Absence of Detention.mp4</video>
 	</game>
 	<game>
 		<path>./Downwell.cmd</path>
@@ -504,12 +558,15 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>9b5bf6335b15e303a632b126322b734b</md5>
 		<lang>en</lang>
+		<image>./mixart/Downwell.jpg</image>
+		<marquee>./wheel/Downwell.png</marquee>
+		<video>./snap/Downwell.mp4</video>
 	</game>
 	<game>
 		<path>./Dragon's Crown.cmd</path>
 		<name>Dragon's Crown</name>
 		<desc>Dragon's Crown is a multiplayer hack-and-slash beat'em up game with breathtaking visual style, a design built around cooperative play, epic boss fights, and the ability to discover a new adventure in every play session. Developer Vanillaware deftly marries stunning hand-drawn and animated art work with deep, action-packed hardcore gameplay. Dragon's Crown allows up to four players to team up locally or online to clear out monster-ridden dungeons, discover precious treasure, and destroy awe-inspiring bosses. Its unique, highly replayable design means that every time players can boot up and log on, they can expect a different experience. Unparalleled in their unique style, Vanillaware painstakingly hand-paints every detail, be it a blade of grass or the scales on the game's impressive dragons. The game becomes a lush, vibrant storybook come to life when everything starts to animate in gorgeous full HD.</desc>
-		<image>./mixart/Dragon's Crown.png</image>
+		<image>./mixart/Dragon's Crown.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20130806T000000</releasedate>
 		<developer>Vanillaware</developer>
@@ -518,12 +575,14 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>4</players>
 		<md5>6942f9a0f5e2c519a3f3e58e7dfaace6</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Dragon's Crown.png</marquee>
+		<video>./snap/Dragon's Crown.mp4</video>
 	</game>
 	<game>
 		<path>./Escape Plan.cmd</path>
 		<name>Escape Plan</name>
-		<desc>Escape Plan™ takes advantage of the PlayStation®Vita system's multi-touch display, rear touch panel, swipe interfaces and motion sensor, putting the fate of the hapless heroes in the palm of your hand. Players can swipe, squeeze, poke and slap Lil and Laarg to manipulate the characters and interact with the diverse environments. Only you can help them survive each deadly room before their captor and nemesis, Bakuki, recycles them and turns them into his minions... or sheep.</desc>
-		<image>./mixart/Escape Plan.png</image>
+		<desc>Escape Planâ„¢ takes advantage of the PlayStationÂ®Vita system's multi-touch display, rear touch panel, swipe interfaces and motion sensor, putting the fate of the hapless heroes in the palm of your hand. Players can swipe, squeeze, poke and slap Lil and Laarg to manipulate the characters and interact with the diverse environments. Only you can help them survive each deadly room before their captor and nemesis, Bakuki, recycles them and turns them into his minions... or sheep.</desc>
+		<image>./mixart/Escape Plan.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20120221T000000</releasedate>
 		<developer>Fun Bits Interactive</developer>
@@ -532,16 +591,18 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>bb4bdc62ed625c2cc28c2f6fd448755c</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Escape Plan.png</marquee>
+		<video>./snap/Escape Plan.mp4</video>
 	</game>
 	<game>
 		<path>./Farming Simulator 18 .cmd</path>
 		<name>Farming Simulator 18</name>
-		<desc>Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farm… wherever you go!
+		<desc>Become a modern farmer in Farming Simulator 18! Plant, harvest, and trade in crops, including for the first time sunflowers. Diversify your activity with animal husbandry and forestry. Develop and expand your very own farmâ€¦ wherever you go!
 
-• More than 50 farming vehicles including AGCO brands.
-• Breed and transport animals: cows, sheep, and for the first time, pigs.
-• Plant crops, sell the product of your labor, and invest your profits! 
-• Develop your farm in a new American environment.</desc>
+â€¢ More than 50 farming vehicles including AGCO brands.
+â€¢ Breed and transport animals: cows, sheep, and for the first time, pigs.
+â€¢ Plant crops, sell the product of your labor, and invest your profits! 
+â€¢ Develop your farm in a new American environment.</desc>
 		<releasedate>20170606T000000</releasedate>
 		<developer>GIANTS Software GmbH</developer>
 		<publisher>Focus Home Interactive</publisher>
@@ -549,11 +610,14 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>a367cfb75fb14bd2db2de0f64f0aaeeb</md5>
 		<lang>en</lang>
+		<image>./mixart/Farming Simulator 18 .jpg</image>
+		<marquee>./wheel/Farming Simulator 18 .png</marquee>
+		<video>./snap/Farming Simulator 18 .mp4</video>
 	</game>
 	<game>
 		<path>./Fruit Ninja.cmd</path>
 		<name>Fruit Ninja</name>
-		<image>./mixart/Fruit Ninja.png</image>
+		<image>./mixart/Fruit Ninja.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20150101T000000</releasedate>
 		<developer>Halfbrick Studios</developer>
@@ -562,12 +626,14 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>aee415c6f41a50032bdae7ef442f4ed5</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Fruit Ninja.png</marquee>
+		<video>./snap/Fruit Ninja.mp4</video>
 	</game>
 	<game>
 		<path>./Furmins.cmd</path>
 		<name>Furmins</name>
 		<desc>In Furmins, players are attempting to guide the eponymous and loveable creatures across fiendishly designed levels by rearranging a variety of items as well as using bumpers and conveyor belts in real-time with well-coordinated precision. Strategically placed items create pathways and physical chain reactions that guide the Furmins to the basket and level completion. With over 100 levels there's plenty of gameplay to keep even the most hardcore players entertained!</desc>
-		<image>./mixart/Furmins.png</image>
+		<image>./mixart/Furmins.jpg</image>
 		<releasedate>20131016T000000</releasedate>
 		<developer>Housemarque</developer>
 		<publisher>Housemarque</publisher>
@@ -575,16 +641,18 @@ Limited Edition includes a Softcover Artbook, Danganronpa Another Episode: Ultra
 		<players>1</players>
 		<md5>a7117fe3a769b55caf5840b0147c1e3f</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Furmins.png</marquee>
+		<video>./snap/Furmins.mp4</video>
 	</game>
 	<game>
 		<path>./Futuridium EP Deluxe.cmd</path>
 		<name>Futuridium EP Deluxe</name>
 		<desc>Limited Run Games #7
 
-Futuridium EP Deluxe is a psychedelic retro inspired shoot’em up with a modern twist, that blends together frantic action, puzzle elements, a vibrant low poly aesthetic and an heart pumping electronic soundtrack. As a lone starship pilot lost in a dimensional loop just before a big space battle, with a limited and constantly depleting energy tank, your only hope is to fly as fast as possible over enormous space dreadnoughts, destroying their defenses and the cyan power cubes to get some energy back.
+Futuridium EP Deluxe is a psychedelic retro inspired shootâ€™em up with a modern twist, that blends together frantic action, puzzle elements, a vibrant low poly aesthetic and an heart pumping electronic soundtrack. As a lone starship pilot lost in a dimensional loop just before a big space battle, with a limited and constantly depleting energy tank, your only hope is to fly as fast as possible over enormous space dreadnoughts, destroying their defenses and the cyan power cubes to get some energy back.
 
 Release size: 2,000 copies on PS Vita</desc>
-		<image>./mixart/Futuridium EP Deluxe.png</image>
+		<image>./mixart/Futuridium EP Deluxe.jpg</image>
 		<releasedate>20160509T000000</releasedate>
 		<developer>MixedBag Sri</developer>
 		<publisher>Limited Run Games</publisher>
@@ -592,11 +660,28 @@ Release size: 2,000 copies on PS Vita</desc>
 		<players>1</players>
 		<md5>823f3c62c636369dcca56420b9c3705d</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Futuridium EP Deluxe.png</marquee>
+		<video>./snap/Futuridium EP Deluxe.mp4</video>
+	</game>
+	<game>
+		<path>./Gravity Duck.cmd</path>
+		<name>Gravity Rush</name>
+		<desc>Gain a new perspective as you take on the role of Kat, a strong-willed girl seeking the means to protect her future in a world thatâ€™s crumbling to pieces. Tilt and move the PlayStationÂ®Vita System, taking gravity into your own hands to deliver devastating attacks, uncover the secrets to your past and explore a mysterious world.</desc>
+		<image>./mixart/Gravity Duck.jpg</image>
+		<releasedate>20120612T000000</releasedate>
+		<developer>Sony Japan Studio</developer>
+		<publisher>Sony Computer Entertainment America</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>323b3b6fb25061126b18c31a2943a60c</md5>
+		<lang>en</lang>
+		<marquee>./wheel/Gravity Duck.png</marquee>
+		<video>./snap/Gravity Duck.mp4</video>
 	</game>
 	<game>
 		<path>./Gunslugs.cmd</path>
 		<name>Gunslugs</name>
-		<image>./mixart/Gunslugs.png</image>
+		<image>./mixart/Gunslugs.jpg</image>
 		<releasedate>20140218T000000</releasedate>
 		<developer>Abstraction Games</developer>
 		<publisher>Orange Pixel</publisher>
@@ -604,6 +689,8 @@ Release size: 2,000 copies on PS Vita</desc>
 		<players>1</players>
 		<md5>98161df5e386fd2cc16358b3d0686904</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Gunslugs.png</marquee>
+		<video>./snap/Gunslugs.mp4</video>
 	</game>
 	<game>
 		<path>./Hatsune Miku - Project DIVA X.cmd</path>
@@ -613,7 +700,7 @@ Release size: 2,000 copies on PS Vita</desc>
 Aim to stage the best show ever with Miku and her friends! To add to the excitement, random module drops will appear mid-game and continue to keep things fresh by introducing special transformation effects! Collectible modules and accessories are the key to completing more challenging Requests! Can you unlock them all?
 
 The fun in Hatsune Miku: Project DIVA X is simple! Conduct, Collect, Complete!</desc>
-		<image>./mixart/Hatsune Miku - Project DIVA X.png</image>
+		<image>./mixart/Hatsune Miku - Project DIVA X.jpg</image>
 		<releasedate>20160324T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
@@ -621,6 +708,8 @@ The fun in Hatsune Miku: Project DIVA X is simple! Conduct, Collect, Complete!</
 		<players>1</players>
 		<md5>1433506378864e6a6a06ec94ed3dd203</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Hatsune Miku - Project DIVA X.png</marquee>
+		<video>./snap/Hatsune Miku - Project DIVA X.mp4</video>
 	</game>
 	<game>
 		<path>./Hyperdimension Neptunia - Producing Perfection.cmd</path>
@@ -635,34 +724,38 @@ The fun in Hatsune Miku: Project DIVA X is simple! Conduct, Collect, Complete!</
 		<players>1</players>
 		<md5>40e261f1dc880316f244ad6203ed10c3</md5>
 		<lang>en</lang>
+		<video>./snap/Hyperdimension Neptunia - Producing Perfection.mp4</video>
 	</game>
 	<game>
-		<path>./iO (3.61+!) [3.63].cmd</path>
-		<name>Aedis Eclipse: Generation of Chaos</name>
-		<desc>The unique gaming experience offered by Aedis Eclipse comes from the combination of incredible team customization and item crafting on one hand, to the dynamic combat multi-unit battle system, on the other. The PSP® format allows gamers to briefly pick up their hand-held to enjoy strategic thinking anytime, anywhere.
-
--Real time battles and war game like army build up
--3 completely different stories (3 games in 1 for hours of game play )
--New field effects elements to add more strategy
--Extensive job classes (Over 30)
--Addition of a fantasy setting, Sci-fi Setting, and a heaven/hell divine setting for more customization</desc>
-		<releasedate>20091222T000000</releasedate>
-		<genre>Role-Playing, Strategy</genre>
+		<path>./Jetpack Joyride.cmd</path>
+		<name>Jetpack Joyride</name>
+		<desc>You're going for a ride - from the creators of FRUIT NINJA! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. After lift-off, simply touch the screen to ascend and release to descend, raining bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores!</desc>
+		<image>./mixart/Jetpack Joyride.jpg</image>
+		<rating>0.85</rating>
+		<releasedate>20121231T000000</releasedate>
+		<developer>Big Ant Studios</developer>
+		<publisher>Halfbrick Studios</publisher>
+		<genre>Action, Platform, Virtual Console</genre>
 		<players>1</players>
-		<md5>22d1d8c4b097b81c627792c3db459a79</md5>
+		<md5>3909dfe9ffa36b2671466d606a0dfdbf</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Jetpack Joyride.png</marquee>
+		<video>./snap/Jetpack Joyride.mp4</video>
 	</game>
 	<game>
 		<path>./KOI (3.61+!) [3.65].cmd</path>
 		<name>Koi suru Otome to Shugo no Tate ~Bara no Seibo~</name>
-		<desc>Because of his success in the events at St. Theresia Academy, Kisaragi Shuuji (Shield 9) has obtained a firm position within Aegis. That is, as the one in charge of “Crossdress infiltration”. Since the previous events he has successfully completed several more assignments, and currently considers stepping down from the position. Unfortunately for him however, he has been tasked with just 1 more assignment. This time, his task involves another all-girls school similar to St. Theresia Academy. He has to run in the elections for student council president and success in obtaining the position.
+		<desc>Because of his success in the events at St. Theresia Academy, Kisaragi Shuuji (Shield 9) has obtained a firm position within Aegis. That is, as the one in charge of â€œCrossdress infiltrationâ€. Since the previous events he has successfully completed several more assignments, and currently considers stepping down from the position. Unfortunately for him however, he has been tasked with just 1 more assignment. This time, his task involves another all-girls school similar to St. Theresia Academy. He has to run in the elections for student council president and success in obtaining the position.
 
-Shuuji himself considers the operation to be impossible. To infiltrate the school alone, and run in the elections that take place within just 2 months from now? There’s no way that he can do it. Especially since apparently there are many dangers involved with the run for student council president. And who knows what other traps lurk within the shadows of the Academy? Will he manage to find his way through?</desc>
+Shuuji himself considers the operation to be impossible. To infiltrate the school alone, and run in the elections that take place within just 2 months from now? Thereâ€™s no way that he can do it. Especially since apparently there are many dangers involved with the run for student council president. And who knows what other traps lurk within the shadows of the Academy? Will he manage to find his way through?</desc>
 		<releasedate>20191219T000000</releasedate>
 		<genre>Action, Adventure, Life Simulation</genre>
 		<players>1</players>
 		<md5>80a80fc8c6ac6b5c8523ae0f6448e7e4</md5>
 		<lang>en</lang>
+		<image>./mixart/KOI (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/KOI (3.61+!) [3.65].png</marquee>
+		<video>./snap/KOI (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Lone Survivor - The Director's Cut.cmd</path>
@@ -679,6 +772,8 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<players>1</players>
 		<md5>42edba67b42b4e75dd484ad2e322d9de</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Lone Survivor - The Director's Cut.png</marquee>
+		<video>./snap/Lone Survivor - The Director's Cut.mp4</video>
 	</game>
 	<game>
 		<path>./MeiQ - Labyrinth of Death.cmd</path>
@@ -691,6 +786,9 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<players>1</players>
 		<md5>6af805ba7de5d19213e372701468dfd3</md5>
 		<lang>en</lang>
+		<image>./mixart/MeiQ - Labyrinth of Death.jpg</image>
+		<marquee>./wheel/MeiQ - Labyrinth of Death.png</marquee>
+		<video>./snap/MeiQ - Labyrinth of Death.mp4</video>
 	</game>
 	<game>
 		<path>./METAGAL.cmd</path>
@@ -701,11 +799,14 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<players>1</players>
 		<md5>114eab5759499366c1df817a4b4797a0</md5>
 		<lang>en</lang>
+		<image>./mixart/METAGAL.jpg</image>
+		<marquee>./wheel/METAGAL.png</marquee>
+		<video>./snap/METAGAL.mp4</video>
 	</game>
 	<game>
 		<path>./Monster Monpiece.cmd</path>
 		<name>Monster Monpiece</name>
-		<image>./mixart/Monster Monpiece.png</image>
+		<image>./mixart/Monster Monpiece.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20140627T000000</releasedate>
 		<developer>Compile Heart, Inc.</developer>
@@ -714,6 +815,24 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<players>2</players>
 		<md5>7974d57fe3d6a7c628e23c2dbb45cdb1</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Monster Monpiece.png</marquee>
+		<video>./snap/Monster Monpiece.mp4</video>
+	</game>
+	<game>
+		<path>./MotorStorm RC.cmd</path>
+		<name>MotorStorm RC</name>
+		<desc>High-speed radio-controlled car racing hits the MotorStorm circuit in MotorStorm RC! With visually stunning renditions of all four MotorStorm worlds (and eight of their vehicle classes,) this RC racing game comes loaded with endless competition that you can share with friends and rivals worldwide -- whether that's on PS3 or PS Vita, or both!</desc>
+		<image>./mixart/MotorStorm RC.jpg</image>
+		<rating>0.75</rating>
+		<releasedate>20120222T000000</releasedate>
+		<developer>Evolution Studios</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<md5>a743da12e3866928910f069221b1a199</md5>
+		<lang>en</lang>
+		<marquee>./wheel/MotorStorm RC.png</marquee>
+		<video>./snap/MotorStorm RC.mp4</video>
 	</game>
 	<game>
 		<path>./Muv-Luv (3.61+!) [3.67].cmd</path>
@@ -726,6 +845,9 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<players>1</players>
 		<md5>32bac1c953c62b1ba798b204d0278c56</md5>
 		<lang>en</lang>
+		<image>./mixart/Muv-Luv (3.61+!) [3.67].jpg</image>
+		<marquee>./wheel/Muv-Luv (3.61+!) [3.67].png</marquee>
+		<video>./snap/Muv-Luv (3.61+!) [3.67].mp4</video>
 	</game>
 	<game>
 		<path>./My Name is Mayo (3.61+!) [3.61].cmd</path>
@@ -742,6 +864,9 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>20f2bee956691ca0ccf42ea3133857ce</md5>
 		<lang>en</lang>
+		<image>./mixart/My Name is Mayo (3.61+!) [3.61].jpg</image>
+		<marquee>./wheel/My Name is Mayo (3.61+!) [3.61].png</marquee>
+		<video>./snap/My Name is Mayo (3.61+!) [3.61].mp4</video>
 	</game>
 	<game>
 		<path>./NeverEnd (3.61+!) [3.65].cmd</path>
@@ -752,6 +877,9 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>696915b5d105058b85e76a2337312da0</md5>
 		<lang>en</lang>
+		<image>./mixart/NeverEnd (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/NeverEnd (3.61+!) [3.65].png</marquee>
+		<video>./snap/NeverEnd (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Neverending Nightmares.cmd</path>
@@ -762,12 +890,15 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>91eebfef994531853a8dab7b15bbea63</md5>
 		<lang>en</lang>
+		<image>./mixart/Neverending Nightmares.jpg</image>
+		<marquee>./wheel/Neverending Nightmares.png</marquee>
+		<video>./snap/Neverending Nightmares.mp4</video>
 	</game>
 	<game>
 		<path>./New Little King's Story.cmd</path>
 		<name>New Little King's Story</name>
 		<desc>A sprawling role-playing epic set in a beautifully-realised game world, New Little King's Story follows the player as they assume the role of a King tasked with reclaiming his kingdom from an invader known only as 'The Nightmare.' King Corobo, a plucky 14-year-old royal, presides over a stricken land. The evil Nightmare is running havoc and the populace lives in fear as it preys on them. Thus, as Corobo, the user must unite their subjects in order to fight back and reclaim the kingdom.</desc>
-		<image>./mixart/New Little King's Story.png</image>
+		<image>./mixart/New Little King's Story.jpg</image>
 		<marquee>./wheel/New Little King's Story.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>20121002T000000</releasedate>
@@ -777,11 +908,12 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>a8a754167c796d819ef1c7918e5d5d1d</md5>
 		<lang>en</lang>
+		<video>./snap/New Little King's Story.mp4</video>
 	</game>
 	<game>
 		<path>./Norn9 - Var Commons.cmd</path>
 		<name>Norn9: Var Commons</name>
-		<desc>While on a school field trip, child prodigy Sorata Suzuhara wanders off after hearing a mysterious song and blacks out. When he comes to, he finds himself in unfamiliar place, and soon encounters a girl who informs him that he’s currently in turn of the century Japan! In order to help him get home, Sorata follows her to a ship that she’s waiting for but when it appears it is not a wooden sailing ship, but a round aircraft that flies using technology that is beyond Sorata’s imagination. Even stranger, he discovers that the other 12 passengers – 3 young women and 9 men – are all supposedly espers with special powers, and are on some kind of journey at the behest of a multinational entity only known as The World. What is the purpose of their journey? What is their destination? Who is The World? Before Sorata can even begin to take stock of his situation, the ship is attacked, and the mystery surrounding the ship only deepens. Delve into the story of the ship and its occupants through the point of views of each of the three girls, and unravel the mysteries trapped within.</desc>
+		<desc>While on a school field trip, child prodigy Sorata Suzuhara wanders off after hearing a mysterious song and blacks out. When he comes to, he finds himself in unfamiliar place, and soon encounters a girl who informs him that heâ€™s currently in turn of the century Japan! In order to help him get home, Sorata follows her to a ship that sheâ€™s waiting for but when it appears it is not a wooden sailing ship, but a round aircraft that flies using technology that is beyond Sorataâ€™s imagination. Even stranger, he discovers that the other 12 passengers â€“ 3 young women and 9 men â€“ are all supposedly espers with special powers, and are on some kind of journey at the behest of a multinational entity only known as The World. What is the purpose of their journey? What is their destination? Who is The World? Before Sorata can even begin to take stock of his situation, the ship is attacked, and the mystery surrounding the ship only deepens. Delve into the story of the ship and its occupants through the point of views of each of the three girls, and unravel the mysteries trapped within.</desc>
 		<releasedate>20151103T000000</releasedate>
 		<developer>Idea Factory</developer>
 		<publisher>Aksys Games</publisher>
@@ -789,6 +921,9 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>bf227b0229acc8170438db7c0fb6ee59</md5>
 		<lang>en</lang>
+		<image>./mixart/Norn9 - Var Commons.jpg</image>
+		<marquee>./wheel/Norn9 - Var Commons.png</marquee>
+		<video>./snap/Norn9 - Var Commons.mp4</video>
 	</game>
 	<game>
 		<path>./Nurse Love Addiction (3.61+!) [3.65].cmd</path>
@@ -801,12 +936,15 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>ddd741209d1299244cc227502985fc16</md5>
 		<lang>en</lang>
+		<image>./mixart/Nurse Love Addiction (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Nurse Love Addiction (3.61+!) [3.65].png</marquee>
+		<video>./snap/Nurse Love Addiction (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Operation Abyss - New Tokyo Legacy.cmd</path>
 		<name>Operation Abyss: New Tokyo Legacy</name>
 		<desc>Operation Abyss: New Tokyo Legacy is a sci-fi dungeon crawling RPG that takes place in near-future Tokyo. With the city under the constant threat of Variants - genetically engineered monsters - and the emergence of portals leading to a mysterious dimension called the Abyss, the government has established a secret organization called the Code Physics Agency to investigate these mysterious phenomena. Operating under the guise of a private school called Hinowa Academy, the CPA recruits teenage youths to be part of the "Xion Transhuman (Xth) Squad." The CPA uses their Code technology to provide the Xth Squad with "Blood Codes", special Codes that contain the genomes of history's greatest heroes and bestow the Xth Squad with powerful abilities to combat the Variant menace. Using a team of six people, the player will map dungeons, evade traps, and face powerful monsters as they investigate the mystery behind the Variants and the Abyss.</desc>
-		<image>./mixart/Operation Abyss - New Tokyo Legacy.png</image>
+		<image>./mixart/Operation Abyss - New Tokyo Legacy.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20150629T000000</releasedate>
 		<developer>Experience</developer>
@@ -815,6 +953,8 @@ This is a clicking adventure that simulates the real-life tapping of a Mayo Jar!
 		<players>1</players>
 		<md5>43636e34e2b845b2d7f416c8dec34146</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Operation Abyss - New Tokyo Legacy.png</marquee>
+		<video>./snap/Operation Abyss - New Tokyo Legacy.mp4</video>
 	</game>
 	<game>
 		<path>./Period Cube ~Shackles of Amadeus~ (3.61+!) [3.63].cmd</path>
@@ -831,13 +971,16 @@ ESRB Rating: MATURE with Blood, Language, Sexual Themes, and Violence</desc>
 		<players>1</players>
 		<md5>c5b477a814e37bddea9a2d2fbbba0eac</md5>
 		<lang>en</lang>
+		<image>./mixart/Period Cube ~Shackles of Amadeus~ (3.61+!) [3.63].jpg</image>
+		<marquee>./wheel/Period Cube ~Shackles of Amadeus~ (3.61+!) [3.63].png</marquee>
+		<video>./snap/Period Cube ~Shackles of Amadeus~ (3.61+!) [3.63].mp4</video>
 	</game>
 	<game>
 		<path>./Persona 4 Golden.cmd</path>
 		<name>Persona 4 Golden</name>
-		<desc>Loaded with enhancements and overflowing with new content, Persona 4 Golden is far more than just a handheld version of an all-time classic RPG: it’s the best way to experience it yet!
+		<desc>Loaded with enhancements and overflowing with new content, Persona 4 Golden is far more than just a handheld version of an all-time classic RPG: itâ€™s the best way to experience it yet!
 
-In a quiet town in rural Japan, a normal teenager begins a year-long stay with the unsettling news that there’s been a murder…and soon after, another. Meanwhile, a rumor is going around school that by looking at a TV screen at midnight on a rainy night, the face of your soul mate will be revealed. But is that all? As connections between the murders and the rumors begin to take shape, you and your team of Persona users must enter the mysterious TV world and solve the mystery before more people die.</desc>
+In a quiet town in rural Japan, a normal teenager begins a year-long stay with the unsettling news that thereâ€™s been a murderâ€¦and soon after, another. Meanwhile, a rumor is going around school that by looking at a TV screen at midnight on a rainy night, the face of your soul mate will be revealed. But is that all? As connections between the murders and the rumors begin to take shape, you and your team of Persona users must enter the mysterious TV world and solve the mystery before more people die.</desc>
 		<image>./mixart/Persona 4 Golden.jpg</image>
 		<releasedate>20121120T000000</releasedate>
 		<developer>Atlus Co., Ltd.</developer>
@@ -846,6 +989,8 @@ In a quiet town in rural Japan, a normal teenager begins a year-long stay with t
 		<players>1</players>
 		<md5>f47087c64b559078141ae3dcad6c6853</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Persona 4 Golden.png</marquee>
+		<video>./snap/Persona 4 Golden.mp4</video>
 	</game>
 	<game>
 		<path>./Psycho-Pass - Mandatory Happiness.cmd</path>
@@ -853,7 +998,7 @@ In a quiet town in rural Japan, a normal teenager begins a year-long stay with t
 		<desc>2112, Tokyo. Decide the fates of Nadeshiko Kugatachi and Takuma Tsurugi, two new detectives assigned to Division 1. Every decision has its own repercussion, victims can become criminals, and the story may end quicker than expected.
 
 In a world where roles are filled by those who are capable, will there be a spot for you?</desc>
-		<image>./mixart/Psycho-Pass - Mandatory Happiness.png</image>
+		<image>./mixart/Psycho-Pass - Mandatory Happiness.jpg</image>
 		<releasedate>20160913T000000</releasedate>
 		<developer>MAGES. Inc.</developer>
 		<publisher>NIS America, Inc.</publisher>
@@ -861,6 +1006,8 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>9cb8d533c25679d0a4766b561d849dfc</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Psycho-Pass - Mandatory Happiness.png</marquee>
+		<video>./snap/Psycho-Pass - Mandatory Happiness.mp4</video>
 	</game>
 	<game>
 		<path>./Rabi-Ribi (3.61+!) [3.65].cmd</path>
@@ -872,12 +1019,15 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>76750399bf54398fbd2998bdf890c986</md5>
 		<lang>en</lang>
+		<image>./mixart/Rabi-Ribi (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Rabi-Ribi (3.61+!) [3.65].png</marquee>
+		<video>./snap/Rabi-Ribi (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Retro City Rampage.cmd</path>
 		<name>Retro City Rampage</name>
 		<desc>A parody of the open-world action genre, Retro City Rampage takes modern game mechanics and mashes them into an authentic 8-bit experience. It's one half fast paced arcade game, the other half a hilarious story mode! It's all the driving and shooting you'd expect and a whole lot more! With missions that twist pages straight from classic game experiences, you get to re-live and rewrite history in a way only a modern anti-hero could! When it comes to enemies, weapons are only the beginning! Put on your boots and jump on their heads! Toss 'em around to knock the rest down! Become truly unstoppable with awesome power-ups! Through its world, characters and missions, Retro City Rampage lampoons the entire 8-bit era from its games to the TV, movies and pop culture!</desc>
-		<image>./mixart/Retro City Rampage.png</image>
+		<image>./mixart/Retro City Rampage.jpg</image>
 		<rating>0.85</rating>
 		<releasedate>20121009T000000</releasedate>
 		<publisher>Vblank Entertainment</publisher>
@@ -885,11 +1035,13 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>1da72dc382993611a59c2c014e69da80</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Retro City Rampage.png</marquee>
+		<video>./snap/Retro City Rampage.mp4</video>
 	</game>
 	<game>
 		<path>./Run Sackboy! Run!.cmd</path>
 		<name>Run Sackboy! Run!</name>
-		<image>./mixart/Run Sackboy! Run!.png</image>
+		<image>./mixart/Run Sackboy! Run!.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>20150104T000000</releasedate>
 		<publisher>Sony Computer Entertainment</publisher>
@@ -897,11 +1049,13 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>16640e495dc5c928d4f91bc5ddfa15e0</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Run Sackboy! Run!.png</marquee>
+		<video>./snap/Run Sackboy! Run!.mp4</video>
 	</game>
 	<game>
 		<path>./Senran Kagura - Bon Appetit! (Hanzo x Crimson Squad).cmd</path>
 		<name>Senran Kagura: Bon Appetit</name>
-		<image>./mixart/Senran Kagura - Bon Appetit! (Hanzo x Crimson Squad).png</image>
+		<image>./mixart/Senran Kagura - Bon Appetit! (Hanzo x Crimson Squad).jpg</image>
 		<rating>0.75</rating>
 		<releasedate>20141231T000000</releasedate>
 		<developer>Meteorise</developer>
@@ -910,6 +1064,8 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>caff83d63146f832bcea60fc30273d3b</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Senran Kagura - Bon Appetit! (Hanzo x Crimson Squad).png</marquee>
+		<video>./snap/Senran Kagura - Bon Appetit! (Hanzo x Crimson Squad).mp4</video>
 	</game>
 	<game>
 		<path>./Siralim.cmd</path>
@@ -922,23 +1078,15 @@ In a world where roles are filled by those who are capable, will there be a spot
 		<players>1</players>
 		<md5>70e945a59953bc60a71cf2392131a4a0</md5>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Spellspire (3.61+!) [3.63].cmd</path>
-		<name>Spellspire</name>
-		<desc>Spellspire is a thrilling mashup of word game and action role playing game. Pick letters from a grid to spell words and shoot them from your wand as spells. The longer the word, the bigger the blast! Can you make it to the top of the Spellspire?</desc>
-		<releasedate>19700101T010000</releasedate>
-		<publisher>10tons Ltd.</publisher>
-		<genre>Adventure, Role-Playing, Quiz</genre>
-		<players>1</players>
-		<md5>124d1214598d6957f20b3a93ecd4d867</md5>
-		<lang>en</lang>
+		<image>./mixart/Siralim.jpg</image>
+		<marquee>./wheel/Siralim.png</marquee>
+		<video>./snap/Siralim.mp4</video>
 	</game>
 	<game>
 		<path>./STAY (3.61+!) [3.68].cmd</path>
 		<name>Stay Limited Edition</name>
 		<desc>LIMITED TO ONLY 1,300 PHYSICAL COPIES WORLDWIDE!
-​
+â€‹
 After being kidnapped under mysterious circumstances, Quinn wakes up in a dark room with nothing else but a computer hooked up to a chat room. In this pixel-art graphic adventure, you control Quinn by helping him make vital decisions. Can you guide Quinn to safety and uncover the mystery behind the kidnapping or will you leave him to die just like his kidnapper? Quinn's fate lies in your hands.</desc>
 		<releasedate>20181101T000000</releasedate>
 		<publisher>eastasiasoft</publisher>
@@ -946,6 +1094,9 @@ After being kidnapped under mysterious circumstances, Quinn wakes up in a dark r
 		<players>1</players>
 		<md5>aa6ef0da20ebc72d1788ed08cf76653a</md5>
 		<lang>en</lang>
+		<image>./mixart/STAY (3.61+!) [3.68].jpg</image>
+		<marquee>./wheel/STAY (3.61+!) [3.68].png</marquee>
+		<video>./snap/STAY (3.61+!) [3.68].mp4</video>
 	</game>
 	<game>
 		<path>./Steins;Gate 0 (3.61+!) [3.61].cmd</path>
@@ -959,6 +1110,8 @@ After being kidnapped under mysterious circumstances, Quinn wakes up in a dark r
 		<players>1</players>
 		<md5>a63039698ad6bf1ff3d54717122f8d22</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Steins;Gate 0 (3.61+!) [3.61].png</marquee>
+		<video>./snap/Steins;Gate 0 (3.61+!) [3.61].mp4</video>
 	</game>
 	<game>
 		<path>./Stranger of Sword City.cmd</path>
@@ -967,7 +1120,7 @@ After being kidnapped under mysterious circumstances, Quinn wakes up in a dark r
 
 Also Available
 Stranger of Sword City: Limited Edition</desc>
-		<image>./mixart/Stranger of Sword City.png</image>
+		<image>./mixart/Stranger of Sword City.jpg</image>
 		<releasedate>20160426T000000</releasedate>
 		<developer>Experience Inc.</developer>
 		<publisher>Experience Inc.</publisher>
@@ -975,25 +1128,62 @@ Stranger of Sword City: Limited Edition</desc>
 		<players>1</players>
 		<md5>d28668dead6114aa0dc0c0ff9388bf3b</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Stranger of Sword City.png</marquee>
+		<video>./snap/Stranger of Sword City.mp4</video>
+	</game>
+	<game>
+		<path>./Super Star Wars.cmd</path>
+		<name>Super Star Wars</name>
+		<desc>Super Star Wars generally follows the plot of Star Wars, although some allowances were made to adapt the story to suit an action game. For example, instead of simply buying C-3PO and R2-D2 from the Jawas, Luke Skywalker must fight his way to the top of a Jawa sandcrawler while leaping from a series of moving conveyor belts. Brief cutscenes between levels tell an abbreviated version of the film's story through written text. Later stages allow the player to control smuggler and pilot Han Solo or Chewbacca the Wookiee. The game also features several vehicle-based levels in which the player takes control of an X-Wing or a landspeeder.
+
+Most of the stages consist of run and gun and platforming gameplay, with several different upgrades available to the standard blaster weapon. Luke can also wield a lightsaber after acquiring it from Obi Wan Kenobi. The end of the game has players reenacting Luke's Death Star trench run to destroy the Death Star, with Darth Vader confronting the player in his TIE Advanced x1.</desc>
+		<releasedate>20151116T000000</releasedate>
+		<developer>Code Mystics</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>decdbfd6cf625fef8d2c693dcaccd9dc</md5>
+		<lang>en</lang>
+		<image>./mixart/Super Star Wars.jpg</image>
+		<marquee>./wheel/Super Star Wars.png</marquee>
+		<video>./snap/Super Star Wars.mp4</video>
 	</game>
 	<game>
 		<path>./Super Time Force Ultra.cmd</path>
 		<name>Super Time Force Ultra</name>
-		<desc>Super Time Force Ultra is an action-packed platformer with a time-travelling twist! You’re in control of time itself, bending and stretching it to your advantage on the battlefield. 
+		<desc>Super Time Force Ultra is an action-packed platformer with a time-travelling twist! Youâ€™re in control of time itself, bending and stretching it to your advantage on the battlefield. 
 
 Rewind time and choose when to jump back into the action, teaming-up with your past selves in a unique single-player co-op experience! Take control of up to 19 unique characters, and battle across 6 different time periods, from the long-ago past to the far-away future.</desc>
-		<image>./mixart/Super Time Force Ultra.png</image>
+		<image>./mixart/Super Time Force Ultra.jpg</image>
 		<releasedate>20150901T000000</releasedate>
 		<genre>Action</genre>
 		<players>1</players>
 		<md5>8dabbd2d8d89095b3beb588e3ea11919</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Super Time Force Ultra.png</marquee>
+		<video>./snap/Super Time Force Ultra.mp4</video>
+	</game>
+	<game>
+		<path>./Superfrog HD.cmd</path>
+		<name>Superfrog HD</name>
+		<desc>Amiga classic Superfrog gets the HD treatment in Superfrog HD.</desc>
+		<image>./mixart/Superfrog HD.jpg</image>
+		<rating>0.85</rating>
+		<releasedate>20130806T000000</releasedate>
+		<developer>Team17 Software Limited</developer>
+		<publisher>Team17 Software Limited</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<md5>0b299b068d764d7f9c1c2291a7159870</md5>
+		<lang>en</lang>
+		<marquee>./wheel/Superfrog HD.png</marquee>
+		<video>./snap/Superfrog HD.mp4</video>
 	</game>
 	<game>
 		<path>./Tales from Space - Mutant Blobs Attack!!!.cmd</path>
 		<name>Tales from Space: Mutant Blobs Attack</name>
-		<desc>Tales from Space: Mutant Blobs Attack is a side-scrolling puzzle platformer about an ornery mutant blob that, after being held captive in a lab that can only be described as something out of a retro sci-fi movie from the early ’50s, escapes into the world and sets out on a path to consume everything! Use touch and the motion sensor function combined with traditional analog stick controls to defeat and consume the pathetic humans.</desc>
-		<image>./mixart/Tales from Space - Mutant Blobs Attack!!!.png</image>
+		<desc>Tales from Space: Mutant Blobs Attack is a side-scrolling puzzle platformer about an ornery mutant blob that, after being held captive in a lab that can only be described as something out of a retro sci-fi movie from the early â€™50s, escapes into the world and sets out on a path to consume everything! Use touch and the motion sensor function combined with traditional analog stick controls to defeat and consume the pathetic humans.</desc>
+		<image>./mixart/Tales from Space - Mutant Blobs Attack!!!.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20120221T000000</releasedate>
 		<developer>DrinkBox Studios</developer>
@@ -1002,12 +1192,14 @@ Rewind time and choose when to jump back into the action, teaming-up with your p
 		<players>1</players>
 		<md5>880b08f2389d26b831206a901d5bc804</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Tales from Space - Mutant Blobs Attack!!!.png</marquee>
+		<video>./snap/Tales from Space - Mutant Blobs Attack!!!.mp4</video>
 	</game>
 	<game>
 		<path>./Tales of Hearts R.cmd</path>
 		<name>Tales of Hearts R</name>
 		<desc>Kor Meteor is a young man living in a small village by the sea who trains with his grandfather in the ways of the sword. Impressed by Kor's growing skill, his grandfather bequeaths to him an unusual weapon known as a Soma. Kor meets a young woman, Kohaku Hearts who is looking for a Soma weapon along with her brother Hisui. During their search, a mysterious witch appears and casts a spell on Kohaku's Spiria, the embodiment of her heart and soul. Kor attempts to lift the spell by connecting to her Spiria but accidentally shatters her Spiria Core, the source of all her emotions. Kor, armed only with the Soma given to him by his grandfather, must now set out on a journey to find a way to make Kohaku's Spiria whole once more.</desc>
-		<image>./mixart/Tales of Hearts R.png</image>
+		<image>./mixart/Tales of Hearts R.jpg</image>
 		<rating>0.75</rating>
 		<releasedate>20141111T000000</releasedate>
 		<developer>7th Chord</developer>
@@ -1016,12 +1208,29 @@ Rewind time and choose when to jump back into the action, teaming-up with your p
 		<players>1</players>
 		<md5>da5c82f4f9e91ac708e2a45cf6b0e87e</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Tales of Hearts R.png</marquee>
+		<video>./snap/Tales of Hearts R.mp4</video>
+	</game>
+	<game>
+		<path>./Tokyo Tattoo Girls (3.61+!) [3.65].cmd</path>
+		<name>Tokyo Tattoo Girls</name>
+		<desc>After a calamity befalls Tokyo, some of the city's survivors find themselves with powerful abilities bestowed on them by colorful tattoos. The city is cordoned off from the world, and its inhabitants isolated. To create peace, the city has been divided into 23 wards, each controlled by a powerful group known as 'Kumi'. Together, these Kumi form the 'union.' It's rumored that escape from the devastated city is possible, but only for the person who manages to defeat all 23 Kumi.</desc>
+		<releasedate>20171114T000000</releasedate>
+		<developer>Sushi Typhoon Games</developer>
+		<publisher>Nippon Ichi Software Inc.</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<md5>e4c0a401aafc2fddae7f966049810779</md5>
+		<lang>en</lang>
+		<image>./mixart/Tokyo Tattoo Girls (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Tokyo Tattoo Girls (3.61+!) [3.65].png</marquee>
+		<video>./snap/Tokyo Tattoo Girls (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Total Recoil.cmd</path>
 		<name>Total Recoil</name>
-		<desc>Look lively soldier, grab your gear and fall in line for the biggest, baddest, craziest and most explosive war game to hit your screens and assault your senses. Total Recoil takes arcade shooters to the max; it’s a warmongers delight, packing a deadly arsenal of kick-ass weapons, devastating explosions, mega bosses, and much much more into one dynamite package.Start as a lowly Private and work your way up through the ranks by blasting through wave after wave of gun-toting grunts, turrets, gunships, mega-tanks, mines and more. Arm yourself with a huge range of upgradeable weapons whilst raining down death and destruction upon your enemies by earning ‘Killstreaks’ including artillery, air support, sentry guns and smart bombs. It’s the most gun toting, flame throwing, rocket launching, barrel busting, chain-gunning, explosive game on the App Store. So, what are you waiting for?...FALL IN SOLDIER!Features• Explosively addictive arcade gameplay keeps you coming back for more. If you can see it, you can blow it up! • Upgradable weapons including Assault Rifle, Flamethrower, Chaingun, Cannon, Grenade Launcher and Missile Launcher• Battle your way through The Oil Rig and The Mighty Jungle• Unlock ‘Killstreak’ rewards including artillery strikes, sentry guns and dive bombing planes• Packed with multiple game modes including Operations, Rank Challenges and Endless Wave mode.• Collect reward coins to buy and upgrade your weapons, killstreaks and equipment • More explosions per square inch of screen than any other game.........ever!</desc>
-		<image>./mixart/Total Recoil.png</image>
+		<desc>Look lively soldier, grab your gear and fall in line for the biggest, baddest, craziest and most explosive war game to hit your screens and assault your senses. Total Recoil takes arcade shooters to the max; itâ€™s a warmongers delight, packing a deadly arsenal of kick-ass weapons, devastating explosions, mega bosses, and much much more into one dynamite package.Start as a lowly Private and work your way up through the ranks by blasting through wave after wave of gun-toting grunts, turrets, gunships, mega-tanks, mines and more. Arm yourself with a huge range of upgradeable weapons whilst raining down death and destruction upon your enemies by earning â€˜Killstreaksâ€™ including artillery, air support, sentry guns and smart bombs. Itâ€™s the most gun toting, flame throwing, rocket launching, barrel busting, chain-gunning, explosive game on the App Store. So, what are you waiting for?...FALL IN SOLDIER!Featuresâ€¢ Explosively addictive arcade gameplay keeps you coming back for more. If you can see it, you can blow it up! â€¢ Upgradable weapons including Assault Rifle, Flamethrower, Chaingun, Cannon, Grenade Launcher and Missile Launcherâ€¢ Battle your way through The Oil Rig and The Mighty Jungleâ€¢ Unlock â€˜Killstreakâ€™ rewards including artillery strikes, sentry guns and dive bombing planesâ€¢ Packed with multiple game modes including Operations, Rank Challenges and Endless Wave mode.â€¢ Collect reward coins to buy and upgrade your weapons, killstreaks and equipment â€¢ More explosions per square inch of screen than any other game.........ever!</desc>
+		<image>./mixart/Total Recoil.jpg</image>
 		<rating>0.6</rating>
 		<releasedate>20130709T000000</releasedate>
 		<developer>Eiconic Games</developer>
@@ -1030,6 +1239,8 @@ Rewind time and choose when to jump back into the action, teaming-up with your p
 		<players>1</players>
 		<md5>0f5f98a67381680c21bce4c0f96a566a</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Total Recoil.png</marquee>
+		<video>./snap/Total Recoil.mp4</video>
 	</game>
 	<game>
 		<path>./TxK.cmd</path>
@@ -1040,6 +1251,9 @@ Rewind time and choose when to jump back into the action, teaming-up with your p
 		<genre>Action, Shooter</genre>
 		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
 		<lang>en</lang>
+		<image>./mixart/TxK.jpg</image>
+		<marquee>./wheel/TxK.png</marquee>
+		<video>./snap/TxK.mp4</video>
 	</game>
 	<game>
 		<path>./Undertale (3.61+!) [3.65].cmd</path>
@@ -1054,6 +1268,8 @@ In the game, players control a human child who has fallen into the Underground, 
 		<genre>Role-Playing</genre>
 		<md5>61e768b66b0139ace86a5ef5a3c9ab13</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Undertale (3.61+!) [3.65].png</marquee>
+		<video>./snap/Undertale (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Unepic.cmd</path>
@@ -1066,6 +1282,9 @@ It is set in the hardcore NES Style, yet refined with the latest features. This 
 		<players>1</players>
 		<md5>01cbec205c46225fdd482cc8abbe7604</md5>
 		<lang>en</lang>
+		<image>./mixart/Unepic.jpg</image>
+		<marquee>./wheel/Unepic.png</marquee>
+		<video>./snap/Unepic.mp4</video>
 	</game>
 	<game>
 		<path>./VA-11 HALL-A (3.61+!) [3.65].cmd</path>
@@ -1078,18 +1297,23 @@ It is set in the hardcore NES Style, yet refined with the latest features. This 
 		<players>1</players>
 		<md5>7a25b9e07f6f80bcba4b7473393cdf18</md5>
 		<lang>en</lang>
+		<image>./mixart/VA-11 HALL-A (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/VA-11 HALL-A (3.61+!) [3.65].png</marquee>
+		<video>./snap/VA-11 HALL-A (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Velocity Ultra.cmd</path>
 		<name>Velocity Ultra</name>
 		<desc>Velocity is a shoot 'em up video game developed by FuturLab for the PlayStation 3, PlayStation Portable, and PlayStation Vita as a PlayStation mini. The developers signed with Sony to create new titles for the PlayStation Vita.[3] A sequel titled Velocity 2X was released on September 2, 2014 for PlayStation 4 and PlayStation Vita, and on August 19, 2015 for Steam and Xbox One.</desc>
-		<image>./mixart/Velocity Ultra.png</image>
+		<image>./mixart/Velocity Ultra.jpg</image>
 		<releasedate>20131212T000000</releasedate>
 		<developer>FuturLab</developer>
 		<publisher>Curve Digital</publisher>
 		<genre>Action, Shooter</genre>
 		<md5>ba9d387db4749fb1637a8e004b713229</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Velocity Ultra.png</marquee>
+		<video>./snap/Velocity Ultra.mp4</video>
 	</game>
 	<game>
 		<path>./VVVVVV.cmd</path>
@@ -1106,13 +1330,16 @@ Inspired by classic 8-bit days gone-by and now with experience-heightening 3D, V
 		<players>1</players>
 		<md5>b7c88226957082d60a64e9a8123a61db</md5>
 		<lang>en</lang>
+		<image>./mixart/VVVVVV.jpg</image>
+		<marquee>./wheel/VVVVVV.png</marquee>
+		<video>./snap/VVVVVV.mp4</video>
 	</game>
 	<game>
 		<path>./Windjammers (3.61+!) [3.65].cmd</path>
 		<name>Windjammers</name>
 		<desc>Windjammers physical cartridge for the PlayStation Vita. The standard edition is limited to 3,000 copies available worldwide. Includes a full-color manual. Due to the difficult nature of including patches on a Vita cartridge, only the game is included on the cartridge. Region free.
 
-Incredibly fun and intensely addictive, Windjammers is the adrenaline rush you’re looking for!
+Incredibly fun and intensely addictive, Windjammers is the adrenaline rush youâ€™re looking for!
 
 5 game modes: ARCADE, INFINITE, LOCAL VERSUS, ONLINE QUICK MATCH, &amp; RANKED MATCH
 Online Versus: for the first time ever, face other players worldwide in ranked matches and compete in the top leagues!
@@ -1122,7 +1349,7 @@ Online Versus: for the first time ever, face other players worldwide in ranked m
 2 unlockable mini-games: Dog Distance &amp; Bowling
 New HD menus
 
-Originally released on the NEOGEO arcade system, Windjammers perfectly blends sports and fighting games. Sharpen your throwing and sliding skills, use the best techniques to defeat your opponents, and become the world’s best player !</desc>
+Originally released on the NEOGEO arcade system, Windjammers perfectly blends sports and fighting games. Sharpen your throwing and sliding skills, use the best techniques to defeat your opponents, and become the worldâ€™s best player !</desc>
 		<releasedate>20171201T000000</releasedate>
 		<developer>DotEmu</developer>
 		<publisher>Limited Run Games</publisher>
@@ -1130,6 +1357,9 @@ Originally released on the NEOGEO arcade system, Windjammers perfectly blends sp
 		<players>1</players>
 		<md5>dea1916138ca64ab4a49a22cc0683c20</md5>
 		<lang>en</lang>
+		<image>./mixart/Windjammers (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Windjammers (3.61+!) [3.65].png</marquee>
+		<video>./snap/Windjammers (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Worms Revolution Extreme.cmd</path>
@@ -1139,7 +1369,7 @@ Originally released on the NEOGEO arcade system, Windjammers perfectly blends sp
 ESRB Rating: T - Teen
 
 Genre(s): Strategy</desc>
-		<image>./mixart/Worms Revolution Extreme.png</image>
+		<image>./mixart/Worms Revolution Extreme.jpg</image>
 		<rating>0.8</rating>
 		<releasedate>20131009T000000</releasedate>
 		<developer>Team17 Software Limited</developer>
@@ -1147,6 +1377,8 @@ Genre(s): Strategy</desc>
 		<players>1</players>
 		<md5>cc7374890f609ee5e1d6287e89e96e90</md5>
 		<lang>en</lang>
+		<marquee>./wheel/Worms Revolution Extreme.png</marquee>
+		<video>./snap/Worms Revolution Extreme.mp4</video>
 	</game>
 	<game>
 		<path>./Yomawari - Midnight Shadows (3.61+!) [3.65].cmd</path>
@@ -1159,6 +1391,9 @@ Genre(s): Strategy</desc>
 		<players>1</players>
 		<md5>317f68d3c3e26a7d6e849cb5c099a775</md5>
 		<lang>en</lang>
+		<image>./mixart/Yomawari - Midnight Shadows (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Yomawari - Midnight Shadows (3.61+!) [3.65].png</marquee>
+		<video>./snap/Yomawari - Midnight Shadows (3.61+!) [3.65].mp4</video>
 	</game>
 	<game>
 		<path>./Ys Origin (3.61+!) [3.65].cmd</path>
@@ -1173,6 +1408,38 @@ Genre(s): Strategy</desc>
 		<players>1</players>
 		<md5>9880e3b111cef6883f49bc5276c9464b</md5>
 		<lang>en</lang>
+		<image>./mixart/Ys Origin (3.61+!) [3.65].jpg</image>
+		<marquee>./wheel/Ys Origin (3.61+!) [3.65].png</marquee>
+		<video>./snap/Ys Origin (3.61+!) [3.65].mp4</video>
+	</game>
+	<game id="29722">
+		<path>./Duke Nukem 3D - Megaton Edition.cmd</path>
+		<name>Duke Nukem 3D : Megaton Edition</name>
+		<desc>Duke Nukem 3D: Megaton Edition is an enhanced version of Duke Nukem 3D. It includes:
+Duke Nukem 3D: Atomic Edition
+Duke Caribbean: Life's a Beach
+Duke it out in D.C.
+Duke: Nuclear Winter
+All of the games use a new engine that runs natively under contemporary operating systems with enhanced OpenGL graphics. However, the DOS version of Duke Nukem 3D: Atomic Edition is also included (running with DOSBox).</desc>
+		<image>./mixart/Duke Nukem 3D - Megaton Edition.jpg</image>
+		<marquee>./wheel/Duke Nukem 3D - Megaton Edition.png</marquee>
+		<rating>0.75</rating>
+		<developer>Abstraction Games</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action</genre>
+		<family>Duke Nukem</family>
+		<md5>0c19073eb659036109d63ba013b0c771</md5>
+		<lang>en</lang>
+		<video>./snap/Duke Nukem 3D - Megaton Edition.mp4</video>
+	</game>
+	<game>
+		<path>./Red Bow (3.61+!) [3.69].cmd</path>
+		<name>Red Bow (3.61+!) [3.69]</name>
+		<md5>07859fa1699124d36fc6037e39bb1979</md5>
+		<lang>en</lang>
+		<image>./mixart/Red Bow (3.61+!) [3.69].jpg</image>
+		<marquee>./wheel/Red Bow (3.61+!) [3.69].png</marquee>
+		<video>./snap/Red Bow (3.61+!) [3.69].mp4</video>
 	</game>
 	<game>
 		<path>./Shinobido 2 Revenge of Zen.cmd</path>
@@ -1187,181 +1454,16 @@ Genre(s): Strategy</desc>
 		<publisher>Action, Stealth</publisher>
 		<genre>Action, Fighting</genre>
 		<players>1</players>
-	</game>
-	<game>
-		<path>./Atari Flashback Classics (3.61+!) [3.68].cmd</path>
-		<name>Atari Flashback Classics</name>
-		<desc>The most comprehensive collection of arcade and home console classics comes to the Sony PlayStation Vita system. Packed with 150 all-time favorites, rare gems, and unique homebrews, Atari® Flashback Classics is designed to take advantage of the touch screen and Joy-Con™ controllers of the Nintendo Switch system to bring new life to these iconic Atari games. With all-new achievements, leaderboards and social features bringing players together, combined with an amazing archive of classic artwork make Atari Flashback Classics the most complete Atari collection ever!</desc>
-		<releasedate>20190802T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Limited Run Games</publisher>
-		<genre>Action, Adventure, Role-Playing</genre>
-		<players>1</players>
-		<md5>7874863bc73a74f0c664e0b62fe3993a</md5>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Criminal Girls - Invite Only.cmd</path>
-		<name>Criminal Girls: Invite Only</name>
-		<desc>Lead seven sinful delinquents through the redemption program to return to their old lives as changed women. Just hired for a new, mysterious job, you soon discover that this isn't your normal prison gig. You've been entrusted with the care of a crew of girls whose sins have damned their souls to Hell and an eternity of punishment. Their only hope of salvation is for you to recognize their unique histories, and to guide them along the path to redemption. Navigate through the four trials of the Redemption Program, use the touch screen and rear touch pad to motivate your crew of delinquents to learn the skills to redeem themselves, or leave them to their fate.</desc>
-		<image>./mixart/Criminal Girls - Invite Only.png</image>
-		<rating>0.85</rating>
-		<releasedate>20150203T000000</releasedate>
-		<developer>Nippon Ichi Software Inc.</developer>
-		<publisher>NIS America, Inc.</publisher>
-		<genre>Role-Playing</genre>
-		<players>1</players>
-		<md5>5f42d3d0a52363533d267d6807e04de0</md5>
+		<path>./The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN.cmd</path>
+		<name>The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN</name>
+		<md5>2d70c35e19b11e700d6be50a5aca5938</md5>
 		<lang>en</lang>
-	</game>
-	<game id="29722">
-		<path>./Duke Nukem 3D - Megaton Edition.cmd</path>
-		<name>Duke Nukem 3D : Megaton Edition</name>
-		<desc>Duke Nukem 3D: Megaton Edition is an enhanced version of Duke Nukem 3D. It includes:
-Duke Nukem 3D: Atomic Edition
-Duke Caribbean: Life's a Beach
-Duke it out in D.C.
-Duke: Nuclear Winter
-All of the games use a new engine that runs natively under contemporary operating systems with enhanced OpenGL graphics. However, the DOS version of Duke Nukem 3D: Atomic Edition is also included (running with DOSBox).</desc>
-		<image>./mixart/Duke Nukem 3D - Megaton Edition.png</image>
-		<marquee>./wheel/Duke Nukem 3D - Megaton Edition.png</marquee>
-		<rating>0.75</rating>
-		<developer>Abstraction Games</developer>
-		<publisher>Devolver Digital</publisher>
-		<genre>Action</genre>
-		<family>Duke Nukem</family>
-		<md5>0c19073eb659036109d63ba013b0c771</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Gravity Duck.cmd</path>
-		<name>Gravity Rush</name>
-		<desc>Gain a new perspective as you take on the role of Kat, a strong-willed girl seeking the means to protect her future in a world that’s crumbling to pieces. Tilt and move the PlayStation®Vita System, taking gravity into your own hands to deliver devastating attacks, uncover the secrets to your past and explore a mysterious world.</desc>
-		<image>./mixart/Gravity Duck.jpg</image>
-		<releasedate>20120612T000000</releasedate>
-		<developer>Sony Japan Studio</developer>
-		<publisher>Sony Computer Entertainment America</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>323b3b6fb25061126b18c31a2943a60c</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Jetpack Joyride.cmd</path>
-		<name>Jetpack Joyride</name>
-		<desc>You're going for a ride - from the creators of FRUIT NINJA! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. After lift-off, simply touch the screen to ascend and release to descend, raining bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores!</desc>
-		<image>./mixart/Jetpack Joyride.png</image>
-		<rating>0.85</rating>
-		<releasedate>20121231T000000</releasedate>
-		<developer>Big Ant Studios</developer>
-		<publisher>Halfbrick Studios</publisher>
-		<genre>Action, Platform, Virtual Console</genre>
-		<players>1</players>
-		<md5>3909dfe9ffa36b2671466d606a0dfdbf</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./MotorStorm RC.cmd</path>
-		<name>MotorStorm RC</name>
-		<desc>High-speed radio-controlled car racing hits the MotorStorm circuit in MotorStorm RC! With visually stunning renditions of all four MotorStorm worlds (and eight of their vehicle classes,) this RC racing game comes loaded with endless competition that you can share with friends and rivals worldwide -- whether that's on PS3 or PS Vita, or both!</desc>
-		<image>./mixart/MotorStorm RC.png</image>
-		<rating>0.75</rating>
-		<releasedate>20120222T000000</releasedate>
-		<developer>Evolution Studios</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<md5>a743da12e3866928910f069221b1a199</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./OMG HD Zombies!.cmd</path>
-		<name>OMG HD Zombies!</name>
-		<md5>8d62a314afccb34db2a58c4a47da6e8a</md5>
-	</game>
-	<game id="30112">
-		<path>./Pinball Heroes - Complete.cmd</path>
-		<name>Pinball Heroes Complete</name>
-		<image>./mixart/Pinball Heroes - Complete.png</image>
-		<rating>0.25</rating>
-		<developer>Sony</developer>
-		<publisher>Sony</publisher>
-		<genre>Pinball</genre>
-		<md5>32076b6840f9fae225b07315af4975d7</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Star Wars.cmd</path>
-		<name>Super Star Wars</name>
-		<desc>Super Star Wars generally follows the plot of Star Wars, although some allowances were made to adapt the story to suit an action game. For example, instead of simply buying C-3PO and R2-D2 from the Jawas, Luke Skywalker must fight his way to the top of a Jawa sandcrawler while leaping from a series of moving conveyor belts. Brief cutscenes between levels tell an abbreviated version of the film's story through written text. Later stages allow the player to control smuggler and pilot Han Solo or Chewbacca the Wookiee. The game also features several vehicle-based levels in which the player takes control of an X-Wing or a landspeeder.
-
-Most of the stages consist of run and gun and platforming gameplay, with several different upgrades available to the standard blaster weapon. Luke can also wield a lightsaber after acquiring it from Obi Wan Kenobi. The end of the game has players reenacting Luke's Death Star trench run to destroy the Death Star, with Darth Vader confronting the player in his TIE Advanced x1.</desc>
-		<releasedate>20151116T000000</releasedate>
-		<developer>Code Mystics</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>decdbfd6cf625fef8d2c693dcaccd9dc</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Superfrog HD.cmd</path>
-		<name>Superfrog HD</name>
-		<desc>Amiga classic Superfrog gets the HD treatment in Superfrog HD.</desc>
-		<image>./mixart/Superfrog HD.png</image>
-		<rating>0.85</rating>
-		<releasedate>20130806T000000</releasedate>
-		<developer>Team17 Software Limited</developer>
-		<publisher>Team17 Software Limited</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<md5>0b299b068d764d7f9c1c2291a7159870</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Tokyo Tattoo Girls (3.61+!) [3.65].cmd</path>
-		<name>Tokyo Tattoo Girls</name>
-		<desc>After a calamity befalls Tokyo, some of the city's survivors find themselves with powerful abilities bestowed on them by colorful tattoos. The city is cordoned off from the world, and its inhabitants isolated. To create peace, the city has been divided into 23 wards, each controlled by a powerful group known as 'Kumi'. Together, these Kumi form the 'union.' It's rumored that escape from the devastated city is possible, but only for the person who manages to defeat all 23 Kumi.</desc>
-		<releasedate>20171114T000000</releasedate>
-		<developer>Sushi Typhoon Games</developer>
-		<publisher>Nippon Ichi Software Inc.</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<md5>e4c0a401aafc2fddae7f966049810779</md5>
-		<lang>en</lang>
-	</game>
-	<game id="29632">
-		<path>./Zero Escape - Virtue's Last Reward.cmd</path>
-		<name>Zero Escape: Virtue's Last Reward</name>
-		<desc>Zero Escape: Virtue's Last Reward is a suspense-driven visual novel/puzzle game and spiritual sequel to the hit, 999. Zero has kidnapped nine people and placed them in a warehouse to play the deadly Nonary Game. These seemingly nine strangers have bracelets that will kill them if they donâ€™t play the game correctly. However, how can they trust each other, and do some have ulterior motives? Play as Sigma and decide who to trust and who to betray in this plot twisting visual novel! Who is Zero, why has Sigma been brought here and who exactly are the others? With fully voiced dual language support, mind-bending puzzles and more, solve the mystery that is Zero!</desc>
-		<image>./mixart/Zero Escape - Virtue's Last Reward.png</image>
-		<marquee>./wheel/Zero Escape - Virtue's Last Reward.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20121023T000000</releasedate>
-		<developer>Rising Star Games</developer>
-		<publisher>Chunsoft</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<md5>75eb87148fde8c3b9e3bb1560f2c420c</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Dreamwalker (3.61+!) [3.69].cmd</path>
-		<name>Dreamwalker (3.61+!) [3.69]</name>
-		<md5>09d6db871e2b23d75e878fb786eb7afa</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Dreii.cmd</path>
-		<name>Dreii</name>
-		<md5>f97d1806595d0d5f8c623f43a8cf4423</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Home - A Unique Horror Adventure.cmd</path>
-		<name>Home - A Unique Horror Adventure</name>
-		<md5>8b03ee83ff441d7836d6d8904ab6744d</md5>
-		<lang>en</lang>
+		<image>./mixart/The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN.jpg</image>
+		<marquee>./wheel/The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN.png</marquee>
+		<video>./snap/The Asterisk War - THE ACADEMY CITY ON THE WATER HOUKAKENRAN.mp4</video>
 	</game>
 	<game>
 		<path>./Asphalt - Injection.cmd</path>
@@ -1370,13 +1472,173 @@ Most of the stages consist of run and gun and platforming gameplay, with several
 		<image>./mixart/Asphalt Injection.jpg</image>
 		<video>./snap/Asphalt Injection.mp4</video>
 		<marquee>./wheel/Asphalt Injection.png</marquee>
-		<rating>7.85</rating>
+		<rating>1</rating>
 		<releasedate>20111217T000000</releasedate>
 		<developer>Gameloft</developer>
 		<publisher>Ubisoft</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="30142">
+		<path>./Burn the Rope.cmd</path>
+		<name>Burn The Rope</name>
+		<desc>Burn the Rope</desc>
+		<image>./mixart/Burn the Rope.jpg</image>
+		<video>./snap/Burn the Rope.mp4</video>
+		<marquee>./wheel/Burn the Rope.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Big Blue Bubble</developer>
+		<publisher>Big Blue Bubble</publisher>
+		<genre>Action</genre>
+		<md5>d275456b8490ff84cb0be6ad32989904</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Chasm (3.61+!) [3.68].cmd</path>
+		<name>Chasm</name>
+		<desc>Chasm game for PSvita</desc>
+		<image>./mixart/Chasm (3.61+!) [3.68].jpg</image>
+		<video>./snap/Chasm (3.61+!) [3.68].mp4</video>
+		<marquee>./wheel/Chasm (3.61+!) [3.68].png</marquee>
+		<rating>0</rating>
+		<releasedate>20180731T000000</releasedate>
+		<developer>Bit Kid</developer>
+		<genre>Action, Adventure, Platform</genre>
+		<players>1</players>
+		<md5>bdc4ff28bbfccd616ba5940195985f27</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Disgaea 4 - A Promise Revisited.cmd</path>
+		<name>Disgaea 4: A Promise Revisited</name>
+		<desc>Disgaea 4: A Promise Revisited is a port of Disgaea 4: A Promise Unforgotten on the Playstation Vita. It contains all of the downloadable content made available in the original PS3 game and also features newly added game content. However some content was also cut out, such as the old SD sprites and voice acting for certain scenes.</desc>
+		<image>./mixart/Disgaea 4 - A Promise Revisited.jpg</image>
+		<video>./snap/Disgaea 4 - A Promise Revisited.mp4</video>
+		<marquee>./wheel/Disgaea 4 - A Promise Revisited.png</marquee>
+		<rating>0</rating>
+		<releasedate>20140812T000000</releasedate>
+		<developer>Nippon Ichi Software Inc.</developer>
+		<publisher>Nippon Ichi Software Inc.</publisher>
+		<genre>Role-Playing</genre>
+		<md5>9f5c297b3343292463ba72560fd1e9a9</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dreamwalker (3.61+!) [3.69].cmd</path>
+		<name>Dreamwalker (3.61+!) [3.69]</name>
+		<image>./mixart/Dreamwalker (3.61+!) [3.69].jpg</image>
+		<video>./snap/Dreamwalker (3.61+!) [3.69].mp4</video>
+		<marquee>./wheel/Dreamwalker (3.61+!) [3.69].png</marquee>
+		<md5>09d6db871e2b23d75e878fb786eb7afa</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dreii.cmd</path>
+		<name>Dreii</name>
+		<image>./mixart/Dreii.jpg</image>
+		<video>./snap/Dreii.mp4</video>
+		<marquee>./wheel/Dreii.png</marquee>
+		<md5>f97d1806595d0d5f8c623f43a8cf4423</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./iO (3.61+!) [3.63].cmd</path>
+		<name>Aedis Eclipse: Generation of Chaos</name>
+		<desc>The unique gaming experience offered by Aedis Eclipse comes from the combination of incredible team customization and item crafting on one hand, to the dynamic combat multi-unit battle system, on the other. The PSPÂ® format allows gamers to briefly pick up their hand-held to enjoy strategic thinking anytime, anywhere.
+
+-Real time battles and war game like army build up
+-3 completely different stories (3 games in 1 for hours of game play )
+-New field effects elements to add more strategy
+-Extensive job classes (Over 30)
+-Addition of a fantasy setting, Sci-fi Setting, and a heaven/hell divine setting for more customization</desc>
+		<image>./mixart/iO (3.61+!) [3.63].jpg</image>
+		<video>./snap/iO (3.61+!) [3.63].mp4</video>
+		<marquee>./wheel/iO (3.61+!) [3.63].png</marquee>
+		<releasedate>20091222T000000</releasedate>
+		<genre>Role-Playing, Strategy</genre>
+		<players>1</players>
+		<md5>22d1d8c4b097b81c627792c3db459a79</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Home - A Unique Horror Adventure.cmd</path>
+		<name>Home - A Unique Horror Adventure</name>
+		<image>./mixart/Home - A Unique Horror Adventure.jpg</image>
+		<video>./snap/Home - A Unique Horror Adventure.mp4</video>
+		<marquee>./wheel/Home - A Unique Horror Adventure.png</marquee>
+		<md5>8b03ee83ff441d7836d6d8904ab6744d</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maliya.cmd</path>
+		<name>Maliya</name>
+		<image>./mixart/Maliya.jpg</image>
+		<video>./snap/Maliya.mp4</video>
+		<marquee>./wheel/Maliya.png</marquee>
+		<md5>accb866b6736a5da2e3c8bcea1984bbe</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mekabolt.cmd</path>
+		<name>Mekabolt</name>
+		<image>./mixart/Mekabolt.jpg</image>
+		<video>./snap/Mekabolt.mp4</video>
+		<marquee>./wheel/Mekabolt.png</marquee>
+		<md5>f83d7507c8451b2ac2be10254710c1bb</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68].cmd</path>
+		<name>NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68]</name>
+		<image>./mixart/NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68].jpg</image>
+		<video>./snap/NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68].mp4</video>
+		<marquee>./wheel/NEW GAME! -THE CHALLENGE STAGE!- (3.61+!) [3.68].png</marquee>
+		<md5>fe0770f04994bbe5bad5aa69f80873ee</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./OMG HD Zombies!.cmd</path>
+		<name>OMG HD Zombies!</name>
+		<image>./mixart/OMG HD Zombies!.jpg</image>
+		<video>./snap/OMG HD Zombies!.mp4</video>
+		<marquee>./wheel/OMG HD Zombies!.png</marquee>
+		<md5>8d62a314afccb34db2a58c4a47da6e8a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Paradox Soul.cmd</path>
+		<name>Paradox Soul</name>
+		<image>./mixart/Paradox Soul.jpg</image>
+		<video>./snap/Paradox Soul.mp4</video>
+		<marquee>./wheel/Paradox Soul.png</marquee>
+		<md5>5632a494b2983d08b5e50c30137c9f44</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pic-a-Pix Color (3.61+!) [3.67].cmd</path>
+		<name>Pic-a-Pix Color (3.61+!) [3.67]</name>
+		<image>./mixart/Pic-a-Pix Color (3.61+!) [3.67].jpg</image>
+		<video>./snap/Pic-a-Pix Color (3.61+!) [3.67].mp4</video>
+		<marquee>./wheel/Pic-a-Pix Color (3.61+!) [3.67].png</marquee>
+		<md5>56c477703369d8371ab58a64150b2445</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Spellspire (3.61+!) [3.63].cmd</path>
+		<name>Spellspire</name>
+		<desc>Spellspire is a thrilling mashup of word game and action role playing game. Pick letters from a grid to spell words and shoot them from your wand as spells. The longer the word, the bigger the blast! Can you make it to the top of the Spellspire?</desc>
+		<image>./mixart/Spellspire.jpg</image>
+		<video>./snap/Spellspire (3.61+!) [3.63].mp4</video>
+		<marquee>./wheel/Spellspire (3.61+!) [3.63].png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<publisher>10tons Ltd.</publisher>
+		<genre>Adventure, Role-Playing, Quiz</genre>
+		<players>1</players>
+		<md5>124d1214598d6957f20b3a93ecd4d867</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

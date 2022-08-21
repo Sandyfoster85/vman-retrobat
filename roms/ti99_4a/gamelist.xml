@@ -36,13 +36,6 @@
 		<video>./snap/TI Invaders.mp4</video>
 	</game>
 	<game>
-		<path>./zerozap.zip</path>
-		<name>Zero Zap</name>
-		<image>./mixart/Zero Zap.png</image>
-		<marquee>./wheel/Zero Zap.png</marquee>
-		<video>./snap/Zero Zap.mp4</video>
-	</game>
-	<game>
 		<path>./antcolb.zip</path>
 		<name>Ant Colony</name>
 		<image>./mixart/Ant Colony.png</image>
@@ -716,6 +709,14 @@
 		<rating>0.8</rating>
 		<releasedate>19700101T000000</releasedate>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./zerozap.zip</path>
+		<name>Zero Zap</name>
+		<image>./mixart/Zero Zap.png</image>
+		<video>./snap/Zero Zap.mp4</video>
+		<marquee>./wheel/Zero Zap.png</marquee>
 		<lang>en</lang>
 	</game>
 </gameList>

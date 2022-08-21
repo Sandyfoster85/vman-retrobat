@@ -53,21 +53,6 @@
 		<cheevosHash>033759EF626B436A8BAB8B53A17D27F9</cheevosHash>
 	</game>
 	<game>
-		<path>./basschal.zip</path>
-		<name>Sega Bass Fishing Challenge</name>
-		<desc>Sega Bass Fishing Challenge is a 1-Player only fishing game.</desc>
-		<image>./mixart/basschal.png</image>
-		<video>./snap/basschal.mp4</video>
-		<marquee>./wheel/basschal.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports-Fishing-Hunting and Fishing</genre>
-		<players>2</players>
-		<cheevosHash>81D8638A171A067A90B3E89D43A950CC</cheevosHash>
-	</game>
-	<game>
 		<path>./blokpong.zip</path>
 		<name>Block Pong-pong</name>
 		<desc>Game derived from ping-pong where rackets are replaced by cards with cute animals.</desc>
@@ -78,21 +63,6 @@
 		<releasedate>20040101T000000</releasedate>
 		<lang>en</lang>
 		<cheevosHash>629D7C6C6A54E48646E04EC11FB609F1</cheevosHash>
-	</game>
-	<game>
-		<path>./claychal.zip</path>
-		<name>Sega Clay Challenge</name>
-		<desc>Sega Clay Challenge (c) 2009 Sega Amusements, Inc.  - SOURCES -  Game's ROM.</desc>
-		<image>./mixart/claychal.png</image>
-		<video>./snap/claychal.mp4</video>
-		<marquee>./wheel/claychal.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20080101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>6</players>
-		<cheevosHash>A87AF1D318E8B94639C36CE50DD5F812</cheevosHash>
 	</game>
 	<game>
 		<path>./demofist.zip</path>
@@ -126,21 +96,6 @@
 		<cheevosHash>30CFF15C3ACE438D06AEE5D20DD6FFCD</cheevosHash>
 	</game>
 	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
-	</game>
-	<game>
 		<path>./fotns.zip</path>
 		<name>Fist Of The North Star</name>
 		<desc>This was an arcade game released in 2000 by Konami (also known as Punch Mania: Hokuto no Ken)</desc>
@@ -156,101 +111,6 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>34CBB1562169C426691992B02F2B3606</cheevosHash>
-	</game>
-	<game>
-		<path>./ftspeed.zip</path>
-		<name>Faster Than Speed</name>
-		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
-		<image>./mixart/ftspeed.png</image>
-		<video>./snap/ftspeed.mp4</video>
-		<marquee>./wheel/ftspeed.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<genre>Race, Driving-Race 1st Pers. view</genre>
-		<cheevosHash>CE2CFE018AE948D7E656DD14FA1C8792</cheevosHash>
-	</game>
-	<game>
-		<path>./ggisuka.zip</path>
-		<name>Guilty Gear Isuka</name>
-		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
-		<image>./mixart/ggisuka.png</image>
-		<video>./snap/ggisuka.mp4</video>
-		<marquee>./wheel/ggisuka.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>4</players>
-		<cheevosHash>ADA73AFD0BE7DA8680106CD79084C629</cheevosHash>
-	</game>
-	<game>
-		<path>./ggx15.zip</path>
-		<name>Guilty Gear X Ver. 1.5</name>
-		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
-		<image>./mixart/ggx15.png</image>
-		<video>./snap/ggx15.mp4</video>
-		<marquee>./wheel/ggx15.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<cheevosHash>C4529D7FC13A6A4410777E0ACFCB4E05</cheevosHash>
-	</game>
-	<game>
-		<path>./kofnw.zip</path>
-		<name>The King of Fighters NeoWave</name>
-		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
-		<image>./mixart/kofnw.png</image>
-		<video>./snap/kofnw.mp4</video>
-		<marquee>./wheel/kofnw.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<cheevosHash>58CBA8E91A747852B558FA14687CB02D</cheevosHash>
-	</game>
-	<game>
-		<path>./kofxi.zip</path>
-		<name>The King of Fighters XI</name>
-		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
-		<image>./mixart/kofxi.png</image>
-		<video>./snap/kofxi.mp4</video>
-		<marquee>./wheel/kofxi.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<cheevosHash>85D75973F9946590FF3AD93387CF7F98</cheevosHash>
-	</game>
-	<game>
-		<path>./kov7sprt.zip</path>
-		<name>Knights Of Valour: The Seven Spirits</name>
-		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
-		<image>./mixart/kov7sprt.png</image>
-		<video>./snap/kov7sprt.mp4</video>
-		<marquee>./wheel/kov7sprt.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<genre>Beat'em Up-Fight / 2.5D-Fight</genre>
-		<players>2</players>
-		<cheevosHash>842C193E2C09A97CE839DE2457457353</cheevosHash>
-	</game>
-	<game>
-		<path>./maxspeed.zip</path>
-		<name>Maximum Speed</name>
-		<desc>Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode.    Maximum Speed features 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.    Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.</desc>
-		<image>./mixart/maxspeed.png</image>
-		<video>./snap/maxspeed.mp4</video>
-		<marquee>./wheel/maxspeed.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Race 1st Pers. view-Race, Driving</genre>
-		<cheevosHash>0934B5B1570407CD8D1B7EB888B4BF58</cheevosHash>
 	</game>
 	<game>
 		<path>./mslug6.zip</path>
@@ -270,6 +130,170 @@
 		<cheevosHash>0358F8C16A2A9C2CCBB54DAC0AFEFDB7</cheevosHash>
 	</game>
 	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
+	</game>
+	<game>
+		<path>./basschal.zip</path>
+		<name>Sega Bass Fishing Challenge</name>
+		<desc>Sega Bass Fishing Challenge is a 1-Player only fishing game.</desc>
+		<image>./mixart/basschal.png</image>
+		<video>./snap/basschal.mp4</video>
+		<marquee>./wheel/basschal.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports-Fishing-Hunting and Fishing</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>81D8638A171A067A90B3E89D43A950CC</cheevosHash>
+	</game>
+	<game>
+		<path>./claychal.zip</path>
+		<name>Sega Clay Challenge</name>
+		<desc>Sega Clay Challenge (c) 2009 Sega Amusements, Inc.  - SOURCES -  Game's ROM.</desc>
+		<image>./mixart/claychal.png</image>
+		<video>./snap/claychal.mp4</video>
+		<marquee>./wheel/claychal.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20080101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>6</players>
+		<lang>en</lang>
+		<cheevosHash>A87AF1D318E8B94639C36CE50DD5F812</cheevosHash>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
+	</game>
+	<game>
+		<path>./ftspeed.zip</path>
+		<name>Faster Than Speed</name>
+		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
+		<image>./mixart/ftspeed.png</image>
+		<video>./snap/ftspeed.mp4</video>
+		<marquee>./wheel/ftspeed.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+		<lang>en</lang>
+		<cheevosHash>CE2CFE018AE948D7E656DD14FA1C8792</cheevosHash>
+	</game>
+	<game>
+		<path>./ggisuka.zip</path>
+		<name>Guilty Gear Isuka</name>
+		<desc>Guilty Gear Isuka introduces new characters, new arenas, and several new franchise firsts. Now, four players can brawl in two-on-two fighting or cooperatively against the computer AI. A new mode lets you customize your own character's appearance, moves, and combos with points earned during matches. Guilty Gear Isuka also features three new characters, all-new arenas, and a side-scrolling Action Game mode. Prove that you're skilled enough to win the tournament, and save humans from the Gear threat.</desc>
+		<image>./mixart/ggisuka.png</image>
+		<video>./snap/ggisuka.mp4</video>
+		<marquee>./wheel/ggisuka.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<cheevosHash>ADA73AFD0BE7DA8680106CD79084C629</cheevosHash>
+	</game>
+	<game>
+		<path>./ggx15.zip</path>
+		<name>Guilty Gear X Ver. 1.5</name>
+		<desc>Taking place a few weeks after the first game. A new Commander Gear was discovered by the name Dizzy. Worried that a second War would start, another Holy Knights Tournament was started. The person who could capture and kill this Gear would be rewarded 500,000 World Dollars.</desc>
+		<image>./mixart/ggx15.png</image>
+		<video>./snap/ggx15.mp4</video>
+		<marquee>./wheel/ggx15.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>C4529D7FC13A6A4410777E0ACFCB4E05</cheevosHash>
+	</game>
+	<game>
+		<path>./kofnw.zip</path>
+		<name>The King of Fighters NeoWave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./mixart/kofnw.png</image>
+		<video>./snap/kofnw.mp4</video>
+		<marquee>./wheel/kofnw.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>58CBA8E91A747852B558FA14687CB02D</cheevosHash>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<image>./mixart/kofxi.png</image>
+		<video>./snap/kofxi.mp4</video>
+		<marquee>./wheel/kofxi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>85D75973F9946590FF3AD93387CF7F98</cheevosHash>
+	</game>
+	<game>
+		<path>./kov7sprt.zip</path>
+		<name>Knights Of Valour: The Seven Spirits</name>
+		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
+		<image>./mixart/kov7sprt.png</image>
+		<video>./snap/kov7sprt.mp4</video>
+		<marquee>./wheel/kov7sprt.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<genre>Beat'em Up-Fight / 2.5D-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>842C193E2C09A97CE839DE2457457353</cheevosHash>
+	</game>
+	<game>
+		<path>./maxspeed.zip</path>
+		<name>Maximum Speed</name>
+		<desc>Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode.    Maximum Speed features 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.    Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.</desc>
+		<image>./mixart/maxspeed.png</image>
+		<video>./snap/maxspeed.mp4</video>
+		<marquee>./wheel/maxspeed.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Race 1st Pers. view-Race, Driving</genre>
+		<lang>en</lang>
+		<cheevosHash>0934B5B1570407CD8D1B7EB888B4BF58</cheevosHash>
+	</game>
+	<game>
 		<path>./rangrmsn.zip</path>
 		<name>Ranger Mission</name>
 		<desc>A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.</desc>
@@ -280,6 +304,7 @@
 		<releasedate>20040101T000000</releasedate>
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>6450A6115947CE1A5E71444C09CA34A7</cheevosHash>
 	</game>
 	<game>
@@ -295,6 +320,7 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>CDF5F14543CE2BC0323E6DA3EAE13906</cheevosHash>
 	</game>
 	<game>
@@ -310,6 +336,7 @@
 		<publisher>Sammy Studios</publisher>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>BFE62151709B45676DFB50F5E5164D37</cheevosHash>
 	</game>
 	<game>
@@ -323,6 +350,7 @@
 		<releasedate>20040101T000000</releasedate>
 		<genre>Platform-Mahjong-Asiatic board game</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>ADA595ED4910F50AEFD5F3F68EE3E194</cheevosHash>
 	</game>
 	<game>
@@ -336,6 +364,7 @@
 		<releasedate>20050101T000000</releasedate>
 		<genre>Fight-Fight / Versus</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>AE30255B1CD8439B826F4FED7CCFFC8E</cheevosHash>
 	</game>
 	<game>
@@ -350,6 +379,7 @@
 		<developer>Gaelco</developer>
 		<publisher>Gaelco</publisher>
 		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<lang>en</lang>
 		<cheevosHash>9D2CA62471DB69613881FA1CF0A55936</cheevosHash>
 	</game>
 	<game>
@@ -363,6 +393,7 @@
 		<releasedate>20030101T000000</releasedate>
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>792FACD8E91A219830199DD416EAE6B9</cheevosHash>
 	</game>
 	<game>
@@ -374,6 +405,7 @@
 		<marquee>./wheel/sushibar.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>20030101T000000</releasedate>
+		<lang>en</lang>
 		<cheevosHash>49804CDBB6A9769913D8B2719ED71296</cheevosHash>
 	</game>
 	<game>
@@ -385,6 +417,7 @@
 		<marquee>./wheel/vfurlong.png</marquee>
 		<rating>0.4</rating>
 		<releasedate>20050101T000000</releasedate>
+		<lang>en</lang>
 		<cheevosHash>4CA1909E05A0FBA3765FA830B7FC942A</cheevosHash>
 	</game>
 	<game>
@@ -397,6 +430,7 @@
 		<rating>0.6</rating>
 		<releasedate>20050101T000000</releasedate>
 		<genre>Race, Driving</genre>
+		<lang>en</lang>
 		<cheevosHash>A699E593B06EF0CD10F51E879ADD09B4</cheevosHash>
 	</game>
 	<game>
@@ -412,6 +446,7 @@
 		<publisher>Sega</publisher>
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
+		<lang>en</lang>
 		<cheevosHash>35F6C1048BD89D119B20F4B8C4E67D92</cheevosHash>
 	</game>
 	<game>
@@ -425,21 +460,7 @@
 		<releasedate>20050101T000000</releasedate>
 		<genre>Shooter-Lightgun Shooter</genre>
 		<players>2</players>
-		<cheevosHash>A9A87B9CA0C9065F4D64E6DD8000007B</cheevosHash>
-	</game>
-	<game>
-		<path>./ngbc.zip</path>
-		<name>Neo-geo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./mixart/ngbc.png</image>
-		<video>./snap/ngbc.mp4</video>
-		<marquee>./wheel/ngbc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
-		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
+		<cheevosHash>A9A87B9CA0C9065F4D64E6DD8000007B</cheevosHash>
 	</game>
 </gameList>

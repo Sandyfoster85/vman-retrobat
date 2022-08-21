@@ -2904,19 +2904,6 @@ Apart from the main race, there is also a "Rad Tag" mode. In this mode, a timer 
 		<players>2</players>
 		<cheevosHash>A67235F2E7CDF0F7D8AAA15AA74B0353</cheevosHash>
 	</game>
-	<game id="99473" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country (USA) (Competition Edition).7z</path>
-		<name>Donkey Kong Country : Competition Cartridge</name>
-		<desc>Here's the speed freak's version of the biggest video game hit of all time. We collected the five minute, timed action game paks played in the BlockBuster World Video Game Championship II. Now it's your turn. The clock's ticking down as you dash through the Donkey Kong Country. Forget the bananas - just finish as many levels as possible. To make it through eight random levels, you gotta have lots of juice. Think it's easy? Only the few and fleet will ever be able to take up the challenge, because Nintendo minted only 2,500 of this special edition.</desc>
-		<image>./mixart/Donkey Kong Country (USA) (Competition Edition).png</image>
-		<marquee>./wheel/Donkey Kong Country (USA) (Competition Edition).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19941125T000000</releasedate>
-		<developer>Rare Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<cheevosHash>45E938A3ADDE7DC91968793D115C8057</cheevosHash>
-	</game>
 	<game id="2149" source="ScreenScraper.fr">
 		<path>./Donkey Kong Country (USA) (Rev 2).7z</path>
 		<name>Donkey Kong Country</name>
@@ -15130,7 +15117,7 @@ In addition to the power-ups listed above, fruity bubblegum can also be found. O
 		<video>./snap/Hyper Street Kart.mp4</video>
 		<marquee>./wheel/Hyper Street Kart.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
@@ -15175,5 +15162,19 @@ All three games tell the story of ninja Ryu Hayabusa through alternating cinemat
 		<region>us</region>
 		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
 		<cheevosId>498</cheevosId>
+	</game>
+	<game id="99473" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country (USA) (Competition Edition).7z</path>
+		<name>Donkey Kong Country : Competition Cartridge</name>
+		<desc>Here's the speed freak's version of the biggest video game hit of all time. We collected the five minute, timed action game paks played in the BlockBuster World Video Game Championship II. Now it's your turn. The clock's ticking down as you dash through the Donkey Kong Country. Forget the bananas - just finish as many levels as possible. To make it through eight random levels, you gotta have lots of juice. Think it's easy? Only the few and fleet will ever be able to take up the challenge, because Nintendo minted only 2,500 of this special edition.</desc>
+		<image>./mixart/Donkey Kong Country (USA) (Competition Edition).png</image>
+		<video>./snap/Donkey Kong Country (USA) (Competition Edition).mp4</video>
+		<marquee>./wheel/Donkey Kong Country (USA) (Competition Edition).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19941125T000000</releasedate>
+		<developer>Rare Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<cheevosHash>45E938A3ADDE7DC91968793D115C8057</cheevosHash>
 	</game>
 </gameList>

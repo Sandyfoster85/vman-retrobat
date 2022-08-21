@@ -1537,22 +1537,6 @@ OBJECT OF THE GAME is to knock out both enemy tanks, avoid invisible mines and h
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./Astrosmash (World).7z</path>
-		<name>Astrosmash</name>
-		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
-
-Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
-		<image>./mixart/Astrosmash (World).png</image>
-		<video>./snap/Astrosmash (World).mp4</video>
-		<marquee>./wheel/Astrosmash (World).png</marquee>
-		<releasedate>19811015T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Shooter</genre>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./Atlantis (World).7z</path>
 		<name>Atlantis</name>
 		<desc>The lost city of Atlantis is under attack! Wave after wave of Gorgon vessels are approaching, each armed with weapons capable of destroying a part of the city. You are in charge of the command posts at the edges of the city and need to defend it from the invaders. The various gorgon craft will keep flying by on the screen in varying numbers and in different flight patterns. At first they fly high in the sky but then progressively lower. If an enemy makes it low enough before you destroy it, it will use it's weapons and destroy one of the buildings in Atlantis. As you progress in the game, the enemy craft will keep increasing in speed. The game ends when all remaining buildings in the city have been destroyed.</desc>
@@ -1865,6 +1849,23 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<developer>APh Technological Consulting</developer>
 		<publisher>Mattel Electronics</publisher>
 		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Astrosmash (World).7z</path>
+		<name>Astrosmash</name>
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
+		<image>./mixart/Astrosmash (World).png</image>
+		<video>./snap/Astrosmash (World).mp4</video>
+		<marquee>./wheel/Astrosmash (World).png</marquee>
+		<releasedate>19811015T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
