@@ -423,26 +423,6 @@ You must fly an specially designed AH-64A Apache on a series of missions from re
 		<players>1</players>
 		<cheevosHash>F0CEED28D0E83BC4ADC688D06D12BF2E</cheevosHash>
 	</game>
-	<game id="88430" source="ScreenScraper.fr">
-		<path>./Double Dragon (USA, Europe).7z</path>
-		<name>Double Dragon</name>
-		<desc>MESS WITH THE BEST DIE LIKE THE REST
-
-That's the motto of the Dragon lords - the meanest. roughest street gang around. Brothers Billy and Jimmy lee Just found out the hard way that getting out of this gang is even tougher than getting in. Only one got out with his life. From sweeping side kicks to the dirtiest street fighting imaginable, you'll be up to your neck in martial arts action as you take on the role of Billy to avenge your brother's death.
-
-Too bad for the Dragon Lords they taught you everything you know. Now it's time to show them they picked the wrong brother to mess with!</desc>
-		<image>./mixart/Double Dragon (USA, Europe).png</image>
-		<video>./snap/Double Dragon (USA, Europe).mp4</video>
-		<marquee>./wheel/Double Dragon (USA, Europe).png</marquee>
-		<rating>1</rating>
-		<releasedate>19921001T000000</releasedate>
-		<developer>Virgin</developer>
-		<publisher>Virgin</publisher>
-		<genre>Fight-Beat'em Up</genre>
-		<players>1</players>
-		<cheevosHash>B45D73E40CE8F6E76DCED24EE921871A</cheevosHash>
-		<cheevosId>12622</cheevosId>
-	</game>
 	<game id="12883" source="ScreenScraper.fr">
 		<path>./Dr. Robotnik's Mean Bean Machine (USA, Europe).7z</path>
 		<name>Dr. Robotnik's Mean Bean Machine</name>
@@ -4718,5 +4698,25 @@ Ryu will battle through urban city settings, forests, jungles, snow covered cast
 		<region>eu</region>
 		<cheevosHash>764388B8B5DC2E762FAB9BADD0ECA6BA</cheevosHash>
 		<cheevosId>12623</cheevosId>
+	</game>
+	<game id="88430" source="ScreenScraper.fr">
+		<path>./Double Dragon (USA, Europe).7z</path>
+		<name>Double Dragon</name>
+		<desc>MESS WITH THE BEST DIE LIKE THE REST
+
+That's the motto of the Dragon lords - the meanest. roughest street gang around. Brothers Billy and Jimmy lee Just found out the hard way that getting out of this gang is even tougher than getting in. Only one got out with his life. From sweeping side kicks to the dirtiest street fighting imaginable, you'll be up to your neck in martial arts action as you take on the role of Billy to avenge your brother's death.
+
+Too bad for the Dragon Lords they taught you everything you know. Now it's time to show them they picked the wrong brother to mess with!</desc>
+		<image>./mixart/Double Dragon (USA, Europe).png</image>
+		<video>./snap/Double Dragon (USA, Europe).mp4</video>
+		<marquee>./wheel/Double Dragon (USA, Europe).png</marquee>
+		<rating>1</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Virgin</developer>
+		<publisher>Virgin</publisher>
+		<genre>Fight-Beat'em Up</genre>
+		<players>1</players>
+		<cheevosHash>B45D73E40CE8F6E76DCED24EE921871A</cheevosHash>
+		<cheevosId>12622</cheevosId>
 	</game>
 </gameList>

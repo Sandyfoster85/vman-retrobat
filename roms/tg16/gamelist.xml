@@ -700,24 +700,6 @@ When he makes it to a certain point in each level, Keith Courage is given access
 		<players>1</players>
 		<cheevosHash>8BECF757A68F72A01428D4359165E463</cheevosHash>
 	</game>
-	<game id="14583" source="ScreenScraper">
-		<path>./Legend of Hero Tonma (USA).zip</path>
-		<name>Legend of Hero Tonma</name>
-		<desc>A little caped hero called Tommy must fight his way to the boss' castle through a cute world to rescue a princess, but stopping him from his rescue mission will be several enemies, which he has to deal with by launching little fireballs at them. Tommy may also jump on their heads to stun them for a moment.
-
-Getting power-ups will make the fireball soon increase to a strange "bouncing" fireball, which will provide more damage to enemies. Treasure chests can be busted open, allowing Tommy to collect coins. Tommy's journey will have him explore ruins, cliffs, statues, dungeons, and finally the castle. At the end of each of these, there is a boss that must be defeated in order to proceed to the next stage.</desc>
-		<image>./mixart/Legend of Hero Tonma (USA).png</image>
-		<video>./snap/Legend of Hero Tonma (USA).mp4</video>
-		<marquee>./wheel/Legend of Hero Tonma (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Nec Interchannel</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>CFAA094419809446CABFE739995E22EE</cheevosHash>
-		<cheevosId>2303</cheevosId>
-	</game>
 	<game id="14607" source="ScreenScraper">
 		<path>./Legendary Axe II, The (USA).zip</path>
 		<name>The Legendary Axe II</name>
@@ -1755,5 +1737,23 @@ If you have ever played chuck rock then you know what to expect from this, a bog
 		<genre>Action</genre>
 		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
 		<cheevosId>2279</cheevosId>
+	</game>
+	<game id="14583" source="ScreenScraper">
+		<path>./Legend of Hero Tonma (USA).zip</path>
+		<name>Legend of Hero Tonma</name>
+		<desc>A little caped hero called Tommy must fight his way to the boss' castle through a cute world to rescue a princess, but stopping him from his rescue mission will be several enemies, which he has to deal with by launching little fireballs at them. Tommy may also jump on their heads to stun them for a moment.
+
+Getting power-ups will make the fireball soon increase to a strange "bouncing" fireball, which will provide more damage to enemies. Treasure chests can be busted open, allowing Tommy to collect coins. Tommy's journey will have him explore ruins, cliffs, statues, dungeons, and finally the castle. At the end of each of these, there is a boss that must be defeated in order to proceed to the next stage.</desc>
+		<image>./mixart/Legend of Hero Tonma (USA).png</image>
+		<video>./snap/Legend of Hero Tonma (USA).mp4</video>
+		<marquee>./wheel/Legend of Hero Tonma (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Nec Interchannel</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<cheevosHash>CFAA094419809446CABFE739995E22EE</cheevosHash>
+		<cheevosId>2303</cheevosId>
 	</game>
 </gameList>

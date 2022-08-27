@@ -17177,25 +17177,6 @@ In between levels players are given the possibility of earning 5,000 bonus point
 		<cheevosHash>A185FFA125E121F6086A6E6B5D9A33E4</cheevosHash>
 	</game>
 	<game>
-		<path>./androdun.zip</path>
-		<name>Andro Dunos</name>
-		<desc>The invasion of an unknown life source is getting worse. Nobody knows if the defensive line or the heart of the enemy base is ruined first. With the people's hope, the most advanced fighter will be dispatched into multi-scrolling space.
-
-Fight your way through seven stages in this horizontal-scrolling game, and defeat a boss at the end of each one. You start the game with four main weapons, which you can switch from with the click of a button. Some of these weapons are more powerful than others. You can also fire off a charged shot if your main weapon level is two or greater, simply by holding down the fire button for about two seconds. Using charged shots can do more damage to an enemy ship. If you happen to die, you will lose one power level from all four weapons. If all your lives are lost and are forced to continue, you will start again with your main weapon on the second power level and all three sub-weapons on the first power level.</desc>
-		<image>./mixart/androdun.png</image>
-		<video>./snap/androdun.mp4</video>
-		<marquee>./wheel/androdun.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>72C1C347E5892EFBF0C9E3FCF8E9E971</cheevosHash>
-	</game>
-	<game>
 		<path>./angelkds.zip</path>
 		<name>Angel Kids</name>
 		<desc>Angel Kids is a climbing game where players take turns controlling two kids holding a rope. Pull the two joysticks outwards and the rope gets taunt. When timed right this throws a third kid into balloons. Balloons are scrolled on screen, seven screens high. While the girl is in the air the screen goes split screen to cover the distance. You must push up to advance kids with the rope.</desc>
@@ -39543,24 +39524,6 @@ To succeed in Klax, make points and also complete each wave. Create a horizontal
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>77F209DD25DF7892C47D56FA0FB10CC9</cheevosHash>
-	</game>
-	<game>
-		<path>./knights.zip</path>
-		<name>Knights of the Round</name>
-		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
-		<image>./mixart/knights.png</image>
-		<video>./snap/knights.mp4</video>
-		<marquee>./wheel/knights.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2061BAC208C7BDD2665FBF4B7067E468</cheevosHash>
-		<cheevosId>12214</cheevosId>
 	</game>
 	<game>
 		<path>./kod.zip</path>
@@ -72899,5 +72862,42 @@ As players progress through the rounds, the number or pursuing enemy cars increa
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>4736176283CD0C7428727BA545E7BE6B</cheevosHash>
+	</game>
+	<game>
+		<path>./androdun.zip</path>
+		<name>Andro Dunos</name>
+		<desc>The invasion of an unknown life source is getting worse. Nobody knows if the defensive line or the heart of the enemy base is ruined first. With the people's hope, the most advanced fighter will be dispatched into multi-scrolling space.
+
+Fight your way through seven stages in this horizontal-scrolling game, and defeat a boss at the end of each one. You start the game with four main weapons, which you can switch from with the click of a button. Some of these weapons are more powerful than others. You can also fire off a charged shot if your main weapon level is two or greater, simply by holding down the fire button for about two seconds. Using charged shots can do more damage to an enemy ship. If you happen to die, you will lose one power level from all four weapons. If all your lives are lost and are forced to continue, you will start again with your main weapon on the second power level and all three sub-weapons on the first power level.</desc>
+		<image>./mixart/androdun.png</image>
+		<video>./snap/androdun.mp4</video>
+		<marquee>./wheel/androdun.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em up / Horizontal-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>72C1C347E5892EFBF0C9E3FCF8E9E971</cheevosHash>
+	</game>
+	<game>
+		<path>./knights.zip</path>
+		<name>Knights of the Round</name>
+		<desc>Knights of the Round is an arcade game released by Capcom in 1991. A side-scrolling beat 'em up based loosely on the legend of King Arthur and the Knights of the Round Table, the game features an role-playing video game-like level advancement system, with fighters getting new weapons and armour as they advance through the game, however the player can not choose how to upgrade his/her character - the level up system is static.</desc>
+		<image>./mixart/knights.png</image>
+		<video>./snap/knights.mp4</video>
+		<marquee>./wheel/knights.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2061BAC208C7BDD2665FBF4B7067E468</cheevosHash>
+		<cheevosId>12214</cheevosId>
 	</game>
 </gameList>

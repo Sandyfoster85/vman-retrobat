@@ -298,23 +298,6 @@ It has all the standard features of such a title: passing a checkpoint adds more
 		<region>us</region>
 	</game>
 	<game>
-		<path>./vcop2.zip</path>
-		<name>Virtua Cop 2</name>
-		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
-		<image>./mixart/vcop2.png</image>
-		<video>./snap/vcop2.mp4</video>
-		<marquee>./wheel/vcop2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./gunblade.zip</path>
 		<name>Gunblade NY </name>
 		<desc>Gunblade NY is an eye-popping, chase-oriented, futuristic-style military gun shooting game that pits you as a sniper of sorts against a horde of crazy Android Terrorists who are causing nothing but trouble in a futuristic large city in the United States of America. 
@@ -511,5 +494,22 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<players>2</players>
 		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
 		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

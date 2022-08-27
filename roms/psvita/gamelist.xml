@@ -518,22 +518,6 @@ The fun in Hatsune Miku: Project DIVA X is simple! Conduct, Collect, Complete!</
 		<md5>40e261f1dc880316f244ad6203ed10c3</md5>
 		<lang>en</lang>
 	</game>
-	<game id="30621">
-		<path>./Iconoclasts (3.61+!) [3.65].cmd</path>
-		<name>Iconoclasts</name>
-		<desc>Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people.nnnnRobin just wants to be a mechanic and help people, but without a license she's a sinner in Mother's eyes. Ever since picking up her wrench, the world has been going nuts and she's wanted to bolt it back together. Now Penance is raining down on everyone she loves and One Concern agents are after her.nnnnBut something big is going on â€“ bigger than droughts of Ivory fuel and personal conflicts â€“ and Robin's in the thick of it.</desc>
-		<image>./mixart/Iconoclasts (3.61+!) [3.65].jpg</image>
-		<video>./snap/Iconoclasts (3.61+!) [3.65].mp4</video>
-		<marquee>./wheel/Iconoclasts (3.61+!) [3.65].png</marquee>
-		<releasedate>20180123T000000</releasedate>
-		<developer>Konjak</developer>
-		<publisher>Bifrost Entertainment</publisher>
-		<genre>Platform / Shooter Scrolling</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>0e2f5b06bc27909cf71c770af179b794</md5>
-		<lang>en</lang>
-	</game>
 	<game id="30127">
 		<path>./King Oddball.cmd</path>
 		<name>King Oddball</name>
@@ -1093,20 +1077,6 @@ Rewind time and choose when to jump back into the action, teaming-up with your p
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>0f5f98a67381680c21bce4c0f96a566a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./TxK.cmd</path>
-		<name>TxK</name>
-		<image>./mixart/TxK.jpg</image>
-		<video>./snap/TxK.mp4</video>
-		<marquee>./wheel/TxK.png</marquee>
-		<releasedate>20140211T000000</releasedate>
-		<developer>Llamasoft Ltd.</developer>
-		<publisher>Llamasoft Ltd.</publisher>
-		<genre>Action, Shooter</genre>
-		<favorite>true</favorite>
-		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1909,23 +1879,6 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<scrap name="ScreenScraper" date="20220821T121336" />
 		<scrap name="TheGamesDB" date="20220821T121419" />
 	</game>
-	<game id="29615">
-		<path>./Street Fighter X Tekken.cmd</path>
-		<name>Street Fighter X Tekken</name>
-		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeÃ¢â‚¬Â¦ AND on the go! Street Fighter X Tekken on the PlayStationÃ‚Â®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÃ‚Â®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
-		<image>./mixart/Street Fighter X Tekken.jpg</image>
-		<video>./snap/Street Fighter X Tekken.mp4</video>
-		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
-		<rating>0.8</rating>
-		<developer>Capcom</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<family>Tekken</family>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./36 Fragments of Midnight.cmd</path>
 		<name>36 Fragments of Midnight</name>
@@ -2188,6 +2141,53 @@ Help the greedy Pea make his way through 5 unique levels filled with deadly trap
 		<genre>Pinball</genre>
 		<favorite>true</favorite>
 		<md5>32076b6840f9fae225b07315af4975d7</md5>
+		<lang>en</lang>
+	</game>
+	<game id="30621">
+		<path>./Iconoclasts (3.61+!) [3.65].cmd</path>
+		<name>Iconoclasts</name>
+		<desc>Join renegade mechanic Robin and uncover the secrets of a dying planet. Explore a big world filled with intricate puzzles, interesting characters and menacing bosses in a beautiful platform adventure that tells a personal story about faith, purpose and the challenge of helping people.nnnnRobin just wants to be a mechanic and help people, but without a license she's a sinner in Mother's eyes. Ever since picking up her wrench, the world has been going nuts and she's wanted to bolt it back together. Now Penance is raining down on everyone she loves and One Concern agents are after her.nnnnBut something big is going on â€“ bigger than droughts of Ivory fuel and personal conflicts â€“ and Robin's in the thick of it.</desc>
+		<image>./mixart/Iconoclasts (3.61+!) [3.65].jpg</image>
+		<video>./snap/Iconoclasts (3.61+!) [3.65].mp4</video>
+		<marquee>./wheel/Iconoclasts (3.61+!) [3.65].png</marquee>
+		<releasedate>20180123T000000</releasedate>
+		<developer>Konjak</developer>
+		<publisher>Bifrost Entertainment</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>0e2f5b06bc27909cf71c770af179b794</md5>
+		<lang>en</lang>
+	</game>
+	<game id="29615">
+		<path>./Street Fighter X Tekken.cmd</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeÃ¢â‚¬Â¦ AND on the go! Street Fighter X Tekken on the PlayStationÃ‚Â®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÃ‚Â®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
+		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
+		<rating>0.8</rating>
+		<developer>Capcom</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Tekken</family>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TxK.cmd</path>
+		<name>TxK</name>
+		<image>./mixart/TxK.jpg</image>
+		<video>./snap/TxK.mp4</video>
+		<marquee>./wheel/TxK.png</marquee>
+		<releasedate>20140211T000000</releasedate>
+		<developer>Llamasoft Ltd.</developer>
+		<publisher>Llamasoft Ltd.</publisher>
+		<genre>Action, Shooter</genre>
+		<favorite>true</favorite>
+		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

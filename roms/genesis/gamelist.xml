@@ -4508,27 +4508,6 @@ Up to four players can play, cooperatively or against each other.</desc>
 		<players>4</players>
 		<cheevosHash>955622A63DC3B06C13823FB352F50912</cheevosHash>
 	</game>
-	<game id="489" source="ScreenScraper.fr">
-		<path>./Generations Lost (USA, Europe).7z</path>
-		<name>Generations Lost</name>
-		<desc>In "Generations Lost" you take the role of Monobe, an adventurer on the search for the past of his people.
-
-The figure of Monobe is drawn with many details. Because of his magic armour he is able to do a huge number of movement possibilities. Beside running and jumping, Monobe can roll on the ground, deliver blows with hands and feet and he can shot energy balls. With the help of an energy rope Monobe can swing from platform to platform.
-
-Most of the time, Monobe has to solve several puzzles, find secret switches and survive deadly traps.
-
-The game is split into six areas which you can reach with the "Magic Box" teleporter.</desc>
-		<image>./mixart/Generations Lost (USA, Europe).png</image>
-		<video>./snap/Generations Lost (USA, Europe).mp4</video>
-		<marquee>./wheel/Generations Lost (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Time Warner Interactive</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<cheevosHash>E91D85E82C9AB9770D86E00DBC78F7C5</cheevosHash>
-	</game>
 	<game id="640" source="ScreenScraper.fr">
 		<path>./Genghis Khan II - Clan of the Gray Wolf (USA).7z</path>
 		<name>Genghis Khan II : Clan of the Gray Wolf</name>
@@ -13930,7 +13909,7 @@ This game is ported from an older arcade version.</desc>
 		<video>./snap/Toki - Going Ape Spit (World) (Rev A).mp4</video>
 		<marquee>./wheel/Toki - Going Ape Spit (World) (Rev A).png</marquee>
 		<rating>0.55</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Tad Corporation</developer>
 		<publisher>Taito</publisher>
 		<genre>Platform-Action</genre>
@@ -14457,5 +14436,27 @@ All of the game progresses on an overhead-view, by sea you navigate your fleet b
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EA5D0387E848F2E0203B8D7DA8C57038</cheevosHash>
+	</game>
+	<game id="489" source="ScreenScraper.fr">
+		<path>./Generations Lost (USA, Europe).7z</path>
+		<name>Generations Lost</name>
+		<desc>In "Generations Lost" you take the role of Monobe, an adventurer on the search for the past of his people.
+
+The figure of Monobe is drawn with many details. Because of his magic armour he is able to do a huge number of movement possibilities. Beside running and jumping, Monobe can roll on the ground, deliver blows with hands and feet and he can shot energy balls. With the help of an energy rope Monobe can swing from platform to platform.
+
+Most of the time, Monobe has to solve several puzzles, find secret switches and survive deadly traps.
+
+The game is split into six areas which you can reach with the "Magic Box" teleporter.</desc>
+		<image>./mixart/Generations Lost (USA, Europe).png</image>
+		<video>./snap/Generations Lost (USA, Europe).mp4</video>
+		<marquee>./wheel/Generations Lost (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Time Warner Interactive</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<cheevosHash>E91D85E82C9AB9770D86E00DBC78F7C5</cheevosHash>
 	</game>
 </gameList>

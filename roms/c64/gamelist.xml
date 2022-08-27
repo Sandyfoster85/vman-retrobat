@@ -2037,19 +2037,6 @@
 		<marquee>./wheel/Exile.png</marquee>
 		<video>./snap/Exile.mp4</video>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Exploding Fist 2.d64</path>
-		<name>Exploding Fist 2</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-		<players />
-		<image>./mixart/Exploding Fist 2.png</image>
-		<video>./snap/Exploding Fist 2.mp4</video>
-	</game>
 	<game id="36614" source="ScreenScraper.fr">
 		<path>./Express Raider.d64</path>
 		<name>Express Raider</name>
@@ -8160,5 +8147,13 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<genre>Platform-Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Exploding Fist 2.d64</path>
+		<name>Exploding Fist 2</name>
+		<image>./mixart/Exploding Fist 2.png</image>
+		<video>./snap/Exploding Fist 2.mp4</video>
+		<rating>0</rating>
+		<releasedate></releasedate>
 	</game>
 </gameList>
