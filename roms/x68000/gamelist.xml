@@ -28,20 +28,6 @@
 		<marquee>./wheel/Cuarto.png</marquee>
 		<video>./snap/Cuarto.mp4</video>
 	</game>
-	<game id="47248" source="ScreenScraper.fr">
-		<path>./Cyber Core (1991)(SPS).m3u</path>
-		<name>Cyber Core</name>
-		<desc>Cyber-core is a vertically scrolling shooter in which the player fights insects. The basic idea is traditional: shooting everything before they can shoot/touch the player: after three hits the chitin armor breaks and a life is lost. Besides flying enemies which are disposed of with the standard gun, the player also has to deal with enemies on the ground which need to be hit with one of the unlimited bomb. 
-
-The player has the choice between four insect forms which are changed by collecting the associated extra symbols. Collecting more of the same symbol upgrades the insect, but this also rises the difficulty level. Other extras include smart bombs, extra lives, armor refreshments or a protection shield. The game features the possibility to turn on rapid fire or to slow down the speed as well as big boss enemies at the end and within the levels.</desc>
-		<rating>0</rating>
-		<releasedate>19910101T000000</releasedate>
-		<publisher>SPS</publisher>
-		<hash>4D65465D</hash>
-		<image>./mixart/Cyber Core (1991)(SPS).png</image>
-		<marquee>./wheel/Cyber Core (1991)(SPS).png</marquee>
-		<video>./snap/Cyber Core (1991)(SPS).mp4</video>
-	</game>
 	<game id="47251" source="ScreenScraper.fr">
 		<path>./Cybermission (1989)(Login).m3u</path>
 		<name>Cybermission</name>
@@ -297,17 +283,6 @@ A summary screen appears when the game is over, giving you both your final score
 		<marquee>./wheel/Galaxian 2 (1996)(68 Bank).png</marquee>
 		<video>./snap/Galaxian 2 (1996)(68 Bank).mp4</video>
 	</game>
-	<game id="47379" source="ScreenScraper.fr">
-		<path>./Galaxian X68K (19xx)(Gyo).m3u</path>
-		<name>Galaxian X68K</name>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>Gyo</publisher>
-		<hash>14FC6821</hash>
-		<image>./mixart/Galaxian X68K (19xx)(Gyo).png</image>
-		<marquee>./wheel/Galaxian X68K (19xx)(Gyo).png</marquee>
-		<video>./snap/Galaxian X68K (19xx)(Gyo).mp4</video>
-	</game>
 	<game id="47377" source="ScreenScraper.fr">
 		<path>./Galaxian (1996)(XYZ).m3u</path>
 		<name>Galaxian</name>
@@ -358,20 +333,6 @@ Gemini Wing is a vertically-scrolling shoot 'em up, which is distinguished by it
 		<image>./mixart/Genpei Toumaden (1988)(Dempa).png</image>
 		<marquee>./wheel/Genpei Toumaden (1988)(Dempa).png</marquee>
 		<video>./snap/Genpei Toumaden (1988)(Dempa).mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Geograph Seal.m3u</path>
-		<name>Geograph Seal</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<image>./mixart/Geograph Seal.png</image>
-		<marquee>./wheel/Geograph Seal.png</marquee>
-		<video>./snap/Geograph Seal.mp4</video>
-		<genre />
-		<players />
 	</game>
 	<game id="47409" source="ScreenScraper.fr">
 		<path>./Gradius II Gofer No Yabou.m3u</path>
@@ -1332,6 +1293,46 @@ Xevious is a vertically-scrolling shooter which is notable for being the first g
 		<releasedate>19870101T000000</releasedate>
 		<publisher>Dempa</publisher>
 		<crc32>BFA9531C</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47248" source="ScreenScraper.fr">
+		<path>./Cyber Core (1991)(SPS).m3u</path>
+		<name>Cyber Core</name>
+		<desc>Cyber-core is a vertically scrolling shooter in which the player fights insects. The basic idea is traditional: shooting everything before they can shoot/touch the player: after three hits the chitin armor breaks and a life is lost. Besides flying enemies which are disposed of with the standard gun, the player also has to deal with enemies on the ground which need to be hit with one of the unlimited bomb. 
+
+The player has the choice between four insect forms which are changed by collecting the associated extra symbols. Collecting more of the same symbol upgrades the insect, but this also rises the difficulty level. Other extras include smart bombs, extra lives, armor refreshments or a protection shield. The game features the possibility to turn on rapid fire or to slow down the speed as well as big boss enemies at the end and within the levels.</desc>
+		<image>./mixart/Cyber Core (1991)(SPS).png</image>
+		<video>./snap/Cyber Core (1991)(SPS).mp4</video>
+		<marquee>./wheel/Cyber Core (1991)(SPS).png</marquee>
+		<rating>0</rating>
+		<releasedate>19910101T000000</releasedate>
+		<publisher>SPS</publisher>
+		<crc32>4D65465D</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47379" source="ScreenScraper.fr">
+		<path>./Galaxian X68K (19xx)(Gyo).m3u</path>
+		<name>Galaxian X68K</name>
+		<image>./mixart/Galaxian X68K (19xx)(Gyo).png</image>
+		<video>./snap/Galaxian X68K (19xx)(Gyo).mp4</video>
+		<marquee>./wheel/Galaxian X68K (19xx)(Gyo).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>Gyo</publisher>
+		<crc32>14FC6821</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Geograph Seal.m3u</path>
+		<name>Geograph Seal</name>
+		<image>./mixart/Geograph Seal.png</image>
+		<video>./snap/Geograph Seal.mp4</video>
+		<marquee>./wheel/Geograph Seal.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>

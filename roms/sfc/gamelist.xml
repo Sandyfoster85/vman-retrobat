@@ -5720,24 +5720,6 @@ You play as the young magician Arle as she sets out looking for adventure all ov
 		<crc32>B7E90F51</crc32>
 		<cheevosHash>A991D10FC03B355A4A16A13B1F0828F3</cheevosHash>
 	</game>
-	<game id="19218" source="ScreenScraper.fr">
-		<path>./Super Pinball II - The Amazing Odyssey (Japan).zip</path>
-		<name>Super Pinball II : The Amazing Odyssey</name>
-		<desc>The sequel to the original Super Pinball, Super Pinball II is another pinball simulator featuring three different tables. This time the selection consists of the sci-fi themed "Space Sister" table, the spy-themed "The Spy Eyes", and the circus themed "Showtime".
-
-As in the original, the game features a Competition (free tournament) or Conquest (clear each table in succession) modes, but the hotseat multiplayer component has been reduced to two-players. Graphics are 2D representations of the tables viewed from a tilted 3D view, which manages to fit the entire tables on the screen without scrolling.</desc>
-		<image>./mixart/Super Pinball II - The Amazing Odyssey (Japan).png</image>
-		<video>./snap/Super Pinball II - The Amazing Odyssey (Japan).mp4</video>
-		<marquee>./wheel/Super Pinball II - The Amazing Odyssey (Japan).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950317T000000</releasedate>
-		<developer>KAZe Co., Ltd.</developer>
-		<publisher>Meldac of Japan</publisher>
-		<players>4</players>
-		<crc32>41ECBB9E</crc32>
-		<cheevosHash>6B840C23B83C4675F25618ACBAF2CB43</cheevosHash>
-		<cheevosId>3825</cheevosId>
-	</game>
 	<game id="65140" source="ScreenScraper.fr">
 		<path>./Super Power League (Japan).zip</path>
 		<name>Super Power League</name>
@@ -8669,27 +8651,6 @@ An added wrinkle is that each stage has a fixed move limit, and so the player mu
 		<region>jp</region>
 		<cheevosHash>51C520D15881538D67398BA63F56E0BA</cheevosHash>
 	</game>
-	<game>
-		<path>./Acrobat Mission (Japan).zip</path>
-		<name>Acrobat Mission</name>
-		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
-
-Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
-
-Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
-		<image>./mixart/Acrobat Mission (Japan).png</image>
-		<video>./snap/Acrobat Mission (Japan).mp4</video>
-		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920911T000000</releasedate>
-		<developer>UPL Co., Ltd</developer>
-		<publisher>Teichiku Co., LTD.</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
-	</game>
 	<game id="38855" source="ScreenScraper.fr">
 		<path>./Hiryuu no Ken S - Hyper Version (Japan).zip</path>
 		<name>Hiryuu no Ken S : Hyper Version</name>
@@ -8831,5 +8792,44 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<region>us</region>
 		<cheevosHash>21F3E98DF4780EE1C667B84E57D88675</cheevosHash>
 		<cheevosId>236</cheevosId>
+	</game>
+	<game>
+		<path>./Acrobat Mission (Japan).zip</path>
+		<name>Acrobat Mission</name>
+		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
+
+Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
+
+Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
+		<image>./mixart/Acrobat Mission (Japan).png</image>
+		<video>./snap/Acrobat Mission (Japan).mp4</video>
+		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920911T000000</releasedate>
+		<developer>UPL Co., Ltd</developer>
+		<publisher>Teichiku Co., LTD.</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
+	</game>
+	<game id="19218" source="ScreenScraper.fr">
+		<path>./Super Pinball II - The Amazing Odyssey (Japan).zip</path>
+		<name>Super Pinball II : The Amazing Odyssey</name>
+		<desc>The sequel to the original Super Pinball, Super Pinball II is another pinball simulator featuring three different tables. This time the selection consists of the sci-fi themed "Space Sister" table, the spy-themed "The Spy Eyes", and the circus themed "Showtime".
+
+As in the original, the game features a Competition (free tournament) or Conquest (clear each table in succession) modes, but the hotseat multiplayer component has been reduced to two-players. Graphics are 2D representations of the tables viewed from a tilted 3D view, which manages to fit the entire tables on the screen without scrolling.</desc>
+		<image>./mixart/Super Pinball II - The Amazing Odyssey (Japan).png</image>
+		<video>./snap/Super Pinball II - The Amazing Odyssey (Japan).mp4</video>
+		<marquee>./wheel/Super Pinball II - The Amazing Odyssey (Japan).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950317T000000</releasedate>
+		<developer>KAZe Co., Ltd.</developer>
+		<publisher>Meldac of Japan</publisher>
+		<players>4</players>
+		<crc32>41ECBB9E</crc32>
+		<cheevosHash>6B840C23B83C4675F25618ACBAF2CB43</cheevosHash>
+		<cheevosId>3825</cheevosId>
 	</game>
 </gameList>

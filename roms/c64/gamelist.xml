@@ -8121,20 +8121,6 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<players>2</players>
 		<lang>en</lang>
 	</game>
-	<game id="36103" source="ScreenScraper.fr">
-		<path>./Advanced Pinball Simulator.d64</path>
-		<name>Advanced Pinball Simulator</name>
-		<desc>Part of Codemasters' original budget-price range,  this pinball game aimed to put fast &amp; furious action first.  The table design features extra flippers on both sides, which are at the bases of sections of features. The best scores can be achieved by repeatedly bashing away at sections of blocks.  The essential theme of the table is of magic and wizardry, with the targets to be lit including the word 'MAGIC' as well as a weather potion and a magic cottage. Trapdoors must be shot open to get their bonuses, then shot shut again to prevent the ball being lost in them. Extra balls are offered every 10,000 points.</desc>
-		<image>./mixart/Advanced Pinball Simulator.png</image>
-		<video>./snap/Advanced Pinball Simulator.mp4</video>
-		<marquee>./wheel/Advanced Pinball Simulator.png</marquee>
-		<rating>0.35</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Codemasters</developer>
-		<publisher>Codemasters</publisher>
-		<genre>Pinball-Simulation</genre>
-		<players>3</players>
-	</game>
 	<game>
 		<path>./Impossible Mission.d64</path>
 		<name>Impossible Mission</name>
@@ -8154,6 +8140,21 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<image>./mixart/Exploding Fist 2.png</image>
 		<video>./snap/Exploding Fist 2.mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
+	</game>
+	<game id="36103" source="ScreenScraper.fr">
+		<path>./Advanced Pinball Simulator.d64</path>
+		<name>Advanced Pinball Simulator</name>
+		<desc>Part of Codemasters' original budget-price range,  this pinball game aimed to put fast &amp; furious action first.  The table design features extra flippers on both sides, which are at the bases of sections of features. The best scores can be achieved by repeatedly bashing away at sections of blocks.  The essential theme of the table is of magic and wizardry, with the targets to be lit including the word 'MAGIC' as well as a weather potion and a magic cottage. Trapdoors must be shot open to get their bonuses, then shot shut again to prevent the ball being lost in them. Extra balls are offered every 10,000 points.</desc>
+		<image>./mixart/Advanced Pinball Simulator.png</image>
+		<video>./snap/Advanced Pinball Simulator.mp4</video>
+		<marquee>./wheel/Advanced Pinball Simulator.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Codemasters</developer>
+		<publisher>Codemasters</publisher>
+		<genre>Pinball-Simulation</genre>
+		<players>3</players>
+		<lang>en</lang>
 	</game>
 </gameList>

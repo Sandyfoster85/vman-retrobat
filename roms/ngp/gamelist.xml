@@ -6,50 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="47061" source="ScreenScraper.fr">
-		<path>./Renketsu Puzzle Tsunagete Pon!.zip</path>
-		<name>Renketsu Puzzle Tsunagete Pon!</name>
-		<desc>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</desc>
-		<image>./mixart/Renketsu Puzzle Tsunagete Pon!.png</image>
-		<video>./snap/Renketsu Puzzle Tsunagete Pon!.mp4</video>
-		<marquee>./wheel/Renketsu Puzzle Tsunagete Pon!.png</marquee>
-		<rating>0</rating>
-		<releasedate>19981028T000000</releasedate>
-		<developer>Yumekobo Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<cheevosHash>9330C9A7BBD6A7DC5B5963A5B7623443</cheevosHash>
-	</game>
-	<game>
-		<path>./Samurai Shodown! I.zip</path>
-		<name>Samurai Spirits!</name>
-		<desc>Samurai Shodown! Pocket is essentially a "pocket sized" version of Samurai Shodown 4. Much like the rest of the fighting games on the Neo Geo Pocket, the characters are drawn in super-deformed chibi style (big heads and tiny bodies). This title was also one of the first games for the Neo Geo Pocket, so the game was only in black &amp; white... ironically suiting for a "samurai" game. The art style is definitely on the "cutesy" side and much different than any Samurai Shodown game before it, but it can grow on you if you give it a chance.    The classic Samurai Shodown gameplay made the jump to the handheld layout fairly well, but it's not nearly as smooth as Neo Geo arcade classic. The gameplay is particularly slower and very simplified in this version. Characters retain most of their specials and super moves but the deeper gameplay strategies from the arcade iterations are pretty much gone. It's basically a new game all together and it's nothing spectacular, but it's fun for a handheld title.</desc>
-		<image>./mixart/Samurai Shodown! I.png</image>
-		<video>./snap/Samurai Shodown! I.mp4</video>
-		<marquee>./wheel/Samurai Shodown! I.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19981225T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight</genre>
-		<cheevosHash>D13F954B2F1C703BDF857837C24E332E</cheevosHash>
-	</game>
-	<game>
-		<path>./Shougi no Tatsujin.zip</path>
-		<name>Shougi no Tatsujin: Master of Syougi</name>
-		<desc>Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.</desc>
-		<image>./mixart/Shougi no Tatsujin.png</image>
-		<video>./snap/Shougi no Tatsujin.mp4</video>
-		<marquee>./wheel/Shougi no Tatsujin.png</marquee>
-		<rating>0</rating>
-		<releasedate>19981120T000000</releasedate>
-		<developer>ADK Corporation</developer>
-		<publisher>SNK</publisher>
-		<genre>Asiatic board game-Shougi-Strategy</genre>
-		<players>2</players>
-		<cheevosHash>9250B3328D64D3A1E7F9D50A04CEB64F</cheevosHash>
-	</game>
 	<game id="47057" source="ScreenScraper.fr">
 		<path>./King of Fighters R-1.zip</path>
 		<name>King of Fighters - R-1</name>
@@ -145,5 +101,52 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>9150A58F7094A48B980C1AC71B9CFAB9</cheevosHash>
+	</game>
+	<game id="47061" source="ScreenScraper.fr">
+		<path>./Renketsu Puzzle Tsunagete Pon!.zip</path>
+		<name>Renketsu Puzzle Tsunagete Pon!</name>
+		<desc>Renketsu Puzzle Tsunagete Pon! is a game where blocks  have to be dissolved. New blocks constantly scroll into the screen from the top. The game is over when the first blocks reach the bottom of the screen.</desc>
+		<image>./mixart/Renketsu Puzzle Tsunagete Pon!.png</image>
+		<video>./snap/Renketsu Puzzle Tsunagete Pon!.mp4</video>
+		<marquee>./wheel/Renketsu Puzzle Tsunagete Pon!.png</marquee>
+		<rating>0</rating>
+		<releasedate>19981028T000000</releasedate>
+		<developer>Yumekobo Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>9330C9A7BBD6A7DC5B5963A5B7623443</cheevosHash>
+	</game>
+	<game>
+		<path>./Samurai Shodown! I.zip</path>
+		<name>Samurai Spirits!</name>
+		<desc>Samurai Shodown! Pocket is essentially a "pocket sized" version of Samurai Shodown 4. Much like the rest of the fighting games on the Neo Geo Pocket, the characters are drawn in super-deformed chibi style (big heads and tiny bodies). This title was also one of the first games for the Neo Geo Pocket, so the game was only in black &amp; white... ironically suiting for a "samurai" game. The art style is definitely on the "cutesy" side and much different than any Samurai Shodown game before it, but it can grow on you if you give it a chance.    The classic Samurai Shodown gameplay made the jump to the handheld layout fairly well, but it's not nearly as smooth as Neo Geo arcade classic. The gameplay is particularly slower and very simplified in this version. Characters retain most of their specials and super moves but the deeper gameplay strategies from the arcade iterations are pretty much gone. It's basically a new game all together and it's nothing spectacular, but it's fun for a handheld title.</desc>
+		<image>./mixart/Samurai Shodown! I.png</image>
+		<video>./snap/Samurai Shodown! I.mp4</video>
+		<marquee>./wheel/Samurai Shodown! I.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19981225T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight</genre>
+		<lang>en</lang>
+		<cheevosHash>D13F954B2F1C703BDF857837C24E332E</cheevosHash>
+	</game>
+	<game>
+		<path>./Shougi no Tatsujin.zip</path>
+		<name>Shougi no Tatsujin: Master of Syougi</name>
+		<desc>Shogi is the Japanese equivalent of chess. Indeed, as in chess, the goal of the game is to subdue the opposing king! Nevertheless, there are several differences between the Shogi and our chess game, be it in the nature of the pieces, their positions or their movements.</desc>
+		<image>./mixart/Shougi no Tatsujin.png</image>
+		<video>./snap/Shougi no Tatsujin.mp4</video>
+		<marquee>./wheel/Shougi no Tatsujin.png</marquee>
+		<rating>0</rating>
+		<releasedate>19981120T000000</releasedate>
+		<developer>ADK Corporation</developer>
+		<publisher>SNK</publisher>
+		<genre>Asiatic board game-Shougi-Strategy</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>9250B3328D64D3A1E7F9D50A04CEB64F</cheevosHash>
 	</game>
 </gameList>

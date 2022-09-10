@@ -561,6 +561,38 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Mushroom Kingdom Fusion.lnk</path>
+		<name>'H'Mushroom Kingdom Fusion</name>
+		<desc>Mushroom Kingdom Fusion (also known as MKFusion and MKF) is a fan base made game with modified Mario gameplay, crossed over with many different video game universes and elements. A roster of playable characters, both from within the Mario universe and outside of the Mario universe. Each character will have their own unique powerup system and gameplay mechanics, adapted to fit within the Mario-based gameplay.</desc>
+		<image>./mixart/Mushroom Kingdom Fusion.png</image>
+		<video>./snap/Mushroom Kingdom Fusion.mp4</video>
+		<marquee>./wheel/Mushroom Kingdom Fusion.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210626T000000</releasedate>
+		<developer>Fan-Made</developer>
+		<publisher>Fan-Made</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Last StarFighter.lnk</path>
+		<name>'H'The Last StarFighter</name>
+		<desc>This is a fan-made game based on the arcade game that was seen in the movie. It's partially 1984 since the voice and sound sample was taken from the game that was used in the movie. it's partially 2006 since the game was recreated with the it's graphics looking so similar to the one seen in the movie. The only difference in the games are the fonts of the text in this recreated game and the graphics either look like flat-shaded or textured polygons. For the 3rd time, I finally beaten Ko-Dan Command Ship. I had to mess with the dip switch settings. It's very similar to what you see in the movie. After watching the movie, it made me feel want to play this game again. This game was ported to the home systems such as Atari 8-bit, Commodore 64, and the NES. But they look nothing like the arcade version. This freeware game is the closest to the arcade version you see in the movie.</desc>
+		<image>./mixart/The Last StarFighter.jpg</image>
+		<video>./snap/The Last StarFighter.mp4</video>
+		<marquee>./wheel/The Last StarFighter.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19840626T000000</releasedate>
+		<developer>Fan-Made</developer>
+		<publisher>Fan-Made</publisher>
+		<genre>Arcade</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Marble Madness II.lnk</path>
 		<name>Marble Man: Marble Madness II</name>
 		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
@@ -577,19 +609,22 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The Last StarFighter.lnk</path>
-		<name>The Last StarFighter (Fan-Made)</name>
-		<desc>This is a fan-made game based on the arcade game that was seen in the movie. It's partially 1984 since the voice and sound sample was taken from the game that was used in the movie. it's partially 2006 since the game was recreated with the it's graphics looking so similar to the one seen in the movie. The only difference in the games are the fonts of the text in this recreated game and the graphics either look like flat-shaded or textured polygons. For the 3rd time, I finally beaten Ko-Dan Command Ship. I had to mess with the dip switch settings. It's very similar to what you see in the movie. After watching the movie, it made me feel want to play this game again. This game was ported to the home systems such as Atari 8-bit, Commodore 64, and the NES. But they look nothing like the arcade version. This freeware game is the closest to the arcade version you see in the movie.</desc>
-		<image>./mixart/The Last StarFighter.jpg</image>
-		<video>./snap/The Last StarFighter.mp4</video>
-		<marquee>./wheel/The Last StarFighter.png</marquee>
+		<path>./Contra Evolution.lnk</path>
+		<name>Contra: Evolution</name>
+		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
+
+'Contra' is a hectic one or two player platform shoot-em-up featuring 10 stages. In addition to the standard side-view levels, there are also "3D maze" stages in which the player must proceed through a series of corridors inside an enemy base, destroying various sensors, in order to reach the core of the base.
+
+Each player's character is equipped with a semi-automatic machine gun with an unlimited amount of ammunition and can jump, move and fire in all eight cardinal directions. Players can also move and jump simultaneously while firing. Co-ordination of the character's movement is essential as a single hit from any enemy, bullet, or other hazard will instantly kill the player's character and also eliminate the current weapon from the player's inventory.</desc>
+		<image>./mixart/Contra.png</image>
+		<video>./snap/Contra.mp4</video>
+		<marquee>./wheel/Contra.png</marquee>
 		<rating>0.85</rating>
-		<releasedate>19840626T000000</releasedate>
-		<developer>Fan-Made</developer>
-		<publisher>Fan-Made</publisher>
-		<genre>Arcade</genre>
-		<players>1</players>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Konami Arcade</developer>
+		<publisher>Konami Arcade</publisher>
+		<genre>Action, Shoot 'Em Up</genre>
+		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 </gameList>

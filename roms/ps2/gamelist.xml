@@ -3693,24 +3693,6 @@ Keeping in tradition, Monster Rancher EVO features the series' unique media disc
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="22926" source="ScreenScraper.fr">
-		<path>./NeoGeo Battle Coliseum (USA).gz</path>
-		<name>NeoGeo Battle Coliseum</name>
-		<desc>NeoGeo Battle Coliseum assembles 40 characters from past NeoGeo fighters and action games into one big tag-team brawl, along with some new ones. 
- 
-The characters represent the games King of Fighters, Fatal Fury, Mark of the Wolves, Samurai Shodown, Art of Fighting, Last Blade, King of the Monsters, World Heroes, Athena, Aggressors of Dark Kombat, Kizuna Encounter: Super Tag Battle and Metal Slug. The two new characters are Ai and Yuki, along with a secret character not found in the arcade version. The background graphics have been improved, there is newly arranged music, a colour edit mode, command editor function and a new Tag Play mode.</desc>
-		<image>./mixart/NeoGeo Battle Coliseum (USA).png</image>
-		<video>./snap/NeoGeo Battle Coliseum (USA).mp4</video>
-		<marquee>./wheel/NeoGeo Battle Coliseum (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20061124T000000</releasedate>
-		<publisher>SNK</publisher>
-		<genre>Action-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
-	</game>
 	<game id="22114" source="ScreenScraper.fr">
 		<path>./ObsCure (USA) (En,Fr,Es).gz</path>
 		<name>ObsCure</name>
@@ -7625,23 +7607,6 @@ In Octavianus' levels, the player sneaks around various locations in Rome. Octav
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Contra - Shattered Soldier (USA).gz</path>
-		<name>Contra : Shattered Soldier</name>
-		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
-		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030214T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="24392" source="ScreenScraper.fr">
 		<path>./Galactic Wrestling featuring Ultimate Muscle - The Kinnikuman Legacy (USA).gz</path>
 		<name>Galactic Wrestling featuring Ultimate Muscle : The Kinnikuman Legacy</name>
@@ -7688,6 +7653,41 @@ In Octavianus' levels, the player sneaks around various locations in Rome. Octav
 		<developer>3D Ages SEGA-AM2</developer>
 		<publisher>Sega</publisher>
 		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="22926" source="ScreenScraper.fr">
+		<path>./NeoGeo Battle Coliseum (USA).gz</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Battle Coliseum assembles 40 characters from past NeoGeo fighters and action games into one big tag-team brawl, along with some new ones. 
+ 
+The characters represent the games King of Fighters, Fatal Fury, Mark of the Wolves, Samurai Shodown, Art of Fighting, Last Blade, King of the Monsters, World Heroes, Athena, Aggressors of Dark Kombat, Kizuna Encounter: Super Tag Battle and Metal Slug. The two new characters are Ai and Yuki, along with a secret character not found in the arcade version. The background graphics have been improved, there is newly arranged music, a colour edit mode, command editor function and a new Tag Play mode.</desc>
+		<image>./mixart/NeoGeo Battle Coliseum (USA).png</image>
+		<video>./snap/NeoGeo Battle Coliseum (USA).mp4</video>
+		<marquee>./wheel/NeoGeo Battle Coliseum (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20061124T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

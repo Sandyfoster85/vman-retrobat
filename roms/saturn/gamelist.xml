@@ -3818,23 +3818,6 @@
 		<cheevosHash>C4DB9D08D56D1FBF78322852775D4818</cheevosHash>
 	</game>
 	<game>
-		<path>./Saturn Bomber Man (Europe).chd</path>
-		<name>Saturn Bomberman</name>
-		<desc>An all out party game, this Saturn exclusive title has you controlling the little blue bomber along with up to 10 other bomber pals planting bombs to trap enemy characters.   Although there is no story mode, you can take on a host of other characters in one on one battles to see who is the master of the bomb. 10 players can then play on the one screen at a time, either against each other or in teams.  Saturn Bomberman can also connect to the Sega Saturn NetLink internet system, allowing two people from opposite ends of the earth to battle it out.</desc>
-		<image>./mixart/Saturn Bomber Man (Europe).png</image>
-		<video>./snap/Saturn Bomber Man (Europe).mp4</video>
-		<marquee>./wheel/Saturn Bomber Man (Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960719T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Action</genre>
-		<players>8+</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>B4463E9BC22AAB39EC1714AB346F8D82</cheevosHash>
-	</game>
-	<game>
 		<path>./Scorcher (USA).chd</path>
 		<name>Scorcher</name>
 		<desc>Scorcher is a futuristic racing game by Scavenger. In dark post-war-looking decors, you race against a couple of opponents driving in a spherical racer. You can pick up special triangles to gain speed powerups.  The graphics support resolutions up to 640x480.</desc>
@@ -5405,5 +5388,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D92CBF8B81209CB53E4C1E0AC7008545</cheevosHash>
+	</game>
+	<game>
+		<path>./Saturn Bomber Man (Europe).chd</path>
+		<name>Saturn Bomberman</name>
+		<desc>An all out party game, this Saturn exclusive title has you controlling the little blue bomber along with up to 10 other bomber pals planting bombs to trap enemy characters.   Although there is no story mode, you can take on a host of other characters in one on one battles to see who is the master of the bomb. 10 players can then play on the one screen at a time, either against each other or in teams.  Saturn Bomberman can also connect to the Sega Saturn NetLink internet system, allowing two people from opposite ends of the earth to battle it out.</desc>
+		<image>./mixart/Saturn Bomber Man (Europe).png</image>
+		<video>./snap/Saturn Bomber Man (Europe).mp4</video>
+		<marquee>./wheel/Saturn Bomber Man (Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960719T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Action</genre>
+		<players>8+</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>B4463E9BC22AAB39EC1714AB346F8D82</cheevosHash>
 	</game>
 </gameList>

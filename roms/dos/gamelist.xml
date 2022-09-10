@@ -6579,21 +6579,6 @@ In an epic adventure that will propel him across the galaxy, Twinsen must defeat
 		<publisher>MicroLeague Multimedia</publisher>
 	</game>
 	<game>
-		<path>./Pinball Wizard.pc</path>
-		<name>Pinball Wizard 2000</name>
-		<desc>Pinball Wizard 2000 from Ikarion Software GmbH is the successor of Kingsoft's Pinball Wizard for the Amiga. This pinball game features five tables (Themes: Industrial Revolution, Hattrick, Rock'n'Roll Heaven, Prohibition, Earth Inferno) and one bonus table (Mystic).PW2000 is more of an action-oriented game instead of a real simulation since the physics are somewhat strange at times. But the real strength of the program is the implemented Pinball Construction Set. All tables were built with this construction set and with the detailed instruction manual and samples everyone with some programming knowledge can do some amazing tables on his own.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_svn</core>
-		<image>./mixart/Pinball Wizard.png</image>
-		<video>./snap/Pinball Wizard 2000.mp4</video>
-		<marquee>./wheel/Pinball Wizard.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Ikarion Software GmbH</developer>
-		<publisher>Ikarion Software GmbH</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Death_Rally.pc</path>
 		<name>Death Rally</name>
 		<desc>Death Rally is a top-down racing game where the player can rely on more than speed to be the number one, and brains must be riding along brawn to get the most from each race. 
@@ -7098,6 +7083,21 @@ After a mission is completed, the player can select the next mission on a map of
 		<publisher>Virgin</publisher>
 		<genre>Strategy</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pinball Wizard.pc</path>
+		<name>Pinball Wizard 2000</name>
+		<desc>Pinball Wizard 2000 from Ikarion Software GmbH is the successor of Kingsoft's Pinball Wizard for the Amiga. This pinball game features five tables (Themes: Industrial Revolution, Hattrick, Rock'n'Roll Heaven, Prohibition, Earth Inferno) and one bonus table (Mystic).PW2000 is more of an action-oriented game instead of a real simulation since the physics are somewhat strange at times. But the real strength of the program is the implemented Pinball Construction Set. All tables were built with this construction set and with the detailed instruction manual and samples everyone with some programming knowledge can do some amazing tables on his own.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_svn</core>
+		<image>./mixart/Pinball Wizard.png</image>
+		<video>./snap/Pinball Wizard 2000.mp4</video>
+		<marquee>./wheel/Pinball Wizard.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Ikarion Software GmbH</developer>
+		<publisher>Ikarion Software GmbH</publisher>
 		<lang>en</lang>
 	</game>
 </gameList>

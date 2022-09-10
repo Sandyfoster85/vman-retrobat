@@ -49,53 +49,6 @@ Your mission is to navigate through the narrow and fast-moving passages of the f
 		<cheevosHash>F79C596A0205C5E7C427CDBBB1E16918</cheevosHash>
 	</game>
 	<game>
-		<path>./Berzerk (World).zip</path>
-		<name>Berzerk</name>
-		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
-future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</desc>
-		<image>./mixart/Berzerk (World).png</image>
-		<video>./snap/Berzerk (World).mp4</video>
-		<marquee>./wheel/Berzerk (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Stern Electronics, Inc.</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<cheevosHash>640AE7BD4538BAD11256999DB68DE5A0</cheevosHash>
-	</game>
-	<game>
-		<path>./Blitz! - Action Football (USA, Europe).zip</path>
-		<name>Blitz! Action Football</name>
-		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
-		<image>./mixart/Blitz! - Action Football (USA, Europe).png</image>
-		<video>./snap/Blitz! - Action Football (USA, Europe).mp4</video>
-		<marquee>./wheel/Blitz! - Action Football (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>5D74770BB175357812E61EE7CA731270</cheevosHash>
-	</game>
-	<game>
-		<path>./Cosmic Chasm (World).zip</path>
-		<name>Cosmic Chasm</name>
-		<desc>Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</desc>
-		<image>./mixart/Cosmic Chasm (World).png</image>
-		<video>./snap/Cosmic Chasm (World).mp4</video>
-		<marquee>./wheel/Cosmic Chasm (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>Milton Bradley</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<cheevosHash>9B61653ED9DAFD4CFB7F9D94404259AC</cheevosHash>
-		<cheevosId>6578</cheevosId>
-	</game>
-	<game>
 		<path>./Fortress of Narzod (USA, Europe).zip</path>
 		<name>Fortress of Narzod</name>
 		<desc>A long time ago, before our history began, wizards - both good and evil - battled for supremacy of the earth. It was a time of magic and adventure when all men possessed special powers.
@@ -350,26 +303,6 @@ As you approach, you are overwhelmed with the beauty of the Castle but you sudde
 		<cheevosHash>9657037A461EEE919462EB6A01879685</cheevosHash>
 	</game>
 	<game>
-		<path>./Bedlam (USA, Europe).zip</path>
-		<name>Bedlam</name>
-		<desc>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
-You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
-
-The future of the galaxy rests on your shoulders. Good luck!</desc>
-		<image>./mixart/Bedlam (USA, Europe).png</image>
-		<video>./snap/Bedlam (USA, Europe).mp4</video>
-		<marquee>./wheel/Bedlam (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>Milton Bradley</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
-	</game>
-	<game>
 		<path>./WebWars (USA).zip</path>
 		<name>Web Wars</name>
 		<desc>Enter a galaxy of the future filled with adventure and danger - a galaxy unlike any you have imagined before.
@@ -404,6 +337,61 @@ Do you possess the skill, dexterity and courage to pull out from the crowd for q
 		<cheevosHash>F94173910549038D4D8F329413A5AA54</cheevosHash>
 	</game>
 	<game>
+		<path>./Bedlam (USA, Europe).zip</path>
+		<name>Bedlam</name>
+		<desc>Your home galaxy has been invaded by alien colonists hoping to claim all inhabited worlds as their own. Unacceptable!
+You have been given the ultimate responsibility of protecting your galactic neighbors from the invaders. Blasting the aliens with the amazing anti-molecular cannon transports them thousands of light years away where they will cause no further bedlam. But beware, the invaders will be increasingly ruthless.
+
+The future of the galaxy rests on your shoulders. Good luck!</desc>
+		<image>./mixart/Bedlam (USA, Europe).png</image>
+		<video>./snap/Bedlam (USA, Europe).mp4</video>
+		<marquee>./wheel/Bedlam (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
+	</game>
+	<game>
+		<path>./Berzerk (World).zip</path>
+		<name>Berzerk</name>
+		<desc>Maneuver your humanoid through the electrified mazes of robot filled rooms. You may kill the first group of robots but initial success does not mean survival... 
+future groups begin firing at you! Added danger lurks when Evil Otto enters. He can jump the maze walls and squash you if you linger too long!</desc>
+		<image>./mixart/Berzerk (World).png</image>
+		<video>./snap/Berzerk (World).mp4</video>
+		<marquee>./wheel/Berzerk (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>640AE7BD4538BAD11256999DB68DE5A0</cheevosHash>
+	</game>
+	<game>
+		<path>./Blitz! - Action Football (USA, Europe).zip</path>
+		<name>Blitz! Action Football</name>
+		<desc>Will you have a championship season or just be an also-ran?  You're in control as head coach of this championship caliber squad.  Run, pass, punt, kick field goals -- all the excitement of a real game.  Play against the computer's tough defense or invite a visiting coach to join in a real showdown!</desc>
+		<image>./mixart/Blitz! - Action Football (USA, Europe).png</image>
+		<video>./snap/Blitz! - Action Football (USA, Europe).mp4</video>
+		<marquee>./wheel/Blitz! - Action Football (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>5D74770BB175357812E61EE7CA731270</cheevosHash>
+	</game>
+	<game>
 		<path>./Clean Sweep (World).zip</path>
 		<name>Clean Sweep</name>
 		<desc>Evil bank robbers have just blown your bank to smithereens. As bank president, you only have a vacuum available to recover the money strewn among the rubble, before the thieves destroy you! The thieves get increasingly anxious, but for added challenge, turn off the lights of the bank's corridors and gather the money through a blind maze.</desc>
@@ -416,7 +404,27 @@ Do you possess the skill, dexterity and courage to pull out from the crowd for q
 		<publisher>GCE</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
 		<cheevosHash>A376D5648E08F348E5965C058C631C6D</cheevosHash>
 		<cheevosId>3581</cheevosId>
+	</game>
+	<game>
+		<path>./Cosmic Chasm (World).zip</path>
+		<name>Cosmic Chasm</name>
+		<desc>Can you save the galaxy by blowing up the alien-inhabited planet ... and get off the planet before you explode too? You must burrow deep inside, finding your way through the underground maze while battling the Planet Protectors. If you can get to the center, plant your one bomb and try to find your way out. It's only a matter of seconds before the planet goes BOOM!</desc>
+		<image>./mixart/Cosmic Chasm (World).png</image>
+		<video>./snap/Cosmic Chasm (World).mp4</video>
+		<marquee>./wheel/Cosmic Chasm (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>Milton Bradley</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9B61653ED9DAFD4CFB7F9D94404259AC</cheevosHash>
+		<cheevosId>6578</cheevosId>
 	</game>
 </gameList>

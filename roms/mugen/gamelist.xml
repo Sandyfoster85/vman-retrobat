@@ -304,21 +304,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Shades of Manhattan.lnk</path>
-		<name>Shades of Manhattan</name>
-		<desc>Mugen Fanmade 2D Fighting Shades of Manhattan</desc>
-		<image>./mixart/Shades of Manhattan.png</image>
-		<video>./snap/Shades of Manhattan.mp4</video>
-		<marquee>./wheel/Shades of Manhattan.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Street Fighter vs Fatal Fury MUGEN.lnk</path>
 		<name>Street Fighter vs Fatal Fury MUGEN</name>
 		<desc>Mugen Fanmade 2D Fighting Street Fighter vs Fatal Fury MUGEN</desc>
@@ -1048,6 +1033,21 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Shades of Manhattan.lnk</path>
+		<name>Shades of Manhattan</name>
+		<desc>Mugen Fanmade 2D Fighting Shades of Manhattan</desc>
+		<image>./mixart/Shades of Manhattan.png</image>
+		<video>./snap/Shades of Manhattan.mp4</video>
+		<marquee>./wheel/Shades of Manhattan.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

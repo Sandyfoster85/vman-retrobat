@@ -1159,25 +1159,6 @@ The Game Boy Color and SNES versions of the game feature additional levels and n
 		<lang>en</lang>
 		<cheevosHash>17AE4C486ADA2471533FC869993EE4EB</cheevosHash>
 	</game>
-	<game>
-		<path>./Rock_n'_Roll_Racing_(USA)_(MSU1).sfc</path>
-		<name>Rock n' Roll Racing</name>
-		<desc>Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.
-
-The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Theme," "Highway Star" and "Paranoid."</desc>
-		<image>./mixart/Rock_n'_Roll_Racing_(USA)_(MSU1).png</image>
-		<video>./snap/Rock_n'_Roll_Racing_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Rock_n'_Roll_Racing_(USA)_(MSU1).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Silicon &amp; Synapse</developer>
-		<publisher>Interplay</publisher>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0DD6D73652A885C9B90646602B53AC6C</cheevosHash>
-		<cheevosId>237</cheevosId>
-	</game>
 	<game id="189079" source="ScreenScraper.fr">
 		<path>./Saturday_Night_Slam_Masters_(USA)_(MSU1).sfc</path>
 		<name>Saturday Night Slam Masters</name>
@@ -2018,5 +1999,24 @@ The Alien Wars begin!!!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C7ADF2DCD181DC4498F2EC1461AAB5ED</cheevosHash>
+	</game>
+	<game>
+		<path>./Rock_n'_Roll_Racing_(USA)_(MSU1).sfc</path>
+		<name>Rock n' Roll Racing</name>
+		<desc>Rock 'n Roll Racing is an arcade combat racing game. Combat plays a heavy role in the game, as each car has a frontal weapon, such as a laser or missile, and a drop weapon, such as spikes or mines. As you complete races, you get more money to upgrade your car.
+
+The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Theme," "Highway Star" and "Paranoid."</desc>
+		<image>./mixart/Rock_n'_Roll_Racing_(USA)_(MSU1).png</image>
+		<video>./snap/Rock_n'_Roll_Racing_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Rock_n'_Roll_Racing_(USA)_(MSU1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Silicon &amp; Synapse</developer>
+		<publisher>Interplay</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0DD6D73652A885C9B90646602B53AC6C</cheevosHash>
+		<cheevosId>237</cheevosId>
 	</game>
 </gameList>

@@ -43,7 +43,7 @@ rem 7. 2021-12-24 - sync vman custom collections - reported by MrPippet
 rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\collections\ V:\RetroBat\emulationstation\.emulationstation\collections\ /S /NFL /NDL /IS /MT:4
 
 rem 8. 2021-12-28 - EmulationStation Theme fix for apple2/c20 - reported by Virtualman
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
 
 rem 9. 2022-04-02 - Fix PS3 After Burner Climax.m3u - reported by Virtualman
 copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\RetroBat\roms\ps3\

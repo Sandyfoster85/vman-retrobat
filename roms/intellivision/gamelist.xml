@@ -57,18 +57,6 @@ The game is divided into four different one-screen stages. Each represents 25 me
 		<players>No</players>
 	</game>
 	<game id="" source="">
-		<path>./Donkey Kong Jr (World).7z</path>
-		<name>Donkey Kong Jr</name>
-		<desc />
-		<image>./mixart/Donkey Kong Jr (World).png</image>
-		<marquee>./wheel/Donkey Kong Jr (World).png</marquee>
-		<video>./snap/Donkey Kong Jr (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./Dracula (World).7z</path>
 		<name>Dracula</name>
 		<desc>As the sun sets, Dracula rises, hungry for the blood of fresh victims. As Dracula, the goal of this game is to stalk the streets at night, feeding on people walking the streets, or by luring them out of their homes. As Dracula bites his victims, his actions will call the attention of the local constable who will try to slow him down by driving a stake into him. Dracula can respond by either turning one of his victims into zombies to attack the police, or by transforming into a bat to escape capture. Even the forces of nature are against the vampire, as wolves will attack him on foot, and hawks will drag away his bat form. Dracula must feed on a certain number of victims and return to his tomb before sunrise, or he will not survive to feed another night.</desc>
@@ -167,26 +155,6 @@ The game is divided into four different one-screen stages. Each represents 25 me
 		<releasedate>19830101T000000</releasedate>
 		<genre>Platform</genre>
 		<players>No</players>
-	</game>
-	<game id="" source="">
-		<path>./Grid Shock (World).7z</path>
-		<name>Grid Shock</name>
-		<desc>[Unfinished 1983] An arcade game. Carom your shots against the moving wall to fill in the pattern on the back grid.
-
-This original game by Andy Sells looked great; it had a strong 3-D effect as the moving wall swept back and forth across the screen. But while Andy wanted to continue developing the game, management wanted to take advantage of his musical talents. (Shortly before coming to Mattel, his award-winning song "You Love Love [More Than You Love Me]" was recorded by the English group Buck's Fizz. Ask for it by name.)
-
-Andy was continually assigned to work on music and sound effects for other games, including Shark! Shark! and TRON Solar Sailer. He also co-developed the Intellivision sound development tool, Mr. Sound. Whenever he had a chance he returned to Grid Shock, but the game was never elevated to official status.
-
-While the game never made it onto the Intellivision release schedule, it was demonstrated as part of the Intellivision III product line. This was bogus; when the Intellivision III wasn't ready to be shown at the June 1983 Consumer Electronics Show, regular Intellivision screens with particularly nice graphics were passed off as examples of the forthcoming system. Grid Shock was one of these; color packaging was even printed up for it.
-
-After C.E.S., Andy never had a chance to return to the game. His boss, Manager Russ Haft, left Mattel for Atari; Andy was tapped to take his place. A short time later, Andy, too, left for Atari and Grid Shock was abandoned.</desc>
-		<publisher>Intellivision Productions</publisher>
-		<developer>Mattel Electronics</developer>
-		<image>./mixart/Grid Shock (World).png</image>
-		<marquee>./wheel/Grid Shock (World).png</marquee>
-		<video>./snap/Grid Shock (World).mp4</video>
-		<releasedate>19980101T000000</releasedate>
-		<genre />
 	</game>
 	<game id="" source="">
 		<path>./Happy Trails (World).7z</path>
@@ -317,18 +285,6 @@ After the makeover, Marketing still didn't find it visually interesting enough. 
 		<players>2</players>
 	</game>
 	<game id="" source="">
-		<path>./Las Vegas Blackjack and Poker (World).7z</path>
-		<name>Las Vegas Blackjack and Poker</name>
-		<desc />
-		<image>./mixart/Las Vegas Blackjack and Poker (World).png</image>
-		<marquee>./wheel/Las Vegas Blackjack and Poker (World).png</marquee>
-		<video>./snap/Las Vegas Blackjack and Poker (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
 		<path>./Las Vegas Roulette (World).7z</path>
 		<name>Las Vegas Roulette</name>
 		<desc>Implements Las Vegas style roulette game. Most of the screen consists of the standard Las Vegas roulette betting table, and a moving strip on the top with wheel numbers on it represents the roulette wheel. Place your bets on the betting table, and spin the wheel. The game calculates your wins and losses.</desc>
@@ -431,21 +387,6 @@ EASTER EGG: Connect the twinkling stars above the carousel on the title screen t
 		<developer />
 		<publisher />
 		<genre />
-	</game>
-	<game id="" source="">
-		<path>./Melody Blaster (World).7z</path>
-		<name>Melody Blaster</name>
-		<desc>In Melody Blaster, individual notes of a specific song fall from the top of the screen and toward a musical staff, and your goal is to play each note on the Music Synthesizer keyboard in the exact moment it passes over its corresponding staff line. Accidentals (sharps and flats) are color-coded, and you have the option of playing the left-hand or right-hand parts only, or both. I believe there is also an option where the game will hit the right note for you no matter which key of the keyboard is pressed, to allow novice players to focus on their timing instead of on hitting the right notes. There is a small collection of built-in songs, and it's possible to create your own and save them to cassette tape.
-
-The gameplay of Melody Blaster is similar to that of Guitar Hero in that precise timing and accuracy are important, but in Melody Blaster, you're playing a real musical keyboard instead of a plastic guitar with buttons. My rudimentary skills on the keyboard haven't permitted me to get into it very much yet, but it's a fun game that too many Intellivision owners won't have the opportunity to experience, since it requires an ECS Computer Adaptor and a Music Synthesizer keyboard.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>Mattel Electronics</developer>
-		<image>./mixart/Melody Blaster (World).png</image>
-		<marquee>./wheel/Melody Blaster (World).png</marquee>
-		<video>./snap/Melody Blaster (World).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Music</genre>
-		<players>1</players>
 	</game>
 	<game id="" source="">
 		<path>./Microsurgeon (World).7z</path>
@@ -680,152 +621,6 @@ Options allow you to select 1 of 10 conditions of alley slickness and the weight
 		<releasedate>19880101T000000</releasedate>
 		<genre>Racing</genre>
 		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Popeye (World).7z</path>
-		<name>Popeye</name>
-		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</desc>
-		<publisher>Parker Brothers</publisher>
-		<developer>Nintendo</developer>
-		<image>./mixart/Popeye (World).png</image>
-		<marquee>./wheel/Popeye (World).png</marquee>
-		<video>./snap/Popeye (World).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Stealth</genre>
-		<players>No</players>
-	</game>
-	<game id="" source="">
-		<path>./Q-bert (World).7z</path>
-		<name>Q-bert</name>
-		<desc />
-		<image>./mixart/Q-bert (World).png</image>
-		<marquee>./wheel/Q-bert (World).png</marquee>
-		<video>./snap/Q-bert (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
-		<path>./Reversi (World).7z</path>
-		<name>Reversi</name>
-		<desc>Reversi is a computerized version of the board game Othello. During the game, two players take turns placing game pieces on the board in an attempt to trap pieces of their opponents color. Any trapped pieces will then be reversed in color. When the board becomes completely filled up, whomever has the most pieces of his own color on the board wins. The game can be played by two players, or one player against the computer. There are three skill levels the computer can use, and three different board sizes are available, 6 by 6, 8 by 8, and 10 by 10.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>APh Technological Consulting</developer>
-		<image>./mixart/Reversi (World).png</image>
-		<marquee>./wheel/Reversi (World).png</marquee>
-		<video>./snap/Reversi (World).mp4</video>
-		<releasedate>19820511T000000</releasedate>
-		<genre>Strategy</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./River Raid (World).7z</path>
-		<name>River Raid</name>
-		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.</desc>
-		<publisher>Activision</publisher>
-		<developer>Activision</developer>
-		<image>./mixart/River Raid (World).png</image>
-		<marquee>./wheel/River Raid (World).png</marquee>
-		<video>./snap/River Raid (World).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Robot Rubble (World).7z</path>
-		<name>Robot Rubble</name>
-		<desc>[Unreleased 1983] A robot is shooting at you - lob a grenade to destroy it. Boom! But once it's gone, a tougher robot takes its place!
-
-Steve Montero developed this game at Activision after programming the robot-themed Night Stalker at Mattel Electronics.  The game was completed in late 1983, just as Activision decided to give up on releasing new Intellivision titles.  It was finally released in 2001 on the Intellivision Rocks CD.</desc>
-		<publisher>Intellivision Productions</publisher>
-		<developer>Activision</developer>
-		<image>./mixart/Robot Rubble (World).png</image>
-		<marquee>./wheel/Robot Rubble (World).png</marquee>
-		<video>./snap/Robot Rubble (World).mp4</video>
-		<releasedate>20011231T000000</releasedate>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Royal Dealer (World).7z</path>
-		<name>Royal Dealer</name>
-		<desc>Pull up a chair and join the party! Your computer-controlled opponents are ready to take you on, in four card game classics -- Crazy Eights, Rummy, Gin Rummy and Hearts. Computer shuffles the deck and deals. Your choice of 1, 2 or 3 poker-faced ladies play the opposing hands. You provide the peanuts and chatter. The computer provides the challenge.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>APH Technical Consulting</developer>
-		<image>./mixart/Royal Dealer (World).png</image>
-		<marquee>./wheel/Royal Dealer (World).png</marquee>
-		<video>./snap/Royal Dealer (World).mp4</video>
-		<releasedate>19821030T000000</releasedate>
-		<genre>Strategy</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Safecracker (World).7z</path>
-		<name>Safecracker</name>
-		<desc>Safecracker puts you in the role of one of history's greatest spies as you drive around the streets of a foreign city and abscond with secretive cameras, keys, microfilm, flasks of chemicals, and bars of gold bullion.
-
-While cruising around the city, you should avoid crashing into curbs or other cars. You can shoot the cars if you like, but this will bring the Secret Police and their bullets. You should make your way to one of the embassies, where you can learn the combination needed to open the treasury vault. This is also where you can find most of the secretive items. After picking the combination locks of four embassies, you will have both secret numbers needed to open the treasury safe, which contains the gold.
-
-The most profitable way to crack a safe is to pick its combination numbers by finding the right number sequences. This involves cycling through various numbers (0 through 99) on your keypad. Pick numbers until there are no more to find. If you find yourself running out of time, you can simply blow up the safe with dynamite. However, you will not score any points, and the Secret Police will respond to an alarm that will automatically be set off.</desc>
-		<publisher>Imagic</publisher>
-		<developer>Imagic</developer>
-		<image>./mixart/Safecracker (World).png</image>
-		<marquee>./wheel/Safecracker (World).png</marquee>
-		<video>./snap/Safecracker (World).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Action</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
-		<path>./Scooby Doo's Maze Chase (World).7z</path>
-		<name>Scooby Doo's Maze Chase</name>
-		<desc />
-		<image>./mixart/Scooby Doo's Maze Chase (World).png</image>
-		<marquee>./wheel/Scooby Doo's Maze Chase (World).png</marquee>
-		<video>./snap/Scooby Doo's Maze Chase (World).mp4</video>
-		<releasedate />
-		<developer />
-		<publisher />
-		<genre />
-	</game>
-	<game id="" source="">
-		<path>./Sea Battle (World).7z</path>
-		<name>Sea Battle</name>
-		<desc>Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including Submarines, Destroyers, and Battleships. The goal is to engage and sink enemy ships. The winner is the player who commands the troop transport ship into the opponent's harbor. There are two phases in Sea Battle; the strategy phase, and the combat phase. The strategy phase includes maneuvering your fleet into different strategic positions on the map, laying mines, and repair fleets. Opponents engage in ship-to-ship warfare in the combat phase, triggered by the ENGAGE button. Each of the different types of ships has there own strengths and weaknesses, such as weapon range and maneuverability.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>APh Technological Consulting</developer>
-		<image>./mixart/Sea Battle (World).png</image>
-		<marquee>./wheel/Sea Battle (World).png</marquee>
-		<video>./snap/Sea Battle (World).mp4</video>
-		<releasedate>19801003T000000</releasedate>
-		<genre>Action</genre>
-		<players>2</players>
-	</game>
-	<game id="" source="">
-		<path>./Shark! Shark! (World).7z</path>
-		<name>Shark! Shark!</name>
-		<desc>In Shark! Shark! you control a fish! Your goal is to earn as many points as possible while staying alive. Swimming in the ocean with you are other fish of various sizes, lobsters, crabs, jellyfish, and a very fast shark. You are able to eat any fish that is smaller in size than you are, and any fish that is larger will eat you! The shark can also be killed if you nibble at its tail several times, but careful for the shark can turn quickly. Each time you eat a fish or nibble on the sharks tail, points are earned. Each time you score 1000 points, your fish will grow larger in size allowing you to eat even more of the fish on the screen. Several different game speeds are included, and one or two players can play.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>Mattel Electronics</developer>
-		<image>./mixart/Shark! Shark! (World).png</image>
-		<marquee>./wheel/Shark! Shark! (World).png</marquee>
-		<video>./snap/Shark! Shark! (World).mp4</video>
-		<releasedate>19821206T000000</releasedate>
-		<genre>Action</genre>
-		<players>No</players>
-	</game>
-	<game id="" source="">
-		<path>./Sharp Shot (World).7z</path>
-		<name>Sharp Shot</name>
-		<desc>Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.</desc>
-		<publisher>Mattel Electronics</publisher>
-		<developer>APh Technological Consulting</developer>
-		<image>./mixart/Sharp Shot (World).png</image>
-		<marquee>./wheel/Sharp Shot (World).png</marquee>
-		<video>./snap/Sharp Shot (World).mp4</video>
-		<releasedate>19821028T000000</releasedate>
-		<genre />
 	</game>
 	<game id="" source="">
 		<path>./Slap Shot - Super Pro Hockey (World).7z</path>
@@ -1096,19 +891,6 @@ Biplanes - Get into the cockpit of a biplane, fighting another player with eithe
 		<players>1</players>
 	</game>
 	<game id="" source="">
-		<path>./Tutankham (World).7z</path>
-		<name>Tutankham</name>
-		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</desc>
-		<publisher>Parker Brothers</publisher>
-		<developer>Parker Brothers</developer>
-		<image>./mixart/Tutankham (World).png</image>
-		<marquee>./wheel/Tutankham (World).png</marquee>
-		<video>./snap/Tutankham (World).mp4</video>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Shooter</genre>
-		<players>1</players>
-	</game>
-	<game id="" source="">
 		<path>./U.S. Ski Team Skiing (World).7z</path>
 		<name>U.S. Ski Team Skiing</name>
 		<desc>In U.S. Ski Team Skiing, players race down the hill, avoiding trees and jumping moguls in their path. The game features both slalom and downhill courses. 1 player may race against the clock, or 2 to 6 players can alternate turns and race to see who gets the fastest time, and each race has 3 heats.
@@ -1257,19 +1039,6 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<players>2</players>
 	</game>
 	<game>
-		<path>./NHL Hockey (World).7z</path>
-		<name>NHL Hockey</name>
-		<desc>NHL Hockey is a two-player, action hockey game for the Intellivision. Players control their team's puck handler, while the CPU controls all other team members, including the goalie. The players can either shoot the puck quickly or pass it slowly, and can also trip other players (at the risk of a penalty if they do not have the puck.) Stealing the puck and intercepting shots are also possible during gameplay. NHL Hockey features 4 different speed settings, selectable at the beginning of the game.</desc>
-		<image>./mixart/NHL Hockey (World).png</image>
-		<video>./snap/NHL Hockey (World).mp4</video>
-		<marquee>./wheel/NHL Hockey (World).png</marquee>
-		<releasedate>19801003T000000</releasedate>
-		<developer>APh Technological Consulting</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-	</game>
-	<game>
 		<path>./Lock 'N' Chase (World).7z</path>
 		<name>Lock 'N' Chase</name>
 		<image>./mixart/Lock 'N' Chase (World).png</image>
@@ -1290,20 +1059,6 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<developer />
 		<publisher />
 		<genre />
-	</game>
-	<game>
-		<path>./Sewer Sam (World).7z</path>
-		<name>Sewer Sam</name>
-		<desc>Three Russian submarines have been located in the New York sewer system and they have blocked off the system. Sam's only way out of the sewer system is to destroy the Russian submarines. Luckily, Sam carries his revolver. Sam can't go back... once he's gone through the City Sewer Department seals the tunnel. Luckily, Sam carries his revolver.
-
-The sewer system has three types of sewer tunnels. Tunnels with solid dry floors, tunnels with a water passage in the middle and tunnels with pits. Sam can walk, run and creep through the tunnels but Sam can't move as quickly in water. Sam can move from tunnel to tunnel by entering one of the passages that appear occasionally on his way. Each time he enters a new sewer, Sam receives a fresh supply of oxygen.</desc>
-		<image>./mixart/Sewer Sam (World).png</image>
-		<video>./snap/Sewer Sam (World).mp4</video>
-		<marquee>./wheel/Sewer Sam (World).png</marquee>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Interphase Technologies Inc.</developer>
-		<publisher>Interphase Technologies Inc.</publisher>
-		<genre>Shooter</genre>
 	</game>
 	<game>
 		<path>./Kool-Aid Man (World).7z</path>
@@ -1441,18 +1196,6 @@ Programmers at Mattel Electronics came up with a series of casual games meant to
 		<developer />
 		<publisher />
 		<genre />
-	</game>
-	<game>
-		<path>./Turbo (World).7z</path>
-		<name>Turbo</name>
-		<desc>It's you and several other cars racing through a variety of landscapes in Turbo. From the starting line onward, you need to maneuver around and pass various cars in your way while racing towards the finish line. Some of the landscapes you'll travel through include city streets, long roads in the country, seaside highways and dark tunnels.</desc>
-		<image>./mixart/Turbo (World).png</image>
-		<video>./snap/Turbo (World).mp4</video>
-		<marquee>./wheel/Turbo (World).png</marquee>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Coleco</developer>
-		<publisher>Coleco</publisher>
-		<genre>Racing</genre>
 	</game>
 	<game>
 		<path>./Defender (World).7z</path>
@@ -1663,16 +1406,6 @@ On the more difficult skill levels, circuit parts may even overheat and cause a 
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./Bump 'N' Jump (World).7z</path>
-		<name>Bump 'N' Jump</name>
-		<image>./mixart/Bump 'N' Jump (World).png</image>
-		<video>./snap/Bump 'N' Jump (World).mp4</video>
-		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
-		<releasedate />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./BurgerTime (World).7z</path>
 		<name>BurgerTime</name>
 		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
@@ -1867,6 +1600,293 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<publisher>Mattel Electronics</publisher>
 		<genre>Shooter</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Bump 'N' Jump (World).7z</path>
+		<name>Bump 'N' Jump</name>
+		<image>./mixart/Bump 'N' Jump (World).png</image>
+		<video>./snap/Bump 'N' Jump (World).mp4</video>
+		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Donkey Kong Jr (World).7z</path>
+		<name>Donkey Kong Jr</name>
+		<image>./mixart/Donkey Kong Jr (World).png</image>
+		<video>./snap/Donkey Kong Jr (World).mp4</video>
+		<marquee>./wheel/Donkey Kong Jr (World).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Grid Shock (World).7z</path>
+		<name>Grid Shock</name>
+		<desc>[Unfinished 1983] An arcade game. Carom your shots against the moving wall to fill in the pattern on the back grid.
+
+This original game by Andy Sells looked great; it had a strong 3-D effect as the moving wall swept back and forth across the screen. But while Andy wanted to continue developing the game, management wanted to take advantage of his musical talents. (Shortly before coming to Mattel, his award-winning song "You Love Love [More Than You Love Me]" was recorded by the English group Buck's Fizz. Ask for it by name.)
+
+Andy was continually assigned to work on music and sound effects for other games, including Shark! Shark! and TRON Solar Sailer. He also co-developed the Intellivision sound development tool, Mr. Sound. Whenever he had a chance he returned to Grid Shock, but the game was never elevated to official status.
+
+While the game never made it onto the Intellivision release schedule, it was demonstrated as part of the Intellivision III product line. This was bogus; when the Intellivision III wasn't ready to be shown at the June 1983 Consumer Electronics Show, regular Intellivision screens with particularly nice graphics were passed off as examples of the forthcoming system. Grid Shock was one of these; color packaging was even printed up for it.
+
+After C.E.S., Andy never had a chance to return to the game. His boss, Manager Russ Haft, left Mattel for Atari; Andy was tapped to take his place. A short time later, Andy, too, left for Atari and Grid Shock was abandoned.</desc>
+		<image>./mixart/Grid Shock (World).png</image>
+		<video>./snap/Grid Shock (World).mp4</video>
+		<marquee>./wheel/Grid Shock (World).png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Intellivision Productions</publisher>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Las Vegas Blackjack and Poker (World).7z</path>
+		<name>Las Vegas Blackjack and Poker</name>
+		<image>./mixart/Las Vegas Blackjack and Poker (World).png</image>
+		<video>./snap/Las Vegas Blackjack and Poker (World).mp4</video>
+		<marquee>./wheel/Las Vegas Blackjack and Poker (World).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Melody Blaster (World).7z</path>
+		<name>Melody Blaster</name>
+		<desc>In Melody Blaster, individual notes of a specific song fall from the top of the screen and toward a musical staff, and your goal is to play each note on the Music Synthesizer keyboard in the exact moment it passes over its corresponding staff line. Accidentals (sharps and flats) are color-coded, and you have the option of playing the left-hand or right-hand parts only, or both. I believe there is also an option where the game will hit the right note for you no matter which key of the keyboard is pressed, to allow novice players to focus on their timing instead of on hitting the right notes. There is a small collection of built-in songs, and it's possible to create your own and save them to cassette tape.
+
+The gameplay of Melody Blaster is similar to that of Guitar Hero in that precise timing and accuracy are important, but in Melody Blaster, you're playing a real musical keyboard instead of a plastic guitar with buttons. My rudimentary skills on the keyboard haven't permitted me to get into it very much yet, but it's a fun game that too many Intellivision owners won't have the opportunity to experience, since it requires an ECS Computer Adaptor and a Music Synthesizer keyboard.</desc>
+		<image>./mixart/Melody Blaster (World).png</image>
+		<video>./snap/Melody Blaster (World).mp4</video>
+		<marquee>./wheel/Melody Blaster (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Music</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./NHL Hockey (World).7z</path>
+		<name>NHL Hockey</name>
+		<desc>NHL Hockey is a two-player, action hockey game for the Intellivision. Players control their team's puck handler, while the CPU controls all other team members, including the goalie. The players can either shoot the puck quickly or pass it slowly, and can also trip other players (at the risk of a penalty if they do not have the puck.) Stealing the puck and intercepting shots are also possible during gameplay. NHL Hockey features 4 different speed settings, selectable at the beginning of the game.</desc>
+		<image>./mixart/NHL Hockey (World).png</image>
+		<video>./snap/NHL Hockey (World).mp4</video>
+		<marquee>./wheel/NHL Hockey (World).png</marquee>
+		<releasedate>19801003T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Popeye (World).7z</path>
+		<name>Popeye</name>
+		<desc>Popeye is a conversion of the arcade action/platform game. As Popeye, you are trying to win Olive Oyl's love! She is at the top of the screen dropping tokens of her love, and you need to collect them before they hit the ground. After you have collected the required number of items, you can move on to the next, more difficult level. There are many obstacles trying to stop you from completing your task, though! Brutus wanders around the screen and is constantly trying to catch you. If you collect a can of spinach, you can temporarily knock him out, otherwise Brutus will knock you out. Other objects such as bottles or birds are also flying around the screen and will cause you to lose one of your lives if you are hit. Each level features a different layout of platforms and ladders, and will have you collecting different items as they float towards the bottom of the screen!</desc>
+		<image>./mixart/Popeye (World).png</image>
+		<video>./snap/Popeye (World).mp4</video>
+		<marquee>./wheel/Popeye (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Stealth</genre>
+		<players>No</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Q-bert (World).7z</path>
+		<name>Q-bert</name>
+		<image>./mixart/Q-bert (World).png</image>
+		<video>./snap/Q-bert (World).mp4</video>
+		<marquee>./wheel/Q-bert (World).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Reversi (World).7z</path>
+		<name>Reversi</name>
+		<desc>Reversi is a computerized version of the board game Othello. During the game, two players take turns placing game pieces on the board in an attempt to trap pieces of their opponents color. Any trapped pieces will then be reversed in color. When the board becomes completely filled up, whomever has the most pieces of his own color on the board wins. The game can be played by two players, or one player against the computer. There are three skill levels the computer can use, and three different board sizes are available, 6 by 6, 8 by 8, and 10 by 10.</desc>
+		<image>./mixart/Reversi (World).png</image>
+		<video>./snap/Reversi (World).mp4</video>
+		<marquee>./wheel/Reversi (World).png</marquee>
+		<releasedate>19820511T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./River Raid (World).7z</path>
+		<name>River Raid</name>
+		<desc>River Raid is a vertically scrolling action game. You fly a jet up a river in an attempt to destroy bridges which are vital to the enemy. The river is heavily guarded, however, with balloons, ships, choppers, and enemy aircraft trying to stop you. Along the way you will need to fly over fuel stations to refuel your jet and keep flying.</desc>
+		<image>./mixart/River Raid (World).png</image>
+		<video>./snap/River Raid (World).mp4</video>
+		<marquee>./wheel/River Raid (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Robot Rubble (World).7z</path>
+		<name>Robot Rubble</name>
+		<desc>[Unreleased 1983] A robot is shooting at you - lob a grenade to destroy it. Boom! But once it's gone, a tougher robot takes its place!
+
+Steve Montero developed this game at Activision after programming the robot-themed Night Stalker at Mattel Electronics.  The game was completed in late 1983, just as Activision decided to give up on releasing new Intellivision titles.  It was finally released in 2001 on the Intellivision Rocks CD.</desc>
+		<image>./mixart/Robot Rubble (World).png</image>
+		<video>./snap/Robot Rubble (World).mp4</video>
+		<marquee>./wheel/Robot Rubble (World).png</marquee>
+		<releasedate>20011231T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Intellivision Productions</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Royal Dealer (World).7z</path>
+		<name>Royal Dealer</name>
+		<desc>Pull up a chair and join the party! Your computer-controlled opponents are ready to take you on, in four card game classics -- Crazy Eights, Rummy, Gin Rummy and Hearts. Computer shuffles the deck and deals. Your choice of 1, 2 or 3 poker-faced ladies play the opposing hands. You provide the peanuts and chatter. The computer provides the challenge.</desc>
+		<image>./mixart/Royal Dealer (World).png</image>
+		<video>./snap/Royal Dealer (World).mp4</video>
+		<marquee>./wheel/Royal Dealer (World).png</marquee>
+		<releasedate>19821030T000000</releasedate>
+		<developer>APH Technical Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Safecracker (World).7z</path>
+		<name>Safecracker</name>
+		<desc>Safecracker puts you in the role of one of history's greatest spies as you drive around the streets of a foreign city and abscond with secretive cameras, keys, microfilm, flasks of chemicals, and bars of gold bullion.
+
+While cruising around the city, you should avoid crashing into curbs or other cars. You can shoot the cars if you like, but this will bring the Secret Police and their bullets. You should make your way to one of the embassies, where you can learn the combination needed to open the treasury vault. This is also where you can find most of the secretive items. After picking the combination locks of four embassies, you will have both secret numbers needed to open the treasury safe, which contains the gold.
+
+The most profitable way to crack a safe is to pick its combination numbers by finding the right number sequences. This involves cycling through various numbers (0 through 99) on your keypad. Pick numbers until there are no more to find. If you find yourself running out of time, you can simply blow up the safe with dynamite. However, you will not score any points, and the Secret Police will respond to an alarm that will automatically be set off.</desc>
+		<image>./mixart/Safecracker (World).png</image>
+		<video>./snap/Safecracker (World).mp4</video>
+		<marquee>./wheel/Safecracker (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Imagic</developer>
+		<publisher>Imagic</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Scooby Doo's Maze Chase (World).7z</path>
+		<name>Scooby Doo's Maze Chase</name>
+		<image>./mixart/Scooby Doo's Maze Chase (World).png</image>
+		<video>./snap/Scooby Doo's Maze Chase (World).mp4</video>
+		<marquee>./wheel/Scooby Doo's Maze Chase (World).png</marquee>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Sea Battle (World).7z</path>
+		<name>Sea Battle</name>
+		<desc>Sea Battle is a strategic game for two players only. Each player controls a fleet of ships including Submarines, Destroyers, and Battleships. The goal is to engage and sink enemy ships. The winner is the player who commands the troop transport ship into the opponent's harbor. There are two phases in Sea Battle; the strategy phase, and the combat phase. The strategy phase includes maneuvering your fleet into different strategic positions on the map, laying mines, and repair fleets. Opponents engage in ship-to-ship warfare in the combat phase, triggered by the ENGAGE button. Each of the different types of ships has there own strengths and weaknesses, such as weapon range and maneuverability.</desc>
+		<image>./mixart/Sea Battle (World).png</image>
+		<video>./snap/Sea Battle (World).mp4</video>
+		<marquee>./wheel/Sea Battle (World).png</marquee>
+		<releasedate>19801003T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Sewer Sam (World).7z</path>
+		<name>Sewer Sam</name>
+		<desc>Three Russian submarines have been located in the New York sewer system and they have blocked off the system. Sam's only way out of the sewer system is to destroy the Russian submarines. Luckily, Sam carries his revolver. Sam can't go back... once he's gone through the City Sewer Department seals the tunnel. Luckily, Sam carries his revolver.
+
+The sewer system has three types of sewer tunnels. Tunnels with solid dry floors, tunnels with a water passage in the middle and tunnels with pits. Sam can walk, run and creep through the tunnels but Sam can't move as quickly in water. Sam can move from tunnel to tunnel by entering one of the passages that appear occasionally on his way. Each time he enters a new sewer, Sam receives a fresh supply of oxygen.</desc>
+		<image>./mixart/Sewer Sam (World).png</image>
+		<video>./snap/Sewer Sam (World).mp4</video>
+		<marquee>./wheel/Sewer Sam (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Interphase Technologies Inc.</developer>
+		<publisher>Interphase Technologies Inc.</publisher>
+		<genre>Shooter</genre>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Shark! Shark! (World).7z</path>
+		<name>Shark! Shark!</name>
+		<desc>In Shark! Shark! you control a fish! Your goal is to earn as many points as possible while staying alive. Swimming in the ocean with you are other fish of various sizes, lobsters, crabs, jellyfish, and a very fast shark. You are able to eat any fish that is smaller in size than you are, and any fish that is larger will eat you! The shark can also be killed if you nibble at its tail several times, but careful for the shark can turn quickly. Each time you eat a fish or nibble on the sharks tail, points are earned. Each time you score 1000 points, your fish will grow larger in size allowing you to eat even more of the fish on the screen. Several different game speeds are included, and one or two players can play.</desc>
+		<image>./mixart/Shark! Shark! (World).png</image>
+		<video>./snap/Shark! Shark! (World).mp4</video>
+		<marquee>./wheel/Shark! Shark! (World).png</marquee>
+		<releasedate>19821206T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<players>No</players>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Sharp Shot (World).7z</path>
+		<name>Sharp Shot</name>
+		<desc>Sharp Shot is collection of 4 single-button action games: Touchdown Passing, Space Gunner, Submarine, and Maze Shoot. The goal of each game is to score as many points as possible within 60 seconds.</desc>
+		<image>./mixart/Sharp Shot (World).png</image>
+		<video>./snap/Sharp Shot (World).mp4</video>
+		<marquee>./wheel/Sharp Shot (World).png</marquee>
+		<releasedate>19821028T000000</releasedate>
+		<developer>APh Technological Consulting</developer>
+		<publisher>Mattel Electronics</publisher>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Turbo (World).7z</path>
+		<name>Turbo</name>
+		<desc>It's you and several other cars racing through a variety of landscapes in Turbo. From the starting line onward, you need to maneuver around and pass various cars in your way while racing towards the finish line. Some of the landscapes you'll travel through include city streets, long roads in the country, seaside highways and dark tunnels.</desc>
+		<image>./mixart/Turbo (World).png</image>
+		<video>./snap/Turbo (World).mp4</video>
+		<marquee>./wheel/Turbo (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Coleco</developer>
+		<publisher>Coleco</publisher>
+		<genre>Racing</genre>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Tutankham (World).7z</path>
+		<name>Tutankham</name>
+		<desc>Tutankham is an arcade action game played from a top down point of view. You are an explorer in King Tut's tomb on a mission to retrieve as many of the valuable treasures as you can find. In addition to the treasures, you will also find a key in each of the chambers. This is needed in order to unlock the entrance to the next, more difficult chamber. Be careful, for the tomb is guarded by many dangerous creatures! Cobras, bats, scorpions, and more all appear in the maze and will cause you to lose a life if you're caught! To defend yourself you are armed with a laser gun which you can fire left or right, but not up or down. In each of the mazes you are also give one "flash" which can be used to destroy all creatures currently on the screen.</desc>
+		<image>./mixart/Tutankham (World).png</image>
+		<video>./snap/Tutankham (World).mp4</video>
+		<marquee>./wheel/Tutankham (World).png</marquee>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Parker Brothers</developer>
+		<publisher>Parker Brothers</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

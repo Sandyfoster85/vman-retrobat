@@ -9460,20 +9460,6 @@ The Game Boy Advance version of Pirates of the Caribbean: Dead Man's Chest lets 
 		<publisher>TDK Mediactive</publisher>
 		<cheevosHash>FC393954C63FA0E82CCFD7334491C2A7</cheevosHash>
 	</game>
-	<game id="84375" source="ScreenScraper.fr">
-		<path>./Pitfall - The Lost Expedition (USA).7z</path>
-		<name>Pitfall - The Lost Expedition</name>
-		<desc>Deep in the Peruvian Jungle, assume the role of Activision's classic platform hero, Pitfall Harry, a fearless, rough-and-ready treasure seeker who battles evil using his athletic ability and a knapsack filled with adventure gear. Harry competes against a rival explorer to find hidden treasures. The game features over lots of perilous levels, including lush rain forests, creature-ridden caves and vast glacial mountains. Players cross treacherous jungle terrain and dark areas filled with puzzles, tricks and traps, and -- true to the series -- swing on vines, avoid crocodiles and dodge rolling logs as they unearth artifacts and use their cunning to defeat dangerous foes.</desc>
-		<image>./mixart/Pitfall - The Lost Expedition (USA).png</image>
-		<video>./snap/Pitfall - The Lost Expedition (USA).mp4</video>
-		<marquee>./wheel/Pitfall - The Lost Expedition (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040217T000000</releasedate>
-		<developer>Torus Games</developer>
-		<publisher>Activision</publisher>
-		<players>1</players>
-		<cheevosHash>E1B65755D37A64D3AB7605D5DAC86B56</cheevosHash>
-	</game>
 	<game id="4163" source="ScreenScraper.fr">
 		<path>./Pitfall - The Mayan Adventure (USA, Europe).7z</path>
 		<name>Pitfall : The Mayan Adventure</name>
@@ -15969,7 +15955,7 @@ Each turtle (Leonardo, Michelangelo, Raphael &amp; Donatello) has their own set 
 		<video>./snap/Crash &amp; Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).mp4</video>
 		<marquee>./wheel/Crash &amp; Spyro Superpack - Spyro Orange - The Cortex Conspiracy + Crash Bandicoot Purple - Ripto's Rampage (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 	</game>
 	<game id="84440" source="ScreenScraper.fr">
 		<path>./Prince of Persia - The Sands of Time &amp; Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It).7z</path>
@@ -15978,7 +15964,7 @@ Each turtle (Leonardo, Michelangelo, Raphael &amp; Donatello) has their own set 
 		<video>./snap/Prince of Persia - The Sands of Time &amp; Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It).mp4</video>
 		<marquee>./wheel/Prince of Persia - The Sands of Time &amp; Lara Croft Tomb Raider - The Prophecy (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 	</game>
 	<game id="84947" source="ScreenScraper.fr">
 		<path>./Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).7z</path>
@@ -15987,6 +15973,22 @@ Each turtle (Leonardo, Michelangelo, Raphael &amp; Donatello) has their own set 
 		<video>./snap/Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).mp4</video>
 		<marquee>./wheel/Winnie the Pooh's Rumbly Tumbly Adventure &amp; Rayman 3 (Europe) (En,Fr,De,Es,It,Nl+En,Fr,De,Es,It,Nl,Sv,No,Da,Fi).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
+	</game>
+	<game id="84375" source="ScreenScraper.fr">
+		<path>./Pitfall - The Lost Expedition (USA).7z</path>
+		<name>Pitfall - The Lost Expedition</name>
+		<desc>Deep in the Peruvian Jungle, assume the role of Activision's classic platform hero, Pitfall Harry, a fearless, rough-and-ready treasure seeker who battles evil using his athletic ability and a knapsack filled with adventure gear. Harry competes against a rival explorer to find hidden treasures. The game features over lots of perilous levels, including lush rain forests, creature-ridden caves and vast glacial mountains. Players cross treacherous jungle terrain and dark areas filled with puzzles, tricks and traps, and -- true to the series -- swing on vines, avoid crocodiles and dodge rolling logs as they unearth artifacts and use their cunning to defeat dangerous foes.</desc>
+		<image>./mixart/Pitfall - The Lost Expedition (USA).png</image>
+		<video>./snap/Pitfall - The Lost Expedition (USA).mp4</video>
+		<marquee>./wheel/Pitfall - The Lost Expedition (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040217T000000</releasedate>
+		<developer>Torus Games</developer>
+		<publisher>Activision</publisher>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E1B65755D37A64D3AB7605D5DAC86B56</cheevosHash>
 	</game>
 </gameList>

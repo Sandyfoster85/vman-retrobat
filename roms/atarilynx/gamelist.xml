@@ -925,26 +925,6 @@ The referee does not call fouls, but does hurl knives at the players.</desc>
 		<region>eu</region>
 		<cheevosHash>F19B95E4835C5FBC44B180DBD3F024FC</cheevosHash>
 	</game>
-	<game id="14212" source="ScreenScraper.fr">
-		<path>./Batman Returns (USA, Europe).zip</path>
-		<name>Batman Returns</name>
-		<desc>Atari themselves adapted the 1992 superhero sequel Batman Returns for their Lynx handheld as a side-scrolling beat'em'up.
-
-Batman must move through four levels on his quest to stop the Penguin and Catwoman. Enemies trying to stop him include circus clowns on the streets, policemen (whom Catwoman put on his trail) on the roofs of Gotham City, and penguin commandos in the sewers and the Penguin's lair.
-Batman can beat them up with his fists or destroy them using Batarangs and acid vials (which must be collected first). Several of the levels end in boss encounters with the two main villains, while in the last level, Batman must also save industrialist Max Shreck from the Penguin's wrath before finishing him off.</desc>
-		<image>./mixart/Batman Returns (USA, Europe).png</image>
-		<video>./snap/Batman Returns (USA, Europe).mp4</video>
-		<marquee>./wheel/Batman Returns (USA, Europe).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<crc32>277F82C2</crc32>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>6E9BBFF3C7B66D3EC0411FFBE0E41DFD</cheevosHash>
-	</game>
 	<game id="14268" source="ScreenScraper.fr">
 		<path>./Battle Wheels (USA, Europe).zip</path>
 		<name>Battle Wheels</name>
@@ -1454,5 +1434,25 @@ The player starts with three lives, and there are no continues.  There are, howe
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>B29414B8C81CC9EF28EF2F7A09D6D876</cheevosHash>
+	</game>
+	<game id="14212" source="ScreenScraper.fr">
+		<path>./Batman Returns (USA, Europe).zip</path>
+		<name>Batman Returns</name>
+		<desc>Atari themselves adapted the 1992 superhero sequel Batman Returns for their Lynx handheld as a side-scrolling beat'em'up.
+
+Batman must move through four levels on his quest to stop the Penguin and Catwoman. Enemies trying to stop him include circus clowns on the streets, policemen (whom Catwoman put on his trail) on the roofs of Gotham City, and penguin commandos in the sewers and the Penguin's lair.
+Batman can beat them up with his fists or destroy them using Batarangs and acid vials (which must be collected first). Several of the levels end in boss encounters with the two main villains, while in the last level, Batman must also save industrialist Max Shreck from the Penguin's wrath before finishing him off.</desc>
+		<image>./mixart/Batman Returns (USA, Europe).png</image>
+		<video>./snap/Batman Returns (USA, Europe).mp4</video>
+		<marquee>./wheel/Batman Returns (USA, Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<crc32>277F82C2</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6E9BBFF3C7B66D3EC0411FFBE0E41DFD</cheevosHash>
 	</game>
 </gameList>

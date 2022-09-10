@@ -1045,22 +1045,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Wild and Horror Pinball.nsp</path>
-		<name>Wild and Horror Pinball</name>
-		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
-		<image>./mixart/Wild and Horror Pinball.jpg</image>
-		<video>./snap/Wild and Horror Pinball.mp4</video>
-		<marquee>./wheel/Wild and Horror Pinball.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Super PowerUp</developer>
-		<publisher>Super PowerUp</publisher>
-		<genre>Pinball</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Chocobo_GP.nsp</path>
 		<name>Chocobo GP</name>
 		<desc>Chocobo GP racing classic originally on PS1 now in HD for the Nintendo Switch! Join Chocobo and friends as they hit the track in a variety of wacky vehicles! Learn the basics in story mode, then take on all-comers in the game mode of your choice! Use classic magic spells like fire and aero to blast the competition, or even turn the tables in a miracle comeback with each character’s unique abilities! Numerous ways to play, including time attack challenges and tournament-style survival races.</desc>
@@ -1152,6 +1136,22 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Forever Entertainment</publisher>
 		<genre>Action, Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wild and Horror Pinball.nsp</path>
+		<name>Wild and Horror Pinball</name>
+		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
+		<image>./mixart/Wild and Horror Pinball.jpg</image>
+		<video>./snap/Wild and Horror Pinball.mp4</video>
+		<marquee>./wheel/Wild and Horror Pinball.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Super PowerUp</developer>
+		<publisher>Super PowerUp</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
