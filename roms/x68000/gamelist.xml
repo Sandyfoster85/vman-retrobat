@@ -1147,19 +1147,6 @@ Le joueur prend le rôle de la jeune sorcière Cotton sur son balai magique. Dan
 		<region>jp</region>
 	</game>
 	<game>
-		<path>./Pac-Men (1995)(XYZ).m3u</path>
-		<name>Pac-Men</name>
-		<image>./mixart/Pac-Men (1995)(XYZ).png</image>
-		<video>./snap/Pac-Men (1995)(XYZ).mp4</video>
-		<marquee>./wheel/Pac-Men (1995)(XYZ).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>XYZ</publisher>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
 		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
 		<name>Alien Syndrome</name>
 		<desc>Alien Syndrome is a scrolling shooter arcade conversion.
@@ -1319,7 +1306,7 @@ The player has the choice between four insect forms which are changed by collect
 		<video>./snap/Galaxian X68K (19xx)(Gyo).mp4</video>
 		<marquee>./wheel/Galaxian X68K (19xx)(Gyo).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Gyo</publisher>
 		<crc32>14FC6821</crc32>
 		<lang>jp</lang>
@@ -1332,8 +1319,35 @@ The player has the choice between four insect forms which are changed by collect
 		<video>./snap/Geograph Seal.mp4</video>
 		<marquee>./wheel/Geograph Seal.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
+	</game>
+	<game>
+		<path>./Pac-Men (1995)(XYZ).m3u</path>
+		<name>Pac-Men</name>
+		<image>./mixart/Pac-Men (1995)(XYZ).png</image>
+		<video>./snap/Pac-Men (1995)(XYZ).mp4</video>
+		<marquee>./wheel/Pac-Men (1995)(XYZ).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>XYZ</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./Super Street Bomber X (19xx)(Dragon Studio)[Req Install].m3u</path>
+		<name>Super Street Bomber X</name>
+		<desc>Super Street Bomber X (19xx)(Dragon Studio) for Sharp X68000.</desc>
+		<image>./mixart/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</image>
+		<video>./snap/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].mp4</video>
+		<marquee>./wheel/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</marquee>
+		<releasedate></releasedate>
+		<publisher>Dragon Studio</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<genreid>262</genreid>
 	</game>
 </gameList>

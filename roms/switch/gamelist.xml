@@ -1092,22 +1092,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Cruisn_Blast.nsp</path>
-		<name>CRUIS’N BLAST</name>
-		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
-		<image>./mixart/CRUIS’N BLAST.jpg</image>
-		<video>./snap/CRUIS’N BLAST.mp4</video>
-		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210928T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="13282">
 		<path>./SEGA_AGES_Virtua_Racing.nsp</path>
 		<name>Virtua Racing</name>
@@ -1152,6 +1136,22 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Super PowerUp</publisher>
 		<genre>Pinball</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cruisn_Blast.nsp</path>
+		<name>CRUIS’N BLAST</name>
+		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
+		<image>./mixart/CRUIS’N BLAST.jpg</image>
+		<video>./snap/CRUIS’N BLAST.mp4</video>
+		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

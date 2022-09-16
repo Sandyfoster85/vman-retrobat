@@ -1,22 +1,5 @@
 <?xml version="1.0"?>
 <gameList>
-	<game id="1432" source="ScreenScraper">
-		<path>./Airwolf (Japan) (Translated En).zip</path>
-		<name>Airwolf</name>
-		<desc>Airwolf is a side-scrolling shooter based on the 1980s TV series of the same name. A division of the CIA builds itself a hi-tech helicopter in secrecy and codenames it "AirWolf". Armed with advanced weaponry, it is able to stand up to most types of enemy resistance. Given missions by intelligence agent Archangel, Airwolf is sent around to world on top-secret missions to quell trouble.
-
-Before each mission, the player is briefed and allowed to choose a primary and secondary weapon for Airwolf's firing buttons. From this, Airwolf then fires at enemies that appear on the screen and approaches a boss weapon. The game then switches to first-person, where the boss must be targeted in different locations.</desc>
-		<image>./mixart/Airwolf (Japan) (Translated En).png</image>
-		<video>./snap/Airwolf (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Airwolf (Japan) (Translated En).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19890601T000000</releasedate>
-		<developer>Acclaim Entertainment</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>BDB6C1B72C6CF039A748A2F6A354813B</cheevosHash>
-	</game>
 	<game id="1449" source="ScreenScraper">
 		<path>./Akira (Japan) (Translated En).zip</path>
 		<name>Akira</name>
@@ -4416,20 +4399,6 @@ The game was never released outside of Japan.</desc>
 		<releasedate>01010101T000000</releasedate>
 		<cheevosHash>689A9CCBCC4A3F9D896E8E9C0C1E70CE</cheevosHash>
 	</game>
-	<game>
-		<path>./Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).zip</path>
-		<name>Adventure Island IV</name>
-		<desc>The tranquility of the Master Higgins's (or Takahashi as his real name is) island is once again disturbed. This time, some unknown force is causing havoc throughout the island. And what's worse is that Higgins's 5 dinosaur pals are kidnapped. Naturally, i</desc>
-		<image>./mixart/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).png</image>
-		<video>./snap/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940624T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<cheevosHash>C51CC11E75EE519ABCF5E7197AB7CF1B</cheevosHash>
-	</game>
 	<game id="88536" source="ScreenScraper">
 		<path>./Takahashi Meijin no Bugutte Honey (Japan).zip</path>
 		<name>Takahashi Meijin no Bugutte Honey</name>
@@ -5165,5 +5134,40 @@ The game is viewed from the side and features a succession of increasingly-diffi
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosHash>DC9E3C89817B59641BF9BC8D8AED17A2</cheevosHash>
+	</game>
+	<game id="1432" source="ScreenScraper">
+		<path>./Airwolf (Japan) (Translated En).zip</path>
+		<name>Airwolf</name>
+		<desc>Airwolf is a side-scrolling shooter based on the 1980s TV series of the same name. A division of the CIA builds itself a hi-tech helicopter in secrecy and codenames it "AirWolf". Armed with advanced weaponry, it is able to stand up to most types of enemy resistance. Given missions by intelligence agent Archangel, Airwolf is sent around to world on top-secret missions to quell trouble.
+
+Before each mission, the player is briefed and allowed to choose a primary and secondary weapon for Airwolf's firing buttons. From this, Airwolf then fires at enemies that appear on the screen and approaches a boss weapon. The game then switches to first-person, where the boss must be targeted in different locations.</desc>
+		<image>./mixart/Airwolf (Japan) (Translated En).png</image>
+		<video>./snap/Airwolf (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Airwolf (Japan) (Translated En).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19890601T000000</releasedate>
+		<developer>Acclaim Entertainment</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>BDB6C1B72C6CF039A748A2F6A354813B</cheevosHash>
+	</game>
+	<game>
+		<path>./Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).zip</path>
+		<name>Adventure Island IV</name>
+		<desc>The tranquility of the Master Higgins's (or Takahashi as his real name is) island is once again disturbed. This time, some unknown force is causing havoc throughout the island. And what's worse is that Higgins's 5 dinosaur pals are kidnapped. Naturally, i</desc>
+		<image>./mixart/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).png</image>
+		<video>./snap/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Takahashi Meijin no Bouken Jima IV (Japan) (Translated En).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940624T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>C51CC11E75EE519ABCF5E7197AB7CF1B</cheevosHash>
 	</game>
 </gameList>

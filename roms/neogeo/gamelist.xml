@@ -417,22 +417,6 @@ The Fate of 10 of the World's Mightiest Warriors Rests on the Grand Ambitions of
 		<cheevosHash>E684B7D87E24E163CA6D63F44CB2B1E2</cheevosHash>
 	</game>
 	<game>
-		<path>./kof2000.zip</path>
-		<name>The King of Fighters 2000</name>
-		<desc>The final King of Fighters game released by SNK in its original state, The King of Fighters 2000 expands on the story and gameplay presented in The King of Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an attempt to discover more about the NESTS organization, and to derail the plans of potential NESTS agents K' and Maxima. Not everything is as straight-forward as it usually is, however, and even the Ikari Warriors themselves are at risk of being betrayed from within by the end of the tournament.</desc>
-		<image>./mixart/kof2000.png</image>
-		<video>./snap/kof2000.mp4</video>
-		<marquee>./wheel/kof2000.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20001221T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight / Versus-Fight-Action</genre>
-		<players>2</players>
-		<cheevosHash>EEE9AD69CC7B25A4CE0F0392EAAF2F94</cheevosHash>
-		<cheevosId>12033</cheevosId>
-	</game>
-	<game>
 		<path>./kof2001.zip</path>
 		<name>The King of Fighters 2001</name>
 		<desc>In this eighth installment of the King of Fighters series, ten different teams once again battle it out in several countries to decide which team will be this year's King of Fighters. However, the NESTS organization is once again standing in the participant's way; they have deployed their own team of four fighters, lead by two individuals of high-rank within NESTS: a man claiming to be the original Zero and Igniz, the CEO of NESTS. The character roster has been updated yet again for this release in the series.</desc>
@@ -1747,24 +1731,6 @@ On offense you can perform short or long passes with the A and C buttons, respec
 		<cheevosHash>9855FB0D07F093F29C96797DB027121B</cheevosHash>
 	</game>
 	<game>
-		<path>./viewpoin.zip</path>
-		<name>Viewpoint</name>
-		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
-
-One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
-		<image>./mixart/viewpoin.png</image>
-		<video>./snap/viewpoin.mp4</video>
-		<marquee>./wheel/viewpoin.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19921211T000000</releasedate>
-		<developer>Sammy</developer>
-		<publisher>SNK</publisher>
-		<genre>Action-Shoot'em up / Diagonal-Shoot'em Up</genre>
-		<players>2</players>
-		<cheevosHash>333B300098A4E424071B500CE1CB4E05</cheevosHash>
-		<cheevosId>13821</cheevosId>
-	</game>
-	<game>
 		<path>./wakuwak7.zip</path>
 		<name>Waku Waku 7</name>
 		<desc>The seven magical Waku Waku balls have surfaced once again and the few that know of their existence decide to battle against each other in order to collect them all. If they are able to defeat the powerful monster enslaved in them, the Waku Waku balls will grant the lucky victor whatever wish they desire. The game was created as a parody of animé series in general, WW7 pools together all the mainstays of the genre and has them fight against each other. From furry catgirls and effeminate, super-cool elfs to cute pokémon-like creatures and dumb and loud heroes.</desc>
@@ -2320,5 +2286,39 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
 		<cheevosId>11768</cheevosId>
+	</game>
+	<game>
+		<path>./kof2000.zip</path>
+		<name>The King of Fighters 2000</name>
+		<desc>The final King of Fighters game released by SNK in its original state, The King of Fighters 2000 expands on the story and gameplay presented in The King of Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an attempt to discover more about the NESTS organization, and to derail the plans of potential NESTS agents K' and Maxima. Not everything is as straight-forward as it usually is, however, and even the Ikari Warriors themselves are at risk of being betrayed from within by the end of the tournament.</desc>
+		<image>./mixart/kof2000.png</image>
+		<video>./snap/kof2000.mp4</video>
+		<marquee>./wheel/kof2000.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20001221T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight / Versus-Fight-Action</genre>
+		<players>2</players>
+		<cheevosHash>EEE9AD69CC7B25A4CE0F0392EAAF2F94</cheevosHash>
+		<cheevosId>12033</cheevosId>
+	</game>
+	<game>
+		<path>./viewpoin.zip</path>
+		<name>Viewpoint</name>
+		<desc>Viewpoint is a top-down orthographic perspective game in the tradition of Zaxxon. The PlayStation and Saturn versions feature 3D rendered graphics with texture maps, unlike the other versions which primarily feature shaded polygons.
+
+One or two players (in hot-seat or cooperative mode) control a spaceship equipped with a laser cannon which can be charged (by holding the shooting button down) for a stronger blast. Besides the main weapon, three special weapons are available: a wall of fire which wipes the screen up in a wave, a nova-like blast and a circle of spherical-green homing missiles.</desc>
+		<image>./mixart/viewpoin.png</image>
+		<video>./snap/viewpoin.mp4</video>
+		<marquee>./wheel/viewpoin.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19921211T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Shoot'em up / Diagonal-Shoot'em Up</genre>
+		<players>2</players>
+		<cheevosHash>333B300098A4E424071B500CE1CB4E05</cheevosHash>
+		<cheevosId>13821</cheevosId>
 	</game>
 </gameList>

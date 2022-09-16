@@ -23423,24 +23423,6 @@ Bonuses can be picked up to increase the firepower, and barrels can either be sm
 		<cheevosHash>B4A507948DA507DDA4A24CE38A69BDF1</cheevosHash>
 	</game>
 	<game>
-		<path>./chasehq.zip</path>
-		<name>Chase H.Q.</name>
-		<desc>"Chase H.Q." is a checkpoint-based racing game in which the player takes on the role on an undercover cop called Tony Gibson in this 'Miami Vice' inspired game from Taito. Gibson drives a powerful unmarked police car (resembling a Porsche 911) along with his partner, 'Raymond Broady' and must chase down and apprehend various criminals.
-
-The player has between fifty-five and seventy seconds (depending on the game's 'Dip' settings) to catch up with the fleeing criminal, then the same time period again to repeatedly ram into the criminal's car until it is too damaged to drive. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape and the game ends.</desc>
-		<image>./mixart/chasehq.png</image>
-		<video>./snap/chasehq.mp4</video>
-		<marquee>./wheel/chasehq.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>245B938E93F8063143A55CAB921FDE09</cheevosHash>
-	</game>
-	<game>
 		<path>./chboxing.zip</path>
 		<name>Champion Boxing</name>
 		<desc>Champion Boxing is a simplistic boxing game built for the SG-1000. It was later re-released in arcades for SG-1000-based arcade hardware.
@@ -38050,41 +38032,6 @@ Hostages will randomly run across the screen and can be rescued by running into 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>55727BB801FDA737631F7344552E3A5D</cheevosHash>
-	</game>
-	<game>
-		<path>./jchan.zip</path>
-		<name>Jackie Chan - The Kung-Fu Master</name>
-		<desc>Features digitized fighters, the bosses are three different versions of Jackie Chan. Pretty funny game, responsive controls, a bit of Jackie 'engrish', loads of little videos and funny stuff.</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/jchan.png</image>
-		<video>./snap/jchan.mp4</video>
-		<marquee>./wheel/jchan.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Kaneko</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>97A693878D5C0544E8BD76EAD4F10BF2</cheevosHash>
-	</game>
-	<game>
-		<path>./jchan2.zip</path>
-		<name>Jackie Chan in Fists of Fire</name>
-		<desc>Features digitized fighters, the bosses are 3 different versions of Jackie Chan. Pretty funny game, responsive controls, a bit of Jackie 'engrish', loads of little videos and funny stuff.</desc>
-		<image>./mixart/jchan2.png</image>
-		<video>./snap/jchan2.mp4</video>
-		<marquee>./wheel/jchan2.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Kaneko</developer>
-		<publisher>Kaneko</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>40DE4BFBD79E5497DF337F6CC9EC7274</cheevosHash>
 	</game>
 	<game>
 		<path>./jcross.zip</path>
@@ -71883,24 +71830,6 @@ To advance through the game, players must fight their way through each room to a
 		<cheevosHash>F0D28525A6BADA92B10152B1E908736C</cheevosHash>
 	</game>
 	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
 		<path>./flagrall.zip</path>
 		<name>'96 Flag Rally</name>
 		<desc>'96 Flag Rally is a top-down racing game set in maze-like environments similar to the concept of New Rally-X. The player chooses between different girls and a selection of cars or motorcycles. Set across multiple stages the player rides or drives around to collect flags while avoiding hazards and opponents Pac-Man style. When crashing a life is lost immediately.
@@ -72899,5 +72828,76 @@ There is also a bonus round where Mother Pig will attempt to eliminate as many w
 		<region>us</region>
 		<cheevosHash>B34175393AACAD020560636348AE5611</cheevosHash>
 		<cheevosId>11896</cheevosId>
+	</game>
+	<game>
+		<path>./chasehq.zip</path>
+		<name>Chase H.Q.</name>
+		<desc>"Chase H.Q." is a checkpoint-based racing game in which the player takes on the role on an undercover cop called Tony Gibson in this 'Miami Vice' inspired game from Taito. Gibson drives a powerful unmarked police car (resembling a Porsche 911) along with his partner, 'Raymond Broady' and must chase down and apprehend various criminals.
+
+The player has between fifty-five and seventy seconds (depending on the game's 'Dip' settings) to catch up with the fleeing criminal, then the same time period again to repeatedly ram into the criminal's car until it is too damaged to drive. The criminal's car is constantly moving away, so if the player repeatedly crashes or drives too slowly, the criminal will escape and the game ends.</desc>
+		<image>./mixart/chasehq.png</image>
+		<video>./snap/chasehq.mp4</video>
+		<marquee>./wheel/chasehq.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>245B938E93F8063143A55CAB921FDE09</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./jchan.zip</path>
+		<name>Jackie Chan - The Kung-Fu Master</name>
+		<desc>Features digitized fighters, the bosses are three different versions of Jackie Chan. Pretty funny game, responsive controls, a bit of Jackie 'engrish', loads of little videos and funny stuff.</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/jchan.png</image>
+		<video>./snap/jchan.mp4</video>
+		<marquee>./wheel/jchan.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Kaneko</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>97A693878D5C0544E8BD76EAD4F10BF2</cheevosHash>
+	</game>
+	<game>
+		<path>./jchan2.zip</path>
+		<name>Jackie Chan in Fists of Fire</name>
+		<desc>Features digitized fighters, the bosses are 3 different versions of Jackie Chan. Pretty funny game, responsive controls, a bit of Jackie 'engrish', loads of little videos and funny stuff.</desc>
+		<image>./mixart/jchan2.png</image>
+		<video>./snap/jchan2.mp4</video>
+		<marquee>./wheel/jchan2.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Kaneko</developer>
+		<publisher>Kaneko</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>40DE4BFBD79E5497DF337F6CC9EC7274</cheevosHash>
 	</game>
 </gameList>

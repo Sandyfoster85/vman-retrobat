@@ -177,21 +177,6 @@
 		<cheevosHash>A87AF1D318E8B94639C36CE50DD5F812</cheevosHash>
 	</game>
 	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
-	</game>
-	<game>
 		<path>./ftspeed.zip</path>
 		<name>Faster Than Speed</name>
 		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
@@ -462,5 +447,20 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>A9A87B9CA0C9065F4D64E6DD8000007B</cheevosHash>
+	</game>
+	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
 	</game>
 </gameList>

@@ -3664,21 +3664,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="18142">
-		<path>./Asteroids Deluxe.m3u</path>
-		<name>Asteroids Deluxe</name>
-		<image>./mixart/Asteroids Deluxe.png</image>
-		<video>./snap/Asteroids Deluxe.mp4</video>
-		<marquee>./wheel/Asteroids Deluxe.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17559">
 		<path>./Battlezone.m3u</path>
 		<name>Battlezone</name>
@@ -4613,6 +4598,23 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<releasedate>20061108T000000</releasedate>
 		<developer>Digital Eclipse Software</developer>
 		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="18142">
+		<path>./Asteroids Deluxe.m3u</path>
+		<name>Asteroids Deluxe</name>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Asteroids Deluxe.png</image>
+		<video>./snap/Asteroids Deluxe.mp4</video>
+		<marquee>./wheel/Asteroids Deluxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

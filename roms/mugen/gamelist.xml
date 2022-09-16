@@ -440,22 +440,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Enter The Dragon MUGEN V2.lnk</path>
-		<name>Enter The Dragon MUGEN</name>
-		<desc>Mugen Fanmade 2D Fighting Enter The Dragon MUGEN</desc>
-		<image>./mixart/Enter The Dragon MUGEN V2.png</image>
-		<video>./snap/Enter The Dragon MUGEN V2.mp4</video>
-		<marquee>./wheel/Enter The Dragon MUGEN V2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Megaman Battle - Robot Master Mayhem.lnk</path>
 		<name>Megaman Battle - Robot Master Mayhem</name>
 		<desc>Mugen Fanmade 2D Fighting Megaman Battle - Robot Master Mayhem</desc>
@@ -1020,6 +1004,37 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Shades of Manhattan.lnk</path>
+		<name>Shades of Manhattan</name>
+		<desc>Mugen Fanmade 2D Fighting Shades of Manhattan</desc>
+		<image>./mixart/Shades of Manhattan.png</image>
+		<video>./snap/Shades of Manhattan.mp4</video>
+		<marquee>./wheel/Shades of Manhattan.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Enter The Dragon MUGEN V2.lnk</path>
+		<name>Enter The Dragon MUGEN</name>
+		<desc>Mugen Fanmade 2D Fighting Enter The Dragon MUGEN</desc>
+		<image>./mixart/Enter The Dragon MUGEN V2.png</image>
+		<video>./snap/Enter The Dragon MUGEN V2.mp4</video>
+		<marquee>./wheel/Enter The Dragon MUGEN V2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./King of Fighters EX Ultimate 2021.lnk</path>
 		<name>King of Fighters EX Ultimate 2021</name>
 		<desc>Mugen Fanmade 2D Fighting King of Fighters EX Ultimate 2021</desc>
@@ -1033,21 +1048,6 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Shades of Manhattan.lnk</path>
-		<name>Shades of Manhattan</name>
-		<desc>Mugen Fanmade 2D Fighting Shades of Manhattan</desc>
-		<image>./mixart/Shades of Manhattan.png</image>
-		<video>./snap/Shades of Manhattan.mp4</video>
-		<marquee>./wheel/Shades of Manhattan.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

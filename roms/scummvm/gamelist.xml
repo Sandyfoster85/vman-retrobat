@@ -220,20 +220,6 @@ Yes, shortly after you arrive, your generous host Niklos is murdered, and found 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Day Of The Tentacle (CD Dos).svm/Maniac Mansion - Day of the Tentacle.scummvm</path>
-		<name>Maniac Mansion: Day of the Tentacle</name>
-		<desc>Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure which features cartoon-style animation and over 100 zany sound effects.</desc>
-		<image>./mixart/tentacle.png</image>
-		<video>./snap/tentacle.mp4</video>
-		<marquee>./wheel/tentacle.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Discworld 1 (CD DOS v2).svm/Discworld.scummvm</path>
 		<name>Discworld</name>
 		<desc>Atop the flying disk planet known as Discworld, flying along in infinite space, foul things are transpiring in the famous city of Ahnk-Morpork. A dark guild have brought back a great beast, one that no one really believes in. But they will before long. Not standing still, the wizards of Unseen University send their most expendable wizard to destroy the threat. Rincewind, the wizzard, er, I mean wizard, is the worlds most inept wizard. He'd much rather run away from the dragon than confront and destroy it, and it doesn't make things any better that the evil bad guys and even Death him-self are all right on his tail. Can Rincewind keep all of Ahnk-Morpork from becoming nice little fried Morporkians? Play this delightful little adventure and find out for yourself.</desc>
@@ -1095,20 +1081,6 @@ After a while you will find out evil forces have taken over the people of the vi
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./pq3.svm/Police Quest 3 - The Kindred.scummvm</path>
-		<name>Police Quest 3: The Kindred</name>
-		<desc>The game follows recently promoted Sonny Bonds, as he has to deal with rampant crime, drug proliferation, cults, and a corrupt partner.</desc>
-		<image>./mixart/pq3.png</image>
-		<video>./snap/pq3.mp4</video>
-		<marquee>./wheel/pq3.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sierra On-Line, Inc.</developer>
-		<publisher>Sierra On-Line, Inc.</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./qfg1vga.svm/Hero's Quest - So You Want to Be a Hero.scummvm</path>
 		<name>Hero's Quest</name>
 		<desc>Quest for Glory I: So You Want To Be A Hero is a remake of Heros Quest: So You Want To Be A Hero.
@@ -1783,6 +1755,20 @@ Throughout the journey Brandon will collect many items and also learn how to mas
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Day Of The Tentacle (CD Dos).svm/Maniac Mansion - Day of the Tentacle.scummvm</path>
+		<name>Maniac Mansion: Day of the Tentacle</name>
+		<desc>Dr. Fred's mutated purple tentacle is out to take over the world. And only you can stop him. Travel through time with three outrageous characters in this wacky graphic adventure which features cartoon-style animation and over 100 zany sound effects.</desc>
+		<image>./mixart/tentacle.png</image>
+		<video>./snap/tentacle.mp4</video>
+		<marquee>./wheel/tentacle.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Gabriel Knight Sins Of The Fathers (CD DOS).svm/Gabriel Knight - Sins Of The Fathers.scummvm</path>
 		<name>Gabriel Knight - Sins Of The Fathers</name>
 		<desc>Gabriel Knight is a wise-cracking bookstore owner and would-be author. He is the last in a long line of Shadow Hunters, those fated to fight supernatural forces of evil. Tormented by terrifying nightmares, he must spend every waking moment scouring the side streets and back alleys of New Orleans for the key to his dark past. One day, a blood-chilling murder shocks the inhabitants of the city. The police detective assigned to investigate the crime is Gabriels friend. In the beginning Gabriel collects evidence in hope of using the material for his new novel; but soon he finds himself personally involved in the investigation, and plunges deeper into the world of secret societies and murderous cults.
@@ -1801,6 +1787,20 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<publisher>Sierra On-Line</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./pq3.svm/Police Quest 3 - The Kindred.scummvm</path>
+		<name>Police Quest 3: The Kindred</name>
+		<desc>The game follows recently promoted Sonny Bonds, as he has to deal with rampant crime, drug proliferation, cults, and a corrupt partner.</desc>
+		<image>./mixart/pq3.png</image>
+		<video>./snap/pq3.mp4</video>
+		<marquee>./wheel/pq3.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sierra On-Line, Inc.</developer>
+		<publisher>Sierra On-Line, Inc.</publisher>
+		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

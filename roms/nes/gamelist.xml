@@ -15354,23 +15354,6 @@ This game can be played in several different ways.  In the regular game, you hav
 		<region>wr</region>
 		<cheevosHash>80F94BBB851A5466BF773DBBC6D056F2</cheevosHash>
 	</game>
-	<game id="71518" source="ScreenScraper.fr">
-		<path>./Stadium Events (USA).zip</path>
-		<name>Stadium Events</name>
-		<desc>Stadium Events Game Pak, which turns your home into an exciting stadium, dares you to increase your physical ability and better your athletic record. You'll compete against a runner in the Tournament Mode, and in 4 events for a total score in the Olympic Mode. The top 6 winners' names and their scores will appear on the electronic billboard. The top 3 winners will stand on the winners platform!</desc>
-		<image>./mixart/Stadium Events (USA).png</image>
-		<video>./snap/Stadium Events (USA).mp4</video>
-		<marquee>./wheel/Stadium Events (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19870901T000000</releasedate>
-		<developer>TRY Co., Ltd.</developer>
-		<publisher>Bandai</publisher>
-		<genre>Sports</genre>
-		<players>6</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FCA585E11F803C851B621DE88FBBD324</cheevosHash>
-	</game>
 	<game id="1899" source="ScreenScraper.fr">
 		<path>./Stanley - The Search for Dr. Livingston (USA).zip</path>
 		<name>Stanley: The Search for Dr. Livingston</name>
@@ -30601,5 +30584,23 @@ After all the time runs out, a screen will display "Time!" and display the final
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
+	</game>
+	<game id="71518" source="ScreenScraper.fr">
+		<path>./Stadium Events (USA).zip</path>
+		<name>Stadium Events</name>
+		<desc>Stadium Events Game Pak, which turns your home into an exciting stadium, dares you to increase your physical ability and better your athletic record. You'll compete against a runner in the Tournament Mode, and in 4 events for a total score in the Olympic Mode. The top 6 winners' names and their scores will appear on the electronic billboard. The top 3 winners will stand on the winners platform!</desc>
+		<image>./mixart/Stadium Events (USA).png</image>
+		<video>./snap/Stadium Events (USA).mp4</video>
+		<marquee>./wheel/Stadium Events (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19870901T000000</releasedate>
+		<developer>TRY Co., Ltd.</developer>
+		<publisher>Bandai</publisher>
+		<genre>Sports</genre>
+		<players>6</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FCA585E11F803C851B621DE88FBBD324</cheevosHash>
 	</game>
 </gameList>

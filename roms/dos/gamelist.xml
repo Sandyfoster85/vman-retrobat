@@ -1906,20 +1906,6 @@ With full management control of engineers, contracts, sponsors, training, negoti
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Fable.pc</path>
-		<name>Fable</name>
-		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
-		<image>./mixart/Fable.png</image>
-		<video>./snap/Fable.mp4</video>
-		<marquee>./wheel/Fable.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Simbiosis Interactive</developer>
-		<publisher>Sir-tech</publisher>
-		<genre>Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Falcon AT.pc</path>
 		<name>Falcon A.T.</name>
 		<desc>A vastly improved version of Spectrum Holobyte's widely popular game Falcon, with high-res EGA graphics, better mission planning, and a head to head mode.</desc>
@@ -7098,6 +7084,21 @@ After a mission is completed, the player can select the next mission on a map of
 		<releasedate>19700101T010000</releasedate>
 		<developer>Ikarion Software GmbH</developer>
 		<publisher>Ikarion Software GmbH</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fable.pc</path>
+		<name>Fable</name>
+		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
+		<image>./mixart/Fable.png</image>
+		<video>./snap/Fable.mp4</video>
+		<marquee>./wheel/Fable.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Simbiosis Interactive</developer>
+		<publisher>Sir-tech</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
