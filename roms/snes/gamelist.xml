@@ -10189,26 +10189,6 @@ The Shadow was a canceled SNES game published by Ocean. It is based in the film 
 		<genre>Beat'em Up</genre>
 		<cheevosHash>BB103F88B7E4C432ACC337CBA93F2077</cheevosHash>
 	</game>
-	<game>
-		<path>./Shadowrun (USA).7z</path>
-		<name>Shadowrun</name>
-		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
-
-Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
-		<image>./mixart/Shadowrun (USA).png</image>
-		<video>./snap/Shadowrun (USA).mp4</video>
-		<marquee>./wheel/Shadowrun (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Beam Software</publisher>
-		<genre>Role playing games</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>694BE8DF403EE59225C4B6B53C30FB7B</cheevosHash>
-		<cheevosId>566</cheevosId>
-	</game>
 	<game id="2836" source="ScreenScraper.fr">
 		<path>./Shanghai II - Dragon's Eye (USA).7z</path>
 		<name>Shanghai II : Dragon's Eye</name>
@@ -10952,24 +10932,6 @@ After that it just restarts.</desc>
 		<genre>Shoot'em Up</genre>
 		<players>1</players>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Star Fox 2.7z</path>
-		<name>Star Fox 2</name>
-		<desc>After his defeat in the original Star Fox, the game's antagonist, Andross, returns to the Lylat system and launches an all-out attack against Corneria, using his new fleet of battleships and giant missiles launched from hidden bases to destroy the planet. General Pepper again calls upon the Star Fox team for help. Armed with new custom Arwings, a Mothership, and two new recruits (Miyu, a lynx, and Fay, a dog), the Star Fox team sets out to defend Corneria by destroying Andross's forces before they can inflict critical damage on the planet. Along the way, Star Fox must also combat giant boss enemies, bases on planets throughout the Lylat system, members of the Star Wolf team and finally Andross himself.</desc>
-		<image>./mixart/Star Fox 2.png</image>
-		<video>./snap/Star Fox 2.mp4</video>
-		<marquee>./wheel/Star Fox 2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy-Shooter / 3rd person</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>7D66769F53CB3FB7F5C73044876DB240</cheevosHash>
-		<cheevosId>5209</cheevosId>
 	</game>
 	<game id="2807" source="ScreenScraper.fr">
 		<path>./Star Trek - Deep Space Nine - Crossroads of Time (USA).7z</path>
@@ -15086,20 +15048,6 @@ In addition to the power-ups listed above, fruity bubblegum can also be found. O
 		<cheevosHash>665F1A4A60EE1F70FEF1CDE6D028FE4F</cheevosHash>
 	</game>
 	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
-		<cheevosId>12825</cheevosId>
-	</game>
-	<game>
 		<path>./New Super Mario Land.7z</path>
 		<name>'H'New Super Mario Land</name>
 		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -15176,5 +15124,57 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 		<region>us</region>
 		<cheevosHash>73CF4163C3C2B3F8A38775A5D132C448</cheevosHash>
 		<cheevosId>1259</cheevosId>
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
+		<cheevosId>12825</cheevosId>
+	</game>
+	<game>
+		<path>./Shadowrun (USA).7z</path>
+		<name>Shadowrun</name>
+		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
+
+Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
+		<image>./mixart/Shadowrun (USA).png</image>
+		<video>./snap/Shadowrun (USA).mp4</video>
+		<marquee>./wheel/Shadowrun (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Beam Software</publisher>
+		<genre>Role playing games</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>694BE8DF403EE59225C4B6B53C30FB7B</cheevosHash>
+		<cheevosId>566</cheevosId>
+	</game>
+	<game>
+		<path>./Star Fox 2.7z</path>
+		<name>Star Fox 2</name>
+		<desc>After his defeat in the original Star Fox, the game's antagonist, Andross, returns to the Lylat system and launches an all-out attack against Corneria, using his new fleet of battleships and giant missiles launched from hidden bases to destroy the planet. General Pepper again calls upon the Star Fox team for help. Armed with new custom Arwings, a Mothership, and two new recruits (Miyu, a lynx, and Fay, a dog), the Star Fox team sets out to defend Corneria by destroying Andross's forces before they can inflict critical damage on the planet. Along the way, Star Fox must also combat giant boss enemies, bases on planets throughout the Lylat system, members of the Star Wolf team and finally Andross himself.</desc>
+		<image>./mixart/Star Fox 2.png</image>
+		<video>./snap/Star Fox 2.mp4</video>
+		<marquee>./wheel/Star Fox 2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy-Shooter / 3rd person</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>7D66769F53CB3FB7F5C73044876DB240</cheevosHash>
+		<cheevosId>5209</cheevosId>
 	</game>
 </gameList>

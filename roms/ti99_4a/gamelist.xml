@@ -530,18 +530,6 @@
 		<cheevosHash>20CCE2B01F1971286BA4EFB3D50B9A10</cheevosHash>
 	</game>
 	<game>
-		<path>./parsec.zip</path>
-		<name>Parsec</name>
-		<image>./mixart/Parsec.png</image>
-		<video>./snap/Parsec.mp4</video>
-		<marquee>./wheel/Parsec.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
-	</game>
-	<game>
 		<path>./picnicpr.zip</path>
 		<name>Picnic Paranoia</name>
 		<image>./mixart/Picnic Paranoia.png</image>
@@ -802,5 +790,17 @@
 		<marquee>./wheel/Zero Zap.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>2C8C8A8238CF2D3CBDFD8E602710C66E</cheevosHash>
+	</game>
+	<game>
+		<path>./parsec.zip</path>
+		<name>Parsec</name>
+		<image>./mixart/Parsec.png</image>
+		<video>./snap/Parsec.mp4</video>
+		<marquee>./wheel/Parsec.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
 	</game>
 </gameList>

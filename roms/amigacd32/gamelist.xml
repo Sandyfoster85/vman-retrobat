@@ -1816,25 +1816,6 @@ Although he assumes he had a dream, a portal opens in his bedroom, and a large g
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Skeleton Krew (Europe).chd</path>
-		<name>Skeleton Krew</name>
-		<desc>The game takes place in the year 2062. A baddy named Moribund Kadaver has assumed control of a cryogenics plant near Monstro City. Kadaver is apparently a former mortician who has dabbled in cryogenics ever since he purchased Deadly Enforcement Aggressive Destruction Incorporated, aka DEAD Inc. Now he has the power to unleash mutants called Psykogenix on the population of Monstro City! The Military Ascertainment Department (MAD) has decided to call upon the world's most vicious mercenaries: the Skeleton Krew.
-
-Skeleton Krew has you choosing between three members of the deadly organization: Spine, Joint, and Rib. The object of the game is to make it through four planets on your way to stop Kadaver's nefarious plans.</desc>
-		<image>./mixart/Skeleton Krew (Europe).png</image>
-		<video>./snap/Skeleton Krew (Europe).mp4</video>
-		<marquee>./wheel/Skeleton Krew (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Core Design</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Sleepwalker (1993)(Ocean)[!].chd</path>
 		<name>Sleepwalker</name>
 		<desc>Sleepwalker is a platform game developed by CTA Developments and published by Ocean Software for the Amiga, Amiga CD32, Commodore 64 and Atari ST in 1993. It was later ported to MS-DOS. Sleepwalker was later re-released in 1994 using the Eek! The Cat license for the Super Nintendo Entertainment System.</desc>
@@ -2580,6 +2561,24 @@ Some of the features include a hi-res mode for multi-ball, vertical and horizont
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Banshee (Europe) (En,Fr,De,Da).chd</path>
+		<name>Banshee</name>
+		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
+There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
+		<image>./mixart/Banshee (Europe) (En,Fr,De,Da).png</image>
+		<video>./snap/Banshee (Europe) (En,Fr,De,Da).mp4</video>
+		<marquee>./wheel/Banshee (Europe) (En,Fr,De,Da).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Core Design</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+	</game>
+	<game>
 		<path>./Alien Breed - Tower Assault (Europe).chd</path>
 		<name>Alien Breed - Tower Assault</name>
 		<desc>A scientific outpost on a far off planet has been attacked. Nothing is known about the attackers, since all communications have been destroyed. A team of marines is dispatched to investigate and destroy the unknown invaders. As their dropships enter the atmosphere and approach the base, the defence lasers, damaged in the onslaught, move into action. They launch wild bursts of laser fire at the approaching marines, who are not prepared and take heavy losses. Rookies Nash and Jordan crash-land, and must fight off the alien force.
@@ -2601,21 +2600,22 @@ The game is largely non-linear, as most levels have multiple exits, and the game
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Banshee (Europe) (En,Fr,De,Da).chd</path>
-		<name>Banshee</name>
-		<desc>A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
-There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.</desc>
-		<image>./mixart/Banshee (Europe) (En,Fr,De,Da).png</image>
-		<video>./snap/Banshee (Europe) (En,Fr,De,Da).mp4</video>
-		<marquee>./wheel/Banshee (Europe) (En,Fr,De,Da).png</marquee>
+		<path>./Skeleton Krew (Europe).chd</path>
+		<name>Skeleton Krew</name>
+		<desc>The game takes place in the year 2062. A baddy named Moribund Kadaver has assumed control of a cryogenics plant near Monstro City. Kadaver is apparently a former mortician who has dabbled in cryogenics ever since he purchased Deadly Enforcement Aggressive Destruction Incorporated, aka DEAD Inc. Now he has the power to unleash mutants called Psykogenix on the population of Monstro City! The Military Ascertainment Department (MAD) has decided to call upon the world's most vicious mercenaries: the Skeleton Krew.
+
+Skeleton Krew has you choosing between three members of the deadly organization: Spine, Joint, and Rib. The object of the game is to make it through four planets on your way to stop Kadaver's nefarious plans.</desc>
+		<image>./mixart/Skeleton Krew (Europe).png</image>
+		<video>./snap/Skeleton Krew (Europe).mp4</video>
+		<marquee>./wheel/Skeleton Krew (Europe).png</marquee>
 		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
+		<releasedate>19950101T000000</releasedate>
 		<developer>Core Design</developer>
 		<publisher>Core Design</publisher>
-		<genre>Shoot'em Up</genre>
+		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>de,en,fr</lang>
+		<lang>en</lang>
 		<region>eu</region>
 	</game>
 </gameList>

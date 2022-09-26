@@ -97,53 +97,6 @@ A player winning 10 consecutive points automatically wins the game.</desc>
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Battlezone (USA) (Proto).zip</path>
-		<name>Battlezone</name>
-		<desc>A port of the arcade game Battlezone for Atari 5200. Like the arcade game you drive a tank around and shoot enemy tanks while trying to avoid their fire in a 3d environment. It was unfortunately never released and only exists in prototype form. The prototype seems mostly finished but the hit detection seems off at times and not perfected. It also replaces some of the vector based graphics of the arcade with raster likely due to limitations of the Atari 5200. You can also play this with two joysticks which is said to help with controlling the game versus single if you get used to it.</desc>
-		<image>./mixart/Battlezone (USA) (Proto).png</image>
-		<video>./snap/Battlezone (USA) (Proto).mp4</video>
-		<marquee>./wheel/Battlezone (USA) (Proto).png</marquee>
-		<rating>0</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Beamrider (USA).zip</path>
-		<name>Beamrider</name>
-		<desc>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points. Each even number sector up until sector 16 will add a new type of enemy to deal with. These additional enemies will just try to slow your mission, though, only the saucers need to be destroyed to advance. Occassionally a rejeuvinator will appear; if this is collected, you can earn an extra life. But be careful, because if you accidentally shoot the rejeuvinator it will turn into an enemy!</desc>
-		<image>./mixart/Beamrider (USA).png</image>
-		<video>./snap/Beamrider (USA).mp4</video>
-		<marquee>./wheel/Beamrider (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./BerZerk (USA).zip</path>
-		<name>BerZerk</name>
-		<desc>You have been sent into a building infested with robots, and must do your best to clear it out. Each rooms has a number of walls through the middle, which restrict your movement. There will be a number of bad guys in the room - on early screens they may be immobile and not shoot at you, but after a few levels they become capable of shooting in multiple directions. You can shoot at them in 8 directions, but can't shoot diagonally while moving. There are gaps at the side of each room, through which you exit, before or after clearing the room (there is a bonus for clearance). You get an extra life every 2000 points.</desc>
-		<image>./mixart/BerZerk (USA).png</image>
-		<video>./snap/BerZerk (USA).mp4</video>
-		<marquee>./wheel/BerZerk (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Stern Electronics, Inc.</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="44441" source="ScreenScraper.fr">
 		<path>./Black Belt (USA) (Proto).zip</path>
 		<name>Black Belt</name>
@@ -508,29 +461,6 @@ Finishing the game increases your rank and starts the game over at level 1 with 
 		<publisher>CBS Electronics</publisher>
 		<players>2</players>
 		<crc32>E955DB74</crc32>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Gremlins (USA).zip</path>
-		<name>Gremlins</name>
-		<desc>Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room!
-
-You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage. 
-
-On many of the levels there will be various types of food lying about the screen. If a Mogwai eats any food, it will turn into a gremlin. There may also be  puddles of water; if a Gremlin or Mogwai runs into the water, it will split into two. Some levels also contain a refrigerator or popcorn machine which will throw food out onto the screen, or a television which will distract the Gremlins. 
-
-You also begin the game with a limited number of flash cubes; if you get into trouble, you can use these to temporarily stun all of the Gremlins and Mogwai. As the levels progress gameplay becomes faster and the Gremlins and Mogwai more numerous.</desc>
-		<image>./mixart/Gremlins (USA).png</image>
-		<video>./snap/Gremlins (USA).mp4</video>
-		<marquee>./wheel/Gremlins (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game id="37942" source="ScreenScraper.fr">
@@ -1209,22 +1139,6 @@ Wiley can die if he either runs off the end of the tile or runs into a false tun
 		<crc32>A97606AB</crc32>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Robotron 2084 (USA).zip</path>
-		<name>Robotron 2084</name>
-		<desc>This is a port of the arcade game of the same name.
-
-You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
-		<image>./mixart/Robotron 2084 (USA).png</image>
-		<video>./snap/Robotron 2084 (USA).mp4</video>
-		<marquee>./wheel/Robotron 2084 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Williams Electronic Games, Inc.</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="37981" source="ScreenScraper.fr">
 		<path>./Space Dungeon (USA).zip</path>
 		<name>Space Dungeon</name>
@@ -1656,6 +1570,92 @@ Based on the arcade game (which is even more loosely based on the Buck Rogers co
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Battlezone (USA) (Proto).zip</path>
+		<name>Battlezone</name>
+		<desc>A port of the arcade game Battlezone for Atari 5200. Like the arcade game you drive a tank around and shoot enemy tanks while trying to avoid their fire in a 3d environment. It was unfortunately never released and only exists in prototype form. The prototype seems mostly finished but the hit detection seems off at times and not perfected. It also replaces some of the vector based graphics of the arcade with raster likely due to limitations of the Atari 5200. You can also play this with two joysticks which is said to help with controlling the game versus single if you get used to it.</desc>
+		<image>./mixart/Battlezone (USA) (Proto).png</image>
+		<video>./snap/Battlezone (USA) (Proto).mp4</video>
+		<marquee>./wheel/Battlezone (USA) (Proto).png</marquee>
+		<rating>0</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Beamrider (USA).zip</path>
+		<name>Beamrider</name>
+		<desc>Beamrider is a 3-D arcade action game. You control a beam riding spaceship on a mission to clear 99 sectors of space from hostile aliens. The spaceship is located at the bottom of the screen and it can only stop on one of five beams. You are armed with both lasers and torpedoes; torpedoes are more powerful and can destroy more enemies compared to lasers, however you only get three per level. To complete a sector, you need to destroy fifteen white flying saucers. After all saucers are destroyed, the sector sentinel passes by which can be destroyed for extra points. Each even number sector up until sector 16 will add a new type of enemy to deal with. These additional enemies will just try to slow your mission, though, only the saucers need to be destroyed to advance. Occassionally a rejeuvinator will appear; if this is collected, you can earn an extra life. But be careful, because if you accidentally shoot the rejeuvinator it will turn into an enemy!</desc>
+		<image>./mixart/Beamrider (USA).png</image>
+		<video>./snap/Beamrider (USA).mp4</video>
+		<marquee>./wheel/Beamrider (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./BerZerk (USA).zip</path>
+		<name>BerZerk</name>
+		<desc>You have been sent into a building infested with robots, and must do your best to clear it out. Each rooms has a number of walls through the middle, which restrict your movement. There will be a number of bad guys in the room - on early screens they may be immobile and not shoot at you, but after a few levels they become capable of shooting in multiple directions. You can shoot at them in 8 directions, but can't shoot diagonally while moving. There are gaps at the side of each room, through which you exit, before or after clearing the room (there is a bonus for clearance). You get an extra life every 2000 points.</desc>
+		<image>./mixart/BerZerk (USA).png</image>
+		<video>./snap/BerZerk (USA).mp4</video>
+		<marquee>./wheel/BerZerk (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Stern Electronics, Inc.</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Gremlins (USA).zip</path>
+		<name>Gremlins</name>
+		<desc>Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room!
+
+You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage. 
+
+On many of the levels there will be various types of food lying about the screen. If a Mogwai eats any food, it will turn into a gremlin. There may also be  puddles of water; if a Gremlin or Mogwai runs into the water, it will split into two. Some levels also contain a refrigerator or popcorn machine which will throw food out onto the screen, or a television which will distract the Gremlins. 
+
+You also begin the game with a limited number of flash cubes; if you get into trouble, you can use these to temporarily stun all of the Gremlins and Mogwai. As the levels progress gameplay becomes faster and the Gremlins and Mogwai more numerous.</desc>
+		<image>./mixart/Gremlins (USA).png</image>
+		<video>./snap/Gremlins (USA).mp4</video>
+		<marquee>./wheel/Gremlins (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Robotron 2084 (USA).zip</path>
+		<name>Robotron 2084</name>
+		<desc>This is a port of the arcade game of the same name.
+
+You are a mutant human, who by some freak of nature has the ability to shoot energy pulses from his body in eight different directions! Your job is simple: save humanity from their own creation -- the ROBOTRONS! The gameplay is pretty unique for the time. You can move and fire in any of eight directions. You get thrown in a room with various evil baddies strewn about, you've got to kill all the robots while at the same time finding some way to grab humans and avoid death.</desc>
+		<image>./mixart/Robotron 2084 (USA).png</image>
+		<video>./snap/Robotron 2084 (USA).mp4</video>
+		<marquee>./wheel/Robotron 2084 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Williams Electronic Games, Inc.</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

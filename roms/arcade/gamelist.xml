@@ -25272,31 +25272,6 @@ A third character, appearing to be an animal or human figure depending on the le
 		<region>us</region>
 		<cheevosHash>287FF04960D3D367244945EE772189D7</cheevosHash>
 	</game>
-	<game id="40733" source="ScreenScraper.fr">
-		<path>./crusnusa.zip</path>
-		<name>Cruis'n Usa</name>
-		<desc>Designed by the legendary Eugene Jarvis (creator of, among other things, "Robotron" and "Defender"), Cruis'n USA is a point-to-point racing game featuring fourteen separate courses set in a number of different US locations. 
- 
-Each race takes place against nine other rival cars. In addition to the player's opponents, the roads are packed with civilian traffic that must be avoided. Any collision with either other vehicles or with trackside objects will result in lost time as the player races against both the clock and the nine rival racers. On many tracks, collisions can be avoided by driving off-road, although this has as inverse effect on both handling and speed. 
- 
-The in-game physics are skewed entirely toward arcade-style handling. The aforementioned collisions have vehicles bouncing and spinning as though made of rubber, before righting themselves back on the track.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/crusnusa.png</image>
-		<video>./snap/crusnusa.mp4</video>
-		<marquee>./wheel/crusnusa.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D8B760D4D002C9B53A5A5E5A8B6BD8F6</cheevosHash>
-		<genreid>1537</genreid>
-	</game>
 	<game id="40734">
 		<path>./crusnwld.zip</path>
 		<name>Cruis'n World</name>
@@ -27386,40 +27361,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=29394&a
 		<region>us</region>
 		<cheevosHash>E2613ADDA8CA5F0DBFF84B00ABC6C325</cheevosHash>
 	</game>
-	<game id="37326">
-		<path>./dfkbl.zip</path>
-		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
-		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
-Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
-Ships can now fire both laser and shot simultaneously.
-Score counter's number letter sizes increase every 5th digit for easier viewing
-Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
-Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
-Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
-Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
-The bee bonus items in the stages function differently.
-Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
-Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
-All the music has been replaced.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/dfkbl.png</image>
-		<video>./snap/dfkbl.mp4</video>
-		<marquee>./wheel/dfkbl.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em Up</genre>
-		<family>DonPachi</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C1F4AC0D770177F38DB970F826D20A0F</cheevosHash>
-	</game>
 	<game>
 		<path>./dharma.zip</path>
 		<name>Dharma Doujou</name>
@@ -29203,28 +29144,6 @@ Earth Joker - U.N. Defense Force is a Vertical Shoot-'Em-Up, developed and publi
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>77453461D71959FA62B7C12F0E36C2E9</cheevosHash>
-	</game>
-	<game id="41090">
-		<path>./ehrgeizua.zip</path>
-		<name>Ehrgeiz</name>
-		<desc>EZ: Ehrgeiz - God Bless the Ring is a 3-D fighting game reminiscent of "Power Stone" by Capcom. The world's most brutal tournament has as its trophy the legendary weapon 'EHRGEIZ'. Fighters from around the world assemble to claim this prize and its mysterious power. Featuring interactive backgrounds.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/ehrgeizua.png</image>
-		<video>./snap/ehrgeizua.mp4</video>
-		<marquee>./wheel/ehrgeizua.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square</publisher>
-		<genre>Fight / Versus</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>f172c37292811ffbd753312cfa74b557</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C7BDEB05D990BD44C5C637CEDA14FA58</cheevosHash>
 	</game>
 	<game>
 		<path>./eightfrc.zip</path>
@@ -70661,25 +70580,6 @@ The clone - After defeating Willy, the player will have to fight their character
 		<cheevosHash>E69B3D32A9A1B1553A9235547A8090CD</cheevosHash>
 	</game>
 	<game>
-		<path>./bublbobl.zip</path>
-		<name>Bubble Bobble</name>
-		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
-
-Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points.</desc>
-		<image>./mixart/bublbobl.png</image>
-		<video>./snap/bublbobl.mp4</video>
-		<marquee>./wheel/bublbobl.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>72A669A6A000928DA3AB24C3A79E554C</cheevosHash>
-	</game>
-	<game>
 		<path>./spcinv95.zip</path>
 		<name>Space Invaders '95: The Attack Of Lunar Loonies</name>
 		<desc>A remake of the classic invading aliens shoot'em up game that features interesting enemies and a wide variety of characters to choose from.</desc>
@@ -71186,40 +71086,6 @@ RUN PLAY and PASS PLAY. Which to choose to attack!? Select either of the eight f
 		<region>us</region>
 		<cheevosHash>4A4273CB3E8FB7804AAEBF5F65606F0D</cheevosHash>
 	</game>
-	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
 	<game id="40450">
 		<path>./carnevil.zip</path>
 		<name>Carnevil</name>
@@ -71528,55 +71394,6 @@ Space Harrier has a total of 18 stages, each with a boss fight at the end. Three
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3548F065B58393D52A24761EE87937BF</cheevosHash>
-	</game>
-	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
-	</game>
-	<game>
-		<path>./blktiger.zip</path>
-		<name>Black Dragon</name>
-		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
-
-The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
-
-Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
-
-The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
-
-The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
-
-Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
-		<image>./mixart/blktiger.png</image>
-		<video>./snap/blktiger.mp4</video>
-		<marquee>./wheel/blktiger.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
 	</game>
 	<game>
 		<path>./crkdown.zip</path>
@@ -72209,29 +72026,6 @@ Sunset Riders features eight stages of play.</desc>
 		<region>us</region>
 		<cheevosHash>0EFB088E823CD5823468A3BABF80A9CC</cheevosHash>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
 	<game id="37549">
 		<path>./rsgun.zip</path>
 		<name>Radiant Silvergun</name>
@@ -72449,32 +72243,6 @@ ARES, god of war, gave two young men Wings of Love and Courage and entrusted the
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
-	</game>
-	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
 	</game>
 	<game>
 		<path>./aliensyn.zip</path>
@@ -72707,73 +72475,6 @@ The 'Convert-a-Credit' feature allows drivers to add to their winnings by using 
 		<cheevosHash>23F73530FE6E3ACEC71B458860E8836D</cheevosHash>
 	</game>
 	<game>
-		<path>./outrun.zip</path>
-		<name>'H' Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game>
 		<path>./pinbo.zip</path>
 		<name>Pinbo</name>
 		<desc>Pinbo (c) 1984 Jaleco.  - TECHNICAL -  Game ID : PB-8421  Main CPU : M6502 (@ 2 Mhz) Sound CPU : Z80 (@ 3 Mhz) Sound Chips : (2x) AY8910 (@ 1.25 Mhz)  Players : 2 Control : 8-way joystick Buttons : 2  - TRIVIA -  Released in August 1984.  A bootleg of thi</desc>
@@ -72848,24 +72549,6 @@ The player has between fifty-five and seventy seconds (depending on the game's '
 		<cheevosHash>245B938E93F8063143A55CAB921FDE09</cheevosHash>
 	</game>
 	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
 		<path>./jchan.zip</path>
 		<name>Jackie Chan - The Kung-Fu Master</name>
 		<desc>Features digitized fighters, the bosses are three different versions of Jackie Chan. Pretty funny game, responsive controls, a bit of Jackie 'engrish', loads of little videos and funny stuff.</desc>
@@ -72899,5 +72582,323 @@ The player has between fifty-five and seventy seconds (depending on the game's '
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>40DE4BFBD79E5497DF337F6CC9EC7274</cheevosHash>
+	</game>
+	<game>
+		<path>./bublbobl.zip</path>
+		<name>Bubble Bobble</name>
+		<desc>One or two players take on the role of Bub and Bob, two cute dinosaurs who must battle through 100 platform-packed single screen levels to rescue their girlfriends. Bub and Bob are armed only with the ability to blow bubbles, in which the game's many enemies can be trapped and killed. The bubbles can also be used as temporary platforms, to help the dinosaurs reach previously inaccessible areas of a level. 
+
+Any trapped enemies who are not killed quickly enough will turn red and escape their bubble prison. These angry enemies are much faster than before, making them harder to kill. Enemies also become angry if players are taking too long to complete a level. Defeated enemies are turned into bonus fruit items that can be collected for points.</desc>
+		<image>./mixart/bublbobl.png</image>
+		<video>./snap/bublbobl.mp4</video>
+		<marquee>./wheel/bublbobl.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>72A669A6A000928DA3AB24C3A79E554C</cheevosHash>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>'H' Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Dragon</name>
+		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
+
+The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
+
+Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
+
+The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
+
+The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
+
+Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
+		<image>./mixart/blktiger.png</image>
+		<video>./snap/blktiger.mp4</video>
+		<marquee>./wheel/blktiger.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game id="40733" source="ScreenScraper.fr">
+		<path>./crusnusa.zip</path>
+		<name>Cruis'n Usa</name>
+		<desc>Designed by the legendary Eugene Jarvis (creator of, among other things, "Robotron" and "Defender"), Cruis'n USA is a point-to-point racing game featuring fourteen separate courses set in a number of different US locations. 
+ 
+Each race takes place against nine other rival cars. In addition to the player's opponents, the roads are packed with civilian traffic that must be avoided. Any collision with either other vehicles or with trackside objects will result in lost time as the player races against both the clock and the nine rival racers. On many tracks, collisions can be avoided by driving off-road, although this has as inverse effect on both handling and speed. 
+ 
+The in-game physics are skewed entirely toward arcade-style handling. The aforementioned collisions have vehicles bouncing and spinning as though made of rubber, before righting themselves back on the track.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/crusnusa.png</image>
+		<video>./snap/crusnusa.mp4</video>
+		<marquee>./wheel/crusnusa.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D8B760D4D002C9B53A5A5E5A8B6BD8F6</cheevosHash>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37326">
+		<path>./dfkbl.zip</path>
+		<name>DoDonPachi Dai-Fukkatsu Black Label</name>
+		<desc>This is an updated version of "DoDonPachi Dai-Fukkatsu" with the following changes:
+Ship selection changed: players now select the fighter type, then the style (Bomb, Power, or Strong). The style now corresponds to easy, medium, and hard difficulty respectively. Then, player can select whether to utilize auto-bomb or not.
+Ships can now fire both laser and shot simultaneously.
+Score counter's number letter sizes increase every 5th digit for easier viewing
+Added Red Mode, a small long bar at top right (or top middle when playing with two players) which increases if you shoot both laser and shot simultaneously. When it passes a certain threshold, the bar in the meter turns red, and the game becomes much more difficult while it is in the red. The bar will reset when the player dies, or reduced after hyper ends / player does not shoot both laser and shot.
+Hyper meter now increase very slowly unless you turn the "Red Mode" bar red. In addition, Hyper power itself runs out much faster after use.
+Hypers can now be "collected" for the Power style. Continue to increase the Hyper meter and it will stock up like a bomb when the meter is filled.
+Activating the hyper now shows the current "rank" of the Hyper effectiveness with blocking bullets temporarily.
+The bee bonus items in the stages function differently.
+Hibachi (true final boss) now can appear in the first loop if certain requirements are met. In addition, the difficulty / durability of both the final boss Taisabachi, now renamed Supreme Weapon of Extreme Hellish Annihilation - Golden Disaster and the true final boss have increased dramatically.
+Hit combos are now calculated differently. Namely, the hit combo does not go up as fast unless you turn the "Red Mode" bar red.
+All the music has been replaced.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/dfkbl.png</image>
+		<video>./snap/dfkbl.mp4</video>
+		<marquee>./wheel/dfkbl.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em Up</genre>
+		<family>DonPachi</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>9d77aa77e64a4e073a4f5e9c8eefd5d3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C1F4AC0D770177F38DB970F826D20A0F</cheevosHash>
+	</game>
+	<game id="41090">
+		<path>./ehrgeizua.zip</path>
+		<name>Ehrgeiz</name>
+		<desc>EZ: Ehrgeiz - God Bless the Ring is a 3-D fighting game reminiscent of "Power Stone" by Capcom. The world's most brutal tournament has as its trophy the legendary weapon 'EHRGEIZ'. Fighters from around the world assemble to claim this prize and its mysterious power. Featuring interactive backgrounds.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/ehrgeizua.png</image>
+		<video>./snap/ehrgeizua.mp4</video>
+		<marquee>./wheel/ehrgeizua.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square</publisher>
+		<genre>Fight / Versus</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>f172c37292811ffbd753312cfa74b557</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C7BDEB05D990BD44C5C637CEDA14FA58</cheevosHash>
 	</game>
 </gameList>

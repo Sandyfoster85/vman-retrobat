@@ -11986,21 +11986,6 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./300.cso</path>
-		<name>300 : March to Glory</name>
-		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
-		<image>./mixart/300.png</image>
-		<video>./snap/300.mp4</video>
-		<marquee>./wheel/300.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20070330T000000</releasedate>
-		<developer>Collision Studios</developer>
-		<publisher>Warner Brothers</publisher>
-		<genre>Beat'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Little Big Planet (USA).cso</path>
 		<name>LittleBigPlanet</name>
 		<desc>LittleBigPlanet's critically acclaimed - PLAY, CREATE, SHARE - experience, makes its way to the PSP system with a completely new Sackboy adventure. PLAY through 35+ levels and collect prize bubbles, costumes, and - CREATE - materials. CREATE your own levels and challenges with the easy to use POP-IT tool. Once complete, SHARE your creations in ad-hoc mode or post them to the community pool in infrastructure mode.</desc>
@@ -12048,5 +12033,20 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./300.cso</path>
+		<name>300 : March to Glory</name>
+		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
+		<image>./mixart/300.png</image>
+		<video>./snap/300.mp4</video>
+		<marquee>./wheel/300.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070330T000000</releasedate>
+		<developer>Collision Studios</developer>
+		<publisher>Warner Brothers</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

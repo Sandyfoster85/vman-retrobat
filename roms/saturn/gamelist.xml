@@ -5317,42 +5317,6 @@
 		<region>us</region>
 		<cheevosHash>A7103672FB2A95FBF00FD0C1148D3A6D</cheevosHash>
 	</game>
-	<game>
-		<path>./Crime Wave (USA).chd</path>
-		<name>Crimewave</name>
-		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
-		<image>./mixart/Crime Wave (USA).png</image>
-		<video>./snap/Crime Wave (USA).mp4</video>
-		<marquee>./wheel/Crime Wave (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19961108T000000</releasedate>
-		<developer>Eidos Interactive</developer>
-		<publisher>Virgin</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D3681AA093345CFE78CDBE34F69C87B8</cheevosHash>
-	</game>
-	<game>
-		<path>./Sega Rally Championship (USA).chd</path>
-		<name>Sega Rally Championship</name>
-		<desc>Sega Rally was a major success in the arcades, bringing rally-style racing to the masses before the Colin McRae games. Four detailed tracks have been created, with a succession of stomach-churning bends and jumps, and you can choose from 3 different cars. As well as the main championship, there is a time-trial mode featuring a ghost car to beat, so you always know how your run compares with your best-ever. Two machines can be linked for multi-player action. The handling of the cars is unrealistic, to put the focus on action and instant playability.</desc>
-		<image>./mixart/Sega Rally Championship (USA).png</image>
-		<video>./snap/Sega Rally Championship (USA).mp4</video>
-		<marquee>./wheel/Sega Rally Championship (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951228T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0C621E75C0F30A185E0C068564C45035</cheevosHash>
-	</game>
 	<game id="13098" source="ScreenScraper.fr">
 		<path>./Atlantis - The Lost Tales (Europe).m3u</path>
 		<name>Atlantis : The Lost Tales</name>
@@ -5405,5 +5369,41 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>B4463E9BC22AAB39EC1714AB346F8D82</cheevosHash>
+	</game>
+	<game>
+		<path>./Crime Wave (USA).chd</path>
+		<name>Crimewave</name>
+		<desc>Crimewave is a fast and frantic driving-based shoot-em-up. You will need first class driving and combat skills coupled with razor-sharp reflexes to enjoy features which include: Eight high-powered vehicles; Eight battle zones; A vast array of High destruction weaponry; Single player and split-screen action.</desc>
+		<image>./mixart/Crime Wave (USA).png</image>
+		<video>./snap/Crime Wave (USA).mp4</video>
+		<marquee>./wheel/Crime Wave (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19961108T000000</releasedate>
+		<developer>Eidos Interactive</developer>
+		<publisher>Virgin</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D3681AA093345CFE78CDBE34F69C87B8</cheevosHash>
+	</game>
+	<game>
+		<path>./Sega Rally Championship (USA).chd</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally was a major success in the arcades, bringing rally-style racing to the masses before the Colin McRae games. Four detailed tracks have been created, with a succession of stomach-churning bends and jumps, and you can choose from 3 different cars. As well as the main championship, there is a time-trial mode featuring a ghost car to beat, so you always know how your run compares with your best-ever. Two machines can be linked for multi-player action. The handling of the cars is unrealistic, to put the focus on action and instant playability.</desc>
+		<image>./mixart/Sega Rally Championship (USA).png</image>
+		<video>./snap/Sega Rally Championship (USA).mp4</video>
+		<marquee>./wheel/Sega Rally Championship (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951228T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0C621E75C0F30A185E0C068564C45035</cheevosHash>
 	</game>
 </gameList>

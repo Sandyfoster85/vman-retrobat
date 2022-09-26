@@ -2214,22 +2214,6 @@ Gather a little army of monsters, equip yourself with weapons and relics and lev
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./AGS - King Quest I.lnk</path>
-		<name>AGS - King Quest I</name>
-		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
-		<image>./mixart/AGS - King Quest I.png</image>
-		<video>./snap/AGS - King Quest I.mp4</video>
-		<marquee>./wheel/AGS - King Quest I.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20010430T000000</releasedate>
-		<developer>AGD Interactive</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./AGS - King Quest II.lnk</path>
 		<name>AGS - King Quest II</name>
 		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
@@ -6232,22 +6216,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./80s Overdrive.lnk</path>
-		<name>80s Overdrive</name>
-		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
-		<image>./mixart/80s Overdrive.jpg</image>
-		<video>./snap/80s Overdrive.mp4</video>
-		<marquee>./wheel/80s Overdrive.png</marquee>
-		<rating>85</rating>
-		<releasedate>20200515T010000</releasedate>
-		<developer>Insane Code</developer>
-		<publisher>Insane Code</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bookworm Adventures Deluxe.lnk</path>
 		<name>PopCap Bookworm Adventures Deluxe</name>
 		<desc>Bookworm Adventures is a word-forming puzzle video game, the follow-up to Bookworm from PopCap Games. Released in November 2006, Bookworm Adventures combines the "create words from sets of letters" aspect of Bookworm with several elements of a role-playing video game. In the 2007 Interactive Achievement Awards, Bookworm Adventures won the "Downloadable Game of the Year".[1] The game also won three Zeeby awards for Best Word &amp; Trivia Game of 2006, Best Game Design of 2006 and Best Story/Narrative of 2006.</desc>
@@ -7004,22 +6972,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<developer>Retro Forge</developer>
 		<publisher>Dear Villagers</publisher>
 		<genre>Action, Role-Playing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Demons Tilt.lnk</path>
-		<name>Demon's Tilt - Occult Pinball Action</name>
-		<desc>Is Demon's Tilt just pinball? This digital table has a lot to offer and if you like more arcade feeling pinball then Demon's Tilt is for you! There are many mechanics that wouldn't work on a realistic pinball table. Still, it requires the same skills of placing the ball exactly where you need it to go. The rituals are mini quests on the tables and finishing them is difficult.</desc>
-		<image>./mixart/Demons Tilt.jpg</image>
-		<video>./snap/Demons Tilt.mp4</video>
-		<marquee>./wheel/Demons Tilt.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Winznwar</developer>
-		<publisher>Flarb LLC</publisher>
-		<genre>Pinball</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -9156,6 +9108,54 @@ This is a one-person project, 8 years in the making.</desc>
 		<publisher>Rebellion</publisher>
 		<genre>Action</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Demons Tilt.lnk</path>
+		<name>Demon's Tilt - Occult Pinball Action</name>
+		<desc>Is Demon's Tilt just pinball? This digital table has a lot to offer and if you like more arcade feeling pinball then Demon's Tilt is for you! There are many mechanics that wouldn't work on a realistic pinball table. Still, it requires the same skills of placing the ball exactly where you need it to go. The rituals are mini quests on the tables and finishing them is difficult.</desc>
+		<image>./mixart/Demons Tilt.jpg</image>
+		<video>./snap/Demons Tilt.mp4</video>
+		<marquee>./wheel/Demons Tilt.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Winznwar</developer>
+		<publisher>Flarb LLC</publisher>
+		<genre>Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./80s Overdrive.lnk</path>
+		<name>80s Overdrive</name>
+		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
+		<image>./mixart/80s Overdrive.jpg</image>
+		<video>./snap/80s Overdrive.mp4</video>
+		<marquee>./wheel/80s Overdrive.png</marquee>
+		<rating>85</rating>
+		<releasedate>20200515T010000</releasedate>
+		<developer>Insane Code</developer>
+		<publisher>Insane Code</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AGS - King Quest I.lnk</path>
+		<name>AGS - King Quest I</name>
+		<desc>Fandmade remake of King Quest I using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest I: A dying King Edward entrusts his finest knight to seek the Three Lost Treasures of Daventry.</desc>
+		<image>./mixart/AGS - King Quest I.png</image>
+		<video>./snap/AGS - King Quest I.mp4</video>
+		<marquee>./wheel/AGS - King Quest I.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20010430T000000</releasedate>
+		<developer>AGD Interactive</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

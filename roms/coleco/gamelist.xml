@@ -1349,45 +1349,12 @@ Tutankham is one of six games chosen to appear in the LIFE magazine photo-sessio
 		<cheevosId>14076</cheevosId>
 	</game>
 	<game>
-		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
-		<name>Buck Rogers - Planet Of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
-		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
-	</game>
-	<game>
-		<path>./Jumpman Junior (USA).zip</path>
-		<name>Jumpman Junior</name>
-		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
-
-Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
-		<image>./mixart/Jumpman Junior (USA).png</image>
-		<video>./snap/Jumpman Junior (USA).mp4</video>
-		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Epyx</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
-		<cheevosId>6339</cheevosId>
-	</game>
-	<game>
 		<path>./Blockade Runner (USA).zip</path>
 		<name>Blockade Runner</name>
 		<image>./mixart/Blockade Runner (USA).png</image>
 		<video>./snap/Blockade Runner (USA).mp4</video>
 		<marquee>./wheel/Blockade Runner (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>108318EB89A2F11531086270970A5039</cheevosHash>
@@ -1399,7 +1366,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Boulder Dash (USA).png</image>
 		<video>./snap/Boulder Dash (USA).mp4</video>
 		<marquee>./wheel/Boulder Dash (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Micro Fun</developer>
 		<lang>en</lang>
 		<region>us</region>
@@ -1411,7 +1378,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Brain Strainers (USA, Europe).png</image>
 		<video>./snap/Brain Strainers (USA, Europe).mp4</video>
 		<marquee>./wheel/Brain Strainers (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>302846579767D876883D8A560738DAAE</cheevosHash>
@@ -1422,7 +1389,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Bump 'N' Jump (USA, Europe).png</image>
 		<video>./snap/Bump 'N' Jump (USA, Europe).mp4</video>
 		<marquee>./wheel/Bump 'N' Jump (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>45548D960E081445560FA492A675E457</cheevosHash>
@@ -1453,7 +1420,7 @@ Give nasties a ride on a falling bun to score the big points. Watch out though! 
 		<image>./mixart/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</image>
 		<video>./snap/Cabbage Patch Kids - Adventures in the Park (USA, Europe).mp4</video>
 		<marquee>./wheel/Cabbage Patch Kids - Adventures in the Park (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>ADE704F01E694FB539BD805D9E276C99</cheevosHash>
@@ -1464,7 +1431,7 @@ Give nasties a ride on a falling bun to score the big points. Watch out though! 
 		<image>./mixart/Cabbage Patch Kids Picture Show (USA, Europe).png</image>
 		<video>./snap/Cabbage Patch Kids Picture Show (USA, Europe).mp4</video>
 		<marquee>./wheel/Cabbage Patch Kids Picture Show (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>203EA3B5DB935F02BEC5BB103322739A</cheevosHash>
@@ -1475,7 +1442,7 @@ Give nasties a ride on a falling bun to score the big points. Watch out though! 
 		<image>./mixart/Campaign '84 (USA).png</image>
 		<video>./snap/Campaign '84 (USA).mp4</video>
 		<marquee>./wheel/Campaign '84 (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DEBD9B275689E9E537E916673A9CD2D2</cheevosHash>
@@ -1515,7 +1482,7 @@ A player loses a life when hit by a centipede or another enemy, such as a spider
 		<image>./mixart/Centipede (USA).png</image>
 		<video>./snap/Centipede (USA).mp4</video>
 		<marquee>./wheel/Centipede (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<genre>Shooter</genre>
 		<players>No</players>
 		<lang>en</lang>
@@ -1528,7 +1495,7 @@ A player loses a life when hit by a centipede or another enemy, such as a spider
 		<image>./mixart/Choplifter (USA, Europe).png</image>
 		<video>./snap/Choplifter (USA, Europe).mp4</video>
 		<marquee>./wheel/Choplifter (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>782DDBF40366269591205506F73906A1</cheevosHash>
@@ -1539,7 +1506,7 @@ A player loses a life when hit by a centipede or another enemy, such as a spider
 		<image>./mixart/Chuck Norris - Super Kicks (USA).png</image>
 		<video>./snap/Chuck Norris - Super Kicks (USA).mp4</video>
 		<marquee>./wheel/Chuck Norris - Super Kicks (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CB8FD33A7D96C0B50968D354AA9CD8DB</cheevosHash>
@@ -1584,7 +1551,7 @@ Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels ar
 		<image>./mixart/Cosmic Crisis (USA).png</image>
 		<video>./snap/Cosmic Crisis (USA).mp4</video>
 		<marquee>./wheel/Cosmic Crisis (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3AE1DDD596FAACED37274DD407D5523C</cheevosHash>
@@ -1595,7 +1562,7 @@ Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels ar
 		<image>./mixart/Dam Busters, The (USA, Europe).png</image>
 		<video>./snap/Dam Busters, The (USA, Europe).mp4</video>
 		<marquee>./wheel/Dam Busters, The (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>DD01108C4B4A62D64B2DA39424896B6A</cheevosHash>
@@ -1606,7 +1573,7 @@ Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels ar
 		<image>./mixart/Dance Fantasy (USA).png</image>
 		<video>./snap/Dance Fantasy (USA).mp4</video>
 		<marquee>./wheel/Dance Fantasy (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E3529B53DE080E061A16051F6DAE648D</cheevosHash>
@@ -1617,11 +1584,44 @@ Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels ar
 		<image>./mixart/Decathlon (USA).png</image>
 		<video>./snap/Decathlon (USA).mp4</video>
 		<marquee>./wheel/Decathlon (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>F1FA565352F9BFB760B1D80929955548</cheevosHash>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
+	</game>
+	<game>
+		<path>./Jumpman Junior (USA).zip</path>
+		<name>Jumpman Junior</name>
+		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
+
+Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
+		<image>./mixart/Jumpman Junior (USA).png</image>
+		<video>./snap/Jumpman Junior (USA).mp4</video>
+		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
+		<cheevosId>6339</cheevosId>
 	</game>
 </gameList>

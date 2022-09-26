@@ -580,23 +580,6 @@
 		<cheevosHash>A58F7C41CD9E6C96CD5B4B477F022570</cheevosHash>
 	</game>
 	<game>
-		<path>./Baseball Stars Color (World) (En,Ja).zip</path>
-		<name>Baseball Stars Color</name>
-		<desc>Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics</desc>
-		<image>./mixart/Baseball Stars Color (World) (En,Ja).png</image>
-		<video>./snap/Baseball Stars Color (World) (En,Ja).mp4</video>
-		<marquee>./wheel/Baseball Stars Color (World) (En,Ja).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports-Sports / Baseball</genre>
-		<players>2</players>
-		<lang>en,jp</lang>
-		<region>jp</region>
-		<cheevosHash>F2F296F4BE215E826FAC519FBA96609B</cheevosHash>
-	</game>
-	<game>
 		<path>./Fatal Fury F-Contact - Pocket Fighting Series (World) (En,Ja).zip</path>
 		<name>Fatal Fury - F-Contact</name>
 		<desc>Using the world-famous Japanese "SD" (Super-Deformed) artwork style, this is the only title of the Fatal Fury series to be released on SNK's color handheld.  The game is based on its arcade/console counterpart Real Bout Fatal Fury 2: The Newcomers, and has its main characteristics, like the possibility of execute special moves while blocking (a.k.a. Breakshots), the execution of high-strength blows (a.k.a. S. Power and P. Power moves) and the starring of two new combatants (Li Xiangfei and Rick Strowd).  Due to NGPC hardware limitations, some characters have been removed from the main cast (as well as the background/foreground battle plane system). With this, the fighters initially available for this contest are: Andy Bogard, Terry Bogard, Joe Higashi, Mai Shiranui, Kim Kaphwan, Ryuji Yamazaki, Rick Strowd, Li Xiangfei, Billy Kane, Wolfgang Krauser and Geese Howard.</desc>
@@ -646,5 +629,22 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>1018F765F460588D975C9B4E9385A547</cheevosHash>
+	</game>
+	<game>
+		<path>./Baseball Stars Color (World) (En,Ja).zip</path>
+		<name>Baseball Stars Color</name>
+		<desc>Baseball Stars Color is sports game about baseball. Game is similar to Baseball Stars from NES but has less realistic characters and gameplay's style. You manage own baseball team and play in series of matches. Game has typical baseball rules - one player throws the ball, second hits the ball, someone else grabs it etc. Each character has own statistics</desc>
+		<image>./mixart/Baseball Stars Color (World) (En,Ja).png</image>
+		<video>./snap/Baseball Stars Color (World) (En,Ja).mp4</video>
+		<marquee>./wheel/Baseball Stars Color (World) (En,Ja).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports-Sports / Baseball</genre>
+		<players>2</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<cheevosHash>F2F296F4BE215E826FAC519FBA96609B</cheevosHash>
 	</game>
 </gameList>

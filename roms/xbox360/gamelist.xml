@@ -1168,23 +1168,6 @@ Battle for the future of the streets in unique rhythm-based action combat fights
 		<lang>en</lang>
 		<video>./snap/Bejeweled 3.mp4</video>
 	</game>
-	<game>
-		<path>./Bomberman LIVE.m3u</path>
-		<name>Bomberman Live</name>
-		<desc>Drop bombs with reckless abandon and blast your enemies into oblivion. Compete with up to eight players online as you battle through eight exotic arenas with your own customized Bomberman. Unleash your fury in ongoing tournaments to prove you're the best. Choose from any of eight all new arenas and start dropping your bombs, kick fiery surprises across the arena, and send your enemies to their doom. Ongoing tournaments will allow you to compete globally to determine who's the best Bomberman of all. Each Bomberman can have a custom head or hat, facial expressions and features, and a costume. There are over 10,000 custom possibilities, so you may never see another Bomberman exactly like yours. One of the greatest game series of all time comes to Xbox LIVE Arcade. Take control of your customized Bomberman and use your bombs to knock out your opponents, discover upgrades, and dominate the arena.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Bomberman LIVE.png</image>
-		<rating>0.7</rating>
-		<releasedate>20070718T000000</releasedate>
-		<developer>Backbone Entertainment</developer>
-		<genre>Puzzle</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<marquee>./wheel/Bomberman LIVE.png</marquee>
-		<video>./snap/Bomberman LIVE.mp4</video>
-	</game>
 	<game id="17765">
 		<path>./Boom Boom Rocket.m3u</path>
 		<name>Boom Boom Rocket</name>
@@ -4077,21 +4060,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Puzzle Fighter HD.m3u</path>
-		<name>Puzzle Fighter HD</name>
-		<desc>Street Fighter Puzzle Fighter HD</desc>
-		<image>./mixart/Puzzle Fighter HD.png</image>
-		<video>./snap/Puzzle Fighter HD.mp4</video>
-		<marquee>./wheel/Puzzle Fighter HD.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<publisher>Capcom</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17985">
 		<path>./RAINBOW ISLANDS TOWERING ADVENTURE!.m3u</path>
 		<name>Rainbow Islands Towering Adventure !</name>
@@ -4602,6 +4570,21 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Puzzle Fighter HD.m3u</path>
+		<name>Puzzle Fighter HD</name>
+		<desc>Street Fighter Puzzle Fighter HD</desc>
+		<image>./mixart/Puzzle Fighter HD.png</image>
+		<video>./snap/Puzzle Fighter HD.mp4</video>
+		<marquee>./wheel/Puzzle Fighter HD.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 	<game id="18142">
 		<path>./Asteroids Deluxe.m3u</path>
 		<name>Asteroids Deluxe</name>
@@ -4616,6 +4599,23 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>Atari</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bomberman LIVE.m3u</path>
+		<name>Bomberman Live</name>
+		<desc>Drop bombs with reckless abandon and blast your enemies into oblivion. Compete with up to eight players online as you battle through eight exotic arenas with your own customized Bomberman. Unleash your fury in ongoing tournaments to prove you're the best. Choose from any of eight all new arenas and start dropping your bombs, kick fiery surprises across the arena, and send your enemies to their doom. Ongoing tournaments will allow you to compete globally to determine who's the best Bomberman of all. Each Bomberman can have a custom head or hat, facial expressions and features, and a costume. There are over 10,000 custom possibilities, so you may never see another Bomberman exactly like yours. One of the greatest game series of all time comes to Xbox LIVE Arcade. Take control of your customized Bomberman and use your bombs to knock out your opponents, discover upgrades, and dominate the arena.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Bomberman LIVE.png</image>
+		<video>./snap/Bomberman LIVE.mp4</video>
+		<marquee>./wheel/Bomberman LIVE.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070718T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<genre>Puzzle</genre>
+		<players>4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -1630,23 +1630,6 @@
 		<cheevosHash>24585FA3502B8283157986208840AEA3</cheevosHash>
 	</game>
 	<game>
-		<path>./doa2m.zip</path>
-		<name>Dead or Alive 2</name>
-		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
-		<image>./mixart/doa2.png</image>
-		<video>./snap/doa2.mp4</video>
-		<marquee>./wheel/doa2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
-	</game>
-	<game>
 		<path>./gunsur2.zip</path>
 		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
 		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
@@ -1877,5 +1860,22 @@
 		<genre>Puzzle-Game-Various</genre>
 		<lang>en</lang>
 		<cheevosHash>27AA949C43882F243094F13DBC9F087C</cheevosHash>
+	</game>
+	<game>
+		<path>./doa2m.zip</path>
+		<name>Dead or Alive 2</name>
+		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
+		<image>./mixart/doa2.png</image>
+		<video>./snap/doa2.mp4</video>
+		<marquee>./wheel/doa2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
 	</game>
 </gameList>

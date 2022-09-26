@@ -201,28 +201,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37525" source="ScreenScraper.fr">
-		<path>./Virtua Fighter 3.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
- 
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
- 
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./mixart/Virtua Fighter 3.png</image>
-		<video>./snap/Virtua Fighter 3.mp4</video>
-		<marquee>./wheel/Virtua Fighter 3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
-	</game>
 	<game>
 		<path>./Daytona USA 2 Power Edition.zip</path>
 		<name>Daytona USA 2: Power Edition</name>
@@ -278,23 +256,6 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Daytona USA 2.zip</path>
-		<name>Daytona USA 2: Battle on the Edge</name>
-		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
-		<image>./mixart/Daytona USA 2.png</image>
-		<video>./snap/Daytona USA 2.mp4</video>
-		<marquee>./wheel/Daytona USA 2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37521" source="ScreenScraper.fr">
 		<path>./Spike Out Digital Battle Online.zip</path>
 		<name>Spikeout Digital Battle Online</name>
@@ -325,6 +286,38 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<players>2</players>
 		<genreid>1538</genreid>
 	</game>
+	<game id="43284" source="ScreenScraper.fr">
+		<path>./Sega Rally 2.zip</path>
+		<name>Sega Rally 2</name>
+		<desc>Sega Rally 2 - Sega Rally Championship (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz) Sound CPU : 68EC000 (@ 11.3Mhz) Sound Chips : SCSPx2  Players : 1 Control : Paddle Buttons : 8  - TRIVIA -  Sega Rally 2 wa</desc>
+		<image>./mixart/Sega Rally 2.png</image>
+		<video>./snap/Sega Rally 2.mp4</video>
+		<marquee>./wheel/Sega Rally 2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>1</players>
+		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Daytona USA 2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<image>./mixart/Daytona USA 2.png</image>
+		<video>./snap/Daytona USA 2.mp4</video>
+		<marquee>./wheel/Daytona USA 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game>
 		<path>./Star Wars Trilogy.zip</path>
 		<name>Star Wars Trilogy</name>
@@ -345,19 +338,26 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="43284" source="ScreenScraper.fr">
-		<path>./Sega Rally 2.zip</path>
-		<name>Sega Rally 2</name>
-		<desc>Sega Rally 2 - Sega Rally Championship (c) 1998 Sega.  - TECHNICAL -  Sega Model 3 Step 2.0 hardware  Main CPU : PPC603 (@ 166 Mhz) Sound CPU : 68EC000 (@ 11.3Mhz) Sound Chips : SCSPx2  Players : 1 Control : Paddle Buttons : 8  - TRIVIA -  Sega Rally 2 wa</desc>
-		<image>./mixart/Sega Rally 2.png</image>
-		<video>./snap/Sega Rally 2.mp4</video>
-		<marquee>./wheel/Sega Rally 2.png</marquee>
-		<releasedate>19980101T000000</releasedate>
+	<game id="37525" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
+ 
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
+ 
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./mixart/Virtua Fighter 3.png</image>
+		<video>./snap/Virtua Fighter 3.mp4</video>
+		<marquee>./wheel/Virtua Fighter 3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>1</players>
-		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
-		<genreid>1537</genreid>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
 	</game>
 </gameList>

@@ -939,16 +939,6 @@ The characters level up automatically as they amass the necessary experience poi
 		<releasedate>00000000T000000</releasedate>
 		<cheevosHash>AC7D80DEE578E35E7011B54C5F0FB993</cheevosHash>
 	</game>
-	<game source="ScreenScraper">
-		<path>./Earthworm Jim - Special Edition (USA).chd</path>
-		<name>Earthworm Jim - Special Edition (USA)</name>
-		<image>./mixart/Earthworm Jim - Special Edition (USA).png</image>
-		<video>./snap/Earthworm Jim - Special Edition (USA).mp4</video>
-		<marquee>./wheel/Earthworm Jim - Special Edition (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<cheevosHash>FBD25C6C1F42973B214ACE4646C8632A</cheevosHash>
-	</game>
 	<game>
 		<path>./Ecco - The Tides of Time (USA).chd</path>
 		<name>Ecco: The Tides of Time</name>
@@ -3006,27 +2996,6 @@ Night Trap was the very first game that used the FMV (full-motion video) technol
 		<cheevosHash>3110D9F656697ADB3CBF5F1CB0D77E6F</cheevosHash>
 	</game>
 	<game>
-		<path>./Demolition Man (USA).chd</path>
-		<name>Demolition Man</name>
-		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
-
-Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
-
-The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</desc>
-		<image>./mixart/Demolition Man (USA).png</image>
-		<video>./snap/Demolition Man (USA).mp4</video>
-		<marquee>./wheel/Demolition Man (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950000T000000</releasedate>
-		<developer>Alexandria, Inc.</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E8A591459675BC15793B36847491C194</cheevosHash>
-	</game>
-	<game>
 		<path>./Flashback - The Quest for Identity (USA).chd</path>
 		<name>Flashback - The Quest for Identity (USA)</name>
 		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
@@ -3182,5 +3151,39 @@ Surgical Strike is an on-rails action shooter game that takes place against a fu
 		<publisher>Sega</publisher>
 		<genre>Action</genre>
 		<cheevosHash>4E27347BF0FDA02F027B316CDF6AEA83</cheevosHash>
+	</game>
+	<game source="ScreenScraper">
+		<path>./Earthworm Jim - Special Edition (USA).chd</path>
+		<name>Earthworm Jim - Special Edition (USA)</name>
+		<image>./mixart/Earthworm Jim - Special Edition (USA).png</image>
+		<video>./snap/Earthworm Jim - Special Edition (USA).mp4</video>
+		<marquee>./wheel/Earthworm Jim - Special Edition (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FBD25C6C1F42973B214ACE4646C8632A</cheevosHash>
+	</game>
+	<game>
+		<path>./Demolition Man (USA).chd</path>
+		<name>Demolition Man</name>
+		<desc>Demolition Man is a game based on the 1993 movie by the same name. As with the movie, the game takes place in a dystopian Los Angeles, in 1996. John Spartan is the country´s most fearsome cop and hunts his nemesis, Simon Phoenix. However in doing so, he kills several innocent civilians and both characters are sentenced to cryostasis rehabilitation where they will be brainwashed for 30 years. However the brainwashing does not go as planned and upon waking up, Phoenix goes on a new crime spree. However in 30 years the world has also changed and Los Angeles has become San Angeles, a utopian and violence-free society. As a remnant of a more violent past, police officer John Spartan is once again sent to capture Phoenix.
+
+Demolition Man is a fast-paced platform game, with some levels taking place in an overhead perspective (similar to Smash TV). As John Spartan, the player will spend most of his time shooting endless waves of "cryocons" released upon the antiseptic world of the future. The standard weapon can be upgraded with a shotgun and magnum, both with limited ammo. Additionally, various types of grenades can be collected, which are thrown independently of the firearm. Simon Phoenix appears as a boss character at the end of every level that is directly tied in with the movie.
+
+The Sega CD version of the game retains identical levels and gameplay, but adds digitized clips from the film to introduce levels and advance the plot.</desc>
+		<image>./mixart/Demolition Man (USA).png</image>
+		<video>./snap/Demolition Man (USA).mp4</video>
+		<marquee>./wheel/Demolition Man (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950000T000000</releasedate>
+		<developer>Alexandria, Inc.</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E8A591459675BC15793B36847491C194</cheevosHash>
 	</game>
 </gameList>

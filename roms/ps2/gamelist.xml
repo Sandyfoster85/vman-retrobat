@@ -7189,28 +7189,6 @@ Apart from the championship mode you can also play stage mode, allowing you to r
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="22791" source="ScreenScraper.fr">
-		<path>./Destruction Derby Arenas (USA).gz</path>
-		<name>Destruction Derby Arenas</name>
-		<desc>The PS1 Destruction Derby titles would put you in the seat of a high powered vehicle, in either an arena or a track, and the target was to race to the finish, while causing as much destruction to the other cars as possible. 
- 
-Now comes the PS2 sequel.  Because this is now on the PS2, the capabilities are much higher, so now there is a vastly improved graphics engine, physics engine, and levels. 
- 
-There are now loads of online play modes to try, with up to 19 other racers online with you, and now, the crashes are bigger than ever.</desc>
-		<image>./mixart/Destruction Derby Arenas (USA).png</image>
-		<video>./snap/Destruction Derby Arenas (USA).mp4</video>
-		<marquee>./wheel/Destruction Derby Arenas (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040401T000000</releasedate>
-		<developer>Studio 33</developer>
-		<publisher>Sony Computer Entertainment</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-20</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
-	</game>
 	<game id="23192" source="ScreenScraper.fr">
 		<path>./F1 Championship Season 2000 (USA).gz</path>
 		<name>F1 Championship Season 2000</name>
@@ -7691,5 +7669,27 @@ The characters represent the games King of Fighters, Fatal Fury, Mark of the Wol
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="22791" source="ScreenScraper.fr">
+		<path>./Destruction Derby Arenas (USA).gz</path>
+		<name>Destruction Derby Arenas</name>
+		<desc>The PS1 Destruction Derby titles would put you in the seat of a high powered vehicle, in either an arena or a track, and the target was to race to the finish, while causing as much destruction to the other cars as possible. 
+ 
+Now comes the PS2 sequel.  Because this is now on the PS2, the capabilities are much higher, so now there is a vastly improved graphics engine, physics engine, and levels. 
+ 
+There are now loads of online play modes to try, with up to 19 other racers online with you, and now, the crashes are bigger than ever.</desc>
+		<image>./mixart/Destruction Derby Arenas (USA).png</image>
+		<video>./snap/Destruction Derby Arenas (USA).mp4</video>
+		<marquee>./wheel/Destruction Derby Arenas (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040401T000000</releasedate>
+		<developer>Studio 33</developer>
+		<publisher>Sony Computer Entertainment</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-20</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

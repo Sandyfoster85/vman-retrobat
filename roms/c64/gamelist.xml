@@ -4896,17 +4896,6 @@
 		<image>./mixart/Sams Journey.png</image>
 		<video>./snap/Sams Journey.mp4</video>
 	</game>
-	<game id="110615" source="ScreenScraper.fr">
-		<path>./Samurai Warrior.d64</path>
-		<name>Samurai Warrior - The Battles of Usagi Yojimbo</name>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Beam Software</developer>
-		<publisher>Firebird</publisher>
-		<image>./mixart/Samurai Warrior.png</image>
-		<marquee>./wheel/Samurai Warrior.png</marquee>
-		<video>./snap/Samurai Warrior.mp4</video>
-	</game>
 	<game id="36471" source="ScreenScraper.fr">
 		<path>./Sanxion.d64</path>
 		<name>Sanxion</name>
@@ -8121,19 +8110,6 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<players>2</players>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Impossible Mission.d64</path>
-		<name>Impossible Mission</name>
-		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
-		<image>./mixart/Impossible Mission.png</image>
-		<video>./snap/Impossible Mission.mp4</video>
-		<marquee>./wheel/Impossible Mission.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Exploding Fist 2.d64</path>
 		<name>Exploding Fist 2</name>
@@ -8156,5 +8132,29 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<genre>Pinball-Simulation</genre>
 		<players>3</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Impossible Mission.d64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<image>./mixart/Impossible Mission.png</image>
+		<video>./snap/Impossible Mission.mp4</video>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="110615" source="ScreenScraper.fr">
+		<path>./Samurai Warrior.d64</path>
+		<name>Samurai Warrior - The Battles of Usagi Yojimbo</name>
+		<image>./mixart/Samurai Warrior.png</image>
+		<video>./snap/Samurai Warrior.mp4</video>
+		<marquee>./wheel/Samurai Warrior.png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Beam Software</developer>
+		<publisher>Firebird</publisher>
 	</game>
 </gameList>

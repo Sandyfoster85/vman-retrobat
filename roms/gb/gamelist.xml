@@ -6879,29 +6879,6 @@ The game is a right-to-left scrolling shoot-em-up. You can choose from 4 differe
 		<region>us</region>
 		<cheevosHash>0A1CBC05D75C2BD3E01AAD3ACB4E4019</cheevosHash>
 	</game>
-	<game id="3110" source="ScreenScraper.fr">
-		<path>./Kirby's Pinball Land (USA, Europe).7z</path>
-		<name>Kirby's Pinball Land</name>
-		<desc>Kirby's Pinball Land is a game of pinball based on the Kirby series of games, with Kirby as the ball.  In the game you have to help Kirby defeat King Dedede and the three bosses who each guard one of the Pinball Lands.  
-
-The game is divided into three tables or Pinball Lands, each consisting of four screens, three ordinary screens, and a boss screen  If you fall off the bottom of the lowest one, you lose a life, unless you press A at the right moment to activate the springboard, which becomes harder each time.  Each screen has a variety of things to do.  The middle screen will give access to some sort of bonus game, where you must try to get as many points as you can, and can add to your bonus and bonus multiplier.  The bonus is added to your score when you lose a life, as in ordinary pinball.
-
-The aim is to defeat each boss.  To get to the boss you must perform a task on the top ordinary screen.  The bosses themselves must be defeated by firing Kirby at them, but they will try to stop you, sometimes by temporarily de-activating one or both of the flippers.  If you defeat the boss on each table, you face Kind Dedede himself.</desc>
-		<image>./mixart/Kirby's Pinball Land (USA, Europe).png</image>
-		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
-		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate />
-		<developer>HAL Laboratory, Inc.</developer>
-		<publisher>Nintendo of America Inc.</publisher>
-		<genre>Various-Action-Pinball</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
-		<cheevosId>708</cheevosId>
-	</game>
 	<game id="3476" source="ScreenScraper.fr">
 		<path>./Bonk's Adventure (USA).7z</path>
 		<name>Bonk's Adventure</name>
@@ -9756,7 +9733,7 @@ The NES version of this game also has an additional VS. fighting mode for one or
 		<video>./snap/Double Dragon (USA, Europe).mp4</video>
 		<marquee>./wheel/Double Dragon (USA, Europe).png</marquee>
 		<rating>0.65</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Technos Japan Corp.</developer>
 		<publisher>Tradewest, Inc.</publisher>
 		<genre>Sports-Action-Beat'em Up</genre>
@@ -9796,7 +9773,7 @@ Based on international teams (with fictional player names), their abilities in e
 		<image>./mixart/FIFA International Soccer (USA, Europe).png</image>
 		<video>./snap/FIFA International Soccer (USA, Europe).mp4</video>
 		<rating>0.6</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Extended Play Productions</developer>
 		<publisher>Malibu Games</publisher>
 		<genre>Sports</genre>
@@ -10016,7 +9993,7 @@ The combat system is similar to other fighting games, with various combinations 
 		<video>./snap/Golf (World).mp4</video>
 		<marquee>./wheel/Golf (World).png</marquee>
 		<rating>0.7</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Intelligent Systems Co., Ltd.</developer>
 		<publisher>Nintendo of America Inc.</publisher>
 		<genre>Shoot'em Up-Sports</genre>
@@ -10129,5 +10106,28 @@ Another feature exclusive to the Game Boy version are Tournaments.  You can ente
 		<region>eu</region>
 		<cheevosHash>C7920EB4B478C4D7513F2F43B7DBB9CF</cheevosHash>
 		<cheevosId>734</cheevosId>
+	</game>
+	<game id="3110" source="ScreenScraper.fr">
+		<path>./Kirby's Pinball Land (USA, Europe).7z</path>
+		<name>Kirby's Pinball Land</name>
+		<desc>Kirby's Pinball Land is a game of pinball based on the Kirby series of games, with Kirby as the ball.  In the game you have to help Kirby defeat King Dedede and the three bosses who each guard one of the Pinball Lands.  
+
+The game is divided into three tables or Pinball Lands, each consisting of four screens, three ordinary screens, and a boss screen  If you fall off the bottom of the lowest one, you lose a life, unless you press A at the right moment to activate the springboard, which becomes harder each time.  Each screen has a variety of things to do.  The middle screen will give access to some sort of bonus game, where you must try to get as many points as you can, and can add to your bonus and bonus multiplier.  The bonus is added to your score when you lose a life, as in ordinary pinball.
+
+The aim is to defeat each boss.  To get to the boss you must perform a task on the top ordinary screen.  The bosses themselves must be defeated by firing Kirby at them, but they will try to stop you, sometimes by temporarily de-activating one or both of the flippers.  If you defeat the boss on each table, you face Kind Dedede himself.</desc>
+		<image>./mixart/Kirby's Pinball Land (USA, Europe).png</image>
+		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
+		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate></releasedate>
+		<developer>HAL Laboratory, Inc.</developer>
+		<publisher>Nintendo of America Inc.</publisher>
+		<genre>Various-Action-Pinball</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
+		<cheevosId>708</cheevosId>
 	</game>
 </gameList>

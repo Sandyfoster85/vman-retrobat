@@ -7,21 +7,6 @@
 		<web>http://www.screenscraper.fr</web>
 	</provider>
 	<game>
-		<path>./Armor Battle.mgw</path>
-		<name>Armor Battle</name>
-		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
-		<image>./mixart/Armor Battle.png</image>
-		<video>./snap/Armor Battle.mp4</video>
-		<marquee>./wheel/Armor Battle.png</marquee>
-		<rating>0</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
 		<path>./Banana.mgw</path>
 		<name>Banana</name>
 		<desc>Move a busy thrash man around the street to clean banana peels. When a pedestrian falls on a banana peel, one miss is scored. Five misses and game ends.
@@ -688,7 +673,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Lifeboat (Nintendo, Multi Screen).mp4</video>
 		<marquee>./wheel/Lifeboat (Nintendo, Multi Screen).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
@@ -704,7 +689,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Motor Cross.mp4</video>
 		<marquee>./wheel/Motor Cross.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Queentex</developer>
 		<publisher>Queentex</publisher>
 		<genre>Action</genre>
@@ -719,7 +704,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Pac Man.mp4</video>
 		<marquee>./wheel/Pac Man.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Tomytronic</developer>
 		<publisher>Tomytronic</publisher>
 		<genre>Action</genre>
@@ -734,7 +719,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Pancake.mp4</video>
 		<marquee>./wheel/Pancake.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -766,7 +751,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Pirate.mp4</video>
 		<marquee>./wheel/Pirate.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -781,7 +766,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Roller Coaster.mp4</video>
 		<marquee>./wheel/Roller Coaster.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -796,7 +781,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Tennis Menace.mp4</video>
 		<marquee>./wheel/Tennis Menace.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -812,11 +797,26 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Turtle Bridge (Nintendo, Wide Screen).mp4</video>
 		<marquee>./wheel/Turtle Bridge (Nintendo, Wide Screen).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Armor Battle.mgw</path>
+		<name>Armor Battle</name>
+		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
+		<image>./mixart/Armor Battle.png</image>
+		<video>./snap/Armor Battle.mp4</video>
+		<marquee>./wheel/Armor Battle.png</marquee>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>

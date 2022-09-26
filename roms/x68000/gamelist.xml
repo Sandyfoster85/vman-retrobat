@@ -709,87 +709,6 @@ The game was later also released as part of a compilation called Taito Legends 2
 		<genre />
 		<players />
 	</game>
-	<game id="47878" source="ScreenScraper.fr">
-		<path>./Vagrant Fighter FX.m3u</path>
-		<name>Vagrant Fighter FX</name>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Hong Kong Project - NKTF</publisher>
-		<hash>D74748AC</hash>
-		<image>./mixart/Vagrant Fighter FX.png</image>
-		<marquee>./wheel/Vagrant Fighter FX.png</marquee>
-		<video>./snap/Vagrant Fighter FX.mp4</video>
-	</game>
-	<game id="47881" source="ScreenScraper.fr">
-		<path>./View Point.m3u</path>
-		<name>View Point</name>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Nexus</publisher>
-		<hash>AB83B88A</hash>
-		<image>./mixart/View Point.png</image>
-		<marquee>./wheel/View Point.png</marquee>
-		<video>./snap/View Point.mp4</video>
-	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Xenon 2 Megablast.m3u</path>
-		<name>Xenon 2 Megablast</name>
-		<desc />
-		<rating>0</rating>
-		<releasedate />
-		<developer />
-		<publisher />
-		<image>./mixart/Xenon 2 Megablast.png</image>
-		<marquee>./wheel/Xenon 2 Megablast.png</marquee>
-		<video>./snap/Xenon 2 Megablast.mp4</video>
-		<genre />
-		<players />
-	</game>
-	<game id="47897" source="ScreenScraper.fr">
-		<path>./X-Type (1990)(Sprite).m3u</path>
-		<name>X-Type</name>
-		<rating>0</rating>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>Sprite</publisher>
-		<hash>76F303B6</hash>
-		<image>./mixart/X-Type (1990)(Sprite).png</image>
-		<marquee>./wheel/X-Type (1990)(Sprite).png</marquee>
-		<video>./snap/X-Type (1990)(Sprite).mp4</video>
-	</game>
-	<game id="47916" source="ScreenScraper.fr">
-		<path>./Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).m3u</path>
-		<name>Zero Master-Striker</name>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<publisher>Kazuyuki Shinjuki Gumi</publisher>
-		<hash>7959B7A5</hash>
-		<image>./mixart/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).png</image>
-		<marquee>./wheel/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).png</marquee>
-		<video>./snap/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).mp4</video>
-	</game>
-	<game id="47917" source="ScreenScraper.fr">
-		<path>./Zero Rei (1994)(Kazuyuki Shinjuki Gumi).m3u</path>
-		<name>Zero Rei</name>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<publisher>Kazuyuki Shinjuki Gumi</publisher>
-		<hash>035411DD</hash>
-		<image>./mixart/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).png</image>
-		<marquee>./wheel/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).png</marquee>
-		<video>./snap/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).mp4</video>
-	</game>
-	<game id="47920" source="ScreenScraper.fr">
-		<path>./Zugya (1996)(Sprite).m3u</path>
-		<name>Zugya</name>
-		<desc>Zugya est un shoot'em up à scrolling multidirectionnel, dans lequel vous allez devoir détruire des modules à la structure de plus en plus complexe tout au long des 50 niveaux que comporte le jeu.</desc>
-		<rating>0</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Sprite</publisher>
-		<hash>58AA5226</hash>
-		<image>./mixart/Zugya (1996)(Sprite).png</image>
-		<marquee>./wheel/Zugya (1996)(Sprite).png</marquee>
-		<video>./snap/Zugya (1996)(Sprite).mp4</video>
-	</game>
 	<game>
 		<path>./Cyber Field (1993)(Saijou Satoshi).m3u</path>
 		<name>Cyber Field</name>
@@ -1324,6 +1243,113 @@ The player has the choice between four insect forms which are changed by collect
 		<region>jp</region>
 	</game>
 	<game>
+		<path>./Super Street Bomber X (19xx)(Dragon Studio)[Req Install].m3u</path>
+		<name>Super Street Bomber X</name>
+		<desc>Super Street Bomber X (19xx)(Dragon Studio) for Sharp X68000.</desc>
+		<image>./mixart/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</image>
+		<video>./snap/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].mp4</video>
+		<marquee>./wheel/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</marquee>
+		<releasedate />
+		<publisher>Dragon Studio</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>262</genreid>
+	</game>
+	<game id="47878" source="ScreenScraper.fr">
+		<path>./Vagrant Fighter FX.m3u</path>
+		<name>Vagrant Fighter FX</name>
+		<image>./mixart/Vagrant Fighter FX.png</image>
+		<video>./snap/Vagrant Fighter FX.mp4</video>
+		<marquee>./wheel/Vagrant Fighter FX.png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Hong Kong Project - NKTF</publisher>
+		<crc32>D74748AC</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47881" source="ScreenScraper.fr">
+		<path>./View Point.m3u</path>
+		<name>View Point</name>
+		<image>./mixart/View Point.png</image>
+		<video>./snap/View Point.mp4</video>
+		<marquee>./wheel/View Point.png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Nexus</publisher>
+		<favorite>true</favorite>
+		<crc32>AB83B88A</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47897" source="ScreenScraper.fr">
+		<path>./X-Type (1990)(Sprite).m3u</path>
+		<name>X-Type</name>
+		<image>./mixart/X-Type (1990)(Sprite).png</image>
+		<video>./snap/X-Type (1990)(Sprite).mp4</video>
+		<marquee>./wheel/X-Type (1990)(Sprite).png</marquee>
+		<rating>0</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Sprite</publisher>
+		<crc32>76F303B6</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Xenon 2 Megablast.m3u</path>
+		<name>Xenon 2 Megablast</name>
+		<image>./mixart/Xenon 2 Megablast.png</image>
+		<video>./snap/Xenon 2 Megablast.mp4</video>
+		<marquee>./wheel/Xenon 2 Megablast.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47916" source="ScreenScraper.fr">
+		<path>./Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).m3u</path>
+		<name>Zero Master-Striker</name>
+		<image>./mixart/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).png</image>
+		<video>./snap/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).mp4</video>
+		<marquee>./wheel/Zero Master-Striker v1.0 (1992)(Kazuyuki Shinjuki Gumi).png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Kazuyuki Shinjuki Gumi</publisher>
+		<crc32>7959B7A5</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47917" source="ScreenScraper.fr">
+		<path>./Zero Rei (1994)(Kazuyuki Shinjuki Gumi).m3u</path>
+		<name>Zero Rei</name>
+		<image>./mixart/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).png</image>
+		<video>./snap/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).mp4</video>
+		<marquee>./wheel/Zero Rei (1994)(Kazuyuki Shinjuki Gumi).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<publisher>Kazuyuki Shinjuki Gumi</publisher>
+		<crc32>035411DD</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="47920" source="ScreenScraper.fr">
+		<path>./Zugya (1996)(Sprite).m3u</path>
+		<name>Zugya</name>
+		<desc>Zugya est un shoot'em up à scrolling multidirectionnel, dans lequel vous allez devoir détruire des modules à la structure de plus en plus complexe tout au long des 50 niveaux que comporte le jeu.</desc>
+		<image>./mixart/Zugya (1996)(Sprite).png</image>
+		<video>./snap/Zugya (1996)(Sprite).mp4</video>
+		<marquee>./wheel/Zugya (1996)(Sprite).png</marquee>
+		<rating>0</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Sprite</publisher>
+		<crc32>58AA5226</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
 		<path>./Pac-Men (1995)(XYZ).m3u</path>
 		<name>Pac-Men</name>
 		<image>./mixart/Pac-Men (1995)(XYZ).png</image>
@@ -1335,19 +1361,5 @@ The player has the choice between four insect forms which are changed by collect
 		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
-	</game>
-	<game>
-		<path>./Super Street Bomber X (19xx)(Dragon Studio)[Req Install].m3u</path>
-		<name>Super Street Bomber X</name>
-		<desc>Super Street Bomber X (19xx)(Dragon Studio) for Sharp X68000.</desc>
-		<image>./mixart/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</image>
-		<video>./snap/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].mp4</video>
-		<marquee>./wheel/Super Street Bomber X (19xx)(Dragon Studio)[Req Install].png</marquee>
-		<releasedate></releasedate>
-		<publisher>Dragon Studio</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<genreid>262</genreid>
 	</game>
 </gameList>

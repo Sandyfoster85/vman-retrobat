@@ -23,21 +23,6 @@ Like most other Addams Family incarnations, this is a side-scrolling action game
 		<crc32>418CFA3F</crc32>
 		<cheevosHash>4FB8F418D48B3FB210BD072B8BC1E25E</cheevosHash>
 	</game>
-	<game id="14483" source="ScreenScraper.fr">
-		<path>./Ai Chou Aniki.chd</path>
-		<name>Ai Cho Aniki</name>
-		<desc>The sequel to the first Cho Aniki (Super Big Brother) game, this is very Japanese in its bizarreness. It's a shoot ?em up, with the player taking the role of an almost nude muscle-man (Adon) or his brother (Samson) in a 2 player game. Their main weapon is a ball of energy that grows over a hole in their heads and shoots out towards any advancing enemies. Other, more powerful shots are achieved by a combination of back-forward-fire, down-up-fire etc on the pad. Through the levels you will encounter all manner of nasties out to get you, but you are aided by a woman in blue that flies around and drops power-ups conveniently for you. Also, levels vary from the standard left-to-right to vertically scrolling.</desc>
-		<image>./mixart/Ai Chou Aniki.png</image>
-		<video>./snap/Ai Chou Aniki.mp4</video>
-		<marquee>./wheel/Ai Chou Aniki.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950224T000000</releasedate>
-		<developer>Masaya</developer>
-		<publisher>NCS Corp</publisher>
-		<players>2</players>
-		<crc32>00000000</crc32>
-		<cheevosHash>28F34CA22376E3A35F57DB5C6D2AEFA3</cheevosHash>
-	</game>
 	<game>
 		<path>./Akumajou Dracula X - Chi no Rondo.chd</path>
 		<name>Akumajou Dracula X - Chi no Rondo</name>
@@ -2581,5 +2566,21 @@ The analysis of the spectrum revealed the most fearful data about the unidentifi
 		<crc32>00000000</crc32>
 		<lang>en</lang>
 		<cheevosHash>8902F37DD389FDD84ACA1A6D556ACF42</cheevosHash>
+	</game>
+	<game id="14483" source="ScreenScraper.fr">
+		<path>./Ai Chou Aniki.chd</path>
+		<name>Ai Cho Aniki</name>
+		<desc>The sequel to the first Cho Aniki (Super Big Brother) game, this is very Japanese in its bizarreness. It's a shoot ?em up, with the player taking the role of an almost nude muscle-man (Adon) or his brother (Samson) in a 2 player game. Their main weapon is a ball of energy that grows over a hole in their heads and shoots out towards any advancing enemies. Other, more powerful shots are achieved by a combination of back-forward-fire, down-up-fire etc on the pad. Through the levels you will encounter all manner of nasties out to get you, but you are aided by a woman in blue that flies around and drops power-ups conveniently for you. Also, levels vary from the standard left-to-right to vertically scrolling.</desc>
+		<image>./mixart/Ai Chou Aniki.png</image>
+		<video>./snap/Ai Chou Aniki.mp4</video>
+		<marquee>./wheel/Ai Chou Aniki.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950224T000000</releasedate>
+		<developer>Masaya</developer>
+		<publisher>NCS Corp</publisher>
+		<players>2</players>
+		<crc32>00000000</crc32>
+		<lang>en</lang>
+		<cheevosHash>28F34CA22376E3A35F57DB5C6D2AEFA3</cheevosHash>
 	</game>
 </gameList>

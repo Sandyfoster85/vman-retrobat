@@ -587,27 +587,6 @@ This game supports up to 4 simultaneous players, and has the following game mode
 		<cheevosHash>B3788F861803D21CFA0E559695835F44</cheevosHash>
 	</game>
 	<game>
-		<path>./Blackthorne (USA).7z</path>
-		<name>Blackthorne</name>
-		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
-
-This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Blackthorne (USA).png</image>
-		<video>./snap/Blackthorne (USA).mp4</video>
-		<marquee>./wheel/Blackthorne (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
-	</game>
-	<game>
 		<path>./Zaxxon's Motherbase 2000 (Japan, USA).7z</path>
 		<name>Zaxxon's Motherbase 2000</name>
 		<desc>This 32X-exclusive sci-fi shooter has gameplay is somewhat like Sega arcade classic Zaxxon. The graphics consist of a diagonally scrolling playfield which creates a pseudo 3D environment.  The backgrounds are drawn using 2D scrolling planes, but the enemy and ship objects are drawn using 3D flat-shaded polygons.
@@ -646,5 +625,26 @@ Some of the missions take place in deep space, around asteroids, or near Star De
 		<region>us</region>
 		<cheevosHash>AE3A42C6297EF25C6018A209FDA0194E</cheevosHash>
 		<cheevosId>14206</cheevosId>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).7z</path>
+		<name>Blackthorne</name>
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Blackthorne (USA).png</image>
+		<video>./snap/Blackthorne (USA).mp4</video>
+		<marquee>./wheel/Blackthorne (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
 	</game>
 </gameList>

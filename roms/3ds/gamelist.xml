@@ -326,20 +326,6 @@ Get Ready For The Wave Ride Of Your Life!
 		<developer>Corecell Technology</developer>
 		<genre>Action Platformer</genre>
 	</game>
-	<game id="12084" source="ScreenScraper.fr">
-		<path>./Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).3ds</path>
-		<name>The Legend of Zelda - Tri Force Heroes</name>
-		<desc>In the visual style of the critically-acclaimed The Legend of Zelda: A Link Between Worlds game comes a new adventure. In this journey, three players team up, each as Link, to cooperatively make their way through inventive dungeons and battle bosses. Use the new Totem mechanic to stack three Links on top of each other to reach higher grounds and solve puzzles. Collect loot to create wearable outfits, each with a different boost or ability.</desc>
-		<image>./mixart/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).png</image>
-		<video>./snap/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).png</marquee>
-		<releasedate>20151023T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Puzzle-Game</genre>
-		<favorite>true</favorite>
-		<genreid>768</genreid>
-	</game>
 	<game id="10997" source="ScreenScraper.fr">
 		<path>./The Legend of Zelda - A Link Between Worlds (Usa).3ds</path>
 		<name>The Legend of Zelda - A Link Between Worlds</name>
@@ -2090,23 +2076,6 @@ In this ultimate showdown you can take on the road, blaze through the 7 new game
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Metroid - Samus Returns (USA).3ds</path>
-		<name>Metroid : Samus Returns</name>
-		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
-The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
-		<image>./mixart/Metroid - Samus Returns (USA).png</image>
-		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
-		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20170915T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./Mighty Gunvolt (USA).3ds</path>
 		<name>Mighty Gunvolt</name>
@@ -3454,6 +3423,36 @@ As you explore the world, use your Yo-kai Watch to find them, befriend them, and
 		<region>us</region>
 		<genreid>768</genreid>
 	</game>
+	<game id="11030" source="ScreenScraper.fr">
+		<path>./Super Mario 3D Land (U).3ds</path>
+		<name>Super Mario 3D Land</name>
+		<desc>Super Mario 3D Land is a platform game that has been described by game designer Shigeru Miyamoto as a "3D Mario that plays as a 2D Mario game." As such, Super Mario 3D Land combines the elements of traditional side-scrolling Mario titles, such as linear-based levels, with those of the modern open world Mario titles, such as moving Mario in three dimensions and performing a variety of actions. Similar to the classic side-scrolling Mario games, the objective of each level is to reach and grab the "Goal Pole" located at the end of the course before the time limit expires. Super Mario 3D Land utilizes a similar health system to those games, in which Mario shrinks upon taking damage from enemies or hazards, and damage while as "Small Mario" results in losing a life.</desc>
+		<image>./mixart/Super Mario 3D Land (U).png</image>
+		<video>./snap/Super Mario 3D Land (U).mp4</video>
+		<marquee>./wheel/Super Mario 3D Land (U).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20111113T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<genreid>257</genreid>
+	</game>
+	<game id="12084" source="ScreenScraper.fr">
+		<path>./Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).3ds</path>
+		<name>The Legend of Zelda - Tri Force Heroes</name>
+		<desc>In the visual style of the critically-acclaimed The Legend of Zelda: A Link Between Worlds game comes a new adventure. In this journey, three players team up, each as Link, to cooperatively make their way through inventive dungeons and battle bosses. Use the new Totem mechanic to stack three Links on top of each other to reach higher grounds and solve puzzles. Collect loot to create wearable outfits, each with a different boost or ability.</desc>
+		<image>./mixart/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).png</image>
+		<video>./snap/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Tri Force Heroes (USA) (En,Fr,Es).png</marquee>
+		<releasedate>20151023T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Puzzle-Game</genre>
+		<favorite>true</favorite>
+		<genreid>768</genreid>
+	</game>
 	<game id="11038" source="ScreenScraper.fr">
 		<path>./Mario &amp; Luigi - Dream Team (Usa).3ds</path>
 		<name>Mario &amp; Luigi: Dream Team</name>
@@ -3499,20 +3498,21 @@ Features:
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="11030" source="ScreenScraper.fr">
-		<path>./Super Mario 3D Land (U).3ds</path>
-		<name>Super Mario 3D Land</name>
-		<desc>Super Mario 3D Land is a platform game that has been described by game designer Shigeru Miyamoto as a "3D Mario that plays as a 2D Mario game." As such, Super Mario 3D Land combines the elements of traditional side-scrolling Mario titles, such as linear-based levels, with those of the modern open world Mario titles, such as moving Mario in three dimensions and performing a variety of actions. Similar to the classic side-scrolling Mario games, the objective of each level is to reach and grab the "Goal Pole" located at the end of the course before the time limit expires. Super Mario 3D Land utilizes a similar health system to those games, in which Mario shrinks upon taking damage from enemies or hazards, and damage while as "Small Mario" results in losing a life.</desc>
-		<image>./mixart/Super Mario 3D Land (U).png</image>
-		<video>./snap/Super Mario 3D Land (U).mp4</video>
-		<marquee>./wheel/Super Mario 3D Land (U).png</marquee>
+	<game>
+		<path>./Metroid - Samus Returns (USA).3ds</path>
+		<name>Metroid : Samus Returns</name>
+		<desc>Metroid: Samus Returns is a side-scrolling action-adventure video game developed collaboratively by MercurySteam and Nintendo, with the latter also publishing it for the Nintendo 3DS handheld game console. A part of the science fiction Metroid series, the game is a reimagining of the 1991 Game Boy game Metroid II: Return of Samus, and was released worldwide on 15 September 2017. It follows series protagonist Samus Aran, who is sent by the Galactic Federation to exterminate the parasitic Metroids on their home planet of SR388. 
+The game features a story and structure similar to Metroid II but with new controls, visuals, and gameplay. It also introduces some features that are new to the 2D Metroid games, such as melee counterattacks, an ability to fire freely at any angle, and a selection of different abilities. The development on Samus Returns began in 2015, with longtime Metroid developer Yoshio Sakamoto producing it. The game was met with positive reception from video game journalists, who praised its visuals and improved gameplay over the original game, with many viewing it as a return to form for the series.</desc>
+		<image>./mixart/Metroid - Samus Returns (USA).png</image>
+		<video>./snap/Metroid - Samus Returns (USA).mp4</video>
+		<marquee>./wheel/Metroid - Samus Returns (USA).png</marquee>
 		<rating>0.8</rating>
-		<releasedate>20111113T000000</releasedate>
+		<releasedate>20170915T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Platform</genre>
-		<players>1</players>
 		<favorite>true</favorite>
-		<genreid>257</genreid>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

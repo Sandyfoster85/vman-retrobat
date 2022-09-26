@@ -2026,23 +2026,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<cheevosHash>6311BDA4830FADFB4CB19BB64E0AAABC</cheevosHash>
 	</game>
 	<game>
-		<path>./neodrift.zip</path>
-		<name>Neo Drift Out - New Technology</name>
-		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
-		<image>./mixart/neodrift.png</image>
-		<video>./snap/neodrift.mp4</video>
-		<marquee>./wheel/neodrift.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving-Race, Driving / Race</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>49608F90881C51825B3BD2C414F21FBA</cheevosHash>
-		<cheevosId>12323</cheevosId>
-	</game>
-	<game>
 		<path>./turfmast.zip</path>
 		<name>Neo Turf Masters</name>
 		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
@@ -2250,44 +2233,6 @@ You are on a time limit. If you run out of time, a black creature appears out of
 		<cheevosId>11758</cheevosId>
 	</game>
 	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X - Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
-		<cheevosId>11770</cheevosId>
-	</game>
-	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers - 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
-
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
-		<image>./mixart/shocktr2.png</image>
-		<video>./snap/shocktr2.mp4</video>
-		<marquee>./wheel/shocktr2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
-		<cheevosId>11768</cheevosId>
-	</game>
-	<game>
 		<path>./kof2000.zip</path>
 		<name>The King of Fighters 2000</name>
 		<desc>The final King of Fighters game released by SNK in its original state, The King of Fighters 2000 expands on the story and gameplay presented in The King of Fighters '99. This year's tournament is sponsored by the Ikari Warriors in an attempt to discover more about the NESTS organization, and to derail the plans of potential NESTS agents K' and Maxima. Not everything is as straight-forward as it usually is, however, and even the Ikari Warriors themselves are at risk of being betrayed from within by the end of the tournament.</desc>
@@ -2320,5 +2265,60 @@ One or two players (in hot-seat or cooperative mode) control a spaceship equippe
 		<players>2</players>
 		<cheevosHash>333B300098A4E424071B500CE1CB4E05</cheevosHash>
 		<cheevosId>13821</cheevosId>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
+		<cheevosId>11770</cheevosId>
+	</game>
+	<game>
+		<path>./neodrift.zip</path>
+		<name>Neo Drift Out - New Technology</name>
+		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
+		<image>./mixart/neodrift.png</image>
+		<video>./snap/neodrift.mp4</video>
+		<marquee>./wheel/neodrift.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving-Race, Driving / Race</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>49608F90881C51825B3BD2C414F21FBA</cheevosHash>
+		<cheevosId>12323</cheevosId>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
+		<image>./mixart/shocktr2.png</image>
+		<video>./snap/shocktr2.mp4</video>
+		<marquee>./wheel/shocktr2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
+		<cheevosId>11768</cheevosId>
 	</game>
 </gameList>

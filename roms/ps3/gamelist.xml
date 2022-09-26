@@ -1744,22 +1744,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Daytona USA.m3u</path>
-		<name>Daytona USA</name>
-		<desc>It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona® USA features enhanced graphics, tracks for all skill levels, and the original hit soundtrack! Save your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends in up to eight player online races or the whole world via online leaderboards! New Coat of Paint:Now with enhanced graphics, Daytona® USA gives you a classically updated, retro look in 16:9 widescreen. Classic Arcade Experience:Race your AI opponents in classic Arcade Mode, beat the clock in Survival and Time Trial modes or sing along to your favorite Daytona songs in Karaoke mode! Multiplayer Madness.</desc>
-		<image>./mixart/Daytona USA.png</image>
-		<video>./snap/Daytona USA.mp4</video>
-		<marquee>./wheel/Daytona USA.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111125T000000</releasedate>
-		<developer>Sega AM2</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Everybody's Golf - World Tour.m3u</path>
 		<name>Everybody's Golf - World Tour</name>
 		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
@@ -1960,6 +1944,22 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>505 Games</publisher>
 		<genre>Racing, Shooter</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Daytona USA.m3u</path>
+		<name>Daytona USA</name>
+		<desc>It’s time to get revved up with Daytona USA! Based on the classic arcade title, Daytona® USA features enhanced graphics, tracks for all skill levels, and the original hit soundtrack! Save your quarters - we’re bringing the arcade straight to your living room with steering wheel and multiplayer support. Challenge your friends in up to eight player online races or the whole world via online leaderboards! New Coat of Paint:Now with enhanced graphics, Daytona® USA gives you a classically updated, retro look in 16:9 widescreen. Classic Arcade Experience:Race your AI opponents in classic Arcade Mode, beat the clock in Survival and Time Trial modes or sing along to your favorite Daytona songs in Karaoke mode! Multiplayer Madness.</desc>
+		<image>./mixart/Daytona USA.png</image>
+		<video>./snap/Daytona USA.mp4</video>
+		<marquee>./wheel/Daytona USA.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111125T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -3795,23 +3795,6 @@ Join Rana, Captain Bluebell and Mr Yoho as they deal outsky-pirate justice! Make
 		<genre>Compilation</genre>
 		<genreid>3840</genreid>
 	</game>
-	<game>
-		<path>./Pac-Man Championship Edition.cso</path>
-		<name>Pac-man Championship Edition</name>
-		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences. 
- 
-The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
-		<image>./mixart/Pac-Man Championship Edition.png</image>
-		<video>./snap/Pac-Man Championship Edition.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Bandai Namco</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Action-Action / Labyrinth-Various</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="29311" source="ScreenScraper.fr">
 		<path>./Let's Golf.cso</path>
 		<name>Let's Golf!</name>
@@ -4122,7 +4105,7 @@ The unique built-in game editor offers unlimited level design possibilities; you
 		<image>./mixart/Music Quiz.png</image>
 		<video>./snap/Music Quiz.mp4</video>
 		<marquee>./wheel/Music Quiz.png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="144585" source="ScreenScraper.fr">
@@ -4169,5 +4152,22 @@ It was later released on the PlayStation Network for the PlayStation Portable an
 		<genre>Shooter-Shooter / 1st person</genre>
 		<lang>en</lang>
 		<genreid>259</genreid>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition.cso</path>
+		<name>Pac-man Championship Edition</name>
+		<desc>Pac-Man Championship Edition is similar in basic gameplay to the original 1980 Pac-Man: players have to eat dots, while avoiding the four ghosts that roam around the maze. Championship Edition, however, also brings many gameplay differences. 
+ 
+The game was designed by the creator of the classic original 1980 arcade game Pac-Man, and it was Iwatani's final game before his retirement.</desc>
+		<image>./mixart/Pac-Man Championship Edition.png</image>
+		<video>./snap/Pac-Man Championship Edition.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Bandai Namco</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Action-Action / Labyrinth-Various</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

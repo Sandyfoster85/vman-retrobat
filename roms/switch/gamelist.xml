@@ -544,22 +544,6 @@ Slash through legions of enemies unleashing devastating blows worthy of Dynasty 
 		<players>4</players>
 		<lang>en</lang>
 	</game>
-	<game id="198483">
-		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
-		<name>Legend Of Zelda - Links Awakening, The</name>
-		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
-		<image>./mixart/The_Legend_of_Zelda_Links_Awakening-image.png</image>
-		<video>./snap/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
-		<marquee>./wheel/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20190920T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action / Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Speedway Heroes.xci</path>
 		<name>Speedway Heroes</name>
@@ -624,22 +608,6 @@ Start now your speedway adventure through countries like every speedway-fan shou
 		<developer>Gelato Games</developer>
 		<publisher>Gelato Games</publisher>
 		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Gunlord X.xci</path>
-		<name>Gunlord X</name>
-		<desc>This game features 11 stages of exciting 2D game play with over 60 unique enemy types. Blast yourself through giant landscapes, explore caverns and reveal all secrets! The critically acclaimed platform action game Gunlord developed by NGDEV in 2012 comes back to the Switch in 2019. The game received an intense "Hi-Bit" overhaul for modern game consoles in a widescreen format. Additionally new boss enemies and extended stages were added. Here’s a quick overview feature list: • Significantly increased level size of the later levels offering new secrets and challenges. • 4 new boss enemies • Added a completely new horizontal jet pack stage • Permanent continue and shortcut/level warp unlocks by collecting all big diamonds in stage.  • Auto save and level select features (you can revisit already beat stages at any time) • Accomplishments screens and statistics screens for speedrunners • Limited enemy respawns to essential enemies. • Added Newgame+ (for speedrunning and new secrets) • Increased the viewport to widescreen • Improved viewport scrolling • Scanline/RGB CRT TV shader • Increased sprite/particle effects • Added alpha blending special FX (Hi-Bit "32-bit" style) • Added parallax scrolling elements • Added new music tracks • Improved controls (direct control over the 360° snake beam with R Stick) • Optional modern twin stick controls (control movement and shooting direction independently) • Fully customizable controls • Improved difficulty curve especially on bosses • Rebalanced weapon powerlevels • Added a new power shot weapon</desc>
-		<image>./mixart/Gunlord X.jpg</image>
-		<video>./snap/Gunlord X.mp4</video>
-		<marquee>./wheel/Gunlord X.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20191106T000000</releasedate>
-		<developer>NGDEV</developer>
-		<publisher>NGDEV</publisher>
-		<genre>Action, Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -1152,6 +1120,38 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Raw Thrills</publisher>
 		<genre>Racing</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gunlord X.xci</path>
+		<name>Gunlord X</name>
+		<desc>This game features 11 stages of exciting 2D game play with over 60 unique enemy types. Blast yourself through giant landscapes, explore caverns and reveal all secrets! The critically acclaimed platform action game Gunlord developed by NGDEV in 2012 comes back to the Switch in 2019. The game received an intense "Hi-Bit" overhaul for modern game consoles in a widescreen format. Additionally new boss enemies and extended stages were added. Here’s a quick overview feature list: • Significantly increased level size of the later levels offering new secrets and challenges. • 4 new boss enemies • Added a completely new horizontal jet pack stage • Permanent continue and shortcut/level warp unlocks by collecting all big diamonds in stage.  • Auto save and level select features (you can revisit already beat stages at any time) • Accomplishments screens and statistics screens for speedrunners • Limited enemy respawns to essential enemies. • Added Newgame+ (for speedrunning and new secrets) • Increased the viewport to widescreen • Improved viewport scrolling • Scanline/RGB CRT TV shader • Increased sprite/particle effects • Added alpha blending special FX (Hi-Bit "32-bit" style) • Added parallax scrolling elements • Added new music tracks • Improved controls (direct control over the 360° snake beam with R Stick) • Optional modern twin stick controls (control movement and shooting direction independently) • Fully customizable controls • Improved difficulty curve especially on bosses • Rebalanced weapon powerlevels • Added a new power shot weapon</desc>
+		<image>./mixart/Gunlord X.jpg</image>
+		<video>./snap/Gunlord X.mp4</video>
+		<marquee>./wheel/Gunlord X.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20191106T000000</releasedate>
+		<developer>NGDEV</developer>
+		<publisher>NGDEV</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="198483">
+		<path>./The_Legend_of_Zelda_Links_Awakening.xci</path>
+		<name>Legend Of Zelda - Links Awakening, The</name>
+		<desc>As Link, you awaken in a strange land away from Hyrule, where animals talk and monsters roam. To uncover the truth behind your whereabouts and rouse the legendary Wind Fish, explore Koholint Island and all its trap-ridden dungeons, reimagined in stunning detail for this new release of one of the most beloved The Legend of Zelda games. Along the way, you'll meet a hilarious assortment of charming characters to which you'll never want to say goodbye.</desc>
+		<image>./mixart/The_Legend_of_Zelda_Links_Awakening-image.png</image>
+		<video>./snap/The_Legend_of_Zelda_Links_Awakening-video.mp4</video>
+		<marquee>./wheel/The_Legend_of_Zelda_Links_Awakening-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20190920T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

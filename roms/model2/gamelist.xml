@@ -393,22 +393,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./daytona.zip</path>
-		<name>Daytona USA</name>
-		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
-		<image>./mixart/daytonat.png</image>
-		<video>./snap/daytonat.mp4</video>
-		<marquee>./wheel/daytonat.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37485" source="ScreenScraper.fr">
 		<path>./skytargt.zip</path>
 		<name>Sky Target</name>
@@ -495,6 +479,22 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 	<game>
 		<path>./srallyc.zip</path>

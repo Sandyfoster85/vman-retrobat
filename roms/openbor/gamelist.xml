@@ -3424,22 +3424,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./HE-MAN.pak</path>
-		<name>HE-MAN</name>
-		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
-		<image>./mixart/HE-MAN.png</image>
-		<video>./snap/HE-MAN.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Maplevania.pak</path>
 		<name>Maplevania</name>
 		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
@@ -3823,7 +3807,7 @@
 		<video>./snap/Rage of the Wolves.mp4</video>
 		<marquee>./wheel/Rage of the Wolves.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="192350" source="ScreenScraper.fr">
@@ -3833,7 +3817,7 @@
 		<video>./snap/Snestalgia.mp4</video>
 		<marquee>./wheel/Snestalgia.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="192351" source="ScreenScraper.fr">
@@ -3843,7 +3827,7 @@
 		<video>./snap/Sonic Defense.mp4</video>
 		<marquee>./wheel/Sonic Defense.png</marquee>
 		<rating>4</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game>
@@ -3854,6 +3838,22 @@
 		<marquee>./wheel/Vendetta The World Warrior.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HE-MAN.pak</path>
+		<name>HE-MAN</name>
+		<desc>He-Man and the Masters of the Universe is a beat 'em up developed with the OpenBOR engine that allows you to control He-Man, Man-at-Arms, Orko, and the rest of the gang to fight against the terrible forces of evil led by Skeletor.</desc>
+		<image>./mixart/HE-MAN.png</image>
+		<video>./snap/HE-MAN.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

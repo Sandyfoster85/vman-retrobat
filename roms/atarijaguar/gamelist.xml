@@ -641,24 +641,6 @@
 		<region>wr</region>
 		<cheevosHash>B81AF314F10A547680E17D3797DB0C81</cheevosHash>
 	</game>
-	<game>
-		<path>./Tempest 2000 (World).j64</path>
-		<name>Tempest 2000</name>
-		<desc>Tempest 2000 is a remake/upgrade of the popular Atari vector graphics-based shooter.  Blast your way through over 100+ levels, shooting the creatures that come out from the other side of the web to drag you in. Collect power-ups (jump, AI robots and more) to trippy graphics and colorful explosions as a thumping techno-house soundtrack blasts in the background.  Collect enough bonuses, and be subjected to two different types of bonus rounds as you navigate through rings, or try to ride a spiral tube.  Also included in the gameplay is an intense two-player mode to team up with or go head to head against another player, or even play a version of the original arcade game. There are four modes of gameplay in all: Traditional Tempest, Tempest Duel, Tempest Plus and Tempest 2000.  Face the web....</desc>
-		<image>./mixart/Tempest 2000 (World).png</image>
-		<video>./snap/Tempest 2000 (World).mp4</video>
-		<marquee>./wheel/Tempest 2000 (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Llamasoft</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>602BC9953D3737B1BA52B2A0D9932F7C</cheevosHash>
-	</game>
 	<game id="14139" source="ScreenScraper.fr">
 		<path>./Theme Park (World).j64</path>
 		<name>Theme Park</name>
@@ -866,24 +848,6 @@
 		<region>wr</region>
 		<cheevosHash>C162738BF2C602144D78987498C68A49</cheevosHash>
 	</game>
-	<game id="46478" source="ScreenScraper.fr">
-		<path>./Protector - Special Edition (World).j64</path>
-		<name>Protector : Special Edition</name>
-		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.  Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
-		<image>./mixart/Protector - Special Edition (World).png</image>
-		<video>./snap/Protector - Special Edition (World).mp4</video>
-		<marquee>./wheel/Protector - Special Edition (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19991202T000000</releasedate>
-		<developer>Songbird Productions</developer>
-		<publisher>Songbird Productions</publisher>
-		<genre>Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>3774EE26339ADFC0BAD07091D29C361B</cheevosHash>
-	</game>
 	<game id="14144" source="ScreenScraper.fr">
 		<path>./Worms (World).j64</path>
 		<name>Worms</name>
@@ -934,23 +898,6 @@
 		<region>wr</region>
 		<cheevosHash>2947E4E2009425A6AC8B26F14A8EEA92</cheevosHash>
 	</game>
-	<game>
-		<path>./Wolfenstein 3D (World).j64</path>
-		<name>Wolfenstein 3D</name>
-		<desc>id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.  While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.  Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.  The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.</desc>
-		<image>./mixart/Wolfenstein 3D (World).png</image>
-		<video>./snap/Wolfenstein 3D (World).mp4</video>
-		<marquee>./wheel/Wolfenstein 3D (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>id Software</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>3584CB83461C8666A3F28EA0C431A3DB</cheevosHash>
-	</game>
 	<game id="14142" source="ScreenScraper.fr">
 		<path>./Flashback - The Quest for Identity (World) (En,Fr).j64</path>
 		<name>Flashback : The Quest for Identity</name>
@@ -985,5 +932,58 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>CB492F093CD9E22A913D158741E8F00A</cheevosHash>
+	</game>
+	<game id="46478" source="ScreenScraper.fr">
+		<path>./Protector - Special Edition (World).j64</path>
+		<name>Protector : Special Edition</name>
+		<desc>Haven-7 is a planetoid near Earth whose inhabitants are in grave danger. Aliens will arrive soon and plan to terraform Haven-7 which will annihilate every living thing. You, with the last remaining spaceship, are the only one left to protect Haven-7 from the aliens.  Protector features 3 difficulty levels and fast-paced shooting action as you blast swarms of aliens all at once in fierce battle. Purchase ship upgrades and find powerups to help you blast the alien starships.</desc>
+		<image>./mixart/Protector - Special Edition (World).png</image>
+		<video>./snap/Protector - Special Edition (World).mp4</video>
+		<marquee>./wheel/Protector - Special Edition (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19991202T000000</releasedate>
+		<developer>Songbird Productions</developer>
+		<publisher>Songbird Productions</publisher>
+		<genre>Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>3774EE26339ADFC0BAD07091D29C361B</cheevosHash>
+	</game>
+	<game>
+		<path>./Tempest 2000 (World).j64</path>
+		<name>Tempest 2000</name>
+		<desc>Tempest 2000 is a remake/upgrade of the popular Atari vector graphics-based shooter.  Blast your way through over 100+ levels, shooting the creatures that come out from the other side of the web to drag you in. Collect power-ups (jump, AI robots and more) to trippy graphics and colorful explosions as a thumping techno-house soundtrack blasts in the background.  Collect enough bonuses, and be subjected to two different types of bonus rounds as you navigate through rings, or try to ride a spiral tube.  Also included in the gameplay is an intense two-player mode to team up with or go head to head against another player, or even play a version of the original arcade game. There are four modes of gameplay in all: Traditional Tempest, Tempest Duel, Tempest Plus and Tempest 2000.  Face the web....</desc>
+		<image>./mixart/Tempest 2000 (World).png</image>
+		<video>./snap/Tempest 2000 (World).mp4</video>
+		<marquee>./wheel/Tempest 2000 (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Llamasoft</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>602BC9953D3737B1BA52B2A0D9932F7C</cheevosHash>
+	</game>
+	<game>
+		<path>./Wolfenstein 3D (World).j64</path>
+		<name>Wolfenstein 3D</name>
+		<desc>id software's adaptation of their classic first-person shooter Wolfenstein 3D to consoles is not a straight port, but a remix with substantial changes as well as new additions.  While the basic gameplay of exploring levels, shooting enemies, collecting treasures, keys and power-ups remain the same, only half of the original game's 60 levels have been retained. Each of those 30 levels (grouped into six missions, with two levels being secret ones) is a simplified version of an original level. The end bosses for the missions are taken from both Wolf3D as well as its sequel, Spear of Destiny.  Other changes from the original include new power-ups: an ammo box (taken from Spear of Destiny) and backpack that increases the maximum amount of ammo that can be carried.  The original's weapons (knife, pistol, machine gun, chaingun) all return, but there are also two completely new tools of destruction: a flame thrower and a rocket launcher.</desc>
+		<image>./mixart/Wolfenstein 3D (World).png</image>
+		<video>./snap/Wolfenstein 3D (World).mp4</video>
+		<marquee>./wheel/Wolfenstein 3D (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>id Software</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>3584CB83461C8666A3F28EA0C431A3DB</cheevosHash>
 	</game>
 </gameList>
