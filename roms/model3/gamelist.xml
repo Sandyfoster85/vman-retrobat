@@ -301,6 +301,28 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<md5>a0ac3f1d8b2185dde3993cf8ab1219ce</md5>
 		<genreid>1537</genreid>
 	</game>
+	<game id="37525" source="ScreenScraper.fr">
+		<path>./Virtua Fighter 3.zip</path>
+		<name>Virtua Fighter 3</name>
+		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
+ 
+The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
+ 
+Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
+		<image>./mixart/Virtua Fighter 3.png</image>
+		<video>./snap/Virtua Fighter 3.mp4</video>
+		<marquee>./wheel/Virtua Fighter 3.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
 	<game>
 		<path>./Daytona USA 2.zip</path>
 		<name>Daytona USA 2: Battle on the Edge</name>
@@ -337,27 +359,5 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="37525" source="ScreenScraper.fr">
-		<path>./Virtua Fighter 3.zip</path>
-		<name>Virtua Fighter 3</name>
-		<desc>Virtua Fighter 3 is the 3rd in the Virtua Fighter series. 
- 
-The game adds a 4th button, the Dodge button, that lets you dodge your opponent's attacks. You can move into the screen (by pressing the Dodge button with the joystick in neutral) or out of the screen (by pressing the Dodge button with the joystick held down). 
- 
-Virtua Fighter 3 also adds undulations in the stages - knowing how to use these to your advantage is key to winning the game (by moving to higher ground, for instance).</desc>
-		<image>./mixart/Virtua Fighter 3.png</image>
-		<video>./snap/Virtua Fighter 3.mp4</video>
-		<marquee>./wheel/Virtua Fighter 3.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
 	</game>
 </gameList>

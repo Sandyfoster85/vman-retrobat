@@ -4960,23 +4960,6 @@ The 14 games included are:
 		<region>us</region>
 		<genreid>512</genreid>
 	</game>
-	<game id="78464" source="ScreenScraper.fr">
-		<path>./Nickelodeon Jimmy Neutron - Boy Genius (USA).rvz</path>
-		<name>Jimmy Neutron - Boy Genius</name>
-		<desc>Initiate contact with another galaxy and launch a makeshift satellite into space before breakfast. That's nothing for Jimmy Neutron, the teenage super genius whose amazing inventions often get him into heaps of trouble. This time, it's up to you to get Jimmy out of his toughest tangle. You'll go through six levels, including Jimmy's house, the Asteroids, Yolkus Underworld, Yolkus City, and Retroland. Jet around on Goddard, Jimmy's proudest invention that can turn into the Goddard Pogo, Goddard Scooter, and the Goddard Sled. Can Jimmy's get himself through this grand adventure?</desc>
-		<image>./mixart/Nickelodeon Jimmy Neutron - Boy Genius (USA).png</image>
-		<video>./snap/Nickelodeon Jimmy Neutron - Boy Genius (USA).mp4</video>
-		<marquee>./wheel/Nickelodeon Jimmy Neutron - Boy Genius (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20030307T000000</releasedate>
-		<developer>Big Sky Software</developer>
-		<publisher>THQ</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>257</genreid>
-	</game>
 	<game id="5112" source="ScreenScraper.fr">
 		<path>./Nickelodeon Party Blast (USA).rvz</path>
 		<name>Nickelodeon Party Blast</name>
@@ -9030,5 +9013,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="78464" source="ScreenScraper.fr">
+		<path>./Nickelodeon Jimmy Neutron - Boy Genius (USA).rvz</path>
+		<name>Jimmy Neutron - Boy Genius</name>
+		<desc>Initiate contact with another galaxy and launch a makeshift satellite into space before breakfast. That's nothing for Jimmy Neutron, the teenage super genius whose amazing inventions often get him into heaps of trouble. This time, it's up to you to get Jimmy out of his toughest tangle. You'll go through six levels, including Jimmy's house, the Asteroids, Yolkus Underworld, Yolkus City, and Retroland. Jet around on Goddard, Jimmy's proudest invention that can turn into the Goddard Pogo, Goddard Scooter, and the Goddard Sled. Can Jimmy's get himself through this grand adventure?</desc>
+		<image>./mixart/Nickelodeon Jimmy Neutron - Boy Genius (USA).png</image>
+		<video>./snap/Nickelodeon Jimmy Neutron - Boy Genius (USA).mp4</video>
+		<marquee>./wheel/Nickelodeon Jimmy Neutron - Boy Genius (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20030307T000000</releasedate>
+		<developer>Big Sky Software</developer>
+		<publisher>THQ</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>257</genreid>
 	</game>
 </gameList>

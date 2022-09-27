@@ -30503,23 +30503,6 @@ After all the time runs out, a screen will display "Time!" and display the final
 		<cheevosHash>F36CB0729741F92698D42E19F69E690E</cheevosHash>
 		<cheevosId>2604</cheevosId>
 	</game>
-	<game>
-		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
-		<name>Donkey Kong HD</name>
-		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
-		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
-		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
-	</game>
 	<game id="71518" source="ScreenScraper.fr">
 		<path>./Stadium Events (USA).zip</path>
 		<name>Stadium Events</name>
@@ -30603,5 +30586,22 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<region>us</region>
 		<cheevosHash>50DD77437FAFAE2DDF89DC6B8967B494</cheevosHash>
 		<cheevosId>1498</cheevosId>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
 	</game>
 </gameList>

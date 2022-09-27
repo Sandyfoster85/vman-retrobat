@@ -169,21 +169,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./38 Ambush Alley.cmd</path>
-		<name>.38 Ambush Alley</name>
-		<desc>Get your target practice in with real police officers then hit the streets.</desc>
-		<image>./mixart/38 Ambush Alley.png</image>
-		<video>./snap/38 Ambush Alley.mp4</video>
-		<marquee>./wheel/38 Ambush Alley.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hologram Time Traveler.cmd</path>
 		<name>Hologram Time Traveler</name>
 		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
@@ -206,21 +191,6 @@
 		<image>./mixart/Hydrosub 2021.png</image>
 		<video>./snap/Hydrosub 2021.mp4</video>
 		<marquee>./wheel/Hydrosub 2021.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Rescue of Pops Ghostly.cmd</path>
-		<name>Rescue of Pops Ghostly, The</name>
-		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
-		<image>./mixart/Rescue of Pops Ghostly.png</image>
-		<video>./content/ActionMax/video_PopsGhostly.mkv</video>
-		<marquee>./wheel/Rescue of Pops Ghostly.png</marquee>
 		<rating>0.65</rating>
 		<releasedate>19870101T000000</releasedate>
 		<developer>Sourcing International, Ltd.</developer>
@@ -331,22 +301,6 @@
 		<releasedate>19920101T000000</releasedate>
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Blue Thunder.cmd</path>
-		<name>Blue Thunder</name>
-		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
-		<image>./mixart/Blue Thunder.png</image>
-		<video>./snap/Blue Thunder.mp4</video>
-		<marquee>./wheel/Blue Thunder.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
@@ -473,6 +427,52 @@
 		<developer>Karis</developer>
 		<publisher>Karis</publisher>
 		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Thunder.cmd</path>
+		<name>Blue Thunder</name>
+		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
+		<image>./mixart/Blue Thunder.png</image>
+		<video>./snap/Blue Thunder.mp4</video>
+		<marquee>./wheel/Blue Thunder.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rescue of Pops Ghostly.cmd</path>
+		<name>Rescue of Pops Ghostly, The</name>
+		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
+		<image>./mixart/Rescue of Pops Ghostly.png</image>
+		<video>./content/ActionMax/video_PopsGhostly.mkv</video>
+		<marquee>./wheel/Rescue of Pops Ghostly.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./38 Ambush Alley.cmd</path>
+		<name>.38 Ambush Alley</name>
+		<desc>Get your target practice in with real police officers then hit the streets.</desc>
+		<image>./mixart/38 Ambush Alley.png</image>
+		<video>./snap/38 Ambush Alley.mp4</video>
+		<marquee>./wheel/38 Ambush Alley.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<lang>en</lang>
 	</game>

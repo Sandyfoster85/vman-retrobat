@@ -2146,20 +2146,6 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<md5>696915b5d105058b85e76a2337312da0</md5>
 		<lang>en</lang>
 	</game>
-	<game id="29677">
-		<path>./Retro City Rampage DX.cmd</path>
-		<name>Retro City Rampage Dx</name>
-		<image>./mixart/Retro City Rampage.jpg</image>
-		<video>./snap/Retro City Rampage DX.mp4</video>
-		<marquee>./wheel/Retro City Rampage DX.png</marquee>
-		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Vblank Entertainment</developer>
-		<publisher>Vblank Entertainment</publisher>
-		<favorite>true</favorite>
-		<md5>c37b6801eacea7cb2d36e52fb2b3105f</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Shinobido 2 Revenge of Zen.cmd</path>
 		<name>Shinobido 2 Revenge of Zen</name>
@@ -2190,6 +2176,20 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<genre>Puzzle-Game</genre>
 		<players>1</players>
 		<md5>75eb87148fde8c3b9e3bb1560f2c420c</md5>
+		<lang>en</lang>
+	</game>
+	<game id="29677">
+		<path>./Retro City Rampage DX.cmd</path>
+		<name>Retro City Rampage Dx</name>
+		<image>./mixart/Retro City Rampage Dx.jpg</image>
+		<video>./snap/Retro City Rampage DX.mp4</video>
+		<marquee>./wheel/Retro City Rampage DX.png</marquee>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Vblank Entertainment</developer>
+		<publisher>Vblank Entertainment</publisher>
+		<favorite>true</favorite>
+		<md5>c37b6801eacea7cb2d36e52fb2b3105f</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -2919,55 +2919,6 @@ There are four boards, each with their own theme based on an amusement park ride
 		<players>1</players>
 		<cheevosHash>8384AA8735B5A036FDDDB5DA430CB25B</cheevosHash>
 	</game>
-	<game id="3831" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country (USA).7z</path>
-		<name>Donkey Kong Country</name>
-		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
-
-Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
-
-The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
-		<image>./mixart/Donkey Kong Country (USA).png</image>
-		<video>./snap/Donkey Kong Country (USA).mp4</video>
-		<rating>0.65</rating>
-		<releasedate>20030606T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>B3806462180CDA73D1F8F48D72236394</cheevosHash>
-		<cheevosId>750</cheevosId>
-	</game>
-	<game id="3898" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country 2 (USA, Australia).7z</path>
-		<name>Donkey Kong Country 2</name>
-		<desc>The Donkey Kong Country series returns to the Game Boy Advance in a sequel that features Dixie Kong. She and Diddy Kong must team up to rescue Donkey Kong from the evil Kaptain K. Rool. You'll play as both Diddy and Dixie, and master their different attacks. Test your skills and beat the clock in Diddy's Dash, or race against your friends to see who's the fastest. You can play the game solo or challenge your friends in new bonus games such as Funky's Flights and Bag a Bug.</desc>
-		<image>./mixart/Donkey Kong Country 2 (USA, Australia).png</image>
-		<video>./snap/Donkey Kong Country 2 (USA, Australia).mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20040625T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>4</players>
-		<cheevosHash>A1F160EE30ED36EDEA341A6F1C6A4EFC</cheevosHash>
-		<cheevosId>751</cheevosId>
-	</game>
-	<game id="3857" source="ScreenScraper.fr">
-		<path>./Donkey Kong Country 3 (USA, Australia).7z</path>
-		<name>Donkey Kong Country 3</name>
-		<desc>Revisit Donkey Kong Island and join the Kong family for their latest adventure. The Kremlings have a mysterious new leader named KAOS and are up to their usual mischief, even capturing Donkey Kong and Diddy Kong. Now it's up to Dixie Kong and the newest Kong, a giant infant named Kiddy, to rescue the two missing apes.</desc>
-		<image>./mixart/Donkey Kong Country 3 (USA, Australia).png</image>
-		<video>./snap/Donkey Kong Country 3 (USA, Australia).mp4</video>
-		<rating>0.85</rating>
-		<releasedate>20051104T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<cheevosHash>F577A97D679E669F8063910EB060E864</cheevosHash>
-		<cheevosId>752</cheevosId>
-	</game>
 	<game id="3816" source="ScreenScraper.fr">
 		<path>./Doom (USA, Europe).7z</path>
 		<name>Doom</name>
@@ -7348,19 +7299,6 @@ Finally, there is also a feature called the "Bonus Board."  You can play with a 
 		<players>4</players>
 		<cheevosHash>928C0BD4CF82B3FD6F34B53D4FD02E69</cheevosHash>
 		<cheevosId>2171</cheevosId>
-	</game>
-	<game>
-		<path>./Mario vs. Donkey Kong (USA, Australia).7z</path>
-		<name>Mario vs. Donkey Kong</name>
-		<desc>After years of apparent goodwill, Mario and Donkey Kong are at it again--this time, on Game Boy Advance. Donkey Kong has stolen all the Mini-Mario toys from the Mario Toy Co., and now it's up to Mario to hunt down his longtime nemesis and retrieve the pilfered goods. As Mario, you must race through challenging levels while finding keys and releasing Mini Marios before time runs out. Along the way, you'll master new moves that can help you overcome new puzzles.</desc>
-		<image>./mixart/Mario vs. Donkey Kong (USA, Australia).png</image>
-		<video>./snap/Mario vs. Donkey Kong (USA, Australia).mp4</video>
-		<rating>0.7</rating>
-		<releasedate>20040524T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<cheevosHash>CEDA12928A686878795DEF3B413CCFC2</cheevosHash>
 	</game>
 	<game id="3855" source="ScreenScraper.fr">
 		<path>./Marvel - Ultimate Alliance (USA).7z</path>
@@ -15985,7 +15923,7 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<video>./snap/River City Ransom EX (USA).mp4</video>
 		<marquee>./wheel/River City Ransom EX (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Million</developer>
 		<publisher>Atlus</publisher>
 		<genre>Action</genre>
@@ -15994,5 +15932,71 @@ Riki's heart is burning with fury, and he flies out of the gates and seeks out h
 		<region>us</region>
 		<cheevosHash>0B95FB20B9F487EB64431E9DB9F75C7F</cheevosHash>
 		<cheevosId>2509</cheevosId>
+	</game>
+	<game id="3831" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country (USA).7z</path>
+		<name>Donkey Kong Country</name>
+		<desc>King K. Rool has stolen Donkey Kong's banana stash, and Donkey Kong needs your help to get them back. In search of K. Rool, the Kremling horde impedes your progress. Kremlings, crocodile-like creatures, include Kritters (they succumb to a simple jump on the head), Krushas (they are virtually indestructible), and others. There are also other enemies that block your path, such as beavers, snakes, vultures. Leading them are dastardly bosses, including Very Gnawty, Necky, Bumble B, and Dumb Drum, and they all bar the way with their own special blend of villainy.
+
+Donkey Kong is joined by Diddy Kong: these two primates differ significantly. For example, Donkey Kong is generally stronger; he can destroy most enemies with a single jump and can lift barrels straight over his head to throw them farther. On the other hand, Diddy is faster and not as strong as Donkey; he can run really fast and do cartwheels. Diddy carries barrels in front of him, creating a shield against frontal attacks.
+
+The game is split into different worlds, which are split into different levels. Each level contains bonus areas, where one can collect bananas, medallions, and lives. At the end of each world is a boss, which is usually a larger version of a minor enemy.</desc>
+		<image>./mixart/Donkey Kong Country (USA).png</image>
+		<video>./snap/Donkey Kong Country (USA).mp4</video>
+		<marquee>./wheel/Donkey Kong Country (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20030606T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<cheevosHash>B3806462180CDA73D1F8F48D72236394</cheevosHash>
+		<cheevosId>750</cheevosId>
+	</game>
+	<game id="3898" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country 2 (USA, Australia).7z</path>
+		<name>Donkey Kong Country 2</name>
+		<desc>The Donkey Kong Country series returns to the Game Boy Advance in a sequel that features Dixie Kong. She and Diddy Kong must team up to rescue Donkey Kong from the evil Kaptain K. Rool. You'll play as both Diddy and Dixie, and master their different attacks. Test your skills and beat the clock in Diddy's Dash, or race against your friends to see who's the fastest. You can play the game solo or challenge your friends in new bonus games such as Funky's Flights and Bag a Bug.</desc>
+		<image>./mixart/Donkey Kong Country 2 (USA, Australia).png</image>
+		<video>./snap/Donkey Kong Country 2 (USA, Australia).mp4</video>
+		<marquee>./wheel/Donkey Kong Country 2 (USA, Australia).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20040625T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<cheevosHash>A1F160EE30ED36EDEA341A6F1C6A4EFC</cheevosHash>
+		<cheevosId>751</cheevosId>
+	</game>
+	<game id="3857" source="ScreenScraper.fr">
+		<path>./Donkey Kong Country 3 (USA, Australia).7z</path>
+		<name>Donkey Kong Country 3</name>
+		<desc>Revisit Donkey Kong Island and join the Kong family for their latest adventure. The Kremlings have a mysterious new leader named KAOS and are up to their usual mischief, even capturing Donkey Kong and Diddy Kong. Now it's up to Dixie Kong and the newest Kong, a giant infant named Kiddy, to rescue the two missing apes.</desc>
+		<image>./mixart/Donkey Kong Country 3 (USA, Australia).png</image>
+		<video>./snap/Donkey Kong Country 3 (USA, Australia).mp4</video>
+		<marquee>./wheel/Donkey Kong Country 3 (USA, Australia).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20051104T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<cheevosHash>F577A97D679E669F8063910EB060E864</cheevosHash>
+		<cheevosId>752</cheevosId>
+	</game>
+	<game>
+		<path>./Mario vs. Donkey Kong (USA, Australia).7z</path>
+		<name>Mario vs. Donkey Kong</name>
+		<desc>After years of apparent goodwill, Mario and Donkey Kong are at it again--this time, on Game Boy Advance. Donkey Kong has stolen all the Mini-Mario toys from the Mario Toy Co., and now it's up to Mario to hunt down his longtime nemesis and retrieve the pilfered goods. As Mario, you must race through challenging levels while finding keys and releasing Mini Marios before time runs out. Along the way, you'll master new moves that can help you overcome new puzzles.</desc>
+		<image>./mixart/Mario vs. Donkey Kong (USA, Australia).png</image>
+		<video>./snap/Mario vs. Donkey Kong (USA, Australia).mp4</video>
+		<marquee>./wheel/Mario vs. Donkey Kong (USA, Australia).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040524T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<cheevosHash>CEDA12928A686878795DEF3B413CCFC2</cheevosHash>
 	</game>
 </gameList>

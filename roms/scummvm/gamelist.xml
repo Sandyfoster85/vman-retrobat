@@ -22,32 +22,6 @@
 		<name>+Start ScummVM</name>
 	</game>
 	<game>
-		<path>./Zak McKracken and the Alien Mindbenders (Amiga).svm/Zak Mckracken And The Alien Mindbenders.scummvm</path>
-		<name>Zak Mckracken And The Alien Mindbenders</name>
-		<desc>Zak McKracken and the Alien Mindbenders is a 1988 graphic adventure game by Lucasfilm Games. It was the second game to use the SCUMM engine, after Maniac Mansion. The project was led by David Fox, with Matthew Alan Kane as the co-designer and co-programmer.</desc>
-		<image>./mixart/zak.png</image>
-		<video>./snap/zak.mp4</video>
-		<marquee>./wheel/zak.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Lucasfilm Games</developer>
-		<publisher>Lucasfilm Games</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
-		<path>./zgi-win.svm/Zork - Grand Inquisitor.scummvm</path>
-		<name>Zork: Grand Inquisitor</name>
-		<desc>Magic is banned in the Great Underground Empire, and the Grand Inquisitor Yannick (with the kind help of Frobozz Electric) has a stranglehold on the world of Zork, establishing a totalitarian regime. According to his own words, the goal of the new state is to "shun magic, shun the appearance of magic, shun everything, and then shun shunning." Any opposing forces will be "totemized", which is apparently a rather unpleasant procedure. The player character in the game is just that - the player character: Ageless, Faceless, Gender-Neutral, Culturally-Ambiguous Adventure Person (abbreviated AFGNCAAP), as the politically correct designation by the Dungeon Master Dalboz defines him/her (it?). Naturally, it is the hero's duty to save the world by collecting a Cube of Foundation, the Skull of Yoruk, and the Coconut of Quendor, so that magic can return to the land and the Grand Inquisitor falls victim to his own shunning policies.Zork: Grand Inquisitor is the third in the row of graphical Zork games. It utilizes the same engine as its  predecessor, with first-person perspective, 180 degree camera rotation, pre-rendered backgrounds, and live actors. Compared to the previous game, it is more similar in tone to the early, predominantly humorous Zork adventures, containing plenty of references to them.The gameplay is puzzle-oriented; most of the puzzles are inventory-based, though there are also a few that require manipulating the game's environment. Casting magical spells is an important element of the gameplay. The protagonist discovers spell scrolls and learns spells from them, which must be frequently used on objects and items to solve puzzles. The spells range from simple magic that can open locked doors to exotic variations such as "making all purple things invisible". The player can also cast spells backwards, in which case they will have an opposite effect; in the aforementioned examples, casting the reversed spells will lock a door or magically make an object visible, provided it was purple before that condition was inflicted upon it.</desc>
-		<image>./mixart/Zork - Grand Inquisitor (DVD Windows).png</image>
-		<video>./snap/Zork - Grand Inquisitor (DVD Windows).mp4</video>
-		<marquee>./wheel/Zork - Grand Inquisitor (DVD Windows).png</marquee>
-		<rating>0</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Point and Click-Adventure</genre>
-	</game>
-	<game>
 		<path>./Full Throttle (CD DOS).svm/Full Throttle.scummvm</path>
 		<name>Full Throttle</name>
 		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
@@ -1801,6 +1775,34 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<releasedate>19960101T000000</releasedate>
 		<developer>Sierra On-Line</developer>
 		<publisher>Sierra On-Line</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Zak McKracken and the Alien Mindbenders (Amiga).svm/Zak Mckracken And The Alien Mindbenders.scummvm</path>
+		<name>Zak Mckracken And The Alien Mindbenders</name>
+		<desc>Zak McKracken and the Alien Mindbenders is a 1988 graphic adventure game by Lucasfilm Games. It was the second game to use the SCUMM engine, after Maniac Mansion. The project was led by David Fox, with Matthew Alan Kane as the co-designer and co-programmer.</desc>
+		<image>./mixart/zak.png</image>
+		<video>./snap/zak.mp4</video>
+		<marquee>./wheel/zak.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Lucasfilm Games</developer>
+		<publisher>Lucasfilm Games</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./zgi-win.svm/Zork - Grand Inquisitor.scummvm</path>
+		<name>Zork: Grand Inquisitor</name>
+		<desc>Magic is banned in the Great Underground Empire, and the Grand Inquisitor Yannick (with the kind help of Frobozz Electric) has a stranglehold on the world of Zork, establishing a totalitarian regime. According to his own words, the goal of the new state is to "shun magic, shun the appearance of magic, shun everything, and then shun shunning." Any opposing forces will be "totemized", which is apparently a rather unpleasant procedure. The player character in the game is just that - the player character: Ageless, Faceless, Gender-Neutral, Culturally-Ambiguous Adventure Person (abbreviated AFGNCAAP), as the politically correct designation by the Dungeon Master Dalboz defines him/her (it?). Naturally, it is the hero's duty to save the world by collecting a Cube of Foundation, the Skull of Yoruk, and the Coconut of Quendor, so that magic can return to the land and the Grand Inquisitor falls victim to his own shunning policies.Zork: Grand Inquisitor is the third in the row of graphical Zork games. It utilizes the same engine as its  predecessor, with first-person perspective, 180 degree camera rotation, pre-rendered backgrounds, and live actors. Compared to the previous game, it is more similar in tone to the early, predominantly humorous Zork adventures, containing plenty of references to them.The gameplay is puzzle-oriented; most of the puzzles are inventory-based, though there are also a few that require manipulating the game's environment. Casting magical spells is an important element of the gameplay. The protagonist discovers spell scrolls and learns spells from them, which must be frequently used on objects and items to solve puzzles. The spells range from simple magic that can open locked doors to exotic variations such as "making all purple things invisible". The player can also cast spells backwards, in which case they will have an opposite effect; in the aforementioned examples, casting the reversed spells will lock a door or magically make an object visible, provided it was purple before that condition was inflicted upon it.</desc>
+		<image>./mixart/Zork - Grand Inquisitor (DVD Windows).png</image>
+		<video>./snap/Zork - Grand Inquisitor (DVD Windows).mp4</video>
+		<marquee>./wheel/Zork - Grand Inquisitor (DVD Windows).png</marquee>
+		<rating>0</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>

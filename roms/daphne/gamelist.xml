@@ -213,28 +213,13 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./ace.daphne</path>
 		<name>Space Ace</name>
 		<desc>Space Ace is a laserdisc video game produced by Don Bluth Studios, Cinematronics and Advanced Microcomputer Systems.</desc>
 		<image>./mixart/ace.png</image>
 		<video>./snap/ace.mp4</video>
 		<marquee>./wheel/ace.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19840429T000000</releasedate>
 		<developer>AMS</developer>
 		<publisher>Cinematronics</publisher>
@@ -249,9 +234,24 @@
 		<image>./mixart/lair.png</image>
 		<video>./snap/lair.mp4</video>
 		<marquee>./wheel/lair.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19830623T000000</releasedate>
 		<publisher>Cinematronics</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./mixart/astron.png</image>
+		<video>./snap/astron.mp4</video>
+		<marquee>./wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
