@@ -431,22 +431,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blue Thunder.cmd</path>
-		<name>Blue Thunder</name>
-		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
-		<image>./mixart/Blue Thunder.png</image>
-		<video>./snap/Blue Thunder.mp4</video>
-		<marquee>./wheel/Blue Thunder.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Rescue of Pops Ghostly.cmd</path>
 		<name>Rescue of Pops Ghostly, The</name>
 		<desc>Help Pops Ghostly and his family get rid of the bad spirits who have taken over the house.</desc>
@@ -474,6 +458,22 @@
 		<publisher>Worlds of Wonder, Inc.</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Thunder.cmd</path>
+		<name>Blue Thunder</name>
+		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
+		<image>./mixart/Blue Thunder.png</image>
+		<video>./snap/Blue Thunder.mp4</video>
+		<marquee>./wheel/Blue Thunder.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

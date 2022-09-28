@@ -2183,21 +2183,6 @@ Gather a little army of monsters, equip yourself with weapons and relics and lev
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./10 Second Ninja X.lnk</path>
-		<name>10 Second Ninja X</name>
-		<desc>Ninjas are cool, this is an established fact of the universe. Nazi Robots from space are not cool, they are the complete opposite of cool, and Robot Hitler is out to get you, the world's first ninja. You have 10 seconds to destroy all Nazi Robots in your vicinity. IT. IS. ON. Become the ultimate Ninja and take down Robot Hitler’s automated autocracy in this blisteringly fast platformer. Ready, Steady, Ninja!</desc>
-		<image>./mixart/10 Second Ninja X.jpg</image>
-		<video>./snap/10 Second Ninja X.mp4</video>
-		<marquee>./wheel/10 Second Ninja X.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>GameDesignDan</developer>
-		<publisher>Mastertronic</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Agent Intercept.lnk</path>
 		<name>Agent Intercept</name>
 		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
@@ -8069,22 +8054,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Final Vendetta.lnk</path>
-		<name>Final Vendetta</name>
-		<desc>Final Vendetta is a spectacular and action-packed beat 'em up for one or two players in the vein of classic arcade titles. The hard-hitting game features stunning pixel art and a thumping soundtrack with exclusive tracks from Utah Saints!</desc>
-		<image>./mixart/Final Vendetta.jpg</image>
-		<video>./snap/Final Vendetta.mp4</video>
-		<marquee>./wheel/Final Vendetta.png</marquee>
-		<rating>3</rating>
-		<releasedate>20220610T000000</releasedate>
-		<developer>Bitmap Bureau</developer>
-		<publisher>Numskull Games</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Flashback.lnk</path>
 		<name>Flashback (2013)</name>
 		<desc>20 years after the original game’s launch, Conrad is enlisted back to active service for the triumphant return of one of the most acclaimed franchises in gaming history. It’s not a reboot. It’s Flashback re-imagined. The original Core-Team revamped their own creation, leveraging the best of today’s technology while remaining true to the classic side-scroller that set the standards of the genre in the 90’s. Key Features One of the best adventure-action games ever created re-imagined by its creators. It’s the same team. It’s the same passion. Only this time, they have had much more firepower at their disposal to recreate the legendary classic! Gorgeous graphics, amazing animations. It’s the Flashback you’ve always dreamed of. True to the original spirit but made a million times better by using modern engines such as Unreal and Havok. The makeover is completely stunning. It’s all about Gameplay. The team modernized gameplay mechanics, making the game more reactive, offering new features, like gadgets and an experience progression system.</desc>
@@ -9096,22 +9065,6 @@ This is a one-person project, 8 years in the making.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Battlezone GOLD.lnk</path>
-		<name>Battlezone GOLD</name>
-		<desc>Blast through a thrilling rogue-lite campaign for 1-4 players where different environments, enemies and mission types are blended together. No two playthroughs will be the same!</desc>
-		<image>./mixart/Battlezone GOLD.jpg</image>
-		<video>./snap/Battlezone GOLD.mp4</video>
-		<marquee>./wheel/Battlezone GOLD.png</marquee>
-		<rating>3.5</rating>
-		<releasedate>20180926T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Rebellion</publisher>
-		<genre>Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Demons Tilt.lnk</path>
 		<name>Demon's Tilt - Occult Pinball Action</name>
 		<desc>Is Demon's Tilt just pinball? This digital table has a lot to offer and if you like more arcade feeling pinball then Demon's Tilt is for you! There are many mechanics that wouldn't work on a realistic pinball table. Still, it requires the same skills of placing the ball exactly where you need it to go. The rituals are mini quests on the tables and finishing them is difficult.</desc>
@@ -9156,6 +9109,67 @@ This is a one-person project, 8 years in the making.</desc>
 		<publisher>Fanmade</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Escape from Monkey Island.lnk</path>
+		<name>Escape From Monkey Island</name>
+		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
+		<image>./mixart/monkey4.png</image>
+		<video>./snap/monkey4.mp4</video>
+		<marquee>./wheel/monkey4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Battlezone GOLD.lnk</path>
+		<name>Battlezone GOLD</name>
+		<desc>Blast through a thrilling rogue-lite campaign for 1-4 players where different environments, enemies and mission types are blended together. No two playthroughs will be the same!</desc>
+		<image>./mixart/Battlezone GOLD.jpg</image>
+		<video>./snap/Battlezone GOLD.mp4</video>
+		<marquee>./wheel/Battlezone GOLD.png</marquee>
+		<rating>3.5</rating>
+		<releasedate>20180926T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Rebellion</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Final Vendetta.lnk</path>
+		<name>Final Vendetta</name>
+		<desc>Final Vendetta is a spectacular and action-packed beat 'em up for one or two players in the vein of classic arcade titles. The hard-hitting game features stunning pixel art and a thumping soundtrack with exclusive tracks from Utah Saints!</desc>
+		<image>./mixart/Final Vendetta.jpg</image>
+		<video>./snap/Final Vendetta.mp4</video>
+		<marquee>./wheel/Final Vendetta.png</marquee>
+		<rating>1</rating>
+		<releasedate>20220610T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Numskull Games</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Return to Monkey Island.lnk</path>
+		<name>Return to Monkey Island</name>
+		<desc>Return to Monkey Island is an unexpected, thrilling return of series creator Ron Gilbert that continues the story of the legendary adventure games The Secret of Monkey Island and Monkey Island 2: LeChuck’s Revenge developed in collaboration with Lucasfilm Games. It’s been many years since Guybrush Threepwood was last locked in a battle of wits with his nemesis, the zombie pirate LeChuck. His true love, Elaine Marley, has turned her focus away from governing and Guybrush himself is adrift and unfulfilled, having never found the Secret of Monkey Island. Hip, young pirate leaders led by Captain Madison have shuffled the old guard from power, Melee Island has taken a turn for the worse, and famed businessman Stan has been imprisoned for ‘marketing-related crimes’. Banter with old friends and new faces on familiar islands now under dangerous new leadership. Then, take to the high seas and explore the new and unknown as you work your way out of tough predicaments. Clever puzzles, bizarre situations, and devastating ripostes are all that stand between Guybrush and glory.</desc>
+		<image>./mixart/Return to Monkey Island.jpg</image>
+		<video>./snap/Return to Monkey Island.mp4</video>
+		<marquee>./wheel/Return to Monkey Island.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20221108T000000</releasedate>
+		<developer>Terrible Toybox</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Adventure</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

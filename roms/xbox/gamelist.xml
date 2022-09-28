@@ -3807,24 +3807,6 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="15035" source="ScreenScraper.fr">
-		<path>./Blood Wake (USA).iso</path>
-		<name>Blood Wake</name>
-		<desc>Blood Wake est un jeu d'action sur Xbox. Naviguez sur la Mer des Dragons à bord de votre bateau ultra rapide et surarmé et coulez tous ceux qui auront l'audace de se mettre en travers de votre chemin. Y compris vos amis en mode multijoueur jusqu'à 4.</desc>
-		<image>./mixart/Blood Wake (USA).png</image>
-		<video>./snap/Blood Wake (USA).mp4</video>
-		<marquee>./wheel/Blood Wake (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20011225T000000</releasedate>
-		<developer>Stormfront Studios</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Action</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>256</genreid>
-	</game>
 	<game>
 		<path>./Bruce Lee - Quest of the Dragon.iso</path>
 		<name>Bruce Lee: Quest of the Dragon</name>
@@ -3842,5 +3824,23 @@ You are Bruce Lee, legendary martial arts master. Your father has been kidnapped
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="15035" source="ScreenScraper.fr">
+		<path>./Blood Wake (USA).iso</path>
+		<name>Blood Wake</name>
+		<desc>Blood Wake est un jeu d'action sur Xbox. Naviguez sur la Mer des Dragons à bord de votre bateau ultra rapide et surarmé et coulez tous ceux qui auront l'audace de se mettre en travers de votre chemin. Y compris vos amis en mode multijoueur jusqu'à 4.</desc>
+		<image>./mixart/Blood Wake (USA).png</image>
+		<video>./snap/Blood Wake (USA).mp4</video>
+		<marquee>./wheel/Blood Wake (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20011225T000000</releasedate>
+		<developer>Stormfront Studios</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Action</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

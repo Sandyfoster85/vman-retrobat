@@ -4090,21 +4090,6 @@ Final Fantasy II: Final Fantasy II gave players deeper characters and a more com
 		<cheevosHash>5D29999685413C4D2BEC10D3160F6EE6</cheevosHash>
 		<cheevosId>762</cheevosId>
 	</game>
-	<game id="3763" source="ScreenScraper.fr">
-		<path>./Final Fantasy IV Advance (USA, Australia).7z</path>
-		<name>Final Fantasy IV Advance</name>
-		<desc>This classic adventure includes 18 towns and castles, dozens of magical spells, and hundreds of monsters, weapons, and items to help players on their quests. The game features the astounding music, challenging adventures, and interesting storyline that are the hallmarks of the Final Fantasy franchise. Additional game elements also have been added to enhance the Game Boy Advance version.</desc>
-		<image>./mixart/Final Fantasy IV Advance (USA, Australia).png</image>
-		<video>./snap/Final Fantasy IV Advance (USA, Australia).mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20051212T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<cheevosHash>C74DD5CC3AB6E5D4AC53B1677E1ABD69</cheevosHash>
-		<cheevosId>763</cheevosId>
-	</game>
 	<game id="3760" source="ScreenScraper.fr">
 		<path>./Final Fantasy Tactics Advance (USA, Australia).7z</path>
 		<name>Final Fantasy Tactics Advance</name>
@@ -4125,35 +4110,6 @@ Both your basic handheld weapons and magic are available to you, with the abilit
 		<genre>Role playing games</genre>
 		<players>2</players>
 		<cheevosHash>CD99CDDE3D45554C1B36FBEB8863B7BD</cheevosHash>
-	</game>
-	<game id="3778" source="ScreenScraper.fr">
-		<path>./Final Fantasy V Advance (USA).7z</path>
-		<name>Final Fantasy V Advance</name>
-		<desc>The winds fail. Ships stand still, unable to fill their sails. The world races to its end. Unless a handful of heroes can protect the remaining crystals, the world will fall into ruin. Set off on a grand adventure in the finest version of FINAL FANTASY V ever released!</desc>
-		<image>./mixart/Final Fantasy V Advance (USA).png</image>
-		<video>./snap/Final Fantasy V Advance (USA).mp4</video>
-		<rating>0.85</rating>
-		<releasedate>20061106T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<cheevosHash>9ED82843CC54876362BE56FACCB15D75</cheevosHash>
-		<cheevosId>764</cheevosId>
-	</game>
-	<game id="3765" source="ScreenScraper.fr">
-		<path>./Final Fantasy VI Advance (USA).7z</path>
-		<name>Final Fantasy VI Advance</name>
-		<desc>This title are more than a simple port of the SNES classic ? every aspect of the games has been reviewed and enhanced. Additionally, a host of brand-new elements has been seamlessly merged with the original game, providing unexpected surprises for longtime fans. With new dungeons, new job classes, and other exciting features, both old-school players and newcomers can enjoy this genre-defining FINAL FANTASY title in a portable format.</desc>
-		<image>./mixart/Final Fantasy VI Advance (USA).png</image>
-		<video>./snap/Final Fantasy VI Advance (USA).mp4</video>
-		<rating>0.9</rating>
-		<releasedate>20070205T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Fight-Role playing games</genre>
-		<players>1</players>
-		<cheevosHash>D1C3D1798A3F347FBAB41F151C99DECE</cheevosHash>
 	</game>
 	<game id="4024" source="ScreenScraper.fr">
 		<path>./Final Fight One (USA).7z</path>
@@ -15998,5 +15954,52 @@ The game is split into different worlds, which are split into different levels. 
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
 		<cheevosHash>CEDA12928A686878795DEF3B413CCFC2</cheevosHash>
+	</game>
+	<game id="3763" source="ScreenScraper.fr">
+		<path>./Final Fantasy IV Advance (USA, Australia).7z</path>
+		<name>Final Fantasy IV Advance</name>
+		<desc>This classic adventure includes 18 towns and castles, dozens of magical spells, and hundreds of monsters, weapons, and items to help players on their quests. The game features the astounding music, challenging adventures, and interesting storyline that are the hallmarks of the Final Fantasy franchise. Additional game elements also have been added to enhance the Game Boy Advance version.</desc>
+		<image>./mixart/Final Fantasy IV Advance (USA, Australia).png</image>
+		<video>./snap/Final Fantasy IV Advance (USA, Australia).mp4</video>
+		<marquee>./wheel/Final Fantasy IV Advance (USA, Australia).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20051212T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<cheevosHash>C74DD5CC3AB6E5D4AC53B1677E1ABD69</cheevosHash>
+		<cheevosId>763</cheevosId>
+	</game>
+	<game id="3778" source="ScreenScraper.fr">
+		<path>./Final Fantasy V Advance (USA).7z</path>
+		<name>Final Fantasy V Advance</name>
+		<desc>The winds fail. Ships stand still, unable to fill their sails. The world races to its end. Unless a handful of heroes can protect the remaining crystals, the world will fall into ruin. Set off on a grand adventure in the finest version of FINAL FANTASY V ever released!</desc>
+		<image>./mixart/Final Fantasy V Advance (USA).png</image>
+		<video>./snap/Final Fantasy V Advance (USA).mp4</video>
+		<marquee>./wheel/Final Fantasy V Advance (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061106T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<cheevosHash>9ED82843CC54876362BE56FACCB15D75</cheevosHash>
+		<cheevosId>764</cheevosId>
+	</game>
+	<game id="3765" source="ScreenScraper.fr">
+		<path>./Final Fantasy VI Advance (USA).7z</path>
+		<name>Final Fantasy VI Advance</name>
+		<desc>This title are more than a simple port of the SNES classic ? every aspect of the games has been reviewed and enhanced. Additionally, a host of brand-new elements has been seamlessly merged with the original game, providing unexpected surprises for longtime fans. With new dungeons, new job classes, and other exciting features, both old-school players and newcomers can enjoy this genre-defining FINAL FANTASY title in a portable format.</desc>
+		<image>./mixart/Final Fantasy VI Advance (USA).png</image>
+		<video>./snap/Final Fantasy VI Advance (USA).mp4</video>
+		<marquee>./wheel/Final Fantasy VI Advance (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070205T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Fight-Role playing games</genre>
+		<players>1</players>
+		<cheevosHash>D1C3D1798A3F347FBAB41F151C99DECE</cheevosHash>
 	</game>
 </gameList>

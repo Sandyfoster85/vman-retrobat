@@ -3527,22 +3527,6 @@ The plot of this game is a brand new story revolving around Majin Buu being rele
 		<region>us</region>
 		<genreid>262</genreid>
 	</game>
-	<game id="28100" source="ScreenScraper.fr">
-		<path>./Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).cso</path>
-		<name>Dragon Quest &amp; Final Fantasy in Itadaki Street Portable</name>
-		<desc>Dragon Quest &amp; Final Fantasy in Itadaki Street Portable is a Miscellaneous game, developed and published by Square Enix, which was released in Japan in 2006.</desc>
-		<image>./mixart/Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).png</image>
-		<video>./snap/Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).mp4</video>
-		<rating>0.8</rating>
-		<releasedate>20060525T000000</releasedate>
-		<developer>Square Enix</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Casual Game</genre>
-		<players>1</players>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<genreid>2304</genreid>
-	</game>
 	<game id="28636" source="ScreenScraper.fr">
 		<path>./Dragon's Lair (USA).cso</path>
 		<name>Dragon's Lair</name>
@@ -12048,5 +12032,22 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<genre>Beat'em Up</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game id="28100" source="ScreenScraper.fr">
+		<path>./Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).cso</path>
+		<name>Dragon Quest &amp; Final Fantasy in Itadaki Street Portable</name>
+		<desc>Dragon Quest &amp; Final Fantasy in Itadaki Street Portable is a Miscellaneous game, developed and published by Square Enix, which was released in Japan in 2006.</desc>
+		<image>./mixart/Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).png</image>
+		<video>./snap/Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20060525T000000</releasedate>
+		<developer>Square Enix</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Casual Game</genre>
+		<players>1</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<genreid>2304</genreid>
 	</game>
 </gameList>
