@@ -8511,22 +8511,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Metroid Prime (USA) (v1.02).rvz</path>
-		<name>Metroid Prime</name>
-		<desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>
-		<image>./mixart/Metroid Prime (USA) (v1.02).png</image>
-		<video>./snap/Metroid Prime (USA) (v1.02).mp4</video>
-		<marquee>./wheel/Metroid Prime (USA) (v1.02).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20021119T000000</releasedate>
-		<developer>Retro Studios, Inc.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5267" source="ScreenScraper.fr">
 		<path>./Scaler (USA).rvz</path>
 		<name>Scaler</name>
@@ -9030,5 +9014,21 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./Metroid Prime (USA) (v1.02).rvz</path>
+		<name>Metroid Prime</name>
+		<desc>Everyone's favorite heroine, Samus Aran, is back! Packed to the gills with exploration, creative power-ups, and wicked enemies, Metroid Prime is a first-person adventure worthy of the Metroid stamp. An action-packed adventure set in the first-person perspective, Metroid Prime takes place just after the events in the original Metroid (NES). It has lead character Samus Aran, a bounty hunter by trade, chasing down the evil Space Pirates. Their intention is to use a genetic mutagen called Phazon to create a super army and take over the universe. While the installments in the series before have never been home to deeply involving storylines, Metroid Prime breaks the shell to offer up one of the most intriguing and read-worthy sagas yet. Developed by Texas-based Retro Studios. Metroid Prime brings all of the elements of the acclaimed franchise into a massive 3D arena.</desc>
+		<image>./mixart/Metroid Prime (USA) (v1.02).png</image>
+		<video>./snap/Metroid Prime (USA) (v1.02).mp4</video>
+		<marquee>./wheel/Metroid Prime (USA) (v1.02).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20021119T000000</releasedate>
+		<developer>Retro Studios, Inc.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

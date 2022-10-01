@@ -5032,24 +5032,6 @@
 		<cheevosHash>220543F489A9828021EA82A69E6305A3</cheevosHash>
 	</game>
 	<game>
-		<path>./Star Fox 64 (USA) (Rev A).n64</path>
-		<name>Star Fox 64</name>
-		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
-		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
-		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
-		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970630T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
-	</game>
-	<game>
 		<path>./Star Wars - Rogue Squadron (USA) (Rev A).n64</path>
 		<name>Star Wars : Rogue Squadron</name>
 		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
@@ -5158,5 +5140,25 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FB1C4E85F13E95B5154C550A06408808</cheevosHash>
+	</game>
+	<game>
+		<path>./Star Fox 64 (USA) (Rev A).n64</path>
+		<name>Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
+		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
+		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
 	</game>
 </gameList>

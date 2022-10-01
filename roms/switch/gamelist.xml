@@ -613,22 +613,6 @@ Start now your speedway adventure through countries like every speedway-fan shou
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Metroid Dread.xci</path>
-		<name>Metroid Dread</name>
-		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
-		<image>./mixart/Metroid Dread.jpg</image>
-		<video>./snap/Metroid Dread.mp4</video>
-		<marquee>./wheel/Metroid Dread.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>MercuryStream</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Rush Rally Origins.xci</path>
 		<name>Rush Rally Origins</name>
 		<desc>This pack includes the games: Jurassic Pinball, Safari Pinball, Shark Pinball, Halloween Pinball, Werewolf Pinball, Mummy Pinball.</desc>
@@ -1151,6 +1135,22 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Dread.xci</path>
+		<name>Metroid Dread</name>
+		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
+		<image>./mixart/Metroid Dread.jpg</image>
+		<video>./snap/Metroid Dread.mp4</video>
+		<marquee>./wheel/Metroid Dread.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>MercuryStream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

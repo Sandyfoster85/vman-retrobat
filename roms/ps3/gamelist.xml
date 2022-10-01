@@ -1174,18 +1174,6 @@ The player controls an experimental fighter called the Scythe, a hybrid of human
 		<region>eu</region>
 		<genreid>256</genreid>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./Resogun.m3u</path>
-		<name>Resogun</name>
-		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
-		<image>./mixart/Resogun.png</image>
-		<video>./snap/Resogun.mp4</video>
-		<marquee>./wheel/Resogun.png</marquee>
-		<rating>0.75</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="24916" source="ScreenScraper.fr">
 		<path>./Saint Seiya - Brave Soldiers.m3u</path>
 		<name>Saint Seiya : Brave Soldiers</name>
@@ -1960,6 +1948,18 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Sega</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./Resogun.m3u</path>
+		<name>Resogun</name>
+		<desc>RESOGUN is an intense fast-paced shoot em' up developed exclusively for the PS4 system. Unleash a diverse array of devastating weapons including lasers, missiles, overdrive, and nova-bombs to blast hordes of enemies and rescue the last survivors from distant galactic colonies that are under ruthless attack from an evil alien invasion force.</desc>
+		<image>./mixart/Resogun.png</image>
+		<video>./snap/Resogun.mp4</video>
+		<marquee>./wheel/Resogun.png</marquee>
+		<rating>0.75</rating>
+		<releasedate></releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

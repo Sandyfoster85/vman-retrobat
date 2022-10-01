@@ -1990,23 +1990,6 @@ Legendary Soundtrack: Once again, the crate diggers at Roll7 have scoured the ai
 		<md5>0e2f5b06bc27909cf71c770af179b794</md5>
 		<lang>en</lang>
 	</game>
-	<game id="29615">
-		<path>./Street Fighter X Tekken.cmd</path>
-		<name>Street Fighter X Tekken</name>
-		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeÃ¢â‚¬Â¦ AND on the go! Street Fighter X Tekken on the PlayStationÃ‚Â®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÃ‚Â®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
-		<image>./mixart/Street Fighter X Tekken.jpg</image>
-		<video>./snap/Street Fighter X Tekken.mp4</video>
-		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
-		<rating>0.8</rating>
-		<developer>Capcom</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Fight</genre>
-		<family>Tekken</family>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./TxK.cmd</path>
 		<name>TxK</name>
@@ -2063,23 +2046,6 @@ Help the greedy Pea make his way through 5 unique levels filled with deadly trap
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>58453d010a6d20cc0c46a1d6871f99f5</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Jetpack Joyride.cmd</path>
-		<name>Jetpack Joyride</name>
-		<desc>You're going for a ride - from the creators of FRUIT NINJA! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. After lift-off, simply touch the screen to ascend and release to descend, raining bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores!</desc>
-		<image>./mixart/Jetpack Joyride.jpg</image>
-		<video>./snap/Jetpack Joyride.mp4</video>
-		<marquee>./wheel/Jetpack Joyride.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20121231T000000</releasedate>
-		<developer>Big Ant Studios</developer>
-		<publisher>Halfbrick Studios</publisher>
-		<genre>Action, Platform, Virtual Console</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>3909dfe9ffa36b2671466d606a0dfdbf</md5>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2190,6 +2156,40 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<publisher>Vblank Entertainment</publisher>
 		<favorite>true</favorite>
 		<md5>c37b6801eacea7cb2d36e52fb2b3105f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jetpack Joyride.cmd</path>
+		<name>Jetpack Joyride</name>
+		<desc>You're going for a ride - from the creators of FRUIT NINJA! Join Barry as he breaks in to a secret laboratory to commandeer the experimental jetpacks from the clutches of science evildoers. After lift-off, simply touch the screen to ascend and release to descend, raining bullets, bubbles, rainbows and lasers downwards as you fly towards higher and higher scores!</desc>
+		<image>./mixart/Jetpack Joyride.jpg</image>
+		<video>./snap/Jetpack Joyride.mp4</video>
+		<marquee>./wheel/Jetpack Joyride.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20121231T000000</releasedate>
+		<developer>Big Ant Studios</developer>
+		<publisher>Halfbrick Studios</publisher>
+		<genre>Action, Platform, Virtual Console</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>3909dfe9ffa36b2671466d606a0dfdbf</md5>
+		<lang>en</lang>
+	</game>
+	<game id="29615">
+		<path>./Street Fighter X Tekken.cmd</path>
+		<name>Street Fighter X Tekken</name>
+		<desc>The long awaited clash between the two leaders in the fighting genre can now be played at homeÃ¢â‚¬Â¦ AND on the go! Street Fighter X Tekken on the PlayStationÃ‚Â®Vita expands on the action-packed console experience, delivering competitive co-op fun that players of all skill levels can enjoy. With the full roster of 55 playable characters and new exclusive features, Street Fighter X Tekken on the PlayStationÃ‚Â®Vita is packed with tons of content and boasts one of the most robust character line-ups in fighting game history.</desc>
+		<image>./mixart/Street Fighter X Tekken.jpg</image>
+		<video>./snap/Street Fighter X Tekken.mp4</video>
+		<marquee>./wheel/Street Fighter X Tekken.png</marquee>
+		<rating>0.8</rating>
+		<developer>Capcom</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Fight</genre>
+		<family>Tekken</family>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

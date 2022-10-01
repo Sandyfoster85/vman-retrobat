@@ -307,22 +307,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./DL2e.cmd</path>
-		<name>Dragon's Lair II: Time Warp HD</name>
-		<desc>DL2: Time Warp HD with classic mode and enhanced Rom. Dirk the Daring must find and rescue Daphne with the help of a well-spoken time machine possessed by the brother of Mordroc, the foul wizard that has kidnapped Daphne. Dirk travels through several dimensions and historical eras, some inspired by classic stories and fairy tales such as Alice in Wonderland and Sleeping Beauty, to prevent Mordroc from enslaving Daphne to his whim with the dreaded Death Ring.</desc>
-		<image>./mixart/DL2e.png</image>
-		<video>./snap/DL2e.mp4</video>
-		<marquee>./wheel/DL2e.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910616T000000</releasedate>
-		<developer>LeLand Corporation</developer>
-		<publisher>Digital Leisure</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dragon Trainer.cmd</path>
 		<name>Dragon Trainer</name>
 		<desc>The Viking village of Berk, located on a remote island, is attacked frequently by dragons, which take livestock, damage property and endanger lives. Hiccup, the awkward fifteen-year-old son of the village chieftain, Stoick the Vast, is deemed too scrawny and weak to fight the dragons, so he instead creates mechanical devices under his apprenticeship with Gobber, the village blacksmith, though Hiccup's inventions often backfire. During one attack, Hiccup uses a bolas launcher to shoot down a Night Fury, a dangerous and rare dragon of which little is known, but no one believes him, so he searches for the fallen dragon on his own. He finds the dragon in the forest, tangled in his net, but cannot bring himself to kill him, and instead sets him free.</desc>
@@ -472,6 +456,22 @@
 		<developer>Sourcing International, Ltd.</developer>
 		<publisher>Worlds of Wonder, Inc.</publisher>
 		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DL2e.cmd</path>
+		<name>Dragon's Lair II: Time Warp HD</name>
+		<desc>DL2: Time Warp HD with classic mode and enhanced Rom. Dirk the Daring must find and rescue Daphne with the help of a well-spoken time machine possessed by the brother of Mordroc, the foul wizard that has kidnapped Daphne. Dirk travels through several dimensions and historical eras, some inspired by classic stories and fairy tales such as Alice in Wonderland and Sleeping Beauty, to prevent Mordroc from enslaving Daphne to his whim with the dreaded Death Ring.</desc>
+		<image>./mixart/DL2e.png</image>
+		<video>./snap/DL2e.mp4</video>
+		<marquee>./wheel/DL2e.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910616T000000</releasedate>
+		<developer>LeLand Corporation</developer>
+		<publisher>Digital Leisure</publisher>
+		<genre>Action</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
