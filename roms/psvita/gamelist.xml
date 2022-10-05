@@ -715,16 +715,6 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Paradox Soul.cmd</path>
-		<name>Paradox Soul</name>
-		<image>./mixart/Paradox Soul.jpg</image>
-		<video>./snap/Paradox Soul.mp4</video>
-		<marquee>./wheel/Paradox Soul.png</marquee>
-		<favorite>true</favorite>
-		<md5>5632a494b2983d08b5e50c30137c9f44</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Period Cube ~Shackles of Amadeus~ (3.61+!) [3.63].cmd</path>
 		<name>Period: Cube - Shackles of Amadeus</name>
 		<desc>In search of your older brother's whereabouts, you join the online RPG, 'Arcadia' in hope of discovering clues. Having lost consciousness after being drawn into a mysterious light, you wake up within the game's fantasy world! Confused and shaken by your strange yet familiar surroundings, you learn that the only way to escape this world of life-or-death is to clear the game. As the game world begins to crumble and fall apart, you'll have to rely on your expanding powers for survival!
@@ -1871,18 +1861,6 @@ Legendary Soundtrack: Once again, the crate diggers at Roll7 have scoured the ai
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./League of Evil.cmd</path>
-		<name>League of Evil</name>
-		<image>./mixart/League of Evil.jpg</image>
-		<video>./snap/League of Evil.mp4</video>
-		<marquee>./wheel/League of Evil.png</marquee>
-		<favorite>true</favorite>
-		<md5>b2e77b988504ccb3f72ecee3c176449d</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220821T121334" />
-		<scrap name="TheGamesDB" date="20220821T121419" />
-	</game>
-	<game>
 		<path>./METAGAL.cmd</path>
 		<name>Metagal</name>
 		<image>./mixart/METAGAL.jpg</image>
@@ -2190,6 +2168,28 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<players>2-4</players>
 		<favorite>true</favorite>
 		<md5>fc3c933a4308ef6c6c0bf9b928665d23</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./League of Evil.cmd</path>
+		<name>League of Evil</name>
+		<image>./mixart/League of Evil.jpg</image>
+		<video>./snap/League of Evil.mp4</video>
+		<marquee>./wheel/League of Evil.png</marquee>
+		<favorite>true</favorite>
+		<md5>b2e77b988504ccb3f72ecee3c176449d</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220821T121334" />
+		<scrap name="TheGamesDB" date="20220821T121419" />
+	</game>
+	<game>
+		<path>./Paradox Soul.cmd</path>
+		<name>Paradox Soul</name>
+		<image>./mixart/Paradox Soul.jpg</image>
+		<video>./snap/Paradox Soul.mp4</video>
+		<marquee>./wheel/Paradox Soul.png</marquee>
+		<favorite>true</favorite>
+		<md5>5632a494b2983d08b5e50c30137c9f44</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

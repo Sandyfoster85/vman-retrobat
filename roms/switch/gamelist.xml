@@ -581,22 +581,6 @@ Start now your speedway adventure through countries like every speedway-fan shou
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Galaxy Shooter.nsp</path>
-		<name>Galaxy Shooter</name>
-		<desc>Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot ’em up!</desc>
-		<image>./mixart/Galaxy Shooter.jpg</image>
-		<video>./snap/Galaxy Shooter.mp4</video>
-		<marquee>./wheel/Galaxy Shooter.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20181106T000000</releasedate>
-		<developer>Fantastico Studio</developer>
-		<publisher>Fantastico Studio</publisher>
-		<genre>Action, Shoot'em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Goblin Sword.xci</path>
 		<name>Goblin Sword</name>
 		<desc>Goblin Sword is a retro-inspired action platformer with light rpg elements. An army of monsters led by an evil wizard have invaded your hometown. Slay as many monsters as you can, collect loot, avoid dangerous traps and defeat menacing bosses, before facing the evil wizard himself. Features: • 89 levels • 13 bosses • 30 weapons with unique special attacks • 30 relics that grant you abilities • 14 costumes • 8 guardians that follow you around and assist you • 5 secret very hard levels • Decorate your home with souvenirs</desc>
@@ -1151,6 +1135,22 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<developer>MercuryStream</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Galaxy Shooter.nsp</path>
+		<name>Galaxy Shooter</name>
+		<desc>Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot ’em up!</desc>
+		<image>./mixart/Galaxy Shooter.jpg</image>
+		<video>./snap/Galaxy Shooter.mp4</video>
+		<marquee>./wheel/Galaxy Shooter.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20181106T000000</releasedate>
+		<developer>Fantastico Studio</developer>
+		<publisher>Fantastico Studio</publisher>
+		<genre>Action, Shoot'em Up</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

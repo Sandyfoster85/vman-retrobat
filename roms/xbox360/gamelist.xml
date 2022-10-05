@@ -3839,24 +3839,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17195">
-		<path>./Harm's Way.m3u</path>
-		<name>Harms Way</name>
-		<desc>Racing in Mad Max style in brutal deserts!</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Harm's Way.png</image>
-		<video>./snap/Harm's Way.mp4</video>
-		<marquee>./wheel/Harm's Way.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Bongfish</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Iron Brigade.m3u</path>
 		<name>Iron Brigade</name>
@@ -4616,6 +4598,24 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<developer>Backbone Entertainment</developer>
 		<genre>Puzzle</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17195">
+		<path>./Harm's Way.m3u</path>
+		<name>Harms Way</name>
+		<desc>Racing in Mad Max style in brutal deserts!</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Harm's Way.png</image>
+		<video>./snap/Harm's Way.mp4</video>
+		<marquee>./wheel/Harm's Way.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Bongfish</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

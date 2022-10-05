@@ -3739,41 +3739,6 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="14614" source="ScreenScraper.fr">
-		<path>./Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
-		<name>Halo 2</name>
-		<desc>Halo 2 is the sequel to the highly successful and critically acclaimed Halo®: Combat Evolved. In Halo 2, the saga continues as Master Chief?a genetically enhanced super-soldier?is the only thing standing between the relentless Covenant and the destruction of all humankind.</desc>
-		<image>./mixart/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</image>
-		<video>./snap/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).mp4</video>
-		<marquee>./wheel/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041109T000000</releasedate>
-		<developer>Bungie</developer>
-		<publisher>Microsoft Game Studios</publisher>
-		<genre>Shooter-Shooter / 1st person-Action</genre>
-		<players>2-16</players>
-		<favorite>true</favorite>
-		<lang>de,en,jp,es,fr,it</lang>
-		<region>eu</region>
-		<genreid>259</genreid>
-	</game>
-	<game id="14951" source="ScreenScraper.fr">
-		<path>./Aliens Versus Predator Extinction.iso</path>
-		<name>Aliens versus Predator : Extinction</name>
-		<desc>The battle that has split more blood over centuries continues, with the human marines caught in-between the powerful Aliens and the deadly Predators. Extinction has you controlling one of the three races in a real time strategy mix, building each unit and setting them out into the battlefield to complete a range of tasks. Each race has an advantage and disadvantage. The humans have a collection of different units, from heavy weapons experts to medics, and are better known for their long range attacks. Predators are hardcore fighters, taking the battle right up to the enemy, although there are fewer of them available to counter act their superior power. Finally, the Aliens are fast and deadly, and always hunt in large packs.</desc>
-		<image>./mixart/Aliens Versus Predator Extinction.png</image>
-		<video>./snap/Aliens Versus Predator Extinction.mp4</video>
-		<marquee>./wheel/Aliens Versus Predator Extinction.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030808T000000</releasedate>
-		<developer>Zono</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1280</genreid>
-	</game>
 	<game>
 		<path>./TaoFang - Fist of the Lotus.iso</path>
 		<name>Tao Feng: Fist of the Lotus</name>
@@ -3842,5 +3807,40 @@ You are Bruce Lee, legendary martial arts master. Your father has been kidnapped
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game id="14951" source="ScreenScraper.fr">
+		<path>./Aliens Versus Predator Extinction.iso</path>
+		<name>Aliens versus Predator : Extinction</name>
+		<desc>The battle that has split more blood over centuries continues, with the human marines caught in-between the powerful Aliens and the deadly Predators. Extinction has you controlling one of the three races in a real time strategy mix, building each unit and setting them out into the battlefield to complete a range of tasks. Each race has an advantage and disadvantage. The humans have a collection of different units, from heavy weapons experts to medics, and are better known for their long range attacks. Predators are hardcore fighters, taking the battle right up to the enemy, although there are fewer of them available to counter act their superior power. Finally, the Aliens are fast and deadly, and always hunt in large packs.</desc>
+		<image>./mixart/Aliens Versus Predator Extinction.png</image>
+		<video>./snap/Aliens Versus Predator Extinction.mp4</video>
+		<marquee>./wheel/Aliens Versus Predator Extinction.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030808T000000</releasedate>
+		<developer>Zono</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1280</genreid>
+	</game>
+	<game id="14614" source="ScreenScraper.fr">
+		<path>./Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).iso</path>
+		<name>Halo 2</name>
+		<desc>Halo 2 is the sequel to the highly successful and critically acclaimed Halo®: Combat Evolved. In Halo 2, the saga continues as Master Chief?a genetically enhanced super-soldier?is the only thing standing between the relentless Covenant and the destruction of all humankind.</desc>
+		<image>./mixart/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</image>
+		<video>./snap/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).mp4</video>
+		<marquee>./wheel/Halo 2 (World) (En,Ja,Fr,De,Es,It,Zh,Ko).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Bungie</developer>
+		<publisher>Microsoft Game Studios</publisher>
+		<genre>Shooter-Shooter / 1st person-Action</genre>
+		<players>2-16</players>
+		<favorite>true</favorite>
+		<lang>de,en,jp,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>259</genreid>
 	</game>
 </gameList>

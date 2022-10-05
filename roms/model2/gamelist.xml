@@ -22,21 +22,6 @@
 		<region>us</region>
 		<path>./desert.zip</path>
 	</game>
-	<game id="37483" source="ScreenScraper.fr">
-		<path>./sgt24h.zip</path>
-		<name>Super GT 24h</name>
-		<desc>1996 arcade racing game. Work your way to the top spot within 5 laps</desc>
-		<image>./mixart/sgt24h.png</image>
-		<video>./snap/sgt24h.mp4</video>
-		<marquee>./wheel/sgt24h.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<genreid>1537</genreid>
-	</game>
 	<game id="37484" source="ScreenScraper.fr">
 		<path>./skisuprg.zip</path>
 		<name>Sega Ski Super G</name>
@@ -78,21 +63,6 @@ State of the art texture mapping provides sophisticated reproduction of the Worl
 		<marquee>./wheel/vstriker.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<genreid>1536</genreid>
-	</game>
-	<game id="37503" source="ScreenScraper.fr">
-		<path>./waverunr.zip</path>
-		<name>Wave Runner</name>
-		<desc>WaveRunner is a jet-ski racing game. This game features three courses, and up to four cabinets can be linked for multiplayer racing.</desc>
-		<image>./mixart/waverunr.png</image>
-		<video>./snap/waverunr.mp4</video>
-		<marquee>./wheel/waverunr.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Sports</genre>
@@ -231,22 +201,6 @@ The game is made to be played with a two-joystick setup, known as the twin-stick
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="37489" source="ScreenScraper.fr">
-		<path>./stcc.zip</path>
-		<name>Sega Touring Car Championship</name>
-		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
-		<image>./mixart/stcc.png</image>
-		<video>./snap/stcc.mp4</video>
-		<marquee>./wheel/stcc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<md5>8d314f44fcc63929b6925b614ae0d197</md5>
-		<genreid>1537</genreid>
 	</game>
 	<game id="41073" source="ScreenScraper.fr">
 		<path>./dynamcop.zip</path>
@@ -426,23 +380,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<region>us</region>
 		<genreid>1538</genreid>
 	</game>
-	<game id="37505" source="ScreenScraper.fr">
-		<path>./zerogun.zip</path>
-		<name>Zero Gunner</name>
-		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
-		<image>./mixart/zerogun.png</image>
-		<video>./snap/zerogun.mp4</video>
-		<marquee>./wheel/zerogun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shooter / Plane</genre>
-		<arcadesystemname>model2</arcadesystemname>
-		<players>2</players>
-		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./vcop2.zip</path>
 		<name>Virtua Cop 2</name>
@@ -496,6 +433,23 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<lang>en</lang>
 		<region>us</region>
 	</game>
+	<game id="37483" source="ScreenScraper.fr">
+		<path>./sgt24h.zip</path>
+		<name>Super GT 24h</name>
+		<desc>1996 arcade racing game. Work your way to the top spot within 5 laps</desc>
+		<image>./mixart/sgt24h.png</image>
+		<video>./snap/sgt24h.mp4</video>
+		<marquee>./wheel/sgt24h.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
 	<game>
 		<path>./srallyc.zip</path>
 		<name>Sega Rally Championship</name>
@@ -511,5 +465,59 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37489" source="ScreenScraper.fr">
+		<path>./stcc.zip</path>
+		<name>Sega Touring Car Championship</name>
+		<desc>Sega Touring Car Championship is a Sega Model 2C CRX arcade racing game developed by Sega AM5 in 1996. It is similar to Sega Rally Championship in design, but uses touring cars instead of rally cars. Unlike Sega Rally Championship, Sega Touring Car Championship has never seen a sequel, and it considered a far less successful game for a variety of reasons, most notably the steep difficulty curve and often awkward car handing.</desc>
+		<image>./mixart/stcc.png</image>
+		<video>./snap/stcc.mp4</video>
+		<marquee>./wheel/stcc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<md5>8d314f44fcc63929b6925b614ae0d197</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game id="37503" source="ScreenScraper.fr">
+		<path>./waverunr.zip</path>
+		<name>Wave Runner</name>
+		<desc>WaveRunner is a jet-ski racing game. This game features three courses, and up to four cabinets can be linked for multiplayer racing.</desc>
+		<image>./mixart/waverunr.png</image>
+		<video>./snap/waverunr.mp4</video>
+		<marquee>./wheel/waverunr.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>1536</genreid>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogun.zip</path>
+		<name>Zero Gunner</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<image>./mixart/zerogun.png</image>
+		<video>./snap/zerogun.mp4</video>
+		<marquee>./wheel/zerogun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane</genre>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>2</players>
+		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

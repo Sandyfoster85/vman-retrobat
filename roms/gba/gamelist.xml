@@ -4000,23 +4000,6 @@ There are four boards, each with their own theme based on an amusement park ride
 		<region>eu</region>
 		<cheevosHash>8DBD6BFDFF54F2FC0F1BBDE11706A803</cheevosHash>
 	</game>
-	<game id="3989" source="ScreenScraper.fr">
-		<path>./DK - King of Swing (USA, Australia).7z</path>
-		<name>DK : King of Swing</name>
-		<desc>Cranky is hosting the Jungle Jam contest. Before the contest can begin, King K. Rool steals the medallions. It's up to Donkey Kong to retrieve the medals. Players use the L and R Buttons to move left and right and to rotate counter-clockwise and clockwise on pegs. Most of the action takes place on these pegs. DK attacks by either charging up by holding on to two pegs at once or throwing things such as rocks or bombs.</desc>
-		<image>./mixart/DK - King of Swing (USA, Australia).png</image>
-		<video>./snap/DK - King of Swing (USA, Australia).mp4</video>
-		<rating>0.8</rating>
-		<releasedate>20050204T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Strategy</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>054223E916F9A4F543812AE795145CB5</cheevosHash>
-		<cheevosId>5008</cheevosId>
-	</game>
 	<game id="3975" source="ScreenScraper.fr">
 		<path>./Dogz (USA).7z</path>
 		<name>Dogz</name>
@@ -17960,5 +17943,23 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>51901A6E40661B3914AA333C802E24E8</cheevosHash>
+	</game>
+	<game id="3989" source="ScreenScraper.fr">
+		<path>./DK - King of Swing (USA, Australia).7z</path>
+		<name>DK : King of Swing</name>
+		<desc>Cranky is hosting the Jungle Jam contest. Before the contest can begin, King K. Rool steals the medallions. It's up to Donkey Kong to retrieve the medals. Players use the L and R Buttons to move left and right and to rotate counter-clockwise and clockwise on pegs. Most of the action takes place on these pegs. DK attacks by either charging up by holding on to two pegs at once or throwing things such as rocks or bombs.</desc>
+		<image>./mixart/DK - King of Swing (USA, Australia).png</image>
+		<video>./snap/DK - King of Swing (USA, Australia).mp4</video>
+		<marquee>./wheel/DK - King of Swing (USA, Australia).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050204T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>054223E916F9A4F543812AE795145CB5</cheevosHash>
+		<cheevosId>5008</cheevosId>
 	</game>
 </gameList>

@@ -8746,26 +8746,6 @@ This is a 2D fighting game, in which you can play as one of 10 very different ki
 		<region>us</region>
 		<cheevosHash>843061275E8D1269CE3F2D912655617A</cheevosHash>
 	</game>
-	<game>
-		<path>./Heart of Darkness (USA).m3u</path>
-		<name>Heart of Darkness</name>
-		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
-
-You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
-		<image>./mixart/Heart of Darkness (USA).png</image>
-		<video>./snap/Heart of Darkness (USA).mp4</video>
-		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Amazing Studios</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>441FAD646AF643DF4BE6F34CD3AA721D</cheevosHash>
-		<cheevosId>11361</cheevosId>
-	</game>
 	<game id="20182" source="ScreenScraper.fr">
 		<path>./Hellboy - Asylum Seeker (USA).chd</path>
 		<name>Hellboy : Asylum Seeker</name>
@@ -21155,28 +21135,6 @@ Graphically, Starblade Alpha has been improved from its original arcade format. 
 		<cheevosHash>BCA1CBC9EFA8ED959BD49741F361BED1</cheevosHash>
 	</game>
 	<game>
-		<path>./Moto Racer (USA).chd</path>
-		<name>Moto Racer</name>
-		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
-
-Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
-
-A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
-		<image>./mixart/Moto Racer (USA).png</image>
-		<video>./snap/Moto Racer (USA).mp4</video>
-		<marquee>./wheel/Moto Racer (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19971130T000000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Electronic Arts</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD87E03DBF4400399DDD46AD73B73B30</cheevosHash>
-		<cheevosId>13959</cheevosId>
-	</game>
-	<game>
 		<path>./Formula 1 (USA).chd</path>
 		<name>Formula 1</name>
 		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
@@ -21493,5 +21451,47 @@ There are a variety of modes including a career mode where the player can compet
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
+	</game>
+	<game>
+		<path>./Heart of Darkness (USA).m3u</path>
+		<name>Heart of Darkness</name>
+		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
+
+You get off your spaceship and begin your quest, which takes in 8 worlds and 176 screens of ladders, ledges and platforms, across locations such as mountains and caves. There are puzzles to solve and precise timing sections along the way. The game features orchestral music and video sequences.</desc>
+		<image>./mixart/Heart of Darkness (USA).png</image>
+		<video>./snap/Heart of Darkness (USA).mp4</video>
+		<marquee>./wheel/Heart of Darkness (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Amazing Studios</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>441FAD646AF643DF4BE6F34CD3AA721D</cheevosHash>
+		<cheevosId>11361</cheevosId>
+	</game>
+	<game>
+		<path>./Moto Racer (USA).chd</path>
+		<name>Moto Racer</name>
+		<desc>An arcade motorcycle racer in which both superbike and motocross events are available. Game modes include Practice, Time Attack, in which players race against their own replays, Single Races against computer-controlled opponents, and a Championship Circuit. Network or Internet play for up to 8 players is available as well.
+
+Winning the championship unlocks additional courses out of the 4 road and 4 dirt tracks available, as well as the new game options Reverse and Pocket Bike. In Reverse mode the tracks are raced in the opposite direction, while in Pocket Bike mode every racer is given a miniature version of his motorcycle.
+
+A free track add-on extends the game with one additional course for sportbikes and dirtbikes each.</desc>
+		<image>./mixart/Moto Racer (USA).png</image>
+		<video>./snap/Moto Racer (USA).mp4</video>
+		<marquee>./wheel/Moto Racer (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19971130T000000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Electronic Arts</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD87E03DBF4400399DDD46AD73B73B30</cheevosHash>
+		<cheevosId>13959</cheevosId>
 	</game>
 </gameList>

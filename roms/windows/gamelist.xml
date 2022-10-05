@@ -2183,22 +2183,6 @@ Gather a little army of monsters, equip yourself with weapons and relics and lev
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Agent Intercept.lnk</path>
-		<name>Agent Intercept</name>
-		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
-		<image>./mixart/Agent Intercept.jpg</image>
-		<video>./snap/Agent Intercept.mp4</video>
-		<marquee>./wheel/Agent Intercept.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>PikPok</developer>
-		<publisher>PikPok</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./AGS - King Quest II.lnk</path>
 		<name>AGS - King Quest II</name>
 		<desc>Fandmade remake of King Quest II using Adventure Gaming Studio engine. - AGD Interactive Ultimate Remake of King's Quest II: Newly crowned King Graham is lonley of heart. A vision of a lovely maiden improsoned in a quartz tower leads him to the land of Kolyma on a quest to rescude his future bride!</desc>
@@ -9177,5 +9161,37 @@ This is a one-person project, 8 years in the making.</desc>
 		<genre>Fighting Game</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Agent Intercept.lnk</path>
+		<name>Agent Intercept</name>
+		<desc>Agent Intercept. Agent Intercept. Leap into the driver's seat of an epic narrative of intrigue, betrayal, and unbelievable set-pieces. Stop the nefarious criminal organization CLAW and save the world from total destruction in your slick, souped-up, transforming vehicle.</desc>
+		<image>./mixart/Agent Intercept.jpg</image>
+		<video>./snap/Agent Intercept.mp4</video>
+		<marquee>./wheel/Agent Intercept.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>PikPok</developer>
+		<publisher>PikPok</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The King of Fighters XIII - Galaxy Edition.lnk</path>
+		<name>The King of Fighters XIII - Galaxy Edition</name>
+		<desc>The King of Fighters XIII was released for PlayStation 3 late last year. Since then, SNK Playmore has collected, with much affection, suggestions and complaints from the fans about the game. From the PS3 release through April 2012, the company has been launching frequent updates based on their research to improve the game and make the title experience more accurate to the public's expectations. New characters have been added, the company has better balanced the game, removed some infinite combos that should not exist, among other improvements. Anyway, SNK Playmore, with a lot of sweat, had managed to finish the job, The King of Fighters XIII had stayed exactly as the gamers wanted. However, there was an issue that troubled the company. Originally the game was released for Arcade, and only after a time ported to the PS3. With the updates made, it was noted that the home version had gotten much better than the original version, making KOFXIII outdated in Arcade. Thinking about it, the company decided to do the reverse. If Arcade had given life to the game's home port, The King of Fighters XIII had to go back to Arcade and showcase all of its improvements, bringing back the glory of the franchise. With this premise is born The King of Fighters XIII Climax, made available a few days ago in Japan, bringing everything the version for PlayStation 3 has. Unfortunately, SNK distributor Atlus in the west has not revealed whether there are plans for the launch of KOFXIII Climax in the Arcades here.</desc>
+		<image>./mixart/The King of Fighters XIII - Galaxy Edition.jpg</image>
+		<video>./snap/The King of Fighters XIII - Galaxy Edition.mp4</video>
+		<marquee>./wheel/The King of Fighters XIII - Galaxy Edition.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20120426T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

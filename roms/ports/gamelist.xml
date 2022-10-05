@@ -593,22 +593,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Mushroom Kingdom Fusion.lnk</path>
-		<name>'H'Mushroom Kingdom Fusion</name>
-		<desc>Mushroom Kingdom Fusion (also known as MKFusion and MKF) is a fan base made game with modified Mario gameplay, crossed over with many different video game universes and elements. A roster of playable characters, both from within the Mario universe and outside of the Mario universe. Each character will have their own unique powerup system and gameplay mechanics, adapted to fit within the Mario-based gameplay.</desc>
-		<image>./mixart/Mushroom Kingdom Fusion.png</image>
-		<video>./snap/Mushroom Kingdom Fusion.mp4</video>
-		<marquee>./wheel/Mushroom Kingdom Fusion.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210626T000000</releasedate>
-		<developer>Fan-Made</developer>
-		<publisher>Fan-Made</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Contra Evolution.lnk</path>
 		<name>Contra: Evolution</name>
 		<desc>In 2631, a meteorite strikes the Galuga archipelago near New Zealand, carrying with it a dormant alien being. Two years later, a terrorist organization calling themselves Red Falcon takes over the island as part of their plot to invade the Earth. Bill Rizer and Lance Bean, of the Contra unit, are sent to the Oceania island to stop the evil threat.
@@ -625,6 +609,22 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>Konami Arcade</publisher>
 		<genre>Action, Shoot 'Em Up</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Mushroom Kingdom Fusion.lnk</path>
+		<name>'H'Mushroom Kingdom Fusion</name>
+		<desc>Mushroom Kingdom Fusion (also known as MKFusion and MKF) is a fan base made game with modified Mario gameplay, crossed over with many different video game universes and elements. A roster of playable characters, both from within the Mario universe and outside of the Mario universe. Each character will have their own unique powerup system and gameplay mechanics, adapted to fit within the Mario-based gameplay.</desc>
+		<image>./mixart/Mushroom Kingdom Fusion.png</image>
+		<video>./snap/Mushroom Kingdom Fusion.mp4</video>
+		<marquee>./wheel/Mushroom Kingdom Fusion.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210626T000000</releasedate>
+		<developer>Fan-Made</developer>
+		<publisher>Fan-Made</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
