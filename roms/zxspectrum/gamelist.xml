@@ -803,22 +803,6 @@ Security droids are on patrol, but these can be tricked into falling down holes.
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Deathchase (Europe).tzx</path>
-		<name>3D Deathchase</name>
-		<desc>3D Deathchase sees you riding a motorcycle through 14 stages, with the aim of shooting out a succession of riders. Each stage starts with 2 bikes to shoot out, although planes and tanks also appear on the horizon, to be shot for bonus points. You start with 3 bikes and an infinite supply of bullets, with one bike lost every time you crash.
-
-The levels are tree-lined, and at top speed it can be terrifying as you try to muscle through the gaps so as not to lose distance on the target bike. Every second level is played out at night, which changes the colour scheme.</desc>
-		<image>./mixart/Deathchase (Europe).png</image>
-		<video>./snap/Deathchase (Europe).mp4</video>
-		<rating>0.75</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Mervyn J. Estcourt, R.B.</developer>
-		<publisher>Micromega</publisher>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="136099" source="ScreenScraper.fr">
 		<path>./Doomdark's Revenge (Europe).tzx</path>
 		<name>Doomdark's Revenge</name>
@@ -3445,6 +3429,23 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
 		<players>1</players>
 		<favorite>true</favorite>
 		<crc32>3DDD1476</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Deathchase (Europe).tzx</path>
+		<name>3D Deathchase</name>
+		<desc>3D Deathchase sees you riding a motorcycle through 14 stages, with the aim of shooting out a succession of riders. Each stage starts with 2 bikes to shoot out, although planes and tanks also appear on the horizon, to be shot for bonus points. You start with 3 bikes and an infinite supply of bullets, with one bike lost every time you crash.
+
+The levels are tree-lined, and at top speed it can be terrifying as you try to muscle through the gaps so as not to lose distance on the target bike. Every second level is played out at night, which changes the colour scheme.</desc>
+		<image>./mixart/Deathchase (Europe).png</image>
+		<video>./snap/Deathchase (Europe).mp4</video>
+		<rating>0.75</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Mervyn J. Estcourt, R.B.</developer>
+		<publisher>Micromega</publisher>
+		<md5>fe364c0806838107a6dc12b5faddcab2</md5>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

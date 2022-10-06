@@ -2102,22 +2102,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ninja Turtles.fpt</path>
-		<name>Ninja Turtles</name>
-		<desc>Flipper Ninja Turtles</desc>
-		<image>./mixart/Ninja Turtles.jpg</image>
-		<video>./snap/Ninja Turtles.mp4</video>
-		<marquee>./wheel/Ninja Turtles.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./outbackpub BAM Edition.fpt</path>
 		<name>Outback Pub</name>
 		<desc>Flipper Outback Pub BAM Edition</desc>
@@ -4773,6 +4757,53 @@
 		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
 		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
 		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./heavy metal meltdown_night_1_1(Macemod).fpt</path>
+		<name>Heavy Metal Meltdown</name>
+		<desc>Flipper heavy metal meltdown_night_1_1(Macemod)</desc>
+		<image>./mixart/heavy metal meltdown_night_1_1(Macemod).png</image>
+		<video>./snap/heavy metal meltdown_night_1_1(Macemod).mp4</video>
+		<marquee>./wheel/heavy metal meltdown_night_1_1(Macemod).png</marquee>
+		<rating>3</rating>
+		<releasedate>19721231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Turtles.fpt</path>
+		<name>TMNT</name>
+		<desc>Flipper Ninja Turtles</desc>
+		<image>./mixart/Turtles.png</image>
+		<video>./snap/Turtles.mp4</video>
+		<marquee>./wheel/Turtles.png</marquee>
+		<rating>3</rating>
+		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja Turtles.fpt</path>
+		<name>Ninja Turtles</name>
+		<desc>Flipper Ninja Turtles</desc>
+		<image>./mixart/Ninja Turtles.jpg</image>
+		<video>./snap/Ninja Turtles.mp4</video>
+		<marquee>./wheel/Ninja Turtles.png</marquee>
+		<rating>4</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>

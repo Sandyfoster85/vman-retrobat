@@ -22427,24 +22427,6 @@ We play as painter while painting his great canvas of beautiful females, but his
 		<region>us</region>
 		<cheevosHash>11F196411B3498239F1D2BC84ADA32B9</cheevosHash>
 	</game>
-	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>./mixart/captcomm.png</image>
-		<video>./snap/captcomm.mp4</video>
-		<marquee>./wheel/captcomm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
-		<cheevosId>11726</cheevosId>
-	</game>
 	<game id="149898">
 		<path>./captflag.zip</path>
 		<name>Captain Flag</name>
@@ -44779,24 +44761,6 @@ The music for the attract mode was remixed, then reused for the first stage of "
 		<region>us</region>
 		<cheevosHash>024E350BE5736B014D80C32330F03E2A</cheevosHash>
 		<cheevosId>12027</cheevosId>
-	</game>
-	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X: Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform/Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
-		<cheevosId>11770</cheevosId>
 	</game>
 	<game>
 		<path>./msword.zip</path>
@@ -72904,5 +72868,42 @@ Hirohiko Araki served as a consultant for the game and created exclusive pieces 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./mixart/captcomm.png</image>
+		<video>./snap/captcomm.mp4</video>
+		<marquee>./wheel/captcomm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
+		<cheevosId>11726</cheevosId>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X: Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform/Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
+		<cheevosId>11770</cheevosId>
 	</game>
 </gameList>
