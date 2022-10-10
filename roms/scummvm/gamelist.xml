@@ -1251,21 +1251,6 @@ The game, which was a critical and commercial success, was released as Circle of
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./t7g.svm/The 7th Guest.scummvm</path>
-		<name>The 7th Guest</name>
-		<desc>Henry Stauf's mansion had been abandoned for as long as anyone dare remember. Stauf was a master toy maker, a maker of amazing puzzles and this strange house was his greatest creation. Now, the mansion stands empty, rotting ever since the children started dying, ever since the six guests came. Now there are only the eerie lights and the terrible sing-song rhymes of the children...
-And suddenly, you are in the house. You move from room to haunted room, step by terrifying step, as scenes from that night of horror come to life. Because Stauf's game isn't over. There were six guests the world knew about - and there was one other. Stauf's mad mansion lives again. And only you can end the nightmare and learn the secret of The 7th Guest.</desc>
-		<image>./mixart/t7g.png</image>
-		<video>./snap/t7g.mp4</video>
-		<marquee>./wheel/t7g.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930401T000000</releasedate>
-		<developer>Trilobyte</developer>
-		<publisher>Virgin</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./teenagent.svm/Teen Agent.scummvm</path>
 		<name>Teenagent</name>
 		<desc>You take the role of Mark Hopper, an ordinary teenager who gets hired by the RGB intelligence (he was selected by a fortune teller) to solve the mystery of gold disappearing from the Mega Bank. But first you're sent to the RGB training camp where you'll have to pass the three trials!    Teenagent is a humorous point-and-click adventure, originally available as shareware, but the DOS version was later re-released as freeware. You control Mark Hopper with a mouse - click on where you want him to go, left-click on objects and people to look at them, and right-click on them to interact with them. By moving the cursor to the top of the screen, you bring up your inventory.</desc>
@@ -1783,6 +1768,20 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./monkey4-win.cmd</path>
+		<name>Escape From Monkey Island</name>
+		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
+		<image>./mixart/monkey4.png</image>
+		<video>./snap/monkey4.mp4</video>
+		<marquee>./wheel/monkey4.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001108T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./phantasmagoria2.svm/Phantasmagoria - A Puzzle of Flesh.scummvm</path>
 		<name>Phantasmagoria: A Puzzle of Flesh</name>
 		<desc>Phantasmagoria: A Puzzle of Flesh (also known as Phantasmagoria 2) is an interactive movie point-and-click adventure game released in 1996 by Sierra On-Line. Though technically a sequel to Roberta Williams' 1995 game Phantasmagoria, Puzzle of Flesh shares no connections with its predecessor in plot nor characters, as Sierra initially intended the Phantasmagoria title to be a horror anthology, with each installment of a different story and style. While not a commercial success, A Puzzle of Flesh, like its predecessor Phantasmagoria, is remembered for its controversial violent and sexual content, which led the game to being heavily censored or banned outright in several European and Oceanic countries.</desc>
@@ -1799,16 +1798,17 @@ The games locations are done in hand-painted style. The CD version of the game a
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./monkey4-win.cmd</path>
-		<name>Escape From Monkey Island</name>
-		<desc>The game follows Guybrush Threepwood and Elaine Marley as they return to Mêlée Island from their honeymoon. There they discover that Elaine Marley's position of governor has been revoked, her mansion is scheduled to be demolished, and a politician named Charles L. Charles is running for the governorship. Guybrush learns that the islands are being purchased one by one, and pirates are being forced out in favor of tacky Carribean-themed tourism. Guybrush must find out who is threatening his way of life, piracy, and also find a way to save Elaine's mansion.</desc>
-		<image>./mixart/monkey4.png</image>
-		<video>./snap/monkey4.mp4</video>
-		<marquee>./wheel/monkey4.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20001108T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
+		<path>./t7g.svm/The 7th Guest.scummvm</path>
+		<name>The 7th Guest</name>
+		<desc>Henry Stauf's mansion had been abandoned for as long as anyone dare remember. Stauf was a master toy maker, a maker of amazing puzzles and this strange house was his greatest creation. Now, the mansion stands empty, rotting ever since the children started dying, ever since the six guests came. Now there are only the eerie lights and the terrible sing-song rhymes of the children...
+And suddenly, you are in the house. You move from room to haunted room, step by terrifying step, as scenes from that night of horror come to life. Because Stauf's game isn't over. There were six guests the world knew about - and there was one other. Stauf's mad mansion lives again. And only you can end the nightmare and learn the secret of The 7th Guest.</desc>
+		<image>./mixart/t7g.png</image>
+		<video>./snap/t7g.mp4</video>
+		<marquee>./wheel/t7g.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930401T000000</releasedate>
+		<developer>Trilobyte</developer>
+		<publisher>Virgin</publisher>
 		<genre>Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>

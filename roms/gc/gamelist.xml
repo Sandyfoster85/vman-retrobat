@@ -1361,27 +1361,6 @@ There are 8 main battle arenas and many different types of multi-player battles.
 		<genreid>257</genreid>
 	</game>
 	<game id="5037" source="ScreenScraper.fr">
-		<path>./Conan (Europe) (En,Fr,De,Es,It) (Disc 1).rvz</path>
-		<name>Conan (Disc 1)</name>
-		<desc>As Conan returns from another successful adventure, he finds that a band of masked warriors has destroyed his village and murdered his uncle, bad move. Now it's time for Revenge! 
-
-"Conan" is a 3D hack'n'slash action title which blends RPG elements by awarding experience points for each defeated enemy. Said points can be spent on a plethora of fighting skills which are then triggered via a simple combo system for spectacular results as you battle hordes of human warriors and supernatural monsters from beyond in your quest for revenge. Should you fall to a well placed blow, Conan offers you the chance to try and regain your honor in the domains of Crom, were a small arena fight can restore your honor and bring you back to life and continue the game or damn you to eternity should you fail. 
-
-Also available is a multiplayer Arena mode in which you can duke it out mano-a-mano with other human players as Conan or a selection of original characters. Features the original licensed soundtrack from the Conan movies by Basil Poledouris.</desc>
-		<image>./mixart/Conan (Europe) (En,Fr,De,Es,It) (Disc 1).png</image>
-		<video>./snap/Conan (Europe) (En,Fr,De,Es,It) (Disc 2).mp4</video>
-		<marquee>./wheel/Conan (Europe) (En,Fr,De,Es,It) (Disc 2).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20040430T000000</releasedate>
-		<developer>TDK</developer>
-		<publisher>Cauldron</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<genreid>256</genreid>
-	</game>
-	<game id="5037" source="ScreenScraper.fr">
 		<path>./Conan (Europe) (En,Fr,De,Es,It) (Disc 2).rvz</path>
 		<name>Conan (Disc 2)</name>
 		<desc>As Conan returns from another successful adventure, he finds that a band of masked warriors has destroyed his village and murdered his uncle, bad move. Now it's time for Revenge! 
@@ -3281,22 +3260,6 @@ The game consists of 3 types of gameplay. First there is belly-sledding where yo
 		<publisher>Interplay</publisher>
 		<genre>Adventure</genre>
 		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./I-Ninja (USA).rvz</path>
-		<name>I-ninja</name>
-		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
-		<image>./mixart/I-Ninja (USA).png</image>
-		<video>./snap/I-Ninja (USA).mp4</video>
-		<marquee>./wheel/I-Ninja (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040202T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Platform</genre>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -9027,6 +8990,43 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<developer>Retro Studios, Inc.</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5037" source="ScreenScraper.fr">
+		<path>./Conan (Europe) (En,Fr,De,Es,It) (Disc 1).rvz</path>
+		<name>Conan (Disc 1)</name>
+		<desc>As Conan returns from another successful adventure, he finds that a band of masked warriors has destroyed his village and murdered his uncle, bad move. Now it's time for Revenge! 
+
+"Conan" is a 3D hack'n'slash action title which blends RPG elements by awarding experience points for each defeated enemy. Said points can be spent on a plethora of fighting skills which are then triggered via a simple combo system for spectacular results as you battle hordes of human warriors and supernatural monsters from beyond in your quest for revenge. Should you fall to a well placed blow, Conan offers you the chance to try and regain your honor in the domains of Crom, were a small arena fight can restore your honor and bring you back to life and continue the game or damn you to eternity should you fail. 
+
+Also available is a multiplayer Arena mode in which you can duke it out mano-a-mano with other human players as Conan or a selection of original characters. Features the original licensed soundtrack from the Conan movies by Basil Poledouris.</desc>
+		<image>./mixart/Conan (Europe) (En,Fr,De,Es,It) (Disc 1).png</image>
+		<video>./snap/Conan (Europe) (En,Fr,De,Es,It) (Disc 2).mp4</video>
+		<marquee>./wheel/Conan (Europe) (En,Fr,De,Es,It) (Disc 2).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20040430T000000</releasedate>
+		<developer>TDK</developer>
+		<publisher>Cauldron</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).rvz</path>
+		<name>I-ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
+		<image>./mixart/I-Ninja (USA).png</image>
+		<video>./snap/I-Ninja (USA).mp4</video>
+		<marquee>./wheel/I-Ninja (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040202T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Platform</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

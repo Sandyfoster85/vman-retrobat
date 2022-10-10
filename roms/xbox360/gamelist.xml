@@ -910,24 +910,6 @@ There are four main levels that consist of five stages each, along with a boss f
 		<image>./mixart/Scott Pilgrim vs. The World The Game.png</image>
 		<video>./snap/Scott Pilgrim vs. The World The Game.mp4</video>
 	</game>
-	<game id="17461">
-		<path>./SEGA Rally Online Arcade.m3u</path>
-		<name>Sega Rally Online Arcade</name>
-		<desc>Sega Rally Online Arcade is a racing game for download on Xbox Live Arcade. Thirteen cars are brought together to race in Championship or Time Trial modes. In addition to online leaderboards, there is also a 6-player option for racing with other connected players.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/SEGA Rally Online Arcade.png</image>
-		<rating>0.7</rating>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<md5>5a5ba5f00a0688e416d6156110771563</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220813T083109" />
-		<marquee>./wheel/SEGA Rally Online Arcade.png</marquee>
-		<video>./snap/SEGA Rally Online Arcade.mp4</video>
-	</game>
 	<game id="17158">
 		<path>./Serious Sam Double D XXL.m3u</path>
 		<name>Serious Sam : Double D XXL</name>
@@ -1216,20 +1198,6 @@ Battle for the future of the streets in unique rhythm-based action combat fights
 		<marquee>./wheel/Centipede and Millipede.png</marquee>
 		<video>./snap/Centipede and Millipede.mp4</video>
 	</game>
-	<game id="17340">
-		<path>./DAYTONA USA.m3u</path>
-		<name>Daytona Usa</name>
-		<desc>Daytona USA on Xbox 360 is the remake of the popular arcade title. This edition includes the game modes of the time as well as a Karaoke mode and an online multiplayer that allows up to 8 users to compete.</desc>
-		<image>./mixart/DAYTONA USA.png</image>
-		<marquee>./wheel/DAYTONA USA.png</marquee>
-		<rating>0.95</rating>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<family>Daytona USA</family>
-		<lang>en</lang>
-		<video>./snap/DAYTONA USA.mp4</video>
-	</game>
 	<game id="17808">
 		<path>./Feeding Frenzy 2.m3u</path>
 		<name>Feeding Frenzy 2 : Shipwreck Showdown</name>
@@ -1383,25 +1351,6 @@ This version of the game features nearly 200 levels, a resistance mode, a puzzle
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<video>./snap/Lode Runner.mp4</video>
-	</game>
-	<game>
-		<path>./Marvel vs. Capcom Origins.m3u</path>
-		<name>Marvel vs. Capcom Origins</name>
-		<desc>MARVEL VS. CAPCOM ORIGINS offers both the one-on-one gameplay of Marvel Super Heroes with its unique Infinity Gem system and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, MARVEL VS. CAPCOM ORIGINS features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.</desc>
-		<image>./mixart/Marvel vs. Capcom Origins.png</image>
-		<marquee>./wheel/Marvel vs. Capcom Origins.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20120925T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Combat</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>56a6935d74bde05dc07c8189fbd8de61</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220813T082621" />
-		<scrap name="HfsDB" date="20220813T082625" />
-		<video>./snap/Marvel vs. Capcom Origins.mp4</video>
 	</game>
 	<game id="17440">
 		<path>./Phantom Breaker Battle Grounds.m3u</path>
@@ -1589,25 +1538,6 @@ This version of the game features nearly 200 levels, a resistance mode, a puzzle
 		<md5>5024745e5a017853360891b72b253de1</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220813T081801" />
-	</game>
-	<game id="16958">
-		<path>./DOOM II.m3u</path>
-		<name>Doom II</name>
-		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/DOOM II.png</image>
-		<video>./snap/DOOM II.mp4</video>
-		<marquee>./wheel/DOOM II.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Nerve Software</developer>
-		<publisher>id Software</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Doom</family>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Duke Nukem Manhattan.m3u</path>
@@ -4383,43 +4313,6 @@ The player control the series' main character, Strider Hiryu. The environment is
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17757">
-		<path>./Bonk.m3u</path>
-		<name>Bonk : Brink of Extinction</name>
-		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
-		<image>./mixart/Bonk.jpg</image>
-		<video>./snap/Bonk.mp4</video>
-		<marquee>./wheel/Bonk.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T132913" />
-	</game>
-	<game id="17283">
-		<path>./Double Dragon.m3u</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon on Xbox Live Arcade is a beat'em all set in chaotic New York in the heart of the 90s. Alone or in pairs, you play as Billy and Jim Lee, two brothers teaching martial arts. The story begins when Billy's girlfriend is kidnapped by an urban gang. The two brothers then decide to go straight to battle with the opposing gang. This version offers a choice between original and HD graphics.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Double Dragon.png</image>
-		<video>./snap/Double Dragon.mp4</video>
-		<marquee>./wheel/Double Dragon.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070509T000000</releasedate>
-		<developer>RazorWorks</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Double Dragon</family>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17769">
 		<path>./BUBBLE BOBBLE Neo!.m3u</path>
 		<name>Bubble Bobble Neo</name>
@@ -4517,24 +4410,6 @@ The player control the series' main character, Strider Hiryu. The environment is
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17384">
-		<path>./3D_Ultra_Mini_Golf_2.m3u</path>
-		<name>3d Ultra Mini Golf Adventures 2</name>
-		<desc>In 3D Ultra MiniGolf Adventures 2, players are challenged to navigate their ball beyond obstacles using the help of secret shortcuts, game-changing power-ups and traps to sabotage the competition. Players can also manipulate the game by using special pick-ups to destroy course obstructions or even interfere with competitor's shots. Gamers can bring their A-game as they play in matches of up to four players locally or online. The sequel also offers an intuitive Map Editor tool, allowing full customization of virtual courses and the strategic placement of power-ups and traps. Putt through over 50 fun-filled holes in diverse locations, such as a Haunted Manor, a Manic Museum and a Winter Wonderland. As an added bonus, players can choose from up to four customizable animated characters and are invited to play using their own Xbox 360 Avatars and watch as their personalities unfold in every course.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/3D_Ultra_Mini_Golf_2.jpg</image>
-		<video>./snap/3D_Ultra_Mini_Golf_2.mp4</video>
-		<marquee>./wheel/3D_Ultra_Mini_Golf_2.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20101027T000000</releasedate>
-		<developer>Artificial Mind &amp; Movement</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Golf</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Contra.m3u</path>
 		<name>Contra</name>
@@ -4563,23 +4438,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<releasedate>19691231T200000</releasedate>
 		<publisher>Capcom</publisher>
 		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="18142">
-		<path>./Asteroids Deluxe.m3u</path>
-		<name>Asteroids Deluxe</name>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Asteroids Deluxe.png</image>
-		<video>./snap/Asteroids Deluxe.mp4</video>
-		<marquee>./wheel/Asteroids Deluxe.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -4617,6 +4475,148 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<genre>Race, Driving</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16958">
+		<path>./DOOM II.m3u</path>
+		<name>Doom II</name>
+		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/DOOM II.png</image>
+		<video>./snap/DOOM II.mp4</video>
+		<marquee>./wheel/DOOM II.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Nerve Software</developer>
+		<publisher>id Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17283">
+		<path>./Double Dragon.m3u</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon on Xbox Live Arcade is a beat'em all set in chaotic New York in the heart of the 90s. Alone or in pairs, you play as Billy and Jim Lee, two brothers teaching martial arts. The story begins when Billy's girlfriend is kidnapped by an urban gang. The two brothers then decide to go straight to battle with the opposing gang. This version offers a choice between original and HD graphics.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Double Dragon.png</image>
+		<video>./snap/Double Dragon.mp4</video>
+		<marquee>./wheel/Double Dragon.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070509T000000</releasedate>
+		<developer>RazorWorks</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Double Dragon</family>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marvel vs. Capcom Origins.m3u</path>
+		<name>Marvel vs. Capcom Origins</name>
+		<desc>MARVEL VS. CAPCOM ORIGINS offers both the one-on-one gameplay of Marvel Super Heroes with its unique Infinity Gem system and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, MARVEL VS. CAPCOM ORIGINS features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.</desc>
+		<image>./mixart/Marvel vs. Capcom Origins.png</image>
+		<video>./snap/Marvel vs. Capcom Origins.mp4</video>
+		<marquee>./wheel/Marvel vs. Capcom Origins.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20120925T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>56a6935d74bde05dc07c8189fbd8de61</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220813T082621" />
+		<scrap name="HfsDB" date="20220813T082625" />
+	</game>
+	<game id="17757">
+		<path>./Bonk.m3u</path>
+		<name>Bonk : Brink of Extinction</name>
+		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
+		<image>./mixart/Bonk.jpg</image>
+		<video>./snap/Bonk.mp4</video>
+		<marquee>./wheel/Bonk.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T132913" />
+	</game>
+	<game id="17384">
+		<path>./3D_Ultra_Mini_Golf_2.m3u</path>
+		<name>3d Ultra Mini Golf Adventures 2</name>
+		<desc>In 3D Ultra MiniGolf Adventures 2, players are challenged to navigate their ball beyond obstacles using the help of secret shortcuts, game-changing power-ups and traps to sabotage the competition. Players can also manipulate the game by using special pick-ups to destroy course obstructions or even interfere with competitor's shots. Gamers can bring their A-game as they play in matches of up to four players locally or online. The sequel also offers an intuitive Map Editor tool, allowing full customization of virtual courses and the strategic placement of power-ups and traps. Putt through over 50 fun-filled holes in diverse locations, such as a Haunted Manor, a Manic Museum and a Winter Wonderland. As an added bonus, players can choose from up to four customizable animated characters and are invited to play using their own Xbox 360 Avatars and watch as their personalities unfold in every course.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/3D_Ultra_Mini_Golf_2.jpg</image>
+		<video>./snap/3D_Ultra_Mini_Golf_2.mp4</video>
+		<marquee>./wheel/3D_Ultra_Mini_Golf_2.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20101027T000000</releasedate>
+		<developer>Artificial Mind &amp; Movement</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Golf</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="18142">
+		<path>./Asteroids Deluxe.m3u</path>
+		<name>Asteroids Deluxe</name>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Asteroids Deluxe.png</image>
+		<video>./snap/Asteroids Deluxe.mp4</video>
+		<marquee>./wheel/Asteroids Deluxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17461">
+		<path>./SEGA Rally Online Arcade.m3u</path>
+		<name>Sega Rally Online Arcade</name>
+		<desc>Sega Rally Online Arcade is a racing game for download on Xbox Live Arcade. Thirteen cars are brought together to race in Championship or Time Trial modes. In addition to online leaderboards, there is also a 6-player option for racing with other connected players.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/SEGA Rally Online Arcade.png</image>
+		<video>./snap/SEGA Rally Online Arcade.mp4</video>
+		<marquee>./wheel/SEGA Rally Online Arcade.png</marquee>
+		<rating>0.7</rating>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<md5>5a5ba5f00a0688e416d6156110771563</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220813T083109" />
+	</game>
+	<game id="17340">
+		<path>./DAYTONA USA.m3u</path>
+		<name>Daytona Usa</name>
+		<desc>Daytona USA on Xbox 360 is the remake of the popular arcade title. This edition includes the game modes of the time as well as a Karaoke mode and an online multiplayer that allows up to 8 users to compete.</desc>
+		<image>./mixart/DAYTONA USA.png</image>
+		<video>./snap/DAYTONA USA.mp4</video>
+		<marquee>./wheel/DAYTONA USA.png</marquee>
+		<rating>0.95</rating>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Daytona USA</family>
 		<lang>en</lang>
 	</game>
 </gameList>

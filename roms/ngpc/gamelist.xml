@@ -21,35 +21,6 @@
 		<players>2</players>
 		<cheevosHash>83FA4CB3C629AA57C12F9CEC52C5A53D</cheevosHash>
 	</game>
-	<game>
-		<path>./Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip</path>
-		<name>Neo Cherry Master Color - Real Casino Series</name>
-		<desc>Experience the play of actual casino gaming! Feel the fun of ultra-real slot machine game simulation!!     "Cherry Master", the slot machine popular in casinos throughout the world becomes part of the NEOGEO POCKET COLOR. With the vivid screen and the system of no different from the real thing, making for real, adult gaming entertainment!    Includes 2 modes for that tantalizing taste of slot machine gaming! (Original mode for professionals / Simple Mode for beginners)</desc>
-		<image>./mixart/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</image>
-		<video>./snap/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).mp4</video>
-		<marquee>./wheel/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</marquee>
-		<rating>1</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Dyna Corp.</developer>
-		<publisher>SNK</publisher>
-		<genre>Casino</genre>
-		<players>2</players>
-		<cheevosHash>7992904F8C4040AEE0CDE040AFBF757D</cheevosHash>
-	</game>
-	<game id="87568" source="ScreenScraper.fr">
-		<path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).zip</path>
-		<name>Neo Dragon's Wild - Real Casino Series</name>
-		<desc>The super authentic Poker game simulation!!    The popular casino poker game for NEOGEO POCKET! This system can be enjoyed by everyone: from enthusiasts who enjoy casino game realism, to casino game novices. Now you can enjoy true game excitement with Neo Dragon's Wild - the new pocket casino game!    Beginners can select Simple Mode for easier game settings.  Skilled players can choose Original Mode to enjoy real poker with authentic feel.</desc>
-		<image>./mixart/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</image>
-		<video>./snap/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).mp4</video>
-		<marquee>./wheel/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<publisher>SNK</publisher>
-		<genre>Casino</genre>
-		<players>1</players>
-		<cheevosHash>F0FDD57F4D1A1470B826082586EAD479</cheevosHash>
-	</game>
 	<game id="47042" source="ScreenScraper.fr">
 		<path>./Neo Geo Cup '98 Plus (World) (En,Ja).zip</path>
 		<name>NeoGeo Cup '98 Plus</name>
@@ -646,5 +617,38 @@
 		<lang>en,jp</lang>
 		<region>jp</region>
 		<cheevosHash>F2F296F4BE215E826FAC519FBA96609B</cheevosHash>
+	</game>
+	<game>
+		<path>./Neo Cherry Master Color - Real Casino Series (World) (En,Ja).zip</path>
+		<name>Neo Cherry Master Color - Real Casino Series</name>
+		<desc>Experience the play of actual casino gaming! Feel the fun of ultra-real slot machine game simulation!!     "Cherry Master", the slot machine popular in casinos throughout the world becomes part of the NEOGEO POCKET COLOR. With the vivid screen and the system of no different from the real thing, making for real, adult gaming entertainment!    Includes 2 modes for that tantalizing taste of slot machine gaming! (Original mode for professionals / Simple Mode for beginners)</desc>
+		<image>./mixart/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</image>
+		<video>./snap/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).mp4</video>
+		<marquee>./wheel/Neo Cherry Master Color - Real Casino Series (World) (En,Ja).png</marquee>
+		<rating>1</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Dyna Corp.</developer>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>2</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<cheevosHash>7992904F8C4040AEE0CDE040AFBF757D</cheevosHash>
+	</game>
+	<game id="87568" source="ScreenScraper.fr">
+		<path>./Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).zip</path>
+		<name>Neo Dragon's Wild - Real Casino Series</name>
+		<desc>The super authentic Poker game simulation!!    The popular casino poker game for NEOGEO POCKET! This system can be enjoyed by everyone: from enthusiasts who enjoy casino game realism, to casino game novices. Now you can enjoy true game excitement with Neo Dragon's Wild - the new pocket casino game!    Beginners can select Simple Mode for easier game settings.  Skilled players can choose Original Mode to enjoy real poker with authentic feel.</desc>
+		<image>./mixart/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</image>
+		<video>./snap/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).mp4</video>
+		<marquee>./wheel/Neo Dragon's Wild - Real Casino Series (World) (En,Ja) (v1.13).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Casino</genre>
+		<players>1</players>
+		<lang>en,jp</lang>
+		<region>jp</region>
+		<cheevosHash>F0FDD57F4D1A1470B826082586EAD479</cheevosHash>
 	</game>
 </gameList>

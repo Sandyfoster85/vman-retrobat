@@ -8827,23 +8827,6 @@ The iPhone version includes updated graphics (optional) and gameplay in both por
 		<region>us</region>
 		<cheevosHash>1C00CCF183AD8A02C1A3223D649B4099</cheevosHash>
 	</game>
-	<game id="2820" source="ScreenScraper.fr">
-		<path>./Pinball Fantasies (USA).7z</path>
-		<name>Pinball Fantasies</name>
-		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
-		<image>./mixart/Pinball Fantasies (USA).png</image>
-		<video>./snap/Pinball Fantasies (USA).mp4</video>
-		<marquee>./wheel/Pinball Fantasies (USA).png</marquee>
-		<rating>0.2</rating>
-		<releasedate>19950202T000000</releasedate>
-		<developer>GameTek</developer>
-		<publisher>Digital Illusions</publisher>
-		<genre>Pinball-Action</genre>
-		<players>8</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5A57AFCC8B3BDEF1F56CC24C152EB9FC</cheevosHash>
-	</game>
 	<game id="2594" source="ScreenScraper.fr">
 		<path>./Pink Goes to Hollywood (USA).7z</path>
 		<name>Pink Goes to Hollywood</name>
@@ -15176,5 +15159,22 @@ Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire
 		<lang>en</lang>
 		<cheevosHash>7D66769F53CB3FB7F5C73044876DB240</cheevosHash>
 		<cheevosId>5209</cheevosId>
+	</game>
+	<game id="2820" source="ScreenScraper.fr">
+		<path>./Pinball Fantasies (USA).7z</path>
+		<name>Pinball Fantasies</name>
+		<desc>After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.</desc>
+		<image>./mixart/Pinball Fantasies (USA).png</image>
+		<video>./snap/Pinball Fantasies (USA).mp4</video>
+		<marquee>./wheel/Pinball Fantasies (USA).png</marquee>
+		<rating>0.2</rating>
+		<releasedate>19950202T000000</releasedate>
+		<developer>GameTek</developer>
+		<publisher>Digital Illusions</publisher>
+		<genre>Pinball-Action</genre>
+		<players>8</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5A57AFCC8B3BDEF1F56CC24C152EB9FC</cheevosHash>
 	</game>
 </gameList>

@@ -169,22 +169,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hologram Time Traveler.cmd</path>
-		<name>Hologram Time Traveler</name>
-		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
-		<image>./mixart/Hologram Time Traveler.png</image>
-		<video>./content/Hologram_Time_Traveler_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Hologram Time Traveler.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Virtual Image Productions</developer>
-		<publisher>Sega</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hydrosub 2021.cmd</path>
 		<name>Hydrosub: 2021</name>
 		<desc>Shootout beneath the ocean!</desc>
@@ -472,6 +456,22 @@
 		<developer>LeLand Corporation</developer>
 		<publisher>Digital Leisure</publisher>
 		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hologram Time Traveler.cmd</path>
+		<name>Hologram Time Traveler</name>
+		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
+		<image>./mixart/Hologram Time Traveler.png</image>
+		<video>./content/Hologram_Time_Traveler_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Hologram Time Traveler.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Virtual Image Productions</developer>
+		<publisher>Sega</publisher>
+		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

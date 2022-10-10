@@ -1800,23 +1800,6 @@ Dancing Stage Unleashed 2 includes more than three dozen songs, of which 14 are 
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="14637">
-		<path>./Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.iso</path>
-		<name>Doom 3 : Resurrection Of Evil</name>
-		<desc>In this expansion pack for DOOM³, return to the devastated facilities on Mars (where the unexplained disaster took place two years prior) to find a beacon buried in the ruins. There are new enemies, weapons, locations and puzzles - and multiplayer for up to 8 players.</desc>
-		<image>./mixart/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.png</image>
-		<video>./snap/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.mp4</video>
-		<marquee>./wheel/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20051021T000000</releasedate>
-		<developer>Nerve Software</developer>
-		<publisher>Activision</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Doom</family>
-		<players>1</players>
-		<lang>en,es,fr,it</lang>
-		<region>eu</region>
-	</game>
 	<game id="137575">
 		<path>./Drake of the 99 Dragons (USA).xiso.iso</path>
 		<name>Drake Of The 99 Dragons</name>
@@ -3692,21 +3675,6 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<genreid>1024</genreid>
 	</game>
 	<game>
-		<path>./KOF - Maximum Impact - Maniax (USA).xiso.iso</path>
-		<name>The King Of Fighters : Maximum Impact - Maniax</name>
-		<desc>The King of Fighters: Maximum Impact is a fighting game on Xbox featuring the vast majority of the characters from the saga, but with the particularity of being in 3D. Through modes such as Story, Team Battle, Challenge (sort of small thematic missions), will you win the confrontations featuring Terry Boggart, Mai or Soiree Meia?</desc>
-		<image>./mixart/KOF - Maximum Impact - Maniax (USA).xiso.png</image>
-		<video>./snap/KOF - Maximum Impact - Maniax (USA).xiso.mp4</video>
-		<marquee>./wheel/KOF - Maximum Impact - Maniax (USA).xiso.png</marquee>
-		<releasedate>20040812T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>Nobilis</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<genreid>262</genreid>
-	</game>
-	<game>
 		<path>./The Bible Game.iso</path>
 		<name>The Bible Game</name>
 		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
@@ -3842,5 +3810,39 @@ You are Bruce Lee, legendary martial arts master. Your father has been kidnapped
 		<lang>de,en,jp,es,fr,it</lang>
 		<region>eu</region>
 		<genreid>259</genreid>
+	</game>
+	<game id="14637">
+		<path>./Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.iso</path>
+		<name>Doom 3 : Resurrection Of Evil</name>
+		<desc>In this expansion pack for DOOM³, return to the devastated facilities on Mars (where the unexplained disaster took place two years prior) to find a beacon buried in the ruins. There are new enemies, weapons, locations and puzzles - and multiplayer for up to 8 players.</desc>
+		<image>./mixart/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.png</image>
+		<video>./snap/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.mp4</video>
+		<marquee>./wheel/Doom 3 - Resurrection of Evil (USA, Europe) (En,Fr,Es,It).xiso.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20051021T000000</releasedate>
+		<developer>Nerve Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>1</players>
+		<lang>en,es,fr,it</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./KOF - Maximum Impact - Maniax (USA).xiso.iso</path>
+		<name>The King Of Fighters : Maximum Impact - Maniax</name>
+		<desc>The King of Fighters: Maximum Impact is a fighting game on Xbox featuring the vast majority of the characters from the saga, but with the particularity of being in 3D. Through modes such as Story, Team Battle, Challenge (sort of small thematic missions), will you win the confrontations featuring Terry Boggart, Mai or Soiree Meia?</desc>
+		<image>./mixart/KOF - Maximum Impact - Maniax (USA).xiso.png</image>
+		<video>./snap/KOF - Maximum Impact - Maniax (USA).xiso.mp4</video>
+		<marquee>./wheel/KOF - Maximum Impact - Maniax (USA).xiso.png</marquee>
+		<releasedate>20040812T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Nobilis</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
 	</game>
 </gameList>

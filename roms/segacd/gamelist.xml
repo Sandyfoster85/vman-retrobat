@@ -883,31 +883,6 @@ The game features CD-based audio tracks, replacing those from the original.</des
 		<region>us</region>
 		<cheevosHash>5EFA675A2C788DB5D68BFA01F906F64E</cheevosHash>
 	</game>
-	<game id="12719" source="ScreenScraper.fr">
-		<path>./Dragons_Lair_U.chd</path>
-		<name>Dragon's Lair</name>
-		<desc>A conversion of the 1983 Don Bluth coin op cartoon game.  Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne.  With limited movement allowed, the game's main emphasis is on its heart-stopping graphics.</desc>
-		<image>./mixart/Dragons_Lair_U.png</image>
-		<video>./snap/Dragons_Lair_U.mp4</video>
-		<marquee>./wheel/Dragons_Lair_U.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>ReadySoft</developer>
-		<publisher>ReadySoft</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>5F2BE574B796FADD87574B7287138569</cheevosHash>
-	</game>
-	<game>
-		<path>./Dune (USA).chd</path>
-		<name>Dune (USA)</name>
-		<image>./mixart/Dune (USA).png</image>
-		<video>./snap/Dune (USA).mp4</video>
-		<marquee>./wheel/Dune (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<cheevosHash>B0E9B92AFA241DFE4ECEF261FBA4E227</cheevosHash>
-	</game>
 	<game id="12724" source="ScreenScraper">
 		<path>./Dungeon Explorer (USA).chd</path>
 		<name>Dungeon Explorer</name>
@@ -2619,22 +2594,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<players>1</players>
 		<cheevosHash>D70CF6E2A3D04274DF9D14E4D55DF4A2</cheevosHash>
 	</game>
-	<game>
-		<path>./WWF Rage in the Cage (USA).chd</path>
-		<name>WWF Rage in the Cage</name>
-		<desc>WWF Rage in the Cage lets players choose from 30 unique WWF Superstars including The Undertaker, Yokozuna, Bret Hart, Bam Bam Bigelow, Shawn Michaels, Razor Ramon among many more.  Each superstars has their own strengths and weaknesses and has a personalized finisher such as the Tombstone for the Undertaker, Sweet Chin Music for Shawn Michaels, etc., along with the standard suplexes, body slams.
-
-There are a plethora of game modes to choose from including a regular single-falls match, tag team, 6-man tag team, battle royal and the games dreaded namesake, the Steel Cage.  The main gameplay is reminiscent of WWF Royal Rumble with the look and feel but features enhanced audio and graphics utilizing the Sega CD's capabilities.</desc>
-		<image>./mixart/WWF Rage in the Cage (USA).png</image>
-		<video>./snap/WWF Rage in the Cage (USA).mp4</video>
-		<marquee>./wheel/WWF Rage in the Cage (USA).png</marquee>
-		<rating>0.15</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<players>4</players>
-		<cheevosHash>5FF329E7567CD630306A5B0598ABDAD4</cheevosHash>
-	</game>
 	<game id="12762" source="ScreenScraper.fr">
 		<path>./Yumemi Mystery Mansion (Europe) (Made in EU).chd</path>
 		<name>Mansion of Hidden Souls</name>
@@ -3185,5 +3144,52 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E8A591459675BC15793B36847491C194</cheevosHash>
+	</game>
+	<game id="12719" source="ScreenScraper.fr">
+		<path>./Dragons_Lair_U.chd</path>
+		<name>Dragon's Lair</name>
+		<desc>A conversion of the 1983 Don Bluth coin op cartoon game.  Players control Dirk the Daring as he struggles his way through a dungeon to fight Singe, the Dragon, and rescue the beautiful Princess Daphne.  With limited movement allowed, the game's main emphasis is on its heart-stopping graphics.</desc>
+		<image>./mixart/Dragons_Lair_U.png</image>
+		<video>./snap/Dragons_Lair_U.mp4</video>
+		<marquee>./wheel/Dragons_Lair_U.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>ReadySoft</developer>
+		<publisher>ReadySoft</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>5F2BE574B796FADD87574B7287138569</cheevosHash>
+	</game>
+	<game>
+		<path>./Dune (USA).chd</path>
+		<name>Dune (USA)</name>
+		<image>./mixart/Dune (USA).png</image>
+		<video>./snap/Dune (USA).mp4</video>
+		<marquee>./wheel/Dune (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B0E9B92AFA241DFE4ECEF261FBA4E227</cheevosHash>
+	</game>
+	<game id="12789">
+		<path>./WWF Rage in the Cage (USA).chd</path>
+		<name>WWF Rage in the Cage</name>
+		<desc>WWF Rage in the Cage lets players choose from 30 unique WWF Superstars including The Undertaker, Yokozuna, Bret Hart, Bam Bam Bigelow, Shawn Michaels, Razor Ramon among many more.  Each superstars has their own strengths and weaknesses and has a personalized finisher such as the Tombstone for the Undertaker, Sweet Chin Music for Shawn Michaels, etc., along with the standard suplexes, body slams.
+
+There are a plethora of game modes to choose from including a regular single-falls match, tag team, 6-man tag team, battle royal and the games dreaded namesake, the Steel Cage.  The main gameplay is reminiscent of WWF Royal Rumble with the look and feel but features enhanced audio and graphics utilizing the Sega CD's capabilities.</desc>
+		<image>./mixart/WWF Rage in the Cage (USA).png</image>
+		<video>./snap/WWF Rage in the Cage (USA).mp4</video>
+		<marquee>./wheel/WWF Rage in the Cage (USA).png</marquee>
+		<rating>0.15</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<players>4</players>
+		<crc32>15320117</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5FF329E7567CD630306A5B0598ABDAD4</cheevosHash>
 	</game>
 </gameList>

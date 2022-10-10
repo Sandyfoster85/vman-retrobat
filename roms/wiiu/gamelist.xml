@@ -523,21 +523,6 @@ PacZilla: this transforms you into a giant.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Sonic &amp; All-Stars Racing Transformed [AS2E8P8P]/code/SART.rpx</path>
-		<name>Sonic &amp; All-Stars Racing Transformed</name>
-		<desc>Sonic and the All-Stars cast battle for supremacy across land, water and air in transforming vehicles that change from cars to boats to planes mid-race.</desc>
-		<image>./mixart/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</image>
-		<video>./snap/Sonic &amp; All-Stars Racing Transformed Bonus Edition.mp4</video>
-		<marquee>./wheel/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</marquee>
-		<rating>0.78</rating>
-		<releasedate />
-		<playcount />
-		<lastplayed />
-		<md5>3fe1c45d3bb1dcbe7739d8421b261ae1</md5>
-		<gametime />
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sonic Boom Rise of Lyric [BSSE8P8P]/code/WiiULauncher.rpx</path>
 		<name>Sonic Boom Rise of Lyric</name>
 		<desc>In Sonic Boom: Rise of Lyric, Sonic, Tails, Knuckles, and Amy must work together as they face the deadly snake-like ancient villain, Lyric and his army of war mongering robots as they rise from deep within their home island. Sonic and his team will navigate the world like never before; racing across ancient ruins, through the depths of the ocean and even back in time to save the world from Lyric’s evil plan. With an emphasis on collaboration, the roles of Tails, Knuckles and Amy, will be elevated in gameplay that capitalizes on each character’s unique talents and abilities.</desc>
@@ -1372,23 +1357,6 @@ The game offers a multiplayer mode of up to four players.</desc>
 		<md5>2bfa1c674bc53eb871210ae4e3837375</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
-		<name>New Super Mario Bros. U + New Super Luigi U</name>
-		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
-		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
-		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
-		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20131101T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
-		<lang>en</lang>
-	</game>
 	<game id="12117">
 		<path>./Hyrule Warriors [000500001017D800]/code/ProjectZ.rpx</path>
 		<name>Hyrule Warriors</name>
@@ -1636,6 +1604,35 @@ The Peanuts Movie: Snoopy's Grand Adventure is a side-scrolling platform video g
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>f9f6f4f47bdcc98ba764c0e9960ae03f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
+		<name>New Super Mario Bros. U + New Super Luigi U</name>
+		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
+		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
+		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20131101T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Sonic &amp; All-Stars Racing Transformed [AS2E8P8P]/code/SART.rpx</path>
+		<name>Sonic &amp; All-Stars Racing Transformed</name>
+		<desc>Sonic and the All-Stars cast battle for supremacy across land, water and air in transforming vehicles that change from cars to boats to planes mid-race.</desc>
+		<image>./mixart/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</image>
+		<video>./snap/Sonic &amp; All-Stars Racing Transformed Bonus Edition.mp4</video>
+		<marquee>./wheel/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</marquee>
+		<rating>0.78</rating>
+		<releasedate></releasedate>
+		<md5>3fe1c45d3bb1dcbe7739d8421b261ae1</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
