@@ -3263,22 +3263,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<md5>a78253bf0823c76941dcbc22c1232ed0</md5>
 		<lang>en</lang>
 	</game>
-	<game id="25557" source="ScreenScraper.fr">
-		<path>./Pure.lnk</path>
-		<name>Pure</name>
-		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
-		<image>./mixart/Pure.jpg</image>
-		<video>./snap/Pure.mp4</video>
-		<marquee>./wheel/Pure.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20080902T000000</releasedate>
-		<developer>Black Rock Studio</developer>
-		<publisher>Disney Interactive</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Blaster Master Zero 3.lnk</path>
 		<name>Blaster Master Zero 3</name>
@@ -4081,22 +4065,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<publisher>Namco</publisher>
 		<genre>Arcade</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./BuckUpAndDrive.lnk</path>
-		<name>Buck Up And Drive</name>
-		<desc>Outrun meets Auto Modellista. Endless driving game inspired by arcade classics, with simple yet intense gameplay featuring a total slap in the face of realism. And a kick in the spleen, too! Procedurally generated track with multiple environments to visit, ranging from the somewhat realistic to the completely absurd. Go 1v1 against another player (or a CPU) in a fighting mode.</desc>
-		<image>./mixart/BuckUpAndDrive.png</image>
-		<video>./snap/BuckUpAndDrive.mp4</video>
-		<marquee>./wheel/BuckUpAndDrive.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20221125T000000</releasedate>
-		<developer>Fabio Fontes</developer>
-		<publisher>Fabio Fontes</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -7249,22 +7217,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aeterna Noctis.lnk</path>
-		<name>Aeterna Noctis</name>
-		<desc>Aeterna Noctis is a challenging 2D hand-drawn action platformer, a Metroidvania with thrilling combat that will keep you on the edge of your seat and heart-stopping platform sections that will put your skills to the test.</desc>
-		<image>./mixart/Aeterna Noctis.jpg</image>
-		<video>./snap/Aeterna Noctis.mp4</video>
-		<marquee>./wheel/Aeterna Noctis.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>Aetemum Game Studios</developer>
-		<publisher>Aetemum Game Studios</publisher>
-		<genre>Platform Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./AGS - Space Quest II.lnk</path>
 		<name>AGS - Space Quest II</name>
 		<desc>Fandmade remake Space Quest II using Adventure Gaming Studio engine. - Infamous Adventure's remake of the classic 1987 Sierra game "Space Quest II" by The Two Guys from Andromeda, Scott Murphy and Mark Crowe!  Join Roger Wilco on an intergalactic adventure as he is pursued by the agents of the sinister Sludge Vohaul! Lovingly recrafted in simulated VGA colors!.</desc>
@@ -9219,5 +9171,53 @@ This is a one-person project, 8 years in the making.</desc>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aeterna Noctis.lnk</path>
+		<name>Aeterna Noctis</name>
+		<desc>Aeterna Noctis is a challenging 2D hand-drawn action platformer, a Metroidvania with thrilling combat that will keep you on the edge of your seat and heart-stopping platform sections that will put your skills to the test.</desc>
+		<image>./mixart/Aeterna Noctis.jpg</image>
+		<video>./snap/Aeterna Noctis.mp4</video>
+		<marquee>./wheel/Aeterna Noctis.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>Aetemum Game Studios</developer>
+		<publisher>Aetemum Game Studios</publisher>
+		<genre>Platform Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BuckUpAndDrive.lnk</path>
+		<name>Buck Up And Drive</name>
+		<desc>Outrun meets Auto Modellista. Endless driving game inspired by arcade classics, with simple yet intense gameplay featuring a total slap in the face of realism. And a kick in the spleen, too! Procedurally generated track with multiple environments to visit, ranging from the somewhat realistic to the completely absurd. Go 1v1 against another player (or a CPU) in a fighting mode.</desc>
+		<image>./mixart/BuckUpAndDrive.png</image>
+		<video>./snap/BuckUpAndDrive.mp4</video>
+		<marquee>./wheel/BuckUpAndDrive.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20221125T000000</releasedate>
+		<developer>Fabio Fontes</developer>
+		<publisher>Fabio Fontes</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="25557" source="ScreenScraper.fr">
+		<path>./Pure.lnk</path>
+		<name>Pure</name>
+		<desc>Developed by Black Rock Studio, Disney Interactive Studios' award-winning development studio in Brighton, England, Pure takes off-road racing to a new level. Featuring vertigo-inducing massive aerial jumps and spectacular airborne tricks in photo-realistic real-world locations all over the globe, Pure delivers heart-pounding experiences unique to the genre.</desc>
+		<image>./mixart/Pure.jpg</image>
+		<video>./snap/Pure.mp4</video>
+		<marquee>./wheel/Pure.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20080902T000000</releasedate>
+		<developer>Black Rock Studio</developer>
+		<publisher>Disney Interactive</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

@@ -14788,27 +14788,6 @@ A Windows 3.x update to this game was created in 1991.</desc>
 		<cheevosHash>95A9917BF732EA61A10D74F190651878</cheevosHash>
 		<cheevosId>1499</cheevosId>
 	</game>
-	<game>
-		<path>./Shatterhand (USA).zip</path>
-		<name>Shatterhand</name>
-		<desc>Shatterhand is an action game with eight-direction scrolling. You control Shatterhand in his quest to find and defeat General Grover, leader of the Metal Command. Through the game youÂ’ll encounter all kinds of mechanical and biomechanical creatures. ShatterhandÂ’s primary weapon is his cybernetic fists and therefore most enemies must be defeated by punching them.
-
-Additional help can be given from any of the eight hovering satellite robots, each of which has itÂ’s own weapon that fires automatically when Shatterhand throws a punch. These satellite robots can be obtained by collecting combinations of alpha-beta letters that appear when you punch some of the white boxes that are scattered throughout each stage.
-
-The game has seven stages. The first and the last must be played first and last respectively, but the five middle stages can be played in any order. The path to the final showdown with General Grover leads through a factory, a refinery, an anti-gravity research facility, a submarine, a burning subway, a filtration plant and finally to General GroverÂ’s missile launch complex.</desc>
-		<image>./mixart/Shatterhand (USA).png</image>
-		<video>./snap/Shatterhand (USA).mp4</video>
-		<marquee>./wheel/Shatterhand (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911201T000000</releasedate>
-		<developer>Natsume Co., Ltd.</developer>
-		<publisher>Jaleco USA, Inc.</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7CCCC9AD7B1097143435FCC6AFCDF157</cheevosHash>
-		<cheevosId>1940</cheevosId>
-	</game>
 	<game id="1672" source="ScreenScraper.fr">
 		<path>./Shingen the Ruler (USA).zip</path>
 		<name>Shingen the Ruler</name>
@@ -15740,30 +15719,6 @@ Ryu will battle through urban city settings, forests, jungles, snow covered cast
 		<region>jp</region>
 		<cheevosHash>143B93ABEEA246AABD80470EEE8CA1CB</cheevosHash>
 		<cheevosId>2248</cheevosId>
-	</game>
-	<game>
-		<path>./#nes-hd/Pac-Man (USA) (Namco) HD.7z</path>
-		<name>Pac-Man Namco HD</name>
-		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
-
-Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
-
-Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
-
-Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
-		<image>./#nes-hd/mixart/Pac-Man (USA) (Namco).png</image>
-		<video>./#nes-hd/snap/Pac-Man (USA) (Namco).mp4</video>
-		<marquee>./#nes-hd/wheel/Pac-Man (USA) (Namco).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19931102T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CA606BD8A875A396D52735C3BB84FA67</cheevosHash>
-		<cheevosId>1491</cheevosId>
 	</game>
 	<game id="1726" source="ScreenScraper.fr">
 		<path>./720 Degrees (USA).zip</path>
@@ -30603,5 +30558,51 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
+	</game>
+	<game>
+		<path>./#nes-hd/Pac-Man (USA) (Namco) HD.7z</path>
+		<name>Pac-Man Namco HD</name>
+		<desc>One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde).  One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze.  During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points.  This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.</desc>
+		<image>./#nes-hd/mixart/Pac-Man (USA) (Namco).png</image>
+		<video>./#nes-hd/snap/Pac-Man (USA) (Namco).mp4</video>
+		<marquee>./#nes-hd/wheel/Pac-Man (USA) (Namco).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19931102T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CA606BD8A875A396D52735C3BB84FA67</cheevosHash>
+		<cheevosId>1491</cheevosId>
+	</game>
+	<game>
+		<path>./Shatterhand (USA).zip</path>
+		<name>Shatterhand</name>
+		<desc>Shatterhand is an action game with eight-direction scrolling. You control Shatterhand in his quest to find and defeat General Grover, leader of the Metal Command. Through the game youÂ’ll encounter all kinds of mechanical and biomechanical creatures. ShatterhandÂ’s primary weapon is his cybernetic fists and therefore most enemies must be defeated by punching them.
+
+Additional help can be given from any of the eight hovering satellite robots, each of which has itÂ’s own weapon that fires automatically when Shatterhand throws a punch. These satellite robots can be obtained by collecting combinations of alpha-beta letters that appear when you punch some of the white boxes that are scattered throughout each stage.
+
+The game has seven stages. The first and the last must be played first and last respectively, but the five middle stages can be played in any order. The path to the final showdown with General Grover leads through a factory, a refinery, an anti-gravity research facility, a submarine, a burning subway, a filtration plant and finally to General GroverÂ’s missile launch complex.</desc>
+		<image>./mixart/Shatterhand (USA).png</image>
+		<video>./snap/Shatterhand (USA).mp4</video>
+		<marquee>./wheel/Shatterhand (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Natsume Co., Ltd.</developer>
+		<publisher>Jaleco USA, Inc.</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7CCCC9AD7B1097143435FCC6AFCDF157</cheevosHash>
+		<cheevosId>1940</cheevosId>
 	</game>
 </gameList>

@@ -2046,23 +2046,6 @@ This is the last licensed game that was released for the Famicom Disk System. Be
 		<region>jp</region>
 		<cheevosHash>717BF55598D370B0C437DB58C47928EE</cheevosHash>
 	</game>
-	<game id="88155" source="ScreenScraper.fr">
-		<path>./Donkey Kong (Japan).zip</path>
-		<name>Donkey Kong</name>
-		<desc>You are Mario, and that big old gorilla, Donkey Kong, has run off with your girlfriend. It's up to you to struggle up those ladders and balance on those beams to rescue your lady fair. She's held captive at the very top. But Donkey Kong is not ready to give her up so easily. He's tossing barrels and fireballs at you at every turn. It's up to you to outmaneuver that wily ape. Good luck, your lady awaits!</desc>
-		<image>./mixart/Donkey Kong (Japan).png</image>
-		<video>./snap/Donkey Kong (Japan).mp4</video>
-		<marquee>./wheel/Donkey Kong (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19880408T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2</players>
-		<crc32>6C0740E9</crc32>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>6333D48CE1C8E7F36ADF83F5614AC194</cheevosHash>
-	</game>
 	<game id="88156" source="ScreenScraper.fr">
 		<path>./Donkey Kong Jr. (Japan).zip</path>
 		<name>Donkey Kong Jr.</name>
@@ -2199,5 +2182,22 @@ Please, go forth and rescue Alice, and bring peace to our land!</desc>
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>9FBB665309B685B7552D863ABB13839A</cheevosHash>
+	</game>
+	<game id="88155" source="ScreenScraper.fr">
+		<path>./Donkey Kong (Japan).zip</path>
+		<name>Donkey Kong</name>
+		<desc>You are Mario, and that big old gorilla, Donkey Kong, has run off with your girlfriend. It's up to you to struggle up those ladders and balance on those beams to rescue your lady fair. She's held captive at the very top. But Donkey Kong is not ready to give her up so easily. He's tossing barrels and fireballs at you at every turn. It's up to you to outmaneuver that wily ape. Good luck, your lady awaits!</desc>
+		<image>./mixart/Donkey Kong (Japan).png</image>
+		<video>./snap/Donkey Kong (Japan).mp4</video>
+		<marquee>./wheel/Donkey Kong (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880408T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2</players>
+		<crc32>6C0740E9</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>6333D48CE1C8E7F36ADF83F5614AC194</cheevosHash>
 	</game>
 </gameList>

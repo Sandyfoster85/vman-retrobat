@@ -899,36 +899,6 @@ As one of three Ninja Commandos, you must fight your opponents through different
 		<cheevosId>12322</cheevosId>
 	</game>
 	<game>
-		<path>./neocup98.zip</path>
-		<name>Neo-Geo Cup '98 - The Road to the Victory</name>
-		<desc>Neo Geo Cup'98 is a football simulation based on the World Cup 1998. This title is a new installment in the series Super Sidekicks and updates all data to focus on the event. In qualification phase or during games knockout, lead one of the 64 available teams to victory.</desc>
-		<image>./mixart/neocup98.png</image>
-		<video>./snap/neocup98.mp4</video>
-		<marquee>./wheel/neocup98.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Sports-Sports / Soccer</genre>
-		<players>2</players>
-		<cheevosHash>EDB22F6F4662763B65FA34B6782A4046</cheevosHash>
-	</game>
-	<game>
-		<path>./neomrdo.zip</path>
-		<name>Neo Mr. Do!</name>
-		<desc>Neo Mr. Do! is an enhanced version of Mr. Do!, and features greatly improved graphics, stereo sound, and intermissions that can be viewed when an area is completed. You can also travel to the bonus stages, where the object is to make your way toward the exit by carefully dropping apples to create a path. These bonus stages can be reached by killing all enemies on the screen, rather than collecting all the items that are in groups.</desc>
-		<image>./mixart/neomrdo.png</image>
-		<video>./snap/neomrdo.mp4</video>
-		<marquee>./wheel/neomrdo.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19970926T000000</releasedate>
-		<developer>Visco</developer>
-		<publisher>Universal Interactive</publisher>
-		<genre>Platform-Puzzle-Game-Action</genre>
-		<players>2</players>
-		<cheevosHash>DD53691A8B5423224E5F97FF08D1704B</cheevosHash>
-	</game>
-	<game>
 		<path>./ninjamas.zip</path>
 		<name>Ninja Master's - Haoh-ninpo-cho</name>
 		<desc>Ninja Master's, is set in the fictional land of "Zipangu". Players can select from 10 different ninjas and warriors with which to test their might. The main feature of this game is the ability for each character to use a wide variety of weapons. Also, as each character's Super Attacks change depending on whether they are armed or unarmed, the player needs to respond differently according to the situation. Damage increases with respect to the Super Power Gauge. There are also many must-see deadly techniques like "Super Death Blow", "Ultimate Super Mode", "Dark Super Power" and "Dark Combo!</desc>
@@ -1420,23 +1390,6 @@ The game thus takes you from the city to a spirit-realm from time to time, in wh
 		<genre>Fight-Beat'em Up-Fight / 2.5D-Action</genre>
 		<players>2</players>
 		<cheevosHash>BF7FC60C84EC40DB9D48FDC43C93865B</cheevosHash>
-	</game>
-	<game>
-		<path>./sengoku2.zip</path>
-		<name>Sengoku 2</name>
-		<desc>A sequel to Sengoku, Sengoku 2 once again casts you as two street fighting heroes caught in the midst of a supernatural attack by the undead forces of the evil Nobunaga from the Japanese sengoku period, although this time the game warps you through several time periods and locations to fight evil, from feudal Japan to WWII Europe.
-
-As in the original, the game plays as a standard 2D side-scrolling beat 'em up, in which you have to proceed through each stage killing all enemies that cross your path and defeating the stage boss to proceed. New for the sequel is the inclusion of swords as your default weapons, which now feature both high and low attacks, as well as a block move that allows you to parry enemy attacks. Collecting orbs gives you weapon upgrades and energy attacks, as well as the ability to morph into any of the three spirits released in the original which give you a new arsenal of moves and powers.</desc>
-		<image>./mixart/sengoku2.png</image>
-		<video>./snap/sengoku2.mp4</video>
-		<marquee>./wheel/sengoku2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Beat'em Up-Fight-Fight / 2.5D-Action</genre>
-		<players>2</players>
-		<cheevosHash>D0479C49E9CDAF32D9CD6CF39F8883FD</cheevosHash>
 	</game>
 	<game>
 		<path>./sengoku3.zip</path>
@@ -2026,22 +1979,6 @@ Art of Fighting 3: The Path of The Warrior features ten playable characters with
 		<cheevosHash>6311BDA4830FADFB4CB19BB64E0AAABC</cheevosHash>
 	</game>
 	<game>
-		<path>./turfmast.zip</path>
-		<name>Neo Turf Masters</name>
-		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
-		<image>./mixart/turfmast.png</image>
-		<video>./snap/turfmast.mp4</video>
-		<marquee>./wheel/turfmast.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Nazca Corporation</developer>
-		<publisher>Nazca Corporation</publisher>
-		<genre>Sports-Sports / Golf</genre>
-		<players>2</players>
-		<cheevosHash>86A5E87842B12616C52F467F5693348F</cheevosHash>
-		<cheevosId>13796</cheevosId>
-	</game>
-	<game>
 		<path>./bangbead.zip</path>
 		<name>Bang Bead</name>
 		<desc>Bang Bead, known in Japan as Bang Beads, is a 2001 ball-and-paddle game developed and published by Visco exclusively for the arcade cabinet known as the SNK Neo-Geo MVS hardware. It combines the genres of the Magnavox Odyssey Tennis game, Atari's Pong and Breakout arcades, and Nintendo's Spitball Sparky of the Game &amp; Watch series. You can select from 9 characters and play against another player or the computer. Knock out the stars behind the other player then get the bouncing ball through to win the round.</desc>
@@ -2320,5 +2257,72 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
 		<cheevosId>11768</cheevosId>
+	</game>
+	<game>
+		<path>./neocup98.zip</path>
+		<name>Neo-Geo Cup '98 - The Road to the Victory</name>
+		<desc>Neo Geo Cup'98 is a football simulation based on the World Cup 1998. This title is a new installment in the series Super Sidekicks and updates all data to focus on the event. In qualification phase or during games knockout, lead one of the 64 available teams to victory.</desc>
+		<image>./mixart/neocup98.png</image>
+		<video>./snap/neocup98.mp4</video>
+		<marquee>./wheel/neocup98.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Sports-Sports / Soccer</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>EDB22F6F4662763B65FA34B6782A4046</cheevosHash>
+	</game>
+	<game>
+		<path>./neomrdo.zip</path>
+		<name>Neo Mr. Do!</name>
+		<desc>Neo Mr. Do! is an enhanced version of Mr. Do!, and features greatly improved graphics, stereo sound, and intermissions that can be viewed when an area is completed. You can also travel to the bonus stages, where the object is to make your way toward the exit by carefully dropping apples to create a path. These bonus stages can be reached by killing all enemies on the screen, rather than collecting all the items that are in groups.</desc>
+		<image>./mixart/neomrdo.png</image>
+		<video>./snap/neomrdo.mp4</video>
+		<marquee>./wheel/neomrdo.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19970926T000000</releasedate>
+		<developer>Visco</developer>
+		<publisher>Universal Interactive</publisher>
+		<genre>Platform-Puzzle-Game-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>DD53691A8B5423224E5F97FF08D1704B</cheevosHash>
+	</game>
+	<game>
+		<path>./sengoku2.zip</path>
+		<name>Sengoku 2</name>
+		<desc>A sequel to Sengoku, Sengoku 2 once again casts you as two street fighting heroes caught in the midst of a supernatural attack by the undead forces of the evil Nobunaga from the Japanese sengoku period, although this time the game warps you through several time periods and locations to fight evil, from feudal Japan to WWII Europe.
+
+As in the original, the game plays as a standard 2D side-scrolling beat 'em up, in which you have to proceed through each stage killing all enemies that cross your path and defeating the stage boss to proceed. New for the sequel is the inclusion of swords as your default weapons, which now feature both high and low attacks, as well as a block move that allows you to parry enemy attacks. Collecting orbs gives you weapon upgrades and energy attacks, as well as the ability to morph into any of the three spirits released in the original which give you a new arsenal of moves and powers.</desc>
+		<image>./mixart/sengoku2.png</image>
+		<video>./snap/sengoku2.mp4</video>
+		<marquee>./wheel/sengoku2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Beat'em Up-Fight-Fight / 2.5D-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>D0479C49E9CDAF32D9CD6CF39F8883FD</cheevosHash>
+	</game>
+	<game>
+		<path>./turfmast.zip</path>
+		<name>Neo Turf Masters</name>
+		<desc>Neo Turf Masters is a golf game that offers play in three different countries. You can play in the US, Germany, and Japan. There are 18 holes per course, just like in real life, which totals to 54 holes. The game features a two-player versus mode and three single player modes. You can choose from one of six different characters, who each have their own strengths and weaknesses. Like many other golf games, you use an accurate click type of play, where you click in an overhead map where you want to hit the ball, then adjust hook, slice, and power. In Versus mode, you can earn "super-clubs" that can only be used once. These can also be traded between friends.</desc>
+		<image>./mixart/turfmast.png</image>
+		<video>./snap/turfmast.mp4</video>
+		<marquee>./wheel/turfmast.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Nazca Corporation</developer>
+		<publisher>Nazca Corporation</publisher>
+		<genre>Sports-Sports / Golf</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>86A5E87842B12616C52F467F5693348F</cheevosHash>
+		<cheevosId>13796</cheevosId>
 	</game>
 </gameList>

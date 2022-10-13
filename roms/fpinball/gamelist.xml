@@ -4545,22 +4545,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Phantasm_v1.0.fpt</path>
-		<name>Phantasm_v1.0</name>
-		<desc>Flipper Phantasm_v1.0</desc>
-		<image>./mixart/Phantasm_v1.0.jpg</image>
-		<video>./snap/Phantasm_v1.0.mp4</video>
-		<marquee>./wheel/Phantasm_v1.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Retroactive 1.2 (sphere 2006).fpt</path>
 		<name>Retroactive 1.2</name>
 		<desc>Flipper Retroactive 1.2 (sphere 2006)</desc>
@@ -4617,22 +4601,6 @@
 		<marquee>./wheel/Unreal Tournament (DOPE) (1.4beta).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
-		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
-		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
-		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
-		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
-		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
@@ -4752,22 +4720,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TrickOrTreat ZED.fpt</path>
-		<name>TrickOrTreat</name>
-		<desc>Flipper TrickOrTreat ZED</desc>
-		<image>./mixart/TrickOrTreat ZED.png</image>
-		<video>./snap/TrickOrTreat ZED.mp4</video>
-		<marquee>./wheel/TrickOrTreat ZED.png</marquee>
-		<rating>3</rating>
-		<releasedate>20171231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Iron Man ULTIMATE Pro 1.04.fpt</path>
 		<name>Iron Man ULTIMATE Pro 1.04</name>
 		<desc>Flipper Iron Man ULTIMATE Pro 1.04</desc>
@@ -4821,6 +4773,85 @@
 		<marquee>./wheel/Stepmania Pinball.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WarLord.fpt</path>
+		<name>WarLord</name>
+		<desc>Flipper WarLord tribute to Atari game</desc>
+		<image>./mixart/WarLord.png</image>
+		<video>./snap/WarLord.mp4</video>
+		<marquee>./wheel/WarLord.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
+		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
+		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Phantasm_v1.0.fpt</path>
+		<name>Phantasm_v1.0</name>
+		<desc>Flipper Phantasm_v1.0</desc>
+		<image>./mixart/Phantasm_v1.0.jpg</image>
+		<video>./snap/Phantasm_v1.0.mp4</video>
+		<marquee>./wheel/Phantasm_v1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TrickOrTreat ZED.fpt</path>
+		<name>TrickOrTreat</name>
+		<desc>Flipper TrickOrTreat ZED</desc>
+		<image>./mixart/TrickOrTreat ZED.png</image>
+		<video>./snap/TrickOrTreat ZED.mp4</video>
+		<marquee>./wheel/TrickOrTreat ZED.png</marquee>
+		<rating>3</rating>
+		<releasedate>20171231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./xmen.fpt</path>
+		<name>X-Men</name>
+		<desc>Flipper X-men</desc>
+		<image>./mixart/xmen.png</image>
+		<video>./snap/xmen.mp4</video>
+		<marquee>./wheel/xmen.png</marquee>
+		<rating>3</rating>
+		<releasedate>20171231T200000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

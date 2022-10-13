@@ -167,21 +167,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./galaxy.daphne</path>
-		<name>Galaxy Ranger</name>
-		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
-		<image>./mixart/galaxy.png</image>
-		<video>./snap/galaxy.mp4</video>
-		<marquee>./wheel/galaxy.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./interstellar.daphne</path>
 		<name>Interstellar Laser Fantasy</name>
 		<desc>Interstellar Laser Fantasy was a laserdisc game manufactured by Funai in 1983.  The laserdisc background images were created by Japan-based company, Gakken.  In Interstellar, you fly the starship, "Ferald Runner".  Your mission is to fly to distant worlds battling alien spaceships and destroying alien bases.  Armed with lasers and bombs, you travel across alien deserts, through space caverns, and into bizarre wire framed cities to find and destroy the Delta UFO.</desc>
@@ -253,6 +238,21 @@
 		<developer>Sega</developer>
 		<publisher>Bally Midway</publisher>
 		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./galaxy.daphne</path>
+		<name>Galaxy Ranger</name>
+		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
+		<image>./mixart/galaxy.png</image>
+		<video>./snap/galaxy.mp4</video>
+		<marquee>./wheel/galaxy.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

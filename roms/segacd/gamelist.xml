@@ -721,18 +721,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>59608BF529E780C51684555300111D55</cheevosHash>
 	</game>
 	<game>
-		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
-		<name>Adventures of Batman &amp; Robin, The (USA)</name>
-		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
-		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
-		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>00000000T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8D7815B041DAF04DB6EEF8E0B5CBB83A</cheevosHash>
-	</game>
-	<game>
 		<path>./Adventures of Willy Beamish, The (USA).chd</path>
 		<name>The Adventures of Willy Beamish</name>
 		<desc>Willy Beamish is a kid who likes to goof off and have fun. Naturally all the grown-ups get in the way by making him go to school, making him clean his room, etc. But now that's school's out for the summer, Willy is determined to have a good time and maybe even have his pet frog win the frog jumping contest. However Willy has a habit of getting into trouble, and naturally that means it will be a challenge to get out of it.
@@ -3168,7 +3156,7 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<video>./snap/Dune (USA).mp4</video>
 		<marquee>./wheel/Dune (USA).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B0E9B92AFA241DFE4ECEF261FBA4E227</cheevosHash>
@@ -3191,5 +3179,17 @@ There are a plethora of game modes to choose from including a regular single-fal
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5FF329E7567CD630306A5B0598ABDAD4</cheevosHash>
+	</game>
+	<game>
+		<path>./Adventures of Batman &amp; Robin, The (USA).chd</path>
+		<name>Adventures of Batman &amp; Robin, The (USA)</name>
+		<image>./mixart/Adventures of Batman &amp; Robin, The (USA).png</image>
+		<video>./snap/Adventures of Batman &amp; Robin, The (USA).mp4</video>
+		<marquee>./wheel/Adventures of Batman &amp; Robin, The (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>00000000T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8D7815B041DAF04DB6EEF8E0B5CBB83A</cheevosHash>
 	</game>
 </gameList>

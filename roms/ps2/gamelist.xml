@@ -4043,25 +4043,6 @@ Story written by comics authors Garth Ennis and Jimmy Palmiotti.</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="22594" source="ScreenScraper.fr">
-		<path>./Radiata Stories (USA).gz</path>
-		<name>Radiata Stories</name>
-		<desc>Radiata Stories is a traditionally styled Japanese console RPG, featuring endearing young heroes who face epic challenges in a fantasy realm. The game's lighthearted story follows two main characters, Jack and Ridley, who had longed all their lives to become knights and protect the kingdom of Radiata with heroism and pride. 
- Now that they have finally earned their knighthood, however, they find themselves facing the most terrible war the land has ever known, and they must wonder if there might be another way to resolve this conflict that suddenly threatens the entire world. 
- The design of Radiata Stories focuses on placing the player in a living, responsive world, where each of the more than 175 non-player characters lives a unique life, following a natural daily routine and offering a distinct perspective when players by stop for a conversation.</desc>
-		<image>./mixart/Radiata Stories (USA).png</image>
-		<video>./snap/Radiata Stories (USA).mp4</video>
-		<marquee>./wheel/Radiata Stories (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050906T000000</releasedate>
-		<developer>Tri-Ace</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Action-Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>768</genreid>
-	</game>
 	<game id="23190" source="ScreenScraper.fr">
 		<path>./Raiden III (USA).gz</path>
 		<name>Raiden III</name>
@@ -7691,5 +7672,24 @@ There are now loads of online play modes to try, with up to 19 other racers onli
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="22594" source="ScreenScraper.fr">
+		<path>./Radiata Stories (USA).gz</path>
+		<name>Radiata Stories</name>
+		<desc>Radiata Stories is a traditionally styled Japanese console RPG, featuring endearing young heroes who face epic challenges in a fantasy realm. The game's lighthearted story follows two main characters, Jack and Ridley, who had longed all their lives to become knights and protect the kingdom of Radiata with heroism and pride. 
+ Now that they have finally earned their knighthood, however, they find themselves facing the most terrible war the land has ever known, and they must wonder if there might be another way to resolve this conflict that suddenly threatens the entire world. 
+ The design of Radiata Stories focuses on placing the player in a living, responsive world, where each of the more than 175 non-player characters lives a unique life, following a natural daily routine and offering a distinct perspective when players by stop for a conversation.</desc>
+		<image>./mixart/Radiata Stories (USA).png</image>
+		<video>./snap/Radiata Stories (USA).mp4</video>
+		<marquee>./wheel/Radiata Stories (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050906T000000</releasedate>
+		<developer>Tri-Ace</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action-Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>768</genreid>
 	</game>
 </gameList>

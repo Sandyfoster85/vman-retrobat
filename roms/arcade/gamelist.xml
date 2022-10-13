@@ -59372,23 +59372,6 @@ The player also has another button to reverse the direction of the Steel Worker 
 		<cheevosHash>B9E6D5116C6FBB38B3834683996BA017</cheevosHash>
 	</game>
 	<game>
-		<path>./stg.zip</path>
-		<name>Strike Gunner S.T.G.</name>
-		<desc>Strike Gunner S.T.G is a vertical scrolling shoot 'em up video game originally released on the arcades in 1991 by Tecmo, and then later ported for the SNES. The player takes control of a high-tech jet, the "Strike Gunner" of the title, and faces wave after wave of enemies, ranging from helicopters, jets, tanks and airships, among others. On the first screen you select your secondary item like sheilds, homing missiles. etc.</desc>
-		<image>./mixart/stg.png</image>
-		<video>./snap/stg.mp4</video>
-		<marquee>./wheel/stg.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Athena</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C6A5A31F3F1D9E446353E0425AB55C3E</cheevosHash>
-	</game>
-	<game>
 		<path>./stinger.zip</path>
 		<name>Stinger</name>
 		<desc>The game consists of traveling around a space fortress meanwhile shooting aliens and spaceships. An object called 'Bongo' could be used as a defense method. This object will shoot itself to the enemies for a few seconds.</desc>
@@ -72074,29 +72057,6 @@ Vinnie: A great player.</desc>
 		<region>us</region>
 		<cheevosHash>CE43D1DC7E14463DB025032BFDAB178C</cheevosHash>
 	</game>
-	<game id="78949">
-		<path>./mk4.zip</path>
-		<name>Mortal Kombat 4</name>
-		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/mk4.png</image>
-		<video>./snap/mk4.mp4</video>
-		<marquee>./wheel/mk4.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Mortal Kombat</family>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>f07469f7979d3faf74844064248ba73c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD274029E50AE245AA2443993D73AD9A</cheevosHash>
-	</game>
 	<game id="39933">
 		<path>./acedrvrw.zip</path>
 		<name>Ace Driver: Racing Evolution</name>
@@ -72906,5 +72866,45 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4913&am
 		<region>us</region>
 		<cheevosHash>024E350BE5736B014D80C32330F03E2A</cheevosHash>
 		<cheevosId>12027</cheevosId>
+	</game>
+	<game id="78949">
+		<path>./mk4.zip</path>
+		<name>Mortal Kombat 4</name>
+		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/mk4.png</image>
+		<video>./snap/mk4.mp4</video>
+		<marquee>./wheel/mk4.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Mortal Kombat</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>f07469f7979d3faf74844064248ba73c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD274029E50AE245AA2443993D73AD9A</cheevosHash>
+	</game>
+	<game>
+		<path>./stg.zip</path>
+		<name>Strike Gunner S.T.G.</name>
+		<desc>Strike Gunner S.T.G is a vertical scrolling shoot 'em up video game originally released on the arcades in 1991 by Tecmo, and then later ported for the SNES. The player takes control of a high-tech jet, the "Strike Gunner" of the title, and faces wave after wave of enemies, ranging from helicopters, jets, tanks and airships, among others. On the first screen you select your secondary item like sheilds, homing missiles. etc.</desc>
+		<image>./mixart/stg.png</image>
+		<video>./snap/stg.mp4</video>
+		<marquee>./wheel/stg.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C6A5A31F3F1D9E446353E0425AB55C3E</cheevosHash>
 	</game>
 </gameList>
