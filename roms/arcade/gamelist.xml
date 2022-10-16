@@ -22699,25 +22699,6 @@ Players chose to pilot any one of three different jet fighters and must battle t
 		<cheevosHash>B7F249D3E1CF827B1530393DC0E942A7</cheevosHash>
 	</game>
 	<game>
-		<path>./cbuster.zip</path>
-		<name>Two Crude</name>
-		<desc>Crude Buster © 1990 Data East.
-
-In the near future, ruthless gangs are the new rulers of the streets. Only a brave duo of seasoned street brawlers can end this terror and return peace to the streets. Don't forget to grab and use anything you can find as a weapon (pipes, stones, signs, cars, even enemies!) to survive this onslaught. Features solid graphics &amp; sound and very fun gameplay mechanics!</desc>
-		<image>./mixart/cbuster.png</image>
-		<video>./snap/cbuster.mp4</video>
-		<marquee>./wheel/cbuster.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B518623164EFEDB99A8DF8D05CF4BD53</cheevosHash>
-	</game>
-	<game>
 		<path>./ccastles.zip</path>
 		<name>Crystal Castles</name>
 		<desc>Crystal Castles is an inventive variation on the maze-driven collect-the-dots gameplay first seen in Namco's legendary "Pac-Man". The player takes on the role of 'Bentley Bear', who must run around a number of "castles" - each presented in the form of an isometric forced 3D maze - picking up the gemstones that litter its walkways and platforms, before moving onto the next castle. 
@@ -32945,24 +32926,6 @@ Giga Wing is a shoot-em-up set during a fictional war. The player controls one o
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>399FB23C18671A045F49AEF80B8385C3</cheevosHash>
-	</game>
-	<game>
-		<path>./gijoe.zip</path>
-		<name>G.I. Joe</name>
-		<desc>Soldiers fight in a futuristic war against the army of an evil emperor. Unlike most army themed games, even trees and buildings can be destroyed if enough bullets are pumped into them.</desc>
-		<image>./mixart/gijoe.png</image>
-		<video>./snap/gijoe.mp4</video>
-		<marquee>./wheel/gijoe.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Shooter / 3rd person</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>94F40CD22046F82F39831D7CE1572C61</cheevosHash>
-		<cheevosId>12152</cheevosId>
 	</game>
 	<game>
 		<path>./gimeabrk.zip</path>
@@ -72906,5 +72869,42 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4913&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C6A5A31F3F1D9E446353E0425AB55C3E</cheevosHash>
+	</game>
+	<game>
+		<path>./cbuster.zip</path>
+		<name>Two Crude</name>
+		<desc>Crude Buster © 1990 Data East.
+
+In the near future, ruthless gangs are the new rulers of the streets. Only a brave duo of seasoned street brawlers can end this terror and return peace to the streets. Don't forget to grab and use anything you can find as a weapon (pipes, stones, signs, cars, even enemies!) to survive this onslaught. Features solid graphics &amp; sound and very fun gameplay mechanics!</desc>
+		<image>./mixart/cbuster.png</image>
+		<video>./snap/cbuster.mp4</video>
+		<marquee>./wheel/cbuster.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B518623164EFEDB99A8DF8D05CF4BD53</cheevosHash>
+	</game>
+	<game>
+		<path>./gijoe.zip</path>
+		<name>G.I. Joe</name>
+		<desc>Soldiers fight in a futuristic war against the army of an evil emperor. Unlike most army themed games, even trees and buildings can be destroyed if enough bullets are pumped into them.</desc>
+		<image>./mixart/gijoe.png</image>
+		<video>./snap/gijoe.mp4</video>
+		<marquee>./wheel/gijoe.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / 3rd person</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>94F40CD22046F82F39831D7CE1572C61</cheevosHash>
+		<cheevosId>12152</cheevosId>
 	</game>
 </gameList>

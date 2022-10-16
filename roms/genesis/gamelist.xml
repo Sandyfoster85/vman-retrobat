@@ -4309,22 +4309,6 @@ As you progress through the levels of platform-adventure action, you will come a
 		<region>us</region>
 		<cheevosHash>73070170122193915B7F8AF945EF426C</cheevosHash>
 	</game>
-	<game>
-		<path>./Street Fighter II Remastered.7z</path>
-		<name>'H'Street Fighter II': Remastered Edition</name>
-		<desc>Street Fighter II Remastered is a project that has been in production since 2016 as a laboratory to test various possible solutions to solve part of the problems of this game and other titles on this platform. Everything related to art and presentation has been redone, all resources have been used intelligently to extract the potential of the console. It is also not a port restricted to the original work, Street Fighter 2 has always been updated in arcades and ports. So part of the job was to revise the game with modern elements present in the SF series itself to give an updated look to the game.</desc>
-		<image>./mixart/Street Fighter II Remastered.jpg</image>
-		<video>./snap/Street Fighter II Remastered.mp4</video>
-		<marquee>./wheel/Street Fighter II Remastered.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>Pyron</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>2D24E59DB6939E0A320310E4004F8097</cheevosHash>
-	</game>
 	<game id="726" source="ScreenScraper.fr">
 		<path>./AWS Pro Moves Soccer (USA).7z</path>
 		<name>Pro Moves Soccer</name>
@@ -14401,25 +14385,6 @@ Along the way you get the chance to collect power-ups by shooting transport truc
 		<region>eu</region>
 		<cheevosHash>EBD5C5829E6992542770773E276EBAC3</cheevosHash>
 	</game>
-	<game>
-		<path>./Two Crude Dudes (USA).7z</path>
-		<name>Two Crude Dudes</name>
-		<desc>After a nuclear explosion, New York needs rebuilding. This has barely started when the 'Big Valley' gang enters and takes full control themselves. The Government sends a pair of heavies known as the Crude Dudes in to clear them out.
-
-As one of these Crude Dudes, you must travel through tough streets and take out Big Valley's people, destroying their vehicles and avoiding the force of their weaponry. Foes include werewolves, skeletons and hunchbacks. Gameplay is essentially Streets of Rage-style beat 'em up driven, with bosses on each level.</desc>
-		<image>./mixart/Two Crude Dudes (USA).png</image>
-		<video>./snap/Two Crude Dudes (USA).mp4</video>
-		<marquee>./wheel/Two Crude Dudes (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Beat'em Up-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>36F90726FA2158885D5265BB4B50C8EE</cheevosHash>
-	</game>
 	<game id="576" source="ScreenScraper.fr">
 		<path>./Universal Soldier (USA, Europe).7z</path>
 		<name>Universal Soldier</name>
@@ -15795,6 +15760,540 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<cheevosHash>8BC3BD305A9C61A0D3957414C5E98A4C</cheevosHash>
 	</game>
 	<game>
+		<path>./Two Crude Dudes (USA).7z</path>
+		<name>Two Crude Dudes</name>
+		<desc>After a nuclear explosion, New York needs rebuilding. This has barely started when the 'Big Valley' gang enters and takes full control themselves. The Government sends a pair of heavies known as the Crude Dudes in to clear them out.
+
+As one of these Crude Dudes, you must travel through tough streets and take out Big Valley's people, destroying their vehicles and avoiding the force of their weaponry. Foes include werewolves, skeletons and hunchbacks. Gameplay is essentially Streets of Rage-style beat 'em up driven, with bosses on each level.</desc>
+		<image>./mixart/Two Crude Dudes (USA).png</image>
+		<video>./snap/Two Crude Dudes (USA).mp4</video>
+		<marquee>./wheel/Two Crude Dudes (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>36F90726FA2158885D5265BB4B50C8EE</cheevosHash>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Attack of the PETSCII Robots.zip</path>
+		<name>Attack of the Petscii Robots </name>
+		<releasedate>20220501T000000</releasedate>
+		<genre>Adventure, Role-Playing, Puzzle, Strategy, Unofficial</genre>
+		<players>2</players>
+		<md5>4e99bb4bdcb8e5d35acef4d4e4a0e8bb</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085256" />
+		<scrap name="TheGamesDB" date="20221016T085216" />
+	</game>
+	<game id="367964" source="ScreenScraper.fr">
+		<path>./#homebrews/Darius - Extra Version.zip</path>
+		<name>Darius - Extra Version</name>
+		<desc>Darius: Extra Version is an expanded standalone version of the Genesis port of Darius that was previously released in the SEGA Genesis Mini. It features three game modes, "Old", "New" and "Extra" which reflect different previously-released Darius revisions. It also features newly-updated audio with improved volume levels and better-quality sound effects.</desc>
+		<image>./#homebrews/mixart/Darius - Extra Version.png</image>
+		<video>./#homebrews/snap/Darius - Extra Version.mp4</video>
+		<marquee>./#homebrews/wheel/Darius - Extra Version.png</marquee>
+		<releasedate>20210225T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Columbus Circle</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<lang>en</lang>
+		<genreid>260</genreid>
+		<scrap name="TheGamesDB" date="20221016T085448" />
+	</game>
+	<game id="360064" source="ScreenScraper.fr">
+		<path>./#homebrews/Alice Sisters.zip</path>
+		<name>Alice Sisters</name>
+		<desc>The big mountain villain captured the mom of Alice and her sister. Help Alice and her sister save their mother! Each of the sisters has her own power, Alice can change size by jumping on magic mushrooms. Her small size will allow her to pass through narrow spaces, but be careful because she will not be able to jump very high and very far! Alice's sister can throw balls to repel enemies or break stones blocking the path. Go through the levels and solve puzzles by activating the right lever, the right switches, as well as finding the color keys to open the different doors. Watch out for various enemies like evil bats!</desc>
+		<image>./#homebrews/mixart/Alice Sisters-image.png</image>
+		<video>./#homebrews/snap/Alice Sisters-video.mp4</video>
+		<marquee>./#homebrews/mixart/Alice Sisters-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>OrionSoft</developer>
+		<publisher>Josh Prod</publisher>
+		<genre>Action / Adventure</genre>
+		<players>1</players>
+		<md5>81c520267860da6e53c8ee9f60785d65</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085120" />
+		<scrap name="HfsDB" date="20221016T085536" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Bone Marrow.zip</path>
+		<name>Bone Marrow</name>
+		<releasedate />
+		<md5>035a2952b254b39fd0a58025e3938561</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085257" />
+		<scrap name="HfsDB" date="20221016T085541" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Chips Challenge The Retro Room brew.zip</path>
+		<name>Chips Challenge The Retro Room brew</name>
+		<releasedate />
+		<md5>9a259f49f889ac4c251012942419b190</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085257" />
+		<scrap name="HfsDB" date="20221016T085544" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Debtor.zip</path>
+		<name>Debtor</name>
+		<releasedate />
+		<md5>815e1c68858f366d46ec69570cc5dd91</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085257" />
+		<scrap name="HfsDB" date="20221016T085548" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Devwill Too Prologue.zip</path>
+		<name>Devwill Too Prologue</name>
+		<releasedate />
+		<md5>bd197de34b6f3326e761035576bd0b80</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085257" />
+		<scrap name="HfsDB" date="20221016T085550" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Diamond Thieves.zip</path>
+		<name>Diamond Thieves</name>
+		<releasedate />
+		<md5>c7caba7090c868823567c679c040eda4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085258" />
+		<scrap name="HfsDB" date="20221016T085551" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Irmaos Aratu.zip</path>
+		<name>Irmaos Aratu</name>
+		<releasedate />
+		<md5>add77159308bd0e1d2f33fb04f34853e</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085258" />
+		<scrap name="HfsDB" date="20221016T085558" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/The Chaos Citadel.zip</path>
+		<name>The Chaos Citadel</name>
+		<releasedate />
+		<md5>ffd0196cf0dd139a85d2be0c44e57878</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085300" />
+		<scrap name="HfsDB" date="20221016T085626" />
+	</game>
+	<game id="213975" source="ScreenScraper.fr">
+		<path>./#homebrews/16Bit-Rhythm Land.zip</path>
+		<name>16BIT Rhythm Land</name>
+		<desc>There are 4 types of mini-games, each with 3 types of music and 2 levels of difficulty that we can select as we see fit. There is no story mode requiring you to respect any order, if everything goes perfect you will get some bonuses during the game if everything is right.</desc>
+		<image>./#homebrews/mixart/16Bit-Rhythm Land-image.png</image>
+		<video>./#homebrews/snap/16Bit-Rhythm Land-video.mp4</video>
+		<marquee>./#homebrews/mixart/16Bit-Rhythm Land-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20190221T000000</releasedate>
+		<developer>Columbus Circle</developer>
+		<publisher>Columbus Circle</publisher>
+		<genre>Music and Dance</genre>
+		<players>1</players>
+		<md5>0bbe29c9abb00cea24e7c31624cf926a</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085053" />
+		<scrap name="HfsDB" date="20221016T085533" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Coffee Crisis.zip</path>
+		<name>Coffee Crisis</name>
+		<desc>Need a fresh cup? Take the Rogue Brawling to PC now!
+
+Coffee Crisis is an arcade-style beat 'em up full of caffeinated carnage! This is a full scale release for the Sega Genesis/Mega Drive, packed with classic gameplay and an extra espresso shot of action!
+
+Single player and local co-op campaign
+7 caffeinated power-ups to keep your alien-bashing blasting on all cylinders
+8 challenging bosses
+Visit real Pittsburgh locations and areas!
+Charge-up attacks, suplex throws, and high-test weapons!
+12 professional metal tracks
+Crush alien overlords with metal-fueled, caffeine aided combos to save Earth’s most precious resources - free wifi, heavy metal, and coffee! Feel their extra-terrestrial flesh rip to shreds as you crank the alien cries to 11!  
+
+Save the planet, save the wifi, save the metal, save the COFFEE! 
+
+*This game is Region Free. It works in JP, NTSC, PAL, and SECAM regions</desc>
+		<image>./#homebrews/mixart/Coffee Crisis.png</image>
+		<video>./#homebrews/snap/Coffee Crisis.mp4</video>
+		<marquee>./#homebrews/wheel/Coffee Crisis.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20180504T000000</releasedate>
+		<publisher>mega cat studios</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>263</genreid>
+		<scrap name="TheGamesDB" date="20221016T085448" />
+	</game>
+	<game id="367952" source="ScreenScraper.fr">
+		<path>./#homebrews/Curse of Illmoore Bay.zip</path>
+		<name>Curse of Illmoore Bay, The</name>
+		<desc>Curse is a basic horizontal-scrolling shooter, one of the first released for the Megadrive, where one pilots a space fighter through deadly environments such as a mutated jungle, a ruined city, and an underground volcano. The game features five stages, and at several points in each stage, a larger boss enemy appears which must be destroyed to continue.
+
+There a variety of weapon power-ups to collect, each with three power levels. There is a spread shot that can cover nearly the entire screen, a bomb that explodes into shrapnel when it connects, and a twisting wide shot that can pass through environmental obstacles. There are also homing missiles, smart bombs, speed-ups, and an option that can be placed on any side of the ship. The ship also has a shield which can absorb damage from smaller bullets, meaning it can take a few hits before exploding unless it's hit by an enemy ship, part of the landscape or some special enemy weapons that just ignore the shield.</desc>
+		<image>./#homebrews/mixart/Curse of Illmoore Bay-image.png</image>
+		<video>./#homebrews/snap/Curse of Illmoore Bay-video.mp4</video>
+		<marquee>./#homebrews/mixart/Curse of Illmoore Bay-marquee.png</marquee>
+		<releasedate>19891223T000000</releasedate>
+		<developer>Micronet</developer>
+		<publisher>Micronet</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<md5>ef4ecc2e5cfdd5d94a2c71e55034ecf8</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085304" />
+		<scrap name="HfsDB" date="20221016T085546" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Demons of Asteborg.zip</path>
+		<name>Demons Of Asteborg</name>
+		<desc>Demons of Asteborg is an original and challenging new 2D game, mixing action, small puzzles and strategy. This 16-bit game will bring back many memories for retro fans.
+The story
+
+Long ago in the Kingdom of Asteborg, a war broke out, pitting humans and demons against each other in a bloody battle. Sagramor, a powerful mercenary, and Maria, a sorceress with fighting magic, joined forces to defeat the demonic army.
+Sagramor found a way to lock the demons in an alternate dimension, at the cost of his own life. His sacrifice earned him the title of "Legend of Asteborg".
+
+Shortly before the end of the war, Maria gave birth to a child named Gareth.
+She died 4 years later.
+
+Gareth was then taken in by the royal orphanage, and Bohort, the leader of the armed troops, saw in him an invaluable potential. He trained him from an early age to become a formidable warrior.
+
+Decades later, Zadimus, the former leader of the Demons, who survived the great war, found a way to reopen the portal to the parallel dimension in order to free his fellow Demons and declare war on the humans in order to take back the Kingdom of Asteborg.
+
+As Gareth, now the royal guard of Asteborg, you will go on an adventure, braving the lands of the kingdom and its dangerous lands populated by bloodthirsty monsters.
+
+Along the way, you'll learn more and more about the ancient war and your identity.
+But beware, Zadimus won't let you get away with it...</desc>
+		<image>./#homebrews/mixart/Demons of Asteborg-image.jpg</image>
+		<video>./#homebrews/snap/Demons of Asteborg.mp4</video>
+		<marquee>./#homebrews/wheel/Demons of Asteborg.png</marquee>
+		<releasedate>20210801T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+		<scrap name="TheGamesDB" date="20221016T085450" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Devwill Too.zip</path>
+		<name>Devwill Too MD</name>
+		<desc>Prepare your mind for this existentialist adventure, as you jump into this classic screen by screen platformer full of challenges and fun! Test your own skills with the innovative combo system that multiplies your score, and unravel the tale through hand-drawn comic cutscenes! Can you became a combo master and unravel the mystery?
+
+Innovative Combo System
+Existentialist Narrative
+Hand-Drawn Comic Cutscenes
+Philosophical Gameplay
+
+*Brought to the MD by the talented Paulo Andrés de Matos Villalva &amp; Laudelino Nemezes. Published and distributed by Mega Cat Studios</desc>
+		<image>./#homebrews/mixart/Devwill Too-image.jpg</image>
+		<video>./#homebrews/snap/Devwill Too.mp4</video>
+		<marquee>./#homebrews/mixart/Devwill Too-marquee.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20191201T000000</releasedate>
+		<publisher>mega cat studios</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+		<scrap name="TheGamesDB" date="20221016T085453" />
+	</game>
+	<game id="367972" source="ScreenScraper.fr">
+		<path>./#homebrews/Eyra The Crow Maiden.zip</path>
+		<name>Eyra - The Crow Maiden</name>
+		<desc>Imagine a very prehistoric and barbaric world where there are no cities but people live in giant temples instead of cities. Temples located in mountains, deserts and other weird places where humans gather and live together to protect themselves from outside dangers, but and to serve their elders who dedicate their time to communicate with gods in search of knowledge and power. 
+ 
+You are Eyra, a young warrior priestess from a barbarian tribe that's been attacked by the Infernal Marauder, an evil warrior ruler from a far away land. You must travel away from the world you know into dark and unfamiliar lands with the sole company of your trusty familiar, a brave crow trained for combat. 
+ 
+Your mission is simple but not easy. Your elders sent you to rescue a group of soldiers who were kidnapped by Infernal Marauder who intends to experiment on them with ancient magic to create an army never seen before that'll help him destroy everyone who opposes him. 
+ 
+Along the way you will face many enemies and a few bosses that will do everything within their power to stop her.</desc>
+		<image>./#homebrews/mixart/Eyra The Crow Maiden.png</image>
+		<video>./#homebrews/snap/Eyra The Crow Maiden.mp4</video>
+		<marquee>./#homebrews/wheel/Eyra The Crow Maiden.png</marquee>
+		<releasedate>20220201T000000</releasedate>
+		<developer>Second Dimension</developer>
+		<publisher>Second Dimension</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+		<scrap name="TheGamesDB" date="20221016T085453" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Fight for Vengeance.zip</path>
+		<name>Fight for Vengeance</name>
+		<desc>"Fight for Vengeance" is a Brazilian homebrew for SMD in the fighting game genre, made with a clear look at Mortal Kombat and Killer Instinct. Release 2021, physical distribution, rom 2022.</desc>
+		<image>./#homebrews/mixart/Fight for Vengeance.png</image>
+		<video>./#homebrews/snap/Fight for Vengeance.mp4</video>
+		<marquee>./#homebrews/wheel/Fight for Vengeance.png</marquee>
+		<releasedate>20220208T000000</releasedate>
+		<genre>Action, Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<scrap name="TheGamesDB" date="20221016T085453" />
+	</game>
+	<game id="204286" source="ScreenScraper.fr">
+		<path>./#homebrews/FX Unit Yuki.zip</path>
+		<name>FX Unit Yuki : The Henshin Engine</name>
+		<desc>Stop SG Corporation from hacking into the CJC video game!
+Take the role of the young Yuki Shirokawa, the new beta-steller of the JEC company. Transformed into an FX Unit Yuki when it approached the FX Engine too close, it is now able to get into the game and chase away the malware of SG Corp and its champion: Ultradrive Unit Geni. Go through the 8 different levels, mixing platform game and shoot'em up, taking care of the many traps, enemies and formidable bosses.</desc>
+		<image>./#homebrews/mixart/FX Unit Yuki-image.png</image>
+		<video>./#homebrews/snap/FX Unit Yuki-video.mp4</video>
+		<marquee>./#homebrews/mixart/FX Unit Yuki-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Eponasoft</developer>
+		<publisher>PixelHeart</publisher>
+		<genre>Platform / Fighter Scrolling</genre>
+		<players>1</players>
+		<md5>cb3fe7091feb5aa75891ca6937426345</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T092439" />
+		<scrap name="HfsDB" date="20221016T085555" />
+	</game>
+	<game id="189651" source="ScreenScraper.fr">
+		<path>./#homebrews/L'Abbaye des Morts.zip</path>
+		<name>L'Abbaye des Morts</name>
+		<desc>In the 13th century, the Catholic Church used it's soldiers to expel the members of the religious order of the Cathars from the Languedoc region of France. You, as Jean Raymond, have run from these soldiers and hidden in a Abbey. But it turns out the Abbey was built over catacombs of evil. Collect the twelve Cathar crosses to expel the evil from this building.
+
+l'Abbaye des Morts (Abbey of the Dead) is a game designed to look and control like a ZX Spectrum game. It's gameplay is inspired by games like Manic Miner and Jet Set Willy. You must move through room after room to find and gather the twelve crosses. Red hearts will grant you extra lives and stone pillars with a cross near the top act as checkpoints. Ring bells or move switches to open further passages. Avoid anything that is moving as it's touch will lose you a life. Lose all your lives and the game is over.</desc>
+		<image>./#homebrews/mixart/L'Abbaye des Morts-image.png</image>
+		<video>./#homebrews/snap/L'Abbaye des Morts-video.mp4</video>
+		<marquee>./#homebrews/mixart/L'Abbaye des Morts-marquee.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20170101T000000</releasedate>
+		<developer>Mun</developer>
+		<publisher>Locomalito</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>bc2e5590cc0e7b6e863b4275343839d4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085306" />
+		<scrap name="HfsDB" date="20221016T085600" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Life on Mars - Genesis - A Metroidvania (demo).zip</path>
+		<name>Life on Mars - Genesis - A Metroidvania (demo)</name>
+		<releasedate />
+		<md5>3e7991bd34e7c710146b5e7ee4a68ba4</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085259" />
+		<scrap name="HfsDB" date="20221016T085606" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Little Medusa.zip</path>
+		<name>Little Medusa </name>
+		<desc>Adventure</desc>
+		<image>./#homebrews/mixart/Little Medusa.png</image>
+		<video>./#homebrews/snap/Little Medusa.mp4</video>
+		<marquee>./#homebrews/wheel/Little Medusa.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160101T000000</releasedate>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+		<scrap name="TheGamesDB" date="20221016T085454" />
+	</game>
+	<game id="214469" source="ScreenScraper.fr">
+		<path>./#homebrews/Magic Pockets.zip</path>
+		<name>Magic Pockets</name>
+		<desc>Magic Pockets is an action and platform game. You play as the charismatic Bitmap Kid who has very deep pockets, capable of storing anything. Your mission is to collect all the toys that have been stolen by cute little creatures.</desc>
+		<image>./#homebrews/mixart/Magic Pockets.png</image>
+		<video>./#homebrews/snap/Magic Pockets.mp4</video>
+		<marquee>./#homebrews/wheel/Magic Pockets.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20180101T000000</releasedate>
+		<developer>The Bitmap Brothers</developer>
+		<publisher>PixelHeart</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+		<scrap name="TheGamesDB" date="20221016T085454" />
+	</game>
+	<game id="200016" source="ScreenScraper.fr">
+		<path>./#homebrews/Old Towers.zip</path>
+		<name>Old Towers</name>
+		<desc>You play as a little explorers in a towers full of deadly traps and ugly skullz. Your only weapons to help you win: quick-thinking and skill.</desc>
+		<image>./#homebrews/mixart/Old Towers.png</image>
+		<video>./#homebrews/snap/Old Towers.mp4</video>
+		<marquee>./#homebrews/wheel/Old Towers.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20190318T000000</releasedate>
+		<developer>Denis Grachev</developer>
+		<publisher>RetroSouls</publisher>
+		<genre>Puzzle-Game-Puzzle-Game / Glide</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>2816</genreid>
+		<scrap name="TheGamesDB" date="20221016T085454" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Tanglewood.zip</path>
+		<name>Tanglewood</name>
+		<desc>Tanglewood is a platform game developed and published by British studio Big Evil Corporation for the Mega Drive. The game was developed for the Mega Drive as a homebrew project. It was built using hardware, software, and development processes authentic to the 1990s. It was funded successfully through Kickstarter. Set in a fictional world, the game follows a young creature, Nymn, who is separated from the family pack after the sun sets. Unable to get back to the safety of the underground home, Nymn must find a way to survive the night terrors and get to morning. ​TANGLEWOOD’s world is a dangerous one after dark, and Nymn must use skills of evasion, special abilities, traps and trickery to defeat predators. TANGLEWOOD is programmed in pure 68000 assembly language, using original SEGA development tools and processes from the 1990s.</desc>
+		<image>./#homebrews/mixart/Tanglewood.png</image>
+		<video>./#homebrews/snap/Tanglewood.mp4</video>
+		<marquee>./#homebrews/wheel/Tanglewood.png</marquee>
+		<releasedate>20180814T000000</releasedate>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>257</genreid>
+		<scrap name="TheGamesDB" date="20221016T085455" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Tanzer.zip</path>
+		<name>Tanzer</name>
+		<image>./#homebrews/mixart/Tanzer.png</image>
+		<video>./#homebrews/snap/Tanzer.mp4</video>
+		<marquee>./#homebrews/wheel/Tanzer.png</marquee>
+		<releasedate>20200101T000000</releasedate>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<genreid>256</genreid>
+		<scrap name="TheGamesDB" date="20221016T085455" />
+	</game>
+	<game id="367956" source="ScreenScraper.fr">
+		<path>./#homebrews/The Cursed Knight.zip</path>
+		<name>The Cursed Knight</name>
+		<desc>Year 3122. After the fall of our civilization, the Earth has become the principality of Dallongeville, ruled by the king Alberich.
+
+Ancient technologies are now myths, AIs have become gods and ancient warriors have turned into legends.
+
+With 5 million inhabitants, Dallongeville is the last bastion of humanity. Its handful of genetically modified soldiers are continually at war against invaders from all over the galaxy.
+
+Play as Kalder the protector knight, a genetically modified and enhanced human who worships the AI Skull, now called Skull god.
+
+Following a confrontation that has not ended well, he is going to try and bring back to life his sweetheart, the princess of Dallongeville, risking his life on a journey at the boundaries of the galaxy.</desc>
+		<image>./#homebrews/mixart/The Cursed Knight-image.png</image>
+		<video>./#homebrews/snap/The Cursed Knight-video.mp4</video>
+		<marquee>./#homebrews/mixart/The Cursed Knight-marquee.png</marquee>
+		<developer>GGS Studio Creation</developer>
+		<publisher>Broke Studio</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>414de495107e20fb3f4439e03053e329</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085309" />
+		<scrap name="HfsDB" date="20221016T085627" />
+	</game>
+	<game id="272702" source="ScreenScraper.fr">
+		<path>./#homebrews/Alien Cat 2.zip</path>
+		<name>Alien Cat 2</name>
+		<desc>Alien Cat is on his way to save the universe ones again. In this new chapter of Alien Cat adventures you will use the teleports and control the Cat clones to reach your goals.</desc>
+		<image>./#homebrews/mixart/Alien Cat 2.png</image>
+		<video>./#homebrews/snap/Alien Cat 2.mp4</video>
+		<marquee>./#homebrews/wheel/Alien Cat 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200221T000000</releasedate>
+		<developer>Repa Games</developer>
+		<publisher>KuKo</publisher>
+		<genre>Indie</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T092355" />
+		<scrap name="HfsDB" date="20221016T085539" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Foxyland.zip</path>
+		<name>FoxyLand</name>
+		<desc>Ah... love, Love... How beautifully in one word. My mind is racing, my stomach flutter butterflies, heart racing. Are you willing to do anything to give a million cherries, collect all the jewels and even save your favorite?</desc>
+		<image>./#homebrews/mixart/FoxyLand.png</image>
+		<video>./#homebrews/snap/FoxyLand.mp4</video>
+		<marquee>./#homebrews/wheel/FoxyLand.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20171017T000000</releasedate>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<developer>BUG-Studio</developer>
+		<publisher>OraMonkey</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085258" />
+		<scrap name="TheGamesDB" date="20221016T092416" />
+		<scrap name="HfsDB" date="20221016T085552" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Lethal Wedding.zip</path>
+		<name>Lethal Wedding</name>
+		<desc>Get ready to Bride Hard as you fight through insane odds and some mother-daughter issues! Say “I do” to bullets and blood in this top-down RPG shooter!
+
+When a drug ring of criminal clowns kidnaps the groom the day before the big day, it’s up to the bride to be and her mother-in-law to get him back! Rescue your future husband as you fight through circus freaks, mafia thugs, and killer clowns!</desc>
+		<image>./#homebrews/mixart/Lethal Wedding.png</image>
+		<video>./#homebrews/snap/Lethal Wedding.mp4</video>
+		<marquee>./#homebrews/wheel/Lethal Wedding.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20201017T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
+		<developer>MegaCatStudios</developer>
+		<publisher>MegaCatStudios</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T085259" />
+		<scrap name="HfsDB" date="20221016T085603" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Metal Dragon.zip</path>
+		<name>Metal Dragon</name>
+		<desc>Metal Dragon is a homebrew run 'n gun for the Sega Genesis that parodies 80’s and 90’s pop culture, with direct design influences from classics like Mercs, Desert Assault, and Metal Gear. It was created by Kai Magazine Software and a demo was released in 2021.</desc>
+		<image>./#homebrews/mixart/Metal Dragon.png</image>
+		<video>./#homebrews/snap/Metal Dragon.mp4</video>
+		<marquee>./#homebrews/wheel/Metal Dragon.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20210124T000000</releasedate>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<developer>kai-magazine</developer>
+		<publisher>kai-magazine</publisher>
+		<scrap name="ScreenScraper" date="20221016T085259" />
+		<scrap name="TheGamesDB" date="20221016T092548" />
+		<scrap name="HfsDB" date="20221016T085623" />
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./#homebrews/Shaolin Carcara.zip</path>
+		<name>Shaolin Carcara</name>
+		<desc>Shaolin Carcara a action platformer game that is still in development for mega drive. help the brothers to punch and kick some bad monsters that haunts the city.</desc>
+		<image>./#homebrews/mixart/Shaolin Carcara.png</image>
+		<video>./#homebrews/snap/Shaolin Carcara.mp4</video>
+		<marquee>./#homebrews/wheel/Shaolin Carcara.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20210124T000000</releasedate>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<developer>nemezes</developer>
+		<publisher>nemezes</publisher>
+		<scrap name="ScreenScraper" date="20221016T085259" />
+		<scrap name="HfsDB" date="20221016T085624" />
+	</game>
+	<game id="227586" source="ScreenScraper.fr">
+		<path>./#homebrews/Thunder Paw.zip</path>
+		<name>Thunder Paw</name>
+		<desc>In a day, Thunder was playing ball near the house when suddenly a loud explosion was heard, so powerful that it destroyed the windows of the family home and dropped the trees nearby. «Mom! Dad!» Thunder screamed alarmed. He ran home, but found nobody there. He found only a letter lying on the ground, in which it was written that his parents had been kidnapped. The brave Thunder decided to save his parents and find the culprit.</desc>
+		<image>./#homebrews/mixart/Thunder Paw.png</image>
+		<video>./#homebrews/snap/Thunder Paw.mp4</video>
+		<marquee>./#homebrews/wheel/Thunder Paw.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20190124T000000</releasedate>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<developer>SergioPoverony</developer>
+		<publisher>SergioPoverony</publisher>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20221016T092638" />
+		<scrap name="HfsDB" date="20221016T085644" />
+	</game>
+	<game>
 		<path>./Mortal Kombat Revelations Hack.7z</path>
 		<name>'H'Mortal Kombat Revelations</name>
 		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.  Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.  Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
@@ -15807,7 +16306,25 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<publisher>Acclaim Entertainment</publisher>
 		<genre>Fight-Action</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>649EE32A40BE377C56E9C24F4F8C7CE8</cheevosHash>
+	</game>
+	<game>
+		<path>./Street Fighter II Remastered.7z</path>
+		<name>'H'Street Fighter II': Remastered Edition</name>
+		<desc>Street Fighter II Remastered is a project that has been in production since 2016 as a laboratory to test various possible solutions to solve part of the problems of this game and other titles on this platform. Everything related to art and presentation has been redone, all resources have been used intelligently to extract the potential of the console. It is also not a port restricted to the original work, Street Fighter 2 has always been updated in arcades and ports. So part of the job was to revise the game with modern elements present in the SF series itself to give an updated look to the game.</desc>
+		<image>./mixart/Street Fighter II Remastered.jpg</image>
+		<video>./snap/Street Fighter II Remastered.mp4</video>
+		<marquee>./wheel/Street Fighter II Remastered.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Pyron</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>2D24E59DB6939E0A320310E4004F8097</cheevosHash>
 	</game>
 </gameList>
