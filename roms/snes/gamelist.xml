@@ -11853,21 +11853,6 @@ The gameplay takes place across worlds themed around particular types of toys, s
 		<cheevosHash>14DF5ECB8CC0B7CB11E3A0968DA3D2A0</cheevosHash>
 	</game>
 	<game>
-		<path>./Super Luigi Land.7z</path>
-		<name>'H'Super Luigi Land</name>
-		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<emulator>snes9x</emulator>
-		<image>./mixart/Super Luigi Land.jpg</image>
-		<video>./snap/Super Luigi Land.mp4</video>
-		<marquee>./wheel/Super Luigi Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<cheevosHash>D2F9E515FC4A0FCAAEEE14DC593DF26E</cheevosHash>
-		<cheevosId>9630</cheevosId>
-	</game>
-	<game>
 		<path>./Super Mario 100 Rooms of Enemies (Do or Die Mode).7z</path>
 		<name>'H'Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
 		<image>./mixart/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</image>
@@ -15109,20 +15094,6 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 		<cheevosId>1259</cheevosId>
 	</game>
 	<game>
-		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
-		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
-		<image>./mixart/Hyper Street Kart.png</image>
-		<video>./snap/Hyper Street Kart.mp4</video>
-		<marquee>./wheel/Hyper Street Kart.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
-		<cheevosId>12825</cheevosId>
-	</game>
-	<game>
 		<path>./Shadowrun (USA).7z</path>
 		<name>Shadowrun</name>
 		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
@@ -15193,5 +15164,34 @@ Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20221016T124856" />
+	</game>
+	<game>
+		<path>./Hyper Street Kart.7z</path>
+		<name>'H'Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./mixart/Hyper Street Kart.png</image>
+		<video>./snap/Hyper Street Kart.mp4</video>
+		<marquee>./wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
+		<cheevosId>12825</cheevosId>
+	</game>
+	<game>
+		<path>./Super Luigi Land.7z</path>
+		<name>'H'Super Luigi Land</name>
+		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./mixart/Super Luigi Land.jpg</image>
+		<video>./snap/Super Luigi Land.mp4</video>
+		<marquee>./wheel/Super Luigi Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<cheevosHash>D2F9E515FC4A0FCAAEEE14DC593DF26E</cheevosHash>
+		<cheevosId>9630</cheevosId>
 	</game>
 </gameList>

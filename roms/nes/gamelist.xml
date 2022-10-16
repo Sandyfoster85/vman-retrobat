@@ -30590,21 +30590,6 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<lang>en</lang>
 		<cheevosHash>831EA189E6ED48607B5EF5102DE3B5D8</cheevosHash>
 	</game>
-	<game id="367540" source="ScreenScraper.fr">
-		<path>./Jay and Silent Bob Mall Brawl.zip</path>
-		<name>'H'Jay and Silent Bob - Mall Brawl</name>
-		<desc>Jay and Silent Bob: Mall Brawl is a full 8-bit retro beat-em-up experience with big levels, big bosses, dope combos, and irreverent references to the View Askewniverse. Mall Brawl can be played solo in a 1 player experience where you swap between both Jay and Silent Bob strategically or played with a buddy, in a 2 player co-operative experience, where you fight your way through mallrats, delinquents and security guards to find your way out of the mall and back to the Quickstop.</desc>
-		<image>./mixart/Jay and Silent Bob Mall Brawl.png</image>
-		<video>./snap/Jay and Silent Bob Mall Brawl.mp4</video>
-		<marquee>./wheel/Jay and Silent Bob Mall Brawl.png</marquee>
-		<rating>0</rating>
-		<releasedate>20200120T000000</releasedate>
-		<developer>Interabang Entertainment</developer>
-		<publisher>Limited Run Games</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<genreid>256</genreid>
-	</game>
 	<game>
 		<path>./Pac-Man Championship Edition NES Demake.zip</path>
 		<name>'H'Pac-Man Championship-Edition Demake</name>
@@ -30621,5 +30606,20 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
+	</game>
+	<game id="367540" source="ScreenScraper.fr">
+		<path>./Jay and Silent Bob Mall Brawl.zip</path>
+		<name>'H'Jay and Silent Bob - Mall Brawl</name>
+		<desc>Jay and Silent Bob: Mall Brawl is a full 8-bit retro beat-em-up experience with big levels, big bosses, dope combos, and irreverent references to the View Askewniverse. Mall Brawl can be played solo in a 1 player experience where you swap between both Jay and Silent Bob strategically or played with a buddy, in a 2 player co-operative experience, where you fight your way through mallrats, delinquents and security guards to find your way out of the mall and back to the Quickstop.</desc>
+		<image>./mixart/Jay and Silent Bob Mall Brawl.png</image>
+		<video>./snap/Jay and Silent Bob Mall Brawl.mp4</video>
+		<marquee>./wheel/Jay and Silent Bob Mall Brawl.png</marquee>
+		<rating>0</rating>
+		<releasedate>20200120T000000</releasedate>
+		<developer>Interabang Entertainment</developer>
+		<publisher>Limited Run Games</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<genreid>256</genreid>
 	</game>
 </gameList>
