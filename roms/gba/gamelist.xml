@@ -16947,22 +16947,6 @@ Hey! You! Yeah, you! Listen up when Wario's talking to you! I just read about th
 		<cheevosHash>5FE47355A33E3FABEC2A1607AF88A404</cheevosHash>
 		<cheevosId>800</cheevosId>
 	</game>
-	<game id="4007" source="ScreenScraper.fr">
-		<path>./WarioWare - Twisted! (USA).7z</path>
-		<name>WarioWare : Twisted!</name>
-		<desc>After accidentally discovering spin technology, Wario reassembles the developers at WarioWare, Inc. to make a new set of wild minigames. WarioWare: Twisted! maintains the fast-paced style of gameplay from the original WarioWare and introduces a new gyro sensor that lets you control the gameplay by rotating the Game Boy Advance SP left and right. The new controls play into more than 200 minigames. Play through them all to unlock souvenirs, such as bonus games, figurines, and instruments.</desc>
-		<image>./mixart/WarioWare - Twisted! (USA).png</image>
-		<video>./snap/WarioWare - Twisted! (USA).mp4</video>
-		<rating>0.8</rating>
-		<releasedate>20050423T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Casual Game</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>89579F4DFE1ED24A7CD16A6A61A72A17</cheevosHash>
-		<cheevosId>801</cheevosId>
-	</game>
 	<game id="4702" source="ScreenScraper.fr">
 		<path>./Whac-A-Mole (USA).7z</path>
 		<name>Whac-A-Mole</name>
@@ -17961,5 +17945,22 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 		<cheevosHash>054223E916F9A4F543812AE795145CB5</cheevosHash>
 		<cheevosId>5008</cheevosId>
+	</game>
+	<game id="4007" source="ScreenScraper.fr">
+		<path>./WarioWare - Twisted! (USA).7z</path>
+		<name>WarioWare : Twisted!</name>
+		<desc>After accidentally discovering spin technology, Wario reassembles the developers at WarioWare, Inc. to make a new set of wild minigames. WarioWare: Twisted! maintains the fast-paced style of gameplay from the original WarioWare and introduces a new gyro sensor that lets you control the gameplay by rotating the Game Boy Advance SP left and right. The new controls play into more than 200 minigames. Play through them all to unlock souvenirs, such as bonus games, figurines, and instruments.</desc>
+		<image>./mixart/WarioWare - Twisted! (USA).png</image>
+		<video>./snap/WarioWare - Twisted! (USA).mp4</video>
+		<marquee>./wheel/WarioWare - Twisted! (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050423T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>89579F4DFE1ED24A7CD16A6A61A72A17</cheevosHash>
+		<cheevosId>801</cheevosId>
 	</game>
 </gameList>

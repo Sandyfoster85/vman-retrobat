@@ -9166,24 +9166,6 @@ This is no kid stuff. This is as real as video gaming gets. If you liked what yo
 		<cheevosHash>03C6D84A951BE6703B7458478F4277B9</cheevosHash>
 		<cheevosId>3678</cheevosId>
 	</game>
-	<game id="3093" source="ScreenScraper.fr">
-		<path>./Batman Forever (USA, Europe).7z</path>
-		<name>Batman Forever</name>
-		<desc>Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are the Riddler and Two-Face.
-
-This game is a hybrid of side-scrolling platformer and one-on-one fighter. The player makes way through levels that include some platform jumping elements, but take on opponents one at a time like in a fighting game. The player's arsenal includes a lot of nifty bat-gadgets (one has to be chosen before the level starts) and a collection of fighting moves that are unleashed with special button combinations. In contrast to the console/DOS version, there are no puzzles to solve.</desc>
-		<image>./mixart/Batman Forever (USA, Europe).png</image>
-		<video>./snap/Batman Forever (USA, Europe).mp4</video>
-		<rating>0.4</rating>
-		<releasedate />
-		<developer>Probe Entertainment Ltd.</developer>
-		<publisher>Acclaim Entertainment, Inc.</publisher>
-		<genre>Fight-Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>28737A5C760938A9746FA9E1A2FCEFC6</cheevosHash>
-	</game>
 	<game id="3221" source="ScreenScraper.fr">
 		<path>./Battle Arena Toshinden (USA).7z</path>
 		<name>Battle Arena Toshinden</name>
@@ -10130,5 +10112,24 @@ The aim is to defeat each boss.  To get to the boss you must perform a task on t
 		<players>1</players>
 		<cheevosHash>24CD3BDF490EF2E1AA6A8AF380ECCD78</cheevosHash>
 		<cheevosId>2403</cheevosId>
+	</game>
+	<game id="3093" source="ScreenScraper.fr">
+		<path>./Batman Forever (USA, Europe).7z</path>
+		<name>Batman Forever</name>
+		<desc>Batman Forever is the officially licensed game based on the 1995 movie. The bad guys this time around are the Riddler and Two-Face.
+
+This game is a hybrid of side-scrolling platformer and one-on-one fighter. The player makes way through levels that include some platform jumping elements, but take on opponents one at a time like in a fighting game. The player's arsenal includes a lot of nifty bat-gadgets (one has to be chosen before the level starts) and a collection of fighting moves that are unleashed with special button combinations. In contrast to the console/DOS version, there are no puzzles to solve.</desc>
+		<image>./mixart/Batman Forever (USA, Europe).png</image>
+		<video>./snap/Batman Forever (USA, Europe).mp4</video>
+		<marquee>./wheel/Batman Forever (USA, Europe).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Probe Entertainment Ltd.</developer>
+		<publisher>Acclaim Entertainment, Inc.</publisher>
+		<genre>Fight-Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>28737A5C760938A9746FA9E1A2FCEFC6</cheevosHash>
 	</game>
 </gameList>
