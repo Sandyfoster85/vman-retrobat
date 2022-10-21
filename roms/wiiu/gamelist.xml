@@ -1514,21 +1514,6 @@ General Pepper needs your help! Use your TV's cinematic view to fly and identify
 		<md5>1dc3101411103564c24e81379de60883</md5>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./BADLAND Game of the year edition [000500001019A600]/code/Badland.rpx</path>
-		<name>BADLAND: Game of the Year Edition</name>
-		<desc>(stylized ) is a mobile video game developed by Frogmind Games and released on the iOS and Android platforms. It was released on Windows Phone 8 in June 2014. There is also a  that was released in May 2015 for PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One, Wii U and Steam for Linux, Microsoft Windows and OS X. In December 2015, its sequel named  2 was released on iOS.
-The player flies around a little black creature called a Clone through the woods of the game. Beginning in Day I, the game progresses through four stages which consist of Dawn, Noon, Dusk, and Night, each with a separate color scheme and new theme of traps. As the player goes through Day I, egg-shaped machines begin to come out of the water of the background. Heading into the night, the machines begin to turn on and the game becomes harder as the machines become part of the dangers of the forest. Eventually, the character succeeds in disabling the machines and the machines become dormant once again until Day II begins it all over. Most of Day II is similar in plot structure, but smaller octopus-like machines begin to make themselves known and the animals in the forest begin to disappear. The last level includes saving a rabbit that was hanging by its foot and eventually coming to fly in front of a giant eye of one of the machines, leaving a cliffhanger into possible future updates. Also included in the game are possible in-app purchases that continue the story with some of Clony's friends, including ones nicknamed Snorf and Fury, featured in their own level packs. In early 2014, level pack Doomsday was released, featuring Fury and his escape from the machine infested woods. Also included is the Daydream level pack in which Snorf escapes finding the magic of the forest makes the woods not all as it seems to be. In 2015 a new multiplayer feature was released which allowed up to 4 players to play at the same time.</desc>
-		<image>./mixart/Badland.jpg</image>
-		<video>./snap/Badland.mp4</video>
-		<wheel>./wheel/Badland.png</wheel>
-		<releasedate>20150730T000000</releasedate>
-		<developer>Frogmind</developer>
-		<genre>Action, Adventure, Puzzle, Platform</genre>
-		<players>4</players>
-		<md5>4191bfffa08bb682b88bfe0aa754461e</md5>
-		<lang>en</lang>
-	</game>
 	<game id="12248">
 		<path>./The Cave [000500001010FA00]/code/Cave.rpx</path>
 		<name>The Cave</name>
@@ -1631,8 +1616,25 @@ The Peanuts Movie: Snoopy's Grand Adventure is a side-scrolling platform video g
 		<video>./snap/Sonic &amp; All-Stars Racing Transformed Bonus Edition.mp4</video>
 		<marquee>./wheel/Sonic &amp; All-Stars Racing Transformed_ Bonus Edition-01.png</marquee>
 		<rating>0.78</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<md5>3fe1c45d3bb1dcbe7739d8421b261ae1</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./BADLAND Game of the year edition [000500001019A600]/code/Badland.rpx</path>
+		<name>BADLAND: Game of the Year Edition</name>
+		<desc>(stylized ) is a mobile video game developed by Frogmind Games and released on the iOS and Android platforms. It was released on Windows Phone 8 in June 2014. There is also a  that was released in May 2015 for PlayStation 3, PlayStation 4, PlayStation Vita, Xbox One, Wii U and Steam for Linux, Microsoft Windows and OS X. In December 2015, its sequel named  2 was released on iOS.
+The player flies around a little black creature called a Clone through the woods of the game. Beginning in Day I, the game progresses through four stages which consist of Dawn, Noon, Dusk, and Night, each with a separate color scheme and new theme of traps. As the player goes through Day I, egg-shaped machines begin to come out of the water of the background. Heading into the night, the machines begin to turn on and the game becomes harder as the machines become part of the dangers of the forest. Eventually, the character succeeds in disabling the machines and the machines become dormant once again until Day II begins it all over. Most of Day II is similar in plot structure, but smaller octopus-like machines begin to make themselves known and the animals in the forest begin to disappear. The last level includes saving a rabbit that was hanging by its foot and eventually coming to fly in front of a giant eye of one of the machines, leaving a cliffhanger into possible future updates. Also included in the game are possible in-app purchases that continue the story with some of Clony's friends, including ones nicknamed Snorf and Fury, featured in their own level packs. In early 2014, level pack Doomsday was released, featuring Fury and his escape from the machine infested woods. Also included is the Daydream level pack in which Snorf escapes finding the magic of the forest makes the woods not all as it seems to be. In 2015 a new multiplayer feature was released which allowed up to 4 players to play at the same time.</desc>
+		<image>./mixart/Badland.jpg</image>
+		<video>./snap/Badland.mp4</video>
+		<marquee>./wheel/Badland.png</marquee>
+		<wheel>./wheel/Badland.png</wheel>
+		<rating>0</rating>
+		<releasedate>20150730T000000</releasedate>
+		<developer>Frogmind</developer>
+		<genre>Action, Adventure, Platform, Puzzle-Game</genre>
+		<players>4</players>
+		<md5>4191bfffa08bb682b88bfe0aa754461e</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

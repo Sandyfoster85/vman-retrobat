@@ -96,23 +96,6 @@
 		<cheevosHash>34CBB1562169C426691992B02F2B3606</cheevosHash>
 	</game>
 	<game>
-		<path>./mslug6.zip</path>
-		<name>Metal Slug 6</name>
-		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.    Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.  The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
-		<image>./mixart/mslug6.png</image>
-		<video>./snap/mslug6.mp4</video>
-		<marquee>./wheel/mslug6.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>0358F8C16A2A9C2CCBB54DAC0AFEFDB7</cheevosHash>
-	</game>
-	<game>
 		<path>./ngbc.zip</path>
 		<name>Neo-geo Battle Coliseum</name>
 		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
@@ -462,5 +445,22 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
+	</game>
+	<game>
+		<path>./mslug6.zip</path>
+		<name>Metal Slug 6</name>
+		<desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games' events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.    Metal Slug 6 introduces a new play mechanic dubbed the 'Weapon Stock System'. Two gun power-ups can now be carried at the same time. Players can switch between the two weapons, or simply put them both away in favor of the default weapon. When obtaining a new weapon power-up, it will automatically occupy the inactive slot, or, if both are holstered, replace the less recent weapon of the two.  The score is now multiplied by powers of 2. The faster the speed at which enemies are killed, the higher the power, as a meter at the bottom of the screen shows. When it says "Max" enemies and destructible objects will drop coins for an extra high score.</desc>
+		<image>./mixart/mslug6.png</image>
+		<video>./snap/mslug6.mp4</video>
+		<marquee>./wheel/mslug6.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>0358F8C16A2A9C2CCBB54DAC0AFEFDB7</cheevosHash>
 	</game>
 </gameList>

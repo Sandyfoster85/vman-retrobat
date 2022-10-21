@@ -128,8 +128,8 @@
 	</game>
 	<game>
 		<path>./BTTF.fpt</path>
-		<name>BTTF</name>
-		<desc>Flipper BTTF</desc>
+		<name>Back to the Future</name>
+		<desc>Flipper BTTF 2.0</desc>
 		<image>./mixart/BTTF.png</image>
 		<video>./snap/BTTF.mp4</video>
 		<marquee>./wheel/BTTF.png</marquee>
@@ -4781,22 +4781,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./WarLord.fpt</path>
-		<name>WarLord</name>
-		<desc>Flipper WarLord tribute to Atari game</desc>
-		<image>./mixart/WarLord.png</image>
-		<video>./snap/WarLord.mp4</video>
-		<marquee>./wheel/WarLord.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31.fpt</path>
 		<name>Halloween (Ultimate Pro 1.02) - Big Bloody Mike</name>
 		<desc>Flipper Halloween (Ultimate Pro 1.02) - Big Bloody Mike - PinEvent 1.31</desc>
@@ -4882,8 +4866,24 @@
 		<image>./mixart/Roadhouse.png</image>
 		<video>./snap/Roadhouse.mp4</video>
 		<marquee>./wheel/Roadhouse.png</marquee>
-		<rating>3</rating>
+		<rating>1</rating>
 		<releasedate>19891231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./WarLord.fpt</path>
+		<name>WarLord</name>
+		<desc>Flipper WarLord tribute to Atari game</desc>
+		<image>./mixart/WarLord.png</image>
+		<video>./snap/WarLord.mp4</video>
+		<marquee>./wheel/WarLord.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

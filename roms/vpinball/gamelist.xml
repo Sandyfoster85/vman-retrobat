@@ -3156,22 +3156,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Swords of Fury (1988).vpx</path>
-		<name>Swords of Fury (1988)</name>
-		<desc>Flipper Swords of Fury (1988)</desc>
-		<image>./mixart/Swords of Fury (1988).png</image>
-		<video>./snap/Swords of Fury (1988).mp4</video>
-		<marquee>./wheel/Swords of Fury (1988).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Last Starfighter (1984).vpx</path>
 		<name>The Last Starfighter (1984)</name>
 		<desc>Flipper The Last Starfighter</desc>
@@ -7826,22 +7810,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cactus Canyon (Bally 1998).vpx</path>
-		<name>Cactus Canyon (Bally 1998) (PupEdition)</name>
-		<desc>Flipper Cactus Canyon (Bally 1998) VPWmod</desc>
-		<image>./mixart/Cactus Canyon (Bally 1998).jpg</image>
-		<video>./snap/Cactus Canyon (Bally 1998).mp4</video>
-		<marquee>./wheel/Cactus Canyon (Bally 1998).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Deadpool 1.08.vpx</path>
 		<name>Deadpool (PupEdition)</name>
 		<desc>Flipper Deadpool 1.08 JP's</desc>
@@ -8016,14 +7984,14 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.vpx</path>
-		<name>MST3K Pinball Peril</name>
-		<desc>Flipper MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD</desc>
-		<image>./mixart/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.png</image>
-		<video>./snap/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.mp4</video>
-		<marquee>./wheel/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.png</marquee>
+		<path>./bond.vpx</path>
+		<name>Bond 60th (PupEdition)</name>
+		<desc>Flipper James Bond 60th</desc>
+		<image>./mixart/bond.png</image>
+		<video>./snap/bond.mp4</video>
+		<marquee>./wheel/bond.png</marquee>
 		<rating>3</rating>
-		<releasedate>20211231T200000</releasedate>
+		<releasedate>20221231T200000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -8040,6 +8008,54 @@
 		<marquee>./wheel/Buffy The Vampire Slayer_VP_Cooks.png</marquee>
 		<rating>3</rating>
 		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cactus Canyon (Bally 1998).vpx</path>
+		<name>Cactus Canyon (Bally 1998) (PupEdition)</name>
+		<desc>Flipper Cactus Canyon (Bally 1998) VPWmod</desc>
+		<image>./mixart/Cactus Canyon (Bally 1998).jpg</image>
+		<video>./snap/Cactus Canyon (Bally 1998).mp4</video>
+		<marquee>./wheel/Cactus Canyon (Bally 1998).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.vpx</path>
+		<name>MST3K Pinball Peril</name>
+		<desc>Flipper MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD</desc>
+		<image>./mixart/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.png</image>
+		<video>./snap/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.mp4</video>
+		<marquee>./wheel/MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.png</marquee>
+		<rating>3</rating>
+		<releasedate>20211231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Swords of Fury (1988).vpx</path>
+		<name>Swords of Fury (1988)</name>
+		<desc>Flipper Swords of Fury (1988)</desc>
+		<image>./mixart/Swords of Fury (1988).png</image>
+		<video>./snap/Swords of Fury (1988).mp4</video>
+		<marquee>./wheel/Swords of Fury (1988).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
