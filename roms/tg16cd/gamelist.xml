@@ -23,43 +23,6 @@ Like most other Addams Family incarnations, this is a side-scrolling action game
 		<crc32>418CFA3F</crc32>
 		<cheevosHash>4FB8F418D48B3FB210BD072B8BC1E25E</cheevosHash>
 	</game>
-	<game>
-		<path>./Ane-San.chd</path>
-		<name>Ane-san</name>
-		<desc>The two sisters, Ai and Yuuko, have taken different paths in life. Yuuko has been taken away by a mysterious gang. Ai is determined to save her from the clutches of crime. In a seemingly all-female city overrun by insane workers, biker gangs, and assorted criminals, Ai and her friends Chika and Makoto decide to work together in order to restore the world to normality again.
-
-Ane-san is what is commonly called beat-'em-up, i.e. a fighting game that allows limited movement through side-scrolling environment. The player can choose to control a variety of female fighters. In the beginning, only Ai, Chika, and Makoto are selectable. Ai is the all-around balanced character, Chika is fast and fragile, while Makoto is very strong, but slow. Later in the game, other playable characters become available. Each fighter has a health points bar, which can be restored by healing items scattered through the levels. Once a character is dead, the player can continue playing with another one.
-
-The player typically advances through side-scrolling stages, clearing each screen of enemies before being able to continue walking to the right. Each girl has the standard kicks, punches, and jumps at her disposal, as well as special moves, one per each girl. Stages culminate by boss battles (usually two per stage). 
-
-Between the stages, the player can go shopping. A large variety of items is available, some enhancing the performance of the girls, but most purely for visual effect - the room the player views between the stages changes its appearance depending on the items the player has bought.
-
-Also available between the stages (and as a separate gameplay mode, "vs.") is a mini-game, in which the player(s) have to rapidly press buttons in order to make the controllable girl execute a hideous grimace, that will surpass that of the opponent in ugliness and speed of execution.</desc>
-		<image>./mixart/Ane-San.png</image>
-		<video>./snap/Ane-San.mp4</video>
-		<marquee>./wheel/Ane-San.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19950225T000000</releasedate>
-		<developer>NEC Avenue, Ltd.</developer>
-		<publisher>NEC Avenue, Ltd.</publisher>
-		<players>2</players>
-		<cheevosHash>A6B98378A7602132327A8A88EE8E0FE7</cheevosHash>
-	</game>
-	<game id="119201" source="ScreenScraper.fr">
-		<path>./Asuka 120% Maxima Burning Fest.chd</path>
-		<name>Asuka 120% Maxima Burning Fest</name>
-		<desc>Welcome to the "Ryouran Private School for Women" which educates the daughters of the upper echelons of society. Here, the high class clubs annually hold a martial arts tournament: the "Club Rivalry Budget Contest Mega Fight." Each character employs a different fighting style; techniques are unique to each club.</desc>
-		<image>./mixart/Asuka 120% Maxima Burning Fest.png</image>
-		<video>./snap/Asuka 120% Maxima Burning Fest.mp4</video>
-		<marquee>./wheel/Asuka 120% Maxima Burning Fest.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950728T000000</releasedate>
-		<developer>Fill in Café</developer>
-		<publisher>NEC Avenue</publisher>
-		<players>1</players>
-		<crc32>00000000</crc32>
-		<cheevosHash>524F3F42CBCF7134C7A98929070CF26B</cheevosHash>
-	</game>
 	<game id="106991" source="ScreenScraper.fr">
 		<path>./Avenger.chd</path>
 		<name>Avenger</name>
@@ -2583,5 +2546,44 @@ A hundred years had past, and he was resurrected. Able to become bat, wolf, or m
 		<publisher>Konami</publisher>
 		<lang>en</lang>
 		<cheevosHash>5C7B68C8517A261EF172AF1099631CB1</cheevosHash>
+	</game>
+	<game>
+		<path>./Ane-San.chd</path>
+		<name>Ane-san</name>
+		<desc>The two sisters, Ai and Yuuko, have taken different paths in life. Yuuko has been taken away by a mysterious gang. Ai is determined to save her from the clutches of crime. In a seemingly all-female city overrun by insane workers, biker gangs, and assorted criminals, Ai and her friends Chika and Makoto decide to work together in order to restore the world to normality again.
+
+Ane-san is what is commonly called beat-'em-up, i.e. a fighting game that allows limited movement through side-scrolling environment. The player can choose to control a variety of female fighters. In the beginning, only Ai, Chika, and Makoto are selectable. Ai is the all-around balanced character, Chika is fast and fragile, while Makoto is very strong, but slow. Later in the game, other playable characters become available. Each fighter has a health points bar, which can be restored by healing items scattered through the levels. Once a character is dead, the player can continue playing with another one.
+
+The player typically advances through side-scrolling stages, clearing each screen of enemies before being able to continue walking to the right. Each girl has the standard kicks, punches, and jumps at her disposal, as well as special moves, one per each girl. Stages culminate by boss battles (usually two per stage). 
+
+Between the stages, the player can go shopping. A large variety of items is available, some enhancing the performance of the girls, but most purely for visual effect - the room the player views between the stages changes its appearance depending on the items the player has bought.
+
+Also available between the stages (and as a separate gameplay mode, "vs.") is a mini-game, in which the player(s) have to rapidly press buttons in order to make the controllable girl execute a hideous grimace, that will surpass that of the opponent in ugliness and speed of execution.</desc>
+		<image>./mixart/Ane-San.png</image>
+		<video>./snap/Ane-San.mp4</video>
+		<marquee>./wheel/Ane-San.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950225T000000</releasedate>
+		<developer>NEC Avenue, Ltd.</developer>
+		<publisher>NEC Avenue, Ltd.</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>A6B98378A7602132327A8A88EE8E0FE7</cheevosHash>
+	</game>
+	<game id="119201" source="ScreenScraper.fr">
+		<path>./Asuka 120% Maxima Burning Fest.chd</path>
+		<name>Asuka 120% Maxima Burning Fest</name>
+		<desc>Welcome to the "Ryouran Private School for Women" which educates the daughters of the upper echelons of society. Here, the high class clubs annually hold a martial arts tournament: the "Club Rivalry Budget Contest Mega Fight." Each character employs a different fighting style; techniques are unique to each club.</desc>
+		<image>./mixart/Asuka 120% Maxima Burning Fest.png</image>
+		<video>./snap/Asuka 120% Maxima Burning Fest.mp4</video>
+		<marquee>./wheel/Asuka 120% Maxima Burning Fest.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950728T000000</releasedate>
+		<developer>Fill in Café</developer>
+		<publisher>NEC Avenue</publisher>
+		<players>1</players>
+		<crc32>00000000</crc32>
+		<lang>en</lang>
+		<cheevosHash>524F3F42CBCF7134C7A98929070CF26B</cheevosHash>
 	</game>
 </gameList>

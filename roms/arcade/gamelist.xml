@@ -70427,24 +70427,6 @@ The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port T
 		<region>us</region>
 		<cheevosHash>C1D7EDF4E329B46E8B6AC49FE1DD4ABF</cheevosHash>
 	</game>
-	<game id="79425" source="ScreenScraper.fr">
-		<path>./xrally.zip</path>
-		<name>Xtreme Rally / Off Beat Racer!</name>
-		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/xrally.png</image>
-		<video>./snap/xrally.mp4</video>
-		<marquee>./wheel/xrally.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4BA3BC924E9C952DB540AD0D9553F6FA</cheevosHash>
-	</game>
 	<game>
 		<path>./mk2.zip</path>
 		<name>Mortal Kombat 2</name>
@@ -72906,5 +72888,23 @@ In the near future, ruthless gangs are the new rulers of the streets. Only a bra
 		<region>us</region>
 		<cheevosHash>94F40CD22046F82F39831D7CE1572C61</cheevosHash>
 		<cheevosId>12152</cheevosId>
+	</game>
+	<game id="79425" source="ScreenScraper.fr">
+		<path>./xrally.zip</path>
+		<name>Xtreme Rally / Off Beat Racer!</name>
+		<desc>A 3-D driving game where you are in a race to the finish line against other drivers. After a race you get ranked by how long it took you to finish the race. You also get ranked if you did not finish.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/xrally.png</image>
+		<video>./snap/xrally.mp4</video>
+		<marquee>./wheel/xrally.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4BA3BC924E9C952DB540AD0D9553F6FA</cheevosHash>
 	</game>
 </gameList>
