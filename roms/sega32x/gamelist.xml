@@ -492,23 +492,6 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 		<region>us</region>
 		<cheevosHash>72B1AD0F949F68DA7D0A6339ECD51A3F</cheevosHash>
 	</game>
-	<game>
-		<path>./World Series Baseball Starring Deion Sanders (USA).7z</path>
-		<name>World Series Baseball Starring Deion Sanders</name>
-		<desc>This game is the 32X entry in Sega's popular and long-running World Series Baseball line.  It features a full MLBPA license, which allows it to have all 28 teams and 700 real-life players. 
-
-There are 3 main game modes: exhibition, full season, and playoff.  Exhibition is usefull for a quick game between any two teams of your choosing.  Full season allows you to play an entire Major League Baseball season.  And finally the playoff mode allows you to play the games leading up to the World Series.  Also included are two different home run derby modes, and a full draft and trade for creating your team.</desc>
-		<image>./mixart/World Series Baseball Starring Deion Sanders (USA).png</image>
-		<video>./snap/World Series Baseball Starring Deion Sanders (USA).mp4</video>
-		<marquee>./wheel/World Series Baseball Starring Deion Sanders (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Blue Sky Software</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>4D14EAB0585E79E2FC4789E090755F2D</cheevosHash>
-	</game>
 	<game id="12687" source="ScreenScraper.fr">
 		<path>./WWF WrestleMania - The Arcade Game (USA).7z</path>
 		<name>WWF WrestleMania : The Arcade Game</name>
@@ -646,5 +629,24 @@ This game is played from a side-view with non-scrolling backgrounds. It has stro
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
+	</game>
+	<game>
+		<path>./World Series Baseball Starring Deion Sanders (USA).7z</path>
+		<name>World Series Baseball Starring Deion Sanders</name>
+		<desc>This game is the 32X entry in Sega's popular and long-running World Series Baseball line.  It features a full MLBPA license, which allows it to have all 28 teams and 700 real-life players. 
+
+There are 3 main game modes: exhibition, full season, and playoff.  Exhibition is usefull for a quick game between any two teams of your choosing.  Full season allows you to play an entire Major League Baseball season.  And finally the playoff mode allows you to play the games leading up to the World Series.  Also included are two different home run derby modes, and a full draft and trade for creating your team.</desc>
+		<image>./mixart/World Series Baseball Starring Deion Sanders (USA).png</image>
+		<video>./snap/World Series Baseball Starring Deion Sanders (USA).mp4</video>
+		<marquee>./wheel/World Series Baseball Starring Deion Sanders (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Blue Sky Software</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4D14EAB0585E79E2FC4789E090755F2D</cheevosHash>
 	</game>
 </gameList>

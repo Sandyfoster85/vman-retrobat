@@ -5725,25 +5725,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<cheevosHash>E0DC1587750EF747CC873230B96A50BB</cheevosHash>
 		<cheevosId>3399</cheevosId>
 	</game>
-	<game id="359066" source="ScreenScraper.fr">
-		<path>./Intrepid Izzy.cdi</path>
-		<name>Intrepid Izzy</name>
-		<desc>From the creators of Beats of Rage and Rush Rush Rally comes an action adventure whose gameplay and graphics are like a wonderful marriage between classic and modern gaming. Explore a colourful and imaginative world as the lovable, witty and above all intrepid Izzy.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Intrepid Izzy.png</image>
-		<video>./snap/Intrepid Izzy.mp4</video>
-		<marquee>./wheel/Intrepid Izzy.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20210821T000000</releasedate>
-		<developer>Senile Team</developer>
-		<publisher>Senile Team</publisher>
-		<genre>Platform-Platform / Fighter Scrolling</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>257</genreid>
-	</game>
 	<game>
 		<path>./Shenmue (USA).m3u</path>
 		<name>Shenmue</name>
@@ -5762,5 +5743,25 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B6DB46F6803D0EECB35B3AF9215C9368</cheevosHash>
+	</game>
+	<game id="359066" source="ScreenScraper.fr">
+		<path>./Intrepid Izzy.cdi</path>
+		<name>Intrepid Izzy</name>
+		<desc>From the creators of Beats of Rage and Rush Rush Rally comes an action adventure whose gameplay and graphics are like a wonderful marriage between classic and modern gaming. Explore a colourful and imaginative world as the lovable, witty and above all intrepid Izzy.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Intrepid Izzy.png</image>
+		<video>./snap/Intrepid Izzy.mp4</video>
+		<marquee>./wheel/Intrepid Izzy.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20210821T000000</releasedate>
+		<developer>Senile Team</developer>
+		<publisher>Senile Team</publisher>
+		<genre>Platform-Platform / Fighter Scrolling</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>257</genreid>
 	</game>
 </gameList>

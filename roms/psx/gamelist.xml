@@ -11481,23 +11481,6 @@ For those that have yet to experience MGS, the gameplay is based around strategy
 		<region>us</region>
 		<cheevosHash>EC4D1BF4006E8E3682CA3C8A67B3AE03</cheevosHash>
 	</game>
-	<game id="20568" source="ScreenScraper.fr">
-		<path>./Missile Command (USA).chd</path>
-		<name>Missile Command</name>
-		<desc>Prepare for launch! Prepare for defense! Prepare for your potential battle of a lifetime!   Welcome to Missile Command from Meyer Glass and Hasbro Interactive. The world needs a Missile Commander and you are the only hope in warding off the alien invasion.   You can fight the war of survival in several ways. There is the Classic game mode where you'll relive the madness from the original Missile Command, or you can play the new Ultimate game mode where the action is fully 3D. In the Classic mode, you either combat the aliens on your own or you can play with or against your friends for the battle of supremacy. Ultimate mode provides you with a full-fledged adventure to participate in. You will have to defend cities all around the world in succession, as the assault is not going to stop anytime soon! You will also have to face giant motherships that have weak points for you to expose and exploit.</desc>
-		<image>./mixart/Missile Command (USA).png</image>
-		<video>./snap/Missile Command (USA).mp4</video>
-		<marquee>./wheel/Missile Command (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19991116T000000</releasedate>
-		<developer>Take 2 Interactive</developer>
-		<publisher>Take 2 Interactive</publisher>
-		<genre>Lightgun Shooter-Action-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DA1F9081E21439D3EC86CF0F560F80FB</cheevosHash>
-	</game>
 	<game>
 		<path>./Mission - Impossible (USA).chd</path>
 		<name>Mission : Impossible</name>
@@ -21493,5 +21476,22 @@ Each level of this action shooter delivers nonstop action with a total of 6 leve
 		<region>us</region>
 		<cheevosHash>36FA87F9779D09DE561AF1CFD8D0F9B8</cheevosHash>
 		<cheevosId>6294</cheevosId>
+	</game>
+	<game id="20568" source="ScreenScraper.fr">
+		<path>./Missile Command (USA).chd</path>
+		<name>Missile Command</name>
+		<desc>Prepare for launch! Prepare for defense! Prepare for your potential battle of a lifetime!   Welcome to Missile Command from Meyer Glass and Hasbro Interactive. The world needs a Missile Commander and you are the only hope in warding off the alien invasion.   You can fight the war of survival in several ways. There is the Classic game mode where you'll relive the madness from the original Missile Command, or you can play the new Ultimate game mode where the action is fully 3D. In the Classic mode, you either combat the aliens on your own or you can play with or against your friends for the battle of supremacy. Ultimate mode provides you with a full-fledged adventure to participate in. You will have to defend cities all around the world in succession, as the assault is not going to stop anytime soon! You will also have to face giant motherships that have weak points for you to expose and exploit.</desc>
+		<image>./mixart/Missile Command (USA).png</image>
+		<video>./snap/Missile Command (USA).mp4</video>
+		<marquee>./wheel/Missile Command (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19991116T000000</releasedate>
+		<developer>Take 2 Interactive</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Lightgun Shooter-Action-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DA1F9081E21439D3EC86CF0F560F80FB</cheevosHash>
 	</game>
 </gameList>
