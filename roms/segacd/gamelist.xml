@@ -2566,22 +2566,6 @@ Wing Commander featured a hybrid bitmap/3D graphics  engine that allowed even 28
 		<players>1</players>
 		<cheevosHash>E7DEE36B4E4A518CC8FC7A5348C4F777</cheevosHash>
 	</game>
-	<game id="12787" source="ScreenScraper.fr">
-		<path>./Wolfchild (USA).chd</path>
-		<name>Wolfchild</name>
-		<desc>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx.
-
-As Saul, it is your job to traverse five different areas on your way to Draxx. When Saul collects enough power-ups, he turns into his wolf form and gains a special psychic shot attack, which can be improved by collecting futher power-ups. However, if Saul loses health, he turns back into his human form and only has his fists to fight the numerous enemies.</desc>
-		<image>./mixart/Wolfchild (USA).png</image>
-		<video>./snap/Wolfchild (USA).mp4</video>
-		<marquee>./wheel/Wolfchild (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Core Design</publisher>
-		<players>1</players>
-		<cheevosHash>D70CF6E2A3D04274DF9D14E4D55DF4A2</cheevosHash>
-	</game>
 	<game id="12762" source="ScreenScraper.fr">
 		<path>./Yumemi Mystery Mansion (Europe) (Made in EU).chd</path>
 		<name>Mansion of Hidden Souls</name>
@@ -3191,5 +3175,24 @@ There are a plethora of game modes to choose from including a regular single-fal
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8D7815B041DAF04DB6EEF8E0B5CBB83A</cheevosHash>
+	</game>
+	<game id="12787" source="ScreenScraper.fr">
+		<path>./Wolfchild (USA).chd</path>
+		<name>Wolfchild</name>
+		<desc>Dr. Kal Morrow, expert in genetic research and creation of human-animal hybrids, has been kidnapped and his family brutally murdered by the terrorist organization CHIMERA. His surviving son Saul takes it upon himself to avenge his family. Using his father's research, he turns into a man-wolf and sets out to find CHIMERA's base and defeat their leader Karl Draxx.
+
+As Saul, it is your job to traverse five different areas on your way to Draxx. When Saul collects enough power-ups, he turns into his wolf form and gains a special psychic shot attack, which can be improved by collecting futher power-ups. However, if Saul loses health, he turns back into his human form and only has his fists to fight the numerous enemies.</desc>
+		<image>./mixart/Wolfchild (USA).png</image>
+		<video>./snap/Wolfchild (USA).mp4</video>
+		<marquee>./wheel/Wolfchild (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Core Design</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D70CF6E2A3D04274DF9D14E4D55DF4A2</cheevosHash>
 	</game>
 </gameList>

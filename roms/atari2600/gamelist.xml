@@ -10491,22 +10491,6 @@ In advanced mode and later levels, you have to hit the ramp/pipe at more precise
 		<region>eu</region>
 		<cheevosHash>D6D1DDD21E9D17EA5F325FA09305069C</cheevosHash>
 	</game>
-	<game id="14128" source="ScreenScraper.fr">
-		<path>./Video Pinball (USA).zip</path>
-		<name>Video Pinball : Arcade Pinball</name>
-		<desc>Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.</desc>
-		<image>./mixart/Video Pinball (USA).png</image>
-		<video>./snap/Video Pinball (USA).mp4</video>
-		<marquee>./wheel/Video Pinball (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Atari</publisher>
-		<genre>Action-Pinball-Simulation</genre>
-		<players>2</players>
-		<cheevosHash>107CC025334211E6D29DA0B6BE46AEC7</cheevosHash>
-		<cheevosId>13062</cheevosId>
-	</game>
 	<game>
 		<path>./Boxing (USA).zip</path>
 		<name>Boxing</name>
@@ -11790,5 +11774,21 @@ Evil scientists and agents wander around the area, trying to capture E.T. and st
 		<region>us</region>
 		<cheevosHash>615A3BF251A38EB6638CDC7FFBDE5480</cheevosHash>
 		<cheevosId>11710</cheevosId>
+	</game>
+	<game id="14128" source="ScreenScraper.fr">
+		<path>./Video Pinball (USA).zip</path>
+		<name>Video Pinball : Arcade Pinball</name>
+		<desc>Video Pinball is a pinball simulation for one or two players. You begin the game with three balls and need to score as many points as possible by hitting the various bumpers, spinners, and rollovers on the pinball table. An extra ball can be earned by hitting the Atari logo rollover four times in a row!  There are two difficulty levels and four game variations included.</desc>
+		<image>./mixart/Video Pinball (USA).png</image>
+		<video>./snap/Video Pinball (USA).mp4</video>
+		<marquee>./wheel/Video Pinball (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Atari</publisher>
+		<genre>Action-Pinball-Simulation</genre>
+		<players>2</players>
+		<cheevosHash>107CC025334211E6D29DA0B6BE46AEC7</cheevosHash>
+		<cheevosId>13062</cheevosId>
 	</game>
 </gameList>

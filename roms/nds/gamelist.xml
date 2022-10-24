@@ -3356,24 +3356,6 @@ The Legend of Zelda: Spirit Tracks sets hero Link on a daring new adventure. The
 		<region>eu</region>
 		<cheevosHash>C89CA9498BB6ABEBE222B414E30489A2</cheevosHash>
 	</game>
-	<game id="5767" source="ScreenScraper.fr">
-		<path>./LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).zip</path>
-		<name>LEGO Marvel Super Heroes - Universe in Peril</name>
-		<desc>LEGO Marvel Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world. Players will chase down Cosmic Bricks as they travel across LEGO Manhattan and visit key locations from the Marvel Universe, such as Stark Tower, Asteroid M, a Hydra base and the X-Mansion.</desc>
-		<image>./mixart/LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).png</image>
-		<video>./snap/Lego Marvel Super Heroes_ Universe in Peril.mp4</video>
-		<marquee>./wheel/LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20140218T000000</releasedate>
-		<developer>Warner Bros. Interactive</developer>
-		<publisher>TT Games</publisher>
-		<genre>Adventure</genre>
-		<lang>en,pt,es,fr</lang>
-		<region>eu</region>
-		<cheevosHash>ACE0750F95D77B7419EEB09A7D42C747</cheevosHash>
-		<cheevosId>17515</cheevosId>
-		<genreid>512</genreid>
-	</game>
 	<game id="86153" source="ScreenScraper.fr">
 		<path>./Let's Pilates! (USA) (En,Fr,De,Es,It).zip</path>
 		<name>Let's Pilates!</name>
@@ -29213,7 +29195,7 @@ In addition to all the breeds listed above, there are two more breeds that can b
 		<video>./snap/Nintendogs - Best Friends (USA).mp4</video>
 		<marquee>./wheel/Nintendogs_ Best Friends-01.png</marquee>
 		<rating>0.75</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Simulation</genre>
@@ -29244,5 +29226,23 @@ There are eight games total, each modeled after 8-bit classics such as Galaga (C
 		<region>us</region>
 		<cheevosHash>E8946B706009B04120C16453C14F77E6</cheevosHash>
 		<cheevosId>1172</cheevosId>
+	</game>
+	<game id="5767" source="ScreenScraper.fr">
+		<path>./LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).zip</path>
+		<name>LEGO Marvel Super Heroes - Universe in Peril</name>
+		<desc>LEGO Marvel Super Heroes features an original story crossing the entire Marvel Universe. Players take control of Iron Man, Spider-Man, the Hulk, Captain America, Wolverine and many more Marvel characters as they unite to stop Loki and a host of other Marvel villains from assembling a super-weapon capable of destroying the world. Players will chase down Cosmic Bricks as they travel across LEGO Manhattan and visit key locations from the Marvel Universe, such as Stark Tower, Asteroid M, a Hydra base and the X-Mansion.</desc>
+		<image>./mixart/LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).png</image>
+		<video>./snap/Lego Marvel Super Heroes_ Universe in Peril.mp4</video>
+		<marquee>./wheel/LEGO Marvel Super Heroes - Universe in Peril (USA) (En,Fr,Es,Pt).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140218T000000</releasedate>
+		<developer>Warner Bros. Interactive</developer>
+		<publisher>TT Games</publisher>
+		<genre>Adventure</genre>
+		<lang>en,pt,es,fr</lang>
+		<region>eu</region>
+		<cheevosHash>ACE0750F95D77B7419EEB09A7D42C747</cheevosHash>
+		<cheevosId>17515</cheevosId>
+		<genreid>512</genreid>
 	</game>
 </gameList>

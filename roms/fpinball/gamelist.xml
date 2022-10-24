@@ -1697,17 +1697,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Knight Rider Phys 2_5.fpt</path>
-		<name>Knight Rider Phys 2_5</name>
-		<desc>Flipper Knight Rider</desc>
-		<image>./mixart/Knight Rider Phys 2_5.png</image>
-		<video>./snap/Knight Rider Phys 2_5.mp4</video>
-		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bond 50 (Anniversary Edition) (1.0).fpt</path>
 		<name>Bond 50 (Anniversary Edition) (1.0)</name>
 		<desc>Flipper Bond 50 (Anniversary Edition) (1.0)</desc>
@@ -4449,22 +4438,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
-		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
-		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
-		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
-		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
-		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Junkyard Cats - Bam Edition (1.3 - PinEvent V2 - FizX).fpt</path>
 		<name>Junkyard Cats (FizX)</name>
 		<desc>Flipper Junkyard Cats - Bam Edition (1.3 - PinEvent V2 - FizX)</desc>
@@ -4735,37 +4708,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Jaws ULTIMATE Pro 1.08.fpt</path>
-		<name>Jaws ULTIMATE Pro 1.08</name>
-		<desc>Flipper Jaws ULTIMATE Pro 1.08</desc>
-		<image>./mixart/Jaws ULTIMATE Pro 1.08.jpg</image>
-		<video>./snap/Jaws ULTIMATE Pro 1.08.mp4</video>
-		<marquee>./wheel/Jaws ULTIMATE Pro 1.08.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).fpt</path>
-		<name>Jaws - Bigger Boat Edition</name>
-		<desc>Flipper Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX)</desc>
-		<image>./mixart/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).jpg</image>
-		<video>./snap/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).mp4</video>
-		<marquee>./wheel/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Mr. Bean v1.0.fpt</path>
 		<name>Mr. Bean</name>
 		<desc>Flipper Mr. Bean v1.0</desc>
@@ -4904,6 +4846,64 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens Legacy ULTIMATE Pro 1.03.fpt</path>
+		<name>Aliens Legacy ULTIMATE Pro 1.03</name>
+		<desc>Flipper Aliens Legacy ULTIMATE Pro 1.03</desc>
+		<image>./mixart/Aliens Legacy ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Aliens Legacy ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Aliens Legacy ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).fpt</path>
+		<name>Jaws - Bigger Boat Edition</name>
+		<desc>Flipper Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).jpg</image>
+		<video>./snap/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).mp4</video>
+		<marquee>./wheel/Jaws - Bigger Boat Edition (1.0 - PinEvent V2 - FizX).png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jaws ULTIMATE Pro 1.08.fpt</path>
+		<name>Jaws ULTIMATE Pro 1.08</name>
+		<desc>Flipper Jaws ULTIMATE Pro 1.08</desc>
+		<image>./mixart/Jaws ULTIMATE Pro 1.08.jpg</image>
+		<video>./snap/Jaws ULTIMATE Pro 1.08.mp4</video>
+		<marquee>./wheel/Jaws ULTIMATE Pro 1.08.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Knight Rider Phys 2_5.fpt</path>
+		<name>Knight Rider Phys 2_5</name>
+		<desc>Flipper Knight Rider</desc>
+		<image>./mixart/Knight Rider Phys 2_5.png</image>
+		<video>./snap/Knight Rider Phys 2_5.mp4</video>
+		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
