@@ -441,25 +441,6 @@ Upgrade weapons and use terrain to an advantage in each level to make certain yo
 		<region>us</region>
 		<genreid>1280</genreid>
 	</game>
-	<game id="22132" source="ScreenScraper.fr">
-		<path>./Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).gz</path>
-		<name>Alone in the Dark : The New Nightmare</name>
-		<desc>Edward Carnby, private eye of the paranormal, is back. 
- 
-Carnby's best friend, Charles Fiske, has been found dead near Shadow Island, a mysterious island near Maine. It is your duty to take up the investigation and find out the secrets of Shadow Island. But you're not going alone... your companion will be a redhead by the name of Aline Cedrac who has her own reasons for tagging along. Aside from being a woman and inexperienced in the world of danger, she is the only one with the knowledge for translating the ancient Abkhani tabloids which may hold the secrets behind Carnby's friend's death and the disappearance of Aline's father.</desc>
-		<image>./mixart/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20011002T000000</releasedate>
-		<developer>Darkworks</developer>
-		<publisher>Infogrames</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<genreid>256</genreid>
-	</game>
 	<game id="23451" source="ScreenScraper.fr">
 		<path>./Amplitude (USA).gz</path>
 		<name>Amplitude</name>
@@ -3304,22 +3285,6 @@ The player is rated at the end of each level, primarily dependent on the gruesom
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>263</genreid>
-	</game>
-	<game id="22334" source="ScreenScraper.fr">
-		<path>./Marvel - Ultimate Alliance 2 (USA).gz</path>
-		<name>Marvel : Ultimate Alliance 2</name>
-		<desc>The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose. Join up with three other friends as you choose a super hero and combine powers for "Fusion" attacks.</desc>
-		<image>./mixart/Marvel - Ultimate Alliance 2 (USA).png</image>
-		<video>./snap/Marvel - Ultimate Alliance 2 (USA).mp4</video>
-		<marquee>./wheel/Marvel - Ultimate Alliance 2 (USA).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20091009T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Vicarious Visions</publisher>
-		<genre>Role playing games</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>768</genreid>
 	</game>
 	<game id="22874" source="ScreenScraper.fr">
 		<path>./Masters of the Universe - He-Man - Defender of Grayskull (Europe).gz</path>
@@ -7691,5 +7656,40 @@ There are now loads of online play modes to try, with up to 19 other racers onli
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>768</genreid>
+	</game>
+	<game id="22334" source="ScreenScraper.fr">
+		<path>./Marvel - Ultimate Alliance 2 (USA).gz</path>
+		<name>Marvel : Ultimate Alliance 2</name>
+		<desc>The Marvel Universe is being torn apart. The Superhuman Registration Act becomes law and Super Heroes must register as weapons of mass destruction, becoming licensed government agents. As Civil War is stirred, Iron Man leads the Pro-Registration side while Captain America spearheads the stand on Anti-Registration. The enemies you battle and the missions you accomplish depend on which side you choose. Join up with three other friends as you choose a super hero and combine powers for "Fusion" attacks.</desc>
+		<image>./mixart/Marvel - Ultimate Alliance 2 (USA).png</image>
+		<video>./snap/Marvel - Ultimate Alliance 2 (USA).mp4</video>
+		<marquee>./wheel/Marvel - Ultimate Alliance 2 (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20091009T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Vicarious Visions</publisher>
+		<genre>Role playing games</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>768</genreid>
+	</game>
+	<game id="22132" source="ScreenScraper.fr">
+		<path>./Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).gz</path>
+		<name>Alone in the Dark : The New Nightmare</name>
+		<desc>Edward Carnby, private eye of the paranormal, is back. 
+ 
+Carnby's best friend, Charles Fiske, has been found dead near Shadow Island, a mysterious island near Maine. It is your duty to take up the investigation and find out the secrets of Shadow Island. But you're not going alone... your companion will be a redhead by the name of Aline Cedrac who has her own reasons for tagging along. Aside from being a woman and inexperienced in the world of danger, she is the only one with the knowledge for translating the ancient Abkhani tabloids which may hold the secrets behind Carnby's friend's death and the disappearance of Aline's father.</desc>
+		<image>./mixart/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Alone in the Dark - The New Nightmare (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20011002T000000</releasedate>
+		<developer>Darkworks</developer>
+		<publisher>Infogrames</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

@@ -227,21 +227,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./astron.daphne</path>
-		<name>Astron Belt</name>
-		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
-		<image>./mixart/astron.png</image>
-		<video>./snap/astron.mp4</video>
-		<marquee>./wheel/astron.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19830515T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./galaxy.daphne</path>
 		<name>Galaxy Ranger</name>
 		<desc>Galaxy Ranger was a laserdisc game created by Sega and manufactured by Bally / Midway in 1984.  It was released as a dedicated cabinet or a conversion kit for Astron Belt cabinets.  In Galaxy Ranger, you fly through the universe battling alien ships to make your way to fight the main Alien Battle Cruiser.  Along the way, you fly across alien deserts, through tunnels, over alien cities, and get involved in a few "astro-dogfights" with enemy space fighters.</desc>
@@ -253,6 +238,21 @@
 		<developer>Sega</developer>
 		<publisher>Bally Midway</publisher>
 		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./astron.daphne</path>
+		<name>Astron Belt</name>
+		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
+		<image>./mixart/astron.png</image>
+		<video>./snap/astron.mp4</video>
+		<marquee>./wheel/astron.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19830515T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

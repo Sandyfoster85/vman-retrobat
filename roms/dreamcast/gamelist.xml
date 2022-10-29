@@ -166,23 +166,6 @@ Gameplay is based heavily on the Tony Hawk series of games. Tricks consist of bu
 		<region>us</region>
 		<cheevosHash>318AA4A563673ED5E2CF2BA62617D257</cheevosHash>
 	</game>
-	<game>
-		<path>./4 Wheel Thunder (USA).chd</path>
-		<name>4 Wheel Thunder</name>
-		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder.  In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes.  The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.  Each boost icon adds a few seconds of time to your boost meter. The player then can press a boost button to increase the speed of his or her truck dramatically. Without the boost power-ups, the player has no hope of winning a race.</desc>
-		<image>./mixart/4 Wheel Thunder (USA).png</image>
-		<video>./snap/4 Wheel Thunder (USA).mp4</video>
-		<marquee>./wheel/4 Wheel Thunder (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Kalisto</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E7689CCF1B1B24E5CB37957D75061434</cheevosHash>
-	</game>
 	<game id="250885" source="ScreenScraper.fr">
 		<path>./4x4 Jam.cdi</path>
 		<name>4x4 Jam</name>
@@ -1958,23 +1941,6 @@ The campaign is divided into many episodes, and each episode into missions.</des
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>05C1605A79E909C6E1F32F0C7C7BFE91</cheevosHash>
-	</game>
-	<game id="13592" source="ScreenScraper.fr">
-		<path>./Illbleed (USA).chd</path>
-		<name>Illbleed</name>
-		<desc>B-movie horror-film producer Michael Reynolds offers a million dollars to anyone who can survive his terrifying movie-themed park, Illbleed. Four teenage horror fans, Eriko Christy, Kevin Kertsman, Randy Fairbanks, and Michel Waters, receive invitations to the ghastly park. Filled with enthusiasm, Kevin, Randy, and Michel carelessly rush to Illbleed, leaving behind young Eriko. Eriko eventually heads to Illbleed to search for her now-missing friends. Eriko must find her friends, survive the horrors of Illbleed, and get out alive, if she can.  Each "amusement" in Illbleed is based on one of Michael Reynolds' horror films, from the worm infested drive-in theater of Revenge of the Worm to the trap-laden supermarket of Killer Department Store. The player can choose to play a level with any of the kids that have been rescued, and one character is trapped in each of the attractions. Robots modeled on the movies' monsters populate each attraction as well, and each is programmed to attack and kill attendees. In addition to the robots, every room in an attraction is fitted with traps to surprise and hurt. If the player character becomes too surprised they'll die of a heart attack. Prize money is awarded for surviving each attraction, and can be used to upgrade a character's stats or buy items.</desc>
-		<image>./mixart/Illbleed (USA).png</image>
-		<video>./snap/Illbleed (USA).mp4</video>
-		<marquee>./wheel/Illbleed (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010416T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>315B07880E2F597A6BCF5CFD5E817BBB</cheevosHash>
 	</game>
 	<game id="13606" source="ScreenScraper.fr">
 		<path>./Incoming (USA).chd</path>
@@ -5025,24 +4991,6 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<region>us</region>
 		<cheevosHash>18F9DB2D7E7A874FEB5701D515D2258B</cheevosHash>
 	</game>
-	<game id="13556" source="ScreenScraper.fr">
-		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
-		<name>Virtua Tennis</name>
-		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
-		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
-		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000908T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>BC8036E1B3BF3F55A00F4DDBA1FBBA0F</cheevosHash>
-	</game>
 	<game>
 		<path>./Virtua Tennis 2.chd</path>
 		<name>Virtua Tennis 2</name>
@@ -5763,5 +5711,78 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./4 Wheel Thunder (USA).chd</path>
+		<name>4 Wheel Thunder</name>
+		<desc>4 Wheel Thunder is the off-road racing sequel to the popular power-boat racing game, Hydro Thunder.  In this game, players race around two types of courses; huge outdoor tracks and smaller indoor tracks. All in all, there are 24 areas in which to race, including various day/night, rain/sunshine variations. The game includes the standard championship, practice race, and 2-player modes.  The thunder series of games is unique in that the key to winning the race lies not in careful steering and braking, but in finding the "boost" power-ups that lie around the tracks.  Each boost icon adds a few seconds of time to your boost meter. The player then can press a boost button to increase the speed of his or her truck dramatically. Without the boost power-ups, the player has no hope of winning a race.</desc>
+		<image>./mixart/4 Wheel Thunder (USA).png</image>
+		<video>./snap/4 Wheel Thunder (USA).mp4</video>
+		<marquee>./wheel/4 Wheel Thunder (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Kalisto</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E7689CCF1B1B24E5CB37957D75061434</cheevosHash>
+	</game>
+	<game id="360066" source="ScreenScraper.fr">
+		<path>./Rocketron.cdi</path>
+		<name>Rocketron</name>
+		<desc>Fly through the sky! Rain down fire on the enemy forces from above! 
+Use your rocket musket and 8 different types of weapons to boost through the sky, charge enemies, and leap over pit falls as you investigate a new mysterious enemy. 
+Enjoy solid combat and simple non-linear exploration in this original shooter! 
+ 
+The year is 2049. A mysterious group known as “The Congregation of Gogoh” has incited global insurrection on the cyberhuman planet of Metnal 28 as part of a nefarious plot for world domination. A galactic peacekeeping group that operates under the name “ARGO EXPRESS” has sent a cybernetic warrior known as “B.L.A.M” armed with a new weapon, a “rocket musket”, to try and stop them…</desc>
+		<image>./mixart/Rocketron.png</image>
+		<video>./snap/Rocketron.mp4</video>
+		<marquee>./wheel/Rocketron.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20211101T000000</releasedate>
+		<developer>Astro Port</developer>
+		<publisher>Josh Prod</publisher>
+		<genre>Platform-Platform / Shooter Scrolling-Action-Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>257</genreid>
+	</game>
+	<game id="13556" source="ScreenScraper.fr">
+		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
+		<name>Virtua Tennis</name>
+		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
+		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
+		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
+		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000908T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BC8036E1B3BF3F55A00F4DDBA1FBBA0F</cheevosHash>
+	</game>
+	<game id="13592" source="ScreenScraper.fr">
+		<path>./Illbleed (USA).chd</path>
+		<name>Illbleed</name>
+		<desc>B-movie horror-film producer Michael Reynolds offers a million dollars to anyone who can survive his terrifying movie-themed park, Illbleed. Four teenage horror fans, Eriko Christy, Kevin Kertsman, Randy Fairbanks, and Michel Waters, receive invitations to the ghastly park. Filled with enthusiasm, Kevin, Randy, and Michel carelessly rush to Illbleed, leaving behind young Eriko. Eriko eventually heads to Illbleed to search for her now-missing friends. Eriko must find her friends, survive the horrors of Illbleed, and get out alive, if she can.  Each "amusement" in Illbleed is based on one of Michael Reynolds' horror films, from the worm infested drive-in theater of Revenge of the Worm to the trap-laden supermarket of Killer Department Store. The player can choose to play a level with any of the kids that have been rescued, and one character is trapped in each of the attractions. Robots modeled on the movies' monsters populate each attraction as well, and each is programmed to attack and kill attendees. In addition to the robots, every room in an attraction is fitted with traps to surprise and hurt. If the player character becomes too surprised they'll die of a heart attack. Prize money is awarded for surviving each attraction, and can be used to upgrade a character's stats or buy items.</desc>
+		<image>./mixart/Illbleed (USA).png</image>
+		<video>./snap/Illbleed (USA).mp4</video>
+		<marquee>./wheel/Illbleed (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010416T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>315B07880E2F597A6BCF5CFD5E817BBB</cheevosHash>
 	</game>
 </gameList>

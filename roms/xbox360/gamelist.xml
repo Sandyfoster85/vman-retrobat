@@ -1945,21 +1945,6 @@ In Comic Jumper players control Captain Smiley, a comic book hero whose comics a
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="16832">
-		<path>./Costume Quest.m3u</path>
-		<name>Costume Quest</name>
-		<desc>Costume Quest is a role-playing game available for download on Xbox 360. You play as a child in charge of collecting candy on Halloween night. Things go wrong when your twin is kidnapped by monsters who think he's candy. Fortunately, you can rely on the power of homemade costumes to rescue him.</desc>
-		<image>./mixart/Costume Quest.png</image>
-		<video>./snap/Costume Quest.mp4</video>
-		<marquee>./wheel/Costume Quest.png</marquee>
-		<rating>0.75</rating>
-		<developer>Double Fine Productions</developer>
-		<publisher>THQ</publisher>
-		<genre>Adventure</genre>
-		<family>Costume Quest</family>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
 	<game id="17066">
 		<path>./Crimson Alliance.m3u</path>
 		<name>Crimson Alliance</name>
@@ -3837,20 +3822,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Marvel Puzzle Quest Dark Reign.m3u</path>
-		<name>Marvel Puzzle Quest Dark Reign</name>
-		<desc>Bejewled but in Marvel style.</desc>
-		<image>./mixart/Marvel Puzzle Quest Dark Reign.jpg</image>
-		<video>./snap/Marvel Puzzle Quest Dark Reign.mp4</video>
-		<marquee>./wheel/Marvel Puzzle Quest Dark Reign.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="18160">
 		<path>./Minesweeper Flags.m3u</path>
 		<name>Minesweeper Flags</name>
@@ -4299,23 +4270,6 @@ The player control the series' main character, Strider Hiryu. The environment is
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17769">
-		<path>./BUBBLE BOBBLE Neo!.m3u</path>
-		<name>Bubble Bobble Neo</name>
-		<desc>Bubble Bobble Neo on Xbox 360 is the worthy heir of a family composed of several eminent members. Playable with up to 4 players, this is a remake of an old episode with two game modes, one of which is new. For the rest, you will still have to control a small dinosaur with the ability to spit bubbles in order to move through closed levels.</desc>
-		<image>./mixart/BUBBLE BOBBLE Neo!.png</image>
-		<video>./snap/BUBBLE BOBBLE Neo!.mp4</video>
-		<marquee>./wheel/BUBBLE BOBBLE Neo!.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Puzzle-Game</genre>
-		<family>Bubble Bobble</family>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Dungeons and Dragons Chronicles of Mystara.m3u</path>
 		<name>Dungeons and Dragons: Chronicles of Mystara</name>
@@ -4617,6 +4571,54 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<genre>Puzzle</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marvel Puzzle Quest Dark Reign.m3u</path>
+		<name>Marvel Puzzle Quest Dark Reign</name>
+		<desc>Bejewled but in Marvel style.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Marvel Puzzle Quest Dark Reign.jpg</image>
+		<video>./snap/Marvel Puzzle Quest Dark Reign.mp4</video>
+		<marquee>./wheel/Marvel Puzzle Quest Dark Reign.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17769">
+		<path>./BUBBLE BOBBLE Neo!.m3u</path>
+		<name>Bubble Bobble Neo</name>
+		<desc>Bubble Bobble Neo on Xbox 360 is the worthy heir of a family composed of several eminent members. Playable with up to 4 players, this is a remake of an old episode with two game modes, one of which is new. For the rest, you will still have to control a small dinosaur with the ability to spit bubbles in order to move through closed levels.</desc>
+		<image>./mixart/BUBBLE BOBBLE Neo!.png</image>
+		<video>./snap/BUBBLE BOBBLE Neo!.mp4</video>
+		<marquee>./wheel/BUBBLE BOBBLE Neo!.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Puzzle-Game</genre>
+		<family>Bubble Bobble</family>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16832">
+		<path>./Costume Quest.m3u</path>
+		<name>Costume Quest</name>
+		<desc>Costume Quest is a role-playing game available for download on Xbox 360. You play as a child in charge of collecting candy on Halloween night. Things go wrong when your twin is kidnapped by monsters who think he's candy. Fortunately, you can rely on the power of homemade costumes to rescue him.</desc>
+		<image>./mixart/Costume Quest.png</image>
+		<video>./snap/Costume Quest.mp4</video>
+		<marquee>./wheel/Costume Quest.png</marquee>
+		<rating>0.75</rating>
+		<developer>Double Fine Productions</developer>
+		<publisher>THQ</publisher>
+		<genre>Adventure</genre>
+		<family>Costume Quest</family>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

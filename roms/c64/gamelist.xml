@@ -2443,20 +2443,6 @@
 		<image>./mixart/Ice Guys.png</image>
 		<video>./snap/Ice Guys.mp4</video>
 	</game>
-	<game id="35991" source="ScreenScraper.fr">
-		<path>./Ikari Warriors.d64</path>
-		<name>Ikari Warriors</name>
-		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
-		<rating>0.65</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Ikari Warriors.png</image>
-		<marquee>./wheel/Ikari Warriors.png</marquee>
-		<video>./snap/Ikari Warriors.mp4</video>
-	</game>
 	<game id="113163" source="ScreenScraper.fr">
 		<path>./Iketa.d64</path>
 		<name>Iketa</name>
@@ -5503,20 +5489,6 @@
 		<marquee>./wheel/Thunder Blade.png</marquee>
 		<video>./snap/Thunder Blade.mp4</video>
 	</game>
-	<game id="36198" source="ScreenScraper.fr">
-		<path>./Thunder Cats.d64</path>
-		<name>Thundercats</name>
-		<desc>This license of the children's TV show set it as a Ghosts 'N Goblins-style hack-n-slash adventure. The Thundercat must defeat Mumm-Ra's forces, which range from dwarves to bats. Although you start with only a sword, more can be collected by attacking the various containers through the levels - later weapons can destroy these enemies quicker, and allow attacks from a distance. Reaching the end of each level sees bonuses for time and kills. The path through the game can be varied on later levels, so you can play it through more than once and find new sections, even though the individual levels only scroll left-to-right.</desc>
-		<rating>0.4</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Gargoyle Games</developer>
-		<publisher>Elite Systems</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<image>./mixart/Thunder Cats.png</image>
-		<marquee>./wheel/Thunder Cats.png</marquee>
-		<video>./snap/Thunder Cats.mp4</video>
-	</game>
 	<game id="112324" source="ScreenScraper.fr">
 		<path>./Tibos Tale.d64</path>
 		<name>Tibo's Tale</name>
@@ -8147,7 +8119,7 @@ Some versions have a high score table to record your achievements. The second se
 		<image>./mixart/Ruff n Reddy.png</image>
 		<video>./snap/Ruff n Reddy.mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="110279" source="ScreenScraper.fr">
@@ -8188,6 +8160,36 @@ Some versions have a high score table to record your achievements. The second se
 		<rating>0</rating>
 		<releasedate>19870101T000000</releasedate>
 		<publisher>Hewson</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="35991" source="ScreenScraper.fr">
+		<path>./Ikari Warriors.d64</path>
+		<name>Ikari Warriors</name>
+		<desc>A conversion of the arcade game, Ikari Warriors is a vertically scrolling action game. One or two players fight their way through a variety of terrain, such as jungles, rivers, and ruins. Along the way different weapons can be found, including machine guns, grenades, and rocket launchers.</desc>
+		<image>./mixart/Ikari Warriors.png</image>
+		<video>./snap/Ikari Warriors.mp4</video>
+		<marquee>./wheel/Ikari Warriors.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game id="36198" source="ScreenScraper.fr">
+		<path>./Thunder Cats.d64</path>
+		<name>Thundercats</name>
+		<desc>This license of the children's TV show set it as a Ghosts 'N Goblins-style hack-n-slash adventure. The Thundercat must defeat Mumm-Ra's forces, which range from dwarves to bats. Although you start with only a sword, more can be collected by attacking the various containers through the levels - later weapons can destroy these enemies quicker, and allow attacks from a distance. Reaching the end of each level sees bonuses for time and kills. The path through the game can be varied on later levels, so you can play it through more than once and find new sections, even though the individual levels only scroll left-to-right.</desc>
+		<image>./mixart/Thunder Cats.png</image>
+		<video>./snap/Thunder Cats.mp4</video>
+		<marquee>./wheel/Thunder Cats.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Gargoyle Games</developer>
+		<publisher>Elite Systems</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

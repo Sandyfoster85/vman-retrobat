@@ -202,22 +202,6 @@
 		<cheevosHash>58CBA8E91A747852B558FA14687CB02D</cheevosHash>
 	</game>
 	<game>
-		<path>./kofxi.zip</path>
-		<name>The King of Fighters XI</name>
-		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
-		<image>./mixart/kofxi.png</image>
-		<video>./snap/kofxi.mp4</video>
-		<marquee>./wheel/kofxi.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>85D75973F9946590FF3AD93387CF7F98</cheevosHash>
-	</game>
-	<game>
 		<path>./kov7sprt.zip</path>
 		<name>Knights Of Valour: The Seven Spirits</name>
 		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
@@ -462,5 +446,21 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>0358F8C16A2A9C2CCBB54DAC0AFEFDB7</cheevosHash>
+	</game>
+	<game>
+		<path>./kofxi.zip</path>
+		<name>The King of Fighters XI</name>
+		<desc>The eleventh game in the KOF series following The King of Fighters 2003. According to Sega: 'For over 10 years, the King of Fighters series has been the choice of game players around the world. The 11th team of fighters continues this tradition. KOF11 is suited for one to two players, with continuous buy-in. Choose from 33 fighters, including 4 new characters. A fifth control button was added to enhance your skills by delivering a devastating blow to your opponent, if hit at the right time. A New Skill Gauge performs a variety of tag-off moves and new attacks. A player can also custom construct a Three-Fighter Tag-Team by selecting three choice combatants.'</desc>
+		<image>./mixart/kofxi.png</image>
+		<video>./snap/kofxi.mp4</video>
+		<marquee>./wheel/kofxi.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>85D75973F9946590FF3AD93387CF7F98</cheevosHash>
 	</game>
 </gameList>

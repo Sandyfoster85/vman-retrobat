@@ -259,22 +259,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Maddog McCree.cmd</path>
-		<name>Maddog McCree</name>
-		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
-		<image>./mixart/Maddog McCree.png</image>
-		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Maddog McCree.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Space Pirates.cmd</path>
 		<name>Space Pirates</name>
 		<desc>Space Pirates was a laserdisc game created by American Laser Games in 1992.  Colonial Star One is under attack by the Black Brigade.  Captain Tallinn and his cut throat pirates are in control of the Star Splitter Cannon.  Captain Tallinn is trying to take over the galaxy by using the Star Splitter Cannon, but in order to use the cannon, he must find the cannon star crystals.  The star crystals have been lost for years on different worlds throughout the solar system.  You must find the crystals before Tallinn does.  Your journey across the galaxy won't be easy though.  Mutant life forms, sorceresses, and other alien life forms will try to stop you from getting the crystals.  Find the crystals and go on to the final showdown to take out Captain Tallinn and win the game!</desc>
@@ -368,22 +352,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Crime Patrol 2 Drug Wars.cmd</path>
-		<name>Crime Patrol 2 : Drug Wars</name>
-		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
-		<image>./mixart/Crime Patrol 2 Drug Wars.png</image>
-		<video>./content/Crime_Patrol_2_Drug_Wars_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Crime Patrol 2 Drug Wars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Fire and Ice.cmd</path>
 		<name>Fire and Ice</name>
 		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
@@ -429,22 +397,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blue Thunder.cmd</path>
-		<name>Blue Thunder</name>
-		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
-		<image>./mixart/Blue Thunder.png</image>
-		<video>./snap/Blue Thunder.mp4</video>
-		<marquee>./wheel/Blue Thunder.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./DL2e.cmd</path>
 		<name>Dragon's Lair II: Time Warp HD</name>
 		<desc>DL2: Time Warp HD with classic mode and enhanced Rom. Dirk the Daring must find and rescue Daphne with the help of a well-spoken time machine possessed by the brother of Mordroc, the foul wizard that has kidnapped Daphne. Dirk travels through several dimensions and historical eras, some inspired by classic stories and fairy tales such as Alice in Wonderland and Sleeping Beauty, to prevent Mordroc from enslaving Daphne to his whim with the dreaded Death Ring.</desc>
@@ -472,6 +424,54 @@
 		<developer>Virtual Image Productions</developer>
 		<publisher>Sega</publisher>
 		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maddog McCree.cmd</path>
+		<name>Maddog McCree</name>
+		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
+		<image>./mixart/Maddog McCree.png</image>
+		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Maddog McCree.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Thunder.cmd</path>
+		<name>Blue Thunder</name>
+		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
+		<image>./mixart/Blue Thunder.png</image>
+		<video>./snap/Blue Thunder.mp4</video>
+		<marquee>./wheel/Blue Thunder.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Crime Patrol 2 Drug Wars.cmd</path>
+		<name>Crime Patrol 2 : Drug Wars</name>
+		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
+		<image>./mixart/Crime Patrol 2 Drug Wars.png</image>
+		<video>./content/Crime_Patrol_2_Drug_Wars_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Crime Patrol 2 Drug Wars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

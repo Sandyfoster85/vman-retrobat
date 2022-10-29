@@ -955,21 +955,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Castlevania Symphony of the Night (Original) (2015) (1.1).fpt</path>
-		<name>Castlevania Symphony of the Night (Original) (2015) (1.1)</name>
-		<desc>Flipper Castlevania Symphony of the Night (Original) (2015) (1.1)</desc>
-		<image>./mixart/Castlevania Symphony of the Night (Original) (2015) (1.1).jpg</image>
-		<video>./snap/Castlevania Symphony of the Night (Original) (2015) (1.1).mp4</video>
-		<marquee>./wheel/Castlevania Symphony of the Night (Original) (2015) (1.1).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Die Hard (Original) (Physics 2.5).fpt</path>
 		<name>Die Hard (Original) (Physics 2.5)</name>
 		<desc>Flipper Die Hard (Original) (Physics 2.5)</desc>
@@ -3304,22 +3289,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
-		<name>Blade Runner ULTIMATE Pro 1.04</name>
-		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
-		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
-		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
-		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./PUPPET MASTER.fpt</path>
 		<name>PUPPET MASTER</name>
 		<desc>Flipper PUPPET MASTER</desc>
@@ -4582,22 +4551,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./heavy metal meltdown_night_1_1(Macemod).fpt</path>
-		<name>Heavy Metal Meltdown</name>
-		<desc>Flipper heavy metal meltdown_night_1_1(Macemod)</desc>
-		<image>./mixart/heavy metal meltdown_night_1_1(Macemod).png</image>
-		<video>./snap/heavy metal meltdown_night_1_1(Macemod).mp4</video>
-		<marquee>./wheel/heavy metal meltdown_night_1_1(Macemod).png</marquee>
-		<rating>3</rating>
-		<releasedate>19721231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Turtles.fpt</path>
 		<name>TMNT</name>
 		<desc>Flipper Ninja Turtles</desc>
@@ -4904,6 +4857,69 @@
 		<video>./snap/Knight Rider Phys 2_5.mp4</video>
 		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
 		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania Symphony of the Night (Original) (2015) (1.1).fpt</path>
+		<name>Castlevania Symphony of the Night (Original) (2015) (1.1)</name>
+		<desc>Flipper Castlevania Symphony of the Night (Original) (2015) (1.1)</desc>
+		<image>./mixart/Castlevania Symphony of the Night (Original) (2015) (1.1).jpg</image>
+		<video>./snap/Castlevania Symphony of the Night (Original) (2015) (1.1).mp4</video>
+		<marquee>./wheel/Castlevania Symphony of the Night (Original) (2015) (1.1).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./heavy metal meltdown_night_1_1(Macemod).fpt</path>
+		<name>Heavy Metal Meltdown</name>
+		<desc>Flipper heavy metal meltdown_night_1_1(Macemod)</desc>
+		<image>./mixart/heavy metal meltdown_night_1_1(Macemod).png</image>
+		<video>./snap/heavy metal meltdown_night_1_1(Macemod).mp4</video>
+		<marquee>./wheel/heavy metal meltdown_night_1_1(Macemod).png</marquee>
+		<rating>3</rating>
+		<releasedate>19721231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Terminator 2 Skynet.fpt</path>
+		<name>Terminator 2 Skynet</name>
+		<desc>Flipper Terminator 2 Skynet</desc>
+		<image>./mixart/Terminator 2 Skynet.png</image>
+		<video>./snap/Terminator 2 Skynet.mp4</video>
+		<marquee>./wheel/Terminator 2 Skynet.png</marquee>
+		<rating>4</rating>
+		<releasedate>1992</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

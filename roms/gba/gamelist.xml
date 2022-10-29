@@ -11423,20 +11423,6 @@ The Saturn version has Phantasy Star IV: The End of the Millennium as well.</des
 		<region>us</region>
 		<cheevosHash>627B22D7E3C4DBCE8191C7765C58E17A</cheevosHash>
 	</game>
-	<game id="84359" source="ScreenScraper.fr">
-		<path>./Pinball Tycoon (USA).7z</path>
-		<name>Pinball Tycoon</name>
-		<desc>Pinball Tycoon is a pinball simulation featuring four themed tables. Each table has its own goals and objectives. Dig for gold in California Gold Rush, strike oil in Black Gold, become a movie millionaire in Hollywood Mogul and win a fortune in Golden Chance.</desc>
-		<image>./mixart/Pinball Tycoon (USA).png</image>
-		<video>./snap/Pinball Tycoon (USA).mp4</video>
-		<marquee>./wheel/Pinball Tycoon (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<genre>Pinball</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E0ADFF6EBE33CD13B57A7041F14599D8</cheevosHash>
-	</game>
 	<game id="4329" source="ScreenScraper.fr">
 		<path>./Pink Panther - Pinkadelic Pursuit (USA).7z</path>
 		<name>Pink Panther : Pinkadelic Pursuit</name>
@@ -17962,5 +17948,19 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 		<cheevosHash>89579F4DFE1ED24A7CD16A6A61A72A17</cheevosHash>
 		<cheevosId>801</cheevosId>
+	</game>
+	<game id="84359" source="ScreenScraper.fr">
+		<path>./Pinball Tycoon (USA).7z</path>
+		<name>Pinball Tycoon</name>
+		<desc>Pinball Tycoon is a pinball simulation featuring four themed tables. Each table has its own goals and objectives. Dig for gold in California Gold Rush, strike oil in Black Gold, become a movie millionaire in Hollywood Mogul and win a fortune in Golden Chance.</desc>
+		<image>./mixart/Pinball Tycoon (USA).png</image>
+		<video>./snap/Pinball Tycoon (USA).mp4</video>
+		<marquee>./wheel/Pinball Tycoon (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<genre>Pinball</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E0ADFF6EBE33CD13B57A7041F14599D8</cheevosHash>
 	</game>
 </gameList>

@@ -655,21 +655,6 @@ Special Edition includes a 100 page book of concept art, USB drive modeled after
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="12281">
-		<path>./The Smurfs™ 2 [0005000010113300]/code/Smurfs.rpx</path>
-		<name>The Smurfs 2</name>
-		<desc>The highly anticipated family comedy The Smurfs? 2 is now a video game! The evil wizard Gargamel has created the Naughties, who kidnap Smurfette from Smurfs Village and imprison her in Paris. It's now up to the Smurfs to travel from the Enchanted Forest, through the busy streets of New York, into Paris, and everywhere in between to save the day and bring Smurfette home safe!</desc>
-		<image>./mixart/The Smurfs 2.jpg</image>
-		<marquee>./wheel/The Smurfs 2.png</marquee>
-		<video>./snap/The Smurfs 2.mp4</video>
-		<rating>0.15</rating>
-		<releasedate>20130723T000000</releasedate>
-		<developer>Wayforward</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Platform</genre>
-		<family>Les Schtroumpfs</family>
-		<md5>01fcbf7d0c2f36603cfaf035fb8d004f</md5>
-	</game>
 	<game>
 		<path>./Batman™ Arkham Origins/code/BmGame-Gusto-Shipping.rpx</path>
 		<name>Batman Arkham Origins</name>
@@ -1419,26 +1404,6 @@ Gear up for the most intense challenges only Hot Wheels can deliver! Pick your t
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="12119">
-		<path>./MARIO KART 8/code/Turbo.rpx</path>
-		<name>Mario Kart 8</name>
-		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
-
-The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
-		<image>./mixart/Mario Kart 8.png</image>
-		<video>./snap/Mario Kart 8.mp4</video>
-		<marquee>./wheel/Mario Kart 8-01.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20140530T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<family>Mario Kart</family>
-		<players>4+</players>
-		<favorite>true</favorite>
-		<md5>1357c833acd98ec03218eb773296824a</md5>
-		<lang>en</lang>
-	</game>
 	<game id="12121">
 		<path>./Bayonetta 2/code/PRJ_010.rpx</path>
 		<name>Bayonetta 2</name>
@@ -1592,23 +1557,6 @@ The Peanuts Movie: Snoopy's Grand Adventure is a side-scrolling platform video g
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
-		<name>New Super Mario Bros. U + New Super Luigi U</name>
-		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
-		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
-		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
-		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20131101T000000</releasedate>
-		<developer>Nintendo EAD</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sonic &amp; All-Stars Racing Transformed [AS2E8P8P]/code/SART.rpx</path>
 		<name>Sonic &amp; All-Stars Racing Transformed</name>
 		<desc>Sonic and the All-Stars cast battle for supremacy across land, water and air in transforming vehicles that change from cars to boats to planes mid-race.</desc>
@@ -1635,6 +1583,59 @@ The player flies around a little black creature called a Clone through the woods
 		<genre>Action, Adventure, Platform, Puzzle-Game</genre>
 		<players>4</players>
 		<md5>4191bfffa08bb682b88bfe0aa754461e</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12119">
+		<path>./MARIO KART 8/code/Turbo.rpx</path>
+		<name>Mario Kart 8</name>
+		<desc>Mario Kart 8 is the 8th installment of the Mario Kart series, for the Wii U console.
+
+The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen retro ones) on which the characters race riding a variety of vehicles like the returning motorcycles from Mario Kart Wii or the karts, which can be customized.</desc>
+		<image>./mixart/Mario Kart 8.png</image>
+		<video>./snap/Mario Kart 8.mp4</video>
+		<marquee>./wheel/Mario Kart 8-01.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20140530T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<family>Mario Kart</family>
+		<players>4+</players>
+		<favorite>true</favorite>
+		<md5>1357c833acd98ec03218eb773296824a</md5>
+		<lang>en</lang>
+	</game>
+	<game id="12281">
+		<path>./The Smurfs™ 2 [0005000010113300]/code/Smurfs.rpx</path>
+		<name>The Smurfs 2</name>
+		<desc>The highly anticipated family comedy The Smurfs? 2 is now a video game! The evil wizard Gargamel has created the Naughties, who kidnap Smurfette from Smurfs Village and imprison her in Paris. It's now up to the Smurfs to travel from the Enchanted Forest, through the busy streets of New York, into Paris, and everywhere in between to save the day and bring Smurfette home safe!</desc>
+		<image>./mixart/The Smurfs 2.jpg</image>
+		<video>./snap/The Smurfs 2.mp4</video>
+		<marquee>./wheel/The Smurfs 2.png</marquee>
+		<rating>0.15</rating>
+		<releasedate>20130723T000000</releasedate>
+		<developer>Wayforward</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Platform</genre>
+		<family>Les Schtroumpfs</family>
+		<md5>01fcbf7d0c2f36603cfaf035fb8d004f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./New SUPER MARIO BROS. U +  New SUPER LUIGI U/code/red-pro2.rpx</path>
+		<name>New Super Mario Bros. U + New Super Luigi U</name>
+		<desc>New Super Mario Bros. U + New Super Luigi U is a compilation title for the Wii U console. It is the first compilation of Mario games on the Wii U and includes New Super Mario Bros. U and New Super Luigi U on a single disc.</desc>
+		<image>./mixart/New Super Mario Bros. U + New Super Luigi U.jpg</image>
+		<video>./snap/New Super Mario Bros. U + New Super Luigi U.mp4</video>
+		<marquee>./wheel/New Super Mario Bros. U + New Super Luigi U-01.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20131101T000000</releasedate>
+		<developer>Nintendo EAD</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>14b802ce5a6b84fe3cc2c29019c8663f</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
