@@ -3302,22 +3302,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tales from the Crypt (Data East 1993) VPW v1.22.vpx</path>
-		<name>Tales from the Crypt (Data East) (PupEdition)</name>
-		<desc>Flipper Tales from the Crypt (Data East 1993) VPW v1.22</desc>
-		<image>./mixart/Tales from the Crypt (Data East 1993) VPW v1.22.png</image>
-		<video>./snap/Tales from the Crypt (Data East 1993) VPW v1.22.mp4</video>
-		<marquee>./wheel/Tales from the Crypt (Data East 1993) VPW v1.22.png</marquee>
-		<rating>4</rating>
-		<releasedate>Unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Strikes 'N Spares (1995).vpx</path>
 		<name>Strikes 'N Spares (1995)</name>
 		<desc>Flipper Strikes 'N Spares (1995)</desc>
@@ -6420,22 +6404,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ghostbusters LE 1.2.vpx</path>
-		<name>Ghostbusters LE (PupEdition)</name>
-		<desc>Flipper Ghostbusters LE 1.2</desc>
-		<image>./mixart/Ghostbusters LE 1.2.jpg</image>
-		<video>./snap/Ghostbusters LE 1.2.mp4</video>
-		<marquee>./wheel/Ghostbusters LE 1.2.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Harry Potter and the Goblet of Fire.vpx</path>
 		<name>Harry Potter and the Goblet of Fire (PupEdition)</name>
 		<desc>Flipper Harry Potter and the Goblet of Fire</desc>
@@ -7512,22 +7480,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Buffy The Vampire Slayer_VP_Cooks.vpx</path>
-		<name>Buffy The Vampire Slayer</name>
-		<desc>Flipper Buffy The Vampire Slayer_VP_Cooks</desc>
-		<image>./mixart/Buffy The Vampire Slayer_VP_Cooks.png</image>
-		<video>./snap/Buffy The Vampire Slayer_VP_Cooks.mp4</video>
-		<marquee>./wheel/Buffy The Vampire Slayer_VP_Cooks.png</marquee>
-		<rating>3</rating>
-		<releasedate>20221231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD.vpx</path>
 		<name>MST3K Pinball Peril</name>
 		<desc>Flipper MST3K Pinball Peril (2021)_v1.0.2_GaryInMotion_SoundMOD</desc>
@@ -7862,38 +7814,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hellraiser.vpx</path>
-		<name>Hellraiser (PuPEdition)</name>
-		<desc>Flipper Hellraiser Pinball</desc>
-		<image>./mixart/Hellraiser.png</image>
-		<video>./snap/Hellraiser.mp4</video>
-		<marquee>./wheel/Hellraiser.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Scared Stiff (Bally 1996).vpx</path>
-		<name>Scared Stiff (Bally 1996) (PupEdition)</name>
-		<desc>Flipper Scared Stiff (Bally 1996)</desc>
-		<image>./mixart/Scared Stiff (Bally 1996).jpg</image>
-		<video>./snap/Scared Stiff (Bally 1996).mp4</video>
-		<marquee>./wheel/Scared Stiff (Bally 1996).png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Spider-Man Classic VE_1.2.1.vpx</path>
 		<name>Spider-Man Classic VE_1.2.1</name>
 		<desc>Flipper Spider-Man Classic VE_1.2.1</desc>
@@ -8123,6 +8043,102 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Buffy The Vampire Slayer_VP_Cooks.vpx</path>
+		<name>Buffy The Vampire Slayer</name>
+		<desc>Flipper Buffy The Vampire Slayer_VP_Cooks</desc>
+		<image>./mixart/Buffy The Vampire Slayer_VP_Cooks.png</image>
+		<video>./snap/Buffy The Vampire Slayer_VP_Cooks.mp4</video>
+		<marquee>./wheel/Buffy The Vampire Slayer_VP_Cooks.png</marquee>
+		<rating>3</rating>
+		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ghostbusters LE 1.2.vpx</path>
+		<name>Ghostbusters LE (PupEdition)</name>
+		<desc>Flipper Ghostbusters LE 1.2</desc>
+		<image>./mixart/Ghostbusters LE 1.2.jpg</image>
+		<video>./snap/Ghostbusters LE 1.2.mp4</video>
+		<marquee>./wheel/Ghostbusters LE 1.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hellraiser.vpx</path>
+		<name>Hellraiser (PuPEdition)</name>
+		<desc>Flipper Hellraiser Pinball</desc>
+		<image>./mixart/Hellraiser.png</image>
+		<video>./snap/Hellraiser.mp4</video>
+		<marquee>./wheel/Hellraiser.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Scared Stiff (Bally 1996).vpx</path>
+		<name>Scared Stiff (Bally 1996) (PupEdition)</name>
+		<desc>Flipper Scared Stiff (Bally 1996)</desc>
+		<image>./mixart/Scared Stiff (Bally 1996).jpg</image>
+		<video>./snap/Scared Stiff (Bally 1996).mp4</video>
+		<marquee>./wheel/Scared Stiff (Bally 1996).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tales from the Crypt (Data East 1993) VPW v1.22.vpx</path>
+		<name>Tales from the Crypt (Data East) (PupEdition)</name>
+		<desc>Flipper Tales from the Crypt (Data East 1993) VPW v1.22</desc>
+		<image>./mixart/Tales from the Crypt (Data East 1993) VPW v1.22.png</image>
+		<video>./snap/Tales from the Crypt (Data East 1993) VPW v1.22.mp4</video>
+		<marquee>./wheel/Tales from the Crypt (Data East 1993) VPW v1.22.png</marquee>
+		<rating>4</rating>
+		<releasedate>Unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./IT Pinball Madness.vpx</path>
+		<name>IT Pinball Madness</name>
+		<desc>Flipper IT Pinball Madness</desc>
+		<image>./mixart/IT Pinball Madness.png</image>
+		<video>./snap/IT Pinball Madness.mp4</video>
+		<marquee>./wheel/IT Pinball Madness.png</marquee>
+		<rating>4</rating>
+		<releasedate>2022</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

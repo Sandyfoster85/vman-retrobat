@@ -17545,27 +17545,6 @@ Other new concepts include walls of mazes that float in the air which may be opt
 		<cheevosHash>C1880C50609E9472656C8079A85AF066</cheevosHash>
 	</game>
 	<game>
-		<path>./arkanoid.zip</path>
-		<name>Arkanoid</name>
-		<desc>After a sudden alien assault, the Arkanoid spaceship has been destroyed and the only survivor, the small 'Vaus' space vessel, has been mysteriously trapped in another dimension by an unknown enemy. The player is charged with helping the 'Vaus' overcome the security systems, as well as the many enemies that guard them, before finally finding and destroying 'DOH', the alien responsible for the attack.
-
-Arkanoid is an update of the early ball and paddle video games - and specifically of Atari's 1978 classic, "Super Breakout" - in which the player takes control of a paddle at the bottom of the screen and must use it to deflect a ball into rows of bricks at the top of the screen, thus destroying them and, eventually, clearing the screen to progress to the next level. 
-
-As well as impressive and colourful graphics, Arkanoid introduced a number of new elements to the classic bat 'n' ball gameplay. Certain bricks, when destroyed, would release a power-up - in the form of a falling capsule. the player had to catch the capsule to retrieve the power-up. Among the many enhancements the power-ups provided were an increased 'bat' size, multiple balls, 'sticky' ball (which would stick to the bat and could be released when the player chose) and even a laser, which allowed the player to shoot the bricks.</desc>
-		<image>./mixart/arkanoid.png</image>
-		<video>./snap/arkanoid.mp4</video>
-		<marquee>./wheel/arkanoid.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Square Enix</publisher>
-		<genre>Action-Action / Breakout games-Puzzle-Game</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C7FEB023A2A07070ACC912E39F336CEC</cheevosHash>
-	</game>
-	<game>
 		<path>./arkarea.zip</path>
 		<name>Ark Area</name>
 		<desc>An overhead shoot'em up where you fight through 23 stages, battling 1 or 2 bosses at the end of each level</desc>
@@ -17598,56 +17577,6 @@ As well as impressive and colourful graphics, Arkanoid introduced a number of ne
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>24839B8A4DC595F61C344054D913EEE5</cheevosHash>
-	</game>
-	<game>
-		<path>./arknoid2.zip</path>
-		<name>Arkanoid - Revenge of DOH</name>
-		<desc>Arkanoid - Revenge of DOH © 1987 Taito Corp.
-
-The mysterious enemy known as 'DOH' has returned to seek vengeance on the 'Vaus' space vessel. The player must once again take control of the Vaus and overcome many challenges in order to destroy DOH once and for all. 
-
-An update of the popular 1986 original, Revenge of DOH sees the player battle through 34 rounds, taken from a grand total of 64. Revenge of DOH differs from its predecessor with the introduction of "Warp Gates". Upon completion of a round or when the Break ('B') pill is caught, two gates appear at the bottom left and bottom right of the play area respectively, the Vaus is then taken through one of the gates - the choice will affect which version of the next round is provided.
-
-The game also features two new features for bricks. Notched silver bricks, like normal silver bricks, take several hits to destroy. However, after a short period of time after destruction, they regenerate at full strength. Fortunately, clearing a level does not require that any notched bricks to be destroyed. Also, some bricks move from side to side as long as their left and/or right sides are not obstructed by other bricks.
-
-The game features a mini-boss in the form of a giant brain, which will help you practice for DOH. You must aim for the brain's mouth to defeat it.</desc>
-		<image>./mixart/arknoid2.png</image>
-		<video>./snap/arknoid2.mp4</video>
-		<marquee>./wheel/arknoid2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Action-Action / Breakout games</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8F4DFBEEAE379027EFDEE0459367B61C</cheevosHash>
-	</game>
-	<game>
-		<path>./arkretrn.zip</path>
-		<name>Arkanoid Returns</name>
-		<desc>Arkanoid Returns © 1997 Taito Corp.
-
-The 3rd chapter in Taito's legendary 1 or 2-player bat and ball game, in which players once again control a paddle and must try to rebound a ball into patterns of bricks to remove them from the play area.
-
-Each level is patrolled by enemies and certain bricks, when hit, release power-ups which then roll down the screen and can be collected by the player.
-
-While the 3rd chapter contains 50 brand new levels for players to fight through, the actual gameplay itself remains unaltered from the first 2 games. The only real differences are a revamp of both the graphics and sound, as well as a number of minor enhancements to the in-game power-ups.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/arkretrn.png</image>
-		<video>./snap/arkretrn.mp4</video>
-		<marquee>./wheel/arkretrn.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Action-Action / Breakout games</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F7EC4F8F6364A61ED9C0097870CFE476</cheevosHash>
 	</game>
 	<game id="40065">
 		<path>./arlingtn.zip</path>
@@ -55451,34 +55380,6 @@ There is a team mode where players have to select three characters. The characte
 		<region>us</region>
 		<cheevosHash>3F7AAE564E51E45D627146342D812CF5</cheevosHash>
 	</game>
-	<game>
-		<path>./shollow.zip</path>
-		<name>Satan's Hollow</name>
-		<desc>Satan's Hollow is a 1- or a 2-player game. When playing this game, the Rocket Launcher is under YOUR control. YOU make it move back and forth across the screen to launch Rockets that will eliminate your attackers. These attackers are displayed in groups, called 'racks', across the top of the screen. The first rack is made up of a small number of attackers. The second rack is made up of a larger number of these attackers. And intermixed with the racks of attackers is a rack with only a single fire-breathing Devil's head. 
-
-The attackers and the Devil's Head will try to wipe out your Rocket Launcher. If they do, you lose one player. In emergencies, you have a Shield which goes all around your Rocket Launcher for a short period of time. It is activated by pushing the Shield button on the control console. BUT BE CAREFUL!! This consumes a lot of power and will only last a VERY SHORT TIME! 
-
-Each attacker eliminated will cause a Bridge Section to appear at the lower left corner of the screen EXCEPT: when there is already a Bridge Section there or when you have a Bridge Section in tow under your Rocket Launcher. Pick these Sections up with your Rocket Launcher and move them over to build a Bridge across the gorge at the right side of the screen leading into the land of SATAN. 
-
-When you complete your Bridge into the land of SATAN, you can cross it and do battle with him. If you win you will be rewarded by increased fire power for your Rocket Launcher. If SATAN defeats you, you lose one player. 
-
-As your skill level increases, the number of attackers is increased and the speed that the fire-breathing Devil's Head moves is increased also. 
-
-Bonus Rocket Launchers are awarded to you periodically throughout the game as you reach or pass certain preselected point values. Each attacker has an assigned point value. 
-
-The object of the game is to HAVE FUN while constantly improving your skills as you play, eliminating as many attackers as possible each time to get the highest score.</desc>
-		<image>./mixart/shollow.png</image>
-		<video>./snap/shollow.mp4</video>
-		<marquee>./wheel/shollow.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<publisher>Bally Midway</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>89570B41B9E3D56D4D8FEA2C39C925C1</cheevosHash>
-	</game>
 	<game id="43053">
 		<path>./shootbul.zip</path>
 		<name>Shoot The Bull</name>
@@ -72906,5 +72807,104 @@ There are five stages with five levels each, and each one of them has you throwi
 		<region>us</region>
 		<cheevosHash>C49DB6FEBDA650EB59149C52852DF9E5</cheevosHash>
 		<cheevosId>11905</cheevosId>
+	</game>
+	<game>
+		<path>./arkanoid.zip</path>
+		<name>Arkanoid</name>
+		<desc>After a sudden alien assault, the Arkanoid spaceship has been destroyed and the only survivor, the small 'Vaus' space vessel, has been mysteriously trapped in another dimension by an unknown enemy. The player is charged with helping the 'Vaus' overcome the security systems, as well as the many enemies that guard them, before finally finding and destroying 'DOH', the alien responsible for the attack.
+
+Arkanoid is an update of the early ball and paddle video games - and specifically of Atari's 1978 classic, "Super Breakout" - in which the player takes control of a paddle at the bottom of the screen and must use it to deflect a ball into rows of bricks at the top of the screen, thus destroying them and, eventually, clearing the screen to progress to the next level. 
+
+As well as impressive and colourful graphics, Arkanoid introduced a number of new elements to the classic bat 'n' ball gameplay. Certain bricks, when destroyed, would release a power-up - in the form of a falling capsule. the player had to catch the capsule to retrieve the power-up. Among the many enhancements the power-ups provided were an increased 'bat' size, multiple balls, 'sticky' ball (which would stick to the bat and could be released when the player chose) and even a laser, which allowed the player to shoot the bricks.</desc>
+		<image>./mixart/arkanoid.png</image>
+		<video>./snap/arkanoid.mp4</video>
+		<marquee>./wheel/arkanoid.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Square Enix</publisher>
+		<genre>Action-Action / Breakout games-Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C7FEB023A2A07070ACC912E39F336CEC</cheevosHash>
+	</game>
+	<game>
+		<path>./arknoid2.zip</path>
+		<name>Arkanoid - Revenge of DOH</name>
+		<desc>Arkanoid - Revenge of DOH © 1987 Taito Corp.
+
+The mysterious enemy known as 'DOH' has returned to seek vengeance on the 'Vaus' space vessel. The player must once again take control of the Vaus and overcome many challenges in order to destroy DOH once and for all. 
+
+An update of the popular 1986 original, Revenge of DOH sees the player battle through 34 rounds, taken from a grand total of 64. Revenge of DOH differs from its predecessor with the introduction of "Warp Gates". Upon completion of a round or when the Break ('B') pill is caught, two gates appear at the bottom left and bottom right of the play area respectively, the Vaus is then taken through one of the gates - the choice will affect which version of the next round is provided.
+
+The game also features two new features for bricks. Notched silver bricks, like normal silver bricks, take several hits to destroy. However, after a short period of time after destruction, they regenerate at full strength. Fortunately, clearing a level does not require that any notched bricks to be destroyed. Also, some bricks move from side to side as long as their left and/or right sides are not obstructed by other bricks.
+
+The game features a mini-boss in the form of a giant brain, which will help you practice for DOH. You must aim for the brain's mouth to defeat it.</desc>
+		<image>./mixart/arknoid2.png</image>
+		<video>./snap/arknoid2.mp4</video>
+		<marquee>./wheel/arknoid2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action-Action / Breakout games</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8F4DFBEEAE379027EFDEE0459367B61C</cheevosHash>
+	</game>
+	<game>
+		<path>./arkretrn.zip</path>
+		<name>Arkanoid Returns</name>
+		<desc>Arkanoid Returns © 1997 Taito Corp.
+
+The 3rd chapter in Taito's legendary 1 or 2-player bat and ball game, in which players once again control a paddle and must try to rebound a ball into patterns of bricks to remove them from the play area.
+
+Each level is patrolled by enemies and certain bricks, when hit, release power-ups which then roll down the screen and can be collected by the player.
+
+While the 3rd chapter contains 50 brand new levels for players to fight through, the actual gameplay itself remains unaltered from the first 2 games. The only real differences are a revamp of both the graphics and sound, as well as a number of minor enhancements to the in-game power-ups.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/arkretrn.png</image>
+		<video>./snap/arkretrn.mp4</video>
+		<marquee>./wheel/arkretrn.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Action-Action / Breakout games</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F7EC4F8F6364A61ED9C0097870CFE476</cheevosHash>
+	</game>
+	<game>
+		<path>./shollow.zip</path>
+		<name>Satan's Hollow</name>
+		<desc>Satan's Hollow is a 1- or a 2-player game. When playing this game, the Rocket Launcher is under YOUR control. YOU make it move back and forth across the screen to launch Rockets that will eliminate your attackers. These attackers are displayed in groups, called 'racks', across the top of the screen. The first rack is made up of a small number of attackers. The second rack is made up of a larger number of these attackers. And intermixed with the racks of attackers is a rack with only a single fire-breathing Devil's head. 
+
+The attackers and the Devil's Head will try to wipe out your Rocket Launcher. If they do, you lose one player. In emergencies, you have a Shield which goes all around your Rocket Launcher for a short period of time. It is activated by pushing the Shield button on the control console. BUT BE CAREFUL!! This consumes a lot of power and will only last a VERY SHORT TIME! 
+
+Each attacker eliminated will cause a Bridge Section to appear at the lower left corner of the screen EXCEPT: when there is already a Bridge Section there or when you have a Bridge Section in tow under your Rocket Launcher. Pick these Sections up with your Rocket Launcher and move them over to build a Bridge across the gorge at the right side of the screen leading into the land of SATAN. 
+
+When you complete your Bridge into the land of SATAN, you can cross it and do battle with him. If you win you will be rewarded by increased fire power for your Rocket Launcher. If SATAN defeats you, you lose one player. 
+
+As your skill level increases, the number of attackers is increased and the speed that the fire-breathing Devil's Head moves is increased also. 
+
+Bonus Rocket Launchers are awarded to you periodically throughout the game as you reach or pass certain preselected point values. Each attacker has an assigned point value. 
+
+The object of the game is to HAVE FUN while constantly improving your skills as you play, eliminating as many attackers as possible each time to get the highest score.</desc>
+		<image>./mixart/shollow.png</image>
+		<video>./snap/shollow.mp4</video>
+		<marquee>./wheel/shollow.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<publisher>Bally Midway</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>89570B41B9E3D56D4D8FEA2C39C925C1</cheevosHash>
 	</game>
 </gameList>

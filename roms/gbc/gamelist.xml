@@ -1950,21 +1950,6 @@ The entire action is viewed from a top-down perspective, which zooms out while d
 		<cheevosHash>42AD3639F6ABF013D5DACD4358ABF6CA</cheevosHash>
 		<cheevosId>3646</cheevosId>
 	</game>
-	<game id="36928" source="ScreenScraper.fr">
-		<path>./Halloween Racer (Europe).7z</path>
-		<name>Halloween Racer</name>
-		<desc>Halloween Racer is an racing game with a Halloween theme. It mostly reassembles a karting game, where you choose one of the different characters and race through each track of the game to win the Halloween trophy. To do so the player have to beat the competing monsters for each of the five tracks. On the road there is goodies to collect and traps to avoid to make it more challenging. Before going into the championship each track can be played in practise mode.</desc>
-		<image>./mixart/Halloween Racer (Europe).png</image>
-		<video>./snap/Halloween Racer (Europe).mp4</video>
-		<marquee>./wheel/Halloween Racer (Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Visual Impact</developer>
-		<publisher>Microïds</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<cheevosHash>2E20E9CBFF75913F4E123242A404A2A9</cheevosHash>
-	</game>
 	<game id="36929" source="ScreenScraper.fr">
 		<path>./Hamtaro - Ham-Hams Unite! (USA).7z</path>
 		<name>Hamtaro: Ham-Hams Unite!</name>
@@ -8616,7 +8601,7 @@ The game has a large multiplayer component, allowing up to 4 players at once, wi
 		<video>./snap/Baby Felix - Halloween (Europe).mp4</video>
 		<marquee>./wheel/Baby Felix - Halloween (Europe).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Bit Managers</developer>
 		<publisher>Light &amp; Shadow Productions</publisher>
 		<genre>Platform</genre>
@@ -8625,5 +8610,20 @@ The game has a large multiplayer component, allowing up to 4 players at once, wi
 		<region>eu</region>
 		<cheevosHash>45C4B87D2E3FE86FCCC6941FFD724098</cheevosHash>
 		<cheevosId>5072</cheevosId>
+	</game>
+	<game id="36928" source="ScreenScraper.fr">
+		<path>./Halloween Racer (Europe).7z</path>
+		<name>Halloween Racer</name>
+		<desc>Halloween Racer is an racing game with a Halloween theme. It mostly reassembles a karting game, where you choose one of the different characters and race through each track of the game to win the Halloween trophy. To do so the player have to beat the competing monsters for each of the five tracks. On the road there is goodies to collect and traps to avoid to make it more challenging. Before going into the championship each track can be played in practise mode.</desc>
+		<image>./mixart/Halloween Racer (Europe).png</image>
+		<video>./snap/Halloween Racer (Europe).mp4</video>
+		<marquee>./wheel/Halloween Racer (Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Visual Impact</developer>
+		<publisher>Microïds</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<cheevosHash>2E20E9CBFF75913F4E123242A404A2A9</cheevosHash>
 	</game>
 </gameList>

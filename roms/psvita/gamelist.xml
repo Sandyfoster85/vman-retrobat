@@ -1771,20 +1771,6 @@ Legendary Soundtrack: Once again, the crate diggers at Roll7 have scoured the ai
 		<marquee>./wheel/Touhou Kobuto V - Burst Battle.png</marquee>
 		<video>./snap/Touhou Kobuto V - Burst Battle.mp4</video>
 	</game>
-	<game id="29696">
-		<path>./Home - A Unique Horror Adventure.cmd</path>
-		<name>Home - A Uniqueue Horror Adventure</name>
-		<image>./mixart/Home - A Unique Horror Adventure.jpg</image>
-		<video>./snap/Home - A Unique Horror Adventure.mp4</video>
-		<marquee>./wheel/Home - A Unique Horror Adventure.png</marquee>
-		<developer>Benjamin Rivers</developer>
-		<publisher>Benjamin Rivers</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<md5>6bdffbfc1dbd9830e45651d9e95c0f24</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220821T192651" />
-	</game>
 	<game>
 		<path>./MonsterBag -.cmd</path>
 		<name>MonsterBag</name>
@@ -2191,5 +2177,19 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<players>1</players>
 		<md5>91eebfef994531853a8dab7b15bbea63</md5>
 		<lang>en</lang>
+	</game>
+	<game id="29696">
+		<path>./Home - A Unique Horror Adventure.cmd</path>
+		<name>Home - A Uniqueue Horror Adventure</name>
+		<image>./mixart/Home - A Unique Horror Adventure.jpg</image>
+		<video>./snap/Home - A Unique Horror Adventure.mp4</video>
+		<marquee>./wheel/Home - A Unique Horror Adventure.png</marquee>
+		<developer>Benjamin Rivers</developer>
+		<publisher>Benjamin Rivers</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<md5>6bdffbfc1dbd9830e45651d9e95c0f24</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220821T192651" />
 	</game>
 </gameList>

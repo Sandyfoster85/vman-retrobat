@@ -795,20 +795,6 @@ After flying through space you must perform hand-to-hand combat with an equally 
 		<region>jp</region>
 		<cheevosHash>851ACA1E5D3F0E8D9B1CBEC2E8451831</cheevosHash>
 	</game>
-	<game>
-		<path>./Athletic Ball (Japan).zip</path>
-		<name>Athletic Ball. Ghost Flipper</name>
-		<image>./mixart/Athletic Ball (Japan).png</image>
-		<video>./snap/Athletic Ball (Japan).mp4</video>
-		<marquee>./wheel/Athletic Ball (Japan).png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>ASCII</developer>
-		<publisher>ASCII</publisher>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>0855944D76448A593AC0C05F645AB257</cheevosHash>
-	</game>
 	<game id="94596" source="ScreenScraper.fr">
 		<path>./B.C.'s Quest (Japan).zip</path>
 		<name>B.C.'s Quest for Tires</name>
@@ -1711,5 +1697,19 @@ The backgrounds are noticeably more detailed than in the original version; also,
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>03D381A40BAED2BE60F09A91B52316CC</cheevosHash>
+	</game>
+	<game>
+		<path>./Athletic Ball (Japan).zip</path>
+		<name>Athletic Ball. Ghost Flipper</name>
+		<image>./mixart/Athletic Ball (Japan).png</image>
+		<video>./snap/Athletic Ball (Japan).mp4</video>
+		<marquee>./wheel/Athletic Ball (Japan).png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>ASCII</developer>
+		<publisher>ASCII</publisher>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>0855944D76448A593AC0C05F645AB257</cheevosHash>
 	</game>
 </gameList>

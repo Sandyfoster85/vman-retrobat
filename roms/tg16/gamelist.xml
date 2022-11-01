@@ -992,26 +992,6 @@ The story is bizarre, which fits the concept of the game. A sorceress has plans 
 		<cheevosHash>B87ABA8FAAE39F238A8B2176DAEC96F4</cheevosHash>
 		<cheevosId>2327</cheevosId>
 	</game>
-	<game id="78775" source="ScreenScraper">
-		<path>./Splatterhouse (USA).zip</path>
-		<name>Splatterhouse</name>
-		<desc>This coin-op conversion of Splatterhouse is the second game in the series (after Splatterhouse: Wanpaku Graffiti on the NES) which was later continued on the SEGA Genesis.
-
-Rick and his girlfriend Jennifer enter West Mansion (known as Splatterhouse) to study Dr. West's parapsychology teachings for a school project. After a flash of lightning and a scream, Jennifer is gone, and Rick is left wearing the Terror Mask, which gives the wearer great strength.
-
-Rick must survive seven blood-soaked levels full of corpses, demons, and other disturbing creatures in this arcade side-scrolling beat-em-up. Several weapons are at Rick's disposal throughout the house, such as a meat cleaver, a two by four, and a shotgun. If Rick wants to find Jennifer alive, he must move quickly through the floors of the mansion.... as a happy reunion is not always guaranteed.</desc>
-		<image>./mixart/Splatterhouse (USA).png</image>
-		<video>./snap/Splatterhouse (USA).mp4</video>
-		<marquee>./wheel/Splatterhouse (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900000T000000</releasedate>
-		<developer>Namco Limited</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<cheevosHash>F6690EC0F440CED641718D6BC52E3FBD</cheevosHash>
-		<cheevosId>5268</cheevosId>
-	</game>
 	<game id="78780" source="ScreenScraper">
 		<path>./Super Volleyball (USA).zip</path>
 		<name>Super Volleyball</name>
@@ -1726,7 +1706,7 @@ The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3
 		<image>./mixart/1941 - Counter Attack.png</image>
 		<video>./snap/1941 - Counter Attack.mp4</video>
 		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19910823</releasedate>
 		<developer>Capcom</developer>
 		<publisher>Capcom</publisher>
@@ -1775,5 +1755,25 @@ If you have ever played chuck rock then you know what to expect from this, a bog
 		<region>us</region>
 		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
 		<cheevosId>2291</cheevosId>
+	</game>
+	<game id="78775" source="ScreenScraper">
+		<path>./Splatterhouse (USA).zip</path>
+		<name>Splatterhouse</name>
+		<desc>This coin-op conversion of Splatterhouse is the second game in the series (after Splatterhouse: Wanpaku Graffiti on the NES) which was later continued on the SEGA Genesis.
+
+Rick and his girlfriend Jennifer enter West Mansion (known as Splatterhouse) to study Dr. West's parapsychology teachings for a school project. After a flash of lightning and a scream, Jennifer is gone, and Rick is left wearing the Terror Mask, which gives the wearer great strength.
+
+Rick must survive seven blood-soaked levels full of corpses, demons, and other disturbing creatures in this arcade side-scrolling beat-em-up. Several weapons are at Rick's disposal throughout the house, such as a meat cleaver, a two by four, and a shotgun. If Rick wants to find Jennifer alive, he must move quickly through the floors of the mansion.... as a happy reunion is not always guaranteed.</desc>
+		<image>./mixart/Splatterhouse (USA).png</image>
+		<video>./snap/Splatterhouse (USA).mp4</video>
+		<marquee>./wheel/Splatterhouse (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900000T000000</releasedate>
+		<developer>Namco Limited</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<cheevosHash>F6690EC0F440CED641718D6BC52E3FBD</cheevosHash>
+		<cheevosId>5268</cheevosId>
 	</game>
 </gameList>

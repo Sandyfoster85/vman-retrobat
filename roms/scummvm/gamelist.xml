@@ -224,20 +224,6 @@ Lost Secret of the Rainforest is based on scientifically accurate information. I
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./elvira1.svm/Elvira - Mistress Of The Dark.scummvm</path>
-		<name>Elvira - Mistress Of The Dark</name>
-		<desc>"Can somebody help me find my chest? No really, I'm serious! See, I've been remodeling this cold and moldy castle, right? So how was I to know that I'd wake up Queen Emelda - especially since the old bat croaked hundreds of years ago! Anyway, Queenie-dearie wants to come back from the dead and rule the world - and the only way I can stop her and her monstrous minions is to find a secret scroll of spells, hidden in a big chest somewhere in this huge 800-room castle. Won't you help your poor, innocent little Mistress?" Yours cruelly - Elvira</desc>
-		<image>./mixart/elvira1.png</image>
-		<video>./snap/elvira1.mp4</video>
-		<marquee>./wheel/elvira1.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Horrorsoft</developer>
-		<publisher>Accolade</publisher>
-		<genre>Adventure / Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./elvira2.svm/Elvira 2 - The Jaws Of Cerberus.scummvm</path>
 		<name>Elvira 2 - The Jaws Of Cerberus</name>
 		<desc>An evil force has penetrated our universe, possessing Black Widow Productions in Hollywood. The studio owner, Elvira herself, has vanished. Now three cavernous movie sets - a graveyard, a haunted house, and catacombs - are erupting with the most hideous monsters of gothic horror. Your quest? Find and rescue Elvira from these three craven worlds then fight a final cataclysmic battle with a netherworld entity of awesome dimension and fury!</desc>
@@ -1810,6 +1796,20 @@ And suddenly, you are in the house. You move from room to haunted room, step by 
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./elvira1.svm/Elvira - Mistress Of The Dark.scummvm</path>
+		<name>Elvira - Mistress Of The Dark</name>
+		<desc>"Can somebody help me find my chest? No really, I'm serious! See, I've been remodeling this cold and moldy castle, right? So how was I to know that I'd wake up Queen Emelda - especially since the old bat croaked hundreds of years ago! Anyway, Queenie-dearie wants to come back from the dead and rule the world - and the only way I can stop her and her monstrous minions is to find a secret scroll of spells, hidden in a big chest somewhere in this huge 800-room castle. Won't you help your poor, innocent little Mistress?" Yours cruelly - Elvira</desc>
+		<image>./mixart/elvira1.png</image>
+		<video>./snap/elvira1.mp4</video>
+		<marquee>./wheel/elvira1.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Horrorsoft</developer>
+		<publisher>Accolade</publisher>
+		<genre>Adventure / Point and Click-Adventure</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

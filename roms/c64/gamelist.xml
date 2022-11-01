@@ -609,19 +609,6 @@
 		<image>./mixart/Catalypse.png</image>
 		<video>./snap/Catalypse.mp4</video>
 	</game>
-	<game id="36290" source="ScreenScraper.fr">
-		<path>./Cauldron 2.d64</path>
-		<name>Cauldron II : The Pumpkin Strikes Back</name>
-		<desc>Cauldron II : La Citrouille Contre Attaque sur Commodore 64 est un jeu d'action/plates-formes dont le but est d'aider la dernière citrouille qui ne fut pas détruite par la sorcière à se venger. Vous devez donc acquérir plusieurs ingrédients ainsi qu'un cheveu de la sorcière pour préparer une potion qui annulerait le sortilège qu'elle a lancé. Vous contrôlez donc une citrouille qui réagit comme une balle rebondissante dans un jeu de plates-formes.</desc>
-		<rating>0</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>The RamJam Corporation</developer>
-		<publisher>Palace</publisher>
-		<genre>Platform</genre>
-		<image>./mixart/Cauldron 2.png</image>
-		<marquee>./wheel/Cauldron 2.png</marquee>
-		<video>./snap/Cauldron 2.mp4</video>
-	</game>
 	<game id="36116" source="ScreenScraper.fr">
 		<path>./Cauldron.d64</path>
 		<name>Cauldron</name>
@@ -8191,5 +8178,18 @@ Some versions have a high score table to record your achievements. The second se
 		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game id="36290" source="ScreenScraper.fr">
+		<path>./Cauldron 2.d64</path>
+		<name>Cauldron II : The Pumpkin Strikes Back</name>
+		<desc>Cauldron II : La Citrouille Contre Attaque sur Commodore 64 est un jeu d'action/plates-formes dont le but est d'aider la dernière citrouille qui ne fut pas détruite par la sorcière à se venger. Vous devez donc acquérir plusieurs ingrédients ainsi qu'un cheveu de la sorcière pour préparer une potion qui annulerait le sortilège qu'elle a lancé. Vous contrôlez donc une citrouille qui réagit comme une balle rebondissante dans un jeu de plates-formes.</desc>
+		<image>./mixart/Cauldron 2.png</image>
+		<video>./snap/Cauldron 2.mp4</video>
+		<marquee>./wheel/Cauldron 2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>The RamJam Corporation</developer>
+		<publisher>Palace</publisher>
+		<genre>Platform</genre>
 	</game>
 </gameList>
