@@ -37,21 +37,6 @@
 		<players>1</players>
 		<genreid>1536</genreid>
 	</game>
-	<game id="37493" source="ScreenScraper.fr">
-		<path>./vcop.zip</path>
-		<name>Virtua Cop</name>
-		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
-		<image>./mixart/vcop.png</image>
-		<video>./snap/vcop.mp4</video>
-		<marquee>./wheel/vcopa.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<genreid>260</genreid>
-	</game>
 	<game id="37501" source="ScreenScraper.fr">
 		<path>./vstriker.zip</path>
 		<name>Virtua Striker</name>
@@ -518,6 +503,21 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
 		<lang>en</lang>
 		<region>us</region>
+		<genreid>260</genreid>
+	</game>
+	<game id="37493" source="ScreenScraper.fr">
+		<path>./vcop.zip</path>
+		<name>Virtua Cop</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<image>./mixart/vcop.png</image>
+		<video>./snap/vcop.mp4</video>
+		<marquee>./wheel/vcopa.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
 		<genreid>260</genreid>
 	</game>
 </gameList>

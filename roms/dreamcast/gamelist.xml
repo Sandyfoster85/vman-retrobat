@@ -5729,27 +5729,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<region>us</region>
 		<cheevosHash>E7689CCF1B1B24E5CB37957D75061434</cheevosHash>
 	</game>
-	<game id="360066" source="ScreenScraper.fr">
-		<path>./Rocketron.cdi</path>
-		<name>Rocketron</name>
-		<desc>Fly through the sky! Rain down fire on the enemy forces from above! 
-Use your rocket musket and 8 different types of weapons to boost through the sky, charge enemies, and leap over pit falls as you investigate a new mysterious enemy. 
-Enjoy solid combat and simple non-linear exploration in this original shooter! 
- 
-The year is 2049. A mysterious group known as “The Congregation of Gogoh” has incited global insurrection on the cyberhuman planet of Metnal 28 as part of a nefarious plot for world domination. A galactic peacekeeping group that operates under the name “ARGO EXPRESS” has sent a cybernetic warrior known as “B.L.A.M” armed with a new weapon, a “rocket musket”, to try and stop them…</desc>
-		<image>./mixart/Rocketron.png</image>
-		<video>./snap/Rocketron.mp4</video>
-		<marquee>./wheel/Rocketron.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20211101T000000</releasedate>
-		<developer>Astro Port</developer>
-		<publisher>Josh Prod</publisher>
-		<genre>Platform-Platform / Shooter Scrolling-Action-Action / Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>257</genreid>
-	</game>
 	<game id="13556" source="ScreenScraper.fr">
 		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
 		<name>Virtua Tennis</name>
@@ -5784,5 +5763,27 @@ The year is 2049. A mysterious group known as “The Congregation of Gogoh” ha
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>315B07880E2F597A6BCF5CFD5E817BBB</cheevosHash>
+	</game>
+	<game id="360066" source="ScreenScraper.fr">
+		<path>./Rocketron.cdi</path>
+		<name>Rocketron</name>
+		<desc>Fly through the sky! Rain down fire on the enemy forces from above! 
+Use your rocket musket and 8 different types of weapons to boost through the sky, charge enemies, and leap over pit falls as you investigate a new mysterious enemy. 
+Enjoy solid combat and simple non-linear exploration in this original shooter! 
+ 
+The year is 2049. A mysterious group known as “The Congregation of Gogoh” has incited global insurrection on the cyberhuman planet of Metnal 28 as part of a nefarious plot for world domination. A galactic peacekeeping group that operates under the name “ARGO EXPRESS” has sent a cybernetic warrior known as “B.L.A.M” armed with a new weapon, a “rocket musket”, to try and stop them…</desc>
+		<image>./mixart/Rocketron.png</image>
+		<video>./snap/Rocketron.mp4</video>
+		<marquee>./wheel/Rocketron.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20211101T000000</releasedate>
+		<developer>Astro Port</developer>
+		<publisher>Josh Prod</publisher>
+		<genre>Platform-Platform / Shooter Scrolling-Action-Action / Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>257</genreid>
 	</game>
 </gameList>

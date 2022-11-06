@@ -28499,28 +28499,6 @@ The game features ten playable characters (Demitri Maximoff, Jon Talbain, Victor
 		<region>us</region>
 		<cheevosHash>D5080FDA9BA0F50FDA3A960E8C386BA4</cheevosHash>
 	</game>
-	<game id="41054">
-		<path>./duckhunt.zip</path>
-		<name>Vs. Duck Hunt</name>
-		<desc>The arcade version of Duck Hunt has many differences compared to the NES version.
-It has more animations, a slightly different palette and zero game modes. Instead the game starts with the duck hunting game (with multiple ducks, just like Game B on the NES version), the second stage is the clay pigeon shooting game (the dog makes an appearance if you miss), a bonus stage follows where you can shoot lots of ducks for bonus points (as an even bigger bonus you can shoot the dog to make him appear with a cast and crutches and yell at you), then both levels and bonus repeat again followed by an intermission (called "Break Time") where the dog is chasing a duck.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/duckhunt.png</image>
-		<video>./snap/duckhunt.mp4</video>
-		<marquee>./wheel/duckhunt.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>nintendo</arcadesystemname>
-		<players>2</players>
-		<md5>979397b8074c83fa30f85ca5674a95dc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>165AB0219D76757208FD8319357D4DF0</cheevosHash>
-	</game>
 	<game>
 		<path>./dunkmnia.zip</path>
 		<name>Dunk Mania</name>
@@ -71600,28 +71578,6 @@ ARES, god of war, gave two young men Wings of Love and Courage and entrusted the
 		<region>us</region>
 		<cheevosHash>6A99DDBBBA15FDA5EB09C0952101C20E</cheevosHash>
 	</game>
-	<game id="41875">
-		<path>./jdredd.zip</path>
-		<name>Judge Dredd</name>
-		<desc>The game was not based on the movie - in fact, it was started long before the programmers/designers knew the movie. During its development, it underwent three name changes (two of which were completely unrelated) before finally returning to being a Dredd-based game!</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/jdredd.png</image>
-		<video>./snap/jdredd.mp4</video>
-		<marquee>./wheel/jdredd.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19971126T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight / 3D</genre>
-		<arcadesystemname>acclaim</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>13311ebf448d4bf27ae6d94e899af188</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
-	</game>
 	<game>
 		<path>./aliensyn.zip</path>
 		<name>Alien Syndrome</name>
@@ -72906,5 +72862,49 @@ The object of the game is to HAVE FUN while constantly improving your skills as 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>89570B41B9E3D56D4D8FEA2C39C925C1</cheevosHash>
+	</game>
+	<game id="41054">
+		<path>./duckhunt.zip</path>
+		<name>Vs. Duck Hunt</name>
+		<desc>The arcade version of Duck Hunt has many differences compared to the NES version.
+It has more animations, a slightly different palette and zero game modes. Instead the game starts with the duck hunting game (with multiple ducks, just like Game B on the NES version), the second stage is the clay pigeon shooting game (the dog makes an appearance if you miss), a bonus stage follows where you can shoot lots of ducks for bonus points (as an even bigger bonus you can shoot the dog to make him appear with a cast and crutches and yell at you), then both levels and bonus repeat again followed by an intermission (called "Break Time") where the dog is chasing a duck.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/duckhunt.png</image>
+		<video>./snap/duckhunt.mp4</video>
+		<marquee>./wheel/duckhunt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>nintendo</arcadesystemname>
+		<players>2</players>
+		<md5>979397b8074c83fa30f85ca5674a95dc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>165AB0219D76757208FD8319357D4DF0</cheevosHash>
+	</game>
+	<game id="41875">
+		<path>./jdredd.zip</path>
+		<name>Judge Dredd</name>
+		<desc>The game was not based on the movie - in fact, it was started long before the programmers/designers knew the movie. During its development, it underwent three name changes (two of which were completely unrelated) before finally returning to being a Dredd-based game!</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/jdredd.png</image>
+		<video>./snap/jdredd.mp4</video>
+		<marquee>./wheel/jdredd.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19971126T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight / 3D</genre>
+		<arcadesystemname>acclaim</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>13311ebf448d4bf27ae6d94e899af188</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
 	</game>
 </gameList>
