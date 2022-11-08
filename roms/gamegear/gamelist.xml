@@ -2876,23 +2876,6 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>eu</region>
 		<cheevosHash>D95D381C6AFFB8345EE5457655E393D1</cheevosHash>
 	</game>
-	<game id="65820" source="ScreenScraper.fr">
-		<path>./Beavis and Butt-head (USA).7z</path>
-		<name>Beavis and Butt-head</name>
-		<desc>We were gonna go to this GWAR concert. Then Anderson's stupid dog, like, chewed up the tickets. Now you gotta help us find the pieces or somebody's gonna pay for it. Probably Beavis. Van Driessen tried to teach us, like, history. But we outsmarted him. Couch fishing rules. Unless there's something good on TV or something. Would you like flies to go with that mouseburger? Heh heh heh heh. At the Turbo Mall, you can meet wild creatures and stuff. Like us.</desc>
-		<image>./mixart/Beavis and Butt-head (USA).png</image>
-		<video>./snap/Beavis and Butt-head (USA).mp4</video>
-		<marquee>./wheel/Beavis and Butt-head (USA).png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>NuFX</developer>
-		<publisher>Viacom New Media</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F2F728487E55EEDB774C212796C554A4</cheevosHash>
-	</game>
 	<game id="13032" source="ScreenScraper.fr">
 		<path>./Bonkers Wax Up! (USA, Europe).7z</path>
 		<name>Bonkers Wax Up!</name>
@@ -4799,5 +4782,22 @@ On each level you must collect five stars in order to get access to the bonus le
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>B6FB54E60F8992DAAA35E98A712FF2CB</cheevosHash>
+	</game>
+	<game id="65820" source="ScreenScraper.fr">
+		<path>./Beavis and Butt-head (USA).7z</path>
+		<name>Beavis and Butt-head</name>
+		<desc>We were gonna go to this GWAR concert. Then Anderson's stupid dog, like, chewed up the tickets. Now you gotta help us find the pieces or somebody's gonna pay for it. Probably Beavis. Van Driessen tried to teach us, like, history. But we outsmarted him. Couch fishing rules. Unless there's something good on TV or something. Would you like flies to go with that mouseburger? Heh heh heh heh. At the Turbo Mall, you can meet wild creatures and stuff. Like us.</desc>
+		<image>./mixart/Beavis and Butt-head (USA).png</image>
+		<video>./snap/Beavis and Butt-head (USA).mp4</video>
+		<marquee>./wheel/Beavis and Butt-head (USA).png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>NuFX</developer>
+		<publisher>Viacom New Media</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F2F728487E55EEDB774C212796C554A4</cheevosHash>
 	</game>
 </gameList>

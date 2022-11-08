@@ -1478,22 +1478,6 @@ Swords in game can be customized and leveled up to increase its length, width, a
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Everybody's Golf - World Tour.m3u</path>
-		<name>Everybody's Golf - World Tour</name>
-		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
-		<image>./mixart/Everybody's Golf - World Tour.png</image>
-		<video>./snap/Everybody's Golf - World Tour.mp4</video>
-		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20081125T000000</releasedate>
-		<developer>Clap Hanz</developer>
-		<publisher>Sony</publisher>
-		<genre>Sports, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Castlevania - Harmony of Despair (USA).m3u</path>
 		<name>Castlevania - Harmony of Despair</name>
 		<desc>Castlevania: Harmony of Despair is a crossover platform-adventure game that features a new map system which allows players to see the current quest map's entire setup. Gameplay includes a co-op mode (Supports local and online multiplayer) which plays like the "Boss Rush Mode" of previous 2D Castlevania games, but with several rooms and items to find, culminating in a boss to fight. It also includes a versus mode, with battle occurring between players. Some bosses are able to attack players on their way to the fight. The game features playable characters such as Alucard, Soma Cruz, Jonathan Morris, Shanoa and Charlotte Aulin, all from previous 2D Castlevania games.</desc>
@@ -1752,7 +1736,7 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<video>./snap/Might &amp; Magic Clash Of Heroes.mp4</video>
 		<marquee>./wheel/Might &amp; Magic Clash Of Heroes.png</marquee>
 		<rating>0.84</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="25404" source="ScreenScraper.fr">
@@ -1912,7 +1896,7 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<video>./snap/Ski-Doo Snowmobile Challenge (USA).mp4</video>
 		<marquee>./wheel/Ski-Doo Snowmobile Challenge (USA) (En,Fr).png</marquee>
 		<rating>0.64</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="25169" source="ScreenScraper.fr">
@@ -1954,7 +1938,7 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<video>./snap/TMNT Turtles In Time Re-Shelled.mp4</video>
 		<marquee>./wheel/TMNT Turtles In Time Re-Shelled.png</marquee>
 		<rating>0.55</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1985,6 +1969,22 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<publisher>SEGA</publisher>
 		<genre>Fight</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Everybody's Golf - World Tour.m3u</path>
+		<name>Everybody's Golf - World Tour</name>
+		<desc>The fun and addicting Hot Shots Golf franchise tees it up on PlayStation 3. High Definition detail of course graphics accompanied with new, more accurate golf physics brings a revolutionary new level of immersion to the already established signature style of pick-up and play gameplay. The game features vibrant new courses, zany new characters and a wealth of new online features.</desc>
+		<image>./mixart/Everybody's Golf - World Tour.png</image>
+		<video>./snap/Everybody's Golf - World Tour.mp4</video>
+		<marquee>./wheel/Everybody's Golf - World Tour.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20081125T000000</releasedate>
+		<developer>Clap Hanz</developer>
+		<publisher>Sony</publisher>
+		<genre>Sports, Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

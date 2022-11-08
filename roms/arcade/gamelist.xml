@@ -33990,25 +33990,6 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 		<cheevosHash>45B9057A1600DDB419CF0AC9F9F0AC03</cheevosHash>
 	</game>
 	<game>
-		<path>./gt2k.zip</path>
-		<name>Golden Tee 2K</name>
-		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
-		<emulator>angle</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gt2k.png</image>
-		<video>./snap/gt2k.mp4</video>
-		<marquee>./wheel/gt2k.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Incredible Technologies</developer>
-		<publisher>Incredible Technologies</publisher>
-		<genre>Sports-Sports / Golf</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>66BBA5F1EA3DDFD103B4B9737FE30F20</cheevosHash>
-	</game>
-	<game>
 		<path>./gt3d.zip</path>
 		<name>Golden Tee 3D Golf</name>
 		<emulator>angle</emulator>
@@ -72906,5 +72887,24 @@ It has more animations, a slightly different palette and zero game modes. Instea
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
+	</game>
+	<game>
+		<path>./gt2k.zip</path>
+		<name>Golden Tee 2K</name>
+		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
+		<emulator>angle</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gt2k.png</image>
+		<video>./snap/gt2k.mp4</video>
+		<marquee>./wheel/gt2k.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Incredible Technologies</developer>
+		<publisher>Incredible Technologies</publisher>
+		<genre>Sports-Sports / Golf</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>66BBA5F1EA3DDFD103B4B9737FE30F20</cheevosHash>
 	</game>
 </gameList>

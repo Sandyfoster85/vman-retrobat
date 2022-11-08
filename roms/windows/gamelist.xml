@@ -3810,22 +3810,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./A Little Golf Journey.lnk</path>
-		<name>A Little Golf Journey</name>
-		<desc>A Little Golf Journey is a relaxing adventure golf experience played on beautiful diorama courses across a variety of destinations.</desc>
-		<image>./mixart/A Little Golf Journey.jpg</image>
-		<video>./snap/A Little Golf Journey.mp4</video>
-		<marquee>./wheel/A Little Golf Journey.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20210929T000000</releasedate>
-		<developer>Okidokico</developer>
-		<publisher>Playtonic Friends</publisher>
-		<genre>Adventure, Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Axiom Verge 2.lnk</path>
 		<name>Axiom Verge 2</name>
 		<desc>Life. Afterlife. Real. Virtual. Dream. Nightmare. It’s a thin line. It’s Axiom Verge 2. The long awaited sequel to Axiom Verge, Axiom Verge 2 expands on the universe with completely new characters, abilities, and gameplay.</desc>
@@ -8059,22 +8043,6 @@ Use occult artifacts to unleash unearthly powers and surprise your enemies.</des
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cursed to Golf.lnk</path>
-		<name>Cursed to Golf</name>
-		<desc>Cursed to Golf is a golf-like adventure where every shot counts. Players are tasked with making it out of Golf Purgatory to become a Golfing Legend. With insane hazards, otherworldly power-ups and tons of replayability, will you make it back alive or will you forever be… Cursed to Golf!?</desc>
-		<image>./mixart/Cursed to Golf.jpg</image>
-		<video>./snap/Cursed to Golf.mp4</video>
-		<marquee>./wheel/Cursed to Golf.png</marquee>
-		<rating>3.5</rating>
-		<releasedate>20220926T000000</releasedate>
-		<developer>Chuhai Labs</developer>
-		<publisher>Thunderful Publishing</publisher>
-		<genre>Golf</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./PAC-MAN WORLD Re-PAC.lnk</path>
 		<name>PAC-MAN WORLD Re-PAC</name>
 		<desc>PAC-MAN arrives home on his birthday to find the Ghosts have kidnapped PAC-MAN’s family &amp; friends and ruined his party! Off to the rescue, PAC-MAN sets out to Ghost Island!</desc>
@@ -9380,5 +9348,37 @@ This game is ported from an older arcade version.</desc>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./A Little Golf Journey.lnk</path>
+		<name>A Little Golf Journey</name>
+		<desc>A Little Golf Journey is a relaxing adventure golf experience played on beautiful diorama courses across a variety of destinations.</desc>
+		<image>./mixart/A Little Golf Journey.jpg</image>
+		<video>./snap/A Little Golf Journey.mp4</video>
+		<marquee>./wheel/A Little Golf Journey.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20210929T000000</releasedate>
+		<developer>Okidokico</developer>
+		<publisher>Playtonic Friends</publisher>
+		<genre>Adventure, Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cursed to Golf.lnk</path>
+		<name>Cursed to Golf</name>
+		<desc>Cursed to Golf is a golf-like adventure where every shot counts. Players are tasked with making it out of Golf Purgatory to become a Golfing Legend. With insane hazards, otherworldly power-ups and tons of replayability, will you make it back alive or will you forever be… Cursed to Golf!?</desc>
+		<image>./mixart/Cursed to Golf.jpg</image>
+		<video>./snap/Cursed to Golf.mp4</video>
+		<marquee>./wheel/Cursed to Golf.png</marquee>
+		<rating>3.5</rating>
+		<releasedate>20220926T000000</releasedate>
+		<developer>Chuhai Labs</developer>
+		<publisher>Thunderful Publishing</publisher>
+		<genre>Golf</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

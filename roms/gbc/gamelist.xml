@@ -2990,23 +2990,6 @@ Besides exhibition games, there are season and playoff modes with password suppo
 		<players>1</players>
 		<cheevosHash>D2711FF066F40C4E6C471B79DA0F08B7</cheevosHash>
 	</game>
-	<game id="37123" source="ScreenScraper.fr">
-		<path>./Mario Golf (USA).7z</path>
-		<name>Mario Golf</name>
-		<desc>Mario Golf on Game Boy Color isn't a straight port of the N64 game - it's a totally different game in its own right. It is a combination of a golf game and an RPG. As in an RPG, you choose your character at the beginning, with various strengths and weaknesses, and throughout the course of the game, your character gains experience points through winning matches or playing mini-games. Experience points can be distributed to various skills, such as putting, which makes it easier for you to do well. There are quite a few skills, and no two characters you can create will play in exactly the same way.
-
-Although the story mode is the main part of the game, there's quite a few other modes to keep you busy, like Tournament, Match Game, Stroke, Training, and the two-player mode via link cable. It comes with a dictionary of all the golf terms you'll need, and an extensive range of statistics on your player.</desc>
-		<image>./mixart/Mario Golf (USA).png</image>
-		<video>./snap/Mario Golf (USA).mp4</video>
-		<rating>0.8</rating>
-		<releasedate>19990630T000000</releasedate>
-		<developer>Camelot Software Planning</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<cheevosHash>83F791645CE282093A9D59C121FFC49D</cheevosHash>
-		<cheevosId>1403</cheevosId>
-	</game>
 	<game id="36954" source="ScreenScraper.fr">
 		<path>./Mario Tennis (USA).7z</path>
 		<name>Mario Tennis</name>
@@ -8619,11 +8602,29 @@ The game has a large multiplayer component, allowing up to 4 players at once, wi
 		<video>./snap/Halloween Racer (Europe).mp4</video>
 		<marquee>./wheel/Halloween Racer (Europe).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Visual Impact</developer>
 		<publisher>Microïds</publisher>
 		<genre>Race, Driving</genre>
 		<players>1</players>
 		<cheevosHash>2E20E9CBFF75913F4E123242A404A2A9</cheevosHash>
+	</game>
+	<game id="37123" source="ScreenScraper.fr">
+		<path>./Mario Golf (USA).7z</path>
+		<name>Mario Golf</name>
+		<desc>Mario Golf on Game Boy Color isn't a straight port of the N64 game - it's a totally different game in its own right. It is a combination of a golf game and an RPG. As in an RPG, you choose your character at the beginning, with various strengths and weaknesses, and throughout the course of the game, your character gains experience points through winning matches or playing mini-games. Experience points can be distributed to various skills, such as putting, which makes it easier for you to do well. There are quite a few skills, and no two characters you can create will play in exactly the same way.
+
+Although the story mode is the main part of the game, there's quite a few other modes to keep you busy, like Tournament, Match Game, Stroke, Training, and the two-player mode via link cable. It comes with a dictionary of all the golf terms you'll need, and an extensive range of statistics on your player.</desc>
+		<image>./mixart/Mario Golf (USA).png</image>
+		<video>./snap/Mario Golf (USA).mp4</video>
+		<marquee>./wheel/Mario Golf (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990630T000000</releasedate>
+		<developer>Camelot Software Planning</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<cheevosHash>83F791645CE282093A9D59C121FFC49D</cheevosHash>
+		<cheevosId>1403</cheevosId>
 	</game>
 </gameList>

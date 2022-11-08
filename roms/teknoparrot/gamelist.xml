@@ -1414,22 +1414,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./SDR.parrot</path>
-		<name>Dream Raiders</name>
-		<desc>Dive into a dream world of adventures! Climb on board this beautifully modelled dream machine and be transported to a new level of excitement. Choose your dream ride and raid as many treasures as you can whilst fending off attacks by strange and incredible enemies with your Dream Blasters. Successfully complete your raid and be carried off into new realms in thrilling bonus stages. Nine unique dream experiences await you in this fantastic new deluxe game from Sega. Ride a dragon, pilot a UFO, get on horseback or put on your super suits and head for the skies! Dream Raiders features an exciting mix of exhilarating experiences that everyone will enjoy. The combination of intense motion, wind, sound and visuals combine to give players an arcade experience like none other!</desc>
-		<image>./mixart/Dream Raiders.png</image>
-		<video>./snap/Dream Raiders.mp4</video>
-		<marquee>./wheel/Dream Raiders.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20121201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./StarWars.parrot</path>
 		<name>Star Wars Battle Pod</name>
 		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
@@ -1832,22 +1816,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./2Spicy.parrot</path>
-		<name>Too Spicy</name>
-		<desc>2 Spicy is a cover based third person shooter made for arcades. The game is built around one-on-one fights between two players and is controlled with light guns and pedals. Pointing the gun at the screen allows the player to fire at the enemy while pointing away from the screen causes the player character to hide behind a cover such as an oil drum or a pillar. Moving between different covers is done by stepping on one of two pedals, causing the character to move either left or right. Stepping on a pedal twice allows the player to do jump shots when aiming at the screen and a dodge when aiming away. Aiming on the enemy for a certain amount of time causes the camera to zoom in and the player's attack power will be increased and it is possible to do a head shot for a large amount of damage.</desc>
-		<image>./mixart/Too Spicy.png</image>
-		<video>./snap/Too Spicy.mp4</video>
-		<marquee>./wheel/Too Spicy.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Batman.parrot</path>
 		<name>Batman</name>
 		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
@@ -2119,6 +2087,39 @@ This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade ga
 		<publisher>SEGA RingEdge</publisher>
 		<genre>Sports</genre>
 		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./2Spicy.parrot</path>
+		<name>Too Spicy</name>
+		<desc>2 Spicy is a cover based third person shooter made for arcades. The game is built around one-on-one fights between two players and is controlled with light guns and pedals. Pointing the gun at the screen allows the player to fire at the enemy while pointing away from the screen causes the player character to hide behind a cover such as an oil drum or a pillar. Moving between different covers is done by stepping on one of two pedals, causing the character to move either left or right. Stepping on a pedal twice allows the player to do jump shots when aiming at the screen and a dodge when aiming away. Aiming on the enemy for a certain amount of time causes the camera to zoom in and the player's attack power will be increased and it is possible to do a head shot for a large amount of damage.</desc>
+		<image>./mixart/Too Spicy.png</image>
+		<video>./snap/Too Spicy.mp4</video>
+		<marquee>./wheel/Too Spicy.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./SDR.parrot</path>
+		<name>Dream Raiders</name>
+		<desc>Dive into a dream world of adventures! Climb on board this beautifully modelled dream machine and be transported to a new level of excitement. Choose your dream ride and raid as many treasures as you can whilst fending off attacks by strange and incredible enemies with your Dream Blasters. Successfully complete your raid and be carried off into new realms in thrilling bonus stages. Nine unique dream experiences await you in this fantastic new deluxe game from Sega. Ride a dragon, pilot a UFO, get on horseback or put on your super suits and head for the skies! Dream Raiders features an exciting mix of exhilarating experiences that everyone will enjoy. The combination of intense motion, wind, sound and visuals combine to give players an arcade experience like none other!</desc>
+		<image>./mixart/Dream Raiders.png</image>
+		<video>./snap/Dream Raiders.mp4</video>
+		<marquee>./wheel/Dream Raiders.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20121201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
