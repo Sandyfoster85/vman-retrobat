@@ -1737,25 +1737,6 @@ If you have ever played chuck rock then you know what to expect from this, a bog
 		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
 		<cheevosId>2279</cheevosId>
 	</game>
-	<game>
-		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
-		<name>Devil's Crush</name>
-		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
-		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
-		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
-		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19900000T000000</releasedate>
-		<developer>Naxat Soft</developer>
-		<publisher>NEC Corporation</publisher>
-		<genre>Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
-		<cheevosId>2291</cheevosId>
-	</game>
 	<game id="78775" source="ScreenScraper">
 		<path>./Splatterhouse (USA).zip</path>
 		<name>Splatterhouse</name>
@@ -1775,5 +1756,24 @@ Rick must survive seven blood-soaked levels full of corpses, demons, and other d
 		<players>1</players>
 		<cheevosHash>F6690EC0F440CED641718D6BC52E3FBD</cheevosHash>
 		<cheevosId>5268</cheevosId>
+	</game>
+	<game>
+		<path>./Devil's Crush - Naxat Pinball (USA).zip</path>
+		<name>Devil's Crush</name>
+		<desc>Imagine an adventure game in the format of pinball, and you get Dragon's Fury. Your hero is a small silver ball, and your battlefield is a three-tiered pinball machine. Using your ball, you can defeat monsters, rack up points, and enter bonus stages. If you play with enough skill, you can trigger all sorts of point-accumulating bonuses. If you get one billion points, you get to fight the final boss and view the ending to the game.</desc>
+		<image>./mixart/Devil's Crush - Naxat Pinball (USA).png</image>
+		<video>./snap/Devil's Crush - Naxat Pinball (USA).mp4</video>
+		<marquee>./wheel/Devil's Crush - Naxat Pinball (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19900000T000000</releasedate>
+		<developer>Naxat Soft</developer>
+		<publisher>NEC Corporation</publisher>
+		<genre>Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
+		<cheevosId>2291</cheevosId>
 	</game>
 </gameList>

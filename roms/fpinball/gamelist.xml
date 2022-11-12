@@ -442,16 +442,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Doctor Who BETA.fpt</path>
-		<name>Doctor Who BETA</name>
-		<desc>Flipper Doctor Who</desc>
-		<image>./mixart/Doctor Who BETA.png</image>
-		<video>./snap/Doctor Who BETA.mp4</video>
-		<marquee>./wheel/Doctor Who BETA.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Elton (3.0).fpt</path>
 		<name>Elton (3.0)</name>
 		<desc>Flipper Elton</desc>
@@ -3525,17 +3515,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Avatar Collector's Edition 1.05.fpt</path>
-		<name>Avatar Collector's Edition 1.05</name>
-		<desc>Flipper Avatar Collector's Edition</desc>
-		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
-		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
-		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./1 Player Pinball Action.fpt</path>
 		<name>1 Player Pinball Action</name>
 		<desc>Flipper 1 Player Pinball Action</desc>
@@ -4845,22 +4824,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
-		<name>Blade Runner ULTIMATE Pro 1.04</name>
-		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
-		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
-		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
-		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Castlevania Symphony of the Night (Original) (2015) (1.1).fpt</path>
 		<name>Castlevania Symphony of the Night (Original) (2015) (1.1)</name>
 		<desc>Flipper Castlevania Symphony of the Night (Original) (2015) (1.1)</desc>
@@ -4924,12 +4887,65 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Avatar Collector's Edition 1.05.fpt</path>
+		<name>Avatar Collector's Edition 1.05</name>
+		<desc>Flipper Avatar Collector's Edition</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar Collector's Edition 1.05.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
+		<name>Blade Runner ULTIMATE Pro 1.04</name>
+		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
+		<image>./mixart/Blade Runner ULTIMATE Pro 1.04.jpg</image>
+		<video>./snap/Blade Runner ULTIMATE Pro 1.04.mp4</video>
+		<marquee>./wheel/Blade Runner ULTIMATE Pro 1.04.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Doctor Who BETA.fpt</path>
+		<name>Doctor Who BETA</name>
+		<desc>Flipper Doctor Who</desc>
+		<image>./mixart/Doctor Who BETA.png</image>
+		<video>./snap/Doctor Who BETA.mp4</video>
+		<marquee>./wheel/Doctor Who BETA.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Dokken.fpt</path>
 		<name>Dokken</name>
 		<desc>Flipper Dokken Music Band</desc>
 		<image>./mixart/Dokken.png</image>
 		<video>./snap/Dokken.mp4</video>
 		<marquee>./wheel/Dokken.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX).fpt</path>
+		<name>Halloween - Big Bloody Mike (FizX)</name>
+		<desc>Flipper Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Halloween_ULTIMATE Pro 1.02.jpg</image>
+		<video>./snap/Halloween_ULTIMATE Pro 1.02.mp4</video>
+		<marquee>./wheel/Halloween_ULTIMATE Pro 1.02.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

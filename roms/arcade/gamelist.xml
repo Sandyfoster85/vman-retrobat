@@ -17405,71 +17405,6 @@ Along the way, players must refuel their patrol car (by driving through filling 
 		<cheevosHash>F588A6DC134CC766091F952DC73817C2</cheevosHash>
 	</game>
 	<game>
-		<path>./arabfgt.zip</path>
-		<name>Arabian Fight</name>
-		<desc>Arabian Fight is an up-to-4 players beat'em up game with 4 selectable warriors who battle hordes of soldiers and mythical beings. Plenty of sprite-scaling action from foreground to background. This game consists all 7 stages.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/arabfgt.png</image>
-		<video>./snap/arabfgt.mp4</video>
-		<marquee>./wheel/arabfgt.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>55842630A783126DAB98A2A8E28FD479</cheevosHash>
-	</game>
-	<game>
-		<path>./arabian.zip</path>
-		<name>Arabian</name>
-		<desc>You'll have 1001 hours of fun with the ARABIAN upright game! You are the adventurous Arabian prince, and your goal is to rescue the princess from her palace. Use the joystick control and the KICK button to move through perilous passages. Sail the seas, crawl in caves, and fly magic carpets - you'll be challenged by 4 increasingly hard waves of play! Score points on the way for picking up the letters in A-R-A-B-I-A-N, and get a bonus if you pick them up in order!
-
-Arabian is a 'video book' with a happy ending! The attract mode introduces the story, and animated storybook 'pages' let you experience the Arabian Prince's adventures. Use the 8-position joystick to jump, super-jump, walk, crawl, or climb in all directions. Tap either KICK button (are you right- or left-handed?) to kick your enemies out of the way.
-
-The player controls a young Arabian Prince who must rescue his Princess from the castle tower where she is being held prisoner. Evil Genies in brass jugs, swooping Rocs, and purple ghostly creatures called Oscars will try to stop him along the way. The Prince scores points for kicking Oscars or Rocs, picking up lettered jugs, or spelling A-R-A-B-I-A-N. The Prince loses a life when he's hit by a smokeball, falls off a ledge, flying carpet or vine, or gets caught (touched) by a Genie, Oscar, or Roc.
-
-The Prince must successfully complete 4 levels to rescue the Princess (4 levels or 'pages' equals 1 section). Each level is introduced with the turning of a page, which shows a distant view of the upcoming playfield. Each playfield has 7 lettered jugs that must be picked up before the player can advance to the next level, but he must avoid or KICK evil Genies, Oscars, and Rocs that will try to stop him.</desc>
-		<image>./mixart/arabian.png</image>
-		<video>./snap/arabian.mp4</video>
-		<marquee>./wheel/arabian.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5CC2F380CB988961171A68F91C5D1D30</cheevosHash>
-	</game>
-	<game>
-		<path>./arabianm.zip</path>
-		<name>Arabian Magic</name>
-		<desc>Arabian Magic is a scrolling beat-em-up for one to four players, set in the mythical world of The Arabian Nights. A long time ago, an evil wizard has taken over the peaceful kingdom of Shahariyard and used sorcery to transform its king into a Monkey. The player must defeat each of the game's seven Guardians to reclaim the 'Jewel of Seven Colours' and release the king from the evil hex. 
-
-Each player can select from four distinctive characters: Prince Lassid, Princess Lisa, Sinbad or Afshael. Each character carries a primary weapon - Prince Lassid and Sinbad carry swords, Princess Lisa a magical veil and Afshael a mace. In addition to the weapons, players can also summon a magical attack in the form of a huge genie. The genie will only appear for a few seconds but during that time, players have control over the genie and can steer him towards enemies. 
-
-Arabian Magic has seven different stages with one of the powerful guardians awaiting the player at the end of each level. Each guardian, once defeated, will drop a jewel which forms a part of the Jewel of Seven Colours. Guardians, once defeated, will join the player and become a Genie. Each level is littered with vases and wooden chests which, when broken, reveal treasure items and power-ups. 
-
-The game ends when the player has recovered the Jewel of Seven Colours, saved the King (making him human in the process) and restored peace to Shahariyard.</desc>
-		<image>./mixart/arabianm.png</image>
-		<video>./snap/arabianm.mp4</video>
-		<marquee>./wheel/arabianm.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CE40A059058AA84460A42D4F5E2D6978</cheevosHash>
-	</game>
-	<game>
 		<path>./arbalest.zip</path>
 		<name>Arbalester</name>
 		<desc>A vertically scrolling shoot'em up game.</desc>
@@ -19599,25 +19534,6 @@ This game actually plays 'Rydeen' from the Yellow Magic Orchestra, as well as 'H
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>1B52F33E528449C4F74F17D016F9A5BB</cheevosHash>
-	</game>
-	<game>
-		<path>./beezer.zip</path>
-		<name>Beezer</name>
-		<desc>Players trap dangerous killer bees. The precise trackball control is used to maneuver through the honeycomb pushing gates to create six sided traps. The bees are lured into the trap and shut in. Eating bee eggs before they hatch gives Beezer super powers to eat bees. However, there are dangers of getting stung or trapped. A winning play strategy keeps players coming back to Beezer.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/beezer.png</image>
-		<video>./snap/beezer.mp4</video>
-		<marquee>./wheel/beezer.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Tong Electronic</developer>
-		<publisher>Tong Electronic</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9A6F811233A78DE45BF2763E27B84EE1</cheevosHash>
 	</game>
 	<game>
 		<path>./benberob.zip</path>
@@ -21801,26 +21717,6 @@ Players choose to play as either Blinky (a one-eyed android), Bucky (the heroic 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>1A06E384836545DBB4D4C20553AC9498</cheevosHash>
-	</game>
-	<game id="40399">
-		<path>./buggyboy.zip</path>
-		<name>Buggy Boy/speed Buggy</name>
-		<desc>A colorful buggy racing game with 5 different racetracks : Circuit Off-Road, North Monte Carlo, East Safari, West Paris Dakar and South Southern Cross. Drive through different terrains avoiding other vehic</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/buggyboy.png</image>
-		<video>./snap/buggyboy.mp4</video>
-		<marquee>./wheel/buggyboy.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Tatsumi</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>1</players>
-		<md5>f068269c4f7e574ed400c908db16377b</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>64693C8BA9D4F9ECDB4FBE4836DD7B80</cheevosHash>
 	</game>
 	<game>
 		<path>./buggychl.zip</path>
@@ -25494,23 +25390,6 @@ The tracks themselves are all variations on the basic 'oval', with gates, jumps,
 		<cheevosHash>22EAFB18A12BDDFDEA8D4F919CD267DD</cheevosHash>
 	</game>
 	<game>
-		<path>./cutieq.zip</path>
-		<name>Cutie Q</name>
-		<desc>Cutie Q is an old ball and paddle / pinball game with a ghost theme.</desc>
-		<image>./mixart/cutieq.png</image>
-		<video>./snap/cutieq.mp4</video>
-		<marquee>./wheel/cutieq.png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19790101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Action / Breakout games</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>872E26F8762AAAAE67B10E5ACE5A8BC6</cheevosHash>
-	</game>
-	<game>
 		<path>./cybattlr.zip</path>
 		<name>Cybattler</name>
 		<desc>Aliens are invading and the only hope is a robot warrior fitted with laser cannons and an ultra cool laser sword. So get ready to blast &amp; slash lots of enemies in this exciting action game! Features excellent graphics &amp; sound and fast gameplay that will put blisters on those trigger fingers!</desc>
@@ -25681,23 +25560,6 @@ The 1st player uses the horizontal control and the 2nd player uses the gun unit 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>393EC5428CA5C9E7A674361D30B58279</cheevosHash>
-	</game>
-	<game>
-		<path>./czeroize.zip</path>
-		<name>Zeroize (DECO Cassette)</name>
-		<desc>Zeroize was known as the 37th video game release made for this system (Cassette No. 37). Runs on the "DECO Cassette System" hardware A one or two player maze game published and developed by Data East in 1983.</desc>
-		<image>./mixart/czeroize.png</image>
-		<video>./snap/czeroize.mp4</video>
-		<marquee>./wheel/czeroize.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action/Labyrinth</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FE4710D73FAD392F8C8F15F926D0E299</cheevosHash>
 	</game>
 	<game id="40796">
 		<path>./dacholer.zip</path>
@@ -36641,40 +36503,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&am
 		<region>us</region>
 		<cheevosHash>ACA0ABD1BDCE60297743517EDF793704</cheevosHash>
 	</game>
-	<game id="37339">
-		<path>./ibara.zip</path>
-		<name>Ibara</name>
-		<desc>The time is the 19th century, excited with the development of the steam engine. The Northern European country of Edelweiss is a land which especially excels in the mechanical industry with their precise techniques. Their growth is amazing. However, when one least desires it, dark clouds always appear.
-
-That morning there was a cold, awkward feeling in the air. The once called Professor Teresa Rose gives a fearless smile. "Let's destroy this filthy land and it's people. We must make this world beautiful. Yes... then we'll make the entire surface a lovely rose garden."
-
-"We'll make you beautiful."
-
-Teresa began her attack along with five other women and their fortress which resembled a lump of knives. Under the Rose Garden Emblem, the nails of an eerily laughing iron man destroy buildings, and the roars of a plane which covers the sky burn the Earth. The people's cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from scorched earth.
-
-The Rose Garden's power was horrific, but the Edelweiss forces pressed through the desperate battle. Far from being surpressed, but in a worsening situation, the Emperor, not able to handle the situation, ordered into battle his Special Imperial Attack Unit, the Negotiators. 
-
-"Annihilate the Rose Garden with your ships!"
-
-The "ships" which had been secretely readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/ibara.png</image>
-		<video>./snap/ibara.mp4</video>
-		<marquee>./wheel/ibara.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Cave</developer>
-		<publisher>AMI</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<family>Ibara</family>
-		<arcadesystemname>cave</arcadesystemname>
-		<players>2</players>
-		<md5>d1855ea9edde2ac7f7fc806fb2e3b518</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2C90C187A5EBC89CC2D90B05315B7F97</cheevosHash>
-	</game>
 	<game id="149544">
 		<path>./ibarablk.zip</path>
 		<name>Ibara Kuro Black Label</name>
@@ -37051,23 +36879,6 @@ You are Yanmer, and your mission is to destroy the Burgoid Monarch and save mank
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>62D36D67B6E5138D14E199FFD0768253</cheevosHash>
-	</game>
-	<game>
-		<path>./intcup94.zip</path>
-		<name>International Cup '94</name>
-		<desc>A soccer game from Taito also known as "Hattrick Hero '94".</desc>
-		<image>./mixart/intcup94.png</image>
-		<video>./snap/intcup94.mp4</video>
-		<marquee>./wheel/intcup94.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Sports/Soccer</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>234BD524C3C0DE16F1EAB79C370B77A1</cheevosHash>
 	</game>
 	<game>
 		<path>./inthunt.zip</path>
@@ -39889,27 +39700,6 @@ It's all up to Kuri Kinton now to save the captives and restore the delicate bal
 		<region>us</region>
 		<cheevosHash>41F5353EB75B9EA90B0A6C1658FE87CC</cheevosHash>
 	</game>
-	<game id="42100">
-		<path>./laserbat.zip</path>
-		<name>Lazarian</name>
-		<desc>This game was manufactured and distributed by Bally Midway in the USA as "Lazarian".</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/laserbat.png</image>
-		<video>./snap/laserbat.mp4</video>
-		<marquee>./wheel/laserbat.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Zaccaria</developer>
-		<publisher>Zaccaria</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<md5>de6249f00788ee76f49db9e9369f3ed4</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>471E3D23BCA0F2BA3695B8DF6095B000</cheevosHash>
-	</game>
 	<game>
 		<path>./lasso.zip</path>
 		<name>Lasso</name>
@@ -41917,23 +41707,6 @@ Draw and fade can also be applied to the ball by changing the players stance pri
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5224CD08B735887698120B0A086014C1</cheevosHash>
-	</game>
-	<game>
-		<path>./marineb.zip</path>
-		<name>Marine Boy</name>
-		<desc>Marine Boy (c) 1982 Orca.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 1  - TRIVIA -  Released in October 1982 in Japan.  - SOURCES -  Game's rom.</desc>
-		<image>./mixart/marineb.png</image>
-		<video>./snap/marineb.mp4</video>
-		<marquee>./wheel/marineb.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Orca</developer>
-		<publisher>Orca</publisher>
-		<genre>Shooter / Plane-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>477783C36771E1F5E7090104B6EE6F36</cheevosHash>
 	</game>
 	<game>
 		<path>./mariner.zip</path>
@@ -47860,26 +47633,6 @@ According to Centuri's Joel Hochberg, the game was licensed from "a smaller Japa
 		<region>us</region>
 		<cheevosHash>85E1ECC68DC314C078684F4530E1962F</cheevosHash>
 	</game>
-	<game id="79264">
-		<path>./pignewt.zip</path>
-		<name>Pig Newton</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/pignewt.png</image>
-		<video>./snap/pignewt.mp4</video>
-		<marquee>./wheel/pignewt.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform / Run Jump</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<md5>aa6e091315be92442c51c85f5fb5e5d8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8A0AA3815B7E558010620E27DD69F363</cheevosHash>
-	</game>
 	<game>
 		<path>./pigout.zip</path>
 		<name>Pig Out: Dine Like a Swine!</name>
@@ -53285,23 +53038,6 @@ The player Sasuke is always at the bottom of the screen can only move left or ri
 		<cheevosHash>20415DAF1687523C619D3F6B0221E498</cheevosHash>
 	</game>
 	<game>
-		<path>./saturnzi.zip</path>
-		<name>Saturn</name>
-		<desc>A one or two player shooter game developed by Zilec in 1983.</desc>
-		<image>./mixart/saturnzi.png</image>
-		<video>./snap/saturnzi.mp4</video>
-		<marquee>./wheel/saturnzi.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Zilec Electronics</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2352D0475A61EA486398D6557D83EA67</cheevosHash>
-	</game>
-	<game>
 		<path>./sauro.zip</path>
 		<name>Sauro</name>
 		<desc>Horizontal scrolling submarine game. Guide your submarine through a hail of depth charges, mines, enemy ships and subs. Collect fuel, triple guns, missiles, and shield on the way. Fight a tough sub at the end of each section.</desc>
@@ -54938,28 +54674,6 @@ Players could chose to race on any one of four courses: Africa, Asia, America an
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BE733DC88691F0429997B797DA49BC95</cheevosHash>
-	</game>
-	<game id="150483">
-		<path>./shanhigw.zip</path>
-		<name>Shanghai - The Great Wall / Shanghai Triple Threat</name>
-		<desc>This is a mahjongg tile-matching collection pack of 4 games.  A player can also choose which type of mahjongg game they wish to play and which tile-set to use. The tile sets include: a set made from art masterpieces, American folk songs, famous lovers, great scientists/inventions, and old Sci-fi films. When a tile is matched with its partner-tile, an animated video and audio clip is played. Players can also play in Solitaire mode, 2-player mode or tournaments.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/shanhigw.png</image>
-		<video>./snap/shanhigw.mp4</video>
-		<marquee>./wheel/shanhigw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Asiatic board game / Mahjong</genre>
-		<family>Shanghai</family>
-		<arcadesystemname>segastv</arcadesystemname>
-		<players>2</players>
-		<md5>fb2dd3f9bd7875a0b77978dc40af07a8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>14C1E20DD4FC30C312FA804D91B6533B</cheevosHash>
 	</game>
 	<game id="43036">
 		<path>./sharkatt.zip</path>
@@ -57596,24 +57310,6 @@ To aid him in his difficult quest, the Spelunker carries a gun and can shoot sho
 		<region>us</region>
 		<cheevosHash>70E3289C1413EEFE47545C13F0A4FF66</cheevosHash>
 	</game>
-	<game id="64331">
-		<path>./spider.zip</path>
-		<name>Spider</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/spider.png</image>
-		<video>./snap/spider.mp4</video>
-		<marquee>./wheel/spider.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Buena Vision</developer>
-		<publisher>Buena Vision</publisher>
-		<genre>Puzzle-Game</genre>
-		<md5>4f5b238aa23600af0dc955597958b2f1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F1A81D782DEA6A19BDCA383BFFE68452</cheevosHash>
-	</game>
 	<game>
 		<path>./spiders.zip</path>
 		<name>Spiders</name>
@@ -58543,29 +58239,6 @@ Control your tank across the battlefield and destroy all the enemies in the way 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D70C8DE2B1E6FA4872E5918B990022C0</cheevosHash>
-	</game>
-	<game>
-		<path>./sstriker.zip</path>
-		<name>Sorcer Striker</name>
-		<desc>Sorcer Striker, released in Japan as Mahou Daisakusen (Magic Armageddon) is a 1993 medieval-themed scrolling shooter developed by Raizing (now known as Eighting) for the arcades and later ported to Sharp X68000 and FM Towns computers and the EZweb mobile phones. It is the first game in the Mahou Daisakusen trilogy, which includes Kingdom Grandprix and Dimahoo.
-The game is set in a fantasy world filled with magic and magic-fueled machinery. A peaceful kingdom is under assault by the encroaching Gobligan Empire, led by a mysterious human leader known only as the Gobligan King. As the kingdom finds itself unable to drive off the Gobligan Empire's advances, King Codwenna announces a huge bounty for the Gobligan King's head. Four heroes answer the call, and set out to defeat the Gobligan King and restore peace to the kingdom.
-
-Characters
-Gain, the Warrior: A master of swords and physical combat, Gain wanders the land with his pet monkey Shain in search of the ultimate weapon. Attracted by the large bounty offered for the Gobligan King, Gain takes up arms in his ship, the Valhallyzer, against the Gobligan Empire. His signature weapon is the Buster Sword.
-Chitta, the Magician: Despite her appearance as a youthful girl, Chitta is a formidable magic user and the granddaughter of a legendary hero. Bored of the quiet life of her village, she sneaks away in her grandfather's magical ship, the Gun Dalf, to seek adventure. Her signature attacks are the Thunder Beam and Ice Cube.
-Miyamoto, the Samurai Dragon: Well-mannered and wise, Miyamoto the samurai dragon seeks revenge against Tsumujimaru, one of his former disciples. Tsumujimaru turned his back on Miyamoto's teachings and murdered Miyamoto's own Master, then fled into the Gobligan Empire. Miyamoto does not use a magical ship, but rather flies with his own two wings, and attacks via shuriken, ninjutsu stones, and other secret techniques.</desc>
-		<image>./mixart/sstriker.png</image>
-		<video>./snap/sstriker.mp4</video>
-		<marquee>./wheel/sstriker.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Raizing</developer>
-		<publisher>Raizing</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48C4D159925EFC5D759236D9E9EBBCFC</cheevosHash>
 	</game>
 	<game>
 		<path>./stadhero.zip</path>
@@ -62436,22 +62109,6 @@ The game concept is all about the power-ups. The game offers ten items to pick u
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>F7F7791C6529EADD88FC3822F57A2F8D</cheevosHash>
-	</game>
-	<game>
-		<path>./tnk3.zip</path>
-		<name>T.N.K III</name>
-		<desc>During the final days of World War II, the allied forces sends special forces member Colonel Ralf to penetrate an enemy base and destroy a secret weapon by driving a new prototype tank.</desc>
-		<image>./mixart/tnk3.png</image>
-		<video>./snap/tnk3.mp4</video>
-		<marquee>./wheel/tnk3.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>SNK</publisher>
-		<genre>Shooter-Shooter / Vehicle, Vertical</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C30291E7FC3B1FA4BB85EDC02BBD747D</cheevosHash>
 	</game>
 	<game>
 		<path>./tnzs.zip</path>
@@ -69974,23 +69631,6 @@ The clone - After defeating Willy, the player will have to fight their character
 		<cheevosHash>E69B3D32A9A1B1553A9235547A8090CD</cheevosHash>
 	</game>
 	<game>
-		<path>./spcinv95.zip</path>
-		<name>Space Invaders '95: The Attack Of Lunar Loonies</name>
-		<desc>A remake of the classic invading aliens shoot'em up game that features interesting enemies and a wide variety of characters to choose from.</desc>
-		<image>./mixart/spcinv95.png</image>
-		<video>./snap/spcinv95.mp4</video>
-		<marquee>./wheel/spcinv95.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Taito</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6FDD6BFDCECB35ABBE9FFBDC5FB294A1</cheevosHash>
-	</game>
-	<game>
 		<path>./polepos2.zip</path>
 		<name>Pole Position II</name>
 		<desc>Pole Position II is a 1-player game using a color raster-scan video display. Game action takes place at four different raceways - the Fuji Speedway in Japan, the Test Track (an oval track like Indy), the Seaside Speedway (with the Long Beach Pike in the background), and the Suzuka Speedway in Japan. The unique and picturesque scenery around each raceway adds exciting realism to each race! 
@@ -70042,35 +69682,6 @@ The player drives a Formula-1 race car on each track. The first objective of the
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5EA8D9D44E30AE2E09BE470ED774057E</cheevosHash>
-	</game>
-	<game>
-		<path>./gaunt2.zip</path>
-		<name>Gauntlet II</name>
-		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
-
-As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
-
-Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
-
-Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
-
-Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
-
-New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gaunt2.png</image>
-		<video>./snap/gaunt2.mp4</video>
-		<marquee>./wheel/gaunt2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action / Labyrinth-Shooter Large-Action</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F9B1BFDBAC1F48B9DFD6B518B9B6028</cheevosHash>
 	</game>
 	<game id="40178" source="ScreenScraper.fr">
 		<path>./bbust2.zip</path>
@@ -70290,24 +69901,6 @@ One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. T
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
-	</game>
-	<game>
-		<path>./aztarac.zip</path>
-		<name>Aztarac</name>
-		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
-		<image>./mixart/aztarac.png</image>
-		<video>./snap/aztarac.mp4</video>
-		<marquee>./wheel/aztarac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Tim Stryker</developer>
-		<publisher>Centuri</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
 	</game>
 	<game>
 		<path>./hangon.zip</path>
@@ -71939,49 +71532,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<region>us</region>
 		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
 	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
-		<path>./outrun.zip</path>
-		<name>'H' Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
 	<game id="43948">
 		<path>./victlapw.zip</path>
 		<name>Ace Driver: Victory Lap</name>
@@ -72003,40 +71553,6 @@ As well as being able to choose routes, players could also - via the game's "in-
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
-	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
 	</game>
 	<game>
 		<path>./blktiger.zip</path>
@@ -72906,5 +72422,491 @@ It has more animations, a slightly different palette and zero game modes. Instea
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>66BBA5F1EA3DDFD103B4B9737FE30F20</cheevosHash>
+	</game>
+	<game>
+		<path>./gaunt2.zip</path>
+		<name>Gauntlet II</name>
+		<desc>Gauntlet II is a direct sequel to the legendary maze-based fantasy themed shoot-em-up, released a year earlier. Atari chose not to tinker with the core game-play mechanic to any great degree, opting instead to enhance the already excellent multi-player action that had created such a stir upon the original game's release.
+
+As with its prequel, up to four players once again take on the role of either 'Thor the Warrior', 'Thyra the Valkyrie', 'Merlin the Wizard', or 'Questor the Elf' and must play cooperatively as they explore and fight their way through the enemy-packed mazes, collecting potions, food and treasure as they searched for the exit that would lead them to the next dungeon.
+
+Changes to the sequel included the ability for players to play whatever character they wanted, even if that character was already in play. Characters were now colour-coded and players would find themselves taking on the role of 'Blue Elf', 'Green Wizard', etc. New in-game speech was added to allow for the new player definitions.
+
+Other changes included the ability to 'bounce' shots off walls - known as 'Reflective Shots' - providing the correct potion was picked up. As well as new potions, Gauntlet II also featured several new monsters. The most notorious of the new additions was the Fire-breathing Dragon that guards the exit to some dungeons. This powerful creature takes multiple hits to kill and defeating it would see the players rewarded with a permanent potion and a bag of treasure.
+
+Another notable addition was the 'It' monster: any player who was tagged by the creature would suddenly find that all of that level's monsters would ONLY chase the tagged player, completely ignoring the presence of all other players. The only way to remove this curse was to tag another player, thus making them 'it'.
+
+New level elements were also added to further increase variety. These included dungeons with entirely invisible walls, magical walls (which changed into monsters or items when hit), stun tiles (which stunned any player that walked on them) and exits that flashed between functioning and non-functioning.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gaunt2.png</image>
+		<video>./snap/gaunt2.mp4</video>
+		<marquee>./wheel/gaunt2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action / Labyrinth-Shooter Large-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F9B1BFDBAC1F48B9DFD6B518B9B6028</cheevosHash>
+	</game>
+	<game>
+		<path>./spcinv95.zip</path>
+		<name>Space Invaders '95: The Attack Of Lunar Loonies</name>
+		<desc>A remake of the classic invading aliens shoot'em up game that features interesting enemies and a wide variety of characters to choose from.</desc>
+		<image>./mixart/spcinv95.png</image>
+		<video>./snap/spcinv95.mp4</video>
+		<marquee>./wheel/spcinv95.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Taito</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6FDD6BFDCECB35ABBE9FFBDC5FB294A1</cheevosHash>
+	</game>
+	<game>
+		<path>./arabfgt.zip</path>
+		<name>Arabian Fight</name>
+		<desc>Arabian Fight is an up-to-4 players beat'em up game with 4 selectable warriors who battle hordes of soldiers and mythical beings. Plenty of sprite-scaling action from foreground to background. This game consists all 7 stages.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/arabfgt.png</image>
+		<video>./snap/arabfgt.mp4</video>
+		<marquee>./wheel/arabfgt.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>55842630A783126DAB98A2A8E28FD479</cheevosHash>
+	</game>
+	<game>
+		<path>./arabian.zip</path>
+		<name>Arabian</name>
+		<desc>You'll have 1001 hours of fun with the ARABIAN upright game! You are the adventurous Arabian prince, and your goal is to rescue the princess from her palace. Use the joystick control and the KICK button to move through perilous passages. Sail the seas, crawl in caves, and fly magic carpets - you'll be challenged by 4 increasingly hard waves of play! Score points on the way for picking up the letters in A-R-A-B-I-A-N, and get a bonus if you pick them up in order!
+
+Arabian is a 'video book' with a happy ending! The attract mode introduces the story, and animated storybook 'pages' let you experience the Arabian Prince's adventures. Use the 8-position joystick to jump, super-jump, walk, crawl, or climb in all directions. Tap either KICK button (are you right- or left-handed?) to kick your enemies out of the way.
+
+The player controls a young Arabian Prince who must rescue his Princess from the castle tower where she is being held prisoner. Evil Genies in brass jugs, swooping Rocs, and purple ghostly creatures called Oscars will try to stop him along the way. The Prince scores points for kicking Oscars or Rocs, picking up lettered jugs, or spelling A-R-A-B-I-A-N. The Prince loses a life when he's hit by a smokeball, falls off a ledge, flying carpet or vine, or gets caught (touched) by a Genie, Oscar, or Roc.
+
+The Prince must successfully complete 4 levels to rescue the Princess (4 levels or 'pages' equals 1 section). Each level is introduced with the turning of a page, which shows a distant view of the upcoming playfield. Each playfield has 7 lettered jugs that must be picked up before the player can advance to the next level, but he must avoid or KICK evil Genies, Oscars, and Rocs that will try to stop him.</desc>
+		<image>./mixart/arabian.png</image>
+		<video>./snap/arabian.mp4</video>
+		<marquee>./wheel/arabian.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5CC2F380CB988961171A68F91C5D1D30</cheevosHash>
+	</game>
+	<game>
+		<path>./arabianm.zip</path>
+		<name>Arabian Magic</name>
+		<desc>Arabian Magic is a scrolling beat-em-up for one to four players, set in the mythical world of The Arabian Nights. A long time ago, an evil wizard has taken over the peaceful kingdom of Shahariyard and used sorcery to transform its king into a Monkey. The player must defeat each of the game's seven Guardians to reclaim the 'Jewel of Seven Colours' and release the king from the evil hex. 
+
+Each player can select from four distinctive characters: Prince Lassid, Princess Lisa, Sinbad or Afshael. Each character carries a primary weapon - Prince Lassid and Sinbad carry swords, Princess Lisa a magical veil and Afshael a mace. In addition to the weapons, players can also summon a magical attack in the form of a huge genie. The genie will only appear for a few seconds but during that time, players have control over the genie and can steer him towards enemies. 
+
+Arabian Magic has seven different stages with one of the powerful guardians awaiting the player at the end of each level. Each guardian, once defeated, will drop a jewel which forms a part of the Jewel of Seven Colours. Guardians, once defeated, will join the player and become a Genie. Each level is littered with vases and wooden chests which, when broken, reveal treasure items and power-ups. 
+
+The game ends when the player has recovered the Jewel of Seven Colours, saved the King (making him human in the process) and restored peace to Shahariyard.</desc>
+		<image>./mixart/arabianm.png</image>
+		<video>./snap/arabianm.mp4</video>
+		<marquee>./wheel/arabianm.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CE40A059058AA84460A42D4F5E2D6978</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game>
+		<path>./aztarac.zip</path>
+		<name>Aztarac</name>
+		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
+		<image>./mixart/aztarac.png</image>
+		<video>./snap/aztarac.mp4</video>
+		<marquee>./wheel/aztarac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Tim Stryker</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
+	</game>
+	<game>
+		<path>./beezer.zip</path>
+		<name>Beezer</name>
+		<desc>Players trap dangerous killer bees. The precise trackball control is used to maneuver through the honeycomb pushing gates to create six sided traps. The bees are lured into the trap and shut in. Eating bee eggs before they hatch gives Beezer super powers to eat bees. However, there are dangers of getting stung or trapped. A winning play strategy keeps players coming back to Beezer.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/beezer.png</image>
+		<video>./snap/beezer.mp4</video>
+		<marquee>./wheel/beezer.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Tong Electronic</developer>
+		<publisher>Tong Electronic</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9A6F811233A78DE45BF2763E27B84EE1</cheevosHash>
+	</game>
+	<game id="40399">
+		<path>./buggyboy.zip</path>
+		<name>Buggy Boy/speed Buggy</name>
+		<desc>A colorful buggy racing game with 5 different racetracks : Circuit Off-Road, North Monte Carlo, East Safari, West Paris Dakar and South Southern Cross. Drive through different terrains avoiding other vehic</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/buggyboy.png</image>
+		<video>./snap/buggyboy.mp4</video>
+		<marquee>./wheel/buggyboy.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Tatsumi</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>1</players>
+		<md5>f068269c4f7e574ed400c908db16377b</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>64693C8BA9D4F9ECDB4FBE4836DD7B80</cheevosHash>
+	</game>
+	<game>
+		<path>./cutieq.zip</path>
+		<name>Cutie Q</name>
+		<desc>Cutie Q is an old ball and paddle / pinball game with a ghost theme.</desc>
+		<image>./mixart/cutieq.png</image>
+		<video>./snap/cutieq.mp4</video>
+		<marquee>./wheel/cutieq.png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19790101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Action / Breakout games</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>872E26F8762AAAAE67B10E5ACE5A8BC6</cheevosHash>
+	</game>
+	<game>
+		<path>./czeroize.zip</path>
+		<name>Zeroize (DECO Cassette)</name>
+		<desc>Zeroize was known as the 37th video game release made for this system (Cassette No. 37). Runs on the "DECO Cassette System" hardware A one or two player maze game published and developed by Data East in 1983.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/czeroize.png</image>
+		<video>./snap/czeroize.mp4</video>
+		<marquee>./wheel/czeroize.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action/Labyrinth</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FE4710D73FAD392F8C8F15F926D0E299</cheevosHash>
+	</game>
+	<game id="37339">
+		<path>./ibara.zip</path>
+		<name>Ibara</name>
+		<desc>The time is the 19th century, excited with the development of the steam engine. The Northern European country of Edelweiss is a land which especially excels in the mechanical industry with their precise techniques. Their growth is amazing. However, when one least desires it, dark clouds always appear.
+
+That morning there was a cold, awkward feeling in the air. The once called Professor Teresa Rose gives a fearless smile. "Let's destroy this filthy land and it's people. We must make this world beautiful. Yes... then we'll make the entire surface a lovely rose garden."
+
+"We'll make you beautiful."
+
+Teresa began her attack along with five other women and their fortress which resembled a lump of knives. Under the Rose Garden Emblem, the nails of an eerily laughing iron man destroy buildings, and the roars of a plane which covers the sky burn the Earth. The people's cries and the rising flames illuminate the fortress, as if it were a beautiful flower blossoming from scorched earth.
+
+The Rose Garden's power was horrific, but the Edelweiss forces pressed through the desperate battle. Far from being surpressed, but in a worsening situation, the Emperor, not able to handle the situation, ordered into battle his Special Imperial Attack Unit, the Negotiators. 
+
+"Annihilate the Rose Garden with your ships!"
+
+The "ships" which had been secretely readied, as if predicting they would have to stand up to a threat and had longed for this day to come, shone bright.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/ibara.png</image>
+		<video>./snap/ibara.mp4</video>
+		<marquee>./wheel/ibara.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Cave</developer>
+		<publisher>AMI</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<family>Ibara</family>
+		<arcadesystemname>cave</arcadesystemname>
+		<players>2</players>
+		<md5>d1855ea9edde2ac7f7fc806fb2e3b518</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2C90C187A5EBC89CC2D90B05315B7F97</cheevosHash>
+	</game>
+	<game>
+		<path>./intcup94.zip</path>
+		<name>International Cup '94</name>
+		<desc>A soccer game from Taito also known as "Hattrick Hero '94".</desc>
+		<image>./mixart/intcup94.png</image>
+		<video>./snap/intcup94.mp4</video>
+		<marquee>./wheel/intcup94.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Sports/Soccer</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>234BD524C3C0DE16F1EAB79C370B77A1</cheevosHash>
+	</game>
+	<game id="42100">
+		<path>./laserbat.zip</path>
+		<name>Lazarian</name>
+		<desc>This game was manufactured and distributed by Bally Midway in the USA as "Lazarian".</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/laserbat.png</image>
+		<video>./snap/laserbat.mp4</video>
+		<marquee>./wheel/laserbat.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Zaccaria</developer>
+		<publisher>Zaccaria</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<md5>de6249f00788ee76f49db9e9369f3ed4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>471E3D23BCA0F2BA3695B8DF6095B000</cheevosHash>
+	</game>
+	<game>
+		<path>./marineb.zip</path>
+		<name>Marine Boy</name>
+		<desc>Marine Boy (c) 1982 Orca.  - TECHNICAL -  Main CPU : Z80 (@ 3.072 Mhz) Sound Chips : AY8910 (@ 1.5 Mhz)  Players : 2 Control : 8-way joystick Buttons : 1  - TRIVIA -  Released in October 1982 in Japan.  - SOURCES -  Game's rom.</desc>
+		<image>./mixart/marineb.png</image>
+		<video>./snap/marineb.mp4</video>
+		<marquee>./wheel/marineb.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Orca</developer>
+		<publisher>Orca</publisher>
+		<genre>Shooter / Plane-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>477783C36771E1F5E7090104B6EE6F36</cheevosHash>
+	</game>
+	<game id="79264">
+		<path>./pignewt.zip</path>
+		<name>Pig Newton</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/pignewt.png</image>
+		<video>./snap/pignewt.mp4</video>
+		<marquee>./wheel/pignewt.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Run Jump</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<md5>aa6e091315be92442c51c85f5fb5e5d8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8A0AA3815B7E558010620E27DD69F363</cheevosHash>
+	</game>
+	<game>
+		<path>./saturnzi.zip</path>
+		<name>Saturn</name>
+		<desc>A one or two player shooter game developed by Zilec in 1983.</desc>
+		<image>./mixart/saturnzi.png</image>
+		<video>./snap/saturnzi.mp4</video>
+		<marquee>./wheel/saturnzi.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Zilec Electronics</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2352D0475A61EA486398D6557D83EA67</cheevosHash>
+	</game>
+	<game id="150483">
+		<path>./shanhigw.zip</path>
+		<name>Shanghai - The Great Wall / Shanghai Triple Threat</name>
+		<desc>This is a mahjongg tile-matching collection pack of 4 games.  A player can also choose which type of mahjongg game they wish to play and which tile-set to use. The tile sets include: a set made from art masterpieces, American folk songs, famous lovers, great scientists/inventions, and old Sci-fi films. When a tile is matched with its partner-tile, an animated video and audio clip is played. Players can also play in Solitaire mode, 2-player mode or tournaments.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/shanhigw.png</image>
+		<video>./snap/shanhigw.mp4</video>
+		<marquee>./wheel/shanhigw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Asiatic board game / Mahjong</genre>
+		<family>Shanghai</family>
+		<arcadesystemname>segastv</arcadesystemname>
+		<players>2</players>
+		<md5>fb2dd3f9bd7875a0b77978dc40af07a8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>14C1E20DD4FC30C312FA804D91B6533B</cheevosHash>
+	</game>
+	<game id="64331">
+		<path>./spider.zip</path>
+		<name>Spider</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/spider.png</image>
+		<video>./snap/spider.mp4</video>
+		<marquee>./wheel/spider.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Buena Vision</developer>
+		<publisher>Buena Vision</publisher>
+		<genre>Puzzle-Game</genre>
+		<md5>4f5b238aa23600af0dc955597958b2f1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F1A81D782DEA6A19BDCA383BFFE68452</cheevosHash>
+	</game>
+	<game>
+		<path>./sstriker.zip</path>
+		<name>Sorcer Striker</name>
+		<desc>Sorcer Striker, released in Japan as Mahou Daisakusen (Magic Armageddon) is a 1993 medieval-themed scrolling shooter developed by Raizing (now known as Eighting) for the arcades and later ported to Sharp X68000 and FM Towns computers and the EZweb mobile phones. It is the first game in the Mahou Daisakusen trilogy, which includes Kingdom Grandprix and Dimahoo.
+The game is set in a fantasy world filled with magic and magic-fueled machinery. A peaceful kingdom is under assault by the encroaching Gobligan Empire, led by a mysterious human leader known only as the Gobligan King. As the kingdom finds itself unable to drive off the Gobligan Empire's advances, King Codwenna announces a huge bounty for the Gobligan King's head. Four heroes answer the call, and set out to defeat the Gobligan King and restore peace to the kingdom.
+
+Characters
+Gain, the Warrior: A master of swords and physical combat, Gain wanders the land with his pet monkey Shain in search of the ultimate weapon. Attracted by the large bounty offered for the Gobligan King, Gain takes up arms in his ship, the Valhallyzer, against the Gobligan Empire. His signature weapon is the Buster Sword.
+Chitta, the Magician: Despite her appearance as a youthful girl, Chitta is a formidable magic user and the granddaughter of a legendary hero. Bored of the quiet life of her village, she sneaks away in her grandfather's magical ship, the Gun Dalf, to seek adventure. Her signature attacks are the Thunder Beam and Ice Cube.
+Miyamoto, the Samurai Dragon: Well-mannered and wise, Miyamoto the samurai dragon seeks revenge against Tsumujimaru, one of his former disciples. Tsumujimaru turned his back on Miyamoto's teachings and murdered Miyamoto's own Master, then fled into the Gobligan Empire. Miyamoto does not use a magical ship, but rather flies with his own two wings, and attacks via shuriken, ninjutsu stones, and other secret techniques.</desc>
+		<image>./mixart/sstriker.png</image>
+		<video>./snap/sstriker.mp4</video>
+		<marquee>./wheel/sstriker.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Raizing</developer>
+		<publisher>Raizing</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48C4D159925EFC5D759236D9E9EBBCFC</cheevosHash>
+	</game>
+	<game>
+		<path>./tnk3.zip</path>
+		<name>T.N.K III</name>
+		<desc>During the final days of World War II, the allied forces sends special forces member Colonel Ralf to penetrate an enemy base and destroy a secret weapon by driving a new prototype tank.</desc>
+		<image>./mixart/tnk3.png</image>
+		<video>./snap/tnk3.mp4</video>
+		<marquee>./wheel/tnk3.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>SNK</publisher>
+		<genre>Shooter-Shooter / Vehicle, Vertical</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C30291E7FC3B1FA4BB85EDC02BBD747D</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>'H' Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
 	</game>
 </gameList>

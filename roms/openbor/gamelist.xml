@@ -1148,22 +1148,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Karate Kid.pak</path>
-		<name>Super Karate Kid</name>
-		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
-		<image>./mixart/Super Karate Kid.png</image>
-		<video>./snap/Super Karate Kid.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Battletoads &amp; Double Dragon IV - The Return of the Dark Forces.pak</path>
 		<name>Battletoads And Double Dragon Iv - The Return Of The Dark Forces</name>
 		<desc>Faraway, at the very end of this galaxy there is another world race of the galaxy “Canis Major” corporation ruled by Queen of Dark. Defeated Queen of Dark is full of rage and makes up new evil plans of revenge and conquest. She destroyed all fighting units in Oxnard, where battle toads live. She did this with the help of magic and her faithful warriors. The city was at Queen's feet after that. Battletoads and Double Dragon mean the last hope. You must make your way to the Queen of Dark and destroy her with the help of set of fighting skills of each fighter.  You are going to experience a hurricane beat'em up with classic characters, improved graphics and nice sound effects. There are also extra game modes available: boss battle and air motorbike races.</desc>
@@ -4103,6 +4087,22 @@
 		<marquee>./wheel/Halloween - The Wrath of Michael Myers.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Karate Kid.pak</path>
+		<name>Super Karate Kid</name>
+		<desc>A 2D fighting forces with all great characeters from Karate Kid movie series</desc>
+		<image>./mixart/Super Karate Kid.png</image>
+		<video>./snap/Super Karate Kid.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
