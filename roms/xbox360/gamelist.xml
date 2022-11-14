@@ -3548,22 +3548,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="17559">
-		<path>./Battlezone.m3u</path>
-		<name>Battlezone</name>
-		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
-		<image>./mixart/Battlezone.png</image>
-		<video>./snap/Battlezone.mp4</video>
-		<marquee>./wheel/Battlezone.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20080416T000000</releasedate>
-		<developer>Stainless Games</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17818">
 		<path>./Burgertime World Tour.m3u</path>
 		<name>Burgertime World Tour</name>
@@ -4619,6 +4603,22 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<genre>Adventure</genre>
 		<family>Costume Quest</family>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="17559">
+		<path>./Battlezone.m3u</path>
+		<name>Battlezone</name>
+		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
+		<image>./mixart/Battlezone.png</image>
+		<video>./snap/Battlezone.mp4</video>
+		<marquee>./wheel/Battlezone.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080416T000000</releasedate>
+		<developer>Stainless Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

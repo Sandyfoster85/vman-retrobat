@@ -23850,20 +23850,6 @@ Part two is a more traditional 2D fighting game where you have to advance from l
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].zip</path>
-		<name>Gremlins 2 - The New Batch</name>
-		<desc>As Billy, you set off to rescue Gizmo the Gremlin from Clamp Tower skyscraper, where Dr. Catheter plans to viciously experiment with him. Unfortunately, Catheter gets word of your plans, and mixes up a whole new batch of vicious gremlins. As a result, your mission is now one of destruction and avoidance.
-Elite's implementation of this is a five-level side-view action game, in which you run around avoiding or shooting the gremlins. Each level has a secret object which must be collected. Bonus items such as extra lives and time can be collected, as can improved weapons, and credits to spend on a new weapon after each level.</desc>
-		<image>./mixart/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</image>
-		<video>./snap/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].mp4</video>
-		<marquee>./wheel/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</marquee>
-		<rating />
-		<releasedate>19900101T000000</releasedate>
-		<publisher>Elite Systems</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./James Pond II - Codename Robocod (1992)(Vectordean)[cr Elite][t].zip</path>
 		<name>James Pond 2 : Codename RoboCod</name>
 		<desc>In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.</desc>
@@ -24271,8 +24257,8 @@ Driving levels are high-speed side-scrolling runs, with the player's vehicle mov
 		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
 		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
 		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -24291,6 +24277,20 @@ The game has similar game play to the original, but with a different challenge. 
 		<publisher>Palace</publisher>
 		<genre>Beat'em Up</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].zip</path>
+		<name>Gremlins 2 - The New Batch</name>
+		<desc>As Billy, you set off to rescue Gizmo the Gremlin from Clamp Tower skyscraper, where Dr. Catheter plans to viciously experiment with him. Unfortunately, Catheter gets word of your plans, and mixes up a whole new batch of vicious gremlins. As a result, your mission is now one of destruction and avoidance.
+Elite's implementation of this is a five-level side-view action game, in which you run around avoiding or shooting the gremlins. Each level has a secret object which must be collected. Bonus items such as extra lives and time can be collected, as can improved weapons, and credits to spend on a new weapon after each level.</desc>
+		<image>./mixart/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</image>
+		<video>./snap/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].mp4</video>
+		<marquee>./wheel/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</marquee>
+		<rating></rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Elite Systems</publisher>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

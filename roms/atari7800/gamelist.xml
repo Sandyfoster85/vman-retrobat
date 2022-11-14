@@ -378,23 +378,6 @@ Xenophobe was originally an arcade coin-op by Bally/Midway, released in 1987.  G
 		<players>2</players>
 		<cheevosHash>46A7909D1FB1DD8AD4A6AE1C251CEF33</cheevosHash>
 	</game>
-	<game>
-		<path>./Xevious (USA).7z</path>
-		<name>Xevious</name>
-		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
-
-Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same name. It was innovative in that it was the first vertically scrolling shooter to feature dual-level attacks; both ground and air.</desc>
-		<image>./mixart/Xevious (USA).png</image>
-		<video>./snap/Xevious (USA).mp4</video>
-		<marquee>./wheel/Xevious (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<cheevosHash>6FA5ECE1F97F65C207B8C252EE49F97C</cheevosHash>
-	</game>
 	<game id="37997" source="ScreenScraper.fr">
 		<path>./Asteroids (USA).7z</path>
 		<name>Asteroids</name>
@@ -1170,5 +1153,24 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B94B39A2ECE024BC79AD350914219A72</cheevosHash>
+	</game>
+	<game>
+		<path>./Xevious (USA).7z</path>
+		<name>Xevious</name>
+		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
+
+Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same name. It was innovative in that it was the first vertically scrolling shooter to feature dual-level attacks; both ground and air.</desc>
+		<image>./mixart/Xevious (USA).png</image>
+		<video>./snap/Xevious (USA).mp4</video>
+		<marquee>./wheel/Xevious (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6FA5ECE1F97F65C207B8C252EE49F97C</cheevosHash>
 	</game>
 </gameList>
