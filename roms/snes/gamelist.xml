@@ -14536,23 +14536,6 @@ In the options you can change the difficulty and the game-speed two times, the c
 		<players>1</players>
 		<cheevosHash>C6990EB9E957568112E41439F054F0E3</cheevosHash>
 	</game>
-	<game id="2816" source="ScreenScraper.fr">
-		<path>./Zoop (USA).7z</path>
-		<name>Zoop</name>
-		<desc>Fast-paced action-puzzle game where the player eliminates colored shapes that are approaching his alter ego, another colored shape, before they reach the top, ala Tetris.
-
-In order to eliminate the other shapes, you must point your piece at it and 'fire'. If the shape is the same color as your piece, the shape is eliminated, as well as all of the shapes of the same color behind it, until your piece hits a piece of a different color. If the shape is of a different color, or it is hit when collecting a line of similar shapes, your piece exchanges colors with the shape.</desc>
-		<image>./mixart/Zoop (USA).png</image>
-		<video>./snap/Zoop (USA).mp4</video>
-		<marquee>./wheel/Zoop (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Viacom</developer>
-		<publisher>Hookstone - Viacom</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<cheevosHash>0B7A524E5470ECA3ED29B75E427A7CF4</cheevosHash>
-	</game>
 	<game id="2544" source="ScreenScraper.fr">
 		<path>./Power Rangers Zeo - Battle Racers (USA).7z</path>
 		<name>Power Rangers Zeo : Battle Racers</name>
@@ -15028,7 +15011,7 @@ Using crosshairs, aim your ball to the other side of the court and hope you hit 
 		<video>./snap/Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto).mp4</video>
 		<marquee>./wheel/Mickey's Playtown Adventure - A Day of Discovery! (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Visual Concepts</developer>
 		<publisher>Hi-Tech</publisher>
 		<genre>Adventure-Action</genre>
@@ -15233,5 +15216,24 @@ All levels can be revisited once passed and doing so required both for the purpo
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8368318EEAB856695F8C49B4C204C64E</cheevosHash>
+	</game>
+	<game id="2816" source="ScreenScraper.fr">
+		<path>./Zoop (USA).7z</path>
+		<name>Zoop</name>
+		<desc>Fast-paced action-puzzle game where the player eliminates colored shapes that are approaching his alter ego, another colored shape, before they reach the top, ala Tetris.
+
+In order to eliminate the other shapes, you must point your piece at it and 'fire'. If the shape is the same color as your piece, the shape is eliminated, as well as all of the shapes of the same color behind it, until your piece hits a piece of a different color. If the shape is of a different color, or it is hit when collecting a line of similar shapes, your piece exchanges colors with the shape.</desc>
+		<image>./mixart/Zoop (USA).png</image>
+		<video>./snap/Zoop (USA).mp4</video>
+		<marquee>./wheel/Zoop (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Viacom</developer>
+		<publisher>Hookstone - Viacom</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0B7A524E5470ECA3ED29B75E427A7CF4</cheevosHash>
 	</game>
 </gameList>
