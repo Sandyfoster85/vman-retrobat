@@ -3999,22 +3999,6 @@ Youâ€™re going for distance, so go for speed! Watch out for objects that can slo
 		<genre>Various</genre>
 		<lang>en</lang>
 	</game>
-	<game id="27876" source="ScreenScraper.fr">
-		<path>./Jetpack Joyride.cso</path>
-		<name>Jetpack Joyride</name>
-		<desc>Jetpack Joyride est un jeu vidéo à défilement horizontal développé par HalfBrick Studios dont le but est de parcourir la plus longue distance avec Barry, un homme d'affaires monté sur un jetpack, qui avance de plus en plus rapidement au fil du temps.</desc>
-		<image>./mixart/Jetpack Joyride.png</image>
-		<video>./snap/Jetpack Joyride.mp4</video>
-		<marquee>./wheel/Jetpack Joyride.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20121121T000000</releasedate>
-		<developer>Beatshapers</developer>
-		<publisher>Beatshapers</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>256</genreid>
-	</game>
 	<game id="29028" source="ScreenScraper.fr">
 		<path>./Arcade Essentials.cso</path>
 		<name>Arcade Essentials</name>
@@ -4194,5 +4178,21 @@ The launch pad is all set. Are you ready to get into Orbit?</desc>
 		<genre>Platform-Puzzle-Game</genre>
 		<lang>en</lang>
 		<genreid>257</genreid>
+	</game>
+	<game id="27876" source="ScreenScraper.fr">
+		<path>./Jetpack Joyride.cso</path>
+		<name>Jetpack Joyride</name>
+		<desc>Jetpack Joyride est un jeu vidéo à défilement horizontal développé par HalfBrick Studios dont le but est de parcourir la plus longue distance avec Barry, un homme d'affaires monté sur un jetpack, qui avance de plus en plus rapidement au fil du temps.</desc>
+		<image>./mixart/Jetpack Joyride.png</image>
+		<video>./snap/Jetpack Joyride.mp4</video>
+		<marquee>./wheel/Jetpack Joyride.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20121121T000000</releasedate>
+		<developer>Beatshapers</developer>
+		<publisher>Beatshapers</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>256</genreid>
 	</game>
 </gameList>

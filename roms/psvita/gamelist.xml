@@ -1942,20 +1942,6 @@ Legendary Soundtrack: Once again, the crate diggers at Roll7 have scoured the ai
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TxK.cmd</path>
-		<name>TxK</name>
-		<image>./mixart/TxK.jpg</image>
-		<video>./snap/TxK.mp4</video>
-		<marquee>./wheel/TxK.png</marquee>
-		<releasedate>20140211T000000</releasedate>
-		<developer>Llamasoft Ltd.</developer>
-		<publisher>Llamasoft Ltd.</publisher>
-		<genre>Action, Shooter</genre>
-		<favorite>true</favorite>
-		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Awesome Pea (3.61+!) [3.69].cmd</path>
 		<name>Awesome Pea Collection [Limited Edition]</name>
 		<desc>Contains 2 retro-style platformers in one compilation!
@@ -2045,22 +2031,6 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<genre>Adventure</genre>
 		<players>1</players>
 		<md5>696915b5d105058b85e76a2337312da0</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Shinobido 2 Revenge of Zen.cmd</path>
-		<name>Shinobido 2 Revenge of Zen</name>
-		<desc>Shinobido 2: Revenge of Zen is a video game published by Spike in Japan in 2011 and Namco Bandai Games in North America and the PAL region in 2012. It was developed by Acquire, authors of the Tenchu and Way of the Samurai series, as a sequel to Shinobido: Way of the Ninja and Shinobido: Tales of the Ninja. Players take the role of one of the two main characters, Zen and Kaede. The main town features various menus. Some allow players to equip ninja tools such as caltrops, mines, shurikens, potions, smoke bombs, etc., while others let them accept missions from the three primary daimyou. As they progress through the story, players have the choice of which daimyou they want to help, and they are encouraged to only help that daimyou, encouraging three separate playthroughs. The daimyou issue various missions such as assassinating a certain target, protecting a shipping crate with supplies, freeing captive peasants, or stealing resources. Once a mission is selected, players are dropped into a map filled with enemies and treasures to collect. They must utilize stealth and a variety of skills such as a grapple hook, silent assassinations, counter attacks, etc., in order to complete their objective. Once they level up, they can put attribute points into max health, attack, defense, an extended special attack meter that allows for the Zankoku attack (a teleporting silent kill), and a longer grapple hook. Along the way, players will encounter various bosses, such as enemy ninja clan leaders, and eventually the other daimyou themselves. Players can utilize items to weaken their foes or try to lure them into a silent kill, allowing for a wide variety of play-styles.</desc>
-		<image>./mixart/Shinobido 2.jpg</image>
-		<video>./snap/Shinobido 2 Revenge of Zen.mp4</video>
-		<marquee>./wheel/Shinobido 2 Revenge of Zen.png</marquee>
-		<rating>1</rating>
-		<releasedate>20120221T000000</releasedate>
-		<developer>Namco Bandai Games</developer>
-		<publisher>Action, Stealth</publisher>
-		<genre>Action, Fighting</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game id="29632">
@@ -2191,5 +2161,35 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<md5>6bdffbfc1dbd9830e45651d9e95c0f24</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220821T192651" />
+	</game>
+	<game>
+		<path>./Shinobido 2 Revenge of Zen.cmd</path>
+		<name>Shinobido 2 Revenge of Zen</name>
+		<desc>Shinobido 2: Revenge of Zen is a video game published by Spike in Japan in 2011 and Namco Bandai Games in North America and the PAL region in 2012. It was developed by Acquire, authors of the Tenchu and Way of the Samurai series, as a sequel to Shinobido: Way of the Ninja and Shinobido: Tales of the Ninja. Players take the role of one of the two main characters, Zen and Kaede. The main town features various menus. Some allow players to equip ninja tools such as caltrops, mines, shurikens, potions, smoke bombs, etc., while others let them accept missions from the three primary daimyou. As they progress through the story, players have the choice of which daimyou they want to help, and they are encouraged to only help that daimyou, encouraging three separate playthroughs. The daimyou issue various missions such as assassinating a certain target, protecting a shipping crate with supplies, freeing captive peasants, or stealing resources. Once a mission is selected, players are dropped into a map filled with enemies and treasures to collect. They must utilize stealth and a variety of skills such as a grapple hook, silent assassinations, counter attacks, etc., in order to complete their objective. Once they level up, they can put attribute points into max health, attack, defense, an extended special attack meter that allows for the Zankoku attack (a teleporting silent kill), and a longer grapple hook. Along the way, players will encounter various bosses, such as enemy ninja clan leaders, and eventually the other daimyou themselves. Players can utilize items to weaken their foes or try to lure them into a silent kill, allowing for a wide variety of play-styles.</desc>
+		<image>./mixart/Shinobido 2.jpg</image>
+		<video>./snap/Shinobido 2 Revenge of Zen.mp4</video>
+		<marquee>./wheel/Shinobido 2 Revenge of Zen.png</marquee>
+		<rating>1</rating>
+		<releasedate>20120221T000000</releasedate>
+		<developer>Namco Bandai Games</developer>
+		<publisher>Action, Stealth</publisher>
+		<genre>Action, Fighting</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TxK.cmd</path>
+		<name>TxK</name>
+		<image>./mixart/TxK.jpg</image>
+		<video>./snap/TxK.mp4</video>
+		<marquee>./wheel/TxK.png</marquee>
+		<releasedate>20140211T000000</releasedate>
+		<developer>Llamasoft Ltd.</developer>
+		<publisher>Llamasoft Ltd.</publisher>
+		<genre>Action, Shooter</genre>
+		<favorite>true</favorite>
+		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
+		<lang>en</lang>
 	</game>
 </gameList>
