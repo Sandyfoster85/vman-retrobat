@@ -1084,30 +1084,6 @@ As one of these Crude Dudes, you must travel through tough streets and take out 
 		<region>us</region>
 		<cheevosHash>EFF89715B62DCE8B032940B633D824A1</cheevosHash>
 	</game>
-	<game id="202">
-		<path>./Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD)/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).md</path>
-		<name>Wonder Boy III : Monster Lair</name>
-		<desc>Wonder Boy III: Monster Lair is a quite different game to most of the games in the Wonder Boy series. You play a green-haired dude who must attack the invaders that attempt to collect weapons and use them to destroy the land. The game starts out like a simple platform game, but it's just when Wonder Boy enters the skull further on that the game is transformed into a shoot 'em up, so basically the gameplay consists of action and shooter scenes.
-
-In the action scenes, your vitality decreases as you make your way towards the skull, but this can be restored by collecting fruit. A wide variety of weapons can be picked up, and not only does these allow you to use the weapons for a limited amount of time, but they also increase your vitality. 
-
-In the shooter scenes, you ride your pink friend as you make your way through the scene. Here, your vitality remains static unless you are hit by an enemy passing by. As usual, there is a boss waiting for you at the end which you must defeat. Every boss changes color to show how much damage has been done to it. You have to defeat some bosses in two stages.
-
-If your vitality gets low in each scene, you'll lose a life. You can also choose to have Wonder Girl join you, as two players can play the game.</desc>
-		<image>./mixart/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).png</image>
-		<video>./snap/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).mp4</video>
-		<marquee>./wheel/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19910401T000000</releasedate>
-		<developer>Westone</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action</genre>
-		<family>Wonder Boy</family>
-		<players>2</players>
-		<lang>jp</lang>
-		<region>eu</region>
-		<cheevosHash>F3980B6733B91375295954110168F925</cheevosHash>
-	</game>
 	<game id="29">
 		<path>./Wonder Boy in Monster World (USA, Europe) (MSU-MD)/Wonder Boy in Monster World (USA, Europe) (MSU-MD).md</path>
 		<name>Wonder Boy in Monster World</name>
@@ -1190,5 +1166,29 @@ Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opp
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
+	</game>
+	<game id="202">
+		<path>./Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD)/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).md</path>
+		<name>Wonder Boy III : Monster Lair</name>
+		<desc>Wonder Boy III: Monster Lair is a quite different game to most of the games in the Wonder Boy series. You play a green-haired dude who must attack the invaders that attempt to collect weapons and use them to destroy the land. The game starts out like a simple platform game, but it's just when Wonder Boy enters the skull further on that the game is transformed into a shoot 'em up, so basically the gameplay consists of action and shooter scenes.
+
+In the action scenes, your vitality decreases as you make your way towards the skull, but this can be restored by collecting fruit. A wide variety of weapons can be picked up, and not only does these allow you to use the weapons for a limited amount of time, but they also increase your vitality. 
+
+In the shooter scenes, you ride your pink friend as you make your way through the scene. Here, your vitality remains static unless you are hit by an enemy passing by. As usual, there is a boss waiting for you at the end which you must defeat. Every boss changes color to show how much damage has been done to it. You have to defeat some bosses in two stages.
+
+If your vitality gets low in each scene, you'll lose a life. You can also choose to have Wonder Girl join you, as two players can play the game.</desc>
+		<image>./mixart/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).png</image>
+		<video>./snap/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).mp4</video>
+		<marquee>./wheel/Wonder Boy III - Monster Lair (Japan, Europe) (MSU-MD).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19910401T000000</releasedate>
+		<developer>Westone</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action</genre>
+		<family>Wonder Boy</family>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>eu</region>
+		<cheevosHash>F3980B6733B91375295954110168F925</cheevosHash>
 	</game>
 </gameList>

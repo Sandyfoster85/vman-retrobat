@@ -125,15 +125,6 @@
 		<cheevosHash>E0453E22010EA890B1BDE8D6342F86F1</cheevosHash>
 	</game>
 	<game>
-		<path>./buckrog.zip</path>
-		<name>Buck Rogers - Planet of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet of Zoom.png</image>
-		<video>./snap/Buck Rogers - Planet of Zoom.mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet of Zoom.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>AEF9DDC6D59B9C0370BBEE870933BCE2</cheevosHash>
-	</game>
-	<game>
 		<path>./burgertm.zip</path>
 		<name>Burgertime</name>
 		<image>./mixart/Burgertime.png</image>
@@ -802,5 +793,14 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
+	</game>
+	<game>
+		<path>./buckrog.zip</path>
+		<name>Buck Rogers - Planet of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet of Zoom.png</image>
+		<video>./snap/Buck Rogers - Planet of Zoom.mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet of Zoom.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>AEF9DDC6D59B9C0370BBEE870933BCE2</cheevosHash>
 	</game>
 </gameList>

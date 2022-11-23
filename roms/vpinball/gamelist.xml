@@ -3441,21 +3441,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Pirates of the Caribbean Siggis Mod 1.0.vpx</path>
-		<name>Pirates of the Caribbean Siggis Mod 1.0</name>
-		<desc>Flipper Pirates of the Caribbean Siggis Mod 1.0</desc>
-		<image>./mixart/Pirates of the Caribbean Siggis Mod 1.0.jpg</image>
-		<video>./snap/Pirates of the Caribbean Siggis Mod 1.0.mp4</video>
-		<marquee>./wheel/Pirates of the Caribbean Siggis Mod 1.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Space Oddity.vpx</path>
 		<name>Space Oddity</name>
 		<desc>Flipper Space Oddity</desc>
@@ -3569,7 +3554,7 @@
 	</game>
 	<game>
 		<path>./Six Million Dollar Man, The (Bally 1978).vpx</path>
-		<name>Six Million Dollar Man, The (Bally 1978)</name>
+		<name>Six Million Dollar Man, The (Bally 1978) (PupEdition)</name>
 		<desc>Flipper Six Million Dollar Man, The (Bally 1978)</desc>
 		<image>./mixart/Six Million Dollar Man, The (Bally 1978).png</image>
 		<video>./snap/Six Million Dollar Man, The (Bally 1978).mp4</video>
@@ -6040,22 +6025,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Conan (Rowamet 1983) SoundMOD v2.0.vpx</path>
-		<name>Conan</name>
-		<desc>Flipper Conan (Rowamet 1983) SoundMOD v2.0</desc>
-		<image>./mixart/Conan (Rowamet 1983) SoundMOD v2.0.png</image>
-		<video>./snap/Conan (Rowamet 1983) SoundMOD v2.0.mp4</video>
-		<marquee>./wheel/Conan (Rowamet 1983) SoundMOD v2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./HALO.vpx</path>
 		<name>HALO</name>
 		<desc>Flipper HALO</desc>
@@ -6361,22 +6330,6 @@
 		<marquee>./wheel/Creepshow.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Independence Day (SEGA 1996)  2.0.vpx</path>
-		<name>Independence Day (SEGA 1996) (PupEdition)</name>
-		<desc>Flipper Independence Day (SEGA 1996)  2.0</desc>
-		<image>./mixart/Independence Day (SEGA 1996)  2.0.jpg</image>
-		<video>./snap/Independence Day (SEGA 1996)  2.0.mp4</video>
-		<marquee>./wheel/Independence Day (SEGA 1996)  2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -7805,22 +7758,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./F-14 Tomcat (1987).vpx</path>
-		<name>F-14 Tomcat (1987)</name>
-		<desc>Flipper F-14 Tomcat (1987)</desc>
-		<image>./mixart/F-14 Tomcat (1987).png</image>
-		<video>./snap/F-14 Tomcat (1987).mp4</video>
-		<marquee>./wheel/F-14 Tomcat (1987).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Far Cry 3 Blood Dragon (TBA 2018).vpx</path>
 		<name>Far Cry 3 Blood Dragon (TBA 2018)</name>
 		<desc>Flipper Far Cry 3 Blood Dragon (TBA 2018)</desc>
@@ -7833,22 +7770,6 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./IronMan_1.2.1.vpx</path>
-		<name>IronMan (PupEdition)</name>
-		<desc>Flipper IronMan Vault Edition (Stern 2010) VPW</desc>
-		<image>./mixart/IronMan_1.2.1.jpg</image>
-		<video>./snap/IronMan_1.2.1.mp4</video>
-		<marquee>./wheel/IronMan_1.2.1.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -8180,6 +8101,85 @@
 		<marquee>./wheel/KILL BILL_VP_Cooks_ENGLISH.png</marquee>
 		<rating>3</rating>
 		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Conan (Rowamet 1983) SoundMOD v2.0.vpx</path>
+		<name>Conan</name>
+		<desc>Flipper Conan (Rowamet 1983) SoundMOD v2.0</desc>
+		<image>./mixart/Conan (Rowamet 1983) SoundMOD v2.0.png</image>
+		<video>./snap/Conan (Rowamet 1983) SoundMOD v2.0.mp4</video>
+		<marquee>./wheel/Conan (Rowamet 1983) SoundMOD v2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Independence Day (SEGA 1996)  2.0.vpx</path>
+		<name>Independence Day (SEGA 1996) (PupEdition)</name>
+		<desc>Flipper Independence Day (SEGA 1996)  2.0</desc>
+		<image>./mixart/Independence Day (SEGA 1996)  2.0.jpg</image>
+		<video>./snap/Independence Day (SEGA 1996)  2.0.mp4</video>
+		<marquee>./wheel/Independence Day (SEGA 1996)  2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./IronMan_1.2.1.vpx</path>
+		<name>IronMan (PupEdition)</name>
+		<desc>Flipper IronMan Vault Edition (Stern 2010) VPW</desc>
+		<image>./mixart/IronMan_1.2.1.jpg</image>
+		<video>./snap/IronMan_1.2.1.mp4</video>
+		<marquee>./wheel/IronMan_1.2.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Pirates of the Caribbean Siggis Mod 1.0.vpx</path>
+		<name>Pirates of the Caribbean Siggis Mod 1.0</name>
+		<desc>Flipper Pirates of the Caribbean Siggis Mod 1.0</desc>
+		<image>./mixart/Pirates of the Caribbean Siggis Mod 1.0.jpg</image>
+		<video>./snap/Pirates of the Caribbean Siggis Mod 1.0.mp4</video>
+		<marquee>./wheel/Pirates of the Caribbean Siggis Mod 1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./F-14 Tomcat (1987).vpx</path>
+		<name>F-14 Tomcat (1987)</name>
+		<desc>Flipper F-14 Tomcat (1987)</desc>
+		<image>./mixart/F-14 Tomcat (1987).png</image>
+		<video>./snap/F-14 Tomcat (1987).mp4</video>
+		<marquee>./wheel/F-14 Tomcat (1987).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>

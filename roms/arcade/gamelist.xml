@@ -22648,39 +22648,6 @@ As the player, you must move the trampoline from side to side, using the steerin
 		<cheevosHash>AD5CBDC66CDCF2134A7BD80019C27BA8</cheevosHash>
 	</game>
 	<game>
-		<path>./centiped.zip</path>
-		<name>Centipede</name>
-		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
-
-The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
-
-Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
-
-Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
-
-Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
-
-A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
-
-When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
-
-If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
-		<emulator>angle</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/centiped.png</image>
-		<video>./snap/centiped.mp4</video>
-		<marquee>./wheel/centiped.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shooter-Shooter / Space Invaders Like</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3E30300051E145ABAF2164A53F107BB7</cheevosHash>
-	</game>
-	<game>
 		<path>./cerberus.zip</path>
 		<name>Cerberus</name>
 		<desc>An early shoot'em up game.</desc>
@@ -24699,23 +24666,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=523&amp
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>10BC56FE085C3959FABDD35866FBBCF6</cheevosHash>
-	</game>
-	<game>
-		<path>./crazywar.zip</path>
-		<name>Crazy War</name>
-		<desc>'Crazy War' is a video game revolving around an epic battle between the Coalition of Planets, and the evil Devilion Empire.    In the year 544 the Devilion Empire has invaded the calm galaxy to expand its territory. The Coalition of Planets has selected seven special personnel to fight the Devilion Empire, and the player takes on the role of one of these seven, embarking on a mission to destroy the Devilion Empire's Evil Stone. The mission is completed over 13 levels.    Crazy War is a video game for 1 or 2 players. In 1-player mode, become one of the 7 special personnel and perform your role to destroy the Evil Stone. In 2-player mode, both players fight against each other.</desc>
-		<image>./mixart/crazywar.png</image>
-		<video>./snap/crazywar.mp4</video>
-		<marquee>./wheel/crazywar.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Eolith Co., Ltd.</developer>
-		<publisher>Eolith</publisher>
-		<genre>Action/Maze</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>22030797ED5EB6ABC2B5375B96C190F1</cheevosHash>
 	</game>
 	<game>
 		<path>./crbaloon.zip</path>
@@ -43655,28 +43605,6 @@ Upon completion of the first eight screens, the player's ship will revert back t
 		<region>us</region>
 		<cheevosHash>5453DAE252CB54545C0ED2219ACF2BCB</cheevosHash>
 	</game>
-	<game id="78974">
-		<path>./moremorp.zip</path>
-		<name>More More Plus</name>
-		<desc>More More Plus is the sequel to "More More" with much improved graphics and the addition of three more games. The game features a collection of 20 different mini-games to challenge the player's skill. Unlike the previous game, players can now select any of the 20 games at any time. If the player successfully meets the challenge in the mini-game then he can continue to play. If the player achieves an "excellent" rating in four games then they will receive an extra life.  The game is over once the player has lost of their lives.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/moremorp.png</image>
-		<video>./snap/moremorp.mp4</video>
-		<marquee>./wheel/moremorp.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SemiCom</developer>
-		<publisher>SemiCom</publisher>
-		<genre>Compilation</genre>
-		<family>More More</family>
-		<arcadesystemname>semicom</arcadesystemname>
-		<players>2</players>
-		<md5>14f341ac6f8b6a21feeb907e1ad03009</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C32C458A59B280A86CB50BE5D4C6655E</cheevosHash>
-	</game>
 	<game id="63124">
 		<path>./mosaica.zip</path>
 		<name>Mosaic</name>
@@ -57322,23 +57250,6 @@ To aid him in his difficult quest, the Spelunker carries a gun and can shoot sho
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>47393635A2B7C7A8AE48E703DFA91B2C</cheevosHash>
-	</game>
-	<game>
-		<path>./spinlbrk.zip</path>
-		<name>Spinal Breakers</name>
-		<desc>Rare "Cabal" type shoot'em up.</desc>
-		<image>./mixart/spinlbrk.png</image>
-		<video>./snap/spinlbrk.mp4</video>
-		<marquee>./wheel/spinlbrk.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>V-System Co.</developer>
-		<publisher>V-System Co.</publisher>
-		<genre>Shooter-Shooter / 3rd person</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C21F954C01BDAE4894A6811202A9DB45</cheevosHash>
 	</game>
 	<game>
 		<path>./spinmast.zip</path>
@@ -72908,5 +72819,94 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
+	</game>
+	<game>
+		<path>./centiped.zip</path>
+		<name>Centipede</name>
+		<desc>Centipede is a vertically oriented single screen shoot-em-up in which the aim is to use the 'Bug Blaster' to shoot the centipedes that snake down towards the bottom of the screen to amass as high a score as possible. 
+
+The play-field is littered with randomly placed mushrooms and the rapidly descending Centipede changes direction when it runs into a mushroom. When a segment of the Centipede is shot, the segment is destroyed and a mushroom appears in its place, the Centipede then breaks into two smaller centipedes, each with its own head, and continues its descent. 
+
+Players can move the Bug Blaster vertically as well as horizontally, although only for the lower fifth of the play-field. Mushrooms can also be shot for points and to clear blocked areas. Once a Centipede reaches the bottom of the screen, it starts snaking back up, but remains within the lower section of the play-field near the player's Bug Blaster.
+
+Additionally, any Centipede that reaches the very bottom of the screen without being shot releases its tail section which then becomes a new head. Other new heads also enter the screen from the bottom corners of the play-field as time progresses.
+
+Randomly moving Spiders also appear in the first wave. Spiders can destroy any mushrooms they move over, eliminating many mushroom targets for a player. If the Bug Blaster and a Spider collide, both are destroyed. the Spider either moves at a 45-degree angle or vertically up and down, never simply left or right like the centipede does.
+
+A bombardment of Fleas appears from the second wave onward. As a Flea descends, it leaves a trail of new mushrooms behind it. Fleas appear when a certain number of mushrooms remains at the bottom of the screen. This number increases as the game progresses, meaning Fleas appear more often later on in the game. The Bug Blaster must hit a Flea twice to destroy it; the first shot simply speeds up its descent.
+
+When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
+
+If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
+		<emulator>angle</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/centiped.png</image>
+		<video>./snap/centiped.mp4</video>
+		<marquee>./wheel/centiped.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shooter-Shooter / Space Invaders Like</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3E30300051E145ABAF2164A53F107BB7</cheevosHash>
+	</game>
+	<game>
+		<path>./crazywar.zip</path>
+		<name>Crazy War</name>
+		<desc>'Crazy War' is a video game revolving around an epic battle between the Coalition of Planets, and the evil Devilion Empire.    In the year 544 the Devilion Empire has invaded the calm galaxy to expand its territory. The Coalition of Planets has selected seven special personnel to fight the Devilion Empire, and the player takes on the role of one of these seven, embarking on a mission to destroy the Devilion Empire's Evil Stone. The mission is completed over 13 levels.    Crazy War is a video game for 1 or 2 players. In 1-player mode, become one of the 7 special personnel and perform your role to destroy the Evil Stone. In 2-player mode, both players fight against each other.</desc>
+		<image>./mixart/crazywar.png</image>
+		<video>./snap/crazywar.mp4</video>
+		<marquee>./wheel/crazywar.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Eolith Co., Ltd.</developer>
+		<publisher>Eolith</publisher>
+		<genre>Action/Maze</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>22030797ED5EB6ABC2B5375B96C190F1</cheevosHash>
+	</game>
+	<game id="78974">
+		<path>./moremorp.zip</path>
+		<name>More More Plus</name>
+		<desc>More More Plus is the sequel to "More More" with much improved graphics and the addition of three more games. The game features a collection of 20 different mini-games to challenge the player's skill. Unlike the previous game, players can now select any of the 20 games at any time. If the player successfully meets the challenge in the mini-game then he can continue to play. If the player achieves an "excellent" rating in four games then they will receive an extra life.  The game is over once the player has lost of their lives.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/moremorp.png</image>
+		<video>./snap/moremorp.mp4</video>
+		<marquee>./wheel/moremorp.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SemiCom</developer>
+		<publisher>SemiCom</publisher>
+		<genre>Compilation</genre>
+		<family>More More</family>
+		<arcadesystemname>semicom</arcadesystemname>
+		<players>2</players>
+		<md5>14f341ac6f8b6a21feeb907e1ad03009</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C32C458A59B280A86CB50BE5D4C6655E</cheevosHash>
+	</game>
+	<game>
+		<path>./spinlbrk.zip</path>
+		<name>Spinal Breakers</name>
+		<desc>Rare "Cabal" type shoot'em up.</desc>
+		<image>./mixart/spinlbrk.png</image>
+		<video>./snap/spinlbrk.mp4</video>
+		<marquee>./wheel/spinlbrk.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>V-System Co.</developer>
+		<publisher>V-System Co.</publisher>
+		<genre>Shooter-Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C21F954C01BDAE4894A6811202A9DB45</cheevosHash>
 	</game>
 </gameList>

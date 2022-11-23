@@ -316,22 +316,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<players>2</players>
 		<genreid>1536</genreid>
 	</game>
-	<game>
-		<path>./hotd.zip</path>
-		<name>House of the Dead</name>
-		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
-		<image>./mixart/hotd.png</image>
-		<video>./snap/hotd.mp4</video>
-		<marquee>./wheel/hotd.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37485" source="ScreenScraper.fr">
 		<path>./skytargt.zip</path>
 		<name>Sky Target</name>
@@ -364,23 +348,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1538</genreid>
-	</game>
-	<game>
-		<path>./vcop2.zip</path>
-		<name>Virtua Cop 2</name>
-		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
-		<image>./mixart/vcop2.png</image>
-		<video>./snap/vcop2.mp4</video>
-		<marquee>./wheel/vcop2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
 	</game>
 	<game id="37495" source="ScreenScraper.fr">
 		<path>./vf2.zip</path>
@@ -519,5 +486,38 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
 		<genreid>260</genreid>
+	</game>
+	<game>
+		<path>./hotd.zip</path>
+		<name>House of the Dead</name>
+		<desc>Make your way through a haunted mansion filled with crazed zombies, chainsaw-wielding 'undeads' and other nasty creatures! Your mission is to investigate the status of the mysteriously missing personnel at a genetic engineering center, and the first team of operatives sent to rescue them. You must destroy the Undead's evil creator, Dr. Curien, while saving the scientists and your girl. During the game, you discover that good doctor is the one resurrecting the Undead, and you must stop him and his evil undead minions.</desc>
+		<image>./mixart/hotd.png</image>
+		<video>./snap/hotd.mp4</video>
+		<marquee>./wheel/hotd.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>
