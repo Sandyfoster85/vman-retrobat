@@ -44395,24 +44395,6 @@ On the night of each sacrifice, a great number of shooting stars could be seen, 
 		<region>us</region>
 		<cheevosHash>4AC881B297A91BD43BD8366B9D495434</cheevosHash>
 	</game>
-	<game id="63183">
-		<path>./musicbal.zip</path>
-		<name>Music Ball</name>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/musicbal.png</image>
-		<video>./snap/musicbal.mp4</video>
-		<marquee>./wheel/musicbal.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Tecfri / Desystem S.A.</developer>
-		<publisher>Tecfri / Desystem S.A.</publisher>
-		<genre>Pinball</genre>
-		<md5>8b64f151820358f7962c05d99188694c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>148612730FFF4DAB6D514506064F63ED</cheevosHash>
-	</game>
 	<game>
 		<path>./mustache.zip</path>
 		<name>Mustache Boy</name>
@@ -72908,5 +72890,23 @@ If a player earns at least 60,000 points, two things happen to increase the chal
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C21F954C01BDAE4894A6811202A9DB45</cheevosHash>
+	</game>
+	<game id="63183">
+		<path>./musicbal.zip</path>
+		<name>Music Ball</name>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/musicbal.png</image>
+		<video>./snap/musicbal.mp4</video>
+		<marquee>./wheel/musicbal.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Tecfri / Desystem S.A.</developer>
+		<publisher>Tecfri / Desystem S.A.</publisher>
+		<genre>Pinball</genre>
+		<md5>8b64f151820358f7962c05d99188694c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>148612730FFF4DAB6D514506064F63ED</cheevosHash>
 	</game>
 </gameList>

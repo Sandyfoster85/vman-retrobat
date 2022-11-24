@@ -4493,30 +4493,6 @@ The tournament mode is the main part of the game. Players start out in a fishing
 		<region>us</region>
 		<cheevosHash>622E303C560DB177FE386229243AB7B6</cheevosHash>
 	</game>
-	<game id="62" source="ScreenScraper.fr">
-		<path>./Batman (USA).7z</path>
-		<name>Batman : The Video Game</name>
-		<desc>The Genesis version of Batman: The Video Game follows closely the plot from the 1989 movie.
-
-The game consists in six stages, four of side-scrolling platform action and two side-scrolling shooter ones, in the following order: Gotham City Street, Axis Chemical Factory, Flugelheim Museum, Gotham City Street (with the Batmobile and after that on foot), In the Sky over Gotham City (with the Batwing) and the Cathedral, where Batman finally faces the Joker.
-
-Batman can beat his enemies by punching them, slide kicking (by pressing down and the B button) or throwing his Batarang. By holding down the B button, Batman will block projectile-based attacks. He can also use his double jump (pressing the C button a second time while ascending) to leap greater distances or attack his enemies. To reach higher platforms, Batman can use his Grappling Hook (by pressing up and C to shoot, C again to climb). While piloting the Batmobile or the Batwing, Batman can shoot the Twin Vulcan Cannons (B button) or Twin Homing Missiles (A button).
-
-Through the levels, Batman will collect Batman emblems (which will give him Batarangs or Twin Homing Missiles, depending on the stage played), Hearts (which give him health) and Batman heads (which give him an extra life).</desc>
-		<image>./mixart/Batman (USA).png</image>
-		<video>./snap/Batman (USA).mp4</video>
-		<marquee>./wheel/Batman (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19910601T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5AE78355DA64CF17755175E9CFE48405</cheevosHash>
-		<cheevosId>45</cheevosId>
-	</game>
 	<game id="199" source="ScreenScraper.fr">
 		<path>./Batman - Revenge of the Joker (USA).7z</path>
 		<name>Batman : Revenge of the Joker</name>
@@ -16362,5 +16338,29 @@ Following a confrontation that has not ended well, he is going to try and bring 
 		<cheevosHash>414DE495107E20FB3F4439E03053E329</cheevosHash>
 		<scrap name="ScreenScraper" date="20221016T085309" />
 		<scrap name="HfsDB" date="20221016T085627" />
+	</game>
+	<game id="62" source="ScreenScraper.fr">
+		<path>./Batman (USA).7z</path>
+		<name>Batman : The Video Game</name>
+		<desc>The Genesis version of Batman: The Video Game follows closely the plot from the 1989 movie.
+
+The game consists in six stages, four of side-scrolling platform action and two side-scrolling shooter ones, in the following order: Gotham City Street, Axis Chemical Factory, Flugelheim Museum, Gotham City Street (with the Batmobile and after that on foot), In the Sky over Gotham City (with the Batwing) and the Cathedral, where Batman finally faces the Joker.
+
+Batman can beat his enemies by punching them, slide kicking (by pressing down and the B button) or throwing his Batarang. By holding down the B button, Batman will block projectile-based attacks. He can also use his double jump (pressing the C button a second time while ascending) to leap greater distances or attack his enemies. To reach higher platforms, Batman can use his Grappling Hook (by pressing up and C to shoot, C again to climb). While piloting the Batmobile or the Batwing, Batman can shoot the Twin Vulcan Cannons (B button) or Twin Homing Missiles (A button).
+
+Through the levels, Batman will collect Batman emblems (which will give him Batarangs or Twin Homing Missiles, depending on the stage played), Hearts (which give him health) and Batman heads (which give him an extra life).</desc>
+		<image>./mixart/Batman (USA).png</image>
+		<video>./snap/Batman (USA).mp4</video>
+		<marquee>./wheel/Batman (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19910601T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5AE78355DA64CF17755175E9CFE48405</cheevosHash>
+		<cheevosId>45</cheevosId>
 	</game>
 </gameList>

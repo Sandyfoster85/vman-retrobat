@@ -1483,24 +1483,6 @@ The player uses a wooden stick to ward off enemies. The stick that Frankenstein'
 		<players>1</players>
 		<cheevosHash>F48C5DA08C3CB97C266D4A91617F7AC9</cheevosHash>
 	</game>
-	<game id="97360" source="ScreenScraper.fr">
-		<path>./Masked Rider, The - Kamen Rider ZO (USA).chd</path>
-		<name>The Masked Rider: Kamen Rider ZO</name>
-		<desc>The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle.
-
-This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.
-
-The player watches the video and hits the correct direction or button at the right time to achieve success. The visual cues of the movie suggest the correct buttons. For example, when the Masked Rider punches, the player should press the Punch button. If he dodges left on screen, the player should press the left direction pad. Correct timing hits the enemy harder, lowering their health bar. Failure reduces the players health.</desc>
-		<image>./mixart/Masked Rider, The - Kamen Rider ZO (USA).png</image>
-		<video>./snap/Masked Rider, The - Kamen Rider ZO (USA).mp4</video>
-		<marquee>./wheel/Masked Rider, The - Kamen Rider ZO (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Toei Video Co.</developer>
-		<publisher>Sega</publisher>
-		<cheevosHash>04521EB3A053F158715230281083E812</cheevosHash>
-		<cheevosId>15705</cheevosId>
-	</game>
 	<game id="140537" source="ScreenScraper.fr">
 		<path>./MegaRace (1994)(The Software Toolworks)(NTSC)(US)[CDAC-073000 1].chd</path>
 		<name>MegaRace</name>
@@ -3194,5 +3176,23 @@ As Saul, it is your job to traverse five different areas on your way to Draxx. W
 		<region>us</region>
 		<cheevosHash>1E5609B304F3B0B023CAAC37B2F995F0</cheevosHash>
 		<cheevosId>10022</cheevosId>
+	</game>
+	<game id="97360" source="ScreenScraper.fr">
+		<path>./Masked Rider, The - Kamen Rider ZO (USA).chd</path>
+		<name>The Masked Rider: Kamen Rider ZO</name>
+		<desc>The Masked Rider is a Japanese super hero, a man who has become genetically altered to be a man/grasshopper who rides a motorcycle.
+
+This FMV game adapts scenes from the movie Masked Rider ZO, and creates a Dragon's Lair style experience. The game centers around 10 battles of the film's 3 main characters.
+
+The player watches the video and hits the correct direction or button at the right time to achieve success. The visual cues of the movie suggest the correct buttons. For example, when the Masked Rider punches, the player should press the Punch button. If he dodges left on screen, the player should press the left direction pad. Correct timing hits the enemy harder, lowering their health bar. Failure reduces the players health.</desc>
+		<image>./mixart/Masked Rider, The - Kamen Rider ZO (USA).png</image>
+		<video>./snap/Masked Rider, The - Kamen Rider ZO (USA).mp4</video>
+		<marquee>./wheel/Masked Rider, The - Kamen Rider ZO (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Toei Video Co.</developer>
+		<publisher>Sega</publisher>
+		<cheevosHash>04521EB3A053F158715230281083E812</cheevosHash>
+		<cheevosId>15705</cheevosId>
 	</game>
 </gameList>

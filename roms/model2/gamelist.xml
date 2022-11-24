@@ -138,22 +138,6 @@ The music is very identical to the songs from the Sega Model 3 game, "Harley-Dav
 		<region>us</region>
 	</game>
 	<game>
-		<path>./fvipers.zip</path>
-		<name>Fighting Vipers</name>
-		<desc>Fighting Vipers is a 3-D fighting game.</desc>
-		<image>./mixart/fvipers.png</image>
-		<video>./snap/fvipers.mp4</video>
-		<marquee>./wheel/fvipers.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / 3D-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./lastbrnx.zip</path>
 		<name>Last Bronx</name>
 		<desc>Nine gang leaders battle it out for control over Tokyo city in this AM3 developed arcade fighting game. It was the first motion captured fighting game released back in May 1996 to Arcades in Japan.</desc>
@@ -316,21 +300,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<players>2</players>
 		<genreid>1536</genreid>
 	</game>
-	<game id="37485" source="ScreenScraper.fr">
-		<path>./skytargt.zip</path>
-		<name>Sky Target</name>
-		<desc>Sky Target is a 1995 arcade game by Sega. A rail shooter featuring a number of planes including the default F-14D Super Tomcat, it is best remembered for its semi-official connection to Sega's earlier hit After Burner. Although never billed as a sequel, its overt similarities to the 1987 classic were nonetheless referenced in official promotional materials and recognized by the media.</desc>
-		<image>./mixart/skytargt.png</image>
-		<video>./snap/skytargt.mp4</video>
-		<marquee>./wheel/skytargt.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>1</players>
-		<genreid>260</genreid>
-	</game>
 	<game id="37492" source="ScreenScraper.fr">
 		<path>./topskatr.zip</path>
 		<name>Top Skater</name>
@@ -472,21 +441,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<region>us</region>
 		<genreid>260</genreid>
 	</game>
-	<game id="37493" source="ScreenScraper.fr">
-		<path>./vcop.zip</path>
-		<name>Virtua Cop</name>
-		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
-		<image>./mixart/vcop.png</image>
-		<video>./snap/vcop.mp4</video>
-		<marquee>./wheel/vcopa.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./hotd.zip</path>
 		<name>House of the Dead</name>
@@ -499,6 +453,22 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./fvipers.zip</path>
+		<name>Fighting Vipers</name>
+		<desc>Fighting Vipers is a 3-D fighting game.</desc>
+		<image>./mixart/fvipers.png</image>
+		<video>./snap/fvipers.mp4</video>
+		<marquee>./wheel/fvipers.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / 3D-Fight</genre>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
@@ -519,5 +489,39 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37485" source="ScreenScraper.fr">
+		<path>./skytargt.zip</path>
+		<name>Sky Target</name>
+		<desc>Sky Target is a 1995 arcade game by Sega. A rail shooter featuring a number of planes including the default F-14D Super Tomcat, it is best remembered for its semi-official connection to Sega's earlier hit After Burner. Although never billed as a sequel, its overt similarities to the 1987 classic were nonetheless referenced in official promotional materials and recognized by the media.</desc>
+		<image>./mixart/skytargt.png</image>
+		<video>./snap/skytargt.mp4</video>
+		<marquee>./wheel/skytargt.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
+	</game>
+	<game id="37493" source="ScreenScraper.fr">
+		<path>./vcop.zip</path>
+		<name>Virtua Cop</name>
+		<desc>Players assume the role of police officers in a first-person perspective and use a light gun to shoot criminals and advance through the game, with penalties for shooting civilians. The players could also shoot powerups that grants him a weapon or a life. The weapon is lost if the player is hit, but not if he shoots a civilian. Virtua Cop was notable for its use of polygonal graphics, which were subsequently used in both House of the Dead and Time Crisis, instead of the two dimensional sprites that were popular for previous games in the same genre. It is also notable for being one of the first games to allow the player to shoot through glass. Its name derived from this graphical style, which was previously used in Virtua Fighter, Virtua Striker and Virtua Racing.</desc>
+		<image>./mixart/vcop.png</image>
+		<video>./snap/vcop.mp4</video>
+		<marquee>./wheel/vcopa.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

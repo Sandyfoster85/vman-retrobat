@@ -96,21 +96,6 @@
 		<cheevosHash>34CBB1562169C426691992B02F2B3606</cheevosHash>
 	</game>
 	<game>
-		<path>./ngbc.zip</path>
-		<name>Neo-geo Battle Coliseum</name>
-		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
-		<image>./mixart/ngbc.png</image>
-		<video>./snap/ngbc.mp4</video>
-		<marquee>./wheel/ngbc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
-	</game>
-	<game>
 		<path>./basschal.zip</path>
 		<name>Sega Bass Fishing Challenge</name>
 		<desc>Sega Bass Fishing Challenge is a 1-Player only fishing game.</desc>
@@ -462,5 +447,20 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>85D75973F9946590FF3AD93387CF7F98</cheevosHash>
+	</game>
+	<game>
+		<path>./ngbc.zip</path>
+		<name>Neo-geo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./mixart/ngbc.png</image>
+		<video>./snap/ngbc.mp4</video>
+		<marquee>./wheel/ngbc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
 	</game>
 </gameList>

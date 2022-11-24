@@ -3160,21 +3160,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Missing in Action (TBA 2018).vpx</path>
-		<name>Missing in Action (TBA 2018)</name>
-		<desc>Flipper Missing in Action (TBA 2018)</desc>
-		<image>./mixart/Missing in Action (TBA 2018).png</image>
-		<video>./snap/Missing in Action (TBA 2018).mp4</video>
-		<marquee>./wheel/Missing in Action (TBA 2018).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./wackyraces.vpx</path>
 		<name>Wacky Races</name>
 		<desc>Flipper Wacky Races</desc>
@@ -3228,21 +3213,6 @@
 		<image>./mixart/Strikes 'N Spares (1995).png</image>
 		<video>./snap/Strikes 'N Spares (1995).mp4</video>
 		<marquee>./wheel/Strikes 'N Spares (1995).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Blade Runner 2049 1.3.vpx</path>
-		<name>Blade Runner 2049 1.3</name>
-		<desc>Flipper Blade Runner 2049 1.3</desc>
-		<image>./mixart/Blade Runner 2049 1.3.jpg</image>
-		<video>./snap/Blade Runner 2049 1.3.mp4</video>
-		<marquee>./wheel/Blade Runner 2049 1.3.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -4382,21 +4352,6 @@
 		<image>./mixart/Congo (1995).png</image>
 		<video>./snap/Congo (1995).mp4</video>
 		<marquee>./wheel/Congo (1995).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Cosmic Gunfight (1982).vpx</path>
-		<name>Cosmic Gunfight (1982)</name>
-		<desc>Flipper Cosmic Gunfight (1982)</desc>
-		<image>./mixart/Cosmic Gunfight (1982).png</image>
-		<video>./snap/Cosmic Gunfight (1982).mp4</video>
-		<marquee>./wheel/Cosmic Gunfight (1982).png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -6259,21 +6214,6 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Motörhead (1980).vpx</path>
-		<name>Motörhead</name>
-		<desc>Flipper from the Band Motorhead (1980)</desc>
-		<image>./mixart/Motörhead (1980).png</image>
-		<video>./snap/Motörhead (1980).mp4</video>
-		<marquee>./wheel/Motörhead (1980).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20110924T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Fanmade</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -8185,6 +8125,66 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blade Runner 2049 1.3.vpx</path>
+		<name>Blade Runner 2049 1.3</name>
+		<desc>Flipper Blade Runner 2049 1.3</desc>
+		<image>./mixart/Blade Runner 2049 1.3.jpg</image>
+		<video>./snap/Blade Runner 2049 1.3.mp4</video>
+		<marquee>./wheel/Blade Runner 2049 1.3.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Cosmic Gunfight (1982).vpx</path>
+		<name>Cosmic Gunfight (1982)</name>
+		<desc>Flipper Cosmic Gunfight (1982)</desc>
+		<image>./mixart/Cosmic Gunfight (1982).png</image>
+		<video>./snap/Cosmic Gunfight (1982).mp4</video>
+		<marquee>./wheel/Cosmic Gunfight (1982).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Missing in Action (TBA 2018).vpx</path>
+		<name>Missing in Action (TBA 2018)</name>
+		<desc>Flipper Missing in Action (TBA 2018)</desc>
+		<image>./mixart/Missing in Action (TBA 2018).png</image>
+		<video>./snap/Missing in Action (TBA 2018).mp4</video>
+		<marquee>./wheel/Missing in Action (TBA 2018).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Motörhead (1980).vpx</path>
+		<name>Motörhead</name>
+		<desc>Flipper from the Band Motorhead (1980)</desc>
+		<image>./mixart/Motörhead (1980).png</image>
+		<video>./snap/Motörhead (1980).mp4</video>
+		<marquee>./wheel/Motörhead (1980).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>
