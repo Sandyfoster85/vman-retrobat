@@ -43531,31 +43531,6 @@ Four computer-controlled cars provide challenge: they pass the player's car at h
 		<cheevosHash>2AD67D429F5C6301FE08B563027C5569</cheevosHash>
 	</game>
 	<game>
-		<path>./mooncrst.zip</path>
-		<name>Moon Cresta</name>
-		<desc>Moon Cresta is a single screen shoot-em-up with the player controlling an armed ship that moves horizontally along the bottom of the screen and must use their ship to destroy waves of attacking aliens. 
-
-The player begins the game with a small ship armed with a single laser cannon. Upon successful completion of the first four waves of alien attacks, the player's ship will be able to dock with the next 'stage' of fighter ship, although the docking procedure must be completed within a set time. This larger, two-stage ship has increased fire power (three lasers).
-
-After successfully clearing a further two alien waves and surviving a meteor shower, the two-stage ship will be able to dock with the third and final piece, giving the player the largest and most powerful ship, which is now armed with five lasers. Bonus points are awarded depending on how quickly the docking procedures are completed.
-
-If the multi-stage ship is hit, the player continues with whatever stages remain. If players achieve a score of 30,000, they are awarded a free game and their score continues to accumulate.
-
-Upon completion of the first eight screens, the player's ship will revert back to its small, single-stage incarnation and the game begins again with an increased level of difficulty.</desc>
-		<image>./mixart/mooncrst.png</image>
-		<video>./snap/mooncrst.mp4</video>
-		<marquee>./wheel/mooncrst.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shooter / Space Invaders Like-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D07D295C273510A7167CC4B1C4D18BD5</cheevosHash>
-	</game>
-	<game>
 		<path>./moonqsr.zip</path>
 		<name>Moon Quasar</name>
 		<desc>The space patrol aboard, can you survive the last invasion? you will need cross the entire galaxy and destroy the impending alien menace, should avoid losing one of the three modules of the ship and refuel your tank fuel to complete the mission.</desc>
@@ -60947,31 +60922,6 @@ Hasta La Vista, Baby!</desc>
 		<cheevosHash>F064BA69EEC828668EB9475146E336B5</cheevosHash>
 	</game>
 	<game>
-		<path>./terracre.zip</path>
-		<name>Terra Cresta</name>
-		<desc>Terra Cresta is a vertically-scrolling shoot-em-up set over a constantly scrolling landscape of islands and enemy installations. The player is under constant attack from enemy spaceship waves, ground-based guns and turrets, dinosaurs and three different mothercraft ships. 
-
-The levels are littered with ground-based silos bearing numbers between 2 and 5. These can be shot to release a player ship component, which then attaches to the player's current ship, increasing both its size and firepower. Power-ups available are 2-Wide shot, 3-Rear Shot, 4-Front cannon and 5-Rear shield. 
-
-Using the 'Formation' button splits the ship parts into a formation for limited time, giving increased fire power. The number of parts acquired determines the formation. For example, if the player has picked up two ship parts then a triangle is formed, with the player's main ship at the rear of the formation, with additional two ship components positioned at the front edge of the triangle. 
-
-When all four numbered parts have been collected, the player's ship transforms into a flaming Phoenix, and is indestructible for a limited time.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/terracre.png</image>
-		<video>./snap/terracre.mp4</video>
-		<marquee>./wheel/terracre.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E3CDDF627AE97C00AE872B52980584C1</cheevosHash>
-	</game>
-	<game>
 		<path>./terraf.zip</path>
 		<name>Terra Force</name>
 		<desc>A standard shooter. All levels are divided in 2 parts : overworld with vertical direction and underground with horizontal.</desc>
@@ -72908,5 +72858,55 @@ If a player earns at least 60,000 points, two things happen to increase the chal
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>148612730FFF4DAB6D514506064F63ED</cheevosHash>
+	</game>
+	<game>
+		<path>./mooncrst.zip</path>
+		<name>Moon Cresta</name>
+		<desc>Moon Cresta is a single screen shoot-em-up with the player controlling an armed ship that moves horizontally along the bottom of the screen and must use their ship to destroy waves of attacking aliens. 
+
+The player begins the game with a small ship armed with a single laser cannon. Upon successful completion of the first four waves of alien attacks, the player's ship will be able to dock with the next 'stage' of fighter ship, although the docking procedure must be completed within a set time. This larger, two-stage ship has increased fire power (three lasers).
+
+After successfully clearing a further two alien waves and surviving a meteor shower, the two-stage ship will be able to dock with the third and final piece, giving the player the largest and most powerful ship, which is now armed with five lasers. Bonus points are awarded depending on how quickly the docking procedures are completed.
+
+If the multi-stage ship is hit, the player continues with whatever stages remain. If players achieve a score of 30,000, they are awarded a free game and their score continues to accumulate.
+
+Upon completion of the first eight screens, the player's ship will revert back to its small, single-stage incarnation and the game begins again with an increased level of difficulty.</desc>
+		<image>./mixart/mooncrst.png</image>
+		<video>./snap/mooncrst.mp4</video>
+		<marquee>./wheel/mooncrst.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Shooter / Space Invaders Like-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D07D295C273510A7167CC4B1C4D18BD5</cheevosHash>
+	</game>
+	<game>
+		<path>./terracre.zip</path>
+		<name>Terra Cresta</name>
+		<desc>Terra Cresta is a vertically-scrolling shoot-em-up set over a constantly scrolling landscape of islands and enemy installations. The player is under constant attack from enemy spaceship waves, ground-based guns and turrets, dinosaurs and three different mothercraft ships. 
+
+The levels are littered with ground-based silos bearing numbers between 2 and 5. These can be shot to release a player ship component, which then attaches to the player's current ship, increasing both its size and firepower. Power-ups available are 2-Wide shot, 3-Rear Shot, 4-Front cannon and 5-Rear shield. 
+
+Using the 'Formation' button splits the ship parts into a formation for limited time, giving increased fire power. The number of parts acquired determines the formation. For example, if the player has picked up two ship parts then a triangle is formed, with the player's main ship at the rear of the formation, with additional two ship components positioned at the front edge of the triangle. 
+
+When all four numbered parts have been collected, the player's ship transforms into a flaming Phoenix, and is indestructible for a limited time.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/terracre.png</image>
+		<video>./snap/terracre.mp4</video>
+		<marquee>./wheel/terracre.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E3CDDF627AE97C00AE872B52980584C1</cheevosHash>
 	</game>
 </gameList>
