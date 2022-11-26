@@ -7793,22 +7793,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Stranger Things - SE 1.47_OSB.vpx</path>
-		<name>Stranger Things - (PupEdition)</name>
-		<desc>Flipper Stranger Things - SE 1.47_OSB</desc>
-		<image>./mixart/Stranger Things - SE 1.47_OSB.jpg</image>
-		<video>./snap/Stranger Things - SE 1.47_OSB.mp4</video>
-		<marquee>./wheel/Stranger Things - SE 1.47_OSB.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Street Fighter II (Hursty 2020).vpx</path>
 		<name>Street Fighter II (PupEdition)</name>
 		<desc>Flipper Street Fighter II</desc>
@@ -8185,6 +8169,38 @@
 		<publisher>Fanmade</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stranger Things - SE 1.47_OSB.vpx</path>
+		<name>Stranger Things - (PupEdition)</name>
+		<desc>Flipper Stranger Things - SE 1.47_OSB</desc>
+		<image>./mixart/Stranger Things - SE 1.47_OSB.jpg</image>
+		<video>./snap/Stranger Things - SE 1.47_OSB.mp4</video>
+		<marquee>./wheel/Stranger Things - SE 1.47_OSB.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stranger Things 4 LPE 1.0 (Limited PRO Edition).vpx</path>
+		<name>Stranger Things 4 - (PupEdition)</name>
+		<desc>Flipper Stranger Things 4 LPE 1.0 (Limited PRO Edition)</desc>
+		<image>./mixart/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</image>
+		<video>./snap/Stranger Things 4 LPE 1.0 (Limited PRO Edition).mp4</video>
+		<marquee>./wheel/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</marquee>
+		<rating>4</rating>
+		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
