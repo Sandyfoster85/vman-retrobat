@@ -8900,22 +8900,6 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<genreid>256</genreid>
 	</game>
 	<game>
-		<path>./I-Ninja (USA).rvz</path>
-		<name>I-ninja</name>
-		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
-		<image>./mixart/I-Ninja (USA).png</image>
-		<video>./snap/I-Ninja (USA).mp4</video>
-		<marquee>./wheel/I-Ninja (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040202T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Mario Kart - Double Dash!! (USA).rvz</path>
 		<name>Mario Kart: Double Dash!!</name>
 		<desc>The king of kart racers has returned with Nintendo's Mario Kart: Double Dash on the Nintendo GameCube. Mario, along with Luigi, Peach, Baby Mario, Baby Luigi, Wario and more, are back for more multiplayer, single player and versus action. The new Mario Kart features updated graphics with detailed character models, and colorful interactive racing environments. For the first time, two characters ride in a single kart as one drive while the other uses items, opening up the possibility for two-player co-op racing. Along with the classic four-player competition, Mario Kart: Double Dash offers a new eight-player mode, where players can link multiple systems for a new level of multiplayer kart racing.</desc>
@@ -9028,6 +9012,22 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<publisher>Konami</publisher>
 		<genre>Action-Fight-Beat'em Up</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).rvz</path>
+		<name>I-ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
+		<image>./mixart/I-Ninja (USA).png</image>
+		<video>./snap/I-Ninja (USA).mp4</video>
+		<marquee>./wheel/I-Ninja (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040202T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Platform</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

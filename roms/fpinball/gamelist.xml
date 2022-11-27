@@ -2449,22 +2449,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Rocket Derby.fpt</path>
-		<name>Rocket Derby</name>
-		<desc>Flipper Rocket Derby</desc>
-		<image>./mixart/Rocket Derby.png</image>
-		<video>./snap/Rocket Derby.mp4</video>
-		<marquee>./wheel/Rocket Derby.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./RollingStones_v120.fpt</path>
 		<name>RollingStones_v120</name>
 		<desc>Flipper RollingStones_v120</desc>
@@ -4978,6 +4962,22 @@
 		<image>./mixart/Partyland.jpg</image>
 		<video>./snap/Partyland.mp4</video>
 		<marquee>./wheel/Partyland.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Rocket Derby.fpt</path>
+		<name>Rocket Derby</name>
+		<desc>Flipper Rocket Derby</desc>
+		<image>./mixart/Rocket Derby.png</image>
+		<video>./snap/Rocket Derby.mp4</video>
+		<marquee>./wheel/Rocket Derby.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>

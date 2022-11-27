@@ -14664,30 +14664,6 @@ In addition to the power-ups listed above, fruity bubblegum can also be found. O
 		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
 		<cheevosId>1234</cheevosId>
 	</game>
-	<game>
-		<path>./Ninja Gaiden Trilogy (USA).7z</path>
-		<name>Ninja Gaiden Trilogy</name>
-		<desc>Ninja Gaiden Trilogy is a compilation of the three games in the series previously released for the NES:
-
-1. Ninja Gaiden
-2. Ninja Gaiden II: The Dark Sword of Chaos
-2. Ninja Gaiden III: The Ancient Ship of Doom
-
-All three games tell the story of ninja Ryu Hayabusa through alternating cinematic cutscenes and levels of 2D side-scrolling action.  The graphics and sound are essentially the same as in the originals, but enhanced for the SNES.</desc>
-		<image>./mixart/Ninja Gaiden Trilogy (USA).png</image>
-		<video>./snap/Ninja Gaiden Trilogy (USA).mp4</video>
-		<marquee>./wheel/Ninja Gaiden Trilogy (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950810T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform-Compilation-Action-Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
-		<cheevosId>498</cheevosId>
-	</game>
 	<game id="99473" source="ScreenScraper.fr">
 		<path>./Donkey Kong Country (USA) (Competition Edition).7z</path>
 		<name>Donkey Kong Country : Competition Cartridge</name>
@@ -14725,26 +14701,6 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 		<region>us</region>
 		<cheevosHash>73CF4163C3C2B3F8A38775A5D132C448</cheevosHash>
 		<cheevosId>1259</cheevosId>
-	</game>
-	<game>
-		<path>./Shadowrun (USA).7z</path>
-		<name>Shadowrun</name>
-		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
-
-Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
-		<image>./mixart/Shadowrun (USA).png</image>
-		<video>./snap/Shadowrun (USA).mp4</video>
-		<marquee>./wheel/Shadowrun (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19931101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Beam Software</publisher>
-		<genre>Role playing games</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>694BE8DF403EE59225C4B6B53C30FB7B</cheevosHash>
-		<cheevosId>566</cheevosId>
 	</game>
 	<game>
 		<path>./Star Fox 2.7z</path>
@@ -15235,5 +15191,49 @@ In order to eliminate the other shapes, you must point your piece at it and 'fir
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0B7A524E5470ECA3ED29B75E427A7CF4</cheevosHash>
+	</game>
+	<game>
+		<path>./Ninja Gaiden Trilogy (USA).7z</path>
+		<name>Ninja Gaiden Trilogy</name>
+		<desc>Ninja Gaiden Trilogy is a compilation of the three games in the series previously released for the NES:
+
+1. Ninja Gaiden
+2. Ninja Gaiden II: The Dark Sword of Chaos
+2. Ninja Gaiden III: The Ancient Ship of Doom
+
+All three games tell the story of ninja Ryu Hayabusa through alternating cinematic cutscenes and levels of 2D side-scrolling action.  The graphics and sound are essentially the same as in the originals, but enhanced for the SNES.</desc>
+		<image>./mixart/Ninja Gaiden Trilogy (USA).png</image>
+		<video>./snap/Ninja Gaiden Trilogy (USA).mp4</video>
+		<marquee>./wheel/Ninja Gaiden Trilogy (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950810T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform-Compilation-Action-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
+		<cheevosId>498</cheevosId>
+	</game>
+	<game>
+		<path>./Shadowrun (USA).7z</path>
+		<name>Shadowrun</name>
+		<desc>The SNES version of Shadowrun appeared earlier than the Genesis one, and it is an entirely different game, with different story and gameplay, although it is also based on a pen-and-paper RPG of the same name. Your hero, Jake, is attacked by assassins, and appears to be dead. However, a mysterious dog approaches his lifeless body, transforms into a woman, and casts a spell on him... After that Jake wakes up in the morgue. He doesn't know what happened to him, he doesn't even remember his own name. Wandering through the futuristic city, where monorails, computers, and street gangs armed with automatic weapons co-exist with orcs, dwarves, and vampires, you begin to discover the mystery and to learn about the dangers awaiting you around every corner.
+
+Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire "deckers", i.e., temporary party members, but the main focus of the gameplay is on Jake and his abilities and skills. There are no random battles, but many screens with respawning enemies, where you can earn experience points and upgrade your skills. The experience points are called "karma" in this game. You need to gain karma in order to advance in one of the several skills available to you. You'll also be able to buy skills from people. The skills include firearms, computers, negotiation, leadership, and many others. You can also use the gained karma points to upgrade basic stats like hit points or charisma.</desc>
+		<image>./mixart/Shadowrun (USA).png</image>
+		<video>./snap/Shadowrun (USA).mp4</video>
+		<marquee>./wheel/Shadowrun (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Beam Software</publisher>
+		<genre>Role playing games</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>694BE8DF403EE59225C4B6B53C30FB7B</cheevosHash>
+		<cheevosId>566</cheevosId>
 	</game>
 </gameList>

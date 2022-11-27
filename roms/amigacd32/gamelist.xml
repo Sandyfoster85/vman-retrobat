@@ -592,23 +592,6 @@ In one-player mode there are 34 levels, accessed via passwords, 3 lives, and lot
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Deep Core (Europe) (v1.01).chd</path>
-		<name>Deep Core</name>
-		<desc>An underwater nuclear research base has been invaded by a hostile craft. Captain Dawnrazer is sent in to wipe up the aliens and other beings, and that's where you come in. Deep Core is a dark platform adventure with similarities to Gods. There are nine main levels, each of which is split into sub-levels and also has bonus sections leading off from it. Each of the 6 weapons which are on offer can be boosted in power.</desc>
-		<image>./mixart/Deep Core (Europe) (v1.01).png</image>
-		<video>./snap/Deep Core (Europe) (v1.01).mp4</video>
-		<marquee>./wheel/Deep Core (Europe) (v1.01).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Dynafield Systems International</developer>
-		<publisher>International Computer Entertainment</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
 		<path>./Dennis (Europe).chd</path>
 		<name>Dennis</name>
 		<desc>Dennis the Menace (known simply as Dennis in Europe) is a multiplatform video game based on the 1993 movie of the same name. The object in all versions of the game is to defeat a burglar who managed to find Dennis' town via the local railroad connection. Stages include Mr. Wilson's house, the great outdoors, a boiler room, and eventually the big boss battle with the burglar himself.</desc>
@@ -2614,6 +2597,23 @@ Skeleton Krew has you choosing between three members of the deadly organization:
 		<publisher>Core Design</publisher>
 		<genre>Action</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Deep Core (Europe) (v1.01).chd</path>
+		<name>Deep Core</name>
+		<desc>An underwater nuclear research base has been invaded by a hostile craft. Captain Dawnrazer is sent in to wipe up the aliens and other beings, and that's where you come in. Deep Core is a dark platform adventure with similarities to Gods. There are nine main levels, each of which is split into sub-levels and also has bonus sections leading off from it. Each of the 6 weapons which are on offer can be boosted in power.</desc>
+		<image>./mixart/Deep Core (Europe) (v1.01).png</image>
+		<video>./snap/Deep Core (Europe) (v1.01).mp4</video>
+		<marquee>./wheel/Deep Core (Europe) (v1.01).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Dynafield Systems International</developer>
+		<publisher>International Computer Entertainment</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>eu</region>

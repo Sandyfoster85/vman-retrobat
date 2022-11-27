@@ -5349,24 +5349,6 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<region>us</region>
 		<cheevosHash>B3BA28BC933ED597095D8296FD639496</cheevosHash>
 	</game>
-	<game id="13500" source="ScreenScraper.fr">
-		<path>./SoulCalibur (USA).chd</path>
-		<name>Soul Calibur</name>
-		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.    All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker.   In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
-		<image>./mixart/SoulCalibur (USA).png</image>
-		<video>./snap/SoulCalibur (USA).mp4</video>
-		<marquee>./wheel/SoulCalibur (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19991126T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>06D45B4C01327C9E724153AA49BDF568</cheevosHash>
-	</game>
 	<game>
 		<path>./Sturmwind.cdi</path>
 		<name>Sturmwind</name>
@@ -5520,30 +5502,6 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0C20C4F5D351633FCEBEBC2957F3AAE3</cheevosHash>
-	</game>
-	<game id="78492" source="ScreenScraper.fr">
-		<path>./Pro Pinball Trilogy (Europe).cue</path>
-		<name>Pro Pinball Trilogy</name>
-		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
-Pro Pinball: Timeshock! 
-Pro Pinball: Big Race USA 
-Pro Pinball: Fantastic Journey 
-The first part of the series, Pro Pinball: The Web, is not included.</desc>
-		<emulator>redream</emulator>
-		<core>redream</core>
-		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
-		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
-		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010608T000000</releasedate>
-		<developer>Cunning Developments</developer>
-		<publisher>Empire Interactive</publisher>
-		<genre>Pinball-Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>79003E16345A88C3825B3A37C78195E6</cheevosHash>
 	</game>
 	<game id="190890" source="ScreenScraper.fr">
 		<path>./Propeller Arena [PROPER].cdi</path>
@@ -5785,5 +5743,47 @@ The year is 2049. A mysterious group known as “The Congregation of Gogoh” ha
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>257</genreid>
+	</game>
+	<game id="78492" source="ScreenScraper.fr">
+		<path>./Pro Pinball Trilogy (Europe).cue</path>
+		<name>Pro Pinball Trilogy</name>
+		<desc>This compilation contains the following three tables of Empire's Pro Pinball series: 
+Pro Pinball: Timeshock! 
+Pro Pinball: Big Race USA 
+Pro Pinball: Fantastic Journey 
+The first part of the series, Pro Pinball: The Web, is not included.</desc>
+		<emulator>redream</emulator>
+		<core>redream</core>
+		<image>./mixart/Pro Pinball Trilogy (Europe).png</image>
+		<video>./snap/Pro Pinball Trilogy (Europe).mp4</video>
+		<marquee>./wheel/Pro Pinball Trilogy (Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010608T000000</releasedate>
+		<developer>Cunning Developments</developer>
+		<publisher>Empire Interactive</publisher>
+		<genre>Pinball-Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>79003E16345A88C3825B3A37C78195E6</cheevosHash>
+	</game>
+	<game id="13500" source="ScreenScraper.fr">
+		<path>./SoulCalibur (USA).chd</path>
+		<name>Soul Calibur</name>
+		<desc>A fighting game to end all fighting games.  A sequel to Soul Blade, Soul Calibur takes place in a time inspired by a mixture of 16th-century ancient China and oriental medieval fantasies and legends.    All characters have weapons and distinct fighting styles with over 100 individual moves per character.  In addition to high, mid, and low attacks, characters can hold/throw, block, and perform special attacks -- one or more of which is deemed "un-blockable" and must be avoided by ducking, jumping, or rotating around your attacker.   In addition to several locales in which to fight and alternate models/costumes per character, the Dreamcast conversion of Soul Calibur contains many additional features over the arcade coin-op, including hidden characters and locales, a campaign mode, and tournament mode.  There is also a "museum" where you can view character profiles and view motion-captured martial arts demonstrations.</desc>
+		<image>./mixart/SoulCalibur (USA).png</image>
+		<video>./snap/SoulCalibur (USA).mp4</video>
+		<marquee>./wheel/SoulCalibur (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19991126T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>06D45B4C01327C9E724153AA49BDF568</cheevosHash>
 	</game>
 </gameList>
