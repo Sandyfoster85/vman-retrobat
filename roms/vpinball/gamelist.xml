@@ -5603,8 +5603,8 @@
 	</game>
 	<game>
 		<path>./X-Men LE (Stern 2012) v2.0.1.vpx</path>
-		<name>X-Men LE (Stern 2012) v2.0.1</name>
-		<desc>Flipper X-Men LE (Stern 2012) v2.0.1</desc>
+		<name>X-Men LE (Stern 2012)</name>
+		<desc>Flipper X-Men LE (Stern 2012) VPW Mod</desc>
 		<image>./mixart/X-Men LE (Stern 2012) v2.0.1.jpg</image>
 		<video>./snap/X-Men LE (Stern 2012) v2.0.1.mp4</video>
 		<marquee>./wheel/X-Men LE (Stern 2012) v2.0.1.png</marquee>
@@ -5614,6 +5614,7 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -6601,22 +6602,6 @@
 		<marquee>./wheel/WWF Royal Rumble (1994).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./X Files, The (1997).vpx</path>
-		<name>X Files, The (1997)</name>
-		<desc>Flipper X Files, The (1997)</desc>
-		<image>./mixart/X Files, The (1997).jpg</image>
-		<video>./snap/X Files, The (1997).mp4</video>
-		<marquee>./wheel/X Files, The (1997).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -8210,6 +8195,22 @@
 		<image>./mixart/PLanet Of The Apes.png</image>
 		<video>./snap/PLanet Of The Apes.mp4</video>
 		<marquee>./wheel/PLanet Of The Apes.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./X Files, The (1997).vpx</path>
+		<name>X Files, The (1997)</name>
+		<desc>Flipper X Files, The (1997)</desc>
+		<image>./mixart/X Files, The (1997).jpg</image>
+		<video>./snap/X Files, The (1997).mp4</video>
+		<marquee>./wheel/X Files, The (1997).png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
