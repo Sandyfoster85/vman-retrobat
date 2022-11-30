@@ -19,26 +19,6 @@
 		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
 		<scrap name="ScreenScraper" date="20221020T224149" />
 	</game>
-	<game id="46730">
-		<path>./clubk2k3.zip</path>
-		<name>Club Kart: European Session</name>
-		<desc>This European version of "Club Kart" including different courses.</desc>
-		<image>./mixart/clubk2k3-image.png</image>
-		<video>./snap/clubk2k3-video.mp4</video>
-		<marquee>./wheel/clubk2k3-marquee.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Amusement Vision</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<family>Club Kart</family>
-		<players>2</players>
-		<md5>5cfa10537855f7bb2c39ad7168ef3149</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C5ADE9364CDEB444212A9EDF14150B46</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224156" />
-	</game>
 	<game id="46772">
 		<path>./initdv3e.zip</path>
 		<name>Initial D: Version 3</name>
@@ -98,25 +78,6 @@
 		<scrap name="ScreenScraper" date="20221020T224219" />
 		<scrap name="HfsDB" date="20221020T224556" />
 	</game>
-	<game>
-		<path>./vf4tuned.zip</path>
-		<name>Virtua Fighter 4 Final Tuned</name>
-		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
-		<image>./mixart/vf4tuned-image.jpg</image>
-		<video>./snap/vf4tuned-video.mp4</video>
-		<marquee>./wheel/vf4tuned-marquee.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20040101T000000</releasedate>
-		<developer>Sega AM2</developer>
-		<genre>Combat</genre>
-		<players>1</players>
-		<md5>9c3f452daf1166721d19360e90da36c1</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2F6E012750F71DDE934A1F8ADFDA8A6E</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224222" />
-		<scrap name="HfsDB" date="20221020T224409" />
-	</game>
 	<game id="44011">
 		<path>./vstrik3.zip</path>
 		<name>Virtua Striker 3</name>
@@ -154,5 +115,44 @@
 		<cheevosHash>4F47983AC54499D795AFD45260A1CFFC</cheevosHash>
 		<scrap name="ScreenScraper" date="20221020T224237" />
 		<scrap name="HfsDB" date="20221020T224323" />
+	</game>
+	<game id="46730">
+		<path>./clubk2k3.zip</path>
+		<name>Club Kart: European Session</name>
+		<desc>This European version of "Club Kart" including different courses.</desc>
+		<image>./mixart/clubk2k3-image.png</image>
+		<video>./snap/clubk2k3-video.mp4</video>
+		<marquee>./wheel/clubk2k3-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Amusement Vision</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>Club Kart</family>
+		<players>2</players>
+		<md5>5cfa10537855f7bb2c39ad7168ef3149</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C5ADE9364CDEB444212A9EDF14150B46</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224156" />
+	</game>
+	<game>
+		<path>./vf4tuned.zip</path>
+		<name>Virtua Fighter 4 Final Tuned</name>
+		<desc>Final Tuned is the final update to Virtua Fighter 4. This version of the game was released only into Japanese arcades, and it made some gameplay fixes and added new stages. Also, new customization items were added.</desc>
+		<image>./mixart/vf4tuned-image.jpg</image>
+		<video>./snap/vf4tuned-video.mp4</video>
+		<marquee>./wheel/vf4tuned-marquee.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sega AM2</developer>
+		<genre>Combat</genre>
+		<players>1</players>
+		<md5>9c3f452daf1166721d19360e90da36c1</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2F6E012750F71DDE934A1F8ADFDA8A6E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224222" />
+		<scrap name="HfsDB" date="20221020T224409" />
 	</game>
 </gameList>

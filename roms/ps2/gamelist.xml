@@ -65,21 +65,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Castlevania - Curse of Darkness (USA).gz</path>
-		<name>Castlevania : Curse of Darkness</name>
-		<desc>In Castlevania: Curse of Darkness you play Hector, a former Dracula servant and a Devil Forgemaster, who disowns his dark gifts and aims to live a normal life. This event left Dracula vulnerable to the attacks of the Belmont clan. Now that Dracula is vanished, you must fight back the curse cast upon all Europe. There is but one problem, another Dracula servant does not approve with your plan.    Being a Devil Forgemaster now gives the player an ability to forge familiars to fight by your side. As the player himself, they have levels and they can even morph to a different stage depending which weapon you use to fight with them.</desc>
-		<image>./mixart/Castlevania - Curse of Darkness (USA).png</image>
-		<video>./snap/Castlevania - Curse of Darkness (USA).mp4</video>
-		<marquee>./wheel/Castlevania - Curse of Darkness (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20060216T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Beat'em Up</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Ace Combat 5 - The Unsung War (USA).gz</path>
 		<name>Ace Combat 5 : The Unsung War</name>
 		<desc>Ace Combat 5: The Unsung War is a first person air combat and flight simulator. Like other Ace Combat games, each mission is determined by a level briefing and objectives. There are 32 missions in the main campaign mode, while an additional "arcade" mode puts the player in the role of Mobius One (from Ace Combat 04: Shattered Skies) as he faces endless waves of enemy attacks. Regardless of the mode chosen, once in the air the player will have control over speed, direction, altitude, gun cannon, missiles and special weapon of their aircraft. A new feature from previous Ace Combat games, is the concept of Wingmen and being able to issue simple orders to them in the air. This allows the player to better coordinated group attacks as well as giving each wingman a personality of their own. Additionally, the player as squadron leader will be asked to make decisions ("Yes/No") while flying in the air. Between missions, the story is progressed through a series of cutscenes.</desc>
@@ -1115,25 +1100,6 @@ Also included is a weapon system similar to Psyvariar's in which you can enhance
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>260</genreid>
-	</game>
-	<game id="22051" source="ScreenScraper.fr">
-		<path>./Champions of Norrath (USA).gz</path>
-		<name>Champions of Norrath</name>
-		<desc>Champions of Norrath is a third-person dungeon crawler based on the EverQuest universe. There are five character classes to choose from (Barbarian Warrior, Wood Elf Ranger, High Elf Cleric, Dark Elf Shadow Knight, Erudite Wizard), each may be male or female. The game spans five acts that cover various randomly-generated locations across the world of Norrath. 
- 
-Up to four people may play on a single console offline using a multitap, and up to four people online - one per console - via a broadband connection using the Sony Network Adapter.</desc>
-		<image>./mixart/Champions of Norrath (USA).png</image>
-		<video>./snap/Champions of Norrath (USA).mp4</video>
-		<marquee>./wheel/Champions of Norrath (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041230T000000</releasedate>
-		<developer>Snowblind Studios</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Action-Role playing games</genre>
-		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>768</genreid>
 	</game>
 	<game id="128771" source="ScreenScraper.fr">
 		<path>./Chulip (USA).gz</path>
@@ -6197,24 +6163,6 @@ The game also features a weapon customization system, which allows the player to
 		<region>us</region>
 		<genreid>261</genreid>
 	</game>
-	<game id="22651" source="ScreenScraper.fr">
-		<path>./Miami Vice (Europe) (En,Fr,De,Es,It,Nl).gz</path>
-		<name>Miami Vice</name>
-		<desc>Based on the 80's TV series of the same name, this is a 3rd person shooter. Playing as Sonny Crockett or Ricardo Tubbs, the player must dismantle drug-lord Ortega's organization, following the plot of an episode of the series. 
- Through 14 missions, the player must take down (or arrest, sometimes) drug dealers and solve some minor puzzles (like finding keys to open doors, or switching levers to get access to locked places). In some stages, the player can choose freely to play as Crockett or Tubbs, switching between them by the click of a button. They have different abilities (Tubbs, for instance, is tougher and can kick in doors, Crockett is more agile), and different weapons (Crockett has a pistol as primary weapon, Tubbs has a double barreled shotgun). The characters can also carry a secondary weapon, from among 14 types (9mm pistols, .45 pistols, silenced 9mm, Uzi-like sub-machineguns, etc.). Each character can use only certain types of weapon, Tubbs carrying usually the heavier ones. The primary weapons have unlimited ammo, the secondary ones don't.</desc>
-		<image>./mixart/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).png</image>
-		<video>./snap/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).mp4</video>
-		<marquee>./wheel/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20041203T000000</releasedate>
-		<developer>Davilex</developer>
-		<publisher>Atomic Planet</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>de,en,es,fr,it,nl</lang>
-		<region>eu</region>
-		<genreid>256</genreid>
-	</game>
 	<game id="22665" source="ScreenScraper.fr">
 		<path>./Quake III - Revolution (USA).gz</path>
 		<name>Quake III : Revolution</name>
@@ -7693,5 +7641,57 @@ Downhill Domination includes a very different style of gameplay that differs fro
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Castlevania - Curse of Darkness (USA).gz</path>
+		<name>Castlevania : Curse of Darkness</name>
+		<desc>In Castlevania: Curse of Darkness you play Hector, a former Dracula servant and a Devil Forgemaster, who disowns his dark gifts and aims to live a normal life. This event left Dracula vulnerable to the attacks of the Belmont clan. Now that Dracula is vanished, you must fight back the curse cast upon all Europe. There is but one problem, another Dracula servant does not approve with your plan.    Being a Devil Forgemaster now gives the player an ability to forge familiars to fight by your side. As the player himself, they have levels and they can even morph to a different stage depending which weapon you use to fight with them.</desc>
+		<image>./mixart/Castlevania - Curse of Darkness (USA).png</image>
+		<video>./snap/Castlevania - Curse of Darkness (USA).mp4</video>
+		<marquee>./wheel/Castlevania - Curse of Darkness (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20060216T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Beat'em Up</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="22051" source="ScreenScraper.fr">
+		<path>./Champions of Norrath (USA).gz</path>
+		<name>Champions of Norrath</name>
+		<desc>Champions of Norrath is a third-person dungeon crawler based on the EverQuest universe. There are five character classes to choose from (Barbarian Warrior, Wood Elf Ranger, High Elf Cleric, Dark Elf Shadow Knight, Erudite Wizard), each may be male or female. The game spans five acts that cover various randomly-generated locations across the world of Norrath. 
+ 
+Up to four people may play on a single console offline using a multitap, and up to four people online - one per console - via a broadband connection using the Sony Network Adapter.</desc>
+		<image>./mixart/Champions of Norrath (USA).png</image>
+		<video>./snap/Champions of Norrath (USA).mp4</video>
+		<marquee>./wheel/Champions of Norrath (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041230T000000</releasedate>
+		<developer>Snowblind Studios</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Action-Role playing games</genre>
+		<players>2-4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>768</genreid>
+	</game>
+	<game id="22651" source="ScreenScraper.fr">
+		<path>./Miami Vice (Europe) (En,Fr,De,Es,It,Nl).gz</path>
+		<name>Miami Vice</name>
+		<desc>Based on the 80's TV series of the same name, this is a 3rd person shooter. Playing as Sonny Crockett or Ricardo Tubbs, the player must dismantle drug-lord Ortega's organization, following the plot of an episode of the series. 
+ Through 14 missions, the player must take down (or arrest, sometimes) drug dealers and solve some minor puzzles (like finding keys to open doors, or switching levers to get access to locked places). In some stages, the player can choose freely to play as Crockett or Tubbs, switching between them by the click of a button. They have different abilities (Tubbs, for instance, is tougher and can kick in doors, Crockett is more agile), and different weapons (Crockett has a pistol as primary weapon, Tubbs has a double barreled shotgun). The characters can also carry a secondary weapon, from among 14 types (9mm pistols, .45 pistols, silenced 9mm, Uzi-like sub-machineguns, etc.). Each character can use only certain types of weapon, Tubbs carrying usually the heavier ones. The primary weapons have unlimited ammo, the secondary ones don't.</desc>
+		<image>./mixart/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).png</image>
+		<video>./snap/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).mp4</video>
+		<marquee>./wheel/Miami Vice (Europe) (En,Fr,De,Es,It,Nl).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20041203T000000</releasedate>
+		<developer>Davilex</developer>
+		<publisher>Atomic Planet</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>de,en,es,fr,it,nl</lang>
+		<region>eu</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

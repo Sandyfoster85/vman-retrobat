@@ -1210,21 +1210,6 @@
 		<region>us</region>
 		<cheevosHash>E657022F34D831DF875C96973DEB0741</cheevosHash>
 	</game>
-	<game id="13106" source="ScreenScraper.fr">
-		<path>./Command &amp; Conquer (USA).m3u</path>
-		<name>Command &amp; Conquer</name>
-		<desc>Command &amp; Conquer developed ideas from Westwood's previous Dune 2, forming a real time strategy game which has influenced many. The control system of selecting units with the mouse and then directing them is similar to future titles such as Total Annihilation.  The game focuses on a war between two organizations, The Brotherhood of Nod and the Global Defense Initiative. You can take control of either side for more than 15 missions. Both have different units and structures, including artillery, tanks and light infantry.  In most missions you have to build a base first to build new units and structures. Most important are the special harvesters, which collect Tiberium and deliver it to a refinery, where it's converted into money - money which is needed to create additional units.  The game also features FMV mission briefings and victory cutscenes.</desc>
-		<image>./mixart/Command &amp; Conquer (USA) (Disc 2).png</image>
-		<video>./snap/Command &amp; Conquer (USA) (Disc 2).mp4</video>
-		<marquee>./wheel/Command &amp; Conquer (USA) (Disc 2).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19961206T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Westwood Studios</publisher>
-		<genre>Strategy</genre>
-		<players>1</players>
-		<cheevosHash>9F4E849EE734F4825356FE679E4B01C4</cheevosHash>
-	</game>
 	<game>
 		<path>./Congo - The Movie - The Lost City Of Zinj (USA).chd</path>
 		<name>Congo : The Movie, The Lost City of Zinj</name>
@@ -5405,5 +5390,22 @@
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>CF5E0AC2A05FEDD2A59B13F490566267</cheevosHash>
+	</game>
+	<game id="13106" source="ScreenScraper.fr">
+		<path>./Command &amp; Conquer (USA).m3u</path>
+		<name>Command &amp; Conquer</name>
+		<desc>Command &amp; Conquer developed ideas from Westwood's previous Dune 2, forming a real time strategy game which has influenced many. The control system of selecting units with the mouse and then directing them is similar to future titles such as Total Annihilation.  The game focuses on a war between two organizations, The Brotherhood of Nod and the Global Defense Initiative. You can take control of either side for more than 15 missions. Both have different units and structures, including artillery, tanks and light infantry.  In most missions you have to build a base first to build new units and structures. Most important are the special harvesters, which collect Tiberium and deliver it to a refinery, where it's converted into money - money which is needed to create additional units.  The game also features FMV mission briefings and victory cutscenes.</desc>
+		<image>./mixart/Command &amp; Conquer (USA) (Disc 2).png</image>
+		<video>./snap/Command &amp; Conquer (USA) (Disc 2).mp4</video>
+		<marquee>./wheel/Command &amp; Conquer (USA) (Disc 2).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19961206T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Westwood Studios</publisher>
+		<genre>Strategy</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9F4E849EE734F4825356FE679E4B01C4</cheevosHash>
 	</game>
 </gameList>

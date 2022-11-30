@@ -3630,20 +3630,6 @@ Enemies fight from the air, sea and ground and there are missions goals to escor
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17781">
-		<path>./Discs Of Tron.m3u</path>
-		<name>Discs Of Tron</name>
-		<desc>Discs Of Tron on the Xbox Live Arcade is based on the principle of Tron, a game released in the 1980s on the Amiga. The aim of the title is for players to compete with Frisbees on evolving platforms. A few small graphical improvements have been planned to make the software a little more beautiful than it was at the time, as next-gen is required.</desc>
-		<image>./mixart/Discs Of Tron.png</image>
-		<video>./snap/Discs Of Tron.mp4</video>
-		<marquee>./wheel/Discs Of Tron.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20080101T000000</releasedate>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Duke Nukem 3D.m3u</path>
 		<name>Duke Nukem 3D</name>
@@ -4441,24 +4427,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<scrap name="ScreenScraper" date="20220813T082621" />
 		<scrap name="HfsDB" date="20220813T082625" />
 	</game>
-	<game id="17757">
-		<path>./Bonk.m3u</path>
-		<name>Bonk : Brink of Extinction</name>
-		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
-		<image>./mixart/Bonk.jpg</image>
-		<video>./snap/Bonk.mp4</video>
-		<marquee>./wheel/Bonk.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T132913" />
-	</game>
 	<game id="17384">
 		<path>./3D_Ultra_Mini_Golf_2.m3u</path>
 		<name>3d Ultra Mini Golf Adventures 2</name>
@@ -4618,6 +4586,38 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17757">
+		<path>./Bonk.m3u</path>
+		<name>Bonk : Brink of Extinction</name>
+		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
+		<image>./mixart/Bonk.jpg</image>
+		<video>./snap/Bonk.mp4</video>
+		<marquee>./wheel/Bonk.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T132913" />
+	</game>
+	<game id="17781">
+		<path>./Discs Of Tron.m3u</path>
+		<name>Discs Of Tron</name>
+		<desc>Discs Of Tron on the Xbox Live Arcade is based on the principle of Tron, a game released in the 1980s on the Amiga. The aim of the title is for players to compete with Frisbees on evolving platforms. A few small graphical improvements have been planned to make the software a little more beautiful than it was at the time, as next-gen is required.</desc>
+		<image>./mixart/Discs Of Tron.png</image>
+		<video>./snap/Discs Of Tron.mp4</video>
+		<marquee>./wheel/Discs Of Tron.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080101T000000</releasedate>
+		<genre>Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
