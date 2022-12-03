@@ -1039,22 +1039,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./FDTD.vpx</path>
-		<name>From Dusk till Dawn</name>
-		<desc>Flipper From Dusk till Dawn</desc>
-		<image>./mixart/FDTD.png</image>
-		<video>./snap/FDTD.mp4</video>
-		<marquee>./wheel/FDTD.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Galaxy (1980).vpx</path>
 		<name>Galaxy (1980)</name>
 		<desc>Flipper Galaxy</desc>
@@ -8215,6 +8199,22 @@
 		<releasedate>20110924T000000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>Stern</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./FDTD.vpx</path>
+		<name>From Dusk till Dawn (PupEdition)</name>
+		<desc>Flipper From Dusk till Dawn</desc>
+		<image>./mixart/FDTD.png</image>
+		<video>./snap/FDTD.mp4</video>
+		<marquee>./wheel/FDTD.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>

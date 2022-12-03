@@ -1127,26 +1127,6 @@ The game (or the European PAL version) is best known for being the origin of the
 		<region>eu</region>
 		<cheevosHash>0CF8EE57C232690522FFD451828B5E4F</cheevosHash>
 	</game>
-	<game id="41">
-		<path>./Michael Jackson's Moonwalker (Japan, USA) (MSU-MD)/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).md</path>
-		<name>Michael Jackson's Moonwalker</name>
-		<desc>Michael Jackson's Moonwalker is pretty much based on the Michael Jackson movie. Mr. Big has kidnapped the children and has nasty things in store for them, like drugging them and making them slaves. It's up to Michael to use his powers and save his little friends.
-
-Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opponents as he looks for the hidden children. Stages come in shape of some of MJ's videos like streets and graveyards.</desc>
-		<image>./mixart/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</image>
-		<video>./snap/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).mp4</video>
-		<marquee>./wheel/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19900824T000000</releasedate>
-		<developer>Ultimate</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
-	</game>
 	<game id="198">
 		<path>./After Burner II (USA, Europe) (MSU-MD)/After Burner II (USA, Europe) (MSU-MD).md</path>
 		<name>After Burner II</name>
@@ -1190,5 +1170,25 @@ If your vitality gets low in each scene, you'll lose a life. You can also choose
 		<lang>jp</lang>
 		<region>eu</region>
 		<cheevosHash>F3980B6733B91375295954110168F925</cheevosHash>
+	</game>
+	<game id="41">
+		<path>./Michael Jackson's Moonwalker (Japan, USA) (MSU-MD)/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).md</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<desc>Michael Jackson's Moonwalker is pretty much based on the Michael Jackson movie. Mr. Big has kidnapped the children and has nasty things in store for them, like drugging them and making them slaves. It's up to Michael to use his powers and save his little friends.
+
+Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opponents as he looks for the hidden children. Stages come in shape of some of MJ's videos like streets and graveyards.</desc>
+		<image>./mixart/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</image>
+		<video>./snap/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).mp4</video>
+		<marquee>./wheel/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19900824T000000</releasedate>
+		<developer>Ultimate</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
 	</game>
 </gameList>

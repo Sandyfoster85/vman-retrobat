@@ -1332,16 +1332,6 @@ Blocks will fall from the top of the screen towards the bottom. Arrange the piec
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./Bump 'N' Jump (World).7z</path>
-		<name>Bump 'N' Jump</name>
-		<image>./mixart/Bump 'N' Jump (World).png</image>
-		<video>./snap/Bump 'N' Jump (World).mp4</video>
-		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
-		<releasedate />
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./Donkey Kong Jr (World).7z</path>
 		<name>Donkey Kong Jr</name>
 		<image>./mixart/Donkey Kong Jr (World).png</image>
@@ -1921,8 +1911,18 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<image>./mixart/TRON - Deadly Discs (World).png</image>
 		<video>./snap/TRON - Deadly Discs (World).mp4</video>
 		<marquee>./wheel/TRON - Deadly Discs (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Bump 'N' Jump (World).7z</path>
+		<name>Bump 'N' Jump</name>
+		<image>./mixart/Bump 'N' Jump (World).png</image>
+		<video>./snap/Bump 'N' Jump (World).mp4</video>
+		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
+		<releasedate></releasedate>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

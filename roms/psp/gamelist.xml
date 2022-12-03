@@ -4952,19 +4952,6 @@ There are more high speed action and colorful combinations of attacks at your di
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Hammerin Hero.cso</path>
-		<name>Hammerin' Hero</name>
-		<image>./mixart/Hammerin Hero.png</image>
-		<video>./snap/Hammerin Hero.mp4</video>
-		<rating>0.55</rating>
-		<releasedate>20090303T000000</releasedate>
-		<developer>DHM Interactive</developer>
-		<publisher>Irem</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
 	<game id="28680" source="ScreenScraper.fr">
 		<path>./Hannah Montana - Rock Out the Show (USA).cso</path>
 		<name>Hannah Montana : Rock Out the Show</name>
@@ -12049,6 +12036,20 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<genre>Strategy</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hammerin Hero.cso</path>
+		<name>Hammerin' Hero</name>
+		<image>./mixart/Hammerin Hero.png</image>
+		<video>./snap/Hammerin Hero.mp4</video>
+		<marquee>./wheel/Hammerin Hero.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20090303T000000</releasedate>
+		<developer>DHM Interactive</developer>
+		<publisher>Irem</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

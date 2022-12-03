@@ -80,15 +80,6 @@
 		<cheevosHash>998E402E518D83E0F2067CE15B947916</cheevosHash>
 	</game>
 	<game>
-		<path>./astroftr.zip</path>
-		<name>Astro Fighter</name>
-		<image>./mixart/Astro Fighter.png</image>
-		<video>./snap/Astro Fighter.mp4</video>
-		<marquee>./wheel/Astro Fighter.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>BAD60383DE102F3FA36FE9A5F6C0D841</cheevosHash>
-	</game>
-	<game>
 		<path>./attack.zip</path>
 		<name>The Attack</name>
 		<image>./mixart/The Attack.png</image>
@@ -141,15 +132,6 @@
 		<marquee>./wheel/Card Sharp.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>7713C05523EEAB9A4332B26F873EB29E</cheevosHash>
-	</game>
-	<game>
-		<path>./carwars.zip</path>
-		<name>Car Wars</name>
-		<image>./mixart/Car Wars.png</image>
-		<video>./snap/Car Wars.mp4</video>
-		<marquee>./wheel/Car Wars.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>A5E26113D27B1C6AB0A3FB75B044EFBF</cheevosHash>
 	</game>
 	<game>
 		<path>./centipd.zip</path>
@@ -411,15 +393,6 @@
 		<marquee>./wheel/Microsurgeon.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>02A3BE16E74512009B8EBE85C4E0320A</cheevosHash>
-	</game>
-	<game>
-		<path>./miner.zip</path>
-		<name>Miner 2049er</name>
-		<image>./mixart/Miner 2049er.png</image>
-		<video>./snap/Miner 2049er.mp4</video>
-		<marquee>./wheel/Miner 2049er.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>023009455BA6E7F7E21B32860354E75C</cheevosHash>
 	</game>
 	<game>
 		<path>./missionx.zip</path>
@@ -802,5 +775,32 @@
 		<marquee>./wheel/Buck Rogers - Planet of Zoom.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>AEF9DDC6D59B9C0370BBEE870933BCE2</cheevosHash>
+	</game>
+	<game>
+		<path>./astroftr.zip</path>
+		<name>Astro Fighter</name>
+		<image>./mixart/Astro Fighter.png</image>
+		<video>./snap/Astro Fighter.mp4</video>
+		<marquee>./wheel/Astro Fighter.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>BAD60383DE102F3FA36FE9A5F6C0D841</cheevosHash>
+	</game>
+	<game>
+		<path>./carwars.zip</path>
+		<name>Car Wars</name>
+		<image>./mixart/Car Wars.png</image>
+		<video>./snap/Car Wars.mp4</video>
+		<marquee>./wheel/Car Wars.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>A5E26113D27B1C6AB0A3FB75B044EFBF</cheevosHash>
+	</game>
+	<game>
+		<path>./miner.zip</path>
+		<name>Miner 2049er</name>
+		<image>./mixart/Miner 2049er.png</image>
+		<video>./snap/Miner 2049er.mp4</video>
+		<marquee>./wheel/Miner 2049er.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>023009455BA6E7F7E21B32860354E75C</cheevosHash>
 	</game>
 </gameList>

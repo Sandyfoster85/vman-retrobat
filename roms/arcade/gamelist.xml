@@ -38032,29 +38032,6 @@ While in no way original (drawing most of its inspiration from Capcom's "Final F
 		<cheevosHash>53D44186906A00B5FE1294D80AF85D4F</cheevosHash>
 	</game>
 	<game>
-		<path>./karatour.zip</path>
-		<name>The Karate Tournament</name>
-		<desc>Karate Tournament is a one-on-one fighting game for one or two players, based on the ancient and most well known of martial arts, Karate.
-
-Players enter a karate tournament - having first selected their preferred skill level, from either White, Brown or Black belt - and fight against a number of progressively tougher opponents. Each victory awards the player with a higher belt grade within their current belt colour - white grade six to white grade five, for example - and if the player wins the tournament, he or she is awarded a higher belt colour and the game ends. If players chooses to play the game on the 'Black Belt' skill level, defeating opponents is awarded with a higher grade, or 'dan' of Black Belt.
-
-Karate Tournament uses a distinctive graphical technique in that it 'morphs' some of the combatants' movement graphics to simulate speed and motion blur. The game was also unique upon its release in that, in a world of "Street Fighters" and "Mortal Kombats" - replete with fantastical special moves - Karate Tournament was a genuine simulation of a recognized martial art; something not really seen since the first appearance of Data East's legendary genre-defining fighter, "Karate Champ", released eight years' earlier in 1984.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/karatour.png</image>
-		<video>./snap/karatour.mp4</video>
-		<marquee>./wheel/karatour.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Mitchell Corporation</developer>
-		<publisher>Mitchell</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5A8BEECA87855C63D0EC25E6D83F821F</cheevosHash>
-	</game>
-	<game>
 		<path>./karianx.zip</path>
 		<name>Karian Cross</name>
 		<desc>A puzzle game similar to "Puyo Puyo". Get 3 like-colored objects together to make them disappear. Getting multiple combinations causes more blocks to fall on your opponents side.</desc>
@@ -43505,23 +43482,6 @@ Four computer-controlled cars provide challenge: they pass the player's car at h
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>2AD67D429F5C6301FE08B563027C5569</cheevosHash>
-	</game>
-	<game>
-		<path>./moonqsr.zip</path>
-		<name>Moon Quasar</name>
-		<desc>The space patrol aboard, can you survive the last invasion? you will need cross the entire galaxy and destroy the impending alien menace, should avoid losing one of the three modules of the ship and refuel your tank fuel to complete the mission.</desc>
-		<image>./mixart/moonqsr.png</image>
-		<video>./snap/moonqsr.mp4</video>
-		<marquee>./wheel/moonqsr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Nichibutsu</developer>
-		<publisher>Nichibutsu</publisher>
-		<genre>Shooter / Space Invaders Like-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C6D4B8BC105DE5A63A7012BDE8864991</cheevosHash>
 	</game>
 	<game>
 		<path>./moonwar.zip</path>
@@ -68868,25 +68828,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<cheevosHash>A619D122B41CAD9A4D9B34C7E98208E0</cheevosHash>
 	</game>
 	<game>
-		<path>./moonwlkb.zip</path>
-		<name>'H' Michael Jackson's Moonwalker</name>
-		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/mwalk.png</image>
-		<video>./snap/mwalk.mp4</video>
-		<marquee>./wheel/mwalk.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Action / Labyrinth-Action</genre>
-		<players>3</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5227D7FCF1A6789D109183067FEE39DA</cheevosHash>
-	</game>
-	<game>
 		<path>./rtype.zip</path>
 		<name>R-Type</name>
 		<desc>RType is a sideways-scrolling shoot-em-up in which the evil Bydo Empire rules the galaxy through fear and intimidation and it's up to the player - piloting their heavily-armed R-9 space ship - to battle through eight tough levels to the heart of the Bydo stronghold and defeat them.
@@ -72908,5 +72849,64 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
+	</game>
+	<game>
+		<path>./karatour.zip</path>
+		<name>The Karate Tournament</name>
+		<desc>Karate Tournament is a one-on-one fighting game for one or two players, based on the ancient and most well known of martial arts, Karate.
+
+Players enter a karate tournament - having first selected their preferred skill level, from either White, Brown or Black belt - and fight against a number of progressively tougher opponents. Each victory awards the player with a higher belt grade within their current belt colour - white grade six to white grade five, for example - and if the player wins the tournament, he or she is awarded a higher belt colour and the game ends. If players chooses to play the game on the 'Black Belt' skill level, defeating opponents is awarded with a higher grade, or 'dan' of Black Belt.
+
+Karate Tournament uses a distinctive graphical technique in that it 'morphs' some of the combatants' movement graphics to simulate speed and motion blur. The game was also unique upon its release in that, in a world of "Street Fighters" and "Mortal Kombats" - replete with fantastical special moves - Karate Tournament was a genuine simulation of a recognized martial art; something not really seen since the first appearance of Data East's legendary genre-defining fighter, "Karate Champ", released eight years' earlier in 1984.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/karatour.png</image>
+		<video>./snap/karatour.mp4</video>
+		<marquee>./wheel/karatour.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Mitchell Corporation</developer>
+		<publisher>Mitchell</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5A8BEECA87855C63D0EC25E6D83F821F</cheevosHash>
+	</game>
+	<game>
+		<path>./moonqsr.zip</path>
+		<name>Moon Quasar</name>
+		<desc>The space patrol aboard, can you survive the last invasion? you will need cross the entire galaxy and destroy the impending alien menace, should avoid losing one of the three modules of the ship and refuel your tank fuel to complete the mission.</desc>
+		<image>./mixart/moonqsr.png</image>
+		<video>./snap/moonqsr.mp4</video>
+		<marquee>./wheel/moonqsr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Nichibutsu</developer>
+		<publisher>Nichibutsu</publisher>
+		<genre>Shooter / Space Invaders Like-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C6D4B8BC105DE5A63A7012BDE8864991</cheevosHash>
+	</game>
+	<game>
+		<path>./moonwlkb.zip</path>
+		<name>'H' Michael Jackson's Moonwalker</name>
+		<desc>Based on the movie of the same name, Moonwalker is a scrolling, isometric beat' em up in which Michael Jackson (1958-2009), along with his chimp Bubbles, attempts to save children and defeat the evil 'Mr. Big'. During each round, the player must defeat each and every one of Mr. Big's henchmen and the deadly enemy machines that patrol the levels. This is achieved either by shooting them with Michael Jackson's 'magical energy', or by using his Dance Magic - the game's equivalent of a smart bomb. Some enemies take only one shot to defeat whereas others take several shots before they are destroyed. The longer the player holds down on the fire button, the greater the amount of magical energy Michael can inflict. At the start of each round, the player is given 2 dance magic smart bombs. Towards the end of each round, Michael's pet chimpanzee, Bubbles, will be seen moving about. If Michael touches Bubbles, he will turn into a powerful robot (the 'Moonwalker' of the game's title). After Michael has become Moonwalker, he will be able to shoot lasers and fire missiles. Michael must defeat every boss enemy at the end of each round in order to proceed to the next.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/mwalk.png</image>
+		<video>./snap/mwalk.mp4</video>
+		<marquee>./wheel/mwalk.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Action / Labyrinth-Action</genre>
+		<players>3</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5227D7FCF1A6789D109183067FEE39DA</cheevosHash>
 	</game>
 </gameList>
