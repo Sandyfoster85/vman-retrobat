@@ -384,23 +384,6 @@
 		<cheevosHash>A9A87B9CA0C9065F4D64E6DD8000007B</cheevosHash>
 	</game>
 	<game>
-		<path>./demofist.zip</path>
-		<name>Demolish Fist</name>
-		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
-		<image>./mixart/demofist.png</image>
-		<video>./snap/demofist.mp4</video>
-		<marquee>./wheel/demofist.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030101T000000</releasedate>
-		<developer>Sammy Studios</developer>
-		<publisher>Sammy Studios</publisher>
-		<genre>Beat'em Up-Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>74B3777BA3E4BBA4A513BB84A08C4560</cheevosHash>
-	</game>
-	<game>
 		<path>./dolphin.zip</path>
 		<name>Dolphin Blue</name>
 		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
@@ -462,5 +445,22 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
+	</game>
+	<game>
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
+		<image>./mixart/demofist.png</image>
+		<video>./snap/demofist.mp4</video>
+		<marquee>./wheel/demofist.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Studios</developer>
+		<publisher>Sammy Studios</publisher>
+		<genre>Beat'em Up-Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>74B3777BA3E4BBA4A513BB84A08C4560</cheevosHash>
 	</game>
 </gameList>

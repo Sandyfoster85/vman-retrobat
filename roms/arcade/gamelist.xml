@@ -19858,31 +19858,6 @@ Be sure to pick up oxygen capsules by flying over them. This refills the timer a
 		<cheevosHash>02A98275F2F723C7B83F8C26C57B7657</cheevosHash>
 	</game>
 	<game>
-		<path>./biomtoy.zip</path>
-		<name>Biomechanical Toy</name>
-		<desc>Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom. 
-
-Inguz carries a basic, single-firing pistol, although additional ammo clips can be found throughout the game that upgrade the gun with either extra shot power, automatic firing or exploding bullets. When the gun's current ammo clip is empty, Inguz will take a moment to reload, leaving him vulnerable to attack. Freed toys will give help to Inguz by providing additional firepower for a short time.
-
-Inguz begins each stage and each new life with a full health meter of eighty units, but food can be found that will replenish the meter. The player can lose a life either by running out of health, falling off the bottom of the screen (or into a hazard, such as a lava pit), or by running out of time. Clearing each stage awards bonus points based on both remaining time and health units.
-
-Checkpoints - indicated by red flags - are located at certain points throughout the stages. In the event of losing a life, play restarts from the last checkpoint reached. Objects with Inguz's face on them (such as wooden chests and balloons) release bonus items when shot. 
-
-An abstract, oriental-looking face occasionally forms part of a level's platform which, when shot, releases balloons which can in turn be shot for bonus items. A giant flying hat also occasionally appears and will drop bonus items when shot. Smart Bombs can also be found at certain points that, when run into by Inguz, will damage or destroy all enemy toys on screen.</desc>
-		<image>./mixart/biomtoy.png</image>
-		<video>./snap/biomtoy.mp4</video>
-		<marquee>./wheel/biomtoy.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Gaelco</developer>
-		<publisher>Gaelco</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9A4931EF4FA956E334FE68962027DEB4</cheevosHash>
-	</game>
-	<game>
 		<path>./bionicc.zip</path>
 		<name>Bionic Commando</name>
 		<desc>Bionic Commando aka as Top Secret is a scrolling platform shoot-em-up set ten years after the end of World War III, with the player taking on the role of 'Super Joe'; an elite Commando tasked with infiltrating the enemy's heavily defended military base to discover their secrets plans and destroy their missile silos. 
@@ -21390,28 +21365,6 @@ The game's levels force-scroll from right to left, although the vehicle's speed 
 		<region>us</region>
 		<cheevosHash>46D68C2864A5CFC700AD5988057A6D65</cheevosHash>
 	</game>
-	<game id="40373">
-		<path>./brvbladeu.zip</path>
-		<name>Brave Blade</name>
-		<desc>A 3-D vertically scrolling shoot'em up.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/brvbladeu.png</image>
-		<video>./snap/brvbladeu.mp4</video>
-		<marquee>./wheel/brvbladeu.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Eighting Co., Ltd.</developer>
-		<publisher>Eighting / Raizing</publisher>
-		<genre>Shoot'em up / Vertical</genre>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>ea7f913df6145fc96228f2f71c28a264</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>252AA4364F77DBFC12CB50006D3CE713</cheevosHash>
-	</game>
 	<game>
 		<path>./bsebman.zip</path>
 		<name>Bomberman</name>
@@ -21953,7 +21906,7 @@ Initially, the commandos are armed with only a standard single-shot gun (albeit 
 As well as enemy troops, vehicles such as tanks, armoured cars and helicopters also appear and take numerous shots to destroy. When destroyed or killed, some on-screen targets release points bonuses and weapon power-ups that drop to the bottom of the screen and can be picked up by the commandos. Weapon power-ups include additional grenades, a rapid-fire machine and an automatic shotgun, which has a slightly lower firing rate but has a larger targeting cross-hair, allowing it to strike a wider area with each shot.
 
 Each of the game's screens is littered with buildings and barricades that can also be destroyed. This removes enemy cover as well as earning players bonus points.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/cabal.png</image>
 		<video>./snap/cabal.mp4</video>
@@ -22203,7 +22156,7 @@ We play as painter while painting his great canvas of beautiful females, but his
 		<path>./capbowl.zip</path>
 		<name>Capcom Bowling</name>
 		<desc>This top-down view bowling game allows up to four players to compete. The trackball controls the aim and power of your throw and two buttons control the left and right hook respectively. There are graphic displays of turkeys, splits, gutters etc. and the game keeps track of scoring and high scores.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/capbowl.png</image>
 		<video>./snap/capbowl.mp4</video>
@@ -33779,7 +33732,7 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 	<game>
 		<path>./gt3d.zip</path>
 		<name>Golden Tee 3D Golf</name>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gt3d.png</image>
 		<video>./snap/gt3d.mp4</video>
@@ -33797,7 +33750,7 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 	<game>
 		<path>./gt97.zip</path>
 		<name>Golden Tee '97</name>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gt97.png</image>
 		<video>./snap/gt97.mp4</video>
@@ -33814,7 +33767,7 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 	<game>
 		<path>./gt98.zip</path>
 		<name>Golden Tee '98</name>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gt98.png</image>
 		<video>./snap/gt98.mp4</video>
@@ -33831,7 +33784,7 @@ When enough medals have been picked up a 'void' bomb becomes available which whe
 	<game>
 		<path>./gt99.zip</path>
 		<name>Golden Tee '99</name>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gt99.png</image>
 		<video>./snap/gt99.mp4</video>
@@ -35764,7 +35717,7 @@ Players take control of hover vehicle armed with a turret and a cannon, rolling 
 		<path>./horshoes.zip</path>
 		<name>American Horseshoes</name>
 		<desc>American Horseshoes is a 1 to 4 players horseshoe game. Each players can choose from one of four characters. There are 2 pitches in each inning. Players may select grip and throwing angle prior to each pitch. The rolling of the trackball determines the distance of each pitch. After each inning the scoring with shown with an overhead shot of the stake area. Each player's score is shown throughout the game at the top of the screen. At the end of each 3 innings the players may continue by inserting additional credits. Up to 9 innings can be played per game.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/horshoes.png</image>
 		<video>./snap/horshoes.mp4</video>
@@ -39302,7 +39255,7 @@ Now inside the Black Fortress, Colwyn secedes from his friends in order to rescu
 		<path>./krzybowl.zip</path>
 		<name>Krazy Bowl</name>
 		<desc>A 10-pin bowling game.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/krzybowl.png</image>
 		<video>./snap/krzybowl.mp4</video>
@@ -42934,7 +42887,7 @@ In addition to main weapon upgrades, secondary weapons can also be bought. These
 		<desc>Millipede is a 1- or 2-player game with a color raster-scan video display. The game action takes place on a playfield filled with mushrooms, flowers, and deadly DDT bombs. The player tries to destroy a variety of insects that drop from the top of the screen or enter from the sides of the screen, most of them to attack the player. The player controls a bow-shaped vehicle called the Archer. The object of the game is to shoot and destroy as many objects as possible for a high point score, before the player's lives are all used up.
 
 Player control consists of a Midi Trak-Ball control and a FIRE button. The Archer is moved by rotating the Midi Trak-Ball control. The Archer can be moved in all directions, but only within the bottom fifth of the screen. However, the Archer must move around mushrooms, flowers, and DDT bombs, since these are fixed and not 'transparent' objects. Pressing the FIRE button causes the Archer to emit an arrow that travels upward. The Archer may fire one or many arrows (by holding down the FIRE button constantly). But only one arrow will appear on the screen at a time.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/milliped.png</image>
 		<video>./snap/milliped.mp4</video>
@@ -43170,24 +43123,6 @@ Battles are fought over the best of three rounds. At the end of a battle, a voic
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>02AE7DD31CB3E5A682470F0B53AE8B5F</cheevosHash>
-	</game>
-	<game>
-		<path>./mmatrix.zip</path>
-		<name>Mars Matrix: Hyper Solid Shooting</name>
-		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
-		<image>./mixart/mmatrix.png</image>
-		<video>./snap/mmatrix.mp4</video>
-		<marquee>./wheel/mmatrix.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Takumi</developer>
-		<publisher>Takumi</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5D87554E1EFBA014FD10046644BD41B3</cheevosHash>
 	</game>
 	<game>
 		<path>./mmaulers.zip</path>
@@ -55036,7 +54971,7 @@ When you insert a coin you get a 'Service Score' changing random number. When Pl
 		<path>./shuuz.zip</path>
 		<name>Shuuz</name>
 		<desc>A horseshoes game.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/shuuz.png</image>
 		<video>./snap/shuuz.mp4</video>
@@ -68395,29 +68330,6 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<region>us</region>
 		<cheevosHash>BC237104F4130857653E7B546BF44B9E</cheevosHash>
 	</game>
-	<game id="149461">
-		<path>./beastrzr.zip</path>
-		<name>Beastorizer</name>
-		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/beastrzr.png</image>
-		<video>./snap/beastrzr.mp4</video>
-		<marquee>./wheel/beastrzr.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>SCE</developer>
-		<publisher>Raizing</publisher>
-		<genre>Fight</genre>
-		<family>Bloody Roar</family>
-		<arcadesystemname>eighting</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>818a139614682de20fe948e31a9a1603</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C9324352AB268A2EC8229FEADE20DE7E</cheevosHash>
-	</game>
 	<game>
 		<path>./ckong.zip</path>
 		<name>Crazy Kong</name>
@@ -68441,7 +68353,7 @@ The game is played by moving a cross-hair across the sky and pressing one of thr
 		<path>./arcadecl.zip</path>
 		<name>Arcade Classics</name>
 		<desc>2 games in one means double the fun.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/arcadecl.png</image>
 		<video>./snap/arcadecl.mp4</video>
@@ -68731,7 +68643,7 @@ Super Joe carries only two weapons: a limited-range machine gun with unlimited s
 	<game>
 		<path>./gtclassc.zip</path>
 		<name>Golden Tee Classic</name>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gtclassc.png</image>
 		<video>./snap/gtclassc.mp4</video>
@@ -68965,21 +68877,6 @@ In a future where space travel has existed since 2119. Humans explored space, an
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>791ADDC2476B352F64D2593CF56532CE</cheevosHash>
-	</game>
-	<game>
-		<path>./zaxxon.zip</path>
-		<name>Zaxxon</name>
-		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/zaxxon.png</image>
-		<video>./snap/zaxxon.mp4</video>
-		<marquee>./wheel/zaxxon.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C4E4E7086E57D758C85B96D2E0375436</cheevosHash>
 	</game>
 	<game>
 		<path>./contcirc.zip</path>
@@ -69302,27 +69199,6 @@ The player drives a Formula-1 race car on each track. The first objective of the
 		<region>us</region>
 		<cheevosHash>5EA8D9D44E30AE2E09BE470ED774057E</cheevosHash>
 	</game>
-	<game id="40178" source="ScreenScraper.fr">
-		<path>./bbust2.zip</path>
-		<name>Beast Busters 2nd Nightmare</name>
-		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds. 
- 
-The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/bbust2.png</image>
-		<video>./snap/bbust2.mp4</video>
-		<marquee>./wheel/bbust2.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Lightgun Shooter-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EBDDA81FD81FD41A4583F8180236F4BA</cheevosHash>
-	</game>
 	<game id="41179" source="ScreenScraper.fr">
 		<path>./fatfurwa.zip</path>
 		<name>Fatal Fury: Wild Ambition</name>
@@ -69584,37 +69460,6 @@ Hang-On's handling and superb graphics were unlike anything seen before in the a
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B267466D355FBF6F1DE9F7A3C62A4E5C</cheevosHash>
-	</game>
-	<game>
-		<path>./ddragon.zip</path>
-		<name>Double Dragon</name>
-		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
-
-Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
-
-The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
-Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
-Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
-Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
-Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
-Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
-Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
-Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
-
-Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
-		<image>./mixart/ddragon.png</image>
-		<video>./snap/ddragon.mp4</video>
-		<marquee>./wheel/ddragon.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Technos Japan</developer>
-		<publisher>Taito</publisher>
-		<genre>Plateform / Fighter Scrolling-Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
 	</game>
 	<game>
 		<path>./aafb.zip</path>
@@ -71089,98 +70934,6 @@ Any trapped enemies who are not killed quickly enough will turn red and escape t
 		<region>us</region>
 		<cheevosHash>72A669A6A000928DA3AB24C3A79E554C</cheevosHash>
 	</game>
-	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
-	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
-	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
-	</game>
 	<game id="40733" source="ScreenScraper.fr">
 		<path>./crusnusa.zip</path>
 		<name>Cruis'n Usa</name>
@@ -71340,26 +71093,6 @@ Like its predecessor, it's better known for its Sony PlayStation port, developed
 		<cheevosHash>96433FB0BB6DBE5F45F1BA6C7CEC2EF7</cheevosHash>
 	</game>
 	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game>
 		<path>./sgemf.zip</path>
 		<name>Pocket Fighter</name>
 		<desc>Super Gem Fighter: Mini Mix / Pocket Fighter is a superb, abstract and humorous fighting game featuring miniaturized renditions from several Capcom fighting games; including the legendary "Street Fighter" series, as well as "Darkstalkers" and the little-known "Red Earth".
@@ -71477,25 +71210,6 @@ Hirohiko Araki served as a consultant for the game and created exclusive pieces 
 		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
 	</game>
 	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>./mixart/captcomm.png</image>
-		<video>./snap/captcomm.mp4</video>
-		<marquee>./wheel/captcomm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
-		<cheevosId>11726</cheevosId>
-	</game>
-	<game>
 		<path>./mslugx.zip</path>
 		<name>Metal Slug X: Super Vehicle-001</name>
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
@@ -71578,26 +71292,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4913&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BB5459BF19132D4DC1340654C17331DF</cheevosHash>
-	</game>
-	<game>
-		<path>./jojo.zip</path>
-		<name>JoJo no Kimyou na Bouken</name>
-		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/jojo.png</image>
-		<video>./snap/jojo.mp4</video>
-		<marquee>./wheel/jojo.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
 	</game>
 	<game>
 		<path>./mslug5.zip</path>
@@ -71981,7 +71675,7 @@ It has more animations, a slightly different palette and zero game modes. Instea
 		<path>./gt2k.zip</path>
 		<name>Golden Tee 2K</name>
 		<desc>Golden Tee Golf (also known as Golden Tee) is a golf arcade game series by Incredible Technologies.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/gt2k.png</image>
 		<video>./snap/gt2k.mp4</video>
@@ -72106,42 +71800,6 @@ The game ends when the player has recovered the Jewel of Seven Colours, saved th
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CE40A059058AA84460A42D4F5E2D6978</cheevosHash>
-	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
-		<path>./aztarac.zip</path>
-		<name>Aztarac</name>
-		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
-		<image>./mixart/aztarac.png</image>
-		<video>./snap/aztarac.mp4</video>
-		<marquee>./wheel/aztarac.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Tim Stryker</developer>
-		<publisher>Centuri</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
 	</game>
 	<game>
 		<path>./beezer.zip</path>
@@ -72423,65 +72081,6 @@ Miyamoto, the Samurai Dragon: Well-mannered and wise, Miyamoto the samurai drago
 		<region>us</region>
 		<cheevosHash>C30291E7FC3B1FA4BB85EDC02BBD747D</cheevosHash>
 	</game>
-	<game>
-		<path>./outrun.zip</path>
-		<name>'H' Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
 	<game id="41397">
 		<path>./gauntleg.zip</path>
 		<name>Gauntlet Legends</name>
@@ -72547,7 +72146,7 @@ A bombardment of Fleas appears from the second wave onward. As a Flea descends, 
 When a Centipede with fewer than eleven segments appears, a Scorpion enters from either side, moving at a relatively slow speed. As the player earns more points, the Scorpion's speed increases. As the Scorpion travels across the screen, it 'poisons' the mushrooms that it moves over and changes their colours. These mushrooms cause any Centipedes that would collide with them to head straight towards the bottom of the screen, rather than continue snaking left and right. The Bug Blaster can stop a poisoned Centipede by shooting its head.
 
 If a player earns at least 60,000 points, two things happen to increase the challenge: the Fleas descend at a faster speed and the Spiders restrict their movement to a smaller area at the bottom of the screen.</desc>
-		<emulator>angle</emulator>
+		<emulator>libretro</emulator>
 		<core>mame2003_plus</core>
 		<image>./mixart/centiped.png</image>
 		<video>./snap/centiped.mp4</video>
@@ -72685,34 +72284,6 @@ When all four numbered parts have been collected, the player's ship transforms i
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E3CDDF627AE97C00AE872B52980584C1</cheevosHash>
-	</game>
-	<game>
-		<path>./blktiger.zip</path>
-		<name>Black Dragon</name>
-		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
-
-The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
-
-Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
-
-The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
-
-The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
-
-Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
-		<image>./mixart/blktiger.png</image>
-		<video>./snap/blktiger.mp4</video>
-		<marquee>./wheel/blktiger.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
 	</game>
 	<game>
 		<path>./hitice.zip</path>
@@ -72908,5 +72479,434 @@ Karate Tournament uses a distinctive graphical technique in that it 'morphs' som
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5227D7FCF1A6789D109183067FEE39DA</cheevosHash>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game>
+		<path>./aztarac.zip</path>
+		<name>Aztarac</name>
+		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
+		<image>./mixart/aztarac.png</image>
+		<video>./snap/aztarac.mp4</video>
+		<marquee>./wheel/aztarac.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Tim Stryker</developer>
+		<publisher>Centuri</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A5ADD96FAD534D4D0E035AC5658760E3</cheevosHash>
+	</game>
+	<game id="40178" source="ScreenScraper.fr">
+		<path>./bbust2.zip</path>
+		<name>Beast Busters 2nd Nightmare</name>
+		<desc>A great sequel to the original game an once again city has been invaded by the undead, the players must shoot using machine guns or bombs to fight against an entire host of monsters including zombies, mutants and other creepy creatures in this frantic first person shooter! Featuring nice graphics in 3D and excellent sounds. 
+ 
+The plot is set in 2009 at the A.D. Tokyo Bay's floating city, "New Tokyo Port Town." Within the international specialized pathologies hospital (ISPH) rising from a corner of the city, an outbreak of an unknown virus severs contact with the outer world... authorities, carefully monitoring the situation, dispatch two marine commandos to investigate and "expedite" the matter. Yet what horror they will witness is...?</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/bbust2.png</image>
+		<video>./snap/bbust2.mp4</video>
+		<marquee>./wheel/bbust2.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Lightgun Shooter-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EBDDA81FD81FD41A4583F8180236F4BA</cheevosHash>
+	</game>
+	<game id="149461">
+		<path>./beastrzr.zip</path>
+		<name>Beastorizer</name>
+		<desc>Unleash the beast within! Take your pick from 8 unique fighters with the ability to morph into powerful werebeasts (wolf, lion, rabbit, tiger, mole, fox, gorilla &amp; boar) and battle your way to reach the sinister Tylon Corporation's secret bioweapon: the deadly weredemon Uriko! Features solid 3-D graphics with awesome character designs, great sound effects &amp; cool music, and a simple control scheme geared towards fast, aggressive gameplay.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/beastrzr.png</image>
+		<video>./snap/beastrzr.mp4</video>
+		<marquee>./wheel/beastrzr.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>SCE</developer>
+		<publisher>Raizing</publisher>
+		<genre>Fight</genre>
+		<family>Bloody Roar</family>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>818a139614682de20fe948e31a9a1603</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C9324352AB268A2EC8229FEADE20DE7E</cheevosHash>
+	</game>
+	<game>
+		<path>./biomtoy.zip</path>
+		<name>Biomechanical Toy</name>
+		<desc>Biomechanical Toy is an eightway-scrolling platform shoot-em-up set in a world of magically-animated toys, in which the magical pendulum that animates the toys has been stolen by the evil 'Scrubby', a criminal once imprisoned for trying to steal the pendulum who has managed to escape and take his revenge. The player takes on the role of Inguz and is tasked with freeing the few remaining good toys that are trapped throughout the stages, while destroying or avoiding the many evil toys that now patrol the kingdom. 
+
+Inguz carries a basic, single-firing pistol, although additional ammo clips can be found throughout the game that upgrade the gun with either extra shot power, automatic firing or exploding bullets. When the gun's current ammo clip is empty, Inguz will take a moment to reload, leaving him vulnerable to attack. Freed toys will give help to Inguz by providing additional firepower for a short time.
+
+Inguz begins each stage and each new life with a full health meter of eighty units, but food can be found that will replenish the meter. The player can lose a life either by running out of health, falling off the bottom of the screen (or into a hazard, such as a lava pit), or by running out of time. Clearing each stage awards bonus points based on both remaining time and health units.
+
+Checkpoints - indicated by red flags - are located at certain points throughout the stages. In the event of losing a life, play restarts from the last checkpoint reached. Objects with Inguz's face on them (such as wooden chests and balloons) release bonus items when shot. 
+
+An abstract, oriental-looking face occasionally forms part of a level's platform which, when shot, releases balloons which can in turn be shot for bonus items. A giant flying hat also occasionally appears and will drop bonus items when shot. Smart Bombs can also be found at certain points that, when run into by Inguz, will damage or destroy all enemy toys on screen.</desc>
+		<image>./mixart/biomtoy.png</image>
+		<video>./snap/biomtoy.mp4</video>
+		<marquee>./wheel/biomtoy.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Gaelco</developer>
+		<publisher>Gaelco</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9A4931EF4FA956E334FE68962027DEB4</cheevosHash>
+	</game>
+	<game>
+		<path>./blktiger.zip</path>
+		<name>Black Dragon</name>
+		<desc>Black Dragon/Tiger is a scrolling platform shoot-em-up set in a fantasy world and is the spiritual successor to the Capcom classic, "Makaimura" ("Ghosts'n' Goblins" outside Japan).
+
+The player takes on the role of a barbarian hero who must jump and fight his way through a variety of colourful, enemy-packed levels, collecting treasure and weapon power-ups and rescuing the trapped 'wise old men' that litter the levels. 
+
+Rescuing the wise men sees the player awarded 'Zeny coins'; these are the game's currency and allow the player to buy such items as weapon and armour upgrades, keys for treasure chests, anti-poisoning potions and health potions from the shops that appear on each level. Occasionally, a rescued wise man will also offer to sell the player weapon and armour power-ups. 
+
+The barbarian hero is armed with a spiked mace on the end of a long chain, as well as unlimited throwing daggers. Both these and the armour worn by the barbarian (which offers limited protection from enemy attacks) can be upgraded by finding or buying the relevant power-ups.
+
+The sprawling, eight-way scrolling levels are packed with hidden bonuses to encourage and reward exploration. These bonuses are in the form of weapon and armour power-ups, as well as valuable treasure items. Many levels also include a hidden dungeon and each dungeon is filled with both bonus items and trapped wise men.
+
+Special items that reveal coins, upgraded armour, or simply bonus points can be found by attacking certain walls.</desc>
+		<image>./mixart/blktiger.png</image>
+		<video>./snap/blktiger.mp4</video>
+		<marquee>./wheel/blktiger.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F535C3364D8BF990348029E6074810E</cheevosHash>
+	</game>
+	<game id="40373">
+		<path>./brvbladeu.zip</path>
+		<name>Brave Blade</name>
+		<desc>A 3-D vertically scrolling shoot'em up.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/brvbladeu.png</image>
+		<video>./snap/brvbladeu.mp4</video>
+		<marquee>./wheel/brvbladeu.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Eighting Co., Ltd.</developer>
+		<publisher>Eighting / Raizing</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<arcadesystemname>eighting</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>ea7f913df6145fc96228f2f71c28a264</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>252AA4364F77DBFC12CB50006D3CE713</cheevosHash>
+	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>'H' Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./mixart/captcomm.png</image>
+		<video>./snap/captcomm.mp4</video>
+		<marquee>./wheel/captcomm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
+		<cheevosId>11726</cheevosId>
+	</game>
+	<game>
+		<path>./ddragon.zip</path>
+		<name>Double Dragon</name>
+		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
+
+Many of the game's enemies carry weapons (knives, baseball bats etc.) and should Billy or Jimmy manage to knock the weapons from the enemies' hands, the heroes can pick the weapons up and use them against the enemies.
+
+The Black Warriors is made up of six distinct enemy characters- plus Willy, the game's final boss - with each differing in both physical appearance and fighting style. The members of the Black Warriors consist of the following fighters: 
+Williams - A street punk in a tank top. In addition to the standard punches and jump kicks, his signature technique is a body blow to the stomach. He also wields weapons such as baseball bats, knives and dynamite sticks.
+Rowper - A punk who wears matching-colored pants and shirtless vest. He wields all the same weapons as Williams, but can also lift and throw heavy objects such as oildrums, boxes and stones.
+Linda - Female punk who usually carries a whip. She's not very strong, as she falls down to ground with a couple of punches or a single kick (because of this, she is the only regular-sized enemy who cannot be placed on a headlock).
+Abobo - A tall, big-muscled bald guy. His attacks includes punches, a standing kick and a body toss. He can also lift and throw heavy objects like Rowper. Due to his large size, he cannot be put into a headlock.
+Boss 1 - The first boss, a head-swap of Abobo with a Mr. T-style mohawk and beard. Fights just like Abobo, only with an added double-handed slap. Unlike Abobo, he does not use weapons. A green version of him appears as the Mission 3 boss.
+Boss 2 - The second boss. A head swap of the player who uses almost all the same techniques. 
+Willy - The game's final boss, armed, somewhat unfairly, with a machine-gun.
+
+Double Dragon was a huge success due to the many game-play innovations it brought to the genre (see TRIVIA for details), but it demonstrates its final moment of inspired genius at the very end of the game. Should both players still be alive after the final boss has been defeated, they will then have to fight each OTHER. The winner of this fight will be the one who wins Marian's affections.</desc>
+		<image>./mixart/ddragon.png</image>
+		<video>./snap/ddragon.mp4</video>
+		<marquee>./wheel/ddragon.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Technos Japan</developer>
+		<publisher>Taito</publisher>
+		<genre>Plateform / Fighter Scrolling-Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
+	</game>
+	<game>
+		<path>./jojo.zip</path>
+		<name>JoJo no Kimyou na Bouken</name>
+		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/jojo.png</image>
+		<video>./snap/jojo.mp4</video>
+		<marquee>./wheel/jojo.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
+	</game>
+	<game>
+		<path>./mmatrix.zip</path>
+		<name>Mars Matrix: Hyper Solid Shooting</name>
+		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
+		<image>./mixart/mmatrix.png</image>
+		<video>./snap/mmatrix.mp4</video>
+		<marquee>./wheel/mmatrix.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5D87554E1EFBA014FD10046644BD41B3</cheevosHash>
+	</game>
+	<game>
+		<path>./zaxxon.zip</path>
+		<name>Zaxxon</name>
+		<desc>Zaxxon is an isometric scrolling shoot-em-up in which the player pilots an armed spaceship and must penetrate heavily-fortified enemy bases, destroying enemy ships and installations before reaching the final confrontation with a giant armoured robot.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/zaxxon.png</image>
+		<video>./snap/zaxxon.mp4</video>
+		<marquee>./wheel/zaxxon.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C4E4E7086E57D758C85B96D2E0375436</cheevosHash>
 	</game>
 </gameList>

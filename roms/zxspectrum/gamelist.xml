@@ -3155,26 +3155,6 @@ The player is in the role a special agent whose mission is to deliver the Comple
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="45741" source="ScreenScraper.fr">
-		<path>./Robocop (Europe).tzx</path>
-		<name>RoboCop</name>
-		<desc>Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...
-
-Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
-		<image>./mixart/Robocop (Europe).png</image>
-		<video>./snap/Robocop (Europe).mp4</video>
-		<marquee>./wheel/Robocop (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Ocean</publisher>
-		<players>1</players>
-		<favorite>true</favorite>
-		<crc32>3DDD1476</crc32>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="44503">
 		<path>./Deathchase (Europe).tzx</path>
 		<name>Deathchase</name>
@@ -3465,6 +3445,26 @@ You have an energy bar which decreases constantly, and contact with the ants, sp
 		<developer>Devonshire House</developer>
 		<publisher>Romantic Robot UK</publisher>
 		<md5>73438914e28a1afc2e3f288d3e971004</md5>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="45741" source="ScreenScraper.fr">
+		<path>./Robocop (Europe).tzx</path>
+		<name>RoboCop</name>
+		<desc>Patrolman Alex Murphy was killed on the streets of Detroit. The major corporation there, Omni Consumer Products (OCP) saw an opportunity to sell a new kind of law enforcement officer to the troubled city. They took what was left of Murphy, encased it in titanium armor, wiped his memory and created RoboCop. Now it's up to RoboCop to clean the streets of Detroit and eliminate the one responsible for his murder, Clarence Boddicker. But it looks like Clarence might not be the kingpin of this town...
+
+Based on the 1987 movie of the same name, RoboCop allows the player to control RoboCop. The majority of the game is a side scroller. RoboCop can punch unarmed citizens and shoot armed citizens. He can move left, right and duck but can not jump. Different weapons can be picked up from enemies, and power-ups to restore health and/or energy. Following levels, RoboCop will have to match a criminal's face to the proper mugshot and engage in a first-person shooting bonus round.</desc>
+		<image>./mixart/Robocop (Europe).png</image>
+		<video>./snap/Robocop (Europe).mp4</video>
+		<marquee>./wheel/Robocop (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+		<crc32>3DDD1476</crc32>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

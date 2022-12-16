@@ -1693,23 +1693,6 @@
 		<cheevosHash>C0DB811BAFDD4E6BC785E03B53F7C40A</cheevosHash>
 	</game>
 	<game>
-		<path>./doa2m.zip</path>
-		<name>Dead or Alive 2</name>
-		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
-		<image>./mixart/doa2.png</image>
-		<video>./snap/doa2.mp4</video>
-		<marquee>./wheel/doa2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
-	</game>
-	<game>
 		<path>./dygolf.bin</path>
 		<name>Virtua Golf (Rev A, GDS-0009A)</name>
 		<desc>Dynamic Golf is a challenging golf video game for up to four players. Compete in several different sessions including stroke play, match play and skins. The game features precise ball control including backspin, topspin and shot shaping. Players can start at any hole. There are Nearest to the Pin and Longest Drive contests within the multiplayer games.</desc>
@@ -1931,5 +1914,22 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>6BF66FFCEF2668D498AD77989DB46F43</cheevosHash>
+	</game>
+	<game>
+		<path>./doa2m.zip</path>
+		<name>Dead or Alive 2</name>
+		<desc>Dead or Alive 2 is a brilliant 3-D fighting game from Tecmo. The gameplay is similar to its predecessor, but now has new additions such as multi-tiered arenas and tag-team matches.</desc>
+		<image>./mixart/doa2.png</image>
+		<video>./snap/doa2.mp4</video>
+		<marquee>./wheel/doa2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
 	</game>
 </gameList>

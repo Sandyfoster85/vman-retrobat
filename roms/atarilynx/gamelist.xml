@@ -1277,25 +1277,6 @@ Batman can beat them up with his fists or destroy them using Batarangs and acid 
 		<region>eu</region>
 		<cheevosHash>6E9BBFF3C7B66D3EC0411FFBE0E41DFD</cheevosHash>
 	</game>
-	<game id="14222" source="ScreenScraper.fr">
-		<path>./Chip's Challenge (USA, Europe).zip</path>
-		<name>Chip's Challenge</name>
-		<desc>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</desc>
-		<image>./mixart/Chip's Challenge (USA, Europe).png</image>
-		<video>./snap/Chip's Challenge (USA, Europe).mp4</video>
-		<marquee>./wheel/Chip's Challenge (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Atari</publisher>
-		<players>1</players>
-		<favorite>true</favorite>
-		<crc32>6A5F53ED</crc32>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>24611D1445EBD34AB79FB0AE996FF4E4</cheevosHash>
-		<cheevosId>10596</cheevosId>
-	</game>
 	<game>
 		<path>./Power Factor (USA, Europe).zip</path>
 		<name>Power Factor</name>
@@ -1350,7 +1331,7 @@ The player starts with three lives, and there are no continues.  There are, howe
 		<video>./snap/Eye of the Beholder (USA) (Proto).mp4</video>
 		<marquee>./wheel/Eye of the Beholder (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>NuFX</developer>
 		<players>1</players>
 		<crc32>6BCEAA9C</crc32>
@@ -1469,5 +1450,24 @@ The home conversions retain most of the then-advanced 3D graphics but lack the f
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>C265F0DE8C5BD77DB8F9CF5A1F7AB68F</cheevosHash>
+	</game>
+	<game id="14222" source="ScreenScraper.fr">
+		<path>./Chip's Challenge (USA, Europe).zip</path>
+		<name>Chip's Challenge</name>
+		<desc>Nerdy Chip desperately wants to join the "Bit Busters" computer club, led by Melinda the Mental Marvel.  However, before she'll let him in, he must prove his intelligence by passing the initiation test.  149 increasingly difficult levels, including a few hidden ones, await Chip in this tile-based puzzle game.  Use tools such as keys, and special shoes to bypass obstacles.  Manipulate switches to and use dirt blocks to build bridges across waterways.  Avoid enemy creatures, grab all the computer chips in the level, and hurry to the exit: On top of everything else, there's a time limit!</desc>
+		<image>./mixart/Chip's Challenge (USA, Europe).png</image>
+		<video>./snap/Chip's Challenge (USA, Europe).mp4</video>
+		<marquee>./wheel/Chip's Challenge (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Atari</publisher>
+		<players>1</players>
+		<favorite>true</favorite>
+		<crc32>6A5F53ED</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>24611D1445EBD34AB79FB0AE996FF4E4</cheevosHash>
+		<cheevosId>10596</cheevosId>
 	</game>
 </gameList>

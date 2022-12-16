@@ -4703,24 +4703,6 @@ On each level you must collect five stars in order to get access to the bonus le
 		<cheevosHash>C8337C47ED211075B9ACF4867D8C0E18</cheevosHash>
 		<cheevosId>12907</cheevosId>
 	</game>
-	<game>
-		<path>./Aerial Assault (World).7z</path>
-		<name>Aerial Assault</name>
-		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
-		<image>./mixart/Aerial Assault (World).png</image>
-		<video>./snap/Aerial Assault (World).mp4</video>
-		<marquee>./wheel/Aerial Assault (World).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sims</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>B6FB54E60F8992DAAA35E98A712FF2CB</cheevosHash>
-	</game>
 	<game id="65820" source="ScreenScraper.fr">
 		<path>./Beavis and Butt-head (USA).7z</path>
 		<name>Beavis and Butt-head</name>
@@ -4807,5 +4789,23 @@ Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some 
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>05E39EB8DC19C023F4A4FED36C058675</cheevosHash>
+	</game>
+	<game>
+		<path>./Aerial Assault (World).7z</path>
+		<name>Aerial Assault</name>
+		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
+		<image>./mixart/Aerial Assault (World).png</image>
+		<video>./snap/Aerial Assault (World).mp4</video>
+		<marquee>./wheel/Aerial Assault (World).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>B6FB54E60F8992DAAA35E98A712FF2CB</cheevosHash>
 	</game>
 </gameList>

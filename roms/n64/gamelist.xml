@@ -4963,24 +4963,6 @@
 		<cheevosId>10133</cheevosId>
 	</game>
 	<game>
-		<path>./Conker's Bad Fur Day (USA).n64</path>
-		<name>Conker's Bad Fur Day</name>
-		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.  In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up.   Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</desc>
-		<image>./mixart/Conker's Bad Fur Day (USA).png</image>
-		<video>./snap/Conker's Bad Fur Day (USA).mp4</video>
-		<marquee>./wheel/Conker's Bad Fur Day (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20010305T000000</releasedate>
-		<developer>Rareware</developer>
-		<publisher>Rare, Ltd.</publisher>
-		<genre>Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>220543F489A9828021EA82A69E6305A3</cheevosHash>
-	</game>
-	<game>
 		<path>./Star Wars - Rogue Squadron (USA) (Rev A).n64</path>
 		<name>Star Wars : Rogue Squadron</name>
 		<desc>Fly against the evil Empire! As Luke Skywalker, co-founder of the Rebel Alliance's elite Rogue Squadron, you must combat the evil Galactic Empire! Engage in intense, fast-paced planetary air-to-ground and air-to-air missions - dogfights, search and destroy, reconnaissance, bombing runs, rescue assignments and more! Pilot X-wings, Y-wings, A-wings, V-wings and Snowspeeders with powerful weapons in over 15 missions battling TIE fighters, TIE bombers, Imperial shuttles, AT-AT walkers, AT-STs and other challenging foes.</desc>
@@ -5053,24 +5035,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>2A56A06A05A9DBF9E693325B503AB5B1</cheevosHash>
-	</game>
-	<game>
-		<path>./Cruis'n Exotica (USA).n64</path>
-		<name>Cruis'n Exotica</name>
-		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
-		<image>./mixart/Cruis'n Exotica (USA).png</image>
-		<video>./snap/Cruis'n Exotica (USA).mp4</video>
-		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20001017T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Gratuitous Games</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
 	</game>
 	<game>
 		<path>./Robotron 64 (USA).n64</path>
@@ -5160,5 +5124,43 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B0488CD676773D283FE4FDEC55418F32</cheevosHash>
+	</game>
+	<game>
+		<path>./Conker's Bad Fur Day (USA).n64</path>
+		<name>Conker's Bad Fur Day</name>
+		<desc>Unlike every other Nintendo game ever made, Conker sees his first outing on the N64 with a mature audience in mind. But don't let the violence get in your way of playing this title, which is much like other Rare platformers including Banjo-Kazooie, with a twist.  In this case, Conker has had one hell of a night, and when he wakes up not only does he have a huge hangover, but something just doesn't feel right. So it's up to Conker and his many skills to clean things up.   Conker goes through plenty of wild and wacky levels, most of which are based on classic movies including The Matrix, Jaws, Aliens, The Terminator and even Eyes Wide Shut. A multiplayer mode is also included, allowing 4 players to battle it out in many different styles of multiplayer gameplay.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./mixart/Conker's Bad Fur Day (USA).png</image>
+		<video>./snap/Conker's Bad Fur Day (USA).mp4</video>
+		<marquee>./wheel/Conker's Bad Fur Day (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20010305T000000</releasedate>
+		<developer>Rareware</developer>
+		<publisher>Rare, Ltd.</publisher>
+		<genre>Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>220543F489A9828021EA82A69E6305A3</cheevosHash>
+	</game>
+	<game>
+		<path>./Cruis'n Exotica (USA).n64</path>
+		<name>Cruis'n Exotica</name>
+		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
+		<image>./mixart/Cruis'n Exotica (USA).png</image>
+		<video>./snap/Cruis'n Exotica (USA).mp4</video>
+		<marquee>./wheel/Cruis'n Exotica (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20001017T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Gratuitous Games</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
 	</game>
 </gameList>

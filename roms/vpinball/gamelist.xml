@@ -6074,21 +6074,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./willy wonka.vpx</path>
-		<name>willy wonka</name>
-		<desc>Flipper willy wonka</desc>
-		<image>./mixart/willy wonka.jpg</image>
-		<video>./snap/willy wonka.mp4</video>
-		<marquee>./wheel/willy wonka.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Creepshow.vpx</path>
 		<name>Creepshow 1/2</name>
 		<desc>Flipper Creepshow 1/2</desc>
@@ -7604,22 +7589,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Aliens_pupversion 1.0.vpx</path>
-		<name>Aliens (PupEdition)</name>
-		<desc>Flipper Aliens_pupversion 1.0</desc>
-		<image>./mixart/Aliens_pupversion 1.0.png</image>
-		<video>./snap/Aliens_pupversion 1.0.mp4</video>
-		<marquee>./wheel/Aliens_pupversion 1.0.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./BTTF  trilogie ver 1.8.vpx</path>
 		<name>Back To The Future Trilogy</name>
 		<desc>Flipper BTTF  trilogie ver 2.0</desc>
@@ -7813,22 +7782,6 @@
 		<image>./mixart/Legend of Zelda.jpg</image>
 		<video>./snap/Legend of Zelda.mp4</video>
 		<marquee>./wheel/Legend of Zelda.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Addams Family, The  (Bally 1992) v2.1 uncompressed.vpx</path>
-		<name>Addams Family, The  (Bally 1992) (PupEdition)</name>
-		<desc>Flipper Addams Family, The (Bally 1992) v2.1</desc>
-		<image>./mixart/Addams Family, The  (Bally 1992) v2.1 uncompressed.jpg</image>
-		<video>./snap/Addams Family, The  (Bally 1992) v2.1 uncompressed.mp4</video>
-		<marquee>./wheel/Addams Family, The  (Bally 1992) v2.1 uncompressed.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -8218,6 +8171,53 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Addams Family, The  (Bally 1992) v2.1 uncompressed.vpx</path>
+		<name>Addams Family, The  (Bally 1992) (PupEdition)</name>
+		<desc>Flipper Addams Family, The (Bally 1992) v2.1</desc>
+		<image>./mixart/Addams Family, The  (Bally 1992) v2.1 uncompressed.jpg</image>
+		<video>./snap/Addams Family, The  (Bally 1992) v2.1 uncompressed.mp4</video>
+		<marquee>./wheel/Addams Family, The  (Bally 1992) v2.1 uncompressed.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Aliens_pupversion 1.0.vpx</path>
+		<name>Aliens (PupEdition)</name>
+		<desc>Flipper Aliens_pupversion 1.0</desc>
+		<image>./mixart/Aliens_pupversion 1.0.png</image>
+		<video>./snap/Aliens_pupversion 1.0.mp4</video>
+		<marquee>./wheel/Aliens_pupversion 1.0.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./willy wonka.vpx</path>
+		<name>willy wonka</name>
+		<desc>Flipper willy wonka</desc>
+		<image>./mixart/willy wonka.jpg</image>
+		<video>./snap/willy wonka.mp4</video>
+		<marquee>./wheel/willy wonka.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

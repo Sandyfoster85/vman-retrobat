@@ -6520,22 +6520,6 @@ There is also a freeform mode where the player is given an unlimited number of p
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Extreme Pinball.pc</path>
-		<name>Extreme Pinball</name>
-		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Extreme Pinball.png</image>
-		<video>./snap/Extreme Pinball.mp4</video>
-		<marquee>./wheel/Extreme Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Electronic Arts</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Spear of Destiny.pc</path>
 		<name>Wolfenstein 3D: Spear of Destiny</name>
 		<desc>It's World War II and you are B.J. Blazkowicz, the Allies' most valuable agent. In the midst of the German Blitzkrieg, the Spear that pierced the side of Christ is taken from Versailles by the Nazis and secured in the impregnable Castle Wolfenstein. According to legend, no man can be defeated when he has the Spear. Hitler believes himself to be invincible with the power of the Spear as his brutal army sweeps across Europe.Your mission is to infiltrate the heavily guarded Nazi stronghold and recapture the Spear from an already unbalanced Hitler. The loss of his most coveted weapon could push him over the edge. It could also get you ripped to pieces.Spear of Destiny is a prequel to Wolfenstein 3-D. It is a first-person shooter that uses the same engine and has the same gameplay, however the game is not divided into 6 separate episodes - all the levels are one long episode. The enemies and weapons are pretty much the same as in Wolfenstein 3-D. Only new additions include: new bosses, a new type of enemy, and a new pickup (a large box of ammo).</desc>
@@ -6852,27 +6836,6 @@ The game differs from many other RTSs by emphasizing territorial control (and th
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dune_II_The_Building_Of_A_Dynasty.pc</path>
-		<name>Dune II: The Building of a Dynasty</name>
-		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.
-
-Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
-
-The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
-
-After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
-		<image>./mixart/Dune 2.png</image>
-		<video>./snap/Dune 2.mp4</video>
-		<marquee>./wheel/Dune 2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Westwood Studios</developer>
-		<publisher>Virgin</publisher>
-		<genre>Strategy</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Pinball Wizard.pc</path>
 		<name>Pinball Wizard 2000</name>
 		<desc>Pinball Wizard 2000 from Ikarion Software GmbH is the successor of Kingsoft's Pinball Wizard for the Amiga. This pinball game features five tables (Themes: Industrial Revolution, Hattrick, Rock'n'Roll Heaven, Prohibition, Earth Inferno) and one bonus table (Mystic).PW2000 is more of an action-oriented game instead of a real simulation since the physics are somewhat strange at times. But the real strength of the program is the implemented Pinball Construction Set. All tables were built with this construction set and with the detailed instruction manual and samples everyone with some programming knowledge can do some amazing tables on his own.</desc>
@@ -6885,21 +6848,6 @@ After a mission is completed, the player can select the next mission on a map of
 		<releasedate>19700101T010000</releasedate>
 		<developer>Ikarion Software GmbH</developer>
 		<publisher>Ikarion Software GmbH</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Fable.pc</path>
-		<name>Fable</name>
-		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
-		<image>./mixart/Fable.png</image>
-		<video>./snap/Fable.mp4</video>
-		<marquee>./wheel/Fable.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Simbiosis Interactive</developer>
-		<publisher>Sir-tech</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -6918,94 +6866,6 @@ Teams consist of humans and aliens, many of which have their own unique skills. 
 		<developer>Teque</developer>
 		<publisher>Millennium Interactive</publisher>
 		<genre>Simulation</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Corridor 7 - Alien Invasion.pc</path>
-		<name>Corridor 7: Alien Invasion</name>
-		<desc>In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down ''Corridor 7''. Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.The CD version also comes with multiplayer in the form of 12 player Deathmatch and Team Deathmatch modes (believed to be the first FPS to allow that many players) and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 12 Corridor 7 characters (two recoloured humans and 10 aliens, 4 of which are Bandor variants) which all have slightly different starting stats (different speed and starting health) but all characters use the same weapons.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_svn</core>
-		<image>./mixart/Corridor 7 - Alien Invasion.png</image>
-		<video>./snap/Corridor 7 - Alien Invasion.mp4</video>
-		<marquee>./wheel/Corridor 7 - Alien Invasion.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Capstone Software</developer>
-		<publisher>Capstone Software</publisher>
-		<genre>Shooter / 1st person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Dark_Seed.pc</path>
-		<name>Dark Seed</name>
-		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.
-
-You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...
-
-... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
-		<image>./mixart/Dark Seed.png</image>
-		<video>./snap/Dark Seed.mp4</video>
-		<marquee>./wheel/Dark Seed.png</marquee>
-		<rating>0</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Cyberdreams, Inc.</developer>
-		<publisher>Cyberdreams, Inc.</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Descent 2.pc</path>
-		<name>Descent II</name>
-		<desc>The second Descent game features new levels,  new weapons and new robot enemies. It also comes with helpful ideas for the player like the Guide-bot, the ability to fly with afterburner or energy-to-shield converter that many times they  become a must!</desc>
-		<emulator>dosbox</emulator>
-		<image>./mixart/Descent 2.png</image>
-		<video>./snap/Descent 2.mp4</video>
-		<marquee>./wheel/Descent 2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960229T000000</releasedate>
-		<developer>Parallax Software Corp.</developer>
-		<publisher>Interplay</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Epic_Pinball.pc</path>
-		<name>Epic Pinball: The Complete Collection</name>
-		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
-
-Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
-Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
-Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
-Exclusive table African Safari
-
-Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Epic Pinball.png</image>
-		<video>./snap/Epic Pinball.mp4</video>
-		<marquee>./wheel/Epic Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Epic Games</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Flashback - The Quest for Identity.pc</path>
-		<name>Flashback: The Quest for Identity</name>
-		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
-		<image>./mixart/Flashback - The Quest for Identity.png</image>
-		<video>./snap/Flashback - The Quest for Identity.mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Strategic Simulations</publisher>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game id="155760">
@@ -7105,6 +6965,146 @@ Make your way through 10 floors of isometric action and puzzles, trying to stay 
 		<developer>Robert Cook</developer>
 		<publisher>Mindscape</publisher>
 		<genre>Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Corridor 7 - Alien Invasion.pc</path>
+		<name>Corridor 7: Alien Invasion</name>
+		<desc>In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down ''Corridor 7''. Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.The CD version also comes with multiplayer in the form of 12 player Deathmatch and Team Deathmatch modes (believed to be the first FPS to allow that many players) and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 12 Corridor 7 characters (two recoloured humans and 10 aliens, 4 of which are Bandor variants) which all have slightly different starting stats (different speed and starting health) but all characters use the same weapons.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_svn</core>
+		<image>./mixart/Corridor 7 - Alien Invasion.png</image>
+		<video>./snap/Corridor 7 - Alien Invasion.mp4</video>
+		<marquee>./wheel/Corridor 7 - Alien Invasion.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Capstone Software</developer>
+		<publisher>Capstone Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dark_Seed.pc</path>
+		<name>Dark Seed</name>
+		<desc>Dark Seed is an adventure game which capitalizes on the drawings of famous horror designer H. R. Giger as a source of background artwork and inspiration.
+
+You play Mike Dawson, an ad company manager who, in pursuit of his goal in life to become a writer, purchases a solitary mansion in a small town called Woodland Hills. Although the low cost and hush-hush transactions when purchasing the house do raise your suspicion, the solitary environment and sheer beauty of the house crush common sense and you decide to buy the house. That's when trouble begin. Upon reaching the house, you suddenly feel tired. You find a bed and fall asleep...
+
+... and wake up from a terrible dream, only to find out that your life has just become a worse nightmare: an unknown source has implanted a seed of darkness in your mind, and you only have three days to find a way to stop it.</desc>
+		<image>./mixart/Dark Seed.png</image>
+		<video>./snap/Dark Seed.mp4</video>
+		<marquee>./wheel/Dark Seed.png</marquee>
+		<rating>0</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Cyberdreams, Inc.</developer>
+		<publisher>Cyberdreams, Inc.</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Descent 2.pc</path>
+		<name>Descent II</name>
+		<desc>The second Descent game features new levels,  new weapons and new robot enemies. It also comes with helpful ideas for the player like the Guide-bot, the ability to fly with afterburner or energy-to-shield converter that many times they  become a must!</desc>
+		<emulator>dosbox</emulator>
+		<image>./mixart/Descent 2.png</image>
+		<video>./snap/Descent 2.mp4</video>
+		<marquee>./wheel/Descent 2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960229T000000</releasedate>
+		<developer>Parallax Software Corp.</developer>
+		<publisher>Interplay</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dune_II_The_Building_Of_A_Dynasty.pc</path>
+		<name>Dune II: The Building of a Dynasty</name>
+		<desc>The planet Arrakis (also known as Dune for its sandy landscape) is the only place in the known universe where Melange (more commonly known as the Spice) can be found. The Spice is the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition among these houses begins peacefully but soon turns ugly as they battle each other with armed troops, advanced weaponry, and spies. The planet itself is also hostile, with dangerous sandworms inhabiting the spice fields.
+
+Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses. In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
+
+The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
+
+After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.</desc>
+		<image>./mixart/Dune 2.png</image>
+		<video>./snap/Dune 2.mp4</video>
+		<marquee>./wheel/Dune 2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Westwood Studios</developer>
+		<publisher>Virgin</publisher>
+		<genre>Strategy</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Epic_Pinball.pc</path>
+		<name>Epic Pinball: The Complete Collection</name>
+		<desc>Epic Pinball The Complete Collection is a pinball video game played from a 2D top-down view within a scrollable window. This release is an Epic Pinball compilation with some exclusive content. It includes:
+
+Pack 1 (Android, Pot of Gold, Excalibur, Crash and Burn)
+Pack 2 (Magic, Jungle Pinball, Deep Sea, Enigma)
+Pack 3 (Cyborgirl, Pangaea, Space Journey, Toy Factory)
+Exclusive table African Safari
+
+Each table has up to four flippers, giving the player the possibility to control the ball uniquely during the game. The tables are themed, making each table individual on its own way.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Epic Pinball.png</image>
+		<video>./snap/Epic Pinball.mp4</video>
+		<marquee>./wheel/Epic Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Epic Games</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Extreme Pinball.pc</path>
+		<name>Extreme Pinball</name>
+		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Extreme Pinball.png</image>
+		<video>./snap/Extreme Pinball.mp4</video>
+		<marquee>./wheel/Extreme Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Electronic Arts</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fable.pc</path>
+		<name>Fable</name>
+		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
+		<image>./mixart/Fable.png</image>
+		<video>./snap/Fable.mp4</video>
+		<marquee>./wheel/Fable.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Simbiosis Interactive</developer>
+		<publisher>Sir-tech</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity.pc</path>
+		<name>Flashback: The Quest for Identity</name>
+		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
+		<image>./mixart/Flashback - The Quest for Identity.png</image>
+		<video>./snap/Flashback - The Quest for Identity.mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Strategic Simulations</publisher>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

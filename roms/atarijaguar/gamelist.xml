@@ -864,24 +864,6 @@
 		<region>eu</region>
 		<cheevosHash>D46B75D5A28FDA75BF2D6D79F12C9F27</cheevosHash>
 	</game>
-	<game>
-		<path>./Atari Karts (World).j64</path>
-		<name>Atari Karts</name>
-		<desc>Atari Karts is a character-based go-kart racing game. It plays very similarly to Super Mario Kart. The emphasis in this game, like most kart games, is on making use of pick-up items found around the track to knock out your opponents.  There is only one game mode, a points based cup series.  There are four difficulty levels, each with 3 cups to race for. After completing all the cups for a difficulty level, you get to challenge a "boss" kart in a single race match.  If you beat the boss, he becomes a playable character.  The various cup races can be played in either single player or two player split screen modes.</desc>
-		<image>./mixart/Atari Karts (World).png</image>
-		<video>./snap/Atari Karts (World).mp4</video>
-		<marquee>./wheel/Atari Karts (World).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951222T000000</releasedate>
-		<developer>Miracle Designs</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>CB492F093CD9E22A913D158741E8F00A</cheevosHash>
-	</game>
 	<game id="46478" source="ScreenScraper.fr">
 		<path>./Protector - Special Edition (World).j64</path>
 		<name>Protector : Special Edition</name>
@@ -985,5 +967,23 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>C162738BF2C602144D78987498C68A49</cheevosHash>
+	</game>
+	<game>
+		<path>./Atari Karts (World).j64</path>
+		<name>Atari Karts</name>
+		<desc>Atari Karts is a character-based go-kart racing game. It plays very similarly to Super Mario Kart. The emphasis in this game, like most kart games, is on making use of pick-up items found around the track to knock out your opponents.  There is only one game mode, a points based cup series.  There are four difficulty levels, each with 3 cups to race for. After completing all the cups for a difficulty level, you get to challenge a "boss" kart in a single race match.  If you beat the boss, he becomes a playable character.  The various cup races can be played in either single player or two player split screen modes.</desc>
+		<image>./mixart/Atari Karts (World).png</image>
+		<video>./snap/Atari Karts (World).mp4</video>
+		<marquee>./wheel/Atari Karts (World).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951222T000000</releasedate>
+		<developer>Miracle Designs</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>CB492F093CD9E22A913D158741E8F00A</cheevosHash>
 	</game>
 </gameList>

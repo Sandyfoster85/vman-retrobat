@@ -552,27 +552,6 @@ Some of the missions take place in deep space, around asteroids, or near Star De
 		<cheevosId>14206</cheevosId>
 	</game>
 	<game>
-		<path>./Blackthorne (USA).7z</path>
-		<name>Blackthorne</name>
-		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
-
-This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
-		<emulator>libretro</emulator>
-		<core>picodrive</core>
-		<image>./mixart/Blackthorne (USA).png</image>
-		<video>./snap/Blackthorne (USA).mp4</video>
-		<marquee>./wheel/Blackthorne (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19951001T000000</releasedate>
-		<developer>Blizzard Entertainment</developer>
-		<publisher>Interplay</publisher>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
-	</game>
-	<game>
 		<path>./World Series Baseball Starring Deion Sanders (USA).7z</path>
 		<name>World Series Baseball Starring Deion Sanders</name>
 		<desc>This game is the 32X entry in Sega's popular and long-running World Series Baseball line.  It features a full MLBPA license, which allows it to have all 28 teams and 700 real-life players. 
@@ -648,5 +627,26 @@ FIFA96 boasts eleven leagues from all around the world, ranging from the unknown
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>24AAA6EF307D20147CE10E7610E59AA2</cheevosHash>
+	</game>
+	<game>
+		<path>./Blackthorne (USA).7z</path>
+		<name>Blackthorne</name>
+		<desc>Blackthorne is an action-adventure game that takes place on the planet Tuul. Tuul was a peaceful place, until the evil warrior Sarlac used the power of the Darkstone to take control.  Blackthorne's father, the good King Vlaros, sent him to Earth just as his kingdom crumbled around him.  Now, 20 years later, Blackthorne is grown and must return to Tuul to free it from the clutches of Sarlac.
+
+This game is played from a side-view with non-scrolling backgrounds. It has strong similarities to Prince of Persia, except you battle your foes using guns and bombs instead of a sword.</desc>
+		<emulator>libretro</emulator>
+		<core>picodrive</core>
+		<image>./mixart/Blackthorne (USA).png</image>
+		<video>./snap/Blackthorne (USA).mp4</video>
+		<marquee>./wheel/Blackthorne (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19951001T000000</releasedate>
+		<developer>Blizzard Entertainment</developer>
+		<publisher>Interplay</publisher>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
 	</game>
 </gameList>

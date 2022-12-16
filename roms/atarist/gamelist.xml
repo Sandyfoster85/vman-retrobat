@@ -24252,17 +24252,6 @@ Driving levels are high-speed side-scrolling runs, with the player's vehicle mov
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
-		<name>Another World</name>
-		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
-		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
-		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
-		<rating />
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Barbarian II (1988)(Palace)[!].zip</path>
 		<name>Barbarian II : The Dungeon of Drax</name>
 		<desc>In the sequel to Barbarian / Death Sword, the Wizard Drax is back after your previous defeat of him. But this time, you're not alone. The princess you saved back then has taken up a sword and joined your cause! Now, it's more than a death match. You have to explore the many tunnels in his dungeon, defeat the dangerous monsters that come between you and put cold steel to Drax's throat.
@@ -24288,9 +24277,20 @@ Elite's implementation of this is a five-level side-view action game, in which y
 		<image>./mixart/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</image>
 		<video>./snap/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].mp4</video>
 		<marquee>./wheel/Gremlins 2 - The New Batch (1990)(Elite)[cr Replicants - ST Amigos][t].png</marquee>
-		<rating></rating>
+		<rating />
 		<releasedate>19900101T000000</releasedate>
 		<publisher>Elite Systems</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
+		<name>Another World</name>
+		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
+		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
+		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
+		<rating></rating>
+		<releasedate></releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

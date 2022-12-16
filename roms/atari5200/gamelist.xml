@@ -940,22 +940,6 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
-		<path>./Astro Chase (USA).zip</path>
-		<name>Astro Chase</name>
-		<desc>As pilot of a spaceship, your job is to save the planet Earth! Eight mega mines are slowly homing in, and you need to destroy them all before they reach Earth. Trying to stop you are a variety of flying saucers which will constantly be chasing you around the planet. Your ship is equipped with lasers which can be used to destroy enemy saucers and the mega mines. Located throughout the space around Earth are eight shield depots; if you fly through one of these, you will temporarily become invincible. Your spaceship also has a limited energy supply; if you get too low on energy, it can be resupplied at one of the generators located in the four corners of the play area. When all of the mega mines have been destroyed, you will move on to the next, faster chase!</desc>
-		<image>./mixart/Astro Chase (USA).png</image>
-		<video>./snap/Astro Chase (USA).mp4</video>
-		<marquee>./wheel/Astro Chase (USA).png</marquee>
-		<rating>0.35</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>First Star Software, Inc.</developer>
-		<publisher>Parker Brothers</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
 		<path>./Battlezone (USA) (Proto).zip</path>
 		<name>Battlezone</name>
 		<desc>A port of the arcade game Battlezone for Atari 5200. Like the arcade game you drive a tank around and shoot enemy tanks while trying to avoid their fire in a 3d environment. It was unfortunately never released and only exists in prototype form. The prototype seems mostly finished but the hit detection seems off at times and not perfected. It also replaces some of the vector based graphics of the arcade with raster likely due to limitations of the Atari 5200. You can also play this with two joysticks which is said to help with controlling the game versus single if you get used to it.</desc>
@@ -982,29 +966,6 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Gremlins (USA).zip</path>
-		<name>Gremlins</name>
-		<desc>Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room!
-
-You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage. 
-
-On many of the levels there will be various types of food lying about the screen. If a Mogwai eats any food, it will turn into a gremlin. There may also be  puddles of water; if a Gremlin or Mogwai runs into the water, it will split into two. Some levels also contain a refrigerator or popcorn machine which will throw food out onto the screen, or a television which will distract the Gremlins. 
-
-You also begin the game with a limited number of flash cubes; if you get into trouble, you can use these to temporarily stun all of the Gremlins and Mogwai. As the levels progress gameplay becomes faster and the Gremlins and Mogwai more numerous.</desc>
-		<image>./mixart/Gremlins (USA).png</image>
-		<video>./snap/Gremlins (USA).mp4</video>
-		<marquee>./wheel/Gremlins (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
@@ -1301,7 +1262,7 @@ The Atari 5200 version of this game was never released but is however mostly ide
 		<video>./snap/Final Legacy (USA) (Proto).mp4</video>
 		<marquee>./wheel/Final Legacy (USA) (Proto).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Atari</developer>
 		<publisher>Atari</publisher>
 		<players>1</players>
@@ -1595,7 +1556,7 @@ You, as Koffi, must gather water from the raindrops or snowflakes and destroy Py
 		<video>./snap/Koffi - Yellow Kopter (USA) (Unl).mp4</video>
 		<marquee>./wheel/Koffi - Yellow Kopter (USA) (Unl).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>2002</publisher>
 		<players>1</players>
 		<crc32>917BE656</crc32>
@@ -1718,6 +1679,45 @@ The goal is to survive wave after wave of various insects while trying to destro
 		<releasedate>19840101T000000</releasedate>
 		<publisher>Atari</publisher>
 		<crc32>969CFE1A</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Astro Chase (USA).zip</path>
+		<name>Astro Chase</name>
+		<desc>As pilot of a spaceship, your job is to save the planet Earth! Eight mega mines are slowly homing in, and you need to destroy them all before they reach Earth. Trying to stop you are a variety of flying saucers which will constantly be chasing you around the planet. Your ship is equipped with lasers which can be used to destroy enemy saucers and the mega mines. Located throughout the space around Earth are eight shield depots; if you fly through one of these, you will temporarily become invincible. Your spaceship also has a limited energy supply; if you get too low on energy, it can be resupplied at one of the generators located in the four corners of the play area. When all of the mega mines have been destroyed, you will move on to the next, faster chase!</desc>
+		<image>./mixart/Astro Chase (USA).png</image>
+		<video>./snap/Astro Chase (USA).mp4</video>
+		<marquee>./wheel/Astro Chase (USA).png</marquee>
+		<rating>0.35</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>First Star Software, Inc.</developer>
+		<publisher>Parker Brothers</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Gremlins (USA).zip</path>
+		<name>Gremlins</name>
+		<desc>Gremlins is an action game based on the Steven Spielberg movie of the same name. The game takes place just after midnight when there are Gremlins and Mogwai running around Billy's living room!
+
+You control Billy from a 3rd person point of view. On each level, your goal is to catch all of the Mogwai and return them to their cage (located in the upper right corner of the screen) and to destroy all of the Gremlins with a sword. Each level has a time limit - at 6:00 am when the sun rises. You move on to the next level by completing your tasks or just surviving until 6:00, although more points are awarded for the former. You will also receive bonus points for each Mogwai returned to the cage. 
+
+On many of the levels there will be various types of food lying about the screen. If a Mogwai eats any food, it will turn into a gremlin. There may also be  puddles of water; if a Gremlin or Mogwai runs into the water, it will split into two. Some levels also contain a refrigerator or popcorn machine which will throw food out onto the screen, or a television which will distract the Gremlins. 
+
+You also begin the game with a limited number of flash cubes; if you get into trouble, you can use these to temporarily stun all of the Gremlins and Mogwai. As the levels progress gameplay becomes faster and the Gremlins and Mogwai more numerous.</desc>
+		<image>./mixart/Gremlins (USA).png</image>
+		<video>./snap/Gremlins (USA).mp4</video>
+		<marquee>./wheel/Gremlins (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

@@ -29097,26 +29097,6 @@ The game also features use of the touch screen, which is used for a bonus game w
 		<cheevosHash>1AB6A09C890B4BCC3463FF4E36D78DB1</cheevosHash>
 	</game>
 	<game>
-		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
-		<name>Aliens - Infestation</name>
-		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
-
--Choose you squad and watch the dynamic story system adapt
--Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
--Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
-		<image>./mixart/Aliens - Infestation (USA) (En,Fr,De).png</image>
-		<video>./snap/Aliens - Infestation (USA) (En,Fr,De).mp4</video>
-		<marquee>./wheel/Aliens - Infestation (USA) (En,Fr,De).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20110930T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Wayforward Technologies</publisher>
-		<favorite>true</favorite>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
-		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
-	</game>
-	<game>
 		<path>./Contra 4 (USA).zip</path>
 		<name>Contra 4</name>
 		<desc>Contra 4 for the Nintendo DS is a direct sequel to 1994 SNES Contra III: Alien Wars. Two years after the defeat of Red Falcon - the first wave of the alien colonization fleet, the main invading force Black Viper approaches Earth. The heroes of the original Contra series - Billy Rizer and Lance Bean as well as two newcomers - Mad Dog and Scorpion are now humanity's last line of defense against total annihilation.
@@ -29244,5 +29224,25 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<region>eu</region>
 		<cheevosHash>BBCBE27E71C8B89386704B7D17FE20BE</cheevosHash>
 		<genreid>1280</genreid>
+	</game>
+	<game>
+		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
+		<name>Aliens - Infestation</name>
+		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
+
+-Choose you squad and watch the dynamic story system adapt
+-Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
+-Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
+		<image>./mixart/Aliens - Infestation (USA) (En,Fr,De).png</image>
+		<video>./snap/Aliens - Infestation (USA) (En,Fr,De).mp4</video>
+		<marquee>./wheel/Aliens - Infestation (USA) (En,Fr,De).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110930T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Wayforward Technologies</publisher>
+		<favorite>true</favorite>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
 	</game>
 </gameList>

@@ -30128,26 +30128,6 @@ Hearts taken from enemies are used in shops to buy various items and power-ups. 
 		<cheevosId>1478</cheevosId>
 	</game>
 	<game>
-		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
-		<name>Castlevania HD</name>
-		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
-
-Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
-		<image>./mixart/Castlevania (USA).png</image>
-		<video>./#nes-hd/snap/Castlevania (USA) (Rev A) HD.mp4</video>
-		<marquee>./wheel/Castlevania (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870501T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>728E05F245AB8B7FE61083F6919DC485</cheevosHash>
-		<cheevosId>1462</cheevosId>
-	</game>
-	<game>
 		<path>./World Champ - Super Boxing Great Fight (USA).zip</path>
 		<name>World Champ</name>
 		<desc>World Champ is a boxing game that has many similarities to Data East's Ring King. You can play a one player "Ranking" mode, where you can build your boxer's stats up while climbing the ladder to eventually challenge for a championship in one of the four weight classes. There is also a two player vs. mode where you and a friend can square off. A tournament mode allows up to 8 players participate in a bracketed tournament.
@@ -30261,23 +30241,6 @@ The Legend of Zelda is known for several factors that were revolutionary at the 
 		<region>us</region>
 		<cheevosHash>D9A1631D5C32D35594B9484862A26CBA</cheevosHash>
 		<cheevosId>1454</cheevosId>
-	</game>
-	<game>
-		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
-		<name>Donkey Kong HD</name>
-		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
-		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
-		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
-		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881001T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Compilation</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
 	</game>
 	<game>
 		<path>./#nes-hd/Pac-Man (USA) (Namco) HD.7z</path>
@@ -30403,40 +30366,6 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>831EA189E6ED48607B5EF5102DE3B5D8</cheevosHash>
-	</game>
-	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
-	</game>
-	<game id="367540" source="ScreenScraper.fr">
-		<path>./Jay and Silent Bob Mall Brawl.zip</path>
-		<name>'H'Jay and Silent Bob - Mall Brawl</name>
-		<desc>Jay and Silent Bob: Mall Brawl is a full 8-bit retro beat-em-up experience with big levels, big bosses, dope combos, and irreverent references to the View Askewniverse. Mall Brawl can be played solo in a 1 player experience where you swap between both Jay and Silent Bob strategically or played with a buddy, in a 2 player co-operative experience, where you fight your way through mallrats, delinquents and security guards to find your way out of the mall and back to the Quickstop.</desc>
-		<image>./mixart/Jay and Silent Bob Mall Brawl.png</image>
-		<video>./snap/Jay and Silent Bob Mall Brawl.mp4</video>
-		<marquee>./wheel/Jay and Silent Bob Mall Brawl.png</marquee>
-		<rating>0</rating>
-		<releasedate>20200120T000000</releasedate>
-		<developer>Interabang Entertainment</developer>
-		<publisher>Limited Run Games</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>EDA78197A063EFD8CE8C9C8B41B6C537</cheevosHash>
-		<genreid>256</genreid>
 	</game>
 	<game id="1401" source="ScreenScraper.fr">
 		<path>./Arkanoid (USA).zip</path>
@@ -30623,5 +30552,76 @@ Due to Mr. Dream being a simple head-swap and recolor of Mike Tyson, Mr. Dream f
 		<region>us</region>
 		<cheevosHash>50DD77437FAFAE2DDF89DC6B8967B494</cheevosHash>
 		<cheevosId>1498</cheevosId>
+	</game>
+	<game>
+		<path>./#nes-hd/Donkey Kong (JU) [p1] HD.7z</path>
+		<name>Donkey Kong HD</name>
+		<desc>Donkey Kong Classics features the original Donkey Kong. In Donkey Kong, you need to guide Mario safely up the scaffolding to rescue his girlfriend, Pauline. In Donkey Kong Jr., the roles are reversed; you control Jr. who needs to rescue his father, who has been captured by Mario.</desc>
+		<image>./#nes-hd/mixart/Donkey Kong (JU) [p1].png</image>
+		<video>./#nes-hd/snap/Donkey Kong (JU) [p1].mp4</video>
+		<marquee>./#nes-hd/wheel/Donkey Kong (JU) [p1].png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881001T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Compilation</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>BC6BEF3E46071CCF897DAED842A47E3A</cheevosHash>
+	</game>
+	<game>
+		<path>./#nes-hd/Castlevania (USA) (Rev A) HD.7z</path>
+		<name>Castlevania HD</name>
+		<desc>Every hundred years, the dark vampire known as Dracula resurrects and terrorizes the land. A vampire hunter named Simon Belmont bravely ventures into the Count's mansion in order to defeat him. Along the way he'll have to defeat skeletons, bats, fishmen, medusa heads and other evil creatures.
+
+Castlevania is a side-scrolling platform action game. The player taking the role of Simon Belmont is able to jump and crack his whip directly in front of him. Power-ups can be obtained by defeating enemies or by whipping candles that appear in the castle. One such power-up increases the power and length of Simon's whip.  Different weapons can be gathered which consume hearts when used, these hearts can also be collected from monsters and candles. Additionally, some walls will hide secrets such as the health-restorative turkey or the Double and Triple shot abilities for the weapons Simon has collected. At the end of each section of the castle is a boss, which must be defeated. Progression through the castle eventually leads to a confrontation with Count Dracula himself.</desc>
+		<image>./mixart/Castlevania (USA).png</image>
+		<video>./#nes-hd/snap/Castlevania (USA) (Rev A) HD.mp4</video>
+		<marquee>./wheel/Castlevania (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870501T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>728E05F245AB8B7FE61083F6919DC485</cheevosHash>
+		<cheevosId>1462</cheevosId>
+	</game>
+	<game id="367540" source="ScreenScraper.fr">
+		<path>./Jay and Silent Bob Mall Brawl.zip</path>
+		<name>'H'Jay and Silent Bob - Mall Brawl</name>
+		<desc>Jay and Silent Bob: Mall Brawl is a full 8-bit retro beat-em-up experience with big levels, big bosses, dope combos, and irreverent references to the View Askewniverse. Mall Brawl can be played solo in a 1 player experience where you swap between both Jay and Silent Bob strategically or played with a buddy, in a 2 player co-operative experience, where you fight your way through mallrats, delinquents and security guards to find your way out of the mall and back to the Quickstop.</desc>
+		<image>./mixart/Jay and Silent Bob Mall Brawl.png</image>
+		<video>./snap/Jay and Silent Bob Mall Brawl.mp4</video>
+		<marquee>./wheel/Jay and Silent Bob Mall Brawl.png</marquee>
+		<rating>0</rating>
+		<releasedate>20200120T000000</releasedate>
+		<developer>Interabang Entertainment</developer>
+		<publisher>Limited Run Games</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EDA78197A063EFD8CE8C9C8B41B6C537</cheevosHash>
+		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
 	</game>
 </gameList>

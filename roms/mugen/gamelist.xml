@@ -971,22 +971,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Classic SPIDER-MAN.lnk</path>
-		<name>Classic SPIDER-MAN</name>
-		<desc>Mugen Fanmade 2D Fighting Classic SPIDER-MAN</desc>
-		<image>./mixart/Classic SPIDER-MAN.png</image>
-		<video>./snap/Classic SPIDER-MAN.mp4</video>
-		<marquee>./wheel/Classic SPIDER-MAN.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20200211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Mortal Kombat II HD.lnk</path>
 		<name>Mortal Kombat II HD</name>
 		<desc>Mugen Fanmade 2D Fighting Mortal Kombat II HD</desc>
@@ -1043,6 +1027,22 @@
 		<marquee>./wheel/DC Comics Project.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Classic SPIDER-MAN.lnk</path>
+		<name>Classic SPIDER-MAN</name>
+		<desc>Mugen Fanmade 2D Fighting Classic SPIDER-MAN</desc>
+		<image>./mixart/Classic SPIDER-MAN.png</image>
+		<video>./snap/Classic SPIDER-MAN.mp4</video>
+		<marquee>./wheel/Classic SPIDER-MAN.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200211T010000</releasedate>
 		<developer>Fanmade</developer>
 		<publisher>Mugen</publisher>
 		<genre>Fighting</genre>

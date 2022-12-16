@@ -11974,21 +11974,6 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<region>us</region>
 		<genreid>262</genreid>
 	</game>
-	<game>
-		<path>./300.cso</path>
-		<name>300 : March to Glory</name>
-		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
-		<image>./mixart/300.png</image>
-		<video>./snap/300.mp4</video>
-		<marquee>./wheel/300.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20070330T000000</releasedate>
-		<developer>Collision Studios</developer>
-		<publisher>Warner Brothers</publisher>
-		<genre>Beat'em Up</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="28100" source="ScreenScraper.fr">
 		<path>./Dragon Quest &amp; Final Fantasy in Itadaki Street Portable (Japan) (Translated En).cso</path>
 		<name>Dragon Quest &amp; Final Fantasy in Itadaki Street Portable</name>
@@ -12050,6 +12035,21 @@ The protagonist starts with a water deck and gains cards, which can be purchased
 		<publisher>Irem</publisher>
 		<genre>Platform</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./300.cso</path>
+		<name>300 : March to Glory</name>
+		<desc>In the action packed 300: March to Glory, players take on the role of King Leonidas, who leads the brave 300 Spartans against Xerxes and his massive Persian army. The player, as Leonidas, uses his sword, spear and shield and the power of the soldiers in a battle to determine the very fate of western civilization. 300: March to Glory is a visceral experience focused on action and combat, allowing the player to fight both solo and in a phalanx alongside his fellow Spartans</desc>
+		<image>./mixart/300.png</image>
+		<video>./snap/300.mp4</video>
+		<marquee>./wheel/300.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20070330T000000</releasedate>
+		<developer>Collision Studios</developer>
+		<publisher>Warner Brothers</publisher>
+		<genre>Beat'em Up</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

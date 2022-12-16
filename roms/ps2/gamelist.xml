@@ -6898,23 +6898,6 @@ The player has many different weapons at his or her disposal, including shotguns
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Gradius V (USA).gz</path>
-		<name>Gradius V</name>
-		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
-		<image>./mixart/Gradius V (USA).png</image>
-		<video>./snap/Gradius V (USA).mp4</video>
-		<marquee>./wheel/Gradius V (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20041004T000000</releasedate>
-		<developer>Treasure</developer>
-		<publisher>Konami</publisher>
-		<genre>Action-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Viewtiful Joe 2 (USA).gz</path>
 		<name>Viewtiful Joe 2</name>
 		<desc>Joe's back, and his girlfriend has come along for the ride, in the sequel to the surprise hit Viewtiful Joe. Once again the side-scrolling action is frantic as you battle through the themed based levels and taking out the enemy with a combat techniques like no other.
@@ -7541,23 +7524,6 @@ Carnby's best friend, Charles Fiske, has been found dead near Shadow Island, a m
 		<region>us</region>
 		<genreid>266</genreid>
 	</game>
-	<game>
-		<path>./Contra - Shattered Soldier (USA).gz</path>
-		<name>Contra : Shattered Soldier</name>
-		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
-		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
-		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
-		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20030214T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="22324" source="ScreenScraper.fr">
 		<path>./Downhill Domination (USA).gz</path>
 		<name>Downhill Domination</name>
@@ -7693,5 +7659,58 @@ Up to four people may play on a single console offline using a multitap, and up 
 		<lang>de,en,es,fr,it,nl</lang>
 		<region>eu</region>
 		<genreid>256</genreid>
+	</game>
+	<game id="22442" source="ScreenScraper.fr">
+		<path>./Rumble Roses (USA).gz</path>
+		<name>Rumble Roses</name>
+		<desc>Konami rolls out a wrestling game for the PS2 where players control an all-vixen cast looking to suplex, dropkick, and fling mud in the faces of their opponents. Rumble Roses features 11 scantly clad, and at times very dirty, female characters. In Mud Mode, players will take on their opponents in a mud wrestling match designed to reveal more than just wrestling expertise. Classic wrestling moves are available, such as suplexes, kicks, and flying elbows, as well as the ability for players to taunt and insult their opponents, which can provide advantages in the ring. 
+ A "Super Star" system can offer advantages as well, based on a character's popularity with the crowd. Players are encouraged to develop a persona for their character, and different special moves become available depending on whether they choose to fight dirty or clean in the ring.</desc>
+		<image>./mixart/Rumble Roses (USA).png</image>
+		<video>./snap/Rumble Roses (USA).mp4</video>
+		<marquee>./wheel/Rumble Roses (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20041109T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Contra - Shattered Soldier (USA).gz</path>
+		<name>Contra : Shattered Soldier</name>
+		<desc>Making its debut in the arcades in 1987 and, more pervasively, on the NES in 1988, the long-running Contra series continues with Contra: Shattered Soldier for the PlayStation 2. The game maintains its old-school, 2D platforming roots, but is enhanced with 3D polygonal models and unlockable endings and levels based on player performance (such as percentage of enemies killed).</desc>
+		<image>./mixart/Contra - Shattered Soldier (USA).png</image>
+		<video>./snap/Contra - Shattered Soldier (USA).mp4</video>
+		<marquee>./wheel/Contra - Shattered Soldier (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20030214T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Gradius V (USA).gz</path>
+		<name>Gradius V</name>
+		<desc>Gradius V is a Japanese-developed shoot 'em up video game published by Konami for the Sony PlayStation 2 video game console in 2004. Gradius V was largely developed under contract by Treasure, who had previously worked on Radiant Silvergun and Ikaruga.   The game is set predominantly in outer space where players control a fictional spacecraft called Vic Viper through a continuously scrolling background depicting the territories of Bacterian?an evil empire which serves as the player's enemy   The soundtrack was composed by Basiscape composer Hitoshi Sakimoto whose previous video game work includes the soundtrack to the tactical role-playing game Final Fantasy Tactics, the shoot'em up Radiant Silvergun and the action/RPG hybrid Vagrant Story</desc>
+		<image>./mixart/Gradius V (USA).png</image>
+		<video>./snap/Gradius V (USA).mp4</video>
+		<marquee>./wheel/Gradius V (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20041004T000000</releasedate>
+		<developer>Treasure</developer>
+		<publisher>Konami</publisher>
+		<genre>Action-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

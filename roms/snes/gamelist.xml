@@ -14751,24 +14751,6 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
 		<cheevosId>12825</cheevosId>
 	</game>
-	<game id="153363">
-		<path>./Dorke and Ymp.7z</path>
-		<name>'H'Dorke &amp; Ymp</name>
-		<desc>Unreleased game developed 1993 got a public release late 2015. Dorke &amp; Ymp will be an elegant platformer with 4 worlds, a plethora of items and countless enemies. The clever Dorke is an apprentice of a rather sketchy wizard, and a showdown between the two is inevitable.</desc>
-		<image>./mixart/Dorke and Ymp-image.png</image>
-		<video>./snap/Dorke and Ymp-video.mp4</video>
-		<marquee>./wheel/Dorke and Ymp-marquee.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150806T000000</releasedate>
-		<developer>Norsehelm Production</developer>
-		<publisher>Piko Interactive</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>E890DDB9465A4E7A7413409E4B4BBEA7</cheevosHash>
-		<scrap name="ScreenScraper" date="20221016T124856" />
-	</game>
 	<game>
 		<path>./Metroid Super Zero Mission.7z</path>
 		<name>'H'Metroid Super Zero Mission</name>
@@ -15235,5 +15217,23 @@ Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire
 		<region>us</region>
 		<cheevosHash>694BE8DF403EE59225C4B6B53C30FB7B</cheevosHash>
 		<cheevosId>566</cheevosId>
+	</game>
+	<game id="153363">
+		<path>./Dorke and Ymp.7z</path>
+		<name>'H'Dorke &amp; Ymp</name>
+		<desc>Unreleased game developed 1993 got a public release late 2015. Dorke &amp; Ymp will be an elegant platformer with 4 worlds, a plethora of items and countless enemies. The clever Dorke is an apprentice of a rather sketchy wizard, and a showdown between the two is inevitable.</desc>
+		<image>./mixart/Dorke and Ymp-image.png</image>
+		<video>./snap/Dorke and Ymp-video.mp4</video>
+		<marquee>./wheel/Dorke and Ymp-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150806T000000</releasedate>
+		<developer>Norsehelm Production</developer>
+		<publisher>Piko Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>E890DDB9465A4E7A7413409E4B4BBEA7</cheevosHash>
+		<scrap name="ScreenScraper" date="20221016T124856" />
 	</game>
 </gameList>

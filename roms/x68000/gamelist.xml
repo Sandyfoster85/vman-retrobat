@@ -267,26 +267,6 @@ Le joueur prend le rôle de la jeune sorcière Cotton sur son balai magique. Dan
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
-	<game>
-		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
-		<name>Alien Syndrome</name>
-		<desc>Alien Syndrome is a scrolling shooter arcade conversion.
-
-Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.
-
-You can play as a single player or two people, taking turns (Player 2 starts the game after Player 1 dies and vice versa).</desc>
-		<image>./mixart/Alien Syndrome (1992)(Dempa).png</image>
-		<video>./snap/Alien Syndrome (1992)(Dempa).mp4</video>
-		<marquee>./wheel/Alien Syndrome (1992)(Dempa).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Dempa</developer>
-		<publisher>Dempa</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
 	<game id="154481" source="ScreenScraper.fr">
 		<path>./Darius (19xx)(Hasamichi).m3u</path>
 		<name>Darius</name>
@@ -633,7 +613,7 @@ The player has the choice between four insect forms which are changed by collect
 		<video>./snap/Cynthia.mp4</video>
 		<marquee>./wheel/Cynthia.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Sharp</publisher>
 		<crc32>68DE269B</crc32>
 		<lang>jp</lang>
@@ -688,7 +668,7 @@ Now, Arthur must venture back to the Lucifer's palace and destroy the demon in o
 		<video>./snap/Darius Extra Version (198x)(Fukuiinchou).mp4</video>
 		<marquee>./wheel/Darius Extra Version (198x)(Fukuiinchou).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Fukuiinchou</publisher>
 		<crc32>5AE609A6</crc32>
 		<lang>jp</lang>
@@ -797,7 +777,7 @@ Create your own tracks by placing jumps and obstacles of all different sizes and
 		<video>./snap/Excitebike (19xx)(-)[p].mp4</video>
 		<marquee>./wheel/Excitebike (19xx)(-)[p].png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<crc32>D15B5253</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
@@ -898,7 +878,7 @@ A summary screen appears when the game is over, giving you both your final score
 		<video>./snap/Galaga (19xx)(-)[p].mp4</video>
 		<marquee>./wheel/Galaga (19xx)(-)[p].png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<crc32>F1C9FDB3</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
@@ -965,7 +945,7 @@ Gemini Wing is a vertically-scrolling shoot 'em up, which is distinguished by it
 		<video>./snap/Genocide 2.mp4</video>
 		<marquee>./wheel/Genocide 2.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1019,7 +999,7 @@ Gradius is a side-scrolling shooter. Shooting certain enemies will leave a power
 		<video>./snap/Hatenkou.mp4</video>
 		<marquee>./wheel/Hatenkou.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1113,7 +1093,7 @@ Once this section is complete, you move on to one-on-one combat of the Street Fi
 		<video>./snap/Last Batallion.mp4</video>
 		<marquee>./wheel/Last Batallion.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1379,7 +1359,7 @@ Originating in the arcades, Space Harrier is a third-person rail shooter with ps
 		<video>./snap/Star Trader.mp4</video>
 		<marquee>./wheel/Star Trader.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1403,7 +1383,7 @@ Originating in the arcades, Space Harrier is a third-person rail shooter with ps
 		<video>./snap/Super Hang-On.mp4</video>
 		<marquee>./wheel/Super Hang-On.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1419,7 +1399,7 @@ Each level includes a bonus section filled with coins plus a shortcut through th
 		<video>./snap/Super Mario Bros. (19xx)(-)[p].mp4</video>
 		<marquee>./wheel/Super Mario Bros. (19xx)(-)[p].png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<crc32>3BB5B630</crc32>
 		<lang>jp</lang>
 		<region>jp</region>
@@ -1451,7 +1431,7 @@ The game was later also released as part of a compilation called Taito Legends 2
 		<video>./snap/Thunder Force II.mp4</video>
 		<marquee>./wheel/Thunder Force II.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
@@ -1476,7 +1456,27 @@ The game was later also released as part of a compilation called Taito Legends 2
 		<video>./snap/U.S. Championship Beach Volley V'ball (1989)(Sharp - SPS).mp4</video>
 		<marquee>./wheel/U.S. Championship Beach Volley V'ball (1989)(Sharp - SPS).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
+		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
+		<name>Alien Syndrome</name>
+		<desc>Alien Syndrome is a scrolling shooter arcade conversion.
+
+Your job is to run around and rescue all the captives and make it to the escape hatch before the time bomb explodes. Then face the mother alien at the end of the level.
+
+You can play as a single player or two people, taking turns (Player 2 starts the game after Player 1 dies and vice versa).</desc>
+		<image>./mixart/Alien Syndrome (1992)(Dempa).png</image>
+		<video>./snap/Alien Syndrome (1992)(Dempa).mp4</video>
+		<marquee>./wheel/Alien Syndrome (1992)(Dempa).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Dempa</developer>
+		<publisher>Dempa</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>

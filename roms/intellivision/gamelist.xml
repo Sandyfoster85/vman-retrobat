@@ -1889,23 +1889,6 @@ Both downhill and slalom courses have 15 different slope grade settings to affec
 		<region>wr</region>
 	</game>
 	<game>
-		<path>./Astrosmash (World).7z</path>
-		<name>Astrosmash</name>
-		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
-
-Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
-		<image>./mixart/Astrosmash (World).png</image>
-		<video>./snap/Astrosmash (World).mp4</video>
-		<marquee>./wheel/Astrosmash (World).png</marquee>
-		<releasedate>19811015T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-	</game>
-	<game>
 		<path>./TRON - Deadly Discs (World).7z</path>
 		<name>TRON - Deadly Discs</name>
 		<image>./mixart/TRON - Deadly Discs (World).png</image>
@@ -1922,7 +1905,24 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<image>./mixart/Bump 'N' Jump (World).png</image>
 		<video>./snap/Bump 'N' Jump (World).mp4</video>
 		<marquee>./wheel/Bump 'N' Jump (World).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
+		<lang>en</lang>
+		<region>wr</region>
+	</game>
+	<game>
+		<path>./Astrosmash (World).7z</path>
+		<name>Astrosmash</name>
+		<desc>In Astrosmash you control a laser canon at the bottom of the screen; your goal is to earn as many points as possible by destroying the various incoming meteors, bombs, and other objects. Points are earned for destroying objects, while points are lost for letting them get past you. Meteors are the most common item you need to defend yourself against. They come in various sizes and colors, and some even split into two smaller meteors when shot.
+
+Mixed in with the meteors are white spinning bombs. While letting a meteor get past you will only lower your score, you have to shoot the spinners. If one gets past, you will lose a life. On the more difficult levels, ufo's and guided missiles will also appear occasionally and attempt to destroy your canon.</desc>
+		<image>./mixart/Astrosmash (World).png</image>
+		<video>./snap/Astrosmash (World).mp4</video>
+		<marquee>./wheel/Astrosmash (World).png</marquee>
+		<releasedate>19811015T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 	</game>

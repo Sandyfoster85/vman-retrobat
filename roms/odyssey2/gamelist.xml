@@ -1536,6 +1536,22 @@
 		<cheevosHash>30249D4A85B18F0320F1B5A00E55B5C7</cheevosHash>
 	</game>
 	<game>
+		<path>./Amok (USA) (Unl).zip</path>
+		<name>Amok!</name>
+		<desc>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</desc>
+		<image>./mixart/Amok (USA) (Unl).png</image>
+		<video>./snaps/Amok (USA) (Unl).mp4</video>
+		<marquee>./wheel/Amok (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>John Dondzila</developer>
+		<publisher>John Dondzila</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B2C47736269AFE2C4CD59822267CF1CF</cheevosHash>
+	</game>
+	<game>
 		<path>./4 in 1 Row (Europe).zip</path>
 		<name>4 in 1 Row</name>
 		<desc>4 in 1 Row is a translation of the Connect Four board game. Two players (Pussycat and Hounddog) take turns dropping colored (red or green) discs in an eight-column six-row grid. The object is to place 4 discs in a row, either vertically, horizontally or diagonally.    An strategic indicator number on the right side of the screen, besides each name, will show the chances of each player to get four discs in a row. The higher the number, the higher the chances. If the number reads 125 it means the player is just one move away from winning. The strategic indicator can be turned off by pressing CLEAR.    When playing against the computer, two variations with three skill levels are available:    Playing against Microcat I, II or III (selected by pressing 1, 2 or 3). Microcat uses a micro-sensor (represented by a Âµ sign) which will stop over each column calculating its chances. The disc will be dropped where the Âµ stops. The higher the skill level, the bigger the sensor and calculation times.    Playing against Microdog I, II or III (selected by pressing 5, 6 or 7) is similar to playing against Microcat (with the skill levels and Âµ sensor), but the player can also ask for computer assistance on moves. Whenever player's Pussycat appears, pressing 1, 2 or 3, depending on the skill level, will make the PRESS ENTER text appear along the micro sensor. Once pressed, the computer will take over and will continue until the player presses again 0 and ENTER when Pussycat appears.</desc>
@@ -1551,21 +1567,5 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>61923D4FA32F8A6C3531A77031BD1494</cheevosHash>
-	</game>
-	<game>
-		<path>./Amok (USA) (Unl).zip</path>
-		<name>Amok!</name>
-		<desc>AMOK! was the first Odyssey² new release about 15 years after the console was discontinued. It is inspired by Berzerk. The player is trapped in a spaceship and is armed with a laser pistol, which can fire in all 8 directions. Each stage is a maze with one or more exits, and the player has to try to exit them while avoiding to touch its walls and get killed. Besides the danger of the walls, the player will face the berzerk robot sentinels, which can move about and shoot, but that can also be killed if they touch the walls. After a while, the Smileybot will appear and try to kill the player. The Smileybot can pass through walls and cannot be killed by the player. The game features 12 stages of increasing difficulty. The player has 3 lives; dying will make the player restart the current level, with all berzerk robot sentinels being replaced.</desc>
-		<image>./mixart/Amok (USA) (Unl).png</image>
-		<video>./snaps/Amok (USA) (Unl).mp4</video>
-		<marquee>./wheel/Amok (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>John Dondzila</developer>
-		<publisher>John Dondzila</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B2C47736269AFE2C4CD59822267CF1CF</cheevosHash>
 	</game>
 </gameList>

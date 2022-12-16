@@ -290,22 +290,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tron Classic.cmd</path>
-		<name>Tron Classic</name>
-		<desc>Kevin, a software programmer, is dragged into the virtual world where he is pitted against a malevolent software. He takes the help of Tron, a security programme that helps him defeat the villain. This game is an HD adaptation of the work Disney original Tron Movie.</desc>
-		<image>./mixart/Tron Classic.png</image>
-		<video>./snap/Tron Classic.mp4</video>
-		<marquee>./wheel/Tron Classic.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20210101T000000</releasedate>
-		<developer>Fan Made</developer>
-		<publisher>Fan Made</publisher>
-		<genre>Quick Time Event (QTE)</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Who Shot Johnny Rock.cmd</path>
 		<name>Who Shot Johnny Rock?</name>
 		<desc>Who Shot Johnny Rock was a laserdisc game created by American Laser Games in 1991.  In this game, you play a private detective trying to solve one of your toughest cases.  Singer / performer, Johnny Rock, was murdered and it's up to you to bring the killer to justice.   You must travel around the city to gather clues, while taking care of any gangsters that get in your way.  Solve the case, and win the game!</desc>
@@ -413,17 +397,17 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Hologram Time Traveler.cmd</path>
-		<name>Hologram Time Traveler</name>
-		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
-		<image>./mixart/Hologram Time Traveler.png</image>
-		<video>./content/Hologram_Time_Traveler_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Hologram Time Traveler.png</marquee>
+		<path>./Maddog McCree.cmd</path>
+		<name>Maddog McCree</name>
+		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
+		<image>./mixart/Maddog McCree.png</image>
+		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Maddog McCree.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19910101T000000</releasedate>
-		<developer>Virtual Image Productions</developer>
-		<publisher>Sega</publisher>
-		<genre>Quick Time Event (QTE)</genre>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -445,22 +429,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Maddog McCree.cmd</path>
-		<name>Maddog McCree</name>
-		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
-		<image>./mixart/Maddog McCree.png</image>
-		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Maddog McCree.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Crime Patrol 2 Drug Wars.cmd</path>
 		<name>Crime Patrol 2 : Drug Wars</name>
 		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
@@ -472,6 +440,38 @@
 		<developer>American Laser Games</developer>
 		<publisher>American Laser Games</publisher>
 		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Hologram Time Traveler.cmd</path>
+		<name>Hologram Time Traveler</name>
+		<desc>Time Traveler or Hologram Time Traveler is a LaserDisc interactive movie arcade game. It was designed by Dragon's Lair creator Rick Dyer, and released in 1991 by Sega. Its plot is that an American old west cowboy named Marshal Gram travels to various timelines to rescue Princess Kyi-La and defeat the evil time lord Vulcor.</desc>
+		<image>./mixart/Hologram Time Traveler.png</image>
+		<video>./content/Hologram_Time_Traveler_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Hologram Time Traveler.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Virtual Image Productions</developer>
+		<publisher>Sega</publisher>
+		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Classic.cmd</path>
+		<name>Tron Classic</name>
+		<desc>Kevin, a software programmer, is dragged into the virtual world where he is pitted against a malevolent software. He takes the help of Tron, a security programme that helps him defeat the villain. This game is an HD adaptation of the work Disney original Tron Movie.</desc>
+		<image>./mixart/Tron Classic.png</image>
+		<video>./snap/Tron Classic.mp4</video>
+		<marquee>./wheel/Tron Classic.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Fan Made</developer>
+		<publisher>Fan Made</publisher>
+		<genre>Quick Time Event (QTE)</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

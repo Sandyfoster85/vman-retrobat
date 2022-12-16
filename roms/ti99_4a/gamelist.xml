@@ -756,18 +756,6 @@
 		<cheevosHash>2C8C8A8238CF2D3CBDFD8E602710C66E</cheevosHash>
 	</game>
 	<game>
-		<path>./parsec.zip</path>
-		<name>Parsec</name>
-		<image>./mixart/Parsec.png</image>
-		<video>./snap/Parsec.mp4</video>
-		<marquee>./wheel/Parsec.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
-	</game>
-	<game>
 		<path>./buckrog.zip</path>
 		<name>Buck Rogers - Planet of Zoom</name>
 		<image>./mixart/Buck Rogers - Planet of Zoom.png</image>
@@ -802,5 +790,17 @@
 		<marquee>./wheel/Miner 2049er.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>023009455BA6E7F7E21B32860354E75C</cheevosHash>
+	</game>
+	<game>
+		<path>./parsec.zip</path>
+		<name>Parsec</name>
+		<image>./mixart/Parsec.png</image>
+		<video>./snap/Parsec.mp4</video>
+		<marquee>./wheel/Parsec.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
 	</game>
 </gameList>

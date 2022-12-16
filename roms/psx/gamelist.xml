@@ -9647,8 +9647,6 @@ A Dreamcast version also exists, but without the Super Story Mode and a couple o
 		<region>us</region>
 		<cheevosHash>13E700198B31D89F924F44CAE2D0B05F</cheevosHash>
 		<cheevosId>14415</cheevosId>
-		<:anonymous>project - h
-		</:anonymous>
 	</game>
 	<game id="19908" source="ScreenScraper.fr">
 		<path>./Judge Dredd (USA).chd</path>
@@ -21227,67 +21225,6 @@ As either Axel or Ruka, blast your way through six side-scrolling levels against
 		<cheevosId>4534</cheevosId>
 	</game>
 	<game>
-		<path>./Ape Escape (USA).chd</path>
-		<name>Ape Escape</name>
-		<desc>A boisterous band of baboons carry out a daring zoo escape. It's ape anarchy and it's up to you to stop the chimps before they make chumps out of the human race! Use both analog sticks to operate great gadgets including a Tank, a Remote Control Car, a Stun Club, and a Time Net in your quest to hunt down over 200 apes!</desc>
-		<emulator>duckstation</emulator>
-		<image>./mixart/Ape Escape (USA).png</image>
-		<video>./snap/Ape Escape (USA).mp4</video>
-		<marquee>./wheel/Ape Escape (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19990531T000000</releasedate>
-		<developer>Sony</developer>
-		<publisher>Sony</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>113A06FDB9815C4BC6177D2950E28946</cheevosHash>
-		<cheevosId>11283</cheevosId>
-	</game>
-	<game>
-		<path>./Apocalypse (USA).chd</path>
-		<name>Apocalypse</name>
-		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
-
-Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
-		<emulator>libretro</emulator>
-		<core>swanstation</core>
-		<image>./mixart/Apocalypse (USA).png</image>
-		<video>./snap/Apocalypse (USA).mp4</video>
-		<marquee>./wheel/Apocalypse (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19881031T000000</releasedate>
-		<developer>Activision</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
-		<cheevosId>14345</cheevosId>
-	</game>
-	<game>
-		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
-		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
-		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
-
-There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
-		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
-		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
-		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010406T000000</releasedate>
-		<developer>Funcom</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving-Various</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
-	</game>
-	<game>
 		<path>./Heart of Darkness (USA).m3u</path>
 		<name>Heart of Darkness</name>
 		<desc>You're a boy who most of all loves to play, and leave studying for somebody else to take care of. Your best company is your little dog who loves to wear your baseball cap. But on a hot sunny day, the moon covered the sun, and your dog disappears. You run to your treehouse and power up your computer and secret flying machine. Taking all you need, and go to find your lost puppy. Suddenly while in the sky, you strike some black creature, which was followed by a big crash. 
@@ -21418,26 +21355,6 @@ Two tables are included - one based on International Man of Mystery, and the oth
 		<cheevosHash>B34DFB826B1177F1D0CEFABFB76CB3FF</cheevosHash>
 	</game>
 	<game>
-		<path>./Formula 1 (USA).chd</path>
-		<name>Formula 1</name>
-		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
-
-The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
-		<image>./mixart/Formula 1 (USA).png</image>
-		<video>./snap/Formula 1 (USA).mp4</video>
-		<marquee>./wheel/Formula 1 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Bizarre Creations</developer>
-		<publisher>Psygnosis</publisher>
-		<genre>Race, Driving-Sports</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5F6A8F84896EEF0D062A9F12FDA5C9F9</cheevosHash>
-	</game>
-	<game>
 		<path>./Tekken (USA).chd</path>
 		<name>Tekken</name>
 		<desc>Tekken is an arcade fighting game franchise created and developed by Namco. Beginning with the original Tekken arcade game released in 1994, the series has received several sequels, as well as various home conversions and spin-off titles released for consoles. The story in each game in the main series documents the events of the fictional martial arts tournament, The King of Iron Fist Tournament, which is hosted by the Mishima Zaibatsu corporation. The prize is typically control of the company, which then allows the winner to host the following tournament.  The arcade versions of the game have traditionally used PlayStation based hardware to run the games, and subsequently each Tekken installment was eventually made for its respective PlayStation.</desc>
@@ -21493,5 +21410,86 @@ The Nintendo 64 version was called International Superstar Soccer 98 and was dev
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>77881EFEFF19E68B3471E5316136702A</cheevosHash>
+	</game>
+	<game>
+		<path>./Ape Escape (USA).chd</path>
+		<name>Ape Escape</name>
+		<desc>A boisterous band of baboons carry out a daring zoo escape. It's ape anarchy and it's up to you to stop the chimps before they make chumps out of the human race! Use both analog sticks to operate great gadgets including a Tank, a Remote Control Car, a Stun Club, and a Time Net in your quest to hunt down over 200 apes!</desc>
+		<emulator>duckstation</emulator>
+		<image>./mixart/Ape Escape (USA).png</image>
+		<video>./snap/Ape Escape (USA).mp4</video>
+		<marquee>./wheel/Ape Escape (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19990531T000000</releasedate>
+		<developer>Sony</developer>
+		<publisher>Sony</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>113A06FDB9815C4BC6177D2950E28946</cheevosHash>
+		<cheevosId>11283</cheevosId>
+	</game>
+	<game>
+		<path>./Apocalypse (USA).chd</path>
+		<name>Apocalypse</name>
+		<desc>The end of the world is near. Featuring Bruce Willis' voice, you are Trey Kincaid, nano-physicist and sole defender of the world. It's up to you to defeat the Four Horsemen of the Apocalypse before it's happy trails to us all...
+
+Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosive sound effects, up to 20 on screen enemies and an arsenal like never seen before.</desc>
+		<emulator>libretro</emulator>
+		<core>swanstation</core>
+		<image>./mixart/Apocalypse (USA).png</image>
+		<video>./snap/Apocalypse (USA).mp4</video>
+		<marquee>./wheel/Apocalypse (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19881031T000000</releasedate>
+		<developer>Activision</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
+		<cheevosId>14345</cheevosId>
+	</game>
+	<game>
+		<path>./Championship Motocross Featuring Ricky Carmichael (USA).chd</path>
+		<name>Championship Motocross 2001 featuring Ricky Carmic</name>
+		<desc>This is the sequel to Championship Motocross Featuring Ricky Carmichael.  This version has 30 of the top motocross riders including the game's namesake, Ricky Carmichael.  There are a plethora of tracks to race on that range from regular races and stunt tracks where players can pull off 50 different tricks for points in order to advance.
+
+There are a variety of modes including a career mode where the player can compete in races, using the money to buy better equipment and negotiate with sponsors to gain more money and notoriety.  Players can also create their own rider and use them in exhibition races or in the career mode and customize everything from the appearance to their abilities.</desc>
+		<image>./mixart/Championship Motocross Featuring Ricky Carmichael (USA).png</image>
+		<video>./snap/Championship Motocross Featuring Ricky Carmichael (USA).mp4</video>
+		<marquee>./wheel/Championship Motocross Featuring Ricky Carmichael (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010406T000000</releasedate>
+		<developer>Funcom</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving-Various</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C58A6E03E0E4899A3C51FA34698B7921</cheevosHash>
+	</game>
+	<game>
+		<path>./Formula 1 (USA).chd</path>
+		<name>Formula 1</name>
+		<desc>Formula 1 was the first of Sony's official FIA-licensed Formula 1 games. All the cars, teams and circuits of the 1995 season are recreated in millimetric detail. Variable game modes and camera angles are included. To widen the game's appeal, it includes optional helpers such as automatic braking.
+
+The game contains a rock soundtrack including tracks by Joe Satriani and Steve Vai, and commentary from UK TV legend Murray Walker.</desc>
+		<image>./mixart/Formula 1 (USA).png</image>
+		<video>./snap/Formula 1 (USA).mp4</video>
+		<marquee>./wheel/Formula 1 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Bizarre Creations</developer>
+		<publisher>Psygnosis</publisher>
+		<genre>Race, Driving-Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5F6A8F84896EEF0D062A9F12FDA5C9F9</cheevosHash>
 	</game>
 </gameList>

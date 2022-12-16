@@ -420,20 +420,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Demonstration Cartridge (USA).zip</path>
-		<name>Demonstration Cartridge</name>
-		<image>./mixart/Demonstration Cartridge (USA).png</image>
-		<video>./snap/Demonstration Cartridge (USA).mp4</video>
-		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19770101T000000</releasedate>
-		<developer>Fairlight</developer>
-		<publisher>Fairlight</publisher>
-		<genre>Demo</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Demonstration Cartridge 2 (USA).zip</path>
 		<name>Demonstration Cartridge 2</name>
 		<image>./mixart/Demonstration Cartridge 2 (USA).png</image>
@@ -460,6 +446,20 @@
 		<publisher>Fairlight</publisher>
 		<genre>Action / Labyrinth-Action</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Demonstration Cartridge (USA).zip</path>
+		<name>Demonstration Cartridge</name>
+		<image>./mixart/Demonstration Cartridge (USA).png</image>
+		<video>./snap/Demonstration Cartridge (USA).mp4</video>
+		<marquee>./wheel/Demonstration Cartridge (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19770101T000000</releasedate>
+		<developer>Fairlight</developer>
+		<publisher>Fairlight</publisher>
+		<genre>Demo</genre>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

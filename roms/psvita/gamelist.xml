@@ -2120,22 +2120,6 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Age of Zombies.cmd</path>
-		<name>Age of Zombies</name>
-		<desc>Age of Zombies is a game where the hero, Barry Steakfries, employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs.</desc>
-		<image>./mixart/Age of Zombies.jpg</image>
-		<video>./snap/Age of Zombies.mp4</video>
-		<marquee>./wheel/Age of Zombies.png</marquee>
-		<releasedate>20140114T000000</releasedate>
-		<developer>Halfbrick Studios</developer>
-		<publisher>TBC</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Neverending Nightmares.cmd</path>
 		<name>Neverending Nightmares </name>
 		<desc>Neverending Nightmares is a psychological horror game inspired by the developer's real-life battle with OCD and depression. You take the role of a character named Thomas who keeps waking up from a nightmare to find out that he's still in a nightmare. In a similar style to classic adventure game, the player can explorer the worlds, interact with enemies, mainly through fleeing and hiding mechanics, and interact with the environment. The player can progress through a branching tree of nightmares to one of several possible endings. The artwork is inspired by the classic artist Edward Gorey, done mostly in black and white, with color for emphasis of objects that can be interacted with.</desc>
@@ -2190,6 +2174,22 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<genre>Action, Shooter</genre>
 		<favorite>true</favorite>
 		<md5>22af5fff9a4105b1f570eec50b21ba0b</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Age of Zombies.cmd</path>
+		<name>Age of Zombies</name>
+		<desc>Age of Zombies is a game where the hero, Barry Steakfries, employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs.</desc>
+		<image>./mixart/Age of Zombies.jpg</image>
+		<video>./snap/Age of Zombies.mp4</video>
+		<marquee>./wheel/Age of Zombies.png</marquee>
+		<releasedate>20140114T000000</releasedate>
+		<developer>Halfbrick Studios</developer>
+		<publisher>TBC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

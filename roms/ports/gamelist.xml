@@ -294,15 +294,30 @@ NOTE: Requires keyboard to exit!</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
-		<path>./Brutal Doom.lnk</path>
-		<name>'H'Brutal Doom</name>
-		<desc>Doom on Steroids!</desc>
-		<image>./mixart/Brutal Doom.png</image>
-		<video>./snap/Brutal Doom.mp4</video>
-		<marquee>./wheel/Brutal Doom.png</marquee>
+		<path>./Streets of Rage Remake.lnk</path>
+		<name>'H'Streets of Rage Remake</name>
+		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
+		<image>./mixart/sorr.png</image>
+		<video>./snap/sorr.mp4</video>
+		<marquee>./wheel/sorr.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>FanGame</developer>
+		<publisher>FanGame</publisher>
+		<genre>Fighting</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -347,19 +362,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<publisher>djyt</publisher>
 		<genre>Sports</genre>
 		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Brutal Wolfenstein 3D.lnk</path>
-		<name>'H'Brutal Wolfenstein 3D</name>
-		<desc>Wolfenstein 3-D on Steroids!</desc>
-		<image>./mixart/Brutal Wolfenstein 3D.png</image>
-		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
-		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20150101T000000</releasedate>
-		<genre>Shooter</genre>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -517,22 +519,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./AM2R.lnk</path>
-		<name>'H'AM2R Another Metroid 2 Remake</name>
-		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
-		<image>./mixart/AM2R.png</image>
-		<video>./snap/AM2R.mp4</video>
-		<marquee>./wheel/AM2R.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20160825T000000</releasedate>
-		<developer>DoctorM64</developer>
-		<publisher>DoctorM64</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Last StarFighter.lnk</path>
 		<name>'H'The Last StarFighter</name>
 		<desc>This is a fan-made game based on the arcade game that was seen in the movie. It's partially 1984 since the voice and sound sample was taken from the game that was used in the movie. it's partially 2006 since the game was recreated with the it's graphics looking so similar to the one seen in the movie. The only difference in the games are the fonts of the text in this recreated game and the graphics either look like flat-shaded or textured polygons. For the 3rd time, I finally beaten Ko-Dan Command Ship. I had to mess with the dip switch settings. It's very similar to what you see in the movie. After watching the movie, it made me feel want to play this game again. This game was ported to the home systems such as Atari 8-bit, Commodore 64, and the NES. But they look nothing like the arcade version. This freeware game is the closest to the arcade version you see in the movie.</desc>
@@ -581,30 +567,44 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage Remake.lnk</path>
-		<name>'H'Streets of Rage Remake</name>
-		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
-		<image>./mixart/sorr.png</image>
-		<video>./snap/sorr.mp4</video>
-		<marquee>./wheel/sorr.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20110101T000000</releasedate>
-		<developer>FanGame</developer>
-		<publisher>FanGame</publisher>
-		<genre>Fighting</genre>
+		<path>./Brutal Doom.lnk</path>
+		<name>'H'Brutal Doom</name>
+		<desc>Doom on Steroids!</desc>
+		<image>./mixart/Brutal Doom.png</image>
+		<video>./snap/Brutal Doom.mp4</video>
+		<marquee>./wheel/Brutal Doom.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./3dSen.lnk</path>
-		<name>3DSen</name>
-		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
-		<image>./mixart/3DSen.png</image>
-		<video>./snap/3DSen.mp4</video>
-		<marquee>./wheel/3DSen.png</marquee>
+		<path>./Brutal Wolfenstein 3D.lnk</path>
+		<name>'H'Brutal Wolfenstein 3D</name>
+		<desc>Wolfenstein 3-D on Steroids!</desc>
+		<image>./mixart/Brutal Wolfenstein 3D.png</image>
+		<video>./snap/Brutal Wolfenstein 3D.mp4</video>
+		<marquee>./wheel/Brutal Wolfenstein 3D.png</marquee>
 		<rating>0.75</rating>
-		<releasedate>20200719T000000</releasedate>
-		<genre>Emulator</genre>
+		<releasedate>20150101T000000</releasedate>
+		<genre>Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AM2R.lnk</path>
+		<name>'H'AM2R Another Metroid 2 Remake</name>
+		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
+		<image>./mixart/AM2R.png</image>
+		<video>./snap/AM2R.mp4</video>
+		<marquee>./wheel/AM2R.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160825T000000</releasedate>
+		<developer>DoctorM64</developer>
+		<publisher>DoctorM64</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

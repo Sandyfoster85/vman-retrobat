@@ -1137,24 +1137,6 @@ Sure, we'll give you the options. And some tips. Like in pitching. Batting. And 
 		<cheevosHash>8BF5F92ED9A276C82139C47C9875FD17</cheevosHash>
 	</game>
 	<game>
-		<path>./Dark Chambers (USA).7z</path>
-		<name>Dark Chambers</name>
-		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
-		<image>./mixart/Dark Chambers (USA).png</image>
-		<video>./snap/Dark Chambers (USA).mp4</video>
-		<marquee>./wheel/Dark Chambers (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B94B39A2ECE024BC79AD350914219A72</cheevosHash>
-	</game>
-	<game>
 		<path>./Xevious (USA).7z</path>
 		<name>Xevious</name>
 		<desc>It is discovered that the actual aliens on earth are human beings, and the ruthless Xevions want their planet back; but without us. Our only defense is the prototype Solvalou Fighter Plane. With this plane we can fight the deadly Domogram Rovers; the Toroid Patrol Fleets and the Zoshi Death Squads. 
@@ -1172,5 +1154,23 @@ Xevious is a vertically scrolling shooter based on the 1982 coin-op of the same 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6FA5ECE1F97F65C207B8C252EE49F97C</cheevosHash>
+	</game>
+	<game>
+		<path>./Dark Chambers (USA).7z</path>
+		<name>Dark Chambers</name>
+		<desc>Dark Chambers is an arcade action game similar to Gauntlet. You are an explorer in an underground maze; your goal is to survive the 26 different levels and collect as many of the hidden treasures as you can. Hidden somewhere in each of the levels is an exit which will take you on to the next level. Trying to stop you from completing your quest are a wide variety of creatures, including zombies, wraiths, skeletons, wizards, and the grim reaper. Each of the creatures in the game has a different strength; when you shoot a creature, it will transform into the next weaker creature. Eventually a creature will become the weakest one (a zombie) at which point it can be destroyed. In addition to the creatures and treasures, other items that can be found in the maze are keys (to open doors), potions (to restore health), poison (drains health), guns (increases your firing rate), traps, shields, and bombs. The game is played from an overhead point of view, and is for one player or two players simultaneously.</desc>
+		<image>./mixart/Dark Chambers (USA).png</image>
+		<video>./snap/Dark Chambers (USA).mp4</video>
+		<marquee>./wheel/Dark Chambers (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B94B39A2ECE024BC79AD350914219A72</cheevosHash>
 	</game>
 </gameList>
