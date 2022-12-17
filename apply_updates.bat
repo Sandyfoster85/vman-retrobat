@@ -62,7 +62,7 @@ rem findstr /c:"hatari_video_crop_overscan" %RAOPTS% >nul || echo hatari_video_c
 rem findstr /c:"hatari_video_hires" %RAOPTS% >nul || echo hatari_video_hires = "true" >> %RAOPTS%
 
 rem 1. 2022-12-17 - Correct Arcade extensions in es_systems.cfg, reported by Scorpio
-robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\ V:\RetroBat\backup\vman_orig\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\ V:\RetroBat\backup\vman_orig\ /S /NFL /NDL /IS /MT:4
 
 
 rem Apply XML-based updates using PowerShell

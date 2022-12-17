@@ -1,14 +1,14 @@
-$ErrorActionPreference= 'silentlycontinue'
+#$ErrorActionPreference= 'silentlycontinue'
 
 ############# Put es_systems.cfg changes in this block ###############
-$es_systems_path = 'V:\RetroBat\emulationstation\.emulationstation\es_systems.cfg'
-$es_settings_path = 'V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg'
-[xml]$es_systems = Get-Content $es_systems_path ; 
-[xml]$es_settings = Get-Content $es_settings_path ; 
+#$es_systems_path = 'V:\RetroBat\emulationstation\.emulationstation\es_systems.cfg'
+#$es_settings_path = 'V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg'
+#[xml]$es_systems = Get-Content $es_systems_path ; 
+#[xml]$es_settings = Get-Content $es_settings_path ; 
 
 # 1. 2022-12-17 - Correct Arcade extensions in es_systems.cfg, reported by Scorpio
-$arcade = $es_systems.SelectSingleNode("//system[name='arcade']")
-$arcade.extension = '.fba .zip .FBA .ZIP .7z .7Z .bin .BIN'
+#$arcade = $es_systems.SelectSingleNode("//system[name='arcade']")
+#$arcade.extension = '.fba .zip .FBA .ZIP .7z .7Z .bin .BIN'
 
 # 8. 2021-10-15 - Added .chd to Amiga bundle for CDTV
 #$amiga = $es_systems.SelectSingleNode("//system[name='amiga']")
@@ -47,6 +47,6 @@ $arcade.extension = '.fba .zip .FBA .ZIP .7z .7Z .bin .BIN'
 #$mugen = $es_systems.SelectSingleNode("//system[name='mugen']")
 #$mugen.extension = '.lnk .LNK'
 
-$es_systems.save($es_systems_path)
-$es_settings.save($es_settings_path)
+#$es_systems.save($es_systems_path)
+#$es_settings.save($es_settings_path)
 ######################################################################
