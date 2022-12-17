@@ -4740,22 +4740,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Avatar 2.2.fpt</path>
-		<name>Avatar (PupEdition, FixZ)/name>
-		<desc>Flipper Avatar (Mini PupEdition + FizX) 2.2</desc>
-		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
-		<video>./snap/Avatar 2.2.mp4</video>
-		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Blade Runner ULTIMATE Pro 1.04.fpt</path>
 		<name>Blade Runner ULTIMATE Pro 1.04</name>
 		<desc>Flipper Blade Runner ULTIMATE Pro 1.04</desc>
@@ -4938,6 +4922,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
+		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
+		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
+		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<rating>4</rating>
+		<releasedate>2022</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Sonic Pinball Mania.fpt</path>
 		<name>Sonic Pinball Mania (PupEdition, FizX)</name>
 		<desc>Flipper Sonic Pinball Mania (1.2) TerryRed BAM Mods + FizX</desc>
@@ -5002,14 +5002,14 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
-		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
-		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
-		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<rating>4</rating>
-		<releasedate>2022</releasedate>
+		<path>./Avatar 2.2.fpt</path>
+		<name>Avatar (PupEdition, FixZ)</name>
+		<desc>Flipper Avatar (Mini PupEdition + FizX) 2.2</desc>
+		<image>./mixart/Avatar Collector's Edition 1.05.png</image>
+		<video>./snap/Avatar 2.2.mp4</video>
+		<marquee>./wheel/Avatar Collector's Edition 1.05.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
