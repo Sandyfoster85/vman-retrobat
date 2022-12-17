@@ -1,6 +1,6 @@
 @echo off
 echo.
-echo Apply Updates ~VMAN-Retro-Bliss_LevelUP! 1.0 ~ 
+echo Apply Updates ~VMAN-Retro-Bliss_LevelUP! 3.5 ~ 
 echo Terminating running Retrobat processes...
 echo.
 TASKKILL /F /IM retrobat.exe /IM emulationstation.exe /IM retroarch.exe 2>nul
@@ -20,24 +20,24 @@ echo.
 echo Press any key to continue to start the update process - be patient . . .
 pause >nul
 
-powershell -Command "$ErrorActionPreference= 'silentlycontinue' ; (Get-Content 'V:\_tools\vman-retrobat-master\updates.txt') -notlike '#*' | ConvertFrom-Csv -Delimiter '|' | ForEach-Object {ForEach ($file in (Get-ChildItem -Path "$($_.Files)" -exclude *.VM)){Remove-Item -ErrorAction SilentlyContinue -Path $($file.fullname + '.VM');Copy-Item -Path $($file.fullname) -Destination $($file.fullname + '.VM');$filecontent = Get-Content -path $file ; if ($($_.LineNr)) {$filecontent[$($_.LineNr)] = $filecontent[$($_.LineNr)] -creplace $($_.SearchTxt),$($_.ReplaceTxt)} else {$filecontent = $filecontent -creplace $($_.SearchTxt),$($_.ReplaceTxt)} ; Set-Content $file.PSpath -Value $filecontent }}"
+rem powershell -Command "$ErrorActionPreference= 'silentlycontinue' ; (Get-Content 'V:\_tools\vman-retrobat-master\updates.txt') -notlike '#*' | ConvertFrom-Csv -Delimiter '|' | ForEach-Object {ForEach ($file in (Get-ChildItem -Path "$($_.Files)" -exclude *.VM)){Remove-Item -ErrorAction SilentlyContinue -Path $($file.fullname + '.VM');Copy-Item -Path $($file.fullname) -Destination $($file.fullname + '.VM');$filecontent = Get-Content -path $file ; if ($($_.LineNr)) {$filecontent[$($_.LineNr)] = $filecontent[$($_.LineNr)] -creplace $($_.SearchTxt),$($_.ReplaceTxt)} else {$filecontent = $filecontent -creplace $($_.SearchTxt),$($_.ReplaceTxt)} ; Set-Content $file.PSpath -Value $filecontent }}"
 
 rem 1. 2021-07-11 - Fix Spider-Man The Video Game Arcade bezelproject decoration and for any other future missing overlays.- reported by Virtualman
-robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\thebezelproject\games\ V:\RetroBat\decorations\thebezelproject\games\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\thebezelproject\games\ V:\RetroBat\decorations\thebezelproject\games\ /S /NFL /NDL /IS /MT:4
 rem 2. 2021-07-18 - GameCube Controller mapping fix (x/y swap) and for any other future controller profiles for dolphin - reported by Virtualman
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\RetroBat\emulators\dolphin-emu\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\dolphin-emu\ V:\RetroBat\emulators\dolphin-emu\ /S /NFL /NDL /IS /MT:4
 
 rem 3. 2021-08-05 - Corrent snap naming for High Octane - reported by Bilu
-ren "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
+rem "V:\RetroBat\roms\dos\snap\Hi Octane.pc.mp4" "Hi Octane.mp4"
 
 rem 4. 2021-10-08 - rpcs3 emulator fix missing HDD PS3 games - reported by Virtualman/Hasinbinsene
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
 
 rem 5. 2021-11-08 - amigacd32 change controller remap to cd32 + extra emulator configs (vic-20) - reported by Virtualman/Bilu
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
 rem 6. 2021-11-14 - snes9x change controller remap for 'H' some home brew games - reported by Virtualman
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\snes9x\ V:\RetroBat\emulators\snes9x\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\snes9x\ V:\RetroBat\emulators\snes9x\ /S /NFL /NDL /IS /MT:4
 
 rem 7. 2021-12-24 - sync vman custom collections - reported by MrPippet
 rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\collections\ V:\RetroBat\emulationstation\.emulationstation\collections\ /S /NFL /NDL /IS /MT:4
@@ -46,23 +46,23 @@ rem 8. 2021-12-28 - EmulationStation Theme fix for apple2/c20 - reported by Virt
 rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
 
 rem 9. 2022-04-02 - Fix PS3 After Burner Climax.m3u - reported by Virtualman
-copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\RetroBat\roms\ps3\
+rem copy /y "V:\_tools\vman-retrobat-master\roms\ps3\After Burner Climax.m3u" V:\RetroBat\roms\ps3\
 
 rem 10. 2022-05-08 - Xbox Xemu config update for 0.7.x - reported by Virtualman/Bilu
-robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\xemu\ V:\RetroBat\emulators\xemu\ /S /NFL /NDL /IS /MT:4
+rem robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\xemu\ V:\RetroBat\emulators\xemu\ /S /NFL /NDL /IS /MT:4
 
 rem 11. 2022-06-11 - Add lr-hatari settings if not existing, search/replace via updates.txt used afterwards
-set RAOPTS=V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg
-findstr /c:"hatari_frameskips" %RAOPTS% >nul || echo hatari_frameskips = "0" >> %RAOPTS%
-findstr /c:"hatari_nokeys" %RAOPTS% >nul || echo hatari_nokeys = "false" >> %RAOPTS%
-findstr /c:"hatari_nomouse" %RAOPTS% >nul || echo hatari_nomouse = "false" >> %RAOPTS%
-findstr /c:"hatari_polarized_filter" %RAOPTS% >nul || echo hatari_polarized_filter = "false" >> %RAOPTS%
-findstr /c:"hatari_twojoy" %RAOPTS% >nul || echo hatari_twojoy = "false" >> %RAOPTS%
-findstr /c:"hatari_video_crop_overscan" %RAOPTS% >nul || echo hatari_video_crop_overscan = "true" >> %RAOPTS%
-findstr /c:"hatari_video_hires" %RAOPTS% >nul || echo hatari_video_hires = "true" >> %RAOPTS%
+rem set RAOPTS=V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg
+rem findstr /c:"hatari_frameskips" %RAOPTS% >nul || echo hatari_frameskips = "0" >> %RAOPTS%
+rem findstr /c:"hatari_nokeys" %RAOPTS% >nul || echo hatari_nokeys = "false" >> %RAOPTS%
+rem findstr /c:"hatari_nomouse" %RAOPTS% >nul || echo hatari_nomouse = "false" >> %RAOPTS%
+rem findstr /c:"hatari_polarized_filter" %RAOPTS% >nul || echo hatari_polarized_filter = "false" >> %RAOPTS%
+rem findstr /c:"hatari_twojoy" %RAOPTS% >nul || echo hatari_twojoy = "false" >> %RAOPTS%
+rem findstr /c:"hatari_video_crop_overscan" %RAOPTS% >nul || echo hatari_video_crop_overscan = "true" >> %RAOPTS%
+rem findstr /c:"hatari_video_hires" %RAOPTS% >nul || echo hatari_video_hires = "true" >> %RAOPTS%
 
 rem Apply XML-based updates using PowerShell
-powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
+rem powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
 echo.
 echo Update Completed. Enjoy! :)
