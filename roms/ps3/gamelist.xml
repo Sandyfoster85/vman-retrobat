@@ -2096,23 +2096,6 @@ With our new toolset in your little burlap hands, you?ll have all the ingredient
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tiger Woods PGA Tour 11 (USA).m3u</path>
-		<name>Tiger Woods PGA Tour 11</name>
-		<desc>Tiger Woods PGA Tour 11 is a golfing simulation video game in the PGA Tour series developed by EA Tiburon and published by Electronic Arts. It was released in 2010 for the PlayStation 3, Wii, Xbox 360 and iOS. The game is the first in the series to support the PlayStation Move controller for the Sony PlayStation 3.[1] As with Tiger Woods PGA Tour 10, the Wii version utilizes Wii MotionPlus. This edition of Tiger Woods PGA Tour is the first to feature someone on the cover other than Tiger himself. The privilege was given to the Northern Irish golfer Rory McIlroy, who was the first person to win a PGA Tour event before their 21st birthday since Tiger Woods.</desc>
-		<image>./mixart/Tiger Woods PGA Tour 11 (USA).png</image>
-		<video>./snap/Tiger Woods PGA Tour 11 (USA).mp4</video>
-		<marquee>./wheel/Tiger Woods PGA Tour 11 (USA).png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20121125T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports, Golf</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Time Crisis - Razing Storm (USA) (En,Ja,Fr,De,Es,It).m3u</path>
 		<name>Time Crisis : Razing Storm</name>
 		<desc>Time Crisis : Razing Storm sur Playstation 3 est un jeu de tir sur rail compatible avec le Playstation Move. Précisément, il s'agit d'une compilation réunissant trois opus arcades : le fameux Time Crisis Rising Storm, la version arcade de Time Crisis 4 et enfin Deadstorm Pirates.</desc>
@@ -2226,5 +2209,22 @@ With our new toolset in your little burlap hands, you?ll have all the ingredient
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tiger Woods PGA Tour 11 (USA).m3u</path>
+		<name>Tiger Woods PGA Tour 11</name>
+		<desc>Tiger Woods PGA Tour 11 is a golfing simulation video game in the PGA Tour series developed by EA Tiburon and published by Electronic Arts. It was released in 2010 for the PlayStation 3, Wii, Xbox 360 and iOS. The game is the first in the series to support the PlayStation Move controller for the Sony PlayStation 3.[1] As with Tiger Woods PGA Tour 10, the Wii version utilizes Wii MotionPlus. This edition of Tiger Woods PGA Tour is the first to feature someone on the cover other than Tiger himself. The privilege was given to the Northern Irish golfer Rory McIlroy, who was the first person to win a PGA Tour event before their 21st birthday since Tiger Woods.</desc>
+		<image>./mixart/Tiger Woods PGA Tour 11 (USA).png</image>
+		<video>./snap/Tiger Woods PGA Tour 11 (USA).mp4</video>
+		<marquee>./wheel/Tiger Woods PGA Tour 11 (USA).png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20121125T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports, Golf</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

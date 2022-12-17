@@ -29,20 +29,6 @@ If you die, you have to start over from the beginning, and everything repeats al
 		<video>./snap/Crimsonland.mp4</video>
 	</game>
 	<game>
-		<path>./10 Second Ninja X.cmd</path>
-		<name>10 Second Ninja X</name>
-		<desc>10 SECOND NINJA X is a blisteringly fast, satisfyingly difficult and surprisingly methodical sidescroller which tasks you with completing each level in ten seconds or less. No lengthy checkpoint gaps. No cluttered control scheme. No hand holding. Get that three star rating, yo! You got this. 1 star. Again. 1 star. Again. 2 stars! Again. Back to 1 star. DAMN IT. Again... 100 levels including all 40 original 10 Second Ninja levels remastered in HD. Individual leaderboards for each level. Unlockables and collectibles.</desc>
-		<releasedate>20160719T000000</releasedate>
-		<publisher>Curve Digital</publisher>
-		<genre>Action, Platform</genre>
-		<players>2</players>
-		<md5>2c32a63abcce65653a0956d3d36e9264</md5>
-		<lang>en</lang>
-		<image>./mixart/10 Second Ninja X.jpg</image>
-		<marquee>./wheel/10 Second Ninja X.png</marquee>
-		<video>./snap/10 Second Ninja X.mp4</video>
-	</game>
-	<game>
 		<path>./A Rose in the Twilight (3.61+!) [3.63].cmd</path>
 		<name>A Rose in the Twilight</name>
 		<desc>A girl awakens in a castle void of color and time, affixed with the Curse of Thorns upon her back. After meeting a sleeping giant, the two work together to escape. Help them unravel the mystery of the thorns and the history behind the somber castle.
@@ -1085,21 +1071,6 @@ In the game, players control a human child who has fallen into the Underground, 
 		<genre>Adventure</genre>
 		<players>1</players>
 		<md5>7a25b9e07f6f80bcba4b7473393cdf18</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Velocity Ultra.cmd</path>
-		<name>Velocity Ultra</name>
-		<desc>Velocity is a shoot 'em up video game developed by FuturLab for the PlayStation 3, PlayStation Portable, and PlayStation Vita as a PlayStation mini. The developers signed with Sony to create new titles for the PlayStation Vita.[3] A sequel titled Velocity 2X was released on September 2, 2014 for PlayStation 4 and PlayStation Vita, and on August 19, 2015 for Steam and Xbox One.</desc>
-		<image>./mixart/Velocity Ultra.jpg</image>
-		<video>./snap/Velocity Ultra.mp4</video>
-		<marquee>./wheel/Velocity Ultra.png</marquee>
-		<releasedate>20131212T000000</releasedate>
-		<developer>FuturLab</developer>
-		<publisher>Curve Digital</publisher>
-		<genre>Action, Shooter</genre>
-		<favorite>true</favorite>
-		<md5>ba9d387db4749fb1637a8e004b713229</md5>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -2190,6 +2161,35 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./10 Second Ninja X.cmd</path>
+		<name>10 Second Ninja X</name>
+		<desc>10 SECOND NINJA X is a blisteringly fast, satisfyingly difficult and surprisingly methodical sidescroller which tasks you with completing each level in ten seconds or less. No lengthy checkpoint gaps. No cluttered control scheme. No hand holding. Get that three star rating, yo! You got this. 1 star. Again. 1 star. Again. 2 stars! Again. Back to 1 star. DAMN IT. Again... 100 levels including all 40 original 10 Second Ninja levels remastered in HD. Individual leaderboards for each level. Unlockables and collectibles.</desc>
+		<image>./mixart/10 Second Ninja X.jpg</image>
+		<video>./snap/10 Second Ninja X.mp4</video>
+		<marquee>./wheel/10 Second Ninja X.png</marquee>
+		<releasedate>20160719T000000</releasedate>
+		<publisher>Curve Digital</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<md5>2c32a63abcce65653a0956d3d36e9264</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Velocity Ultra.cmd</path>
+		<name>Velocity Ultra</name>
+		<desc>Velocity is a shoot 'em up video game developed by FuturLab for the PlayStation 3, PlayStation Portable, and PlayStation Vita as a PlayStation mini. The developers signed with Sony to create new titles for the PlayStation Vita.[3] A sequel titled Velocity 2X was released on September 2, 2014 for PlayStation 4 and PlayStation Vita, and on August 19, 2015 for Steam and Xbox One.</desc>
+		<image>./mixart/Velocity Ultra.jpg</image>
+		<video>./snap/Velocity Ultra.mp4</video>
+		<marquee>./wheel/Velocity Ultra.png</marquee>
+		<releasedate>20131212T000000</releasedate>
+		<developer>FuturLab</developer>
+		<publisher>Curve Digital</publisher>
+		<genre>Action, Shooter</genre>
+		<favorite>true</favorite>
+		<md5>ba9d387db4749fb1637a8e004b713229</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

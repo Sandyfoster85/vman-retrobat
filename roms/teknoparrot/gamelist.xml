@@ -1687,22 +1687,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./GRID.parrot</path>
-		<name>GRID</name>
-		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
-		<image>./mixart/GRID.png</image>
-		<video>./snap/GRID.mp4</video>
-		<marquee>./wheel/GRID.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Sega Europa-R</developer>
-		<publisher>Sega Europa-R</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./MKDX.parrot</path>
 		<name>Mario Kart: Arcade GP DX</name>
 		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
@@ -2120,6 +2104,22 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./GRID.parrot</path>
+		<name>GRID</name>
+		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
+		<image>./mixart/GRID.png</image>
+		<video>./snap/GRID.mp4</video>
+		<marquee>./wheel/GRID.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Sega Europa-R</developer>
+		<publisher>Sega Europa-R</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
