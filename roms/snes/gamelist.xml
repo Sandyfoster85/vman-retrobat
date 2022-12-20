@@ -12156,25 +12156,6 @@ Gameplay consists of standard platform action spiced up with some slightly diffe
 		<players>1</players>
 		<cheevosHash>DC147FCBF64265D2940F359CFDE7E74F</cheevosHash>
 	</game>
-	<game id="2265" source="ScreenScraper.fr">
-		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).7z</path>
-		<name>Super Star Wars : The Empire Strikes Back</name>
-		<desc>The sequel to  Super Star Wars is, as the name implies, based on Episode V: The Empire Strikes Back, the second of the original  Star Wars movie trilogy. The game features familiar locations and events from the film, such as the ice planet Hoth, the search for Yoda on the jungle planet Dagobah, and the fight against Darth Vader. Several locations are expanded, adding places and boss enemies that did not exist in the movie, and certain key events in the story are omitted or changed. 
-
-As in the previous game, the player is able to control three characters: Luke Skywalker, Han Solo, and Chewbacca. Unlike the first, each character has been given a distinct special move. Chewie spins a path of destruction through enemies, Han has grenades and a powerful slide, and Luke can switch to his lightsaber and block oncoming fire. Gameplay is very similar to the first game, mostly focusing on platforming elements. As before, there are Mode-7 vehicle levels, during which the player is able to pilot a snowspeeder against encroaching Imperial walkers, pilot the Millennium Falcon through the asteroid field, and break through Cloud City's defenses in Luke's X-Wing fighter. 
-
-The game's other major addition is the inclusion of a suite of Force powers for Luke. They are learned by collecting hidden orbs on the Dagobah level, and add a second special bar that depletes with each usage of a Force power. Power-ups include health items, weapon upgrades, screen-clearing detonators, and orbs that restore Luke's Force power. Passwords have also been added, and are given upon completion of each of the game's 25 stages.</desc>
-		<image>./mixart/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).png</image>
-		<video>./snap/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).mp4</video>
-		<marquee>./wheel/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19931001T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>JVC</publisher>
-		<genre>Platform-Action</genre>
-		<players>1</players>
-		<cheevosHash>61003F39100168A2ACE6FF952C72689D</cheevosHash>
-	</game>
 	<game id="2201" source="ScreenScraper.fr">
 		<path>./Super Street Fighter II (USA).7z</path>
 		<name>Super Street Fighter II</name>
@@ -15235,5 +15216,24 @@ Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire
 		<lang>en</lang>
 		<cheevosHash>E890DDB9465A4E7A7413409E4B4BBEA7</cheevosHash>
 		<scrap name="ScreenScraper" date="20221016T124856" />
+	</game>
+	<game id="2265" source="ScreenScraper.fr">
+		<path>./Super Star Wars - The Empire Strikes Back (USA) (Rev 1).7z</path>
+		<name>Super Star Wars : The Empire Strikes Back</name>
+		<desc>The sequel to  Super Star Wars is, as the name implies, based on Episode V: The Empire Strikes Back, the second of the original  Star Wars movie trilogy. The game features familiar locations and events from the film, such as the ice planet Hoth, the search for Yoda on the jungle planet Dagobah, and the fight against Darth Vader. Several locations are expanded, adding places and boss enemies that did not exist in the movie, and certain key events in the story are omitted or changed. 
+
+As in the previous game, the player is able to control three characters: Luke Skywalker, Han Solo, and Chewbacca. Unlike the first, each character has been given a distinct special move. Chewie spins a path of destruction through enemies, Han has grenades and a powerful slide, and Luke can switch to his lightsaber and block oncoming fire. Gameplay is very similar to the first game, mostly focusing on platforming elements. As before, there are Mode-7 vehicle levels, during which the player is able to pilot a snowspeeder against encroaching Imperial walkers, pilot the Millennium Falcon through the asteroid field, and break through Cloud City's defenses in Luke's X-Wing fighter. 
+
+The game's other major addition is the inclusion of a suite of Force powers for Luke. They are learned by collecting hidden orbs on the Dagobah level, and add a second special bar that depletes with each usage of a Force power. Power-ups include health items, weapon upgrades, screen-clearing detonators, and orbs that restore Luke's Force power. Passwords have also been added, and are given upon completion of each of the game's 25 stages.</desc>
+		<image>./mixart/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).png</image>
+		<video>./snap/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).mp4</video>
+		<marquee>./wheel/Super Star Wars - The Empire Strikes Back (USA) (Rev 1).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19931001T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>JVC</publisher>
+		<genre>Platform-Action</genre>
+		<players>1</players>
+		<cheevosHash>61003F39100168A2ACE6FF952C72689D</cheevosHash>
 	</game>
 </gameList>

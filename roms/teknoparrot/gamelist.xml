@@ -1287,23 +1287,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FNFSC.parrot</path>
-		<name>Fast and the Furious SuperCars, The</name>
-		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/The Fast and the Furious SuperCars.png</image>
-		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
-		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./GtiClub3.parrot</path>
 		<name>GTI Club Supermini Festa!</name>
 		<desc>GTI Club Supermini Festa! shifts its way onto Arcade! Staying true to the original racing frenzy of the award-winning arcade game, players will race through the cityscapes of France, the UK, Italy, USA and Japan. Speed through tight bends and back roads of the urban sprawl, up steep mountainous roads and caves. Tackle a wide variety of driving conditions in the ultimate race to the finish! Features • Journey through 5 stages and 15+ courses: Race through open cities, tackle oncoming traffic and pedestrians, and journey through high mountainous roads (locations include France, UK, Italy, USA, Japan) to uncover new routes and secret courses.</desc>
@@ -1666,23 +1649,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<publisher>Taito</publisher>
 		<genre>Shooter</genre>
 		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./Batman.parrot</path>
-		<name>Batman</name>
-		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
-		<image>./mixart/Batman.png</image>
-		<video>./snap/Batman.mp4</video>
-		<marquee>./wheel/Batman.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Driving-Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -2120,6 +2086,40 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Sega Europa-R</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Batman.parrot</path>
+		<name>Batman</name>
+		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
+		<image>./mixart/Batman.png</image>
+		<video>./snap/Batman.mp4</video>
+		<marquee>./wheel/Batman.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving-Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSC.parrot</path>
+		<name>Fast and the Furious SuperCars, The</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

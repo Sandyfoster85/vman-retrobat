@@ -59,63 +59,6 @@
 		<scrap name="ScreenScraper" date="20221020T224219" />
 		<scrap name="HfsDB" date="20221020T224556" />
 	</game>
-	<game id="44011">
-		<path>./vstrik3.zip</path>
-		<name>Virtua Striker 3</name>
-		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
-		<image>./mixart/vstrik3-image.png</image>
-		<video>./snap/vstrik3-video.mp4</video>
-		<marquee>./wheel/vstrik3-marquee.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>Virtua Striker</family>
-		<players>2</players>
-		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224230" />
-	</game>
-	<game>
-		<path>./wldrider.zip</path>
-		<name>Wild Riders</name>
-		<desc>A motorcycle chase game. The player assumes the role of a biker gang member who is trying to escape from the police and avoid capture. Runs on the Sega "NAOMI 2" hardware. Even if titlescreen says 2000, Wild Riders was released in March 2001 in Japan. It was presented at the February 2001 AOU (Arcade Operators Union) in Japan.</desc>
-		<image>./mixart/wldrider-image.png</image>
-		<video>./snap/wldrider-video.mp4</video>
-		<marquee>./wheel/wldrider-marquee.png</marquee>
-		<rating>4</rating>
-		<releasedate>20010101T000000</releasedate>
-		<genre>Course</genre>
-		<players>1</players>
-		<md5>5445e5d703f5ac7e3a98f544a2d627ff</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4F47983AC54499D795AFD45260A1CFFC</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224237" />
-		<scrap name="HfsDB" date="20221020T224323" />
-	</game>
-	<game id="46719">
-		<path>./beachspi.zip</path>
-		<name>Beach Spikers: Virtua Beach Volleyball</name>
-		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
-		<image>./mixart/beachspi-image.png</image>
-		<video>./snap/beachspi-video.mp4</video>
-		<marquee>./wheel/beachspi-marquee.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20010701T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Volleyball</genre>
-		<players>1</players>
-		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224149" />
-	</game>
 	<game id="46730">
 		<path>./clubk2k3.zip</path>
 		<name>Club Kart: European Session</name>
@@ -154,5 +97,62 @@
 		<cheevosHash>2F6E012750F71DDE934A1F8ADFDA8A6E</cheevosHash>
 		<scrap name="ScreenScraper" date="20221020T224222" />
 		<scrap name="HfsDB" date="20221020T224409" />
+	</game>
+	<game id="46719">
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./mixart/beachspi-image.png</image>
+		<video>./snap/beachspi-video.mp4</video>
+		<marquee>./wheel/beachspi-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1</players>
+		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224149" />
+	</game>
+	<game id="44011">
+		<path>./vstrik3.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./mixart/vstrik3-image.png</image>
+		<video>./snap/vstrik3-video.mp4</video>
+		<marquee>./wheel/vstrik3-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>2</players>
+		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224230" />
+	</game>
+	<game>
+		<path>./wldrider.zip</path>
+		<name>Wild Riders</name>
+		<desc>A motorcycle chase game. The player assumes the role of a biker gang member who is trying to escape from the police and avoid capture. Runs on the Sega "NAOMI 2" hardware. Even if titlescreen says 2000, Wild Riders was released in March 2001 in Japan. It was presented at the February 2001 AOU (Arcade Operators Union) in Japan.</desc>
+		<image>./mixart/wldrider-image.png</image>
+		<video>./snap/wldrider-video.mp4</video>
+		<marquee>./wheel/wldrider-marquee.png</marquee>
+		<rating>4</rating>
+		<releasedate>20010101T000000</releasedate>
+		<genre>Course</genre>
+		<players>1</players>
+		<md5>5445e5d703f5ac7e3a98f544a2d627ff</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4F47983AC54499D795AFD45260A1CFFC</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224237" />
+		<scrap name="HfsDB" date="20221020T224323" />
 	</game>
 </gameList>

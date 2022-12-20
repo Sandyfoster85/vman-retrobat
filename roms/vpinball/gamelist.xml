@@ -6564,22 +6564,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Apollo 13 (Sega 1995) V1.62.vpx</path>
-		<name>Apollo 13 (Sega 1995) (PupEdition)</name>
-		<desc>Flipper Apollo 13 (Sega 1995) V1.62</desc>
-		<image>./mixart/Apollo 13 (Sega 1995) V1.62.jpg</image>
-		<video>./snap/Apollo 13 (Sega 1995) V1.62.mp4</video>
-		<marquee>./wheel/Apollo 13 (Sega 1995) V1.62.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Monday Night Football (Data East 1989).vpx</path>
 		<name>Monday Night Football</name>
 		<desc>Flipper Monday Night Football (Data East 1989)</desc>
@@ -8249,6 +8233,22 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Apollo 13 (Sega 1995) V1.62.vpx</path>
+		<name>Apollo 13 (Sega 1995) (PupEdition)</name>
+		<desc>Flipper Apollo 13 (Sega 1995) V1.62</desc>
+		<image>./mixart/Apollo 13 (Sega 1995) V1.62.jpg</image>
+		<video>./snap/Apollo 13 (Sega 1995) V1.62.mp4</video>
+		<marquee>./wheel/Apollo 13 (Sega 1995) V1.62.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

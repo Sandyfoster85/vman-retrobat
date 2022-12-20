@@ -22,21 +22,6 @@
 		<region>us</region>
 		<path>./desert.zip</path>
 	</game>
-	<game id="37484" source="ScreenScraper.fr">
-		<path>./skisuprg.zip</path>
-		<name>Sega Ski Super G</name>
-		<desc>In Sega Ski Super G, the objective is to race against other opponents under a time limit. The game has two modes: World Series and Time Attack.</desc>
-		<image>./mixart/skisuprg.png</image>
-		<video>./snap/skisuprg.mp4</video>
-		<marquee>./wheel/skisuprg.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>1</players>
-		<genreid>1536</genreid>
-	</game>
 	<game id="37501" source="ScreenScraper.fr">
 		<path>./vstriker.zip</path>
 		<name>Virtua Striker</name>
@@ -254,22 +239,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./overrev.zip</path>
-		<name>Over Rev</name>
-		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
-		<image>./mixart/overrevb.png</image>
-		<video>./snap/overrevb.mp4</video>
-		<marquee>./wheel/overrevb.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Jaleco</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37480" source="ScreenScraper.fr">
 		<path>./schamp.zip</path>
 		<name>Sonic Championship</name>
@@ -284,21 +253,6 @@ The arcade cabinet provided a life-size bike on which to sit, which was really f
 		<genre>Fight / Versus-Fight</genre>
 		<players>2</players>
 		<genreid>262</genreid>
-	</game>
-	<game id="37481" source="ScreenScraper.fr">
-		<path>./segawski.zip</path>
-		<name>Sega Water Ski</name>
-		<desc>The objective of this game is similar to the last game, "Top Skater". Except you're water-skiing, instead of skateboaring.</desc>
-		<image>./mixart/segawski.png</image>
-		<video>./snap/segawski.mp4</video>
-		<marquee>./wheel/segawski.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<genreid>1536</genreid>
 	</game>
 	<game id="37492" source="ScreenScraper.fr">
 		<path>./topskatr.zip</path>
@@ -523,5 +477,55 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./overrev.zip</path>
+		<name>Over Rev</name>
+		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
+		<image>./mixart/overrevb.png</image>
+		<video>./snap/overrevb.mp4</video>
+		<marquee>./wheel/overrevb.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Jaleco</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37481" source="ScreenScraper.fr">
+		<path>./segawski.zip</path>
+		<name>Sega Water Ski</name>
+		<desc>The objective of this game is similar to the last game, "Top Skater". Except you're water-skiing, instead of skateboaring.</desc>
+		<image>./mixart/segawski.png</image>
+		<video>./snap/segawski.mp4</video>
+		<marquee>./wheel/segawski.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<genreid>1536</genreid>
+	</game>
+	<game id="37484" source="ScreenScraper.fr">
+		<path>./skisuprg.zip</path>
+		<name>Sega Ski Super G</name>
+		<desc>In Sega Ski Super G, the objective is to race against other opponents under a time limit. The game has two modes: World Series and Time Attack.</desc>
+		<image>./mixart/skisuprg.png</image>
+		<video>./snap/skisuprg.mp4</video>
+		<marquee>./wheel/skisuprg.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1536</genreid>
 	</game>
 </gameList>

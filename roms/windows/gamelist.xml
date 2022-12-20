@@ -1085,21 +1085,6 @@ Your quest will not be an easy one, as the Empire is heavily defended by thousan
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SEGA Rally.lnk</path>
-		<name>SEGA Rally</name>
-		<desc>At an incredible 30 frames a second AM#3 delivers the most gruelling driving experience yet! Skill and technique are essential as one or two players navigate their way around four courses of the most arduous terrain ever to soil your living room carpet!</desc>
-		<image>./mixart/Sega Rally.jpg</image>
-		<video>./snap/sega Rally.mp4</video>
-		<marquee>./wheel/Sega Rally.png</marquee>
-		<rating>0</rating>
-		<releasedate>19970131T010000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Racing</genre>
-		<lang>en</lang>
-		<md5>990ac8e5ade8ede89eb159ed323d9b81</md5>
-	</game>
-	<game>
 		<path>./Settlers 2 10th Anniversary.lnk</path>
 		<name>Settlers 2 10th Anniversary</name>
 		<desc>After fighting a losing battle with drought and the mysterious disappearance of their women, a brave people set out to sea. The survivors need your help as they are challenged to the ultimate test: survival. Food and building materials must be developed, for the productivity of future shipbuilders, foresters, brewers, and scouts depends on it. Construct gold, coal, iron, and granite mines. Cultivate the land, build farms, establish fisheries and hunting grounds, build up your stocks of animals and manage forests; the well-being of your subjects rests in your hands. Most important is to get your women back!</desc>
@@ -2719,22 +2704,6 @@ Gather a little army of monsters, equip yourself with weapons and relics and lev
 		<publisher>3D Realms</publisher>
 		<genre>Action, Adventure, Platform</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Alien Breed - Impact.lnk</path>
-		<name>Alien Breed - Impact</name>
-		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
-		<image>./mixart/Alien Breed - Impact.jpg</image>
-		<video>./snap/Alien Breed - Evolution.mp4</video>
-		<marquee>./wheel/Alien Breed - Impact.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100929T000000</releasedate>
-		<developer>Team17</developer>
-		<publisher>Team17</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -9513,6 +9482,21 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Santa Claus in Trouble.lnk</path>
+		<name>Santa Claus in Trouble HD</name>
+		<desc>Christmas is coming (sooner or later), so here we have a nice seasonal game for you: In "Santa Claus in Trouble" you have to help Santa to pick up all his lost presents and save Christmas for the children. So you have to run through a 3D winter wonderland, avoid the evil trolls, jump like crazy to catch all the presents and reach the exit in time to go on to the next level. Published in 2002 by Joymania and CDV, "Santa Claus in Trouble&amp;" is still the best freeware Christmas game you can think of. There are excellent graphics, nice x-mas tunes playing in the background and the game is challenging for kids and adults as well (first few levels are easy, but then it gets really hard).</desc>
+		<image>./mixart/Santa Claus in Trouble.jpg</image>
+		<video>./snap/Santa Claus in Trouble.mp4</video>
+		<marquee>./wheel/Santa Claus in Trouble.png</marquee>
+		<rating>85</rating>
+		<releasedate>20020515T010000</releasedate>
+		<developer>Joymania</developer>
+		<publisher>CDV</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./80s Overdrive.lnk</path>
 		<name>80s Overdrive</name>
 		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
@@ -9529,18 +9513,34 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Santa Claus in Trouble.lnk</path>
-		<name>Santa Claus in Trouble HD</name>
-		<desc>Christmas is coming (sooner or later), so here we have a nice seasonal game for you: In "Santa Claus in Trouble" you have to help Santa to pick up all his lost presents and save Christmas for the children. So you have to run through a 3D winter wonderland, avoid the evil trolls, jump like crazy to catch all the presents and reach the exit in time to go on to the next level. Published in 2002 by Joymania and CDV, "Santa Claus in Trouble&" is still the best freeware Christmas game you can think of. There are excellent graphics, nice x-mas tunes playing in the background and the game is challenging for kids and adults as well (first few levels are easy, but then it gets really hard).</desc>
-		<image>./mixart/Santa Claus in Trouble.jpg</image>
-		<video>./snap/Santa Claus in Trouble.mp4</video>
-		<marquee>./wheel/Santa Claus in Trouble.png</marquee>
-		<rating>85</rating>
-		<releasedate>20020515T010000</releasedate>
-		<developer>Joymania</developer>
-		<publisher>CDV</publisher>
-		<genre>Platform</genre>
+		<path>./Alien Breed - Impact.lnk</path>
+		<name>Alien Breed - Impact</name>
+		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
+		<image>./mixart/Alien Breed - Impact.jpg</image>
+		<video>./snap/Alien Breed - Evolution.mp4</video>
+		<marquee>./wheel/Alien Breed - Impact.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100929T000000</releasedate>
+		<developer>Team17</developer>
+		<publisher>Team17</publisher>
+		<genre>Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SEGA Rally.lnk</path>
+		<name>SEGA Rally</name>
+		<desc>At an incredible 30 frames a second AM#3 delivers the most gruelling driving experience yet! Skill and technique are essential as one or two players navigate their way around four courses of the most arduous terrain ever to soil your living room carpet!</desc>
+		<image>./mixart/Sega Rally.jpg</image>
+		<video>./snap/sega Rally.mp4</video>
+		<marquee>./wheel/Sega Rally.png</marquee>
+		<rating>0</rating>
+		<releasedate>19970131T010000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Racing</genre>
+		<md5>990ac8e5ade8ede89eb159ed323d9b81</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
