@@ -64,6 +64,8 @@ rem findstr /c:"hatari_video_hires" %RAOPTS% >nul || echo hatari_video_hires = "
 rem 1. 2022-12-18 - Sync Default values reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\ V:\RetroBat\backup\ /S /NFL /NDL /IS /MT:4
 
+rem 2. 2022-12-21 - Fix PS3 Metal Gear Solid - Peace Walker HD Edition (USA).m3u - reported by Lydonb77
+copy /y "V:\_tools\vman-retrobat-master\roms\ps3\Metal Gear Solid - Peace Walker HD Edition (USA).m3u" V:\RetroBat\roms\ps3\
 
 rem Apply XML-based updates using PowerShell
 rem powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
