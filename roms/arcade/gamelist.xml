@@ -26972,37 +26972,6 @@ Diamond Run is heavily based on First Star's Commodore C64 classic, 'Boulder Das
 		<region>us</region>
 		<cheevosHash>75C6F03161D020201000414CD1501F9F</cheevosHash>
 	</game>
-	<game id="37536">
-		<path>./diehard.zip</path>
-		<name>Die Hard Arcade</name>
-		<desc>A 3-D, side-scrolling beat them up for 1 or 2 players in which the president's daughter has been kidnapped by a terrorist organisation. Die Hard Arcade is based on the Bruce Willis movie of the same name, although the game's storyline is very different from that of the film's.
-
-Players take on the role of two SWAT team members who must fight their way through a terrorist-filled sky scraper to eventually reach and defeat the head of the terrorist organisation and rescue the President's daughter. Players must clear each area of all terrorists before they can progress to the next. The terrorists can be defeated by punching and kicking them until their health bars are depleted. In addition to hand-to-hand combat, players can also utilise various weapons and objects, including handguns, machine guns, missile launchers, anti-tank cannons, knives, sticks, fireaxes, spray cans, pepper shakers, steel pipes, brooms, bottles and, at one point, a grandfather clock.
-
-Ammunition magazines can be picked up to replace depleted ammo in hand guns and machine guns, and health units can also be found to heal any damage players have suffered. At various points in the game, a pre-set sequence will start in which players must either press the PUNCH, KICK or JUMP button, or move the joystick in a specific direction in order to successfully negotiate certain enemies or obstacles. If either of the SWAT members fail on any sequences where they are supposed to punch or kick down enemies, they will have to fight them in hand-to-hand combat. Enemies can also be grabbed, allowing players to either punch or arrest them. The latter can only be achieved if the SWAT member is holding a gun, and is achieved by pressing either the PUNCH or KICK button twice.
-
-When the SWAT members finally confront the crime boss, they will have to face him twice; first in the office and then on the rooftop. On the rooftop, he will be armed with swords and more difficult to hurt. After the boss is defeated for the second time, The President's daughter is rescued.
-
-From here-on the game takes a nod from Technos' legendary 1987 beat-em-up, "Double Dragon". If only one player completes the game, the girl simply says 'Thank You!' and the game ends. But if 2 players complete the game, the girl will announce that she wants one of the SWAT members to become her new bodyguard. The two players will then have to fight each other until one of them is defeated, with the winner becoming the girl's new bodyguard. If the timer expires before either player wins, the fight will be declared a draw and the girl will be undecided about which SWAT member she wants for her new bodyguard.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/diehard.png</image>
-		<video>./snap/diehard.mp4</video>
-		<marquee>./wheel/diehard.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Dynamite Deka</family>
-		<arcadesystemname>segastv</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>93658b8bf32a67ada2f2e16251f2fbe8</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CAD3473B945E311AC91559AA8049629B</cheevosHash>
-	</game>
 	<game>
 		<path>./dietgo.zip</path>
 		<name>Diet Go Go</name>
@@ -53980,23 +53949,6 @@ The other major change over the Street Fighter 2 series are the Alpha counters. 
 		<cheevosId>12274</cheevosId>
 	</game>
 	<game>
-		<path>./sfiii2.zip</path>
-		<name>Street Fighter III 2nd Impact: Giant Attack</name>
-		<desc>Street Fighter III - 2nd Impact: Giant Attack is the sequel to "Street Fighter III - New Generation". Joining the existing Street Fighter III cast are Hugo, Urien and recurring character Akuma (Gouki in the Japanese version). Other improvements include a speed increase, new moves and several damage-related tweaks.</desc>
-		<image>./mixart/sfiii2.png</image>
-		<video>./snap/sfiii2.mp4</video>
-		<marquee>./wheel/sfiii2.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A131FFA84DE530BCB6841D1D83B1AC9A</cheevosHash>
-	</game>
-	<game>
 		<path>./sfiii3.zip</path>
 		<name>Street Fighter III 3rd Strike: Fight for the Futur</name>
 		<desc>New characters Remy, Makoto, Q, and Twelve join the returning Street Fighter veteran Chun-Li and the existing "Street Fighter III - 2nd Impact: Giant Attack" cast in this third and final installment of Street Fighter III.</desc>
@@ -60118,30 +60070,6 @@ The player, controlling a tank, must destroy 20 enemy tanks in each level, which
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>69B13485F5205DEC40FA04D875DDBAD5</cheevosHash>
-	</game>
-	<game>
-		<path>./tapper.zip</path>
-		<name>Tapper</name>
-		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
-Cowboys
-Athletes
-Punk Rockers
-Aliens</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/tapper.png</image>
-		<video>./snap/tapper.mp4</video>
-		<marquee>./wheel/tapper.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Midway</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FC90E8404F7907342D5EAEB7068AC489</cheevosHash>
-		<cheevosId>15003</cheevosId>
 	</game>
 	<game id="43520">
 		<path>./targc.zip</path>
@@ -68425,23 +68353,6 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<cheevosHash>5CAAADF5ADFAE76FA3E965ECB4FB4196</cheevosHash>
 		<cheevosId>14880</cheevosId>
 	</game>
-	<game>
-		<path>./sf2ce.zip</path>
-		<name>Street Fighter II' : Champion Edition</name>
-		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
-		<image>./mixart/sf2ce.png</image>
-		<video>./snap/sf2ce.mp4</video>
-		<marquee>./wheel/sf2ce.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48165021FDB6D258A054008F3EE85BDF</cheevosHash>
-	</game>
 	<game id="41400">
 		<path>./rushatck.zip</path>
 		<name>Rush'n Attack</name>
@@ -69741,31 +69652,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=120248&
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A6BD441FCED74B5E9AFEAFA778542EA9</cheevosHash>
-	</game>
-	<game>
-		<path>./joust.zip</path>
-		<name>Joust</name>
-		<desc>Joust is a platform-based action combat game for one or two-players (with the two-player game offering either team-up OR head-to-head combat; the first time arcade gamers were given this choice) in which each player controls a knight riding on the back of a flying ostrich. 
-
-The object of the game is to progress through platform-based levels by defeating groups of buzzard-riding enemy knights. This is achieved by 'jousting'; both enemy and player knights carry a lance and must fly around the level (actioned by repeatedly hitting the 'Flap' button) trying to oust rival knights from their steeds by ramming them with the lance. This can only be achieved if the attacking rider is above the enemy knight when the lance connects. A collision of equal elevations results in the two knights bouncing off each other, but if a player is lower than their enemy at the instant of contact, they themselves will be knocked from their steed and lose a life. 
-
-A defeated enemy will turn into an egg that falls to the bottom of the screen. This must be quickly collected by players as if the egg lands on a platform and isn't retrieved in time, it will eventually hatch into another enemy knight that must be defeated again. 
-
-Joust features three different types of enemy knights - Bounder, Hunter, and Shadow Lord - with each earning players different points values when defeated. A pterodactyl will appear after a predetermined time to hunt the players. 
-
-Accurately navigating the player Knights can be initially quite difficult as control is strongly affected by both gravity and inertia. Players can lose a life by either being knocked from their steed by an enemy knight, or by falling into the lava pit at the bottom of each level.</desc>
-		<image>./mixart/joust.png</image>
-		<video>./snap/joust.mp4</video>
-		<marquee>./wheel/joust.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Williams</publisher>
-		<genre>Plateform / Run Jump-Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0E7217251D81ADFD48614DF6680043D4</cheevosHash>
 	</game>
 	<game>
 		<path>./rdft2.zip</path>
@@ -72908,5 +72794,119 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C4E4E7086E57D758C85B96D2E0375436</cheevosHash>
+	</game>
+	<game>
+		<path>./joust.zip</path>
+		<name>Joust</name>
+		<desc>Joust is a platform-based action combat game for one or two-players (with the two-player game offering either team-up OR head-to-head combat; the first time arcade gamers were given this choice) in which each player controls a knight riding on the back of a flying ostrich. 
+
+The object of the game is to progress through platform-based levels by defeating groups of buzzard-riding enemy knights. This is achieved by 'jousting'; both enemy and player knights carry a lance and must fly around the level (actioned by repeatedly hitting the 'Flap' button) trying to oust rival knights from their steeds by ramming them with the lance. This can only be achieved if the attacking rider is above the enemy knight when the lance connects. A collision of equal elevations results in the two knights bouncing off each other, but if a player is lower than their enemy at the instant of contact, they themselves will be knocked from their steed and lose a life. 
+
+A defeated enemy will turn into an egg that falls to the bottom of the screen. This must be quickly collected by players as if the egg lands on a platform and isn't retrieved in time, it will eventually hatch into another enemy knight that must be defeated again. 
+
+Joust features three different types of enemy knights - Bounder, Hunter, and Shadow Lord - with each earning players different points values when defeated. A pterodactyl will appear after a predetermined time to hunt the players. 
+
+Accurately navigating the player Knights can be initially quite difficult as control is strongly affected by both gravity and inertia. Players can lose a life by either being knocked from their steed by an enemy knight, or by falling into the lava pit at the bottom of each level.</desc>
+		<image>./mixart/joust.png</image>
+		<video>./snap/joust.mp4</video>
+		<marquee>./wheel/joust.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Williams</publisher>
+		<genre>Plateform / Run Jump-Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0E7217251D81ADFD48614DF6680043D4</cheevosHash>
+	</game>
+	<game>
+		<path>./sf2ce.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./mixart/sf2ce.png</image>
+		<video>./snap/sf2ce.mp4</video>
+		<marquee>./wheel/sf2ce.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48165021FDB6D258A054008F3EE85BDF</cheevosHash>
+	</game>
+	<game>
+		<path>./sfiii2.zip</path>
+		<name>Street Fighter III 2nd Impact: Giant Attack</name>
+		<desc>Street Fighter III - 2nd Impact: Giant Attack is the sequel to "Street Fighter III - New Generation". Joining the existing Street Fighter III cast are Hugo, Urien and recurring character Akuma (Gouki in the Japanese version). Other improvements include a speed increase, new moves and several damage-related tweaks.</desc>
+		<image>./mixart/sfiii2.png</image>
+		<video>./snap/sfiii2.mp4</video>
+		<marquee>./wheel/sfiii2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A131FFA84DE530BCB6841D1D83B1AC9A</cheevosHash>
+	</game>
+	<game>
+		<path>./tapper.zip</path>
+		<name>Tapper</name>
+		<desc>Taking on the role of an overworked bartender, the player must serve beer to the ever-thirsty patrons that populate his bar. All customers must be served before they work their way up to the beer kegs. Empty glasses must also be collected before they slide off the end of the bar and smash to the floor. Extra points are awarded for collecting tips, while bonus rounds involve locating the one beer that has not been shaken, and serving it. The game features four different levels:
+Cowboys
+Athletes
+Punk Rockers
+Aliens</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/tapper.png</image>
+		<video>./snap/tapper.mp4</video>
+		<marquee>./wheel/tapper.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Midway</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FC90E8404F7907342D5EAEB7068AC489</cheevosHash>
+		<cheevosId>15003</cheevosId>
+	</game>
+	<game id="37536">
+		<path>./diehard.zip</path>
+		<name>Die Hard Arcade</name>
+		<desc>A 3-D, side-scrolling beat them up for 1 or 2 players in which the president's daughter has been kidnapped by a terrorist organisation. Die Hard Arcade is based on the Bruce Willis movie of the same name, although the game's storyline is very different from that of the film's.
+
+Players take on the role of two SWAT team members who must fight their way through a terrorist-filled sky scraper to eventually reach and defeat the head of the terrorist organisation and rescue the President's daughter. Players must clear each area of all terrorists before they can progress to the next. The terrorists can be defeated by punching and kicking them until their health bars are depleted. In addition to hand-to-hand combat, players can also utilise various weapons and objects, including handguns, machine guns, missile launchers, anti-tank cannons, knives, sticks, fireaxes, spray cans, pepper shakers, steel pipes, brooms, bottles and, at one point, a grandfather clock.
+
+Ammunition magazines can be picked up to replace depleted ammo in hand guns and machine guns, and health units can also be found to heal any damage players have suffered. At various points in the game, a pre-set sequence will start in which players must either press the PUNCH, KICK or JUMP button, or move the joystick in a specific direction in order to successfully negotiate certain enemies or obstacles. If either of the SWAT members fail on any sequences where they are supposed to punch or kick down enemies, they will have to fight them in hand-to-hand combat. Enemies can also be grabbed, allowing players to either punch or arrest them. The latter can only be achieved if the SWAT member is holding a gun, and is achieved by pressing either the PUNCH or KICK button twice.
+
+When the SWAT members finally confront the crime boss, they will have to face him twice; first in the office and then on the rooftop. On the rooftop, he will be armed with swords and more difficult to hurt. After the boss is defeated for the second time, The President's daughter is rescued.
+
+From here-on the game takes a nod from Technos' legendary 1987 beat-em-up, "Double Dragon". If only one player completes the game, the girl simply says 'Thank You!' and the game ends. But if 2 players complete the game, the girl will announce that she wants one of the SWAT members to become her new bodyguard. The two players will then have to fight each other until one of them is defeated, with the winner becoming the girl's new bodyguard. If the timer expires before either player wins, the fight will be declared a draw and the girl will be undecided about which SWAT member she wants for her new bodyguard.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/diehard.png</image>
+		<video>./snap/diehard.mp4</video>
+		<marquee>./wheel/diehard.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Dynamite Deka</family>
+		<arcadesystemname>segastv</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>93658b8bf32a67ada2f2e16251f2fbe8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CAD3473B945E311AC91559AA8049629B</cheevosHash>
 	</game>
 </gameList>

@@ -4692,23 +4692,6 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<region>eu</region>
 		<genreid>257</genreid>
 	</game>
-	<game id="10591" source="ScreenScraper.fr">
-		<path>./We Wish You a Merry Christmas (USA).rvz</path>
-		<name>We Wish You A Merry Christmas</name>
-		<desc>We Wish You a Merry Christmas is a Christmas-centric budget title for Wii. The party game features 13 minigames to play including Candy Cane Lanes, Present Catch, and Elf Hunt. It also includes an in-game Advent calendar. The player can also write letters to Santa and sing Christmas Carols. Up to four players can join in on the game.</desc>
-		<image>./mixart/We Wish You a Merry Christmas (USA).png</image>
-		<video>./snap/We Wish You a Merry Christmas (USA).mp4</video>
-		<marquee>./wheel/We Wish You a Merry Christmas (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20111028T000000</releasedate>
-		<developer>Tradewest</developer>
-		<publisher>Funbox Media</publisher>
-		<genre>Casual Game</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>2304</genreid>
-	</game>
 	<game id="9169" source="ScreenScraper.fr">
 		<path>./WWE All Stars (USA) (En,Fr,Es).rvz</path>
 		<name>WWE All Stars</name>
@@ -5516,5 +5499,22 @@ Explore the Wuhu Islands with Wii Sports Resort, the sequel to the Wii launch ti
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<genreid>1538</genreid>
+	</game>
+	<game id="10591" source="ScreenScraper.fr">
+		<path>./We Wish You a Merry Christmas (USA).rvz</path>
+		<name>We Wish You A Merry Christmas</name>
+		<desc>We Wish You a Merry Christmas is a Christmas-centric budget title for Wii. The party game features 13 minigames to play including Candy Cane Lanes, Present Catch, and Elf Hunt. It also includes an in-game Advent calendar. The player can also write letters to Santa and sing Christmas Carols. Up to four players can join in on the game.</desc>
+		<image>./mixart/We Wish You a Merry Christmas (USA).png</image>
+		<video>./snap/We Wish You a Merry Christmas (USA).mp4</video>
+		<marquee>./wheel/We Wish You a Merry Christmas (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20111028T000000</releasedate>
+		<developer>Tradewest</developer>
+		<publisher>Funbox Media</publisher>
+		<genre>Casual Game</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>2304</genreid>
 	</game>
 </gameList>

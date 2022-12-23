@@ -421,21 +421,6 @@ The source code to the original Quake engine was released under the GPLv2 licens
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Jazz Jackrabbit.lnk</path>
-		<name>Jazz Jackrabbit OpenJAZZ</name>
-		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
-		<image>./mixart/Jazz Jackrabbit.png</image>
-		<video>./snap/Jazz Jackrabbit.mp4</video>
-		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20200101T000000</releasedate>
-		<developer>OpenSource</developer>
-		<publisher>OpenSource</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Quake.lnk</path>
 		<name>Quake</name>
 		<desc>Quake was a First Person Shooter series originally developed for the PC by Id Software. It is a successor to the Doom Series.
@@ -625,6 +610,21 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>Konami Arcade</publisher>
 		<genre>Action, Shoot 'Em Up</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Jazz Jackrabbit.lnk</path>
+		<name>Jazz Jackrabbit OpenJAZZ</name>
+		<desc>OpenJazz. is a free, open-source version of the classic Jazz Jackrabbit games. OpenJazz can compiled for RPI4 and looks great 1080p 3x scale, implemented and tested by VMAN!</desc>
+		<image>./mixart/Jazz Jackrabbit.png</image>
+		<video>./snap/Jazz Jackrabbit.mp4</video>
+		<marquee>./wheel/Jazz Jackrabbit.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>OpenSource</developer>
+		<publisher>OpenSource</publisher>
+		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

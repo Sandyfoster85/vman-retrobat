@@ -397,38 +397,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Maddog McCree.cmd</path>
-		<name>Maddog McCree</name>
-		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
-		<image>./mixart/Maddog McCree.png</image>
-		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Maddog McCree.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Blue Thunder.cmd</path>
-		<name>Blue Thunder</name>
-		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
-		<image>./mixart/Blue Thunder.png</image>
-		<video>./snap/Blue Thunder.mp4</video>
-		<marquee>./wheel/Blue Thunder.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sourcing International, Ltd.</developer>
-		<publisher>Worlds of Wonder, Inc.</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Crime Patrol 2 Drug Wars.cmd</path>
 		<name>Crime Patrol 2 : Drug Wars</name>
 		<desc>Crime Patrol 2 was a laserdisc game created by American Laser Games in 1993.  In this game, your mission is to apprehend Lopez the drug lord, take down his drug cartel, and destroy the lab where his drugs are processed.  Your mission will take you through Sierra County, Chicago, down to the Border, and then into South America.  Throughout your journey, you will come in contact with some of the most violent criminals in America.  Be prepared to shoot to kill.</desc>
@@ -472,6 +440,38 @@
 		<developer>Fan Made</developer>
 		<publisher>Fan Made</publisher>
 		<genre>Quick Time Event (QTE)</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Blue Thunder.cmd</path>
+		<name>Blue Thunder</name>
+		<desc>Get in your chopper and take out the bad guys in this action-packed game.</desc>
+		<image>./mixart/Blue Thunder.png</image>
+		<video>./snap/Blue Thunder.mp4</video>
+		<marquee>./wheel/Blue Thunder.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sourcing International, Ltd.</developer>
+		<publisher>Worlds of Wonder, Inc.</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maddog McCree.cmd</path>
+		<name>Maddog McCree</name>
+		<desc>Mad Dog McCree was a laserdisc game created by American Laser Games in 1990.  In this game, Mad Dog has taken over the town, locked up the sheriff in jail, and kidnapped the Mayor and his daughter.  You must make your way across town to get clues, while taking out anyone that gets in your way.  Get to Mad Dog's hide-out to save the Mayor and his daughter!</desc>
+		<image>./mixart/Maddog McCree.png</image>
+		<video>./content/Maddog_McCree_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Maddog McCree.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
