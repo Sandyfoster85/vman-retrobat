@@ -2675,30 +2675,6 @@ B=jumping and ducking less difficult</desc>
 		<players>1</players>
 		<cheevosHash>2BEE7F226D506C217163BAD4AB1768C0</cheevosHash>
 	</game>
-	<game id="107147" source="ScreenScraper.fr">
-		<path>./Gingerbread Man (USA) (Unl).zip</path>
-		<name>Gingerbread Man</name>
-		<desc>Unrefined sugar, flour, ginger and heat have combined magically to produce consciousness and mobility in a delicious culinary confection. You, a Gingerbread Man, find yourself baking in a gas-fired oven, and you must find a way out! Gingerbread Man is based loosely on the popular childrenâs story of the same name. And although this game is appropriate for children, itâs not childâs play!
-
-In Gingerbread Man you must fight your way through 20 levels consisting of five unique game-play screens, facing a variety of obstacles and challenges in order to survive! In the first level you begin in a hot oven where you must escape before being cooked alive! Once you break free from the oven, you find yourself in the dining room where you need to collect all of the balloons and float up to the roof through the chimney. Now that you're on the roof you must build a bridge to a nearby tree while fighting off cats and birds that want you for a tasty treat! Once in the tree, you need to evade all the dangerous creatures in the forest (will you ever get a break?) And if you do escape the forest, you enter a cave where you must fight off your most fearsome enemy yet!
-
-Once you defeat the boss, to your dismay you are captured again and put back in the oven too cook some more, and this time the heat has been turned up! Will you ever escape? Can you battle through 19 levels to have your chance to out-fox the final boss and win your freedom?
-
-Gingerbread Man includes three game variations:
-
-Selection 1 is the default.
-Selection 2 is expert mode.
-Selection 3 is a special mode for children.</desc>
-		<image>./mixart/Gingerbread Man (USA) (Unl).png</image>
-		<video>./snap/Gingerbread Man (USA) (Unl).mp4</video>
-		<marquee>./wheel/Gingerbread Man (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Fred Quimby</developer>
-		<publisher>AtariAge</publisher>
-		<genre>Platform</genre>
-		<cheevosHash>F303630A2D7316787AECD67FFF6B2E33</cheevosHash>
-	</game>
 	<game id="14089" source="ScreenScraper.fr">
 		<path>./Glacier Patrol (USA).zip</path>
 		<name>Glacier Patrol</name>
@@ -5877,18 +5853,6 @@ Watch out for Lefty O'Leary's brutal technique. Beware Jabbin' Jack's lightning 
 		<genre>Sports</genre>
 		<players>2</players>
 		<cheevosHash>AED0B7BD64CC384F85FDEA33E28DAF3B</cheevosHash>
-	</game>
-	<game id="51284" source="ScreenScraper.fr">
-		<path>./Reindeer Rescue (USA) (Unl).zip</path>
-		<name>Reindeer Rescue</name>
-		<image>./mixart/Reindeer Rescue (USA) (Unl).png</image>
-		<video>./snap/Reindeer Rescue (USA) (Unl).mp4</video>
-		<marquee>./wheel/Reindeer Rescue (USA) (Unl).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<publisher>AtariAge</publisher>
-		<genre>Action</genre>
-		<cheevosHash>8E512AD4506800458F99DEC084FC2C64</cheevosHash>
 	</game>
 	<game id="51285" source="ScreenScraper.fr">
 		<path>./Rescue Bira Bira (USA) (Unl).zip</path>
@@ -11844,5 +11808,41 @@ Adventure was the first action-adventure game on a video console, the first to c
 		<region>us</region>
 		<cheevosHash>157BDDB7192754A45372BE196797F284</cheevosHash>
 		<cheevosId>11778</cheevosId>
+	</game>
+	<game id="107147" source="ScreenScraper.fr">
+		<path>./Gingerbread Man (USA) (Unl).zip</path>
+		<name>Gingerbread Man</name>
+		<desc>Unrefined sugar, flour, ginger and heat have combined magically to produce consciousness and mobility in a delicious culinary confection. You, a Gingerbread Man, find yourself baking in a gas-fired oven, and you must find a way out! Gingerbread Man is based loosely on the popular childrenâs story of the same name. And although this game is appropriate for children, itâs not childâs play!
+
+In Gingerbread Man you must fight your way through 20 levels consisting of five unique game-play screens, facing a variety of obstacles and challenges in order to survive! In the first level you begin in a hot oven where you must escape before being cooked alive! Once you break free from the oven, you find yourself in the dining room where you need to collect all of the balloons and float up to the roof through the chimney. Now that you're on the roof you must build a bridge to a nearby tree while fighting off cats and birds that want you for a tasty treat! Once in the tree, you need to evade all the dangerous creatures in the forest (will you ever get a break?) And if you do escape the forest, you enter a cave where you must fight off your most fearsome enemy yet!
+
+Once you defeat the boss, to your dismay you are captured again and put back in the oven too cook some more, and this time the heat has been turned up! Will you ever escape? Can you battle through 19 levels to have your chance to out-fox the final boss and win your freedom?
+
+Gingerbread Man includes three game variations:
+
+Selection 1 is the default.
+Selection 2 is expert mode.
+Selection 3 is a special mode for children.</desc>
+		<image>./mixart/Gingerbread Man (USA) (Unl).png</image>
+		<video>./snap/Gingerbread Man (USA) (Unl).mp4</video>
+		<marquee>./wheel/Gingerbread Man (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Fred Quimby</developer>
+		<publisher>AtariAge</publisher>
+		<genre>Platform</genre>
+		<cheevosHash>F303630A2D7316787AECD67FFF6B2E33</cheevosHash>
+	</game>
+	<game id="51284" source="ScreenScraper.fr">
+		<path>./Reindeer Rescue (USA) (Unl).zip</path>
+		<name>Reindeer Rescue</name>
+		<image>./mixart/Reindeer Rescue (USA) (Unl).png</image>
+		<video>./snap/Reindeer Rescue (USA) (Unl).mp4</video>
+		<marquee>./wheel/Reindeer Rescue (USA) (Unl).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<publisher>AtariAge</publisher>
+		<genre>Action</genre>
+		<cheevosHash>8E512AD4506800458F99DEC084FC2C64</cheevosHash>
 	</game>
 </gameList>

@@ -350,19 +350,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Duke Nuclear Winter.lnk</path>
-		<name>Duke: Nuclear Winter</name>
-		<desc>This is an authorized add-on pack for Duke Nukem 3D. It adds 7 new maps to the game which put the player to North Pole. Here he must battle alien scum to help Santa Claus survive. The pack also adds new special arctic monsters and new artwork to the game.</desc>
-		<image>./mixart/Duke Nuclear Winter.png</image>
-		<video>./snap/Duke Nuclear Winter.mp4</video>
-		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
-		<rating>0.85</rating>
-		<releasedate />
-		<developer>WizardWorks</developer>
-		<publisher>WizardWorks</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Cannonball - OutRun Engine.lnk</path>
 		<name>CannonBall: The Enhanced OutRun</name>
 		<desc>Cannonball is an enhanced version of Sega’s classic 1986 game Outrun available for Windows, Mac OS, Linux, Pandora and Android. Although it requires the same ROMs that popular arcade emulators use to play the game,  this is no mere emulator. Cannonball is a complete re-write of the game engine which adds a variety of enhancements such as true widescreen support, high-resolution graphics with improved sprite scaling, several bug fixes, additional view modes and support for both analog and digital gamepads.</desc>
@@ -626,6 +613,19 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>OpenSource</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Duke Nuclear Winter.lnk</path>
+		<name>Duke: Nuclear Winter</name>
+		<desc>This is an authorized add-on pack for Duke Nukem 3D. It adds 7 new maps to the game which put the player to North Pole. Here he must battle alien scum to help Santa Claus survive. The pack also adds new special arctic monsters and new artwork to the game.</desc>
+		<image>./mixart/Duke Nuclear Winter.png</image>
+		<video>./snap/Duke Nuclear Winter.mp4</video>
+		<marquee>./wheel/Duke Nuclear Winter.png</marquee>
+		<rating>0.85</rating>
+		<releasedate></releasedate>
+		<developer>WizardWorks</developer>
+		<publisher>WizardWorks</publisher>
 		<lang>en</lang>
 	</game>
 </gameList>

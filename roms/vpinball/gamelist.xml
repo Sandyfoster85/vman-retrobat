@@ -977,21 +977,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ELF Pinball XL.vpx</path>
-		<name>ELF Pinball XL</name>
-		<desc>Flipper ELF Pinball XL</desc>
-		<image>./mixart/ELF Pinball XL.png</image>
-		<video>./snap/ELF Pinball XL.mp4</video>
-		<marquee>./wheel/ELF Pinball XL.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Escape from New York (1981).vpx</path>
 		<name>Escape from New York (1981)</name>
 		<desc>Flipper Escape from New York</desc>
@@ -2082,22 +2067,6 @@
 		<image>./mixart/Turrican (TBA 2018).png</image>
 		<video>./snap/Turrican (TBA 2018).mp4</video>
 		<marquee>./wheel/Turrican (TBA 2018).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Christmas Vacation.vpx</path>
-		<name>Christmas Vacation</name>
-		<desc>Flipper Christmas Vacation</desc>
-		<image>./mixart/Christmas Vacation.png</image>
-		<video>./snap/Christmas Vacation.mp4</video>
-		<marquee>./wheel/Christmas Vacation.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -7919,22 +7888,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.vpx</path>
-		<name>Christmas Pinball</name>
-		<desc>Flipper Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2</desc>
-		<image>./mixart/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.png</image>
-		<video>./snap/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.mp4</video>
-		<marquee>./wheel/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.png</marquee>
-		<rating>3</rating>
-		<releasedate>20221231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./JP's Avengers LE (Stern - 2012) v3.01.vpx</path>
 		<name>Avengers LE (Stern - 2012) v3.01</name>
 		<desc>Flipper JP's Avengers LE (Stern - 2012) v3.01</desc>
@@ -8268,6 +8221,53 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.vpx</path>
+		<name>Christmas Pinball</name>
+		<desc>Flipper Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2</desc>
+		<image>./mixart/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.png</image>
+		<video>./snap/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.mp4</video>
+		<marquee>./wheel/Christmas Pinball (Arkon 1980) MOD v4.1 VPX7.2.png</marquee>
+		<rating>3</rating>
+		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Christmas Vacation.vpx</path>
+		<name>Christmas Vacation</name>
+		<desc>Flipper Christmas Vacation</desc>
+		<image>./mixart/Christmas Vacation.png</image>
+		<video>./snap/Christmas Vacation.mp4</video>
+		<marquee>./wheel/Christmas Vacation.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ELF Pinball XL.vpx</path>
+		<name>ELF Pinball XL</name>
+		<desc>Flipper ELF Pinball XL</desc>
+		<image>./mixart/ELF Pinball XL.png</image>
+		<video>./snap/ELF Pinball XL.mp4</video>
+		<marquee>./wheel/ELF Pinball XL.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Tiki Bob's Swingin' Holiday Soiree (Original Theme)1.1.vpx</path>
 		<name>Tiki Bob's Swingin' Holiday Party</name>
 		<desc>Flipper Tiki Bob's Swingin' Holiday Soiree (Original Theme)1.1</desc>
@@ -8277,9 +8277,25 @@
 		<rating>3</rating>
 		<releasedate>20220924T000000</releasedate>
 		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Game of Thrones LE (Stern 2015) VPW v1.0.1.vpx</path>
+		<name>Game of Thrones LE (Stern 2015)</name>
+		<desc>Flipper Game of Thrones LE (Stern 2015) VPW v1.0.1</desc>
+		<image>./mixart/Game of Thrones LE (Stern 2015) VPW v1.0.1.png</image>
+		<video>./snap/Game of Thrones LE (Stern 2015) VPW v1.0.1.mp4</video>
+		<marquee>./wheel/Game of Thrones LE (Stern 2015) VPW v1.0.1.png</marquee>
+		<rating>3</rating>
+		<releasedate>20220924T000000</releasedate>
+		<developer>FanMade</developer>
 		<publisher>Stern</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

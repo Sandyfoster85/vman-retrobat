@@ -2370,23 +2370,6 @@ Also included are various alternative missions, ranging from the protagonist sne
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="137516">
-		<path>./Outlaw Golf - Holiday Golf (USA).xiso.iso</path>
-		<name>Outlaw Golf : 9 Holes Of X-Mas</name>
-		<desc>It's the holidays and here are 9 all-new holes for the holidays. A small taste of Outlaw Golf but on slippery slopes, frozen greens, and other cold wintery conditions to challenge you on these courses.</desc>
-		<image>./mixart/Outlaw Golf - Holiday Golf (USA).xiso.png</image>
-		<video>./snap/Outlaw Golf - Holiday Golf (USA).xiso.mp4</video>
-		<marquee>./wheel/Outlaw Golf - Holiday Golf (USA).xiso.png</marquee>
-		<rating>0</rating>
-		<releasedate>20021213T000000</releasedate>
-		<developer>Hypnotix</developer>
-		<publisher>Simon &amp; Schuster Interactive</publisher>
-		<genre>Sports / Golf</genre>
-		<family>Outlaw Golf</family>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="204038">
 		<path>./Outlaw Volleyball - Red Hot (USA).xiso.iso</path>
 		<name>Outlaw Volleyball : Red Hot</name>
@@ -3283,23 +3266,6 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./The Bible Game.iso</path>
-		<name>The Bible Game</name>
-		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
-		<image>./mixart/The Bible Game.jpg</image>
-		<video>./snap/The Bible Game.mp4</video>
-		<marquee>./wheel/The Bible Game.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20051018T000000</releasedate>
-		<developer>Mass Media, Inc.</developer>
-		<publisher>Crave Entertainment</publisher>
-		<genre>Strategy</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./TaoFang - Fist of the Lotus.iso</path>
 		<name>Tao Feng: Fist of the Lotus</name>
 		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
@@ -3892,6 +3858,40 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<genre>Shooter</genre>
 		<players>16</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="137516">
+		<path>./Outlaw Golf - Holiday Golf (USA).xiso.iso</path>
+		<name>Outlaw Golf : 9 Holes Of X-Mas</name>
+		<desc>It's the holidays and here are 9 all-new holes for the holidays. A small taste of Outlaw Golf but on slippery slopes, frozen greens, and other cold wintery conditions to challenge you on these courses.</desc>
+		<image>./mixart/Outlaw Golf - Holiday Golf (USA).xiso.png</image>
+		<video>./snap/Outlaw Golf - Holiday Golf (USA).xiso.mp4</video>
+		<marquee>./wheel/Outlaw Golf - Holiday Golf (USA).xiso.png</marquee>
+		<rating>0</rating>
+		<releasedate>20021213T000000</releasedate>
+		<developer>Hypnotix</developer>
+		<publisher>Simon &amp; Schuster Interactive</publisher>
+		<genre>Sports / Golf</genre>
+		<family>Outlaw Golf</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./The Bible Game.iso</path>
+		<name>The Bible Game</name>
+		<desc>A trivia game to test gamers' biblical knowledge, The Bible Game casts players as contestants on a game show with fast-paced, "beat the buzzer" action and a comical off-screen announcer as emcee. 20 mini- and micro-games with 1,500 questions reinforce inspirational Old Testament teachings such as Jonah and the Whale, David and Goliath, The Tower of Babel, and many more. Multiplayer mode for up to 4 players encourages family members of all ages to play together, and provides a fun alternative for family game nights.</desc>
+		<image>./mixart/The Bible Game.jpg</image>
+		<video>./snap/The Bible Game.mp4</video>
+		<marquee>./wheel/The Bible Game.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20051018T000000</releasedate>
+		<developer>Mass Media, Inc.</developer>
+		<publisher>Crave Entertainment</publisher>
+		<genre>Strategy</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

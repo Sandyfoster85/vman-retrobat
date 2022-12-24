@@ -55867,34 +55867,6 @@ Before entering the Grand Prix, a qualification lap had to be completed. In the 
 		<cheevosHash>BD145AEC7B739A9CC1633D3C2415EAF1</cheevosHash>
 	</game>
 	<game>
-		<path>./snowbros.zip</path>
-		<name>Snow Bros. - Nick &amp; Tom</name>
-		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
-
-The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
-
-If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
-
-When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
-Yellow = Long shot
-Red = Speed up
-Blue = Bigger snowballs (encases monsters quicker)
-Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
-
-Every 10th level features a battle with a large end-of-level boss.</desc>
-		<image>./mixart/snowbros.png</image>
-		<video>./snap/snowbros.mp4</video>
-		<marquee>./wheel/snowbros.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<publisher>Toaplan</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>209CE030A7F237FB382D0E0F33B1A7BD</cheevosHash>
-	</game>
-	<game>
 		<path>./socbrawl.zip</path>
 		<name>Soccer Brawl</name>
 		<desc>The Cybernetic players use special kick shots and built-in arm phasers to destroy other players. Make sure your power meter is FULL when exercising these brutal tactics. Both stadiums, which are magnetically enclosed, enable you to kick or pass... off the wall! There are no fouls in this league, so watch your back or you'll get pulverized by the opposing team! You'll find here the most advanced sport in the world of soccer... SOCCER BRAWL!</desc>
@@ -72582,32 +72554,6 @@ Special items that reveal coins, upgraded armour, or simply bonus points can be 
 		<cheevosHash>252AA4364F77DBFC12CB50006D3CE713</cheevosHash>
 	</game>
 	<game>
-		<path>./btoads.zip</path>
-		<name>Battletoads</name>
-		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
-
-The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
-
-In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
-
-The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/btoads.png</image>
-		<video>./snap/btoads.mp4</video>
-		<marquee>./wheel/btoads.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Fight-Fight / 2.5D</genre>
-		<players>3</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
-	</game>
-	<game>
 		<path>./cphd.zip</path>
 		<name>'H'Crouching Pony Hidden Dragon</name>
 		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
@@ -72878,6 +72824,32 @@ Aliens</desc>
 		<cheevosHash>FC90E8404F7907342D5EAEB7068AC489</cheevosHash>
 		<cheevosId>15003</cheevosId>
 	</game>
+	<game>
+		<path>./btoads.zip</path>
+		<name>Battletoads</name>
+		<desc>Battletoads is a (mostly) horizontally-scrolling beat-em-up in which up to three players take on the roles of Rash, Pimple, or Zitz and must punch and kick their way through six enemy-infested stages to save their alternate universe from the Dark Queen.
+
+The Toads each vary in fighting style: Rash is nimble, Pimple is burly and strong, and Zitz is a balance of the two. Each Toad also has its own signature exaggerated power and attack, in which their limbs turn into objects such as axes and drills.
+
+In a visually unique twist, the Toads can knock the game's enemies 'off-screen' so that they appear to fly towards the players, breaking the fourth wall. Enemies include aliens, mutant rodents and snowmen.
+
+The game's stages, in addition to having their own unique visual theme, often differ in gameplay style. Some levels are Double Dragon-style 2.5D brawlers, while others are strictly two-dimensional, platform-like stages. In one level, the Toads wear jet-packs and descend a tunnel and in the final level, the Toads shoot enemies from a vehicle.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/btoads.png</image>
+		<video>./snap/btoads.mp4</video>
+		<marquee>./wheel/btoads.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Fight-Fight / 2.5D</genre>
+		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7056D1ADF36953AE1BE0439E9E8B988A</cheevosHash>
+	</game>
 	<game id="37536">
 		<path>./diehard.zip</path>
 		<name>Die Hard Arcade</name>
@@ -72908,5 +72880,33 @@ From here-on the game takes a nod from Technos' legendary 1987 beat-em-up, "Doub
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CAD3473B945E311AC91559AA8049629B</cheevosHash>
+	</game>
+	<game>
+		<path>./snowbros.zip</path>
+		<name>Snow Bros. - Nick &amp; Tom</name>
+		<desc>One or two players take on the roles of snowmen Nick and Tom as they battle a variety of monsters over fifty platform-based, single screen levels. 
+
+The snowmen can throw snowballs at the enemies with the aim of encasing them completely in snow. The encased enemies can then be kicked in order to destroy them and this is achieved by standing next to the snowball and pressing the "kick out" button. This sends the giant snowball flying around the screen, killing any enemies that lay in its path. 
+
+If players take too much time to complete a stage, an evil pumpkin head will appear and try to kill them. The pumpkin is invincible but can be stunned with snowballs. After a short time the evil pumpkin will spawn ghosts that can travel freely around the stage as they seek out Nick and Tom. These ghosts can't be killed or stunned, so the player's only hope is to avoid them while eliminating the remaining standard enemies, to move on to the next screen as soon as possible.
+
+When players defeat an enemy, it may drop a coloured potion bottle. These can be picked up and act as power-ups:
+Yellow = Long shot
+Red = Speed up
+Blue = Bigger snowballs (encases monsters quicker)
+Green = Inflates the players like a balloon and lets them fly around the screen, killing any monsters they touch.
+
+Every 10th level features a battle with a large end-of-level boss.</desc>
+		<image>./mixart/snowbros.png</image>
+		<video>./snap/snowbros.mp4</video>
+		<marquee>./wheel/snowbros.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<publisher>Toaplan</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>209CE030A7F237FB382D0E0F33B1A7BD</cheevosHash>
 	</game>
 </gameList>

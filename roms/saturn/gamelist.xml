@@ -5218,24 +5218,6 @@
 		<cheevosHash>6FC3D526F2480AE335A0ABA97A6159A2</cheevosHash>
 	</game>
 	<game>
-		<path>./Christmas NiGHTS (USA).chd</path>
-		<name>Christmas NiGHTS into Dreams...</name>
-		<desc>Christmas NiGHTS into Dreams is a one level themed "demo" of NiGHTS into Dreams. It was originally released in November 1996 for the Sega Saturn.nnDue to its freebie nature, Christmas NiGHTS is a much smaller game than NiGHTS into Dreams - there is only one level (Spring Valley - almost identical to the level seen in regular NiGHTS) however unlike the original it is playable as Elliot as well as Claris. When playing as Elliot the stage is mirrored.nnChristmas NiGHTS is Christmas-themed, and so its graphics and music have been replaced with winter-esque versions of the original stage (but only in winter). For example, Ideya Captures are now giant floating Christmas trees, and NiGHTS wears red attire rather than purple. Gameplay is largely identical to the original game, including the A-Life system altered by defeating enemies.</desc>
-		<emulator>libretro</emulator>
-		<core>kronos</core>
-		<image>./mixart/Christmas NiGHTS (USA).png</image>
-		<video>./snap/Christmas NiGHTS (USA).mp4</video>
-		<marquee>./wheel/Christmas NiGHTS (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19961212T000000</releasedate>
-		<developer>Sonic Team</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F3349305B47DEC32EB9B6B2416F5382E</cheevosHash>
-	</game>
-	<game>
 		<path>./Chaos Control (Europe).chd</path>
 		<name>Chaos Control</name>
 		<desc>Chaos Control has seen three separate releases on the Saturn. Its original Japanese incarnation, Chaos Control was released in December 1995 to mixed views from critics. When brought to Europe in 1996, many of the underlying issues were addressed, leading to faster load times, improved graphics and cutscenes, and support for the Virtua Gun. It was then re-released in Japan as Chaos Control Remix in November of that year. No versions of the game were ever released in North America.</desc>
@@ -5407,5 +5389,23 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D3681AA093345CFE78CDBE34F69C87B8</cheevosHash>
+	</game>
+	<game>
+		<path>./Christmas NiGHTS (USA).chd</path>
+		<name>Christmas NiGHTS into Dreams...</name>
+		<desc>Christmas NiGHTS into Dreams is a one level themed "demo" of NiGHTS into Dreams. It was originally released in November 1996 for the Sega Saturn.nnDue to its freebie nature, Christmas NiGHTS is a much smaller game than NiGHTS into Dreams - there is only one level (Spring Valley - almost identical to the level seen in regular NiGHTS) however unlike the original it is playable as Elliot as well as Claris. When playing as Elliot the stage is mirrored.nnChristmas NiGHTS is Christmas-themed, and so its graphics and music have been replaced with winter-esque versions of the original stage (but only in winter). For example, Ideya Captures are now giant floating Christmas trees, and NiGHTS wears red attire rather than purple. Gameplay is largely identical to the original game, including the A-Life system altered by defeating enemies.</desc>
+		<emulator>libretro</emulator>
+		<core>kronos</core>
+		<image>./mixart/Christmas NiGHTS (USA).png</image>
+		<video>./snap/Christmas NiGHTS (USA).mp4</video>
+		<marquee>./wheel/Christmas NiGHTS (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19961212T000000</releasedate>
+		<developer>Sonic Team</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F3349305B47DEC32EB9B6B2416F5382E</cheevosHash>
 	</game>
 </gameList>

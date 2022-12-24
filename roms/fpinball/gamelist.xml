@@ -930,21 +930,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Die Hard (Original) (Physics 2.5).fpt</path>
-		<name>Die Hard (Original) (Physics 2.5)</name>
-		<desc>Flipper Die Hard (Original) (Physics 2.5)</desc>
-		<image>./mixart/Die Hard (Original) (Physics 2.5).jpg</image>
-		<video>./snap/Die Hard (Original) (Physics 2.5).mp4</video>
-		<marquee>./wheel/Die Hard (Original) (Physics 2.5).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dredd.fpt</path>
 		<name>Dredd</name>
 		<desc>Flipper Dredd</desc>
@@ -1311,22 +1296,6 @@
 		<image>./mixart/Harlem Globetrotters MOD 2.0.png</image>
 		<video>./snap/Harlem Globetrotters MOD 2.0.mp4</video>
 		<marquee>./wheel/Harlem Globetrotters MOD 2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./HomeAlone 2_V1.0.fpt</path>
-		<name>HomeAlone 2</name>
-		<desc>Flipper HomeAlone 2</desc>
-		<image>./mixart/HomeAlone 2_V1.0.jpg</image>
-		<video>./snap/HomeAlone 2_V1.0.mp4</video>
-		<marquee>./wheel/HomeAlone 2_V1.0.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -3861,21 +3830,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./SILENT NIGHT DEADLY NIGHT.fpt</path>
-		<name>SILENT NIGHT DEADLY NIGHT</name>
-		<desc>Flipper SILENT NIGHT DEADLY NIGHT</desc>
-		<image>./mixart/SILENT NIGHT DEADLY NIGHT.png</image>
-		<video>./snap/SILENT NIGHT DEADLY NIGHT.mp4</video>
-		<marquee>./wheel/SILENT NIGHT DEADLY NIGHT.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sinbad_V120.fpt</path>
 		<name>Sinbad</name>
 		<desc>Flipper Sinbad_V120</desc>
@@ -5047,6 +5001,52 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Die Hard (Original) (Physics 2.5).fpt</path>
+		<name>Die Hard (Original) (Physics 2.5)</name>
+		<desc>Flipper Die Hard (Original) (Physics 2.5)</desc>
+		<image>./mixart/Die Hard (Original) (Physics 2.5).jpg</image>
+		<video>./snap/Die Hard (Original) (Physics 2.5).mp4</video>
+		<marquee>./wheel/Die Hard (Original) (Physics 2.5).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./HomeAlone 2_V1.0.fpt</path>
+		<name>HomeAlone 2</name>
+		<desc>Flipper HomeAlone 2</desc>
+		<image>./mixart/HomeAlone 2_V1.0.jpg</image>
+		<video>./snap/HomeAlone 2_V1.0.mp4</video>
+		<marquee>./wheel/HomeAlone 2_V1.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./SILENT NIGHT DEADLY NIGHT.fpt</path>
+		<name>SILENT NIGHT DEADLY NIGHT</name>
+		<desc>Flipper SILENT NIGHT DEADLY NIGHT</desc>
+		<image>./mixart/SILENT NIGHT DEADLY NIGHT.png</image>
+		<video>./snap/SILENT NIGHT DEADLY NIGHT.mp4</video>
+		<marquee>./wheel/SILENT NIGHT DEADLY NIGHT.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

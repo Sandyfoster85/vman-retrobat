@@ -3981,20 +3981,6 @@ This title adds numerous features over the original such as the ability of build
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Skyroads Xmas Special.pc</path>
-		<name>SkyRoads Xmas Special</name>
-		<desc>This Special edition of SkyRoads features 3 new worlds for Christmas and one for a training course to its existing worlds. However by this addition you will not able to play Satellite, Into The Sun, Asteroid Belt and The Earth again.</desc>
-		<image>./mixart/Skyroads Xmas Special.png</image>
-		<video>./Snap/Skyroads xmas.mp4</video>
-		<marquee>./wheel/Skyroads Xmas.jpg</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Bluemoon Interactive</developer>
-		<publisher>Creative Dimensions</publisher>
-		<genre>Simulation</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Skyroads.pc</path>
 		<name>Skyroads</name>
 		<desc>Pilot your starglider on a ''road'' through space, avoiding obstacles and holes along the way, and without running out of fuel or oxygen. Full version includes 30 roads in 10 areas.</desc>
@@ -7105,6 +7091,20 @@ Each table has up to four flippers, giving the player the possibility to control
 		<developer>Delphine Software International</developer>
 		<publisher>Strategic Simulations</publisher>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Skyroads Xmas Special.pc</path>
+		<name>SkyRoads Xmas Special</name>
+		<desc>This Special edition of SkyRoads features 3 new worlds for Christmas and one for a training course to its existing worlds. However by this addition you will not able to play Satellite, Into The Sun, Asteroid Belt and The Earth again.</desc>
+		<image>./mixart/Skyroads Xmas Special.png</image>
+		<video>./Snap/Skyroads xmas.mp4</video>
+		<marquee>./wheel/Skyroads Xmas.jpg</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Bluemoon Interactive</developer>
+		<publisher>Creative Dimensions</publisher>
+		<genre>Simulation</genre>
 		<lang>en</lang>
 	</game>
 </gameList>
