@@ -29770,23 +29770,6 @@ At the end of each area (level) you'll have to fight the area boss. Area bosses 
 		<cheevosHash>049E3F53884EA5650D1DBF43751EA965</cheevosHash>
 		<cheevosId>2103</cheevosId>
 	</game>
-	<game>
-		<path>./Zelda II - The Adventure of Link (USA).zip</path>
-		<name>Zelda II: The Adventure of Link</name>
-		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
-		<image>./mixart/Zelda II - The Adventure of Link (USA).png</image>
-		<video>./snap/Zelda II - The Adventure of Link (USA).mp4</video>
-		<marquee>./wheel/Zelda II - The Adventure of Link (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19881201T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Action / Adventure</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>88C0493FB1146834836C0FF4F3E06E45</cheevosHash>
-		<cheevosId>1453</cheevosId>
-	</game>
 	<game id="1860" source="ScreenScraper.fr">
 		<path>./Zen - Intergalactic Ninja (USA).zip</path>
 		<name>Zen Intergalactic Ninja</name>
@@ -30623,5 +30606,23 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
+	</game>
+	<game>
+		<path>./Zelda II - The Adventure of Link (USA).zip</path>
+		<name>Zelda II: The Adventure of Link</name>
+		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
+		<image>./mixart/Zelda II - The Adventure of Link (USA).png</image>
+		<video>./snap/Zelda II - The Adventure of Link (USA).mp4</video>
+		<marquee>./wheel/Zelda II - The Adventure of Link (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action / Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>88C0493FB1146834836C0FF4F3E06E45</cheevosHash>
+		<cheevosId>1453</cheevosId>
 	</game>
 </gameList>

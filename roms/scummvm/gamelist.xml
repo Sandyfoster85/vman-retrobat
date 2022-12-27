@@ -1318,20 +1318,6 @@ TouchÃ©: The Adventures of the Fifth Musketeer is a humorous, inventory-based 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Voyeur (CD DOS).svm/Voyeur.scummvm</path>
-		<name>Voyeur</name>
-		<desc>Reed Hawke is the CEO of a powerful corporation known as Hawke Industries. He has gathered his extended family together for a weekend, preparing for an official announcement that he will be competing in the election for the President of the United States.</desc>
-		<image>./mixart/voyeur.png</image>
-		<video>./snap/voyeur.mp4</video>
-		<marquee>./wheel/voyeur.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<developer>Entertainment Software Partners</developer>
-		<publisher>Interplay Productions</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Waxworks (Amiga).svm/Waxworks.scummvm</path>
 		<name>Waxworks</name>
 		<desc>Twenty years after your twin brother Alex disappeared into the mine tunnels beneath Vista Forge, you discover that not only is he still alive, but he's been possessed and has plans to unleash on the world the horror of undead villains culled from history.</desc>
@@ -1486,20 +1472,6 @@ Join young Adam and Delphineus the dolphin as they brave the terrors of toxic wa
 		<marquee>./wheel/pq1sci.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>19920101T000000</releasedate>
-		<developer>Sierra</developer>
-		<publisher>Sierra</publisher>
-		<genre>Point and Click-Adventure</genre>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./sq2.svm/Space Quest 2 - Vohaul's Revenge.scummvm</path>
-		<name>Space Quest 2 - Vohaul's Revenge</name>
-		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
-		<image>./mixart/sq2.png</image>
-		<video>./snap/sq2.mp4</video>
-		<marquee>./wheel/sq2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
 		<developer>Sierra</developer>
 		<publisher>Sierra</publisher>
 		<genre>Point and Click-Adventure</genre>
@@ -1767,6 +1739,36 @@ Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of r
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Full Throttle (CD DOS).svm/Full Throttle.scummvm</path>
+		<name>Full Throttle</name>
+		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
+		<image>./mixart/ft.png</image>
+		<video>./snap/ft.mp4</video>
+		<marquee>./wheel/ft.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950430T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./sq2.svm/Space Quest 2 - Vohaul's Revenge.scummvm</path>
+		<name>Space Quest 2 - Vohaul's Revenge</name>
+		<desc>The ace janitor Roger Wilco thought he'd seen the last of Sludge Vohaul. However, like every evil scientist is supposed to, Vohaul returns with an even meaner scheme. This time he intends to infest the planet Xenon with thousands of genetically engineered door-to-door life insurance salesmen. The last thing he wants is Roger messing things up, and so the brave janitor is captured and brought to the planet Labion to spend the rest of his days working in Vohaul's mines. Fortunately, the shuttle that takes him to the mines crashes, and Roger is the only survivor. He will have to survive the dangers of the jungle planet Labion, and eventually stop Vohaul from executing his mad plan.</desc>
+		<emulator>scummvm</emulator>
+		<image>./mixart/sq2.png</image>
+		<video>./snap/sq2.mp4</video>
+		<marquee>./wheel/sq2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Point and Click-Adventure</genre>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./bladerunner-win.svm/Blade Runner.scummvm</path>
 		<name>Blade Runner</name>
 		<desc>Set in 2019 Los Angeles, the game tells the story of Ray McCoy, an elite detective charged with hunting down a group of dangerous replicants (bioengineered androids designed to look and act like humans). Although several of the film's characters appear in the game, with some of the original actors returning to voice them, the film's protagonist, Rick Deckard, does not appear in a speaking role. Instead, he is referred to on multiple occasions, is seen several times, and his activities as depicted in the film are mentioned. Other parallels with the film include the reproduction of several prominent locations, as well as scenes and dialogue closely modelled on the original. The game also features extracts from the film's soundtrack.</desc>
@@ -1798,18 +1800,17 @@ Full to the brim with Hitchhiker-type humour, it puts the threadbare fabric of r
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Full Throttle (CD DOS).svm/Full Throttle.scummvm</path>
-		<name>Full Throttle</name>
-		<desc>One minute you're on the road, riding. Not a care in the world. Then some guy in a suit comes along, says he's got a deal for you and your gang. But when you come to, you've got a lump on your head, the law on your back, and a feeling in your gut that the road you're on is about to get a lot rougher...</desc>
-		<image>./mixart/ft.png</image>
-		<video>./snap/ft.mp4</video>
-		<marquee>./wheel/ft.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950430T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
+		<path>./Voyeur (CD DOS).svm/Voyeur.scummvm</path>
+		<name>Voyeur</name>
+		<desc>Reed Hawke is the CEO of a powerful corporation known as Hawke Industries. He has gathered his extended family together for a weekend, preparing for an official announcement that he will be competing in the election for the President of the United States.</desc>
+		<image>./mixart/voyeur.png</image>
+		<video>./snap/voyeur.mp4</video>
+		<marquee>./wheel/voyeur.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<developer>Entertainment Software Partners</developer>
+		<publisher>Interplay Productions</publisher>
 		<genre>Point and Click-Adventure</genre>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

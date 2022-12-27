@@ -644,26 +644,6 @@ The game used an overhead view for physical combat, and a third person "POV" whe
 		<cheevosId>4748</cheevosId>
 	</game>
 	<game>
-		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
-		<name>Shinobi III : Return of the Ninja Master</name>
-		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
-
-In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
-		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
-		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
-		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930822T000000</releasedate>
-		<developer>Megasoft</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
-		<cheevosId>64</cheevosId>
-	</game>
-	<game>
 		<path>./T2 - Terminator 2 - Judgment Day (USA, Europe).7z</path>
 		<name>T2 : Terminator 2, Judgment Day</name>
 		<desc>The game consists of several actions parts linked together. All parts are different, each resembling typical games of the genre (for example: 1st level is like a side-view beat 'em up). Between each level a small cutscene from the movie is shown.</desc>
@@ -2594,28 +2574,6 @@ Recruit killer companions like the DragonFrye, Ball O'Fire, Thunder Raven and Bo
 		<cheevosHash>77BE06102101759F30B416D80872C8DA</cheevosHash>
 		<cheevosId>39</cheevosId>
 	</game>
-	<game id="15" source="ScreenScraper.fr">
-		<path>./Altered Beast (USA, Europe).7z</path>
-		<name>Altered Beast</name>
-		<desc>In this coin-op conversion, you are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With a scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.
-
-The title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.
-
-The game can be played in singleplayer mode, or in same-screen multiplayer co-op mode.</desc>
-		<image>./mixart/Altered Beast (USA, Europe).png</image>
-		<video>./snap/Altered Beast (USA, Europe).mp4</video>
-		<marquee>./wheel/Altered Beast (USA, Europe).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19890814T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>2ED5293E46ABE1E74EDEB96DA0E7A618</cheevosHash>
-		<cheevosId>24</cheevosId>
-	</game>
 	<game id="512" source="ScreenScraper.fr">
 		<path>./American Gladiators (USA).7z</path>
 		<name>American Gladiators</name>
@@ -3234,33 +3192,6 @@ The game has 9 different stages. The player can play the first six (mountain,har
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3593E0995AA5AC87BF54E54DA56E4631</cheevosHash>
-	</game>
-	<game id="82" source="ScreenScraper.fr">
-		<path>./Shadow Dancer - The Secret of Shinobi (World).7z</path>
-		<name>Shadow Dancer : The Secret of Shinobi</name>
-		<desc>A.D. 1997, New York City
-
-Having vanquished the evil crime empire, Neo Zeed, the ninja master Shinobi and his combat ninja skills were not heard from for some time. But a new threat arose, in a reptilian form that lived on vicious instinct alone. The colossal monster moved slowly and quietly, and its attack was relentless. The souls unfortunate enough to survive became hostages, and mass panic swept the streets.
-
-It remained only for Shinobi to take action. His weapons were stealth and quickness of attack, his only allies facing overwhelming forces. Relying on Ninja weapons and magic, Shinobi fought on, assisted by his faithful dog.
-
-Shadow Dancer: The Secret of Shinobi is similar to Shadow Dancer for home computers, and consists of five missions containing three stages each. However, there are a few differences between the two. For example, in this Sega Genesis/Mega Drive exclusive, the stages are different, and you rescue hostages rather than disarm bombs.  Each mission ends up with you fighting a boss, and when you defeat each (except the final one), you also participate in a bonus stage where you must shoot all ninja flying towards you.
-
-Some of the enemies are also quite different. Some of the lizards, which appear in later missions,  leave a "lizard coin", which you can collect for bonus lives.</desc>
-		<image>./mixart/Shadow Dancer - The Secret of Shinobi (World).png</image>
-		<video>./snap/Shadow Dancer - The Secret of Shinobi (World).mp4</video>
-		<marquee>./wheel/Shadow Dancer - The Secret of Shinobi (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>1F2A9F322E770BE0A3CC2AABDF8BC575</cheevosHash>
-		<cheevosId>98</cheevosId>
 	</game>
 	<game id="246" source="ScreenScraper.fr">
 		<path>./Shadow of the Beast (USA, Europe).7z</path>
@@ -16362,5 +16293,74 @@ There are changes in both graphics (characters now are bigger, more detailed and
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>2D24E59DB6939E0A320310E4004F8097</cheevosHash>
+	</game>
+	<game id="15" source="ScreenScraper.fr">
+		<path>./Altered Beast (USA, Europe).7z</path>
+		<name>Altered Beast</name>
+		<desc>In this coin-op conversion, you are a hero raised from the dead by the god Zeus to rescue his daughter Athena. With a scenery inspired by Ancient Greece, you have to fight hordes of undead and demons, with a boss at the end of each level until you meet the god Neff, who holds the girl captive.
+
+The title refers to your shapeshifting abilities. In this platformer, you can collect spirit balls by defeating two-headed wolves, allowing you to mutate into different beasts such as a werewolf, a dragon, a tiger, a bear and others depending on the version. Each form, tied to a level, comes with special abilities such as flight and powerful attacks, easily superseding the basic set of punches and kicks in your human form.
+
+The game can be played in singleplayer mode, or in same-screen multiplayer co-op mode.</desc>
+		<image>./mixart/Altered Beast (USA, Europe).png</image>
+		<video>./snap/Altered Beast (USA, Europe).mp4</video>
+		<marquee>./wheel/Altered Beast (USA, Europe).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19890814T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>2ED5293E46ABE1E74EDEB96DA0E7A618</cheevosHash>
+		<cheevosId>24</cheevosId>
+	</game>
+	<game id="82" source="ScreenScraper.fr">
+		<path>./Shadow Dancer - The Secret of Shinobi (World).7z</path>
+		<name>Shadow Dancer : The Secret of Shinobi</name>
+		<desc>A.D. 1997, New York City
+
+Having vanquished the evil crime empire, Neo Zeed, the ninja master Shinobi and his combat ninja skills were not heard from for some time. But a new threat arose, in a reptilian form that lived on vicious instinct alone. The colossal monster moved slowly and quietly, and its attack was relentless. The souls unfortunate enough to survive became hostages, and mass panic swept the streets.
+
+It remained only for Shinobi to take action. His weapons were stealth and quickness of attack, his only allies facing overwhelming forces. Relying on Ninja weapons and magic, Shinobi fought on, assisted by his faithful dog.
+
+Shadow Dancer: The Secret of Shinobi is similar to Shadow Dancer for home computers, and consists of five missions containing three stages each. However, there are a few differences between the two. For example, in this Sega Genesis/Mega Drive exclusive, the stages are different, and you rescue hostages rather than disarm bombs.  Each mission ends up with you fighting a boss, and when you defeat each (except the final one), you also participate in a bonus stage where you must shoot all ninja flying towards you.
+
+Some of the enemies are also quite different. Some of the lizards, which appear in later missions,  leave a "lizard coin", which you can collect for bonus lives.</desc>
+		<image>./mixart/Shadow Dancer - The Secret of Shinobi (World).png</image>
+		<video>./snap/Shadow Dancer - The Secret of Shinobi (World).mp4</video>
+		<marquee>./wheel/Shadow Dancer - The Secret of Shinobi (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>1F2A9F322E770BE0A3CC2AABDF8BC575</cheevosHash>
+		<cheevosId>98</cheevosId>
+	</game>
+	<game>
+		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
+		<name>Shinobi III : Return of the Ninja Master</name>
+		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
+
+In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
+		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
+		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
+		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930822T000000</releasedate>
+		<developer>Megasoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
+		<cheevosId>64</cheevosId>
 	</game>
 </gameList>

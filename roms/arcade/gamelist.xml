@@ -69733,24 +69733,6 @@ The Narcs have both machine guns and rocket launchers at their disposal and play
 		<cheevosHash>D89658CC648D08594C86AC4505084D3A</cheevosHash>
 	</game>
 	<game>
-		<path>./rygar.zip</path>
-		<name>Rygar</name>
-		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
-		<image>./mixart/rygar.png</image>
-		<video>./snap/rygar.mp4</video>
-		<marquee>./wheel/rygar.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
-		<cheevosId>12379</cheevosId>
-	</game>
-	<game>
 		<path>./spidey.zip</path>
 		<name>Spider-Man: The Videogame</name>
 		<desc>Spider-man - The Video Game is a sideways scrolling beat-em-up for 1 to 4 players; choosing from Spider-Man, Black-Cat, Hawkeye or Sub-Mariner. The heroes must fight their way through four levels of Dr. Doom's villains; including Venom, The Scorpion, The Lizard, The Green Goblin, The Sandman, The Kingpin, The Hobgoblin, Electro, Dr. Octopus and, of course, Dr. Doom himself.
@@ -72908,5 +72890,23 @@ Every 10th level features a battle with a large end-of-level boss.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>209CE030A7F237FB382D0E0F33B1A7BD</cheevosHash>
+	</game>
+	<game>
+		<path>./rygar.zip</path>
+		<name>Rygar</name>
+		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
+		<image>./mixart/rygar.png</image>
+		<video>./snap/rygar.mp4</video>
+		<marquee>./wheel/rygar.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
+		<cheevosId>12379</cheevosId>
 	</game>
 </gameList>

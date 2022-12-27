@@ -4956,22 +4956,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
-		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
-		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
-		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<rating>4</rating>
-		<releasedate>2022</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX).fpt</path>
 		<name>Star Wars DSA ULTIMATE Pro - (Galactic Edition) (PupEdition, FizX)</name>
 		<desc>Flipper Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX)</desc>
@@ -5047,6 +5031,22 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
+		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
+		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
+		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<rating>4</rating>
+		<releasedate>2022</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

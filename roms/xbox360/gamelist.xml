@@ -1096,25 +1096,6 @@ Battle for the future of the streets in unique rhythm-based action combat fights
 		<lang>en</lang>
 		<video>./snap/Alien Breed 3 Descent.mp4</video>
 	</game>
-	<game>
-		<path>./Banjo Kazooie.m3u</path>
-		<name>Banjo-Kazooie</name>
-		<desc>The classic Nintendo platformer stars a big, goofy honey bear named Banjo who wears tight yellow shorts and carries around a raucous, red-crested breegull named Tooie in his backpack. The bear-and-bird duo must use constant teamwork to rescue Banjo's sister from the evil Gruntilda who wants to steal her beauty.</desc>
-		<image>./mixart/Banjo Kazooie.png</image>
-		<marquee>./wheel/Banjo Kazooie.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20081203T000000</releasedate>
-		<developer>4J Studios</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>ff28f02580063f61f0d2410fb1cea32c</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220813T081753" />
-		<scrap name="TheGamesDB" date="20220813T082101" />
-		<video>./snap/Banjo Kazooie.mp4</video>
-	</game>
 	<game id="17765">
 		<path>./Boom Boom Rocket.m3u</path>
 		<name>Boom Boom Rocket</name>
@@ -4319,25 +4300,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="16958">
-		<path>./DOOM II.m3u</path>
-		<name>Doom II</name>
-		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/DOOM II.png</image>
-		<video>./snap/DOOM II.mp4</video>
-		<marquee>./wheel/DOOM II.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Nerve Software</developer>
-		<publisher>id Software</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Doom</family>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Marvel vs. Capcom Origins.m3u</path>
 		<name>Marvel vs. Capcom Origins</name>
@@ -4501,55 +4463,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="18142">
-		<path>./Asteroids Deluxe.m3u</path>
-		<name>Asteroids Deluxe</name>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Asteroids Deluxe.png</image>
-		<video>./snap/Asteroids Deluxe.mp4</video>
-		<marquee>./wheel/Asteroids Deluxe.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="17559">
-		<path>./Battlezone.m3u</path>
-		<name>Battlezone</name>
-		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
-		<image>./mixart/Battlezone.png</image>
-		<video>./snap/Battlezone.mp4</video>
-		<marquee>./wheel/Battlezone.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20080416T000000</releasedate>
-		<developer>Stainless Games</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bejeweled 3.m3u</path>
-		<name>Bejeweled 3</name>
-		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
-		<image>./mixart/Bejeweled 3.png</image>
-		<video>./snap/Bejeweled 3.mp4</video>
-		<marquee>./wheel/Bejeweled 3.png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20111115T000000</releasedate>
-		<developer>PopCap Games</developer>
-		<publisher>PopCap Games, Inc.</publisher>
-		<genre>Puzzle, Strategy</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Bomberman LIVE.m3u</path>
 		<name>Bomberman Live</name>
@@ -4618,6 +4531,93 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>3D Realms</publisher>
 		<genre>Shooter</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="18142">
+		<path>./Asteroids Deluxe.m3u</path>
+		<name>Asteroids Deluxe</name>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Asteroids Deluxe.png</image>
+		<video>./snap/Asteroids Deluxe.mp4</video>
+		<marquee>./wheel/Asteroids Deluxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Banjo Kazooie.m3u</path>
+		<name>Banjo-Kazooie</name>
+		<desc>The classic Nintendo platformer stars a big, goofy honey bear named Banjo who wears tight yellow shorts and carries around a raucous, red-crested breegull named Tooie in his backpack. The bear-and-bird duo must use constant teamwork to rescue Banjo's sister from the evil Gruntilda who wants to steal her beauty.</desc>
+		<image>./mixart/Banjo Kazooie.png</image>
+		<video>./snap/Banjo Kazooie.mp4</video>
+		<marquee>./wheel/Banjo Kazooie.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20081203T000000</releasedate>
+		<developer>4J Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>ff28f02580063f61f0d2410fb1cea32c</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220813T081753" />
+		<scrap name="TheGamesDB" date="20220813T082101" />
+	</game>
+	<game id="17559">
+		<path>./Battlezone.m3u</path>
+		<name>Battlezone</name>
+		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
+		<image>./mixart/Battlezone.png</image>
+		<video>./snap/Battlezone.mp4</video>
+		<marquee>./wheel/Battlezone.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080416T000000</releasedate>
+		<developer>Stainless Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bejeweled 3.m3u</path>
+		<name>Bejeweled 3</name>
+		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
+		<image>./mixart/Bejeweled 3.png</image>
+		<video>./snap/Bejeweled 3.mp4</video>
+		<marquee>./wheel/Bejeweled 3.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20111115T000000</releasedate>
+		<developer>PopCap Games</developer>
+		<publisher>PopCap Games, Inc.</publisher>
+		<genre>Puzzle, Strategy</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16958">
+		<path>./DOOM II.m3u</path>
+		<name>Doom II</name>
+		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/DOOM II.png</image>
+		<video>./snap/DOOM II.mp4</video>
+		<marquee>./wheel/DOOM II.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Nerve Software</developer>
+		<publisher>id Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>2-4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

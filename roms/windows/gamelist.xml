@@ -4080,22 +4080,6 @@ Conquer the single player campaign with potentially infinite game difficulties, 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./RR_demon-attack.lnk</path>
-		<name>Retro-Remakes: Demon Attack</name>
-		<desc>Retro Remakes a Competition held from 2003-2008 fanmade classic gaming for the Next-Generation. Enjoy re-creation of this classic Demon Attack with a twist. The original Game was made by Imagic and was released in 1982 for the Atari 2600 video game system.</desc>
-		<image>./mixart/RR_demon-attack.png</image>
-		<video>./snap/RR_demon-attack.mp4</video>
-		<marquee>./wheel/RR_demon-attack.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Retro-Remakes</developer>
-		<publisher>Freeware</publisher>
-		<genre>Shoot’em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./RR_digdug-aftershock.lnk</path>
 		<name>Retro-Remakes: Digdug Aftershock</name>
 		<desc>Retro Remakes a Competition held from 2003-2008 fanmade classic gaming for the Next-Generation. Enjoy re-creation of this classic Digdug with a twist. The widely beloved Mr.Driller suffered a gruesome death
@@ -5458,11 +5442,11 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 	</game>
 	<game>
 		<path>./Big Money Deluxe.lnk</path>
-		<name>PopCap Bejeweled Twist</name>
+		<name>PopCap Big Money Deluxe</name>
 		<desc>Here's your chance to strike it rich! Grab as much loot as you can before your pile of coins reaches the top of the window. If you move fast enough to fill the money meter, you'll score a moneybag. Collect enough bags, and you'll join the ranks of the rich and famous.</desc>
-		<image>./mixart/Bejeweled Twist.jpg</image>
-		<video>./snap/Bejeweled Twist.mp4</video>
-		<marquee>./wheel/Bejeweled Twist.png</marquee>
+		<image>./mixart/Big Money Deluxe.jpg</image>
+		<video>./snap/Big Money Deluxe.mp4</video>
+		<marquee>./wheel/Big Money Deluxe.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>20020604T000000</releasedate>
 		<developer>Jason Kapalka</developer>
@@ -9571,6 +9555,22 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<developer>Rolling Gunner</developer>
 		<publisher>Rolling Gunner</publisher>
 		<genre>Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./RR_demon-attack.lnk</path>
+		<name>Retro-Remakes: Demon Attack</name>
+		<desc>Retro Remakes a Competition held from 2003-2008 fanmade classic gaming for the Next-Generation. Enjoy re-creation of this classic Demon Attack with a twist. The original Game was made by Imagic and was released in 1982 for the Atari 2600 video game system.</desc>
+		<image>./mixart/RR_demon-attack.png</image>
+		<video>./snap/RR_demon-attack.mp4</video>
+		<marquee>./wheel/RR_demon-attack.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Retro-Remakes</developer>
+		<publisher>Freeware</publisher>
+		<genre>Shoot’em Up</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
