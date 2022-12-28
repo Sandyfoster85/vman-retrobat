@@ -5441,20 +5441,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<players>1</players>
 	</game>
 	<game>
-		<path>./Big Money Deluxe.lnk</path>
-		<name>PopCap Big Money Deluxe</name>
-		<desc>Here's your chance to strike it rich! Grab as much loot as you can before your pile of coins reaches the top of the window. If you move fast enough to fill the money meter, you'll score a moneybag. Collect enough bags, and you'll join the ranks of the rich and famous.</desc>
-		<image>./mixart/Big Money Deluxe.jpg</image>
-		<video>./snap/Big Money Deluxe.mp4</video>
-		<marquee>./wheel/Big Money Deluxe.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20020604T000000</releasedate>
-		<developer>Jason Kapalka</developer>
-		<publisher>PopCap Games</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
-	</game>
-	<game>
 		<path>./Bonnie's Bookstore Deluxe.lnk</path>
 		<name>PopCap Bonnie's Bookstore Deluxe</name>
 		<desc>Bonnie's Bookstore is a word-forming puzzle video game developed by New Crayon Games and published by PopCap Games. On each level, tiles containing one (or in some cases, two) letters are arranged in a specific structure. As in the similar title Bookworm, players use adjacent letters to form valid words, with points being awarded based on the length of the word. In most cases, once a letter is used, it is removed from the board, with existing letters moving downwards and new letters filling in from the top.</desc>
@@ -9557,6 +9543,21 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<rating>8.85</rating>
 		<releasedate>20081017T000000</releasedate>
 		<developer>PopCap Games</developer>
+		<publisher>PopCap Games</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Big Money Deluxe.lnk</path>
+		<name>PopCap Big Money Deluxe</name>
+		<desc>Here's your chance to strike it rich! Grab as much loot as you can before your pile of coins reaches the top of the window. If you move fast enough to fill the money meter, you'll score a moneybag. Collect enough bags, and you'll join the ranks of the rich and famous.</desc>
+		<image>./mixart/Big Money Deluxe.jpg</image>
+		<video>./snap/Big Money Deluxe.mp4</video>
+		<marquee>./wheel/Big Money Deluxe.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20020604T000000</releasedate>
+		<developer>Jason Kapalka</developer>
 		<publisher>PopCap Games</publisher>
 		<genre>Puzzle</genre>
 		<players>1</players>
