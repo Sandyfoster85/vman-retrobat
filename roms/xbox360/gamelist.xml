@@ -4500,25 +4500,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Banjo Tooie.m3u</path>
-		<name>Banjo-Tooie</name>
-		<desc>Colossal, immense, and gigantic; beautiful, gorgeous, and grandiose -- these are the words one thinks of when describing Rare's 2000 follow-up adventure to Banjo-Kazooie. Keeping consistent with the attitude found in this title, Rare has wittily named it Banjo-Tooie. Explore eight giant worlds, solve puzzles and help game characters to unearth jiggys, play as Mumbo, a T-Rex, Submarine, Money-Van, Washing Machine, and more, and learn more than 40 new moves on the way.</desc>
-		<image>./mixart/Banjo Tooie.png</image>
-		<video>./snap/Banjo Tooie.mp4</video>
-		<marquee>./wheel/Banjo Tooie.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20090429T000000</releasedate>
-		<developer>4J Studios</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Action, Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>8dedb14c899cfe7a9e52390f81c7bd96</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220813T081755" />
-		<scrap name="TheGamesDB" date="20220813T082114" />
-	</game>
-	<game>
 		<path>./Duke Nukem 3D.m3u</path>
 		<name>Duke Nukem 3D</name>
 		<desc>Unlock the full version for 39 levels of mayhem! Wreak havoc on your foes with weapons like Pipe Bombs, Shrink Ray, and Freezer. Impress your friends on the leaderboards, earn achievements, and take advantage of the painless death system - rewind 10 seconds or 10 minutes, the choice is up to you. All new User Clip recording, sharing and uploading have been added and best of all - online multiplayer with cooperative and Duke. Match for up to 8 players through Xbox LIVE! What are you waiting for?</desc>
@@ -4531,6 +4512,25 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>3D Realms</publisher>
 		<genre>Shooter</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16958">
+		<path>./DOOM II.m3u</path>
+		<name>Doom II</name>
+		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/DOOM II.png</image>
+		<video>./snap/DOOM II.mp4</video>
+		<marquee>./wheel/DOOM II.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Nerve Software</developer>
+		<publisher>id Software</publisher>
+		<genre>Shooter / 1st person</genre>
+		<family>Doom</family>
+		<players>2-4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4570,6 +4570,25 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<scrap name="ScreenScraper" date="20220813T081753" />
 		<scrap name="TheGamesDB" date="20220813T082101" />
 	</game>
+	<game>
+		<path>./Banjo Tooie.m3u</path>
+		<name>Banjo-Tooie</name>
+		<desc>Colossal, immense, and gigantic; beautiful, gorgeous, and grandiose -- these are the words one thinks of when describing Rare's 2000 follow-up adventure to Banjo-Kazooie. Keeping consistent with the attitude found in this title, Rare has wittily named it Banjo-Tooie. Explore eight giant worlds, solve puzzles and help game characters to unearth jiggys, play as Mumbo, a T-Rex, Submarine, Money-Van, Washing Machine, and more, and learn more than 40 new moves on the way.</desc>
+		<image>./mixart/Banjo Tooie.png</image>
+		<video>./snap/Banjo Tooie.mp4</video>
+		<marquee>./wheel/Banjo Tooie.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20090429T000000</releasedate>
+		<developer>4J Studios</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Action, Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>8dedb14c899cfe7a9e52390f81c7bd96</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220813T081755" />
+		<scrap name="TheGamesDB" date="20220813T082114" />
+	</game>
 	<game id="17559">
 		<path>./Battlezone.m3u</path>
 		<name>Battlezone</name>
@@ -4599,25 +4618,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>PopCap Games, Inc.</publisher>
 		<genre>Puzzle, Strategy</genre>
 		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game id="16958">
-		<path>./DOOM II.m3u</path>
-		<name>Doom II</name>
-		<desc>In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed most of its inhabitants or possessed them. It's your task to bring down the force field around the last operational star port to allow the remnants of mankind to escape to the stars.Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The game play once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/DOOM II.png</image>
-		<video>./snap/DOOM II.mp4</video>
-		<marquee>./wheel/DOOM II.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Nerve Software</developer>
-		<publisher>id Software</publisher>
-		<genre>Shooter / 1st person</genre>
-		<family>Doom</family>
-		<players>2-4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -14600,22 +14600,6 @@ In addition to the power-ups listed above, fruity bubblegum can also be found. O
 		<players>2</players>
 		<cheevosHash>665F1A4A60EE1F70FEF1CDE6D028FE4F</cheevosHash>
 	</game>
-	<game>
-		<path>./New Super Mario Land.7z</path>
-		<name>'H'New Super Mario Land</name>
-		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<image>./mixart/New Super Mario Land.png</image>
-		<video>./snap/New Super Mario Land.mp4</video>
-		<marquee>./wheel/New Super Mario Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
-		<cheevosId>1234</cheevosId>
-	</game>
 	<game id="99473" source="ScreenScraper.fr">
 		<path>./Donkey Kong Country (USA) (Competition Edition).7z</path>
 		<name>Donkey Kong Country : Competition Cartridge</name>
@@ -14834,22 +14818,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<publisher>Non-commercial</publisher>
 		<lang>en</lang>
 		<cheevosHash>C43EAE8B30185C6D68C5E19A1A2B4A37</cheevosHash>
-	</game>
-	<game>
-		<path>./Super Luigi Land.7z</path>
-		<name>'H'Super Luigi Land</name>
-		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<emulator>snes9x</emulator>
-		<image>./mixart/Super Luigi Land.jpg</image>
-		<video>./snap/Super Luigi Land.mp4</video>
-		<marquee>./wheel/Super Luigi Land.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<lang>en</lang>
-		<cheevosHash>D2F9E515FC4A0FCAAEEE14DC593DF26E</cheevosHash>
-		<cheevosId>9630</cheevosId>
 	</game>
 	<game id="2140" source="ScreenScraper.fr">
 		<path>./Battletoads in Battlemaniacs (USA).7z</path>
@@ -15235,5 +15203,37 @@ Can you help save Christmas? Let's find out tonight!</desc>
 		<players>2</players>
 		<cheevosHash>E1E3CE8A9D1B9CCAF059101ADD37314F</cheevosHash>
 		<cheevosId>2219</cheevosId>
+	</game>
+	<game>
+		<path>./New Super Mario Land.7z</path>
+		<name>'H'New Super Mario Land</name>
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./mixart/New Super Mario Land.png</image>
+		<video>./snap/New Super Mario Land.mp4</video>
+		<marquee>./wheel/New Super Mario Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
+		<cheevosId>1234</cheevosId>
+	</game>
+	<game>
+		<path>./Super Luigi Land.7z</path>
+		<name>'H'Super Luigi Land</name>
+		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./mixart/Super Luigi Land.jpg</image>
+		<video>./snap/Super Luigi Land.mp4</video>
+		<marquee>./wheel/Super Luigi Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>D2F9E515FC4A0FCAAEEE14DC593DF26E</cheevosHash>
+		<cheevosId>9630</cheevosId>
 	</game>
 </gameList>

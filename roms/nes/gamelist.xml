@@ -30333,23 +30333,6 @@ This was one of the earliest games to include a level editor, allowing the creat
 		<cheevosHash>BEFD5D05EB33F984994230546C2BCFA3</cheevosHash>
 		<cheevosId>1481</cheevosId>
 	</game>
-	<game>
-		<path>./Gaplus for NES.zip</path>
-		<name>'H'Gaplus (NES Version)</name>
-		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
-		<image>./mixart/Gaplus for NES.png</image>
-		<video>./snap/Gaplus for NES.mp4</video>
-		<marquee>./wheel/Gaplus for NES.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>831EA189E6ED48607B5EF5102DE3B5D8</cheevosHash>
-	</game>
 	<game id="1401" source="ScreenScraper.fr">
 		<path>./Arkanoid (USA).zip</path>
 		<name>Arkanoid</name>
@@ -30591,23 +30574,6 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<genreid>256</genreid>
 	</game>
 	<game>
-		<path>./Pac-Man Championship Edition NES Demake.zip</path>
-		<name>'H'Pac-Man Championship-Edition Demake</name>
-		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
-		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
-		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
-		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20200621</releasedate>
-		<developer>Namcot</developer>
-		<publisher>BNEI</publisher>
-		<genre>Arcade/Hack</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
-	</game>
-	<game>
 		<path>./Zelda II - The Adventure of Link (USA).zip</path>
 		<name>Zelda II: The Adventure of Link</name>
 		<desc>The land of Hyrule is in chaos.  As Link, you'll be sent on a treacherous journey to return six precious Crystals to their origins in six stone statues.  Only by defeating the guardians of the six palaces will you gain passage to the seventh palace, take on the ultimate challenge that awaits you, and wake the Princess Zelda from her sleeping spell.  On your way, helpful villagers you encounter will offer clues and secret messages invaluable in your quest.  As you guide Link through the levels of Hyrule, close-ups and overviews will enhance your video vision.  Are you up to the challenge?</desc>
@@ -30624,5 +30590,39 @@ Castlevania is a side-scrolling platform action game. The player taking the role
 		<region>us</region>
 		<cheevosHash>88C0493FB1146834836C0FF4F3E06E45</cheevosHash>
 		<cheevosId>1453</cheevosId>
+	</game>
+	<game>
+		<path>./Gaplus for NES.zip</path>
+		<name>'H'Gaplus (NES Version)</name>
+		<desc>This archived file is a NES port of Gaplus seen in Namco Museum Archives Volume 2 (Namcot Collection in Japan), directly ripped from the international Steam release. This same game is also on Arcade system.</desc>
+		<image>./mixart/Gaplus for NES.png</image>
+		<video>./snap/Gaplus for NES.mp4</video>
+		<marquee>./wheel/Gaplus for NES.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>831EA189E6ED48607B5EF5102DE3B5D8</cheevosHash>
+	</game>
+	<game>
+		<path>./Pac-Man Championship Edition NES Demake.zip</path>
+		<name>'H'Pac-Man Championship-Edition Demake</name>
+		<desc>Pac-Man CE demastered in 8-bit style! This was extracted from the steam version of Namco Museum Archives Volume 1. This was tested on some emulators and it managed to work perfectly.</desc>
+		<image>./mixart/Pac-Man Championship Edition NES Demake.png</image>
+		<video>./snap/Pac-Man Championship Edition NES Demake.mp4</video>
+		<marquee>./wheel/Pac-Man Championship Edition NES Demake.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20200621</releasedate>
+		<developer>Namcot</developer>
+		<publisher>BNEI</publisher>
+		<genre>Arcade/Hack</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EE8BC8BAED5B9C5299E84E80E6490DE6</cheevosHash>
 	</game>
 </gameList>

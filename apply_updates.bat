@@ -67,6 +67,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\ V:\RetroBat\backup\ /S 
 rem 2. 2022-12-21 - Fix PS3 Metal Gear Solid - Peace Walker HD Edition (USA).m3u - reported by Lydonb77
 copy /y "V:\_tools\vman-retrobat-master\roms\ps3\Metal Gear Solid - Peace Walker HD Edition (USA).m3u" V:\RetroBat\roms\ps3\
 
+rem 3. 2022-12-30 - amigacd32 added controller remap to support cd32 and other retroarch future configs - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 rem powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
