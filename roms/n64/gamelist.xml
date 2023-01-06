@@ -3539,23 +3539,6 @@
 		<cheevosId>10900</cheevosId>
 	</game>
 	<game>
-		<path>./RR64 - Ridge Racer 64 (USA).n64</path>
-		<name>RR64 : Ridge Racer 64</name>
-		<desc>Ridge Racer makes its first appearance on a Nintendo console, including all of the fast, pick up and play action previously seen in the series on Playstation and in arcades.  RR64 includes three tracks, each with three variations, making a total of nine tracks to get through. 25 cars are on offer, each with different power and speed abilities.  Single player and multiplayer modes are included. Beat the clock and get to the finish line first to win.</desc>
-		<image>./mixart/RR64 - Ridge Racer 64 (USA).png</image>
-		<video>./snap/RR64 - Ridge Racer 64 (USA).mp4</video>
-		<marquee>./wheel/RR64 - Ridge Racer 64 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000214T000000</releasedate>
-		<developer>Nintendo</developer>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>87B8428DAC1D275B0E32E42DD5CFDE22</cheevosHash>
-		<cheevosId>10186</cheevosId>
-	</game>
-	<game>
 		<path>./Rugrats - Scavenger Hunt (USA).n64</path>
 		<name>Rugrats : Scavenger Hunt</name>
 		<desc>Rugrats: Scavenger Hunt is a party game based on the Daytime Emmy-award winning animated television series Rugrats. The game features three distinct board games that are represented in 3D similar to Mario Party. On each board the objective is to find a missing item.  In Angelica's Temple of Gloom you have to beat Angelica in reaching various pieces of an Aztec statue. The Pirate Treasure hunt requires the Rugrats to travel underwater to find buried treasure. The Reptar Rally lets them collect candy on Candy Island.  The game can be played with up to four players (or NPC players). each turn you can move as many paces as you got on the spinner (a replacement for dice). Some tiles have special actions attached to them that let you move further or gain or lose cookies. Each Rugrat also has limited energy, when they move a lot they get tired and have to take a nap to regain energy. You can collect Toy Cards to open doors or use against friends to gain an edge.</desc>
@@ -5162,5 +5145,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>AC67B606AEA6A01F3CFCCCBC30061A10</cheevosHash>
+	</game>
+	<game>
+		<path>./RR64 - Ridge Racer 64 (USA).n64</path>
+		<name>RR64 : Ridge Racer 64</name>
+		<desc>Ridge Racer makes its first appearance on a Nintendo console, including all of the fast, pick up and play action previously seen in the series on Playstation and in arcades.  RR64 includes three tracks, each with three variations, making a total of nine tracks to get through. 25 cars are on offer, each with different power and speed abilities.  Single player and multiplayer modes are included. Beat the clock and get to the finish line first to win.</desc>
+		<image>./mixart/RR64 - Ridge Racer 64 (USA).png</image>
+		<video>./snap/RR64 - Ridge Racer 64 (USA).mp4</video>
+		<marquee>./wheel/RR64 - Ridge Racer 64 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000214T000000</releasedate>
+		<developer>Nintendo</developer>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>87B8428DAC1D275B0E32E42DD5CFDE22</cheevosHash>
+		<cheevosId>10186</cheevosId>
 	</game>
 </gameList>

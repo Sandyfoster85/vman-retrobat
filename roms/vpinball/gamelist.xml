@@ -1700,21 +1700,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Wheel of Fortune (Stern 2007).vpx</path>
-		<name>Wheel of Fortune (Stern 2007)</name>
-		<desc>Flipper Wheel of Fortune (Stern 2007)</desc>
-		<image>./mixart/Wheel of Fortune (Stern 2007).jpg</image>
-		<video>./snap/Wheel of Fortune (Stern 2007).mp4</video>
-		<marquee>./wheel/Wheel of Fortune (Stern 2007).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Who,The_VP10_1.1.vpx</path>
 		<name>Who,The_VP10_1.1</name>
 		<desc>Flipper The Who, VP10_1.1</desc>
@@ -5712,22 +5697,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Playboy (Stern 2002) v1.1.vpx</path>
-		<name>Playboy (Stern 2002) (PupEdition)</name>
-		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
-		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
-		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
-		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Black Sabbath (Original 2020).vpx</path>
 		<name>Black Sabbath (Original 2020) (PupEdition)</name>
 		<desc>Flipper Black Sabbath (Original 2020)</desc>
@@ -5844,22 +5813,6 @@
 		<image>./mixart/Harry Potter and the Goblet of Fire.jpg</image>
 		<video>./snap/Harry Potter and the Goblet of Fire.mp4</video>
 		<marquee>./wheel/Harry Potter and the Goblet of Fire.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./IronMaiden Legacy of the Beast PRO Tribute 1.0.vpx</path>
-		<name>Iron Maiden Legacy of the Beast (PupEdition)</name>
-		<desc>Flipper IronMaiden Legacy of the Beast PRO Tribute 1.0 Pup Edition</desc>
-		<image>./mixart/IronMaiden Legacy of the Beast PRO Tribute 1.0.png</image>
-		<video>./snap/IronMaiden Legacy of the Beast PRO Tribute 1.0.mp4</video>
-		<marquee>./wheel/IronMaiden Legacy of the Beast PRO Tribute 1.0.png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
 		<developer>FanMade</developer>
@@ -8325,6 +8278,58 @@
 		<releasedate>19950924T000000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>Gottlieb</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./gameofthrones.FlexDMD/skinny10x12.zip</path>
+		<name>skinny10x12</name>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./IronMaiden Legacy of the Beast PRO Tribute 1.0.vpx</path>
+		<name>Iron Maiden Legacy of the Beast (PupEdition)</name>
+		<desc>Flipper IronMaiden Legacy of the Beast PRO Tribute 1.0 Pup Edition</desc>
+		<image>./mixart/IronMaiden Legacy of the Beast PRO Tribute 1.0.png</image>
+		<video>./snap/IronMaiden Legacy of the Beast PRO Tribute 1.0.mp4</video>
+		<marquee>./wheel/IronMaiden Legacy of the Beast PRO Tribute 1.0.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Wheel of Fortune (Stern 2007).vpx</path>
+		<name>Wheel of Fortune (Stern 2007)</name>
+		<desc>Flipper Wheel of Fortune (Stern 2007)</desc>
+		<image>./mixart/Wheel of Fortune (Stern 2007).jpg</image>
+		<video>./snap/Wheel of Fortune (Stern 2007).mp4</video>
+		<marquee>./wheel/Wheel of Fortune (Stern 2007).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Playboy (Stern 2002) v1.1.vpx</path>
+		<name>Playboy (Stern 2002) (PupEdition)</name>
+		<desc>Flipper Playboy (Stern 2002) v1.1</desc>
+		<image>./mixart/Playboy (Stern 2002) v1.1.jpg</image>
+		<video>./snap/Playboy (Stern 2002) v1.1.mp4</video>
+		<marquee>./wheel/Playboy (Stern 2002) v1.1.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>

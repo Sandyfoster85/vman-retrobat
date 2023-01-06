@@ -14837,60 +14837,6 @@ A unique new drama which reveals more details of Umbrella Corporation's devious 
 		<cheevosHash>4F8AB98C545757C65978D595F42826E4</cheevosHash>
 		<cheevosId>11265</cheevosId>
 	</game>
-	<game id="19402" source="ScreenScraper.fr">
-		<path>./Ridge Racer (USA).chd</path>
-		<name>Ridge Racer</name>
-		<desc>Ridge Racer is an arcade racer that puts the emphasis on speed and fun rather than on realistic driving simulation. Choose from 4 fantasy cars (plus 9 more that you must unlock yourself) and go race in a series of equally fantastical tracks against a series of computer controlled oponents as well as the clock itself.  Other additions to the game come in the form of a hidden "extra" mode, and a music player that allows you to play any of the 6 included cd tracks as well as your own music cds.</desc>
-		<image>./mixart/Ridge Racer (USA).png</image>
-		<video>./snap/Ridge Racer (USA).mp4</video>
-		<marquee>./wheel/Ridge Racer (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950909T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>64BAA8B57783D9DFCA7E5780DD141782</cheevosHash>
-		<cheevosId>11396</cheevosId>
-	</game>
-	<game>
-		<path>./Ridge Racer Revolution (USA).chd</path>
-		<name>Ridge Racer Revolution</name>
-		<desc>This new version of the classic arcade racer now adds new cars, new tracks and some remixes of the in-game music</desc>
-		<image>./mixart/Ridge Racer Revolution (USA).png</image>
-		<video>./snap/Ridge Racer Revolution (USA).mp4</video>
-		<marquee>./wheel/Ridge Racer Revolution (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960930T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>309E3F318B930369594FA43CBF6E1B19</cheevosHash>
-		<cheevosId>5332</cheevosId>
-	</game>
-	<game>
-		<path>./Ridge Racer Type 4 (USA).chd</path>
-		<name>R4: Ridge Racer Type 4</name>
-		<desc>The main mode of the game is "Grand Prix", where players take on the role of a racing driver new to the game's fictional "Real Racing Roots '99" Grand Prix. The Grand Prix is split into four stages - two qualifying races, two quarter-final races, three semi-finals and one final race on New Year's Eve 1999 - between which the player receives either a new car or an upgrade to their current one, based on their performance in the stage. In order to unlock every one of the cars, the player must race with every racing team and every manufacturer, in every qualifying position possible, hence enhancing the longevity of the game.</desc>
-		<image>./mixart/Ridge Racer Type 4 (USA).png</image>
-		<video>./snap/Ridge Racer Type 4 (USA).mp4</video>
-		<marquee>./wheel/Ridge Racer Type 4 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Sony</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C4F1BCC0740E5EABAE10B5CE39E53B2B</cheevosHash>
-		<cheevosId>11305</cheevosId>
-	</game>
 	<game>
 		<path>./Rising Zan - Samurai Gunman (USA).chd</path>
 		<name>Rising Zan - Samurai Gunman</name>
@@ -21491,5 +21437,59 @@ The game contains a rock soundtrack including tracks by Joe Satriani and Steve V
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5F6A8F84896EEF0D062A9F12FDA5C9F9</cheevosHash>
+	</game>
+	<game id="19402" source="ScreenScraper.fr">
+		<path>./Ridge Racer (USA).chd</path>
+		<name>Ridge Racer</name>
+		<desc>Ridge Racer is an arcade racer that puts the emphasis on speed and fun rather than on realistic driving simulation. Choose from 4 fantasy cars (plus 9 more that you must unlock yourself) and go race in a series of equally fantastical tracks against a series of computer controlled oponents as well as the clock itself.  Other additions to the game come in the form of a hidden "extra" mode, and a music player that allows you to play any of the 6 included cd tracks as well as your own music cds.</desc>
+		<image>./mixart/Ridge Racer (USA).png</image>
+		<video>./snap/Ridge Racer (USA).mp4</video>
+		<marquee>./wheel/Ridge Racer (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950909T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>64BAA8B57783D9DFCA7E5780DD141782</cheevosHash>
+		<cheevosId>11396</cheevosId>
+	</game>
+	<game>
+		<path>./Ridge Racer Revolution (USA).chd</path>
+		<name>Ridge Racer Revolution</name>
+		<desc>This new version of the classic arcade racer now adds new cars, new tracks and some remixes of the in-game music</desc>
+		<image>./mixart/Ridge Racer Revolution (USA).png</image>
+		<video>./snap/Ridge Racer Revolution (USA).mp4</video>
+		<marquee>./wheel/Ridge Racer Revolution (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>309E3F318B930369594FA43CBF6E1B19</cheevosHash>
+		<cheevosId>5332</cheevosId>
+	</game>
+	<game>
+		<path>./Ridge Racer Type 4 (USA).chd</path>
+		<name>R4: Ridge Racer Type 4</name>
+		<desc>The main mode of the game is "Grand Prix", where players take on the role of a racing driver new to the game's fictional "Real Racing Roots '99" Grand Prix. The Grand Prix is split into four stages - two qualifying races, two quarter-final races, three semi-finals and one final race on New Year's Eve 1999 - between which the player receives either a new car or an upgrade to their current one, based on their performance in the stage. In order to unlock every one of the cars, the player must race with every racing team and every manufacturer, in every qualifying position possible, hence enhancing the longevity of the game.</desc>
+		<image>./mixart/Ridge Racer Type 4 (USA).png</image>
+		<video>./snap/Ridge Racer Type 4 (USA).mp4</video>
+		<marquee>./wheel/Ridge Racer Type 4 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Sony</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C4F1BCC0740E5EABAE10B5CE39E53B2B</cheevosHash>
+		<cheevosId>11305</cheevosId>
 	</game>
 </gameList>

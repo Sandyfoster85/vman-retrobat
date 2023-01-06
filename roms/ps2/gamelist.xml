@@ -6572,23 +6572,6 @@ You must blast complex viruses, unlock passwords, and destroy firewall bosses as
 		<region>eu</region>
 		<genreid>261</genreid>
 	</game>
-	<game id="22624" source="ScreenScraper.fr">
-		<path>./Ridge Racer V (USA).gz</path>
-		<name>Ridge Racer V</name>
-		<desc>As with other titles in the Ridge Racer series, this is arcade racing action, discarding reality in favor of fantasy thrills. There are 14 tracks and 18 cars. You can play a full 'Grand Prix' type season, or play individual tracks against the clock, an opponent or a ghost car. Lighting and reflection effects are built in to the game engine, as is the ability to modify your car's paint job. Replays can be viewed from any angle. A full musical score is on offer</desc>
-		<image>./mixart/Ridge Racer V (USA).png</image>
-		<video>./snap/Ridge Racer V (USA).mp4</video>
-		<marquee>./wheel/Ridge Racer V (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20001026T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
-	</game>
 	<game id="22435" source="ScreenScraper.fr">
 		<path>./Rygar - The Legendary Adventure (USA).gz</path>
 		<name>Rygar : The Legendary Adventure</name>
@@ -7712,5 +7695,22 @@ Up to four people may play on a single console offline using a multitap, and up 
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="22624" source="ScreenScraper.fr">
+		<path>./Ridge Racer V (USA).gz</path>
+		<name>Ridge Racer V</name>
+		<desc>As with other titles in the Ridge Racer series, this is arcade racing action, discarding reality in favor of fantasy thrills. There are 14 tracks and 18 cars. You can play a full 'Grand Prix' type season, or play individual tracks against the clock, an opponent or a ghost car. Lighting and reflection effects are built in to the game engine, as is the ability to modify your car's paint job. Replays can be viewed from any angle. A full musical score is on offer</desc>
+		<image>./mixart/Ridge Racer V (USA).png</image>
+		<video>./snap/Ridge Racer V (USA).mp4</video>
+		<marquee>./wheel/Ridge Racer V (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20001026T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
 	</game>
 </gameList>
