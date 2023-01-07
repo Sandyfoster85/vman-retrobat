@@ -29,4 +29,4 @@ FixNr|Date|Description|LineNr|Files|SearchTxt|ReplaceTxt
 #15|2022-06-11|"Atari ST : lr-hatari performance optimized"||V:\RetroBat\bios\hatari.cfg|bCompatibleCpu = TRUE|bCompatibleCpu = FALSE
 #15|2022-06-11|"Atari ST : lr-hatari performance optimized"||V:\RetroBat\bios\hatari.cfg|bBlitter = FALSE|bBlitter = TRUE
 01|2022-12-22|"Wii U: Fix MLC path in Cemu"||V:\RetroBat\emulators\cemu\settings.xml|<mlc_path></mlc_path>|<mlc_path>V:/RetroBat/roms/wiiu_mlc01</mlc_path>
-
+02|2023-01-07|"NES : optimized 2d sprite settings"||V:\RetroBat\emulators\retroarch\retroarch-core-options.cfg|mesen_nospritelimit = "disabled"|mesen_nospritelimit = "enabled"
