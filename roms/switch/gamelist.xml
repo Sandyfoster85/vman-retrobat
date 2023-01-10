@@ -1077,21 +1077,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PAC-MAN 99.xci</path>
-		<name>PAC-MAN 99</name>
-		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
-		<image>./mixart/PAC-MAN 99.jpg</image>
-		<video>./snap/PAC-MAN 99.mp4</video>
-		<marquee>./wheel/PAC-MAN 99.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Arika</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Arcade</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Thunderflash.nsp</path>
 		<name>Thunderflash</name>
 		<desc>Play as two soldiers and get immersed in a war-torn Kashmir, transformed in a war zone by a terrorist organization which deploys ruthless mercenaries and devastating military technologies. Take on the mission alone or with a friend, use all of your available firepower to complete the five missions the game offers. Taste again the run 'n gun styled game experience in this tribute to the old school arcade style of the 80s.</desc>
@@ -1153,6 +1138,21 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<genre>Pinball</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN 99.xci</path>
+		<name>PAC-MAN 99</name>
+		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
+		<image>./mixart/PAC-MAN 99.jpg</image>
+		<video>./snap/PAC-MAN 99.mp4</video>
+		<marquee>./wheel/PAC-MAN 99.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Arcade</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

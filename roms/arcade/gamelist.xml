@@ -36141,70 +36141,6 @@ Tap GO and player will accelerate, shoot or lift. Push UP and player will jump o
 		<cheevosHash>BCB4A9286F5897F73CF599FE233837A7</cheevosHash>
 	</game>
 	<game>
-		<path>./hyprdriv.zip</path>
-		<name>Hyperdrive</name>
-		<desc>Arcade Video game published 23 years ago:
-
-Hyperdrive (c) 1998 Midway Games.
-
-Midway's futuristic arcade hover-racing game. Hyperdrive features custom arcade controls and state-of-the-art 3-D graphics.
-
-- TECHNICAL -
-
-Main CPU: R5000 (@ 200 Mhz)
-Sound CPU: ADSP2115 (@ 16 Mhz)
-Sound Chips: (2x) DMA-driven (@ 16 Mhz)
-
-Players: 2
-Control: stick
-Buttons: 4
-
-- TRIVIA -
-
-Released in February 1998 in USA.
-
-- TIPS AND TRICKS -
-
-* Mirror Mode: Press View1 during the track select screen. Mirror mode flips the track right to left, so that all the right-hand turns become left-hand turns and vice versa.
-
-* Expert Mode: Press View2 during the track select screen. Expert mode turns off the 'catch-up' code, so there is no computer help for the players that are behind. This is for players who want a fair-and-square head-to-head race without any computer assistance. Also in expert mode, the green guide boxes for the boost zones are disabled, and the 'help boxes', that pop are disabled.
-
-* Mirror Mode and Expert Mode can both be active at the same time. Just hold down View1 and View2 at the same time during the track select screen.
-
-* No Drones Mode: Press View1 during the ship select screen. This mode is included for the really good players who want the race solely the result of head-to-head racing, without the chance of the race being influenced by one person getting bumped by a drone, or by the drones clustering around one person and not the other.
-
-* Cruise Control: If the player doesn't step on the gas pedal at the start of the game, then the game will automatically keep the gas pedal at 80% of max speed.
-
-* Barrel Rolls: Double-tapping the yellow buttons makes the ship roll to the right and left. The player gets a small but useful speed boost if he can pull off a barrel roll.
-
-* Afterburner: Double-tapping the gas pedal makes the ship speed up and the exhaust flare up.
-
-- STAFF -
-
-SOFTWARE: Matt Booty, Ed Keenan, Brian Eddy, Peter Giokaris
-ART: Mike Ossian, Dave Zabloudil, Jim Rohn, Brian Morris, Tony Lentini
-MUSIC/SOUND: Dan Forden
-Mechanical engineer: Peter Dorn
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&amp;o=2</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/hyprdriv.png</image>
-		<video>./snap/hyprdriv.mp4</video>
-		<marquee>./wheel/hyprdriv.png</marquee>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Midway Games</developer>
-		<publisher>Midway Games</publisher>
-		<genre>Driving / Race (chase view)</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5B76666C23C9161D3E1855529A65D108</cheevosHash>
-	</game>
-	<game>
 		<path>./hyprduel.zip</path>
 		<name>Hyper Duel</name>
 		<desc>A horizontal-scrolling shoot-em-up for 1 or 2 players, Hyper Duel features 7 challenging levels. The game also has an impressive array of power-ups, including one that is essentially a second 'drone' ship that is almost identical to the players' own. Hyper Duel also has a unique feature in that players can hold down a button and transform their ships in large robots; In robot form the players' firepower is drastically increased but the weapon no longer only fires forwards, and will track the players' joystick movements. The robots will return to ship form once the button is released.</desc>
@@ -72367,24 +72303,6 @@ Every 10th level features a battle with a large end-of-level boss.</desc>
 		<cheevosHash>209CE030A7F237FB382D0E0F33B1A7BD</cheevosHash>
 	</game>
 	<game>
-		<path>./rygar.zip</path>
-		<name>Rygar</name>
-		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
-		<image>./mixart/rygar.png</image>
-		<video>./snap/rygar.mp4</video>
-		<marquee>./wheel/rygar.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Tecmo</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
-		<cheevosId>12379</cheevosId>
-	</game>
-	<game>
 		<path>./tmnt.zip</path>
 		<name>Teenage Mutant Ninja Turtles (4 players)</name>
 		<desc>Teenage Mutant Ninja Turtles, released in Japan as TMNT: Super Kame Ninja and in Europe as Teenage Mutant Hero Turtles, is a 1989 beat 'em up arcade game released by Konami. It is based on the Teenage Mutant Ninja Turtles franchise, including the first animated series that began airing two years earlier.</desc>
@@ -72908,5 +72826,87 @@ Ridge Racer's superb gameplay places a large emphasis on 'power sliding'; lockin
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>1B2D8DB6E9C52997B0E272D5C0936775</cheevosHash>
+	</game>
+	<game>
+		<path>./hyprdriv.zip</path>
+		<name>Hyperdrive</name>
+		<desc>Arcade Video game published 23 years ago:
+
+Hyperdrive (c) 1998 Midway Games.
+
+Midway's futuristic arcade hover-racing game. Hyperdrive features custom arcade controls and state-of-the-art 3-D graphics.
+
+- TECHNICAL -
+
+Main CPU: R5000 (@ 200 Mhz)
+Sound CPU: ADSP2115 (@ 16 Mhz)
+Sound Chips: (2x) DMA-driven (@ 16 Mhz)
+
+Players: 2
+Control: stick
+Buttons: 4
+
+- TRIVIA -
+
+Released in February 1998 in USA.
+
+- TIPS AND TRICKS -
+
+* Mirror Mode: Press View1 during the track select screen. Mirror mode flips the track right to left, so that all the right-hand turns become left-hand turns and vice versa.
+
+* Expert Mode: Press View2 during the track select screen. Expert mode turns off the 'catch-up' code, so there is no computer help for the players that are behind. This is for players who want a fair-and-square head-to-head race without any computer assistance. Also in expert mode, the green guide boxes for the boost zones are disabled, and the 'help boxes', that pop are disabled.
+
+* Mirror Mode and Expert Mode can both be active at the same time. Just hold down View1 and View2 at the same time during the track select screen.
+
+* No Drones Mode: Press View1 during the ship select screen. This mode is included for the really good players who want the race solely the result of head-to-head racing, without the chance of the race being influenced by one person getting bumped by a drone, or by the drones clustering around one person and not the other.
+
+* Cruise Control: If the player doesn't step on the gas pedal at the start of the game, then the game will automatically keep the gas pedal at 80% of max speed.
+
+* Barrel Rolls: Double-tapping the yellow buttons makes the ship roll to the right and left. The player gets a small but useful speed boost if he can pull off a barrel roll.
+
+* Afterburner: Double-tapping the gas pedal makes the ship speed up and the exhaust flare up.
+
+- STAFF -
+
+SOFTWARE: Matt Booty, Ed Keenan, Brian Eddy, Peter Giokaris
+ART: Mike Ossian, Dave Zabloudil, Jim Rohn, Brian Morris, Tony Lentini
+MUSIC/SOUND: Dan Forden
+Mechanical engineer: Peter Dorn
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/hyprdriv.png</image>
+		<video>./snap/hyprdriv.mp4</video>
+		<marquee>./wheel/hyprdriv.png</marquee>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway Games</developer>
+		<publisher>Midway Games</publisher>
+		<genre>Driving / Race (chase view)</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5B76666C23C9161D3E1855529A65D108</cheevosHash>
+	</game>
+	<game>
+		<path>./rygar.zip</path>
+		<name>Rygar</name>
+		<desc>Rygar is a classic game for many home consoles. It also has an Arcade version that plays different than the home console versions.</desc>
+		<image>./mixart/rygar.png</image>
+		<video>./snap/rygar.mp4</video>
+		<marquee>./wheel/rygar.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Tecmo</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
+		<cheevosId>12379</cheevosId>
 	</game>
 </gameList>

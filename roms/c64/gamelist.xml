@@ -8017,19 +8017,6 @@ Some versions have a high score table to record your achievements. The second se
 		<publisher>Domark</publisher>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Impossible Mission.d64</path>
-		<name>Impossible Mission</name>
-		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
-		<image>./mixart/Impossible Mission.png</image>
-		<video>./snap/Impossible Mission.mp4</video>
-		<marquee>./wheel/Impossible Mission.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19830101T000000</releasedate>
-		<genre>Platform-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="110105" source="ScreenScraper.fr">
 		<path>./WWF European Rampage Tour.d64</path>
 		<name>Wwf European Rampage Tour</name>
@@ -8038,7 +8025,7 @@ Some versions have a high score table to record your achievements. The second se
 		<video>./snap/WWF European Rampage Tour.mp4</video>
 		<marquee>./wheel/WWF European Rampage Tour.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<genre>Sports / Wrestling-Sports</genre>
 		<lang>en</lang>
 	</game>
@@ -8158,7 +8145,7 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<image>./mixart/Yoomp! 64.png</image>
 		<video>./snap/Yoomp! 64.mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game>
@@ -8198,6 +8185,19 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<rating>0</rating>
 		<releasedate>19930101T000000</releasedate>
 		<publisher>CP Verlag</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Impossible Mission.d64</path>
+		<name>Impossible Mission</name>
+		<desc>You play a secret agent on a quest to stop the evil Professor Elvin Atombender, who is believed to be tampering with national security computers. You must penetrate Atombender's stronghold, avoid his deadly robot creations, and acquire various pieces of a password to use in the main control room.  The robots, rooms, and puzzle pieces will be switched around when starting over which provides replay value.</desc>
+		<image>./mixart/Impossible Mission.png</image>
+		<video>./snap/Impossible Mission.mp4</video>
+		<marquee>./wheel/Impossible Mission.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19830101T000000</releasedate>
+		<genre>Platform-Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

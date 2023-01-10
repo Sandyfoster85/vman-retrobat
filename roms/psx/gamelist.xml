@@ -4576,23 +4576,6 @@ Each character plays exactly the same except for the type of weapons they wield 
 		<cheevosId>10432</cheevosId>
 	</game>
 	<game>
-		<path>./Crash Bash (USA).chd</path>
-		<name>Crash Bash</name>
-		<image>./mixart/Crash Bash (USA).png</image>
-		<video>./snap/Crash Bash (USA).mp4</video>
-		<marquee>./wheel/Crash Bash (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20001110T000000</releasedate>
-		<developer>Universal Studios</developer>
-		<publisher>Eurocom</publisher>
-		<genre>Casual Game-Action</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1BCF6824547B02BA5138D1A540DBEB0A</cheevosHash>
-		<cheevosId>10907</cheevosId>
-	</game>
-	<game>
 		<path>./Crash Team Racing (USA).chd</path>
 		<name>Crash Team Racing</name>
 		<image>./mixart/Crash Team Racing (USA).png</image>
@@ -21491,5 +21474,22 @@ The game contains a rock soundtrack including tracks by Joe Satriani and Steve V
 		<region>us</region>
 		<cheevosHash>C4F1BCC0740E5EABAE10B5CE39E53B2B</cheevosHash>
 		<cheevosId>11305</cheevosId>
+	</game>
+	<game>
+		<path>./Crash Bash (USA).chd</path>
+		<name>Crash Bash</name>
+		<image>./mixart/Crash Bash (USA).png</image>
+		<video>./snap/Crash Bash (USA).mp4</video>
+		<marquee>./wheel/Crash Bash (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20001110T000000</releasedate>
+		<developer>Universal Studios</developer>
+		<publisher>Eurocom</publisher>
+		<genre>Casual Game-Action</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1BCF6824547B02BA5138D1A540DBEB0A</cheevosHash>
+		<cheevosId>10907</cheevosId>
 	</game>
 </gameList>
