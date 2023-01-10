@@ -1,10 +1,10 @@
-#$ErrorActionPreference= 'silentlycontinue'
+$ErrorActionPreference= 'silentlycontinue'
 
 ############# Put es_systems.cfg changes in this block ###############
 #$es_systems_path = 'V:\RetroBat\emulationstation\.emulationstation\es_systems.cfg'
-#$es_settings_path = 'V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg'
+$es_settings_path = 'V:\RetroBat\emulationstation\.emulationstation\es_settings.cfg'
 #[xml]$es_systems = Get-Content $es_systems_path ; 
-#[xml]$es_settings = Get-Content $es_settings_path ; 
+[xml]$es_settings = Get-Content $es_settings_path ; 
 
 # 1. 2022-12-17 - Correct Arcade extensions in es_systems.cfg, reported by Scorpio
 #$arcade = $es_systems.SelectSingleNode("//system[name='arcade']")
@@ -47,6 +47,14 @@
 #$mugen = $es_systems.SelectSingleNode("//system[name='mugen']")
 #$mugen.extension = '.lnk .LNK'
 
+# 1. 2023-01-10 - Update N64 Mupen64plus_next texturepack set to cache  in es_settings.cfg, reported by Virtualman
+$n64_hd0 = $es_settings.SelectSingleNode("//string[@name='n64.TexturesPack']")
+$n64_hd0.ParentNode.RemoveChild($n64_hd0)
+$n64_hd0 = $es_settings.CreateElement("string")
+$n64_hd = $es_settings.config.AppendChild($n64_hd0)
+$n64_hd.SetAttribute("name","n64.TexturesPack")
+$n64_hd.SetAttribute("value","cache")
+
 #$es_systems.save($es_systems_path)
-#$es_settings.save($es_settings_path)
+$es_settings.save($es_settings_path)
 ######################################################################

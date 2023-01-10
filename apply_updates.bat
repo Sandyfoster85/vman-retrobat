@@ -71,7 +71,7 @@ rem 3. 2022-12-30 - amigacd32 added controller remap to support cd32 and other r
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
 rem Apply XML-based updates using PowerShell
-rem powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
+powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
 echo.
 echo Update Completed. Enjoy! :)
