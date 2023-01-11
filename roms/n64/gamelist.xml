@@ -4920,26 +4920,47 @@
 		<cheevosId>10186</cheevosId>
 	</game>
 	<game>
-		<path>./Legend of Zelda, The - Majora's Mask (USA).n64</path>
-		<name>'H' The Legend of Zelda : Majora's Mask</name>
-		<desc>Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.</desc>
-		<image>./mixart/Legend of Zelda, The - Majora's Mask (USA).png</image>
-		<video>./snap/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - Majora's Mask (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20001026T000000</releasedate>
+		<path>./F-Zero X (USA).n64</path>
+		<name>F-Zero X</name>
+		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.  Where the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game. As well as the cups, you can also race in time trial mode, against a 'ghost car' recording of your best previous lap, a lá Mario Kart 64.  Gone are the entirely flat tracks of the original, having been replaced with tracks that twist, turn, loop, rotate and basically contort into the most crazy shapes you could imagine. One unique feature amongst almost all other racing games is the "X" tournament, where courses are totally randomly generated each time you start.  One of the most important changes to the format is the inclusion of multiplayer support for up to 4 players. The various combat moves are especially important against aggressive human play.  This game has a  rock soundtrack, which I believe is the first game soundtrack ever to feature the bestial grunting found only in death metal music.</desc>
+		<emulator>libretro</emulator>
+		<core>mupen64plus_next</core>
+		<image>./mixart/F-Zero X (USA).png</image>
+		<video>./snap/F-Zero X (USA).mp4</video>
+		<marquee>./wheel/F-Zero X (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19981026T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Action / Adventure-Action</genre>
+		<genre>Race, Driving</genre>
+		<players>4</players>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>B0CC37A45BC1B6C76CD7F0B71FE2BB1F</cheevosHash>
-		<cheevosId>10679</cheevosId>
+		<cheevosHash>DEE6EF2CBAAC89846A59983E19A55348</cheevosHash>
+		<cheevosId>10133</cheevosId>
+	</game>
+	<game>
+		<path>./Road Rash 64 (USA).n64</path>
+		<name>Road Rash 64</name>
+		<desc>First version of Road Rash for any Nintendo system.  The game was originally supposed to be a port of Road Rash 3D but ended up being an original product.  Like other Road Rash titles, it featured motorcycle racing and combat, although RR64 had more of an emphasis on combat than on racing.</desc>
+		<image>./mixart/Road Rash 64 (USA).png</image>
+		<video>./snap/Road Rash 64 (USA).mp4</video>
+		<marquee>./wheel/Road Rash 64 (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990831T000000</releasedate>
+		<developer>Pacific Coast Power &amp; Light</developer>
+		<publisher>THQ</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CDF72CB4647C70FE36247091F5025148</cheevosHash>
 	</game>
 	<game>
 		<path>./Castlevania - Legacy of Darkness (USA).n64</path>
 		<name>'H' Castlevania : Legacy of Darkness</name>
 		<desc>Set in the year 1844, the game stars the man-beast Cornell in his quest to prevent his adoptive sister, Ada, from being used as a sacrifice to resurrect Dracula. The game opens as Cornell arrives at his village, which has been burned to the ground by Dracula's minions. He finds Ada's pendant in a doorway and follows her scent to Dracula's castle.    During the course of the game, Cornell comes upon a grand estate owned by the Oldrey family: J.A. Oldrey, the master of the Villa, Mary, his wife, and Henry, their son. Gilles de Rais and Actrise have turned Oldrey Senior into a vampire. At Mary's request, Cornell guides Henry to safety. Later in life, Henry returns to Castlevania to save kidnapped children.</desc>
+		<emulator>project64</emulator>
 		<image>./mixart/Castlevania - Legacy of Darkness (USA).png</image>
 		<video>./snap/Castlevania - Legacy of Darkness (USA).mp4</video>
 		<marquee>./wheel/Castlevania - Legacy of Darkness (USA).png</marquee>
@@ -4988,24 +5009,38 @@
 		<cheevosId>10121</cheevosId>
 	</game>
 	<game>
-		<path>./F-Zero X (USA).n64</path>
-		<name>F-Zero X</name>
-		<desc>Famed SNES racer F-Zero got this N64 update. Gameplay remains essentially unchanged, race in a futuristic racing tournament on tracks levitated miles up in the air, against a selection of devious opponents.  Where the original had 4 cars to choose from and race against, F-Zero X has no fewer than 30 vehicles all with their own unique strengths and weaknesses, a choice of colours, and customisable power/acceleration ratios for each track. At the beginning you are limited to choosing from 6 cars and 3 tournaments (each featuring 6 tracks each), but in true Nintendo fashion, more cars and tracks are unlocked as you progress through the game. As well as the cups, you can also race in time trial mode, against a 'ghost car' recording of your best previous lap, a lá Mario Kart 64.  Gone are the entirely flat tracks of the original, having been replaced with tracks that twist, turn, loop, rotate and basically contort into the most crazy shapes you could imagine. One unique feature amongst almost all other racing games is the "X" tournament, where courses are totally randomly generated each time you start.  One of the most important changes to the format is the inclusion of multiplayer support for up to 4 players. The various combat moves are especially important against aggressive human play.  This game has a  rock soundtrack, which I believe is the first game soundtrack ever to feature the bestial grunting found only in death metal music.</desc>
-		<emulator>libretro</emulator>
-		<core>mupen64plus_next</core>
-		<image>./mixart/F-Zero X (USA).png</image>
-		<video>./snap/F-Zero X (USA).mp4</video>
-		<marquee>./wheel/F-Zero X (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19981026T000000</releasedate>
+		<path>./Legend of Zelda, The - Majora's Mask (USA).n64</path>
+		<name>'H' The Legend of Zelda : Majora's Mask</name>
+		<desc>Thrown into a parallel world by the mischievous actions of a possessed Skull Kid, Link finds a land in grave danger. The dark power of a relic called Majora's Mask has wreaked havoc on the citizens of Termina, but their most urgent problem is a suicidal moon crashing toward the world. Link has only 72 hours to find a way to stop its descent.</desc>
+		<image>./mixart/Legend of Zelda, The - Majora's Mask (USA).png</image>
+		<video>./snap/Legend of Zelda, The - Majora's Mask (USA).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Majora's Mask (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20001026T000000</releasedate>
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
+		<genre>Role playing games-Action / Adventure-Action</genre>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>DEE6EF2CBAAC89846A59983E19A55348</cheevosHash>
-		<cheevosId>10133</cheevosId>
+		<cheevosHash>B0CC37A45BC1B6C76CD7F0B71FE2BB1F</cheevosHash>
+		<cheevosId>10679</cheevosId>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev B).n64</path>
+		<name>'H' The Legend of Zelda : Ocarina of Time</name>
+		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
+		<emulator>project64</emulator>
+		<image>./mixart/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png</image>
+		<video>./snap/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19981123T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Role playing games-Action / Adventure-Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1F26107A97CD9D923DF493EBFBFD234D</cheevosHash>
 	</game>
 	<game>
 		<path>./Mario Kart 64 (USA).n64</path>
@@ -5043,26 +5078,10 @@
 		<cheevosId>10154</cheevosId>
 	</game>
 	<game>
-		<path>./Road Rash 64 (USA).n64</path>
-		<name>Road Rash 64</name>
-		<desc>First version of Road Rash for any Nintendo system.  The game was originally supposed to be a port of Road Rash 3D but ended up being an original product.  Like other Road Rash titles, it featured motorcycle racing and combat, although RR64 had more of an emphasis on combat than on racing.</desc>
-		<image>./mixart/Road Rash 64 (USA).png</image>
-		<video>./snap/Road Rash 64 (USA).mp4</video>
-		<marquee>./wheel/Road Rash 64 (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19990831T000000</releasedate>
-		<developer>Pacific Coast Power &amp; Light</developer>
-		<publisher>THQ</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CDF72CB4647C70FE36247091F5025148</cheevosHash>
-	</game>
-	<game>
 		<path>./Shadow Man (USA).n64</path>
 		<name>'H' Shadow Man</name>
 		<desc>You're the Shadow Man, a person who can switch between the world of the dead and of the living. In Shadow Man your mission is to prevent 5 serial killers from bringing the total armageddon. In the world of the living, you're mortal and have conventional weapons. When you die, you are transported to the world of the dead and you become Shadow Man once again. Which means you're not really mortal. In the world of the dead you can't use normal weapons, your gun shoots ghosts which kill the zombies and the other ugly creatures which live there. You also have different voodoo powers and weapons. And you're carrying a large inventory around.</desc>
+		<emulator>project64</emulator>
 		<image>./mixart/Shadow Man (USA).png</image>
 		<video>./snap/Shadow Man (USA).mp4</video>
 		<marquee>./wheel/Shadow Man (USA).png</marquee>
@@ -5080,6 +5099,7 @@
 		<path>./Star Fox 64 (USA) (Rev A).n64</path>
 		<name>'H' Star Fox 64</name>
 		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<emulator>project64</emulator>
 		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
 		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
 		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
@@ -5093,6 +5113,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
+	</game>
+	<game>
+		<path>./Super Mario 64 (USA).n64</path>
+		<name>'H' Super Mario 64</name>
+		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
+		<image>./mixart/Super Mario 64 (USA).png</image>
+		<video>./snap/Super Mario 64 (USA).mp4</video>
+		<marquee>./wheel/Super Mario 64 (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960929T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action-Platform</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6D6B7C02ECE14B4FEB390F1F298C0465</cheevosHash>
 	</game>
 	<game>
 		<path>./Super Smash Bros. (USA).n64</path>
@@ -5116,6 +5152,7 @@
 		<path>./Wave Race 64 (USA) (Rev A).n64</path>
 		<name>'H' Wave Race 64: Kawasaki Jet Ski</name>
 		<desc>Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!</desc>
+		<emulator>project64</emulator>
 		<image>./mixart/Wave Race 64 (USA) (Rev A).png</image>
 		<video>./snap/Wave Race 64 (USA) (Rev A).mp4</video>
 		<marquee>./wheel/Wave Race 64 (USA) (Rev A).png</marquee>
@@ -5128,37 +5165,5 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D28DBE3D633FC8F955814F9367E61ABE</cheevosHash>
-	</game>
-	<game>
-		<path>./Super Mario 64 (USA).n64</path>
-		<name>'H' Super Mario 64</name>
-		<desc>Mario is super in a whole new way! Combining the finest 3-D graphics ever developed for a video game and an explosive sound track, Super Mario 64 becomes a new standard for video games. It's packed with bruising battles, daunting obstacle courses and underwater adventures. Retrieve the Power Stars from their hidden locations and confront your arch nemesis - Bowser, King of the Koopas!</desc>
-		<image>./mixart/Super Mario 64 (USA).png</image>
-		<video>./snap/Super Mario 64 (USA).mp4</video>
-		<marquee>./wheel/Super Mario 64 (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960929T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action-Platform</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6D6B7C02ECE14B4FEB390F1F298C0465</cheevosHash>
-	</game>
-	<game>
-		<path>./Legend of Zelda, The - Ocarina of Time (USA) (Rev B).n64</path>
-		<name>'H' The Legend of Zelda : Ocarina of Time</name>
-		<desc>Ganondorf, the evil King of Thieves, is on the move, threatening the peaceful land of Hyrule. He is determined to steal his way into the legendary Sacred Realm in hopes of harnessing the power of the mythical Triforce. As the young hero Link, it is your destiny to thwart Ganondorf's evil schemes. Navi, your guardian fairy, will guide you as you venture through the many regions of Hyrule, from the volcanic caves of Death Mountain to the treacherous waters of Zora's Domain. Before you complete this epic quest, you'll delve into deadly dungeons, collect weapons of great power and learn the spells you need to conquer the most irresistible force of all-time.</desc>
-		<image>./mixart/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png</image>
-		<video>./snap/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - Ocarina of Time (USA) (Rev B).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19981123T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Role playing games-Action / Adventure-Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1F26107A97CD9D923DF493EBFBFD234D</cheevosHash>
 	</game>
 </gameList>
