@@ -1,0 +1,39 @@
+These are the associated mappings for the Xbox one and Xbox 360 Controllers in the Supermodel emulator.
+
+To make changes to your controls, please go into the Supermodel.ini file located in the "Configs" Folder.
+
+Note: Always make a backup of your existing Supermodel.ini file before changing control schemes
+
+
+
+A = JOY1_BUTTON1
+B = JOY1_BUTTON2
+X = JOY1_BUTTON3
+Y = JOY1_BUTTON4
+
+LB = JOY1_BUTTON5
+RB = JOY1_BUTTON6
+
+Select = JOY1_BUTTON7
+Start = JOY1_BUTTON8
+
+L3 = JOY1_BUTTON9
+R3 = JOY1_BUTTON10
+
+LT = JOY1_ZAXIS_POS
+RT = JOY1_RZAXIS_POS
+
+D-PAD Up = JOY1_POV1_UP
+D-PAD Down = JOY1_POV1_DOWN
+D-PAD Left = JOY1_POV1_LEFT
+D-PAD Right = JOY1_POV1_RIGHT
+
+Left Stick UP = JOY1_YAXIS_NEG
+Left Stick DOWN = JOY1_YAXIS_POS
+Left Stick LEFT = JOY1_XAXIS_NEG
+Left Stick RIGHT = JOY1_XAXIS_POS
+
+Right Stick UP = JOY1_RYAXIS_NEG
+Right Stick DOWN = JOY1_RYAXIS_POS
+Right Stick LEFT = JOY1_RXAXIS_NEG
+Right Stick RIGHT = JOY1_RXAXIS_POS
