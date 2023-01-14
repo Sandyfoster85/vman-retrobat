@@ -70,6 +70,9 @@ copy /y "V:\_tools\vman-retrobat-master\roms\ps3\Metal Gear Solid - Peace Walker
 rem 3. 2022-12-30 - amigacd32 added controller remap to support cd32 and other retroarch future configs - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
+rem 4. 2023-12-21 - Fix Rockin'Bliss shortcut from Ports - Note: Change Drive according to your location C: or V: - reported by Virtualman
+copy /y "V:\_tools\vman-retrobat-master\roms\ports\Rockin'Bliss!.lnk" V:\RetroBat\roms\ports\
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
