@@ -8982,22 +8982,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ICEwall.lnk</path>
-		<name>ICEwall</name>
-		<desc>An action roguelike shoot 'em up. Draft power-ups between levels to become stronger and build crazy combos. Several player ships to unlock, multiple game modes; now including Endless Mode and Arcade, leaderboards and achievement challenges!</desc>
-		<image>./mixart/ICEwall.jpg</image>
-		<video>./snap/ICEwall.mp4</video>
-		<marquee>./wheel/ICEwall.png</marquee>
-		<rating>3</rating>
-		<releasedate>20221104T000000</releasedate>
-		<developer>GoeX Games</developer>
-		<publisher>GoeX Games</publisher>
-		<genre>Shoot'Em Up</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./80s Overdrive.lnk</path>
 		<name>80s Overdrive</name>
 		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
@@ -9105,21 +9089,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<genre>Shoot’em Up</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bejeweled 2 Deluxe.lnk</path>
-		<name>PopCap Bejeweled 2 Deluxe</name>
-		<desc>Bejeweled 2 is a web-based game, sequel to Bejeweled, developed and published by PopCap Games. In 2004, Bejeweled 2 Deluxe was released. They both add extra game modes and features to the game. Bejeweled 2 Deluxe, like all PopCap titles, is available on a "try before you buy" basis. Bejeweled 2 Deluxe was released for the Xbox 360 as a downloadable Xbox Live Arcade game on November 22, 2005. PopCap also released a version for Apple's iOS in 2008, which is available from the App Store. Bejeweled 2 was also released for PlayStation 3 on the PlayStation Network on 29 January 2009, on the Wii via WiiWare on 14 June 2010, and on PlayStation Portable on 29 June 2010. As with the original Bejeweled, Bejeweled 2 is based on the Shariki game mechanic. It was also for the Android Market and published from EA. Bejeweled 2 features various secret gameplay modes that can be accessed by beating levels of Classic, Puzzle, Endless, and Action modes.</desc>
-		<image>./mixart/Bejeweled 2 Deluxe.jpg</image>
-		<video>./snap/Bejeweled 2 Deluxe.mp4</video>
-		<marquee>./wheel/Bejeweled 2 Deluxe.png</marquee>
-		<rating>8.85</rating>
-		<releasedate>20040905T000000</releasedate>
-		<developer>PopCap Games</developer>
-		<publisher>PopCap Games</publisher>
-		<genre>Puzzle</genre>
-		<players>1</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -9704,6 +9673,37 @@ Improved weapons, magic and dungeons as well!</desc>
 		<publisher>FarSight Studios</publisher>
 		<genre>Action</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bejeweled 2 Deluxe.lnk</path>
+		<name>PopCap Bejeweled 2 Deluxe</name>
+		<desc>Bejeweled 2 is a web-based game, sequel to Bejeweled, developed and published by PopCap Games. In 2004, Bejeweled 2 Deluxe was released. They both add extra game modes and features to the game. Bejeweled 2 Deluxe, like all PopCap titles, is available on a "try before you buy" basis. Bejeweled 2 Deluxe was released for the Xbox 360 as a downloadable Xbox Live Arcade game on November 22, 2005. PopCap also released a version for Apple's iOS in 2008, which is available from the App Store. Bejeweled 2 was also released for PlayStation 3 on the PlayStation Network on 29 January 2009, on the Wii via WiiWare on 14 June 2010, and on PlayStation Portable on 29 June 2010. As with the original Bejeweled, Bejeweled 2 is based on the Shariki game mechanic. It was also for the Android Market and published from EA. Bejeweled 2 features various secret gameplay modes that can be accessed by beating levels of Classic, Puzzle, Endless, and Action modes.</desc>
+		<image>./mixart/Bejeweled 2 Deluxe.jpg</image>
+		<video>./snap/Bejeweled 2 Deluxe.mp4</video>
+		<marquee>./wheel/Bejeweled 2 Deluxe.png</marquee>
+		<rating>8.85</rating>
+		<releasedate>20040905T000000</releasedate>
+		<developer>PopCap Games</developer>
+		<publisher>PopCap Games</publisher>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ICEwall.lnk</path>
+		<name>ICEwall</name>
+		<desc>An action roguelike shoot 'em up. Draft power-ups between levels to become stronger and build crazy combos. Several player ships to unlock, multiple game modes; now including Endless Mode and Arcade, leaderboards and achievement challenges!</desc>
+		<image>./mixart/ICEwall.jpg</image>
+		<video>./snap/ICEwall.mp4</video>
+		<marquee>./wheel/ICEwall.png</marquee>
+		<rating>3</rating>
+		<releasedate>20221104T000000</releasedate>
+		<developer>GoeX Games</developer>
+		<publisher>GoeX Games</publisher>
+		<genre>Shoot'Em Up</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

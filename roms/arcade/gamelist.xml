@@ -57703,25 +57703,6 @@ The attract music is a cover of Level 1 music from "Raiden II".</desc>
 		<cheevosHash>DDFBFABD2D5B6B13F339BD97A1777B17</cheevosHash>
 	</game>
 	<game>
-		<path>./starblad.zip</path>
-		<name>Starblade</name>
-		<desc>Starblade is a 3-D space shoot'em up featuring 2 separate missions; the first is to destroy the planet 'Red Eye' while the second is to wipe out the enemy fleet and their leader. The game's sit-down cabinet featured a seat that vibrated whenever the player was hit, either by incoming fire or by enemy objects such as ships, asteroids etc. The yoke joystick - which had a fire button situated at the top of the stick, underneath where the player's thumb sits - was very similar in appearance and feel to that used in Atari's 1983 wireframe classic, "Star Wars (Atari)".</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/starblad.png</image>
-		<video>./snap/starblad.mp4</video>
-		<marquee>./wheel/starblad.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Shooter / Plane, 3rd person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>77708F0CD007196756B8FD2DD80D8949</cheevosHash>
-	</game>
-	<game>
 		<path>./starcas.zip</path>
 		<name>Star Castle</name>
 		<desc>Star Castle is a 1- or 2-player outer space action game designed with features geared for maximum player appeal: A progressively difficult competitive level and a clearly defined enemy which must be both attacked and avoided at various points in the course of play.
@@ -64019,29 +64000,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<region>us</region>
 		<cheevosHash>CCEC805CB63CD137BC3CEEE0B4087B2B</cheevosHash>
 	</game>
-	<game id="37557">
-		<path>./vfkids.zip</path>
-		<name>Virtua Fighter Kids</name>
-		<desc>Virtua Fighter Kids is based on the Sega Saturn conversion of "Virtua Fighter 2". The differences are mostly art-related: Virtua Fighter Kids' character cast are now drawn in a super-deformed style.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/vfkids.png</image>
-		<video>./snap/vfkids.mp4</video>
-		<marquee>./wheel/vfkids.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Virtua Fighter</family>
-		<arcadesystemname>segastv</arcadesystemname>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>9eadb95ca653742659729514d019cf2a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2D99A880B3473A27DECFA9F637209E89</cheevosHash>
-	</game>
 	<game>
 		<path>./vformula.zip</path>
 		<name>Virtua Formula</name>
@@ -65016,23 +64974,6 @@ The player can move their skier left or right, and can press buttons to either s
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>F3DC370C0B0ED3BACFF24B6A29B8CD71</cheevosHash>
-	</game>
-	<game>
-		<path>./wbmlvc.zip</path>
-		<name>Wonder Boy In Monster Land</name>
-		<desc>Wonder Boy in Monster Land is a multi-directional scrolling platform hack 'n' slash game with RPG elements, in which the game's hero, Wonder Boy, has seen his home of Wonderland invaded by the evil 'MEKA Dragon' and its army of minions.     At the start of the game Wonder Boy is unarmed, but the mayor of Wonder Land (as it was known before the invasion) gives him a short sword to help him in his quest. Wonder Boy has a life meter represented as a series of red hearts and whenever he sustains damage, the hearts deplete. When all the hearts are depleted, Wonder Boy dies and the game ends. As well as the life meter, there is also an Hourglass Timer at the top of the screen; whenever this runs out, Wonder Boy loses some life. The Timer can be refilled by collecting hourglasses or by visiting hospitals or taverns.</desc>
-		<image>./mixart/wbmlvc.png</image>
-		<video>./snap/wbmlvc.mp4</video>
-		<marquee>./wheel/wbmlvc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6E163831C5D73D0E894F6C8AEDA47EDA</cheevosHash>
 	</game>
 	<game>
 		<path>./wboy.zip</path>
@@ -70441,26 +70382,6 @@ Hirohiko Araki served as a consultant for the game and created exclusive pieces 
 		<cheevosHash>F5F66E2DAD4D99670DA708A39AE3459C</cheevosHash>
 	</game>
 	<game>
-		<path>./redearth.zip</path>
-		<name>Warzard</name>
-		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/redearth.png</image>
-		<video>./snap/redearth.mp4</video>
-		<marquee>./wheel/redearth.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19961121T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight /  Co-op</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
-	</game>
-	<game>
 		<path>./mslugx.zip</path>
 		<name>Metal Slug X: Super Vehicle-001</name>
 		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
@@ -71606,73 +71527,6 @@ The game consists of eight stages, each with a boss fight at the end, and after 
 		<cheevosId>11895</cheevosId>
 	</game>
 	<game>
-		<path>./warfa.zip</path>
-		<name>War: The Final Assault</name>
-		<desc>Arcade Video game published 22 years ago:
-
-War - Final Assault (c) 1999 Atari Games Corp.
-
-- TECHNICAL -
-
-Runs on the "Atari Vegas" hardware.
-
-Players: 4
-Control: stick
-Buttons: 3
-
-- TRIVIA -
-
-War Final Assault was released in March 1999.
-
-- UPDATES -
-
-Version 1.6 fixes the following:
-- Player gets stuck along a wall and in the 3rd level in Mission mode: The player finds a section of a wall that they cannot move off of until their game ends.
-- First level boss character does not appear: This is an extremely rare incident where the game level does not continue because the boss character does not appear.
-- Added new game option "Free game in Deathmatch? Yes/No": This operator option has been added to give operators the flexibility to disable the "Winner plays next rounds free" feature of the head-to-head deathmatch mode.
-
-- TIPS AND TRICKS -
-
-* Secret Characters: The secret characters are based on how many kills you have on your ID. Get about 14,000 kills to reach War Master rank and you can access all of them. Or by toying around with the buttons you can just hit view a couple times and you can bypass the kills restriction.  Also by hitting View 3 to 5 times and hitting right on your joystick will reveal deeper hidden characters from the game Mace, etc. Like the red knight boss from Mace or the executioner. During the character select screen hit the joystick left or right on the characters seen and you'll see other characters like Alienov's workers or Alienov's Generals, etc.
-
-* Multiplayer Select: In between multiplayer matches you can select the level you want to play by holding down the View button and the top button on your joystick. A little window opens up on the bottom of the screen with the listing of all the levels. Only works when multiplayer games are still running.
-
-* Glitch when using any weapon: First grab a weapon, works with yellow rocket launcher best. When you fire the weapon press the eject button. It has to be right after you fire. Once you get the timing down you will now have unlimited bullets.
-
-* Pentabolt Keys: Here are the locations of the pentabolt keys on levels one through 6. Collecting them all will allow you to access a secret level after defeating the boss of level 7.
-
-LEVEL 1: Go inside the building at the beginning and climb up the stack of boxes to the left. There will be a tunnel that you can fall into from the top. It leads to a hallway with a few enemies in it. The pentabolt key is at the end of the hallway; after picking it up, ride the lift up back to the rest of the level.
-
-LEVEL 2: After you get back outside, shoot out the bottom of the first crater. Fall in and follow the hallway around, killing the enemies inside. Drop down into a room with a large slime pit and a turret on the opposite end. After destroying the turret, jump across the pillars sticking out of the pit to reach the other side. Go through either door, then up the ramp. You will find the pentabolt key protected by some enemies. Grab it and continue into the next room and out the door, which leads back outside again.
-
-LEVEL 3: Go up the staircase at the beginning. Instead of going through the door at the top, jump onto the banister to the right of the door, then jump from there to the window ledge. Walk towards the wall, and a door will open up, taking you to a small computer room with lots of construction workers and a couple of the black-suited guys. The pentabolt key is in this room. After grabbing it, take the ramp down and go through the door to go back out into the level.
-
-LEVEL 4: In the long hallway with all the debris and boxes stacked up against the wall, find a door on the right site near the end with a few boxes and one of the red explosive barrels. Destroy the barrel, and go through the door. At the bottom of the ramp is a room with the pentabolt key in the middle. Grab it, but watch out for the ambush from the doors on the sides of the room. To avoid getting hit, try grabbing the key, waiting a brief moment, then jumping backwards. If done correctly, all the shots will miss you.  After killing the enemies, take the ramp up on the other side of the room and go through the door back out into the main hallway.
-
-LEVEL 5: As soon as the level starts, go left and shoot the cliff wall inside the fence. Go through the cave, which leads up to the ledge. Somewhere along the cave, however, is a spot where you can blast /another/ hole, leading to a point where you can drop down into a warehouse with boxes.  Kill the enemies, and watch out for the tank!  Just past the tank is a lift that will take you up to the pentabolt key, which is floating over a hole. Don't worry about falling into the hole, because you'll grab the key as you fall, and that's where you need to go anyway.
-
-LEVEL 6: Go through the level until you get to a conveyor-belt-like machine that's rolling something lava-orange. Make sure you take the /left/ path around the machine; going the other way will cause you to miss the key! Continue through the level this way until you reach a large room with two vats of slime. Jump up on the platform on the far end to the right past the vats. Around the back of them you will find a stairway which takes you to the top of the vats. Jump onto the rim of the first one, then jump over to the second. Fall /into/ the second vat. Watch out for the radiation workers! Take the lift up to a narrow passage leading to the pentabolt key, then drop back down into the room with the vats.
-
-- CONTRIBUTE -
-
-Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&amp;o=2</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/warfa.png</image>
-		<video>./snap/warfa.mp4</video>
-		<marquee>./wheel/warfa.png</marquee>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Atari Games</developer>
-		<publisher>Atari Games</publisher>
-		<genre>Shooter / 1st Person</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>9b74189d856ee0bd46234d7d2b184eee</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
-	</game>
-	<game>
 		<path>./karatour.zip</path>
 		<name>The Karate Tournament</name>
 		<desc>Karate Tournament is a one-on-one fighting game for one or two players, based on the ancient and most well known of martial arts, Karate.
@@ -72080,26 +71934,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
-	</game>
-	<game>
-		<path>./jojo.zip</path>
-		<name>JoJo no Kimyou na Bouken</name>
-		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/jojo.png</image>
-		<video>./snap/jojo.mp4</video>
-		<marquee>./wheel/jojo.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
 	</game>
 	<game>
 		<path>./mmatrix.zip</path>
@@ -72759,27 +72593,6 @@ Players maneuver their way through hairpin curves, jumps, bridges, puddles, and 
 		<cheevosHash>0011E5155DAAED1AB4BC73E24BD5AB8C</cheevosHash>
 		<cheevosId>11945</cheevosId>
 	</game>
-	<game>
-		<path>./willow.zip</path>
-		<name>Willow</name>
-		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
-
-The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
-		<image>./mixart/willow.png</image>
-		<video>./snap/willow.mp4</video>
-		<marquee>./wheel/willow.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Lucasfilm</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
-		<cheevosId>11836</cheevosId>
-	</game>
 	<game id="42760">
 		<path>./ridgera2.zip</path>
 		<name>Ridge Racer 2</name>
@@ -72908,5 +72721,192 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&am
 		<region>us</region>
 		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
 		<cheevosId>12379</cheevosId>
+	</game>
+	<game>
+		<path>./jojo.zip</path>
+		<name>JoJo no Kimyou na Bouken</name>
+		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/jojo.png</image>
+		<video>./snap/jojo.mp4</video>
+		<marquee>./wheel/jojo.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
+	</game>
+	<game>
+		<path>./redearth.zip</path>
+		<name>Warzard</name>
+		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/redearth.png</image>
+		<video>./snap/redearth.mp4</video>
+		<marquee>./wheel/redearth.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19961121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight /  Co-op</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
+	</game>
+	<game id="37557">
+		<path>./vfkids.zip</path>
+		<name>Virtua Fighter Kids</name>
+		<desc>Virtua Fighter Kids is based on the Sega Saturn conversion of "Virtua Fighter 2". The differences are mostly art-related: Virtua Fighter Kids' character cast are now drawn in a super-deformed style.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/vfkids.png</image>
+		<video>./snap/vfkids.mp4</video>
+		<marquee>./wheel/vfkids.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Virtua Fighter</family>
+		<arcadesystemname>segastv</arcadesystemname>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>9eadb95ca653742659729514d019cf2a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2D99A880B3473A27DECFA9F637209E89</cheevosHash>
+	</game>
+	<game>
+		<path>./warfa.zip</path>
+		<name>War: The Final Assault</name>
+		<desc>Arcade Video game published 22 years ago:
+
+War - Final Assault (c) 1999 Atari Games Corp.
+
+- TECHNICAL -
+
+Runs on the "Atari Vegas" hardware.
+
+Players: 4
+Control: stick
+Buttons: 3
+
+- TRIVIA -
+
+War Final Assault was released in March 1999.
+
+- UPDATES -
+
+Version 1.6 fixes the following:
+- Player gets stuck along a wall and in the 3rd level in Mission mode: The player finds a section of a wall that they cannot move off of until their game ends.
+- First level boss character does not appear: This is an extremely rare incident where the game level does not continue because the boss character does not appear.
+- Added new game option "Free game in Deathmatch? Yes/No": This operator option has been added to give operators the flexibility to disable the "Winner plays next rounds free" feature of the head-to-head deathmatch mode.
+
+- TIPS AND TRICKS -
+
+* Secret Characters: The secret characters are based on how many kills you have on your ID. Get about 14,000 kills to reach War Master rank and you can access all of them. Or by toying around with the buttons you can just hit view a couple times and you can bypass the kills restriction.  Also by hitting View 3 to 5 times and hitting right on your joystick will reveal deeper hidden characters from the game Mace, etc. Like the red knight boss from Mace or the executioner. During the character select screen hit the joystick left or right on the characters seen and you'll see other characters like Alienov's workers or Alienov's Generals, etc.
+
+* Multiplayer Select: In between multiplayer matches you can select the level you want to play by holding down the View button and the top button on your joystick. A little window opens up on the bottom of the screen with the listing of all the levels. Only works when multiplayer games are still running.
+
+* Glitch when using any weapon: First grab a weapon, works with yellow rocket launcher best. When you fire the weapon press the eject button. It has to be right after you fire. Once you get the timing down you will now have unlimited bullets.
+
+* Pentabolt Keys: Here are the locations of the pentabolt keys on levels one through 6. Collecting them all will allow you to access a secret level after defeating the boss of level 7.
+
+LEVEL 1: Go inside the building at the beginning and climb up the stack of boxes to the left. There will be a tunnel that you can fall into from the top. It leads to a hallway with a few enemies in it. The pentabolt key is at the end of the hallway; after picking it up, ride the lift up back to the rest of the level.
+
+LEVEL 2: After you get back outside, shoot out the bottom of the first crater. Fall in and follow the hallway around, killing the enemies inside. Drop down into a room with a large slime pit and a turret on the opposite end. After destroying the turret, jump across the pillars sticking out of the pit to reach the other side. Go through either door, then up the ramp. You will find the pentabolt key protected by some enemies. Grab it and continue into the next room and out the door, which leads back outside again.
+
+LEVEL 3: Go up the staircase at the beginning. Instead of going through the door at the top, jump onto the banister to the right of the door, then jump from there to the window ledge. Walk towards the wall, and a door will open up, taking you to a small computer room with lots of construction workers and a couple of the black-suited guys. The pentabolt key is in this room. After grabbing it, take the ramp down and go through the door to go back out into the level.
+
+LEVEL 4: In the long hallway with all the debris and boxes stacked up against the wall, find a door on the right site near the end with a few boxes and one of the red explosive barrels. Destroy the barrel, and go through the door. At the bottom of the ramp is a room with the pentabolt key in the middle. Grab it, but watch out for the ambush from the doors on the sides of the room. To avoid getting hit, try grabbing the key, waiting a brief moment, then jumping backwards. If done correctly, all the shots will miss you.  After killing the enemies, take the ramp up on the other side of the room and go through the door back out into the main hallway.
+
+LEVEL 5: As soon as the level starts, go left and shoot the cliff wall inside the fence. Go through the cave, which leads up to the ledge. Somewhere along the cave, however, is a spot where you can blast /another/ hole, leading to a point where you can drop down into a warehouse with boxes.  Kill the enemies, and watch out for the tank!  Just past the tank is a lift that will take you up to the pentabolt key, which is floating over a hole. Don't worry about falling into the hole, because you'll grab the key as you fall, and that's where you need to go anyway.
+
+LEVEL 6: Go through the level until you get to a conveyor-belt-like machine that's rolling something lava-orange. Make sure you take the /left/ path around the machine; going the other way will cause you to miss the key! Continue through the level this way until you reach a large room with two vats of slime. Jump up on the platform on the far end to the right past the vats. Around the back of them you will find a stairway which takes you to the top of the vats. Jump onto the rim of the first one, then jump over to the second. Fall /into/ the second vat. Watch out for the radiation workers! Take the lift up to a narrow passage leading to the pentabolt key, then drop back down into the room with the vats.
+
+- CONTRIBUTE -
+
+Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&amp;o=2</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/warfa.png</image>
+		<video>./snap/warfa.mp4</video>
+		<marquee>./wheel/warfa.png</marquee>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Atari Games</developer>
+		<publisher>Atari Games</publisher>
+		<genre>Shooter / 1st Person</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>9b74189d856ee0bd46234d7d2b184eee</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
+	</game>
+	<game>
+		<path>./wbmlvc.zip</path>
+		<name>Wonder Boy In Monster Land</name>
+		<desc>Wonder Boy in Monster Land is a multi-directional scrolling platform hack 'n' slash game with RPG elements, in which the game's hero, Wonder Boy, has seen his home of Wonderland invaded by the evil 'MEKA Dragon' and its army of minions.     At the start of the game Wonder Boy is unarmed, but the mayor of Wonder Land (as it was known before the invasion) gives him a short sword to help him in his quest. Wonder Boy has a life meter represented as a series of red hearts and whenever he sustains damage, the hearts deplete. When all the hearts are depleted, Wonder Boy dies and the game ends. As well as the life meter, there is also an Hourglass Timer at the top of the screen; whenever this runs out, Wonder Boy loses some life. The Timer can be refilled by collecting hourglasses or by visiting hospitals or taverns.</desc>
+		<image>./mixart/wbmlvc.png</image>
+		<video>./snap/wbmlvc.mp4</video>
+		<marquee>./wheel/wbmlvc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6E163831C5D73D0E894F6C8AEDA47EDA</cheevosHash>
+	</game>
+	<game>
+		<path>./willow.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./mixart/willow.png</image>
+		<video>./snap/willow.mp4</video>
+		<marquee>./wheel/willow.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
+		<cheevosId>11836</cheevosId>
+	</game>
+	<game>
+		<path>./starblad.zip</path>
+		<name>Starblade</name>
+		<desc>Starblade is a 3-D space shoot'em up featuring 2 separate missions; the first is to destroy the planet 'Red Eye' while the second is to wipe out the enemy fleet and their leader. The game's sit-down cabinet featured a seat that vibrated whenever the player was hit, either by incoming fire or by enemy objects such as ships, asteroids etc. The yoke joystick - which had a fire button situated at the top of the stick, underneath where the player's thumb sits - was very similar in appearance and feel to that used in Atari's 1983 wireframe classic, "Star Wars (Atari)".</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/starblad.png</image>
+		<video>./snap/starblad.mp4</video>
+		<marquee>./wheel/starblad.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter-Shooter / Plane, 3rd person</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>77708F0CD007196756B8FD2DD80D8949</cheevosHash>
 	</game>
 </gameList>

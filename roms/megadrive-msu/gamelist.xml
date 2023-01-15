@@ -651,25 +651,6 @@ The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Th
 		<region>wr</region>
 		<cheevosHash>CA66D9D23E5494AC4BE98208038AA1C5</cheevosHash>
 	</game>
-	<game id="72">
-		<path>./Rocket Knight Adventures (USA) (MSU-MD)/Rocket Knight Adventures (USA) (MSU-MD).md</path>
-		<name>Rocket Knight Adventures</name>
-		<desc>Rocket Knight Adventures is the first side-scrolling action game starring Sparkster.  He lives in the kingdom of Zebulos, and is the bravest of all the Rocket Knights.  One day, an army of pigs comes down to invade the kingdom and capture the princess.  It is up to Sparkster to set things right again.
-
-Most of the gameplay in Rocket Knight Adventures involves using Sparkster's rocket pack and sword.  Sparkster has to fight off many bosses and survive many precarious situations.  The levels are interspersed with a variety of elements, like shooting stages, and giant robot combat.</desc>
-		<image>./mixart/Rocket Knight Adventures (USA) (MSU-MD).png</image>
-		<video>./snap/Rocket Knight Adventures (USA) (MSU-MD).mp4</video>
-		<marquee>./wheel/Rocket Knight Adventures (USA) (MSU-MD).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19930801T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>790B4316D9FB8B0F47F36CBAB6A57688</cheevosHash>
-	</game>
 	<game id="5">
 		<path>./Sonic The Hedgehog (USA, Europe) (MSU-MD)/Sonic The Hedgehog (USA, Europe) (MSU-MD).md</path>
 		<name>Sonic The Hedgehog</name>
@@ -1046,47 +1027,6 @@ Wonder Boy In Monster World is the third game in the Monster World spin-off seri
 		<region>eu</region>
 		<cheevosHash>131E597B18C54BC4E8F7C3F2D61D0B1B</cheevosHash>
 	</game>
-	<game id="155">
-		<path>./Ys III (USA) (MSU-MD) [T-En]/Ys III (USA) (MSU-MD) [T-En].md</path>
-		<name>Ys III</name>
-		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
-
-Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
-		<image>./mixart/Ys III (USA) (MSU-MD) [T-En].png</image>
-		<video>./snap/Ys III (USA) (MSU-MD) [T-En].mp4</video>
-		<marquee>./wheel/Ys III (USA) (MSU-MD) [T-En].png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19911201T000000</releasedate>
-		<developer>Nihon Falcom</developer>
-		<publisher>Nihon Falcom</publisher>
-		<genre>Puzzle-Game / Action RPG</genre>
-		<family>Ys</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>711FB5B71D3EA1C556E3364658C4DAEF</cheevosHash>
-	</game>
-	<game id="326">
-		<path>./Zero Wing (Europe) (MSU-MD)/Zero Wing (Europe) (MSU-MD).md</path>
-		<name>Zero Wing</name>
-		<desc>Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
-
-Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
-
-The game (or the European PAL version) is best known for being the origin of the infamous "All Your Base" 2001 Internet meme.</desc>
-		<image>./mixart/Zero Wing (Europe) (MSU-MD).png</image>
-		<video>./snap/Zero Wing (Europe) (MSU-MD).mp4</video>
-		<marquee>./wheel/Zero Wing (Europe) (MSU-MD).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19920701T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Toaplan</publisher>
-		<genre>Shoot'em up / Horizontal</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>0CF8EE57C232690522FFD451828B5E4F</cheevosHash>
-	</game>
 	<game id="198">
 		<path>./After Burner II (USA, Europe) (MSU-MD)/After Burner II (USA, Europe) (MSU-MD).md</path>
 		<name>After Burner II</name>
@@ -1190,5 +1130,65 @@ The game play follows the traditional 2D hop 'n' bop platform style in both 8-bi
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>6DD458070F05016AC9A9A1FF8B14EF63</cheevosHash>
+	</game>
+	<game id="72">
+		<path>./Rocket Knight Adventures (USA) (MSU-MD)/Rocket Knight Adventures (USA) (MSU-MD).md</path>
+		<name>Rocket Knight Adventures</name>
+		<desc>Rocket Knight Adventures is the first side-scrolling action game starring Sparkster.  He lives in the kingdom of Zebulos, and is the bravest of all the Rocket Knights.  One day, an army of pigs comes down to invade the kingdom and capture the princess.  It is up to Sparkster to set things right again.
+
+Most of the gameplay in Rocket Knight Adventures involves using Sparkster's rocket pack and sword.  Sparkster has to fight off many bosses and survive many precarious situations.  The levels are interspersed with a variety of elements, like shooting stages, and giant robot combat.</desc>
+		<image>./mixart/Rocket Knight Adventures (USA) (MSU-MD).png</image>
+		<video>./snap/Rocket Knight Adventures (USA) (MSU-MD).mp4</video>
+		<marquee>./wheel/Rocket Knight Adventures (USA) (MSU-MD).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>790B4316D9FB8B0F47F36CBAB6A57688</cheevosHash>
+	</game>
+	<game id="155">
+		<path>./Ys III (USA) (MSU-MD) [T-En]/Ys III (USA) (MSU-MD) [T-En].md</path>
+		<name>Ys III</name>
+		<desc>Adol's long time friend, Dogi wishes to return to his home town of Redmont after hearing about strange disturbances that are happening there.  Always looking for an adventure, Adol joins him and soon finds out the cause of this new evil.
+
+Ys III breaks away from the "bumping into enemies" battle system of the first two games and allows Adol to control his sword in a variety of directions.  As well as changing the battle system, the game is now side scrolling instead of the previous games top-down view. Adol also now has the ability to jump.  Not new to the series is the use of magical rings which give Adol different powering up abilities such as healing and shielding.  The game also uses various key items found along the way to solve minor puzzles and progress the story.</desc>
+		<image>./mixart/Ys III (USA) (MSU-MD) [T-En].png</image>
+		<video>./snap/Ys III (USA) (MSU-MD) [T-En].mp4</video>
+		<marquee>./wheel/Ys III (USA) (MSU-MD) [T-En].png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19911201T000000</releasedate>
+		<developer>Nihon Falcom</developer>
+		<publisher>Nihon Falcom</publisher>
+		<genre>Puzzle-Game / Action RPG</genre>
+		<family>Ys</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>711FB5B71D3EA1C556E3364658C4DAEF</cheevosHash>
+	</game>
+	<game id="326">
+		<path>./Zero Wing (Europe) (MSU-MD)/Zero Wing (Europe) (MSU-MD).md</path>
+		<name>Zero Wing</name>
+		<desc>Zero Wing is an horizontal shooter game where the player is in control of a ZIG, an escape pod released after its main ship was attacked and destroyed by the evil cyborg CATS, bent on taking over the world.
+
+Like most games in the genre, there are three color-coded weapons: red (scatter), green (homing) and blue (lasers). Each weapon has three levels of power, and to obtain those, similar upgrades must be collected sequentially. However, what makes the game unique is the ability to use a traction beam to trap an enemy and then throw him against his peers, destroying them.
+
+The game (or the European PAL version) is best known for being the origin of the infamous "All Your Base" 2001 Internet meme.</desc>
+		<image>./mixart/Zero Wing (Europe) (MSU-MD).png</image>
+		<video>./snap/Zero Wing (Europe) (MSU-MD).mp4</video>
+		<marquee>./wheel/Zero Wing (Europe) (MSU-MD).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19920701T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>0CF8EE57C232690522FFD451828B5E4F</cheevosHash>
 	</game>
 </gameList>
