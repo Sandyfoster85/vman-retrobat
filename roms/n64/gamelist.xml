@@ -5167,53 +5167,187 @@
 		<cheevosHash>220543F489A9828021EA82A69E6305A3</cheevosHash>
 	</game>
 	<game>
-		<path>./Mario Through the Ages 1.1.z64</path>
-		<name>'H' Mario Through the Ages</name>
+		<path>./#homebrews/Mario Through the Ages 1.1.z64</path>
+		<name>Mario Through the Ages</name>
 		<desc>SM64 Through The Ages is a ROM Hack made by Kaze Emanuar, with 95 Stars. Mario visits various historical locations while teaming up with various partner Pokemon.</desc>
-		<image>./mixart/Mario Through the Ages 1.1.jpg</image>
-		<video>./snap/Mario Through the Ages 1.1.mp4</video>
-		<marquee>./wheel/Mario Through the Ages 1.1.png</marquee>
+		<image>./#homebrews/mixart/Mario Through the Ages 1.1.jpg</image>
+		<video>./#homebrews/snap/Mario Through the Ages 1.1.mp4</video>
+		<marquee>./#homebrews/wheel/Mario Through the Ages 1.1.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>20220305T000000</releasedate>
 		<developer>Fanmade</developer>
 		<publisher>Fandmade</publisher>
-		<genre>Platform, Action</genre>
+		<genre>Action, Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
 	<game>
-		<path>./SM64 Last Impact V1.2.z64</path>
-		<name>'H' SM64 Last Impact</name>
+		<path>./#homebrews/SM64 Last Impact V1.2.z64</path>
+		<name>SM64 Last Impact</name>
 		<desc>SM64: Last Impact is a major hack made by Kaze Emanuar. It was released on September 30th, 2016 at 8:00AM MDT. It contains 130 stars, 12 power-ups, many new bosses and a large variety of completely new levels.
 In this hack, Mario only has 6 health instead of the normal 8 and a separate gauge for air underwater. This hack presents many things that weren't in previous hacks or the original game, including new power-ups, custom music and objects, and unique boss fights.</desc>
 		<emulator>project64</emulator>
-		<image>./mixart/SM64 Last Impact V1.2.jpg</image>
-		<video>./snap/SM64 Last Impact V1.2.mp4</video>
-		<marquee>./wheel/SM64 Last Impact V1.2.png</marquee>
+		<image>./#homebrews/mixart/SM64 Last Impact V1.2.jpg</image>
+		<video>./#homebrews/snap/SM64 Last Impact V1.2.mp4</video>
+		<marquee>./#homebrews/wheel/SM64 Last Impact V1.2.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>20160305T000000</releasedate>
 		<developer>Fanmade</developer>
 		<publisher>Fandmade</publisher>
-		<genre>Platform, Action</genre>
+		<genre>Action, Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Waluigi's Taco Stand.z64</path>
-		<name>'H' Waluigi's Taco Stand</name>
+		<path>./#homebrews/Waluigi's Taco Stand.z64</path>
+		<name>Waluigi's Taco Stand</name>
 		<desc>Waluigi's Taco Stand is a rom hack of Super Mario 64 made by Kaze Emanuar and a standalone, unofficial and unlicensed game, being released in cartridge format (only one cartridge was made). In this game, Waluigi has to work in a Taco stand to pay his debts. It is based on a beautiful mock fictional video game meme.</desc>
-		<image>./mixart/Waluigi's Taco Stand.jpg</image>
-		<video>./snap/Waluigi's Taco Stand.mp4</video>
-		<marquee>./wheel/Waluigi's Taco Stand.png</marquee>
+		<image>./#homebrews/mixart/Waluigi's Taco Stand.jpg</image>
+		<video>./#homebrews/snap/Waluigi's Taco Stand.mp4</video>
+		<marquee>./#homebrews/wheel/Waluigi's Taco Stand.png</marquee>
 		<rating>0.5</rating>
 		<releasedate>20180305T000000</releasedate>
 		<developer>Fanmade</developer>
 		<publisher>Fandmade</publisher>
-		<genre>Platform, Action</genre>
+		<genre>Action, Platform</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/007 - GoldenEye with Mario.z64</path>
+		<name>007 - GoldenEye with Mario</name>
+		<desc>Fanmade 007 Goldeneye featearing Mario as the main character.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./#homebrews/mixart/007 - GoldenEye with Mario.jpg</image>
+		<video>./#homebrews/snap/007 - GoldenEye with Mario.mp4</video>
+		<marquee>./#homebrews/wheel/007 - GoldenEye with Mario.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Animal Forest (U) [!].z64</path>
+		<name>Animal Forest</name>
+		<desc>Fanmade Animal Forest mod from Animal Crossing with a completely different story.</desc>
+		<image>./#homebrews/mixart/Animal Forest (U) [!].jpg</image>
+		<video>./#homebrews/snap/Animal Forest (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Animal Forest (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart 64 - Overkart (U) [!].z64</path>
+		<name>Mario Kart 64 - Overkart</name>
+		<desc>Fanmade Mario Kart 64 with special mods in Overkart mode.</desc>
+		<image>./#homebrews/mixart/Mario Kart 64 - Overkart (U) [!].png</image>
+		<video>./#homebrews/snap/Mario Kart 64 - Overkart (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart 64 - Overkart (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Party 3 Starstruck (U) [!].z64</path>
+		<name>Mario Party 3 Starstruck</name>
+		<desc>Fanmade Mario Party 3 with special mods in Starstruck mode, new party and more.</desc>
+		<image>./#homebrews/mixart/Mario Party 3 Starstruck (U) [!].png</image>
+		<video>./#homebrews/snap/Mario Party 3 Starstruck (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Mario Party 3 Starstruck (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Party</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Smash Remix (U) [!].z64</path>
+		<name>Smash Remix</name>
+		<desc>Fanmade of Super Smash Bros with a ton of additional character rosters.</desc>
+		<image>./#homebrews/mixart/Smash Remix (U) [!].png</image>
+		<video>./#homebrews/snap/Smash Remix (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Smash Remix (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Brawl, Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario 64 Two Players (U) [!].z64</path>
+		<name>Super Mario 64 Co-op Multiplayer</name>
+		<desc>Fanmade of Super Mario 64 Two Players featuring a local co-op multiplayer splitscreen experience!</desc>
+		<image>./#homebrews/mixart/Super Mario 64 Two Players (U) [!].jpg</image>
+		<video>./#homebrews/snap/Super Mario 64 Two Players (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario 64 Two Players (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario 74 (U) [!].z64</path>
+		<name>Super Mario 74</name>
+		<desc>Fanmade of Super Mario 64 10 years later in the future with a new story!</desc>
+		<image>./#homebrews/mixart/Super Mario 74 (U) [!].png</image>
+		<video>./#homebrews/snap/Super Mario 74 (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario 74 (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario Star Road (U) [!].z64</path>
+		<name>Super Mario Star Road</name>
+		<desc>Fanmade of Super Mario 64 - Star Road prequil in the past with a new story!</desc>
+		<image>./#homebrews/mixart/Super Mario Star Road (U) [!].png</image>
+		<video>./#homebrews/snap/Super Mario Star Road (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario Star Road (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario Star Road (U) [!].z64</path>
+		<name>Super Mario Star Road (U) [!]</name>
 	</game>
 </gameList>

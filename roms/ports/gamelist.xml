@@ -628,4 +628,19 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./SoH - Zelda OoT.lnk</path>
+		<name>SoH - Zelda OoT</name>
+		<desc>Welcome to the Ship of Harkinian! A PC port of The Legend of Zelda: Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!</desc>
+		<image>./mixart/SoH - Zelda OoT.jpg</image>
+		<video>./snap/SoH - Zelda OoT.mp4</video>
+		<marquee>./wheel/SoH - Zelda OoT.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Fandmade</developer>
+		<publisher>Ship of Harkinian</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 </gameList>
