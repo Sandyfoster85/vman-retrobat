@@ -55,6 +55,14 @@ $n64_hd = $es_settings.config.AppendChild($n64_hd0)
 $n64_hd.SetAttribute("name","n64.TexturesPack")
 $n64_hd.SetAttribute("value","cache")
 
+# 2. 2023-01-15 - Update N64 FoldViewMode in order to see #homebrews
+$n64_hd0 = $es_settings.SelectSingleNode("//string[@name='n64.FolderViewMode']")
+$n64_hd0.ParentNode.RemoveChild($n64_hd0)
+$n64_hd0 = $es_settings.CreateElement("string")
+$n64_hd = $es_settings.config.AppendChild($n64_hd0)
+$n64_hd.SetAttribute("name","n64.FolderViewMode")
+$n64_hd.SetAttribute("value","always")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
