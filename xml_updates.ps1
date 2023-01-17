@@ -71,6 +71,14 @@ $snes_folderview = $es_settings.config.AppendChild($snes_folderview0)
 $snes_folderview.SetAttribute("name","snes.FolderViewMode")
 $snes_folderview.SetAttribute("value","always")
 
+# 4. 2023-01-17 - Update Wii FoldViewMode in order to see #homebrews
+$wii_folderview0 = $es_settings.SelectSingleNode("//string[@name='wii.FolderViewMode']")
+$wii_folderview0.ParentNode.RemoveChild($wii_folderview0)
+$wii_folderview0 = $es_settings.CreateElement("string")
+$wii_folderview = $es_settings.config.AppendChild($wii_folderview0)
+$wii_folderview.SetAttribute("name","wii.FolderViewMode")
+$wii_folderview.SetAttribute("value","always")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################

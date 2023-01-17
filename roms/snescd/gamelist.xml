@@ -1347,25 +1347,6 @@ Like most Castlevania games, Super Castlevania IV is a 2D side-scrolling action 
 		<cheevosHash>82582408C84C681385C625CFCF9BDB4F</cheevosHash>
 		<cheevosId>399</cheevosId>
 	</game>
-	<game id="172196" source="ScreenScraper.fr">
-		<path>./Super_Mario_Kart_(USA)_(MSU1).sfc</path>
-		<name>Super Mario Kart</name>
-		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
-
-There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
-		<image>./mixart/Super_Mario_Kart_(USA)_(MSU1).png</image>
-		<video>./snap/Super_Mario_Kart_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Super_Mario_Kart_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920901T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2</players>
-		<crc32>AC1E05DA</crc32>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>34397704FACBF518FA7A37EFC06416F8</cheevosHash>
-	</game>
 	<game>
 		<path>./Super_Mario_World_(USA)_(MSU1).sfc</path>
 		<name>Super Mario World</name>
@@ -2018,5 +1999,24 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<region>us</region>
 		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
 		<cheevosId>300</cheevosId>
+	</game>
+	<game id="172196" source="ScreenScraper.fr">
+		<path>./Super_Mario_Kart_(USA)_(MSU1).sfc</path>
+		<name>Super Mario Kart</name>
+		<desc>A collection of Super Mario characters, including Mario, Luigi, Yoshi, Peach, Bowser and Donkey Kong Jr., are out to win the Super Mario Kart championship. Using Mode 7 scaling, the first true kart game on the SNES has you collecting coins to boost your speed while using shells and bananas to stop others on the track. 
+
+There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Special Cup, each with a selection of tracks to race on (based in Bowser's Castle, Super Mario World and more). Plus, a 2 player battle mode is on offer, where the first to pop the three balloons wins.</desc>
+		<image>./mixart/Super_Mario_Kart_(USA)_(MSU1).png</image>
+		<video>./snap/Super_Mario_Kart_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Mario_Kart_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920901T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2</players>
+		<crc32>AC1E05DA</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>34397704FACBF518FA7A37EFC06416F8</cheevosHash>
 	</game>
 </gameList>

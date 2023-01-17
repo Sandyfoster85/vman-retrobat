@@ -8864,24 +8864,6 @@ Some educational content has also been included. Next to the habits, more inform
 		<cheevosHash>2E8814E664675572A43B01900BBBB16B</cheevosHash>
 		<cheevosId>532</cheevosId>
 	</game>
-	<game>
-		<path>./Mario Kart - Super Circuit (USA).7z</path>
-		<name>Mario Kart : Super Circuit</name>
-		<desc>All your favourite kart-racing characters are back and ready to kick it into high gear! 20 brand-new tracks await on Game Boy Advance, loaded with classic power-ups and primed for the type of frenzied racing that only Mario Kart: Super Circuit can deliver. It's time to burn rubber in the Grand Prix, challenge your pals, race your own ghost, clash in battle mode and feel the power in the palm of your hand!</desc>
-		<image>./mixart/Mario Kart - Super Circuit (USA).png</image>
-		<video>./snap/Mario Kart - Super Circuit (USA).mp4</video>
-		<marquee>./wheel/Mario Kart - Super Circuit (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20010827T000000</releasedate>
-		<developer>Intelligent Systems</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>784A036FF1AAE709E90167186639B75E</cheevosHash>
-		<cheevosId>533</cheevosId>
-	</game>
 	<game id="3883" source="ScreenScraper.fr">
 		<path>./Mario Party Advance (USA).7z</path>
 		<name>Mario Party Advance</name>
@@ -17685,65 +17667,6 @@ Gameplay consists of navigating through several areas using your Drill Dozer rob
 		<cheevosHash>39F8A42133DF444EEB7BF0B2194D6286</cheevosHash>
 		<cheevosId>773</cheevosId>
 	</game>
-	<game id="4064" source="ScreenScraper.fr">
-		<path>./Mega Man Zero 2 (USA).7z</path>
-		<name>Mega Man Zero 2</name>
-		<desc>A year after the events in Mega Man Zero, the hero finds himself in another battle to save the world. Caught in-between the reploids and humans, Neo Arcadia's new commander has tricked Zero into helping her, although her reasons are uncertain.
-
-To fix the problem, Zero must battle through level after level, using the new Chain Rod weapon to grapple onto ledges to gain an advantage in collecting out of reach items or attacking enemies from above. Cyber Elfs can again be collected to gain some helpful powerups.
-
-New to the series is a two player challenge mode, where the first to complete the level wins.</desc>
-		<image>./mixart/Mega Man Zero 2 (USA).png</image>
-		<video>./snap/Mega Man Zero 2 (USA).mp4</video>
-		<marquee>./wheel/Mega Man Zero 2 (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20031014T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>182363B0698322E1864CED6E9EED7EAD</cheevosHash>
-		<cheevosId>783</cheevosId>
-	</game>
-	<game id="3987" source="ScreenScraper.fr">
-		<path>./Mega Man Zero 3 (USA).7z</path>
-		<name>Mega Man Zero 3</name>
-		<desc>In the third installment of Capcom's Mega Man Zero series, you, unsurprisingly, play as Zero. Continuing where the Mega Man Zero 2 left off, you have to find and neutralize the recently escaped "Dark Elf," before it's able to brainwash the Resistance for the purpose of conquering Neo Arcadia. 
-
-In addition to the old Cyber Elf system, this game also contains a new "chip" system, where Zero can gain new abilities by finding chips and installing chip in himself. But they didn't decide to abandon the Cyber Elves in this game by giving them nothing new. No, in order to extend the life of the Cyber Elves, they added the new concept of "Cyber Space" to levels, where you enter a door to Cyber Space and are allowed to use each Cyber Elf as much as you please without them dying. However, there aren't too many "Secret Disks" (items that can contain anything from profiles of characters to Cyber Elves to new chips) in Cyber Space, so it's better to spend more time in the normal level.</desc>
-		<image>./mixart/Mega Man Zero 3 (USA).png</image>
-		<video>./snap/Mega Man Zero 3 (USA).mp4</video>
-		<marquee>./wheel/Mega Man Zero 3 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20041005T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AA1D5EEFFCD5E4577DB9EE6D9B1100F9</cheevosHash>
-		<cheevosId>625</cheevosId>
-	</game>
-	<game>
-		<path>./Mega Man Zero 4 (USA).7z</path>
-		<name>Mega Man Zero 4</name>
-		<desc>The Zero Knuckle... the baddest new tool in Zero's arsenal lets you steal enemies' weapons and use them in battle. Employ this along with countless other cool moves to fight the Neo Arcadian army, defeat the evil Dr. Weil and help the caravan of humans reach the peace and security of Area Zero.</desc>
-		<image>./mixart/Mega Man Zero 4 (USA).png</image>
-		<video>./snap/Mega Man Zero 4 (USA).mp4</video>
-		<marquee>./wheel/Mega Man Zero 4 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20051004T000000</releasedate>
-		<developer>Inti Creates</developer>
-		<publisher>Capcom</publisher>
-		<genre>Simulation-Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0D1E88BDB09FF68ADF9877A121325F9C</cheevosHash>
-		<cheevosId>784</cheevosId>
-	</game>
 	<game id="4616" source="ScreenScraper.fr">
 		<path>./Mr. Driller 2 (USA).7z</path>
 		<name>Mr. Driller 2</name>
@@ -17990,5 +17913,82 @@ Apart from the single player puzzle experience (which includes more then 60 aren
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>77EDF4F506B3343E15EFE61D64944EBA</cheevosHash>
+	</game>
+	<game id="4064" source="ScreenScraper.fr">
+		<path>./Mega Man Zero 2 (USA).7z</path>
+		<name>Mega Man Zero 2</name>
+		<desc>A year after the events in Mega Man Zero, the hero finds himself in another battle to save the world. Caught in-between the reploids and humans, Neo Arcadia's new commander has tricked Zero into helping her, although her reasons are uncertain.
+
+To fix the problem, Zero must battle through level after level, using the new Chain Rod weapon to grapple onto ledges to gain an advantage in collecting out of reach items or attacking enemies from above. Cyber Elfs can again be collected to gain some helpful powerups.
+
+New to the series is a two player challenge mode, where the first to complete the level wins.</desc>
+		<image>./mixart/Mega Man Zero 2 (USA).png</image>
+		<video>./snap/Mega Man Zero 2 (USA).mp4</video>
+		<marquee>./wheel/Mega Man Zero 2 (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20031014T000000</releasedate>
+		<developer>Inti Creates</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>182363B0698322E1864CED6E9EED7EAD</cheevosHash>
+		<cheevosId>783</cheevosId>
+	</game>
+	<game id="3987" source="ScreenScraper.fr">
+		<path>./Mega Man Zero 3 (USA).7z</path>
+		<name>Mega Man Zero 3</name>
+		<desc>In the third installment of Capcom's Mega Man Zero series, you, unsurprisingly, play as Zero. Continuing where the Mega Man Zero 2 left off, you have to find and neutralize the recently escaped "Dark Elf," before it's able to brainwash the Resistance for the purpose of conquering Neo Arcadia. 
+
+In addition to the old Cyber Elf system, this game also contains a new "chip" system, where Zero can gain new abilities by finding chips and installing chip in himself. But they didn't decide to abandon the Cyber Elves in this game by giving them nothing new. No, in order to extend the life of the Cyber Elves, they added the new concept of "Cyber Space" to levels, where you enter a door to Cyber Space and are allowed to use each Cyber Elf as much as you please without them dying. However, there aren't too many "Secret Disks" (items that can contain anything from profiles of characters to Cyber Elves to new chips) in Cyber Space, so it's better to spend more time in the normal level.</desc>
+		<image>./mixart/Mega Man Zero 3 (USA).png</image>
+		<video>./snap/Mega Man Zero 3 (USA).mp4</video>
+		<marquee>./wheel/Mega Man Zero 3 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20041005T000000</releasedate>
+		<developer>Inti Creates</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AA1D5EEFFCD5E4577DB9EE6D9B1100F9</cheevosHash>
+		<cheevosId>625</cheevosId>
+	</game>
+	<game>
+		<path>./Mega Man Zero 4 (USA).7z</path>
+		<name>Mega Man Zero 4</name>
+		<desc>The Zero Knuckle... the baddest new tool in Zero's arsenal lets you steal enemies' weapons and use them in battle. Employ this along with countless other cool moves to fight the Neo Arcadian army, defeat the evil Dr. Weil and help the caravan of humans reach the peace and security of Area Zero.</desc>
+		<image>./mixart/Mega Man Zero 4 (USA).png</image>
+		<video>./snap/Mega Man Zero 4 (USA).mp4</video>
+		<marquee>./wheel/Mega Man Zero 4 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051004T000000</releasedate>
+		<developer>Inti Creates</developer>
+		<publisher>Capcom</publisher>
+		<genre>Simulation-Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0D1E88BDB09FF68ADF9877A121325F9C</cheevosHash>
+		<cheevosId>784</cheevosId>
+	</game>
+	<game>
+		<path>./Mario Kart - Super Circuit (USA).7z</path>
+		<name>Mario Kart : Super Circuit</name>
+		<desc>All your favourite kart-racing characters are back and ready to kick it into high gear! 20 brand-new tracks await on Game Boy Advance, loaded with classic power-ups and primed for the type of frenzied racing that only Mario Kart: Super Circuit can deliver. It's time to burn rubber in the Grand Prix, challenge your pals, race your own ghost, clash in battle mode and feel the power in the palm of your hand!</desc>
+		<image>./mixart/Mario Kart - Super Circuit (USA).png</image>
+		<video>./snap/Mario Kart - Super Circuit (USA).mp4</video>
+		<marquee>./wheel/Mario Kart - Super Circuit (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20010827T000000</releasedate>
+		<developer>Intelligent Systems</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>784A036FF1AAE709E90167186639B75E</cheevosHash>
+		<cheevosId>533</cheevosId>
 	</game>
 </gameList>

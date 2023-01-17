@@ -6276,24 +6276,6 @@ Features:
 		<region>us</region>
 		<genreid>768</genreid>
 	</game>
-	<game id="11009" source="ScreenScraper.fr">
-		<path>./Mario Kart 7 (U).3ds</path>
-		<name>Mario Kart 7</name>
-		<desc>The newest installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.</desc>
-		<image>./mixart/Mario Kart 7 (U).png</image>
-		<video>./snap/Mario Kart 7 (U).mp4</video>
-		<marquee>./wheel/Mario Kart 7 (U).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20111201T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-8</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
-	</game>
 	<game id="11025" source="ScreenScraper.fr">
 		<path>./New Super Mario Bros. 2 (Usa).3ds</path>
 		<name>New Super Mario Bros. 2</name>
@@ -6377,5 +6359,23 @@ The game features a story and structure similar to Metroid II but with new contr
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>257</genreid>
+	</game>
+	<game id="11009" source="ScreenScraper.fr">
+		<path>./Mario Kart 7 (U).3ds</path>
+		<name>Mario Kart 7</name>
+		<desc>The newest installment of the fan-favorite Mario Kart franchise brings Mushroom Kingdom racing fun into glorious 3D. For the first time, drivers explore new competitive kart possibilities, such as soaring through the skies or plunging to the depths of the sea. New courses, strategic new abilities and customizable karts bring the racing excitement to new heights.</desc>
+		<image>./mixart/Mario Kart 7 (U).png</image>
+		<video>./snap/Mario Kart 7 (U).mp4</video>
+		<marquee>./wheel/Mario Kart 7 (U).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20111201T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-8</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
 	</game>
 </gameList>
