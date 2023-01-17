@@ -63,6 +63,14 @@ $n64_folderview = $es_settings.config.AppendChild($n64_folderview0)
 $n64_folderview.SetAttribute("name","n64.FolderViewMode")
 $n64_folderview.SetAttribute("value","always")
 
+# 3. 2023-01-16 - Update SNES FoldViewMode in order to see #homebrews
+$snes_folderview0 = $es_settings.SelectSingleNode("//string[@name='snes.FolderViewMode']")
+$snes_folderview0.ParentNode.RemoveChild($snes_folderview0)
+$snes_folderview0 = $es_settings.CreateElement("string")
+$snes_folderview = $es_settings.config.AppendChild($snes_folderview0)
+$snes_folderview.SetAttribute("name","snes.FolderViewMode")
+$snes_folderview.SetAttribute("value","always")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################

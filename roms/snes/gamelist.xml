@@ -2484,7 +2484,7 @@ Same as the movie, the game is based in cartoon graphics.</desc>
 	</game>
 	<game>
 		<path>./Cooly Skunk (Japan).7z</path>
-		<name>'H'Cooly Skunk</name>
+		<name>Cooly Skunk</name>
 		<desc>Cooly Skunk is an unreleased platform game that was originally in development by Visit for the Super Famicom. The game was never released for the Nintendo console, but the title was somehow resurrected by Ukiyotei with some graphical changes for the Playstation and later published in Japan by Visit and in America by Jaleco. The original Super Famicom version was recovered in late 2019 from a Satellaview BS-X “8M” cartridge and made publicly available in January 2020.
 In Cooly Skunk the player takes the role of an anthropomorphic skunk and the game plays much like other side-scrolling action games, featuring a set of special tools including a skunk spray, parasail, a pogo stick, inline skates, digging claws, and a snowboard.</desc>
 		<image>./mixart/Cooly Skunk (Japan).png</image>
@@ -2843,10 +2843,20 @@ All the familiar enemies and helpful friends return, along with some new charact
 	</game>
 	<game>
 		<path>./Donkey Kong Country 2 Brigand Barrage.7z</path>
-		<name>'H'Donkey Kong Country 2 Brigand Barrage</name>
-		<image>./mixart/Donkey Kong Country 2 Brigand Barrage.jpg</image>
+		<name>Donkey Kong Country 2 Brigand Barrage</name>
+		<image>./mixart/Donkey Kong Country 2 Brigand Barrage.png</image>
 		<video>./snap/Donkey Kong Country 2 Brigand Barrage.mp4</video>
 		<marquee>./wheel/Donkey Kong Country 2 Brigand Barrage.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>47BC16428DAC534FA9729F97B2E9B5A9</cheevosHash>
+		<cheevosId>7873</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Donkey Kong Country 2 Brigand Barrage.7z</path>
+		<name>Donkey Kong Country 2 Brigand Barrage</name>
+		<image>./#homebrews/mixart/Donkey Kong Country 2 Brigand Barrage.png</image>
+		<video>./#homebrews/snap/Donkey Kong Country 2 Brigand Barrage.mp4</video>
+		<marquee>./#homebrews/wheel/Donkey Kong Country 2 Brigand Barrage.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>47BC16428DAC534FA9729F97B2E9B5A9</cheevosHash>
 		<cheevosId>7873</cheevosId>
@@ -5476,12 +5486,27 @@ In this 2D shooter, Player 1 controls Dr. Alan Grant and Player 2 controls Tacti
 	</game>
 	<game>
 		<path>./Justice for Mario.7z</path>
-		<name>'H'Justice for Mario</name>
+		<name>Justice for Mario</name>
 		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<emulator>snes9x</emulator>
 		<image>./mixart/Justice for Mario.jpg</image>
 		<video>./snap/Justice for Mario.mp4</video>
 		<marquee>./wheel/Justice for Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>2BC3BA107D1660F2B42C009E8ABB39F7</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Justice for Mario.7z</path>
+		<name>Justice for Mario</name>
+		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Justice for Mario.jpg</image>
+		<video>./#homebrews/snap/Justice for Mario.mp4</video>
+		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
@@ -11586,10 +11611,20 @@ The gameplay takes place across worlds themed around particular types of toys, s
 	</game>
 	<game>
 		<path>./Super Mario 100 Rooms of Enemies (Do or Die Mode).7z</path>
-		<name>'H'Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
+		<name>Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
 		<image>./mixart/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</image>
 		<video>./snap/Super Mario 100 Rooms of Enemies (Do or Die Mode).mp4</video>
 		<marquee>./wheel/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</marquee>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>C8F95D9C467280088463D6C882034B8B</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario 100 Rooms of Enemies (Do or Die Mode).7z</path>
+		<name>Super Mario 100 Rooms of Enemies (Do or Die Mode)</name>
+		<image>./#homebrews/mixart/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</image>
+		<video>./#homebrews/snap/Super Mario 100 Rooms of Enemies (Do or Die Mode).mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario 100 Rooms of Enemies (Do or Die Mode).png</marquee>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>C8F95D9C467280088463D6C882034B8B</cheevosHash>
@@ -14675,7 +14710,7 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 	</game>
 	<game>
 		<path>./Hyper Street Kart.7z</path>
-		<name>'H'Hyper Street Kart</name>
+		<name>Hyper Street Kart</name>
 		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
 		<image>./mixart/Hyper Street Kart.png</image>
 		<video>./snap/Hyper Street Kart.mp4</video>
@@ -14688,11 +14723,35 @@ For competitive players in both games, there is Mixed Match, where you and a fri
 		<cheevosId>12825</cheevosId>
 	</game>
 	<game>
+		<path>./#homebrews/Hyper Street Kart.7z</path>
+		<name>Hyper Street Kart</name>
+		<desc>Hack of Super Mario Kart. All the 8 drivers sprites have been replaced with fighters from Street Fighter II. New and modified Tracks.</desc>
+		<image>./#homebrews/mixart/Hyper Street Kart.png</image>
+		<video>./#homebrews/snap/Hyper Street Kart.mp4</video>
+		<marquee>./#homebrews/wheel/Hyper Street Kart.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>55F3C18B1355C09DFAF9DD280193734A</cheevosHash>
+		<cheevosId>12825</cheevosId>
+	</game>
+	<game>
 		<path>./Metroid Super Zero Mission.7z</path>
-		<name>'H'Metroid Super Zero Mission</name>
-		<image>./mixart/Metroid Super Zero Mission.jpg</image>
+		<name>Metroid Super Zero Mission</name>
+		<image>./mixart/Metroid Super Zero Mission.png</image>
 		<video>./snap/Metroid Super Zero Mission.mp4</video>
 		<marquee>./wheel/Metroid Super Zero Mission.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>8C04220C2E0F78ABB9BB7CBBC7CFBBDE</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Metroid Super Zero Mission.7z</path>
+		<name>Metroid Super Zero Mission</name>
+		<desc>-[Super Zero Mission]- A complete hack that artfully combines the essences of both Super Metroid and Metroid Zero Mission. A lot of ASM modifications were utilized in order to freshen up the gameplay considerably. Only the standard abilities of Samus are required to play this hack, but players adept with advanced techniques will find ample opportunity to use them. This hack, made by a Metroid hacker from Japan, is turning the heads of numerous Metroid hackers from the english-speaking world.</desc>
+		<image>./#homebrews/mixart/Metroid Super Zero Mission.png</image>
+		<video>./#homebrews/snap/Metroid Super Zero Mission.mp4</video>
+		<marquee>./#homebrews/wheel/Metroid Super Zero Mission.png</marquee>
 		<lang>en</lang>
 		<cheevosHash>8C04220C2E0F78ABB9BB7CBBC7CFBBDE</cheevosHash>
 	</game>
@@ -14756,7 +14815,7 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 	</game>
 	<game>
 		<path>./NBA Jam 2k20.7z</path>
-		<name>'H'NBA Jam 2k20</name>
+		<name>NBA Jam 2k20</name>
 		<image>./mixart/NBA Jam 2k20.png</image>
 		<video>./snap/NBA Jam 2k20.mp4</video>
 		<marquee>./wheel/NBA Jam 2k20.png</marquee>
@@ -14766,8 +14825,19 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>D6C1DC2EAEFD15F9B0AB76C7261B8973</cheevosHash>
 	</game>
 	<game>
+		<path>./#homebrews/NBA Jam 2k20.7z</path>
+		<name>NBA Jam 2k20</name>
+		<image>./#homebrews/mixart/NBA Jam 2k20.png</image>
+		<video>./#homebrews/snap/NBA Jam 2k20.mp4</video>
+		<marquee>./#homebrews/wheel/NBA Jam 2k20.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T010000</releasedate>
+		<lang>en</lang>
+		<cheevosHash>D6C1DC2EAEFD15F9B0AB76C7261B8973</cheevosHash>
+	</game>
+	<game>
 		<path>./New Super Mario World 2 Around The World.7z</path>
-		<name>'H'New Super Mario World 2 Around The World</name>
+		<name>New Super Mario World 2 Around The World</name>
 		<desc>New Super Mario World 2 Around The World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<emulator>snes9x</emulator>
 		<image>./mixart/New Super Mario World 2 Around The World.jpg</image>
@@ -14781,8 +14851,23 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>ED7C6818269EF84B3EF1332F778843F4</cheevosHash>
 	</game>
 	<game>
+		<path>./#homebrews/New Super Mario World 2 Around The World.7z</path>
+		<name>New Super Mario World 2 Around The World</name>
+		<desc>New Super Mario World 2 Around The World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/New Super Mario World 2 Around The World.jpg</image>
+		<video>./#homebrews/snap/New Super Mario World 2 Around The World.mp4</video>
+		<marquee>./#homebrews/wheel/New Super Mario World 2 Around The World.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>ED7C6818269EF84B3EF1332F778843F4</cheevosHash>
+	</game>
+	<game>
 		<path>./Oh No! More Zombies Ate My Neighbors.7z</path>
-		<name>'H'Oh No! More Zombies Ate My Neighbors</name>
+		<name>Oh No! More Zombies Ate My Neighbors</name>
 		<image>./mixart/Oh No! More Zombies Ate My Neighbors.jpg</image>
 		<video>./snap/Oh No! More Zombies Ate My Neighbors.mp4</video>
 		<marquee>./wheel/Oh No! More Zombies Ate My Neighbors.png</marquee>
@@ -14790,8 +14875,17 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>7F44A65CF20B213502314FC118B5A6F4</cheevosHash>
 	</game>
 	<game>
+		<path>./#homebrews/Oh No! More Zombies Ate My Neighbors.7z</path>
+		<name>Oh No! More Zombies Ate My Neighbors</name>
+		<image>./#homebrews/mixart/Oh No! More Zombies Ate My Neighbors.jpg</image>
+		<video>./#homebrews/snap/Oh No! More Zombies Ate My Neighbors.mp4</video>
+		<marquee>./#homebrews/wheel/Oh No! More Zombies Ate My Neighbors.png</marquee>
+		<lang>en</lang>
+		<cheevosHash>7F44A65CF20B213502314FC118B5A6F4</cheevosHash>
+	</game>
+	<game>
 		<path>./Pasedonal Mario Worlds.7z</path>
-		<name>'H'Pasedonal Mario Worlds</name>
+		<name>Pasedonal Mario Worlds</name>
 		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<emulator>snes9x</emulator>
 		<image>./mixart/Pasedonal Mario Worlds.jpg</image>
@@ -14805,13 +14899,43 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>88D9F569FEDDD365154B96282ADB7159</cheevosHash>
 	</game>
 	<game>
+		<path>./#homebrews/Pasedonal Mario Worlds.7z</path>
+		<name>Pasedonal Mario Worlds</name>
+		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Pasedonal Mario Worlds.jpg</image>
+		<video>./#homebrews/snap/Pasedonal Mario Worlds.mp4</video>
+		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>88D9F569FEDDD365154B96282ADB7159</cheevosHash>
+	</game>
+	<game>
 		<path>./Super Enan World.7z</path>
-		<name>'H'Super Enan World</name>
+		<name>Super Enan World</name>
 		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<emulator>snes9x</emulator>
 		<image>./mixart/Super Enan World.jpg</image>
 		<video>./snap/Super Enan World.mp4</video>
 		<marquee>./wheel/Super Enan World.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>C43EAE8B30185C6D68C5E19A1A2B4A37</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Super Enan World.7z</path>
+		<name>Super Enan World</name>
+		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Super Enan World.jpg</image>
+		<video>./#homebrews/snap/Super Enan World.mp4</video>
+		<marquee>./#homebrews/wheel/Super Enan World.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
@@ -15140,11 +15264,29 @@ Shadowrun for SNES is a skill-based RPG that uses real time combat. You can hire
 	</game>
 	<game id="153363">
 		<path>./Dorke and Ymp.7z</path>
-		<name>'H'Dorke &amp; Ymp</name>
+		<name>Dorke &amp; Ymp</name>
 		<desc>Unreleased game developed 1993 got a public release late 2015. Dorke &amp; Ymp will be an elegant platformer with 4 worlds, a plethora of items and countless enemies. The clever Dorke is an apprentice of a rather sketchy wizard, and a showdown between the two is inevitable.</desc>
 		<image>./mixart/Dorke and Ymp-image.png</image>
 		<video>./snap/Dorke and Ymp-video.mp4</video>
 		<marquee>./wheel/Dorke and Ymp-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20150806T000000</releasedate>
+		<developer>Norsehelm Production</developer>
+		<publisher>Piko Interactive</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>E890DDB9465A4E7A7413409E4B4BBEA7</cheevosHash>
+		<scrap name="ScreenScraper" date="20221016T124856" />
+	</game>
+	<game id="153363">
+		<path>./#homebrews/Dorke and Ymp.7z</path>
+		<name>Dorke &amp; Ymp</name>
+		<desc>Unreleased game developed 1993 got a public release late 2015. Dorke &amp; Ymp will be an elegant platformer with 4 worlds, a plethora of items and countless enemies. The clever Dorke is an apprentice of a rather sketchy wizard, and a showdown between the two is inevitable.</desc>
+		<image>./#homebrews/mixart/Dorke and Ymp.png</image>
+		<video>./#homebrews/snap/Dorke and Ymp.mp4</video>
+		<marquee>./#homebrews/wheel/Dorke and Ymp.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>20150806T000000</releasedate>
 		<developer>Norsehelm Production</developer>
@@ -15206,7 +15348,7 @@ Can you help save Christmas? Let's find out tonight!</desc>
 	</game>
 	<game>
 		<path>./New Super Mario Land.7z</path>
-		<name>'H'New Super Mario Land</name>
+		<name>New Super Mario Land</name>
 		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<image>./mixart/New Super Mario Land.png</image>
 		<video>./snap/New Super Mario Land.mp4</video>
@@ -15221,13 +15363,45 @@ Can you help save Christmas? Let's find out tonight!</desc>
 		<cheevosId>1234</cheevosId>
 	</game>
 	<game>
+		<path>./#homebrews/New Super Mario Land.7z</path>
+		<name>New Super Mario Land</name>
+		<desc>New Super Mario Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<image>./#homebrews/mixart/New Super Mario Land.png</image>
+		<video>./#homebrews/snap/New Super Mario Land.mp4</video>
+		<marquee>./#homebrews/wheel/New Super Mario Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>EBED74B4E5DDE0423C61AE4730A7B6A4</cheevosHash>
+		<cheevosId>1234</cheevosId>
+	</game>
+	<game>
 		<path>./Super Luigi Land.7z</path>
-		<name>'H'Super Luigi Land</name>
+		<name>Super Luigi Land</name>
 		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
 		<emulator>snes9x</emulator>
 		<image>./mixart/Super Luigi Land.jpg</image>
 		<video>./snap/Super Luigi Land.mp4</video>
 		<marquee>./wheel/Super Luigi Land.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<lang>en</lang>
+		<cheevosHash>D2F9E515FC4A0FCAAEEE14DC593DF26E</cheevosHash>
+		<cheevosId>9630</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Super Luigi Land.7z</path>
+		<name>Super Luigi Land</name>
+		<desc>Super Luigi Land is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Super Luigi Land.jpg</image>
+		<video>./#homebrews/snap/Super Luigi Land.mp4</video>
+		<marquee>./#homebrews/wheel/Super Luigi Land.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
