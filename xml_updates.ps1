@@ -95,6 +95,13 @@ $genesis_folderview = $es_settings.config.AppendChild($genesis_folderview0)
 $genesis_folderview.SetAttribute("name","genesis.FolderViewMode")
 $genesis_folderview.SetAttribute("value","always")
 
+# 6. 2023-01-18 - Update megadrive FoldViewMode in order to see #homebrews
+$megadrive_folderview0 = $es_settings.SelectSingleNode("//string[@name='megadrive.FolderViewMode']")
+$megadrive_folderview0.ParentNode.RemoveChild($megadrive_folderview0)
+$megadrive_folderview0 = $es_settings.CreateElement("string")
+$megadrive_folderview = $es_settings.config.AppendChild($megadrive_folderview0)
+$megadrive_folderview.SetAttribute("name","megadrive.FolderViewMode")
+$megadrive_folderview.SetAttribute("value","always")
 
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
