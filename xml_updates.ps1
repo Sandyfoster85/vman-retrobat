@@ -79,6 +79,23 @@ $wii_folderview = $es_settings.config.AppendChild($wii_folderview0)
 $wii_folderview.SetAttribute("name","wii.FolderViewMode")
 $wii_folderview.SetAttribute("value","always")
 
+# 5. 2023-01-18 - Update Dreamcast FoldViewMode in order to see #homebrews
+$dreamcast_folderview0 = $es_settings.SelectSingleNode("//string[@name='dreamcast.FolderViewMode']")
+$dreamcast_folderview0.ParentNode.RemoveChild($dreamcast_folderview0)
+$dreamcast_folderview0 = $es_settings.CreateElement("string")
+$dreamcast_folderview = $es_settings.config.AppendChild($dreamcast_folderview0)
+$dreamcast_folderview.SetAttribute("name","dreamcast.FolderViewMode")
+$dreamcast_folderview.SetAttribute("value","always")
+
+# 6. 2023-01-18 - Update Genesis FoldViewMode in order to see #homebrews
+$genesis_folderview0 = $es_settings.SelectSingleNode("//string[@name='genesis.FolderViewMode']")
+$genesis_folderview0.ParentNode.RemoveChild($genesis_folderview0)
+$genesis_folderview0 = $es_settings.CreateElement("string")
+$genesis_folderview = $es_settings.config.AppendChild($genesis_folderview0)
+$genesis_folderview.SetAttribute("name","genesis.FolderViewMode")
+$genesis_folderview.SetAttribute("value","always")
+
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
