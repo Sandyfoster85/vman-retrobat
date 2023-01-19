@@ -103,6 +103,14 @@ $megadrive_folderview = $es_settings.config.AppendChild($megadrive_folderview0)
 $megadrive_folderview.SetAttribute("name","megadrive.FolderViewMode")
 $megadrive_folderview.SetAttribute("value","always")
 
+# 7. 2023-01-19 - Update Collections enabled in order to see them for RBL Theme
+$collection_custom0 = $es_settings.SelectSingleNode("//string[@name='CollectionSystemsCustom']")
+$collection_custom0.ParentNode.RemoveChild($collection_custom0)
+$collection_custom0 = $es_settings.CreateElement("string")
+$collection_custom = $es_settings.config.AppendChild($collection_custom0)
+$collection_custom.SetAttribute("name","CollectionSystemsCustom")
+$collection_custom.SetAttribute("value","Virtualman-Xmas-Special,baseball,basketball,batman,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,kof,lightgun,mario,mariokart,marvel,megaman,metalslug,metroid,mortalkombat,oldschool,pinball,racing,shmups,soccer,sonic,sor,starwars,streetfighter,tennis,tmnt,trackball,tron,zelda")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
