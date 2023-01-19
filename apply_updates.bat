@@ -73,6 +73,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBa
 rem 4. 2023-12-21 - Fix Rockin'Bliss shortcut from Ports - Note: Change Drive according to your location C: or V: - reported by Virtualman
 copy /y "V:\_tools\vman-retrobat-master\roms\ports\Rockin'Bliss!.lnk" V:\RetroBat\roms\ports\
 
+rem 5. 2023-1-19 - EmulationStation Theme fixes - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
