@@ -8856,22 +8856,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Volgarr.lnk</path>
-		<name>Volgarr The Viking</name>
-		<desc>Remember when games were tough? Return to the Golden Age of arcades with an all-NEW hardcore action experience that pulls no punches! Volgarr the Viking possesses all the hallmarks of the true classics – simple controls, high challenge, and meticulous design – combined with hand-made pixel animation, an epic soundtrack, and buckets of blood. Flex your gaming muscles and step into the arena with Volgarr the Viking. Fun fact ported from Dreamcast.</desc>
-		<image>./mixart/Volgarr.png</image>
-		<video>./snap/Volgarr.mp4</video>
-		<marquee>./wheel/Volgarr.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>Crazy Viking Studios</developer>
-		<publisher>Adult Swim Games</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Bejeweled 3.lnk</path>
 		<name>PopCap Bejeweled 3</name>
 		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
@@ -9721,6 +9705,22 @@ From the very beginning of the project, Sonic 2 HD has focused on maintaining th
 		<developer>S2HD Project</developer>
 		<publisher>Fanmade</publisher>
 		<genre>Action, Platform</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Volgarr.lnk</path>
+		<name>Volgarr The Viking</name>
+		<desc>Remember when games were tough? Return to the Golden Age of arcades with an all-NEW hardcore action experience that pulls no punches! Volgarr the Viking possesses all the hallmarks of the true classics – simple controls, high challenge, and meticulous design – combined with hand-made pixel animation, an epic soundtrack, and buckets of blood. Flex your gaming muscles and step into the arena with Volgarr the Viking. Fun fact ported from Dreamcast.</desc>
+		<image>./mixart/Volgarr.png</image>
+		<video>./snap/Volgarr.mp4</video>
+		<marquee>./wheel/Volgarr.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Crazy Viking Studios</developer>
+		<publisher>Adult Swim Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

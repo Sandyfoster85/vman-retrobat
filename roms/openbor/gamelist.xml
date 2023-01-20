@@ -930,21 +930,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Golden Axe Legend.pak</path>
-		<name>Golden Axe Legend</name>
-		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
-		<image>./mixart/Golden Axe Legend.png</image>
-		<video>./snap/Golden Axe Legend.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Guilty Gear - The Crusades.pak</path>
 		<name>Guilty Gear The Crusades</name>
 		<desc>A decent OpenBOR game that's based on Guilty Gear. The graphics are a bit on the mediocre side, since the GG characters are missing frames of animation, the enemies are "familiar", and the game has the default physics, but if you can get past these aspects it's alright.  Playable characters: Sol Badguy, Ky Kiske, Potemkin, Baiken, Hayato (Star Gladiator), Ceil (Melty Blood)</desc>
@@ -2202,21 +2187,6 @@
 		<marquee>./wheel/Golden Axe Curse of Death Adder 3.0.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>19700101T010000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Golden Axe Death Adder Curse.pak</path>
-		<name>Golden Axe Death Adder Curse</name>
-		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
-		<image>./mixart/Golden Axe Death Adder Curse.png</image>
-		<video>./snap/Golden Axe Death Adder Curse.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -4103,6 +4073,51 @@
 		<genre>2D-Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Golden Axe Death Adder Curse.pak</path>
+		<name>Golden Axe Death Adder Curse</name>
+		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
+		<image>./mixart/Golden Axe Death Adder Curse.png</image>
+		<video>./snap/Golden Axe Death Adder Curse.mp4</video>
+		<marquee>./wheel/Golden Axe Curse of Death Adder 3.0.png</marquee>
+		<rating>1</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Golden Axe Legend.pak</path>
+		<name>Golden Axe Legend</name>
+		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
+		<image>./mixart/Golden Axe Legend.png</image>
+		<video>./snap/Golden Axe Legend.mp4</video>
+		<marquee>./wheel/Golden Axe Legend.png</marquee>
+		<rating>1</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Golden Axe Returns.pak</path>
+		<name>Golden Axe Returns</name>
+		<desc>The story of this game takes place after Golden Axe 3 and Before Golden Axe: Revenge of Death Adder.</desc>
+		<image>./mixart/Golden Axe Returns.png</image>
+		<video>./snap/Golden Axe Returns.mp4</video>
+		<marquee>./wheel/Golden Axe Returns.png</marquee>
+		<rating>1</rating>
+		<releasedate>20230101T000000</releasedate>
+		<developer>Zvitor</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>
