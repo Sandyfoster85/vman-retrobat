@@ -1802,21 +1802,6 @@ This sequel features all-new stages and music, and improved animation and graphi
 		<cheevosId>11760</cheevosId>
 	</game>
 	<game>
-		<path>./zupapa.zip</path>
-		<name>Zupapa</name>
-		<desc>Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay.</desc>
-		<image>./mixart/zupapa.png</image>
-		<video>./snap/zupapa.mp4</video>
-		<marquee>./wheel/zupapa.png</marquee>
-		<rating>0</rating>
-		<releasedate>20010901T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<players>2</players>
-		<cheevosHash>49B6A83D2F5A22F82FBD531A4A94AF7B</cheevosHash>
-	</game>
-	<game>
 		<path>./2020bb.zip</path>
 		<name>2020 Super Baseball</name>
 		<desc>In the year 2020, baseball finally evolved. There is no longer conventional professional baseball in 2020. Baseball designed by the Super Baseball Association has been very popular and is the best sport.
@@ -2324,5 +2309,53 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
 		<cheevosId>11768</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/xenocrisis.zip</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
+		<image>./#homebrews/mixart/xenocrisis.png</image>
+		<video>./#homebrews/snap/xenocrisis.mp4</video>
+		<marquee>./#homebrews/wheel/xenocrisis.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Independent</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./zupapa.zip</path>
+		<name>Zupapa</name>
+		<desc>Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay.</desc>
+		<image>./mixart/zupapa.png</image>
+		<video>./snap/zupapa.mp4</video>
+		<marquee>./wheel/zupapa.png</marquee>
+		<rating>0</rating>
+		<releasedate>20010901T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>49B6A83D2F5A22F82FBD531A4A94AF7B</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/hypernoid.zip</path>
+		<name>Hypernoid</name>
+		<desc>Hypernoid features 45 stages and 5 boss stages. The concept is simple: Use your paddle at the bottom to bounce a ball around the stage and clear out all the blocks to move onto the next stage. This classic block breaker game genre is largely underrepresented on the Neo Geo. There is Pop N Bounce, but it’s not really the same thing.</desc>
+		<image>./#homebrews/mixart/hypernoid.png</image>
+		<video>./#homebrews/snap/hypernoid.mp4</video>
+		<marquee>./#homebrews/wheel/hypernoid.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20221201T000000</releasedate>
+		<developer>nhb</developer>
+		<publisher>Independent</publisher>
+		<genre>Breakout</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
 	</game>
 </gameList>
