@@ -9723,4 +9723,36 @@ From the very beginning of the project, Sonic 2 HD has focused on maintaining th
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./Avernus.lnk</path>
+		<name>Avernus</name>
+		<desc>An ancient tomb of a long forgotten god is under attack. Its doors lie open, seals broken and no one is left to resist the invading legion. It is only a matter of time before they reach the inner core and fulfill their dire ambitions. As a final, desperate act, the buried god stirs one last time to give its remaining strength to a single warrior, who now must fight through the enveloping darkness and save his creator.
+
+Avernus is a challenging action-adventure game where you take control of a reanimated guardian —empowered by the final spark of a dead god— who must brave the increasingly dangerous, labyrinthine halls of a hostile tomb.</desc>
+		<image>./mixart/Avernus.jpg</image>
+		<video>./snap/Avernus.mp4</video>
+		<marquee>./wheel/Avernus.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20230829T010000</releasedate>
+		<developer>Subsolar Entertainment</developer>
+		<publisher>Subsolar Entertainment</publisher>
+		<genre>Action, RPG</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Undetected.lnk</path>
+		<name>Undetected</name>
+		<desc>Inpired from Metal Gear Solid, become a cyber-augmented agent in this gameplay-focused stealth game that brings classic sneaking to the modern era.</desc>
+		<image>./mixart/Undetected.jpg</image>
+		<video>./snap/Undetected.mp4</video>
+		<marquee>./wheel/Undetected.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20220829T010000</releasedate>
+		<developer>Merlino Games</developer>
+		<publisher>Independent</publisher>
+		<genre>Action, Stealth</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>
