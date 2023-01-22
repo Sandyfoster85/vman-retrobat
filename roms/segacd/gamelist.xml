@@ -1066,22 +1066,6 @@ Fatal Fury Special still features the series' trademark pseudo-3D movement along
 		<cheevosHash>4E086207542563F208422E76F48D7DDC</cheevosHash>
 	</game>
 	<game>
-		<path>./Final Fight CD (USA).chd</path>
-		<name>Final Fight CD</name>
-		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.</desc>
-		<image>./mixart/Final Fight CD (USA).png</image>
-		<video>./snap/Final Fight CD (USA).mp4</video>
-		<marquee>./wheel/Final Fight CD (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920000T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<cheevosHash>26AE70CCE7A0E7F4B2B2E9EDB78A399C</cheevosHash>
-		<cheevosId>10070</cheevosId>
-	</game>
-	<game>
 		<path>./Flink (USA).chd</path>
 		<name>Flink</name>
 		<desc>The Misadventures of Flink is a Jump'n Run set in the fantasy world of Imagica. The evil wizard Wicked Wainwright has captured the four elders and it is up to Flink, a wizard's apprentice, to set them free and defeat Wicked Wainwright.
@@ -3194,5 +3178,21 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<region>us</region>
 		<cheevosHash>1E5609B304F3B0B023CAAC37B2F995F0</cheevosHash>
 		<cheevosId>10022</cheevosId>
+	</game>
+	<game>
+		<path>./Final Fight CD (USA).chd</path>
+		<name>Final Fight CD</name>
+		<desc>The game is set in the metropolis of Metro City, a town constantly plagued by crime and violence. When the mayor, Mike Haggar, promises to clean up the city, the Mad Gear gang kidnaps his daughter Jessica and warns him not to interfere. Haggar responds going on a battle across the city to free her, bringing along her boyfriend Cody, and the ninjitsu master Guy to assist him.</desc>
+		<image>./mixart/Final Fight CD (USA).png</image>
+		<video>./snap/Final Fight CD (USA).mp4</video>
+		<marquee>./wheel/Final Fight CD (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920000T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<cheevosHash>26AE70CCE7A0E7F4B2B2E9EDB78A399C</cheevosHash>
+		<cheevosId>10070</cheevosId>
 	</game>
 </gameList>

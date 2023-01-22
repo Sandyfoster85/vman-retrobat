@@ -3709,34 +3709,6 @@ The game also features a sound test mode and a time trial mode, where the High S
 		<region>us</region>
 		<cheevosHash>46250BF62EDE204CD72CEE92DD211D71</cheevosHash>
 	</game>
-	<game id="3" source="ScreenScraper.fr">
-		<path>./Sonic the Hedgehog 2 (World) (Rev A).7z</path>
-		<name>Sonic the Hedgehog 2</name>
-		<desc>The evil Dr. Robotnik wants to conquer the world. In order to do that, he imprisons and transforms all animals into robots called 'Badniks'. This way they can build his powerful weapon, the Death Egg.  Only Sonic the Hedgehog, and his new tagalong partner, Miles 'Tails' Prower, can stop Robotnik and his army of Badniks from taking over the world. 
-
-Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog.  Like the original, players run through different worlds called "Zones", which each have their own specific theme.  There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress.
-
-Sonic and Tails can collect rings which are scattered throughout all of the levels.  As with most platformers, when the player collects 100 rings, they earn an extra life.  However, the rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible.  If he is hit again when he has no rings, he'll lose a life.
-
-If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage.  In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint.  Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds.
-
-New to Sonic the Hedgehog 2 is the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails.  Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play.  Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash".  This is useful when stuck near steep slopes or other areas where you need some momentum.
-
-The game also features a 2-player versus mode.  This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
-		<image>./mixart/Sonic the Hedgehog 2 (World) (Rev A).png</image>
-		<video>./snap/Sonic the Hedgehog 2 (World) (Rev A).mp4</video>
-		<marquee>./wheel/Sonic the Hedgehog 2 (World) (Rev A).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>9FEEB724052C39982D432A7851C98D3E</cheevosHash>
-		<cheevosId>10</cheevosId>
-	</game>
 	<game id="1187" source="ScreenScraper.fr">
 		<path>./Sonic the Hedgehog 3 (USA).7z</path>
 		<name>Sonic The Hedgehog 3</name>
@@ -16509,5 +16481,34 @@ But beware, Zadimus won't let you get away with it...</desc>
 		<publisher>Homebrew</publisher>
 		<genre>Action, Adventure</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="3" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog 2 (World) (Rev A).7z</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>The evil Dr. Robotnik wants to conquer the world. In order to do that, he imprisons and transforms all animals into robots called 'Badniks'. This way they can build his powerful weapon, the Death Egg.  Only Sonic the Hedgehog, and his new tagalong partner, Miles 'Tails' Prower, can stop Robotnik and his army of Badniks from taking over the world. 
+
+Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog.  Like the original, players run through different worlds called "Zones", which each have their own specific theme.  There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress.
+
+Sonic and Tails can collect rings which are scattered throughout all of the levels.  As with most platformers, when the player collects 100 rings, they earn an extra life.  However, the rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible.  If he is hit again when he has no rings, he'll lose a life.
+
+If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage.  In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint.  Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds.
+
+New to Sonic the Hedgehog 2 is the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails.  Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play.  Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash".  This is useful when stuck near steep slopes or other areas where you need some momentum.
+
+The game also features a 2-player versus mode.  This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
+		<image>./mixart/Sonic the Hedgehog 2 (World) (Rev A).png</image>
+		<video>./snap/Sonic the Hedgehog 2 (World) (Rev A).mp4</video>
+		<marquee>./wheel/Sonic the Hedgehog 2 (World) (Rev A).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9FEEB724052C39982D432A7851C98D3E</cheevosHash>
+		<cheevosId>10</cheevosId>
 	</game>
 </gameList>

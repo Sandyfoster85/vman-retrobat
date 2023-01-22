@@ -76,6 +76,9 @@ copy /y "V:\_tools\vman-retrobat-master\roms\ports\Rockin'Bliss!.lnk" V:\RetroBa
 rem 5. 2023-1-19 - EmulationStation Theme fixes - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
 
+rem 6. 2023-1-22 - Saves for Retroarch (Terminator2, Mame bind new key) and more fixes - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\saves\ V:\RetroBat\saves\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 

@@ -301,26 +301,6 @@ Solve the mystery of the tablet, and the Ghostbusters have to face off against J
 		<region>eu</region>
 		<cheevosHash>19CF503A366AFCC676089889C77261D7</cheevosHash>
 	</game>
-	<game id="28">
-		<path>./Golden Axe (World) (MSU-MD)/Golden Axe (World) (MSU-MD).md</path>
-		<name>Golden Axe</name>
-		<desc>Sega's classic arcade beat-'em-up game, Golden Axe puts in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe.
-
-This is a horizontal fighting game, where you basically take one of the three characters (a warrior, a dwarf or an amazon) and bash everything which stands between you and Death Adder himself.</desc>
-		<image>./mixart/Golden Axe (World) (MSU-MD).png</image>
-		<video>./snap/Golden Axe (World) (MSU-MD).mp4</video>
-		<marquee>./wheel/Golden Axe (World) (MSU-MD).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Beat'em Up</genre>
-		<family>Golden Axe</family>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>E7A575CFA9FA9843B7807BAD5F1D15EA</cheevosHash>
-	</game>
 	<game id="88">
 		<path>./Golden Axe II (World) (MSU-MD)/Golden Axe II (World) (MSU-MD).md</path>
 		<name>Golden Axe II</name>
@@ -1190,5 +1170,25 @@ The game (or the European PAL version) is best known for being the origin of the
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>0CF8EE57C232690522FFD451828B5E4F</cheevosHash>
+	</game>
+	<game id="28">
+		<path>./Golden Axe (World) (MSU-MD)/Golden Axe (World) (MSU-MD).md</path>
+		<name>Golden Axe</name>
+		<desc>Sega's classic arcade beat-'em-up game, Golden Axe puts in the shoes of one of three heroes, each with his own reason for trying to overthrow the evil rule of Death-Adder, who - along with his forces of darkness - kidnapped and imprisoned the King and his daughter and stole the legendary Golden Axe.
+
+This is a horizontal fighting game, where you basically take one of the three characters (a warrior, a dwarf or an amazon) and bash everything which stands between you and Death Adder himself.</desc>
+		<image>./mixart/Golden Axe (World) (MSU-MD).png</image>
+		<video>./snap/Golden Axe (World) (MSU-MD).mp4</video>
+		<marquee>./wheel/Golden Axe (World) (MSU-MD).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Beat'em Up</genre>
+		<family>Golden Axe</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>E7A575CFA9FA9843B7807BAD5F1D15EA</cheevosHash>
 	</game>
 </gameList>

@@ -111,6 +111,22 @@ $collection_custom = $es_settings.config.AppendChild($collection_custom0)
 $collection_custom.SetAttribute("name","CollectionSystemsCustom")
 $collection_custom.SetAttribute("value","Virtualman-Xmas-Special,baseball,basketball,batman,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,kof,lightgun,mario,mariokart,marvel,megaman,metalslug,metroid,mortalkombat,oldschool,pinball,racing,shmups,soccer,sonic,sor,starwars,streetfighter,tennis,tmnt,trackball,tron,zelda")
 
+# 8. 2023-01-22 - Update neogeo FoldViewMode in order to see #homebrews
+$neogeo_folderview0 = $es_settings.SelectSingleNode("//string[@name='neogeo.FolderViewMode']")
+$neogeo_folderview0.ParentNode.RemoveChild($neogeo_folderview0)
+$neogeo_folderview0 = $es_settings.CreateElement("string")
+$neogeo_folderview = $es_settings.config.AppendChild($neogeo_folderview0)
+$neogeo_folderview.SetAttribute("name","neogeo.FolderViewMode")
+$neogeo_folderview.SetAttribute("value","always")
+
+# 9. 2023-01-22 - Update neogeocd FoldViewMode in order to see #homebrews
+$neogeocd_folderview0 = $es_settings.SelectSingleNode("//string[@name='neogeocd.FolderViewMode']")
+$neogeocd_folderview0.ParentNode.RemoveChild($neogeocd_folderview0)
+$neogeocd_folderview0 = $es_settings.CreateElement("string")
+$neogeocd_folderview = $es_settings.config.AppendChild($neogeocd_folderview0)
+$neogeocd_folderview.SetAttribute("name","neogeocd.FolderViewMode")
+$neogeocd_folderview.SetAttribute("value","always")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
