@@ -127,6 +127,15 @@ $neogeocd_folderview = $es_settings.config.AppendChild($neogeocd_folderview0)
 $neogeocd_folderview.SetAttribute("name","neogeocd.FolderViewMode")
 $neogeocd_folderview.SetAttribute("value","always")
 
+# 10. 2023-01-22 - Disable RetroBat updates
+$disable_updates0 = $es_settings.SelectSingleNode("//bool[@name='updates.enabled']")
+$disable_updates0.ParentNode.RemoveChild($disable_updates0)
+$disable_updates0 = $es_settings.CreateElement("bool")
+$disable_updates = $es_settings.config.AppendChild($disable_updates0)
+$disable_updates.SetAttribute("name","updates.enabled")
+$disable_updates.SetAttribute("value","false") 
+
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
