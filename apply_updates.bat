@@ -79,6 +79,10 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstat
 rem 6. 2023-1-22 - Saves for Retroarch (Terminator2, Mame bind new key) and more fixes - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\saves\ V:\RetroBat\saves\ /S /NFL /NDL /IS /MT:4
 
+rem 7. 2023-1-24 - Update configurations backup script - reported by Bilu
+robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\ V:\RetroBat\backup\ /S /NFL /NDL /IS /MT:4
+copy /y V:\RetroBat\backup\vman_backupcfg.bat V:\RetroBat\emulationstation\.emulationstation\scripts\quit\
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 

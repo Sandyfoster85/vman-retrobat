@@ -1,10 +1,9 @@
 @echo off
-echo Restoring configs...
+echo Backing up configs...
 rem #######################################
-echo VMan Backup/Restore Config v3.5.0.1 by Bilu
+rem VMan Backup/Restore Config v1.0 by Bilu
 rem #######################################
-echo Tool to retain VMan customizations through a RetroBat upgrade.
-pause
+rem Tool to retain VMan customizations through a RetroBat upgrade.
 
 set BASE=V:\RetroBat
 set EMULATIONSTATION=%BASE%\emulationstation\.emulationstation
@@ -16,9 +15,12 @@ rem Users can still update emulators at their own risk.
 attrib -r %TEMP%\emulationstation.tmp\versions.xml > NUL 2>&1
 xcopy /Q /Y /-I %BASE%\backup\emu_versions\versions.xml %TEMP%\emulationstation.tmp\versions.xml > NUL 2>&1
 attrib +r %TEMP%\emulationstation.tmp\versions.xml > NUL 2>&1
-del /Q /F "%BASE%\system\es_menu\*.menu" > NUL 2>&1
 
-for %%I in (^ 
+if not exist %BASE%\backup\vman\RetroBat\emulationstation\version.info goto :backup
+FC %BASE%\emulationstation\version.info %BASE%\backup\vman\RetroBat\emulationstation\version.info >NUL && goto :backup || goto :quit
+
+:backup
+for %%I in (^
  %BASE%\retrobat.ini^
  %BASE%\emulationstation\version.info^
  %BASE%\system\padtokey\*.keys^
@@ -57,22 +59,7 @@ for %%I in (^
  %BASE%\emulators\vita3k\ux0\user\00\user.xml^
  %BASE%\emulators\winuae\winuae.ini^
  %BASE%\emulators\xemu\xemu.toml^
- ) do xcopy /Q /Y /-I %%I %BASE%\backup\rb%%~pI > NUL 2>&1
+ ) do xcopy /Q /Y /-I %%I %BASE%\backup\vman%%~pI > NUL 2>&1
 
-for %%I in (^ 
- %BASE%\emulationstation\version.info^
- ) do xcopy /Q /Y %%I %BASE%\backup\vman%%~pI > NUL 2>&1
-del /Q /F %EMULATIONSTATION%\video\retrobat-*.mp4 > NUL 2>&1
-rmdir /s /q %EMULATIONSTATION%\themes\es-theme-carbon > NUL 2>&1
-del /Q /F %BASE%\roms\ports\*.libretro > NUL 2>&1
-del /Q /F "%EMULATIONSTATION%\music\2080*.ogg" > NUL 2>&1
-del /Q /F "%EMULATIONSTATION%\music\Le Brick*.ogg" > NUL 2>&1
-del /Q /F "%EMULATIONSTATION%\music\Sawsquarenoise*.ogg" > NUL 2>&1
-del /Q /F "%EMULATIONSTATION%\music\Starbox*.ogg" > NUL 2>&1
-
-robocopy /NFL /NDL /NJH /NJS /nc /ns /np /S %BASE%\backup\vman_orig %DRIVE%\
-
-xcopy /Q /Y /-I %BASE%\backup\vman_backupcfg.bat %BASE%\emulationstation\.emulationstation\scripts\quit\vman_backupcfg.bat > NUL 2>&1
-
-
+:quit
 
