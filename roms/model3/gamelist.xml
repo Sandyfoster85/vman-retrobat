@@ -113,21 +113,6 @@
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./Daytona USA 2 Power Edition.zip</path>
-		<name>Daytona USA 2: Power Edition</name>
-		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
-		<image>./mixart/Daytona USA 2 Power Edition.png</image>
-		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
-		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Dirt Devils.zip</path>
 		<name>Dirt Devils</name>
 		<image>./mixart/Dirt Devils.png</image>
@@ -306,6 +291,40 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<region>us</region>
 		<genreid>261</genreid>
 	</game>
+	<game id="37522" source="ScreenScraper.fr">
+		<path>./Spike Out Final Edition.zip</path>
+		<name>Spikeout Final Edition</name>
+		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
+		<image>./mixart/Spike Out Final Edition.png</image>
+		<video>./snap/Spike Out Final Edition.mp4</video>
+		<marquee>./wheel/Spike Out Final Edition.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight / 3D-Fight-Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Daytona USA 2.zip</path>
+		<name>Daytona USA 2: Battle on the Edge</name>
+		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
+		<image>./mixart/Daytona USA 2.png</image>
+		<video>./snap/Daytona USA 2.mp4</video>
+		<marquee>./wheel/Daytona USA 2.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
 	<game id="37525" source="ScreenScraper.fr">
 		<path>./Virtua Fighter 3.zip</path>
 		<name>Virtua Fighter 3</name>
@@ -329,19 +348,17 @@ Virtua Fighter 3 also adds undulations in the stages - knowing how to use these 
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./Daytona USA 2.zip</path>
-		<name>Daytona USA 2: Battle on the Edge</name>
-		<desc>The wild and hot run is back. 16 people can run together. Not only the body of the machine and the road surface, but also smoke and the flames for the crash scenes are reproduced beautifully. The game also uses the real engines' sounds from the real cars.</desc>
-		<image>./mixart/Daytona USA 2.png</image>
-		<video>./snap/Daytona USA 2.mp4</video>
-		<marquee>./wheel/Daytona USA 2.png</marquee>
+		<path>./Daytona USA 2 Power Edition.zip</path>
+		<name>Daytona USA 2: Power Edition</name>
+		<desc>Daytona USA 2 grades up! Experience the force and the excitement of the stock cars. This time, the player can use the Hornet Classic, the car from "Daytona USA". There are new features such as the Mix Course, the combination of Medium, Expert, and Beginners, and the player can drive the reverse direction.</desc>
+		<image>./mixart/Daytona USA 2 Power Edition.png</image>
+		<video>./snap/Daytona USA 2 Power Edition.mp4</video>
+		<marquee>./wheel/Daytona USA 2 Power Edition.png</marquee>
 		<rating>0.85</rating>
 		<releasedate>19980101T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -364,22 +381,5 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-	</game>
-	<game id="37522" source="ScreenScraper.fr">
-		<path>./Spike Out Final Edition.zip</path>
-		<name>Spikeout Final Edition</name>
-		<desc>Spikeout Final Edition is an Action game, developed and published by Sega,  which was released in 1999.</desc>
-		<image>./mixart/Spike Out Final Edition.png</image>
-		<video>./snap/Spike Out Final Edition.mp4</video>
-		<marquee>./wheel/Spike Out Final Edition.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight / 3D-Fight-Beat'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>262</genreid>
 	</game>
 </gameList>

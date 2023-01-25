@@ -6700,19 +6700,6 @@ The control is designed around one-button controllers, with special moves genera
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./T2.pc</path>
-		<name>T2: The Arcade Game</name>
-		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
-		<image>./mixart/T2.png</image>
-		<video>./snap/T2.mp4</video>
-		<marquee>./wheel/T2.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Virgin</publisher>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Tfx.pc</path>
 		<name>TFX</name>
 		<desc>TFX (Tactical Fighter eXperiment) is a realistic flight simulation where you can fly with F-117A, Eurofighter 2000 or F-22 Superstar in various scenarios as a UN fighter pilot.</desc>
@@ -6954,6 +6941,78 @@ Make your way through 10 floors of isometric action and puzzles, trying to stay 
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Extreme Pinball.pc</path>
+		<name>Extreme Pinball</name>
+		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
+		<emulator>libretro</emulator>
+		<core>dosbox_pure</core>
+		<image>./mixart/Extreme Pinball.png</image>
+		<video>./snap/Extreme Pinball.mp4</video>
+		<marquee>./wheel/Extreme Pinball.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Digital Extremes</developer>
+		<publisher>Electronic Arts</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Fable.pc</path>
+		<name>Fable</name>
+		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
+		<image>./mixart/Fable.png</image>
+		<video>./snap/Fable.mp4</video>
+		<marquee>./wheel/Fable.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Simbiosis Interactive</developer>
+		<publisher>Sir-tech</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Flashback - The Quest for Identity.pc</path>
+		<name>Flashback: The Quest for Identity</name>
+		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
+		<image>./mixart/Flashback - The Quest for Identity.png</image>
+		<video>./snap/Flashback - The Quest for Identity.mp4</video>
+		<marquee>./wheel/Flashback - The Quest for Identity.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Delphine Software International</developer>
+		<publisher>Strategic Simulations</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Skyroads Xmas Special.pc</path>
+		<name>SkyRoads Xmas Special</name>
+		<desc>This Special edition of SkyRoads features 3 new worlds for Christmas and one for a training course to its existing worlds. However by this addition you will not able to play Satellite, Into The Sun, Asteroid Belt and The Earth again.</desc>
+		<image>./mixart/Skyroads Xmas Special.png</image>
+		<video>./Snap/Skyroads xmas.mp4</video>
+		<marquee>./wheel/Skyroads Xmas.jpg</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Bluemoon Interactive</developer>
+		<publisher>Creative Dimensions</publisher>
+		<genre>Simulation</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./T2.pc</path>
+		<name>T2: The Arcade Game</name>
+		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
+		<image>./mixart/T2.png</image>
+		<video>./snap/T2.mp4</video>
+		<marquee>./wheel/T2.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Virgin</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Corridor 7 - Alien Invasion.pc</path>
 		<name>Corridor 7: Alien Invasion</name>
 		<desc>In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down ''Corridor 7''. Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.The CD version also comes with multiplayer in the form of 12 player Deathmatch and Team Deathmatch modes (believed to be the first FPS to allow that many players) and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 12 Corridor 7 characters (two recoloured humans and 10 aliens, 4 of which are Bandor variants) which all have slightly different starting stats (different speed and starting health) but all characters use the same weapons.</desc>
@@ -7046,65 +7105,6 @@ Each table has up to four flippers, giving the player the possibility to control
 		<developer>Digital Extremes</developer>
 		<publisher>Epic Games</publisher>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Extreme Pinball.pc</path>
-		<name>Extreme Pinball</name>
-		<desc>Extreme Pinball is Epic Megagames' successor to Epic Pinball. It contains four pinball tables: Rock Fantasy, Medieval Knights, Urban Chaos, and Monkey Mayhem, each with a different theme. Compared to Epic Pinball, it has a larger, 320x400 resolution, as well as taller tables, both allowing for more objects. It also has a typical Dot Matrix Display where the scoreboard shows 3D-rendered animations as well. The controls are more sensitive with a faster ball. This is less true to real pinball gameplay, but it speeds up the game's pace and gives more power to the player to influence the movement.</desc>
-		<emulator>libretro</emulator>
-		<core>dosbox_pure</core>
-		<image>./mixart/Extreme Pinball.png</image>
-		<video>./snap/Extreme Pinball.mp4</video>
-		<marquee>./wheel/Extreme Pinball.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Digital Extremes</developer>
-		<publisher>Electronic Arts</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Fable.pc</path>
-		<name>Fable</name>
-		<desc>A classical graphic adventure with hand drawn backgrounds. The hero Quickthorpe must travel through four fantasy worlds (each dedicated to a particular element) in search of four mystic gemstones in order to free his people.</desc>
-		<image>./mixart/Fable.png</image>
-		<video>./snap/Fable.mp4</video>
-		<marquee>./wheel/Fable.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Simbiosis Interactive</developer>
-		<publisher>Sir-tech</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Flashback - The Quest for Identity.pc</path>
-		<name>Flashback: The Quest for Identity</name>
-		<desc>The year is 2142. The player takes control of Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from that moment on his quest for survival and his lost identity begins.Flashback: The Quest for Identity incorporates elements of platforming, shooting, and problem-solving. The game can be described as a ''cinematic platformer'' (commonly referred to as  Prince of Persia-style), following a design philosophy that was also manifested in Delphine Software's previous work,  Another World. Compared to that game, Flashback focuses more on platforming and exploration of large levels.While a large bulk of the gameplay is dedicated to running, jumping, and shooting enemies, there is also a considerable exploration element in the game, as well as some puzzle-solving. The player navigates Conrad through platform structures, performing various moves. It is possible to simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend himself, Conrad can shoot enemies with his gun and also use various objects (such as stones) to harm or distract them. Crouching and rolling are possible (and often essential) moves that can be executed during combat. The gun has unlimited ammunition; however, shields that Conrad uses to protect himself from attacks are depleted when he is hit, and can be recharged at special stations. Though most environments in the game are hostile, there are a few locations that are devoid of enemies. The player is usually required to talk to characters, gather information and compete tasks in an adventure-like fashion in these areas. Most of the versions utilize cutscenes with polygonal vector graphics. The CD versions replace those with pre-rendered 3D animations. The Sega CD version also features voice-overs.</desc>
-		<image>./mixart/Flashback - The Quest for Identity.png</image>
-		<video>./snap/Flashback - The Quest for Identity.mp4</video>
-		<marquee>./wheel/Flashback - The Quest for Identity.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Delphine Software International</developer>
-		<publisher>Strategic Simulations</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Skyroads Xmas Special.pc</path>
-		<name>SkyRoads Xmas Special</name>
-		<desc>This Special edition of SkyRoads features 3 new worlds for Christmas and one for a training course to its existing worlds. However by this addition you will not able to play Satellite, Into The Sun, Asteroid Belt and The Earth again.</desc>
-		<image>./mixart/Skyroads Xmas Special.png</image>
-		<video>./Snap/Skyroads xmas.mp4</video>
-		<marquee>./wheel/Skyroads Xmas.jpg</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Bluemoon Interactive</developer>
-		<publisher>Creative Dimensions</publisher>
-		<genre>Simulation</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

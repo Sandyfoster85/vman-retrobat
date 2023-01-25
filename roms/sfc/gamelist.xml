@@ -2536,27 +2536,6 @@ Ou-chan no Oekaki Logic adds a story mode where Ou-Chan, representing the player
 		<cheevosHash>D193B7EE202B26C11EAA0ECBCE03BA38</cheevosHash>
 		<cheevosId>3311</cheevosId>
 	</game>
-	<game>
-		<path>./Acrobat Mission (Japan).zip</path>
-		<name>Acrobat Mission</name>
-		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
-
-Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
-
-Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
-		<image>./mixart/Acrobat Mission (Japan).png</image>
-		<video>./snap/Acrobat Mission (Japan).mp4</video>
-		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920911T000000</releasedate>
-		<developer>UPL Co., Ltd</developer>
-		<publisher>Teichiku Co., LTD.</publisher>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
-	</game>
 	<game id="2348" source="ScreenScraper.fr">
 		<path>./Assault Suits Valken (Japan) (Translated En).zip</path>
 		<name>Juusou Kihei Valken</name>
@@ -3519,7 +3498,7 @@ The objective is to solve two cases; the murder of a schoolgirl investigating he
 		<video>./snap/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Translated En).mp4</video>
 		<marquee>./wheel/Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo (Japan) (Translated En).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>TOSE</developer>
 		<publisher>Nintendo</publisher>
 		<crc32>0822B3CE</crc32>
@@ -4972,7 +4951,7 @@ The goal of the game is take a pair of falling dice, each with a specific color 
 		<video>./snap/Jelly Boy 2 (Japan) (Proto) (Translated En).mp4</video>
 		<marquee>./wheel/Jelly Boy 2 (Japan) (Proto) (Translated En).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Game Freak</developer>
 		<publisher>Sony Music Entertainment</publisher>
 		<players>1</players>
@@ -9581,5 +9560,26 @@ When a random enemy encounter occurs, a menu with the options of fighting or esc
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosHash>ED57E19126BD7BB98995710951215217</cheevosHash>
+	</game>
+	<game>
+		<path>./Acrobat Mission (Japan).zip</path>
+		<name>Acrobat Mission</name>
+		<desc>Years ago humanity abandoned the over-polluted Earth to make a new home on Mars. Now, without warning, a mechanical moon has appeared in the skies over Mars, and is raining down destruction on the colonies. A plan is hastily put into action to destroy the moon and its armada of space-craft. Due to the impossible task of surviving a direct assault, the mission is code-named Acrobat Mission.
+
+Your spaceship in Acrobat Mission is capable of firing a single straight ahead shot. By picking up a Wide upgrade, more shots are added that fly off at an angle, and the shot can be charged up to unleash a continuous short range cone of energy. Picking up a Hurricane upgrade will cause bullets to circle you defensively before shooting forward, and charging will store a full round of bullets up to be fired straight ahead all at once. Up to two bombs can be held at once, and if an enemy bullet hits a bomb it will detonate, saving your ship from damage. If your ship is hit, however, then you will have a few seconds to ram it into whatever shot you and take them down with you. Unlike most scrolling shooter games contact with an enemy ship will not kill you, but they can still push you into the path of bullets.
+
+Play takes place over five levels, first of your launch on Mars, then the approach to the moon, and finally infiltrating the base to destroy its core. Each level ends with a unique boss except stage 4, which ends with 3 bosses.</desc>
+		<image>./mixart/Acrobat Mission (Japan).png</image>
+		<video>./snap/Acrobat Mission (Japan).mp4</video>
+		<marquee>./wheel/Acrobat Mission (Japan).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920911T000000</releasedate>
+		<developer>UPL Co., Ltd</developer>
+		<publisher>Teichiku Co., LTD.</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
 	</game>
 </gameList>

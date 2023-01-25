@@ -4060,22 +4060,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
-		<name>Bruce Lee Revenge of the Dragon</name>
-		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
-		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
-		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Golden Axe Death Adder Curse.pak</path>
 		<name>Golden Axe Death Adder Curse</name>
 		<desc>A 2D fighting forces with all great characeters from Golden Axe</desc>
@@ -4163,6 +4147,22 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bruce Lee - Revenge of the Dragon.pak</path>
+		<name>Bruce Lee Revenge of the Dragon</name>
+		<desc>Based on Bruce Lee's movies. It uses modded Street Fighter Alpha characters and many others. It also uses music taken from Bruce Lee movies.</desc>
+		<image>./mixart/Bruce Lee - Revenge of the Dragon.png</image>
+		<video>./snap/Bruce Lee - Revenge of the Dragon.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -1611,36 +1611,6 @@
 		<players>2</players>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="38410" source="ScreenScraper.fr">
-		<path>./World Heroes 2 (World).chd</path>
-		<name>World Heroes 2</name>
-		<desc>The time traveling tournament fighters are back! The original eight characters from the popular arcade hit return, along with six new characters hand-picked from several different eras and locations all through time. But a new boss awaits the victor... who or what is behind this new tournament? You'll have to get to him to find out!  This sequel features all-new stages and music, and improved animation and graphics. You can now reflect projectile moves at your opponent, and reverse normal throws if your timing is right! The original game's Death Match mode is also back, but with a new feature - the life bar will increase or decrease as you inflict or receive damage. Get your side's life bar to 100% and your enemy will lose.</desc>
-		<image>./mixart/World Heroes 2 (World).png</image>
-		<video>./snap/World Heroes 2 (World).mp4</video>
-		<marquee>./wheel/World Heroes 2 (World).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19950414T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>ADK</publisher>
-		<genre>Action-Fight</genre>
-		<players>2</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="38412" source="ScreenScraper.fr">
-		<path>./World Heroes Perfect (World).chd</path>
-		<name>World Heroes Perfect</name>
-		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament. New features include:  1. An all-new attack mode where you use all four buttons to attack an enemy. 2. A power bar which grants you special abilities depending on the character. 3. All-new stages and music set across different locations in Earth's past and future. 4. Three secret characters to choose from, including a character new to the series</desc>
-		<image>./mixart/World Heroes Perfect (World).png</image>
-		<video>./snap/World Heroes Perfect (World).mp4</video>
-		<marquee>./wheel/World Heroes Perfect (World).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19950721T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action-Fight</genre>
-		<players>2</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game>
 		<path>./Zintrick (World).chd</path>
 		<name>Oshidashi Zintrick</name>
@@ -1703,24 +1673,6 @@
 		<publisher>SNK</publisher>
 		<genre>Action</genre>
 		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Last Resort (World).chd</path>
-		<name>Last Resort</name>
-		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
-		<image>./mixart/Last Resort (World).png</image>
-		<video>./snap/Last Resort (World).mp4</video>
-		<marquee>./wheel/Last Resort (World).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940909T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
@@ -1807,5 +1759,58 @@
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+		<cheevosHash>1D232E073B335D96CFEF64BAD118065C</cheevosHash>
+	</game>
+	<game>
+		<path>./Last Resort (World).chd</path>
+		<name>Last Resort</name>
+		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
+		<image>./mixart/Last Resort (World).png</image>
+		<video>./snap/Last Resort (World).mp4</video>
+		<marquee>./wheel/Last Resort (World).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940909T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="38410" source="ScreenScraper.fr">
+		<path>./World Heroes 2 (World).chd</path>
+		<name>World Heroes 2</name>
+		<desc>The time traveling tournament fighters are back! The original eight characters from the popular arcade hit return, along with six new characters hand-picked from several different eras and locations all through time. But a new boss awaits the victor... who or what is behind this new tournament? You'll have to get to him to find out!  This sequel features all-new stages and music, and improved animation and graphics. You can now reflect projectile moves at your opponent, and reverse normal throws if your timing is right! The original game's Death Match mode is also back, but with a new feature - the life bar will increase or decrease as you inflict or receive damage. Get your side's life bar to 100% and your enemy will lose.</desc>
+		<image>./mixart/World Heroes 2 (World).png</image>
+		<video>./snap/World Heroes 2 (World).mp4</video>
+		<marquee>./wheel/World Heroes 2 (World).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19950414T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>ADK</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="38412" source="ScreenScraper.fr">
+		<path>./World Heroes Perfect (World).chd</path>
+		<name>World Heroes Perfect</name>
+		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament. New features include:  1. An all-new attack mode where you use all four buttons to attack an enemy. 2. A power bar which grants you special abilities depending on the character. 3. All-new stages and music set across different locations in Earth's past and future. 4. Three secret characters to choose from, including a character new to the series</desc>
+		<image>./mixart/World Heroes Perfect (World).png</image>
+		<video>./snap/World Heroes Perfect (World).mp4</video>
+		<marquee>./wheel/World Heroes Perfect (World).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19950721T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

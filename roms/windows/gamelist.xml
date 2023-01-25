@@ -8948,22 +8948,6 @@ To make things much easier there are nine different power-ups and weapons scatte
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./80s Overdrive.lnk</path>
-		<name>80s Overdrive</name>
-		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
-		<image>./mixart/80s Overdrive.jpg</image>
-		<video>./snap/80s Overdrive.mp4</video>
-		<marquee>./wheel/80s Overdrive.png</marquee>
-		<rating>85</rating>
-		<releasedate>20200515T010000</releasedate>
-		<developer>Insane Code</developer>
-		<publisher>Insane Code</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Alien Breed - Impact.lnk</path>
 		<name>Alien Breed - Impact</name>
 		<desc>Alien Breed™ Impact is an explosive science fiction arcade-shooter that resurrects a much revered franchise with an epic story, swarms of highly intelligent alien enemies, high-impact weapons, highly detailed and rich environments; all implemented with superb technology in a state-of-the-art gaming experience. In addition to the thrilling single-player campaign mode, the game also offers a relentless, action-packed, online two-player co-operative battle mode.</desc>
@@ -9753,6 +9737,22 @@ From the very beginning of the project, Sonic 2 HD has focused on maintaining th
 		<developer>S2HD Project</developer>
 		<publisher>Fanmade</publisher>
 		<genre>Action, Platform</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./80s Overdrive.lnk</path>
+		<name>80s Overdrive</name>
+		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
+		<image>./mixart/80s Overdrive.jpg</image>
+		<video>./snap/80s Overdrive.mp4</video>
+		<marquee>./wheel/80s Overdrive.png</marquee>
+		<rating>85</rating>
+		<releasedate>20200515T010000</releasedate>
+		<developer>Insane Code</developer>
+		<publisher>Insane Code</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

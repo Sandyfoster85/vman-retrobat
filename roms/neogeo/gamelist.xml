@@ -2256,24 +2256,6 @@ As in the original, the game plays as a standard 2D side-scrolling beat 'em up, 
 		<cheevosId>13796</cheevosId>
 	</game>
 	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X - Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
-		<cheevosId>11770</cheevosId>
-	</game>
-	<game>
 		<path>./neodrift.zip</path>
 		<name>Neo Drift Out - New Technology</name>
 		<desc>Neo Drift Out on Neo Geo is a rally game including 3 vehicles (Toyota Celica, Subaru Impreza and Mitsubishi Lancer) and 6 races for many environments. The driving is done exclusively by drifting and each course must be completed within the allowed time in order to reach the next level.</desc>
@@ -2340,6 +2322,7 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<genre>Breakout</genre>
 		<players>2</players>
 		<lang>en</lang>
+		<cheevosHash>381F040F790DB301F151000D5ABE9EF6</cheevosHash>
 	</game>
 	<game>
 		<path>./#homebrews/xenocrisis.zip</path>
@@ -2356,5 +2339,24 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+		<cheevosHash>7BB2F8C57626A7198CD45C9200BA616E</cheevosHash>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
+		<cheevosId>11770</cheevosId>
 	</game>
 </gameList>

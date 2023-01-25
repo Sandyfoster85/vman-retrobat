@@ -518,46 +518,6 @@ This top-down action-arcade game consists of nine levels per stage, each tougher
 		<cheevosHash>92FBE89D4C87BF283DBFBEAC69A64E6E</cheevosHash>
 		<cheevosId>2291</cheevosId>
 	</game>
-	<game>
-		<path>./1941 - Counter Attack.zip</path>
-		<name>1941 - Counter Attack</name>
-		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
-
-The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
-		<image>./mixart/1941 - Counter Attack.png</image>
-		<video>./snap/1941 - Counter Attack.mp4</video>
-		<marquee>./wheel/1941 - Counter Attack.png</marquee>
-		<rating />
-		<releasedate>19910823</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>30686DBA4795521174658DE2492E0046</cheevosHash>
-	</game>
-	<game>
-		<path>./Bonk's Adventure (USA).zip</path>
-		<name>Bonk's Adventure</name>
-		<desc>Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.
-
-The game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.
-
-If you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.</desc>
-		<image>./mixart/Bonk's Adventure (USA).png</image>
-		<video>./snap/Bonk's Adventure (USA).mp4</video>
-		<marquee>./wheel/Bonk's Adventure (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19891215T000000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>NEC</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
-		<cheevosId>2279</cheevosId>
-	</game>
 	<game id="78611" source="ScreenScraper">
 		<path>./Bonk's Revenge (USA).zip</path>
 		<name>Bonk's Revenge</name>
@@ -1913,5 +1873,45 @@ Gameplay is conceptually simple: just jump, shoot and explore. However, this gam
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>52D40C4E0A8435308C22C69A54E4BAAE</cheevosHash>
+	</game>
+	<game>
+		<path>./1941 - Counter Attack.zip</path>
+		<name>1941 - Counter Attack</name>
+		<desc>The goal is to shoot down enemy airplanes and collect weapon power-ups (POW). The game uses a vitality system instead of life system in which if the player is hit, it loses one point of vitality and the player is destroyed if hit with 0 vitality then the player is given the option to continue. Lightning attacks can be used by pressing the B button which sacrifices a portion of life energy. One is only able to perform three loops per level and a bonus is awarded at the end of the level for unused loops. Player 1 uses a P-38 Lightning and Player 2 uses a new plane: Mosquito Mk IV. The game shifts from the original Pacific Front setting with that of the Western Front, in the north Atlantic Ocean.
+
+The game consists of six levels: North Atlantic Ocean Sky, European Sea Port, V3 Rocket Site, Brandenburg Gate, Open Plains and The Enemy Base. There are 6 bosses:Leviathan, German battleship Bismarck, V3 Rocket, Krote, Super Leviathan and Gotha (Horten Ho 229). Also, there are common enemies like: Ju 87 Stuka, Bf 110, Me 262 Schwalbe, Focke-Achgelis Fa 223, Sdkfz 251, Flak 88, Tiger I and U-boat.</desc>
+		<image>./mixart/1941 - Counter Attack.png</image>
+		<video>./snap/1941 - Counter Attack.mp4</video>
+		<marquee>./wheel/1941 - Counter Attack.png</marquee>
+		<rating></rating>
+		<releasedate>19910823</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>30686DBA4795521174658DE2492E0046</cheevosHash>
+	</game>
+	<game>
+		<path>./Bonk's Adventure (USA).zip</path>
+		<name>Bonk's Adventure</name>
+		<desc>Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.
+
+The game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.
+
+If you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.</desc>
+		<image>./mixart/Bonk's Adventure (USA).png</image>
+		<video>./snap/Bonk's Adventure (USA).mp4</video>
+		<marquee>./wheel/Bonk's Adventure (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19891215T000000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>NEC</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3AA21326050C489EA867DE05DD6CB7E5</cheevosHash>
+		<cheevosId>2279</cheevosId>
 	</game>
 </gameList>

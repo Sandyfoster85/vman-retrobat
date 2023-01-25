@@ -830,22 +830,6 @@
 		<cheevosHash>408446BA2344483C7BE6BA1F3A7355AD</cheevosHash>
 	</game>
 	<game>
-		<path>./gunsur2.zip</path>
-		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
-		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
-		<image>./mixart/gunsur2.png</image>
-		<video>./snap/gunsur2.mp4</video>
-		<marquee>./wheel/gunsur2.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Namco</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>4767B433E100780A8BA4EE33A214ECA4</cheevosHash>
-	</game>
-	<game>
 		<path>./hotd2.zip</path>
 		<name>The House of the Dead 2 (USA)</name>
 		<desc>The Special Agents who were assigned to the original House of the Dead mission, thought they were successful in wiping out the evil that resided in secret laboratories and underground passages: however, they were wrong, Dead Wrong!    In the 1st installment of House of the Dead, the situation was a grave one. However, with new hidden passages, giving the player the opportunity to alter the course of each game. The House of the Dead 2 is sure to create more excitement along with a deadlier outcome.    Unbeknownst to the Special Agents, Curlens' scientist and experiments escaped through hidden passages in the mansion. The lifeless corpses and mutilated specimens terrorize the countryside while heading for the targeted City.</desc>
@@ -1931,5 +1915,21 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>7CC94E54BBE50E9131430A5B2979EB1D</cheevosHash>
+	</game>
+	<game>
+		<path>./gunsur2.zip</path>
+		<name>Gun Survivor 2: Biohazard CODE:Veronica (World, BHF2 Ver.E)</name>
+		<desc>Gun Survivor 2 BIOHAZARD -Code:Veronica- is a first-person shooter, based on the famous Capcom series 'Biohazard / Resident Evil'.</desc>
+		<image>./mixart/gunsur2.png</image>
+		<video>./snap/gunsur2.mp4</video>
+		<marquee>./wheel/gunsur2.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Namco</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>4767B433E100780A8BA4EE33A214ECA4</cheevosHash>
 	</game>
 </gameList>

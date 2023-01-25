@@ -29208,6 +29208,24 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<genreid>1280</genreid>
 	</game>
 	<game>
+		<path>./Mario Kart DS (USA) (En,Fr,De,Es,It).zip</path>
+		<name>Mario Kart DS</name>
+		<desc>Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</desc>
+		<image>./mixart/Mario Kart DS (USA) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Mario Kart DS (USA) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Mario Kart DS (USA) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20051114T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>2-8</players>
+		<favorite>true</favorite>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
+		<cheevosHash>57AFD3C093764002A17A6AA376F1EEFE</cheevosHash>
+		<cheevosId>12711</cheevosId>
+	</game>
+	<game>
 		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
 		<name>Aliens - Infestation</name>
 		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
@@ -29226,23 +29244,5 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<lang>de,en,fr</lang>
 		<region>eu</region>
 		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
-	</game>
-	<game>
-		<path>./Mario Kart DS (USA) (En,Fr,De,Es,It).zip</path>
-		<name>Mario Kart DS</name>
-		<desc>Mario Kart DS is the continuation of the long running racing game series that began on the Super Nintendo. It features 16 new tracks as well as 16 tracks from the previous 4 games, with each set split up into the Nitro and Retro Grand Prix respectively. Eight racers are initially available, each with two go-karts to choose from. A number of characters and additional karts are also available to unlock. New items have been added to the arsenal, including a Blooper squid that squirts ink onto the screens of other players and a Bullet Bill power up that transforms the player into a giant, fast-travelling bullet on autopilot.</desc>
-		<image>./mixart/Mario Kart DS (USA) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Mario Kart DS (USA) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Mario Kart DS (USA) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20051114T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>2-8</players>
-		<favorite>true</favorite>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-		<cheevosHash>57AFD3C093764002A17A6AA376F1EEFE</cheevosHash>
-		<cheevosId>12711</cheevosId>
 	</game>
 </gameList>

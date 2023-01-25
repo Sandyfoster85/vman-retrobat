@@ -39879,25 +39879,6 @@ Power-ups switch your weapon to fire different projectiles, like lasers that spr
 		<cheevosHash>24B975E8CA7DBE18D73E2202740A3187</cheevosHash>
 	</game>
 	<game>
-		<path>./lgtnfght.zip</path>
-		<name>Lightning Fighters</name>
-		<desc>In Lightning Fighters and Trigon, the original Japanese version, there are different rules depending on whether you start the game with one or two players. In a one-player game, you start with no bombs, and when you die the game restarts you at a checkpoint. In a two-player game, each life starts with one bomb, and when you die you respawn in place. There are some powerups that only appear in a two-player game and one that only appears in a one-player game. The game type cannot be changed once the game starts. A second player cannot join an originally one-player game; conversely, if one player dies in a two-player game the game remains in two-player mode and the second player can rejoin at any time.
-
-In Lightning Fighters, even if you start a one-player game, the game is always in two-player mode: you respawn in place when you die and you start each life with one bomb stocked. This means that a second player can join midway into a one-player game. Unfortunately it also means that the powerup that only appears in one-player games in the other versions, does not appear at all in the US version.</desc>
-		<image>./mixart/lgtnfght.png</image>
-		<video>./snap/lgtnfght.mp4</video>
-		<marquee>./wheel/lgtnfght.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>66E6AA78FE57ADCADC198155C99ED1F1</cheevosHash>
-	</game>
-	<game>
 		<path>./liberate.zip</path>
 		<name>Liberation</name>
 		<desc>Liberation © 1984 Data East.
@@ -68639,29 +68620,6 @@ One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. T
 		<region>us</region>
 		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
 	</game>
-	<game id="39990">
-		<path>./alpinr2b.zip</path>
-		<name>Alpine Racer 2</name>
-		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/alpinr2b.png</image>
-		<video>./snap/alpinr2b.mp4</video>
-		<marquee>./wheel/alpinr2b.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports / Skiing</genre>
-		<family>Alpine Racer</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
-	</game>
 	<game id="40029">
 		<path>./aquajet.zip</path>
 		<name>Aqua Jet</name>
@@ -71372,27 +71330,6 @@ Karate Tournament uses a distinctive graphical technique in that it 'morphs' som
 		<cheevosHash>5227D7FCF1A6789D109183067FEE39DA</cheevosHash>
 	</game>
 	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
-	</game>
-	<game>
 		<path>./astdelux.zip</path>
 		<name>Asteroids Deluxe</name>
 		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
@@ -71564,44 +71501,6 @@ Special items that reveal coins, upgraded armour, or simply bonus points can be 
 		<cheevosHash>252AA4364F77DBFC12CB50006D3CE713</cheevosHash>
 	</game>
 	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game>
 		<path>./outrun.zip</path>
 		<name>'H' Out Run</name>
 		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
@@ -71625,47 +71524,6 @@ As well as being able to choose routes, players could also - via the game's "in-
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
-	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>./mixart/captcomm.png</image>
-		<video>./snap/captcomm.mp4</video>
-		<marquee>./wheel/captcomm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
-		<cheevosId>11726</cheevosId>
 	</game>
 	<game>
 		<path>./ddragon.zip</path>
@@ -72505,26 +72363,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&am
 		<region>us</region>
 		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
 	</game>
-	<game>
-		<path>./redearth.zip</path>
-		<name>Warzard</name>
-		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/redearth.png</image>
-		<video>./snap/redearth.mp4</video>
-		<marquee>./wheel/redearth.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19961121T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight /  Co-op</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
-	</game>
 	<game id="37557">
 		<path>./vfkids.zip</path>
 		<name>Virtua Fighter Kids</name>
@@ -72672,49 +72510,6 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<region>us</region>
 		<cheevosHash>77708F0CD007196756B8FD2DD80D8949</cheevosHash>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
-	<game>
-		<path>./alien3.zip</path>
-		<name>Alien3: The Gun</name>
-		<desc>Alien 3 - The Gun is a shooter game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/alien3.png</image>
-		<video>./snap/alien3.mp4</video>
-		<marquee>./wheel/alien3.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
-	</game>
 	<game id="40735">
 		<path>./cryptklr.zip</path>
 		<name>Crypt Killer</name>
@@ -72754,40 +72549,6 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3C703E475D5F78BC6EE198B8668E6CB5</cheevosHash>
-	</game>
-	<game id="40450">
-		<path>./carnevil.zip</path>
-		<name>Carnevil</name>
-		<desc>CarnEvil is a rail shooter arcade game using a light gun. The game is set in the fictional town of Greeley Valley, Iowa. The main character's, Jacob (Player 1) and Lisa (Player 2), join a tractor-drawn trailer called Spooky Sam's Ghost Tour on its path through a cemetery. According to an urban legend, if a golden token is inserted into the jester's mouth on top of the tombstone of someone by the name of Ludwig Von TÃ¶kkentÃ¤kker, a haunted amusement park will rise from the earth.
-
-Jacob leaves the tour with his friend, Lisa, and approaches the tombstone to find a golden coin sitting in a small hole on the tombstone, and surprised, Jacob inserts the coin into the jester's mouth, resulting in the legendary undead carnival rising from the ground. Jacob and Lisa take 2 [shotgun or shotguns] from the shooting gallery at the entrance and use them to fight through hordes of monsters, zombies, and insects as they escape.
-
-First, Jacob and Lisa go to the "Rickety Town". There, they hop on the "Slay Ride" and battle several demonic elves, zombies dressed as goofy dinosaurs and flying bug like things and see Betty trapped on a ferris wheel. Finally, they battle "Krumpas", a Santa Claus like monster.
-
-Jacob and Lisa then go to the "Haunted House" and battle through hordes of zombies, spiders, ghosts and bats. They notice that Betty is being chased by zombies. Jacob and Lisa enter the building and encounter Hambone, a large Jason Vorhees-like creature with a gatling gun for a hand. Jacob and Lisa defeat Hambone and proceed through the building. They find Betty being kidnapped by a Giant Spider upstairs and go after them. After going through "the hall of hands", Jacob and Lisa fight Hambone once again, who now has a skull launching grenade launcher for a hand, and is defeated again. Jacob and Lisa go onto the rooftop only to be pushed off by the car into a grave with a tombstone saying "Rest in Pieces". Jacob and Lisa at last fight "Evil Marie" who, after being defeated, falls on a tombstone.
-
-The 2 then visit the "Freak Show" where they encounter Conjoined Acrobatic Men, Flies and Maggots with human heads, 8 legged monkeys, and a giant demon called "Eye-clops", a cyclops with more than one eye. They kill the monster and enter "The Chamber of Horrors", where they find Betty in a torture device. They leave to a Colosseum and fight "Junior", a Frankenstein-Like baby (or through the options menu, they can fight "Deddy", a disfigured Teddy Bear).
-
-Then, they enter the Big Top, and fight clowns and circus animals to reach the center ring, whence they are taken to TÃ¶kkentÃ¤kker's zeppelin to face TÃ¶kkentÃ¤kker and his jester Umlaut.
-
-After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, Jacob, Lisa, and Betty awaken a few hours later in a pile of leaves in the cemetery, and in front of TÃ¶kkentÃ¤kker's tombstone. Jacob then sees the token in its slot and, ignoring Betty's protests, puts it into the jester's mouth for a repeat performance.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/carnevil.png</image>
-		<video>./snap/carnevil.mp4</video>
-		<marquee>./wheel/carnevil.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>8c4a2e2ad8d1fabcbeeef63a5c1fef95</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
 	</game>
 	<game id="41315">
 		<path>./g13knd.zip</path>
@@ -72909,5 +72670,244 @@ TIME ATTACK: the player selects one of four stages and must defeat all enemies i
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5704F775C6F21E9B284CA88E9987B0DA</cheevosHash>
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game id="40450">
+		<path>./carnevil.zip</path>
+		<name>Carnevil</name>
+		<desc>CarnEvil is a rail shooter arcade game using a light gun. The game is set in the fictional town of Greeley Valley, Iowa. The main character's, Jacob (Player 1) and Lisa (Player 2), join a tractor-drawn trailer called Spooky Sam's Ghost Tour on its path through a cemetery. According to an urban legend, if a golden token is inserted into the jester's mouth on top of the tombstone of someone by the name of Ludwig Von TÃ¶kkentÃ¤kker, a haunted amusement park will rise from the earth.
+
+Jacob leaves the tour with his friend, Lisa, and approaches the tombstone to find a golden coin sitting in a small hole on the tombstone, and surprised, Jacob inserts the coin into the jester's mouth, resulting in the legendary undead carnival rising from the ground. Jacob and Lisa take 2 [shotgun or shotguns] from the shooting gallery at the entrance and use them to fight through hordes of monsters, zombies, and insects as they escape.
+
+First, Jacob and Lisa go to the "Rickety Town". There, they hop on the "Slay Ride" and battle several demonic elves, zombies dressed as goofy dinosaurs and flying bug like things and see Betty trapped on a ferris wheel. Finally, they battle "Krumpas", a Santa Claus like monster.
+
+Jacob and Lisa then go to the "Haunted House" and battle through hordes of zombies, spiders, ghosts and bats. They notice that Betty is being chased by zombies. Jacob and Lisa enter the building and encounter Hambone, a large Jason Vorhees-like creature with a gatling gun for a hand. Jacob and Lisa defeat Hambone and proceed through the building. They find Betty being kidnapped by a Giant Spider upstairs and go after them. After going through "the hall of hands", Jacob and Lisa fight Hambone once again, who now has a skull launching grenade launcher for a hand, and is defeated again. Jacob and Lisa go onto the rooftop only to be pushed off by the car into a grave with a tombstone saying "Rest in Pieces". Jacob and Lisa at last fight "Evil Marie" who, after being defeated, falls on a tombstone.
+
+The 2 then visit the "Freak Show" where they encounter Conjoined Acrobatic Men, Flies and Maggots with human heads, 8 legged monkeys, and a giant demon called "Eye-clops", a cyclops with more than one eye. They kill the monster and enter "The Chamber of Horrors", where they find Betty in a torture device. They leave to a Colosseum and fight "Junior", a Frankenstein-Like baby (or through the options menu, they can fight "Deddy", a disfigured Teddy Bear).
+
+Then, they enter the Big Top, and fight clowns and circus animals to reach the center ring, whence they are taken to TÃ¶kkentÃ¤kker's zeppelin to face TÃ¶kkentÃ¤kker and his jester Umlaut.
+
+After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, Jacob, Lisa, and Betty awaken a few hours later in a pile of leaves in the cemetery, and in front of TÃ¶kkentÃ¤kker's tombstone. Jacob then sees the token in its slot and, ignoring Betty's protests, puts it into the jester's mouth for a repeat performance.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/carnevil.png</image>
+		<video>./snap/carnevil.mp4</video>
+		<marquee>./wheel/carnevil.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>8c4a2e2ad8d1fabcbeeef63a5c1fef95</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game id="39990">
+		<path>./alpinr2b.zip</path>
+		<name>Alpine Racer 2</name>
+		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/alpinr2b.png</image>
+		<video>./snap/alpinr2b.mp4</video>
+		<marquee>./wheel/alpinr2b.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports / Skiing</genre>
+		<family>Alpine Racer</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./mixart/captcomm.png</image>
+		<video>./snap/captcomm.mp4</video>
+		<marquee>./wheel/captcomm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
+		<cheevosId>11726</cheevosId>
+	</game>
+	<game>
+		<path>./redearth.zip</path>
+		<name>Warzard</name>
+		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/redearth.png</image>
+		<video>./snap/redearth.mp4</video>
+		<marquee>./wheel/redearth.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19961121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight /  Co-op</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien3: The Gun</name>
+		<desc>Alien 3 - The Gun is a shooter game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/alien3.png</image>
+		<video>./snap/alien3.mp4</video>
+		<marquee>./wheel/alien3.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
+	</game>
+	<game>
+		<path>./lgtnfght.zip</path>
+		<name>Lightning Fighters</name>
+		<desc>In Lightning Fighters and Trigon, the original Japanese version, there are different rules depending on whether you start the game with one or two players. In a one-player game, you start with no bombs, and when you die the game restarts you at a checkpoint. In a two-player game, each life starts with one bomb, and when you die you respawn in place. There are some powerups that only appear in a two-player game and one that only appears in a one-player game. The game type cannot be changed once the game starts. A second player cannot join an originally one-player game; conversely, if one player dies in a two-player game the game remains in two-player mode and the second player can rejoin at any time.
+
+In Lightning Fighters, even if you start a one-player game, the game is always in two-player mode: you respawn in place when you die and you start each life with one bomb stocked. This means that a second player can join midway into a one-player game. Unfortunately it also means that the powerup that only appears in one-player games in the other versions, does not appear at all in the US version.</desc>
+		<image>./mixart/lgtnfght.png</image>
+		<video>./snap/lgtnfght.mp4</video>
+		<marquee>./wheel/lgtnfght.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>66E6AA78FE57ADCADC198155C99ED1F1</cheevosHash>
 	</game>
 </gameList>

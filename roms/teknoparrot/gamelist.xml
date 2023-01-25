@@ -2041,16 +2041,33 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./GRID.parrot</path>
-		<name>GRID</name>
-		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
-		<image>./mixart/GRID.png</image>
-		<video>./snap/GRID.mp4</video>
-		<marquee>./wheel/GRID.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Sega Europa-R</developer>
-		<publisher>Sega Europa-R</publisher>
+		<path>./FNFSC.parrot</path>
+		<name>Fast and the Furious SuperCars, The</name>
+		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/The Fast and the Furious SuperCars.png</image>
+		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
+		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20061201T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MKDX.parrot</path>
+		<name>Mario Kart: Arcade GP DX</name>
+		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
+		<image>./mixart/Mario Kart Arcade GP DX.png</image>
+		<video>./snap/Mario Kart Arcade GP DX.mp4</video>
+		<marquee>./wheel/Mario Kart Arcade GP DX.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20131201T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Nintendo</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
 		<lang>en</lang>
@@ -2074,23 +2091,6 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FNFSC.parrot</path>
-		<name>Fast and the Furious SuperCars, The</name>
-		<desc>The Fast and the Furious: Super Cars is the third game inspired by the hit movie franchise. Super Cars takes players from all over USA. Players can choose from 12 licensed cars and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/The Fast and the Furious SuperCars.png</image>
-		<video>./snap/The Fast and the Furious SuperCars.mp4</video>
-		<marquee>./wheel/The Fast and the Furious SuperCars.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20061201T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./or2spdlx.parrot</path>
 		<name>Outrun 2 Special Tours Deluxe</name>
 		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
@@ -2108,16 +2108,16 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<region>us</region>
 	</game>
 	<game>
-		<path>./MKDX.parrot</path>
-		<name>Mario Kart: Arcade GP DX</name>
-		<desc>Mario Kart Arcade GP DX is a Mario Kart game for arcade systems, developed by Namco Bandai Games in partnership with Nintendo. It is the tenth installment in the Mario Kart franchise and the third title in the Arcade series following Mario Kart Arcade GP 2, which was a follow-up to Mario Kart Arcade GP. The game was released in Japan on July 25, 2013 and in the United States during 2014, later followed by Australia in 2017. Just like the previous two Arcade GP games, it is possible to do multiplayer play by linking up to four cabinets.</desc>
-		<image>./mixart/Mario Kart Arcade GP DX.png</image>
-		<video>./snap/Mario Kart Arcade GP DX.mp4</video>
-		<marquee>./wheel/Mario Kart Arcade GP DX.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20131201T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Nintendo</publisher>
+		<path>./GRID.parrot</path>
+		<name>GRID</name>
+		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
+		<image>./mixart/GRID.png</image>
+		<video>./snap/GRID.mp4</video>
+		<marquee>./wheel/GRID.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Sega Europa-R</developer>
+		<publisher>Sega Europa-R</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
 		<lang>en</lang>

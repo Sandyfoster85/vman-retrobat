@@ -309,22 +309,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game>
-		<path>./srallyc.zip</path>
-		<name>Sega Rally Championship</name>
-		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
-		<image>./mixart/srallyc.png</image>
-		<video>./snap/srallyc.mp4</video>
-		<marquee>./wheel/srallyc.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="37489" source="ScreenScraper.fr">
 		<path>./stcc.zip</path>
 		<name>Sega Touring Car Championship</name>
@@ -446,39 +430,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<genreid>260</genreid>
 	</game>
 	<game>
-		<path>./daytona.zip</path>
-		<name>Daytona USA</name>
-		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
-		<image>./mixart/daytonat.png</image>
-		<video>./snap/daytonat.mp4</video>
-		<marquee>./wheel/daytonat.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race 3rd Pers. view-Race, Driving</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./vcop2.zip</path>
-		<name>Virtua Cop 2</name>
-		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
-		<image>./mixart/vcop2.png</image>
-		<video>./snap/vcop2.mp4</video>
-		<marquee>./wheel/vcop2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./overrev.zip</path>
 		<name>Over Rev</name>
 		<desc>Over REV is a 1997 racing game developed by Jaleco for Sega's Model 2 arcade board. It features four nicely rendered tracks across the Greater Tokyo Area. Although it has some serious issues with driving and collision physics, if you stick with the game long enough to overcome its intricacies, it can be pretty rewarding. Like Jaleco's other Model 2 racer, Super GT 24h, you'll want to use an automatic transmission.</desc>
@@ -527,5 +478,54 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1536</genreid>
+	</game>
+	<game>
+		<path>./srallyc.zip</path>
+		<name>Sega Rally Championship</name>
+		<desc>Sega Rally Championship gameplay is both accessible and technical. The game provides 4 tracks of increasing difficulty, and 3 rally cars. The tracks are very detailed, and provide numerous challenges, as well as various track surfaces, side animations, and environments.</desc>
+		<image>./mixart/srallyc.png</image>
+		<video>./snap/srallyc.mp4</video>
+		<marquee>./wheel/srallyc.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./vcop2.zip</path>
+		<name>Virtua Cop 2</name>
+		<desc>The game features three levels through which the player's movement is automated on a predetermined path. It is the player's job to shoot the criminals that appear before time runs out and they shoot back. Along the way there will be various objects in the background that can be broken if shot, some of which will reveal power ups afterwards. At the end of each level there is a boss battle, as well as one extra final boss battle after all three levels have been finished.</desc>
+		<image>./mixart/vcop2.png</image>
+		<video>./snap/vcop2.mp4</video>
+		<marquee>./wheel/vcop2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Shooter-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./daytona.zip</path>
+		<name>Daytona USA</name>
+		<desc>Daytona USA is an excellent checkpoint-style racing game.</desc>
+		<image>./mixart/daytonat.png</image>
+		<video>./snap/daytonat.mp4</video>
+		<marquee>./wheel/daytonat.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race 3rd Pers. view-Race, Driving</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

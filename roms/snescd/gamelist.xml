@@ -1983,23 +1983,6 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<region>us</region>
 		<cheevosHash>C26239C31988DBDDD802402B9AFED0CA</cheevosHash>
 	</game>
-	<game>
-		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
-		<name>Castlevania - Dracula X</name>
-		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
-		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
-		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19951031T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
-		<cheevosId>300</cheevosId>
-	</game>
 	<game id="172196" source="ScreenScraper.fr">
 		<path>./Super_Mario_Kart_(USA)_(MSU1).sfc</path>
 		<name>Super Mario Kart</name>
@@ -2018,5 +2001,22 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>34397704FACBF518FA7A37EFC06416F8</cheevosHash>
+	</game>
+	<game>
+		<path>./Castlevania_-_Dracula_X_(USA)_(MSU1).sfc</path>
+		<name>Castlevania - Dracula X</name>
+		<desc>Castlevania: Dracula X for Super Nintendo is a single-player port game that is set in the country of Transylvania during the middle ages. You play as Richter, a character that must face Count Dracula in order to save his lover and her younger sister. You must use special abilities and special tactics to fight off Dracula and his henchman. The game features non-linear play, and has different levels that take place in Dracula's castle. The backgrounds feature unique graphics, putting you in the mood for this horror-based game. You get to battle different enemies until you come across the true villain of the game, Count Dracula.</desc>
+		<image>./mixart/Castlevania_-_Dracula_X_(USA)_(MSU1).png</image>
+		<video>./snap/Castlevania_-_Dracula_X_(USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Castlevania_-_Dracula_X_(USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19951031T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
+		<cheevosId>300</cheevosId>
 	</game>
 </gameList>
