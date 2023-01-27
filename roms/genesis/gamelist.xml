@@ -15744,37 +15744,6 @@ As one of these Crude Dudes, you must travel through tough streets and take out 
 		<scrap name="ScreenScraper" date="20221016T092355" />
 		<scrap name="HfsDB" date="20221016T085539" />
 	</game>
-	<game source="ScreenScraper.fr">
-		<path>./#homebrews/Coffee Crisis.zip</path>
-		<name>Coffee Crisis</name>
-		<desc>Need a fresh cup? Take the Rogue Brawling to PC now!
-
-Coffee Crisis is an arcade-style beat 'em up full of caffeinated carnage! This is a full scale release for the Sega Genesis/Mega Drive, packed with classic gameplay and an extra espresso shot of action!
-
-Single player and local co-op campaign
-7 caffeinated power-ups to keep your alien-bashing blasting on all cylinders
-8 challenging bosses
-Visit real Pittsburgh locations and areas!
-Charge-up attacks, suplex throws, and high-test weapons!
-12 professional metal tracks
-Crush alien overlords with metal-fueled, caffeine aided combos to save Earth’s most precious resources - free wifi, heavy metal, and coffee! Feel their extra-terrestrial flesh rip to shreds as you crank the alien cries to 11!  
-
-Save the planet, save the wifi, save the metal, save the COFFEE! 
-
-*This game is Region Free. It works in JP, NTSC, PAL, and SECAM regions</desc>
-		<image>./#homebrews/mixart/Coffee Crisis.png</image>
-		<video>./#homebrews/snap/Coffee Crisis.mp4</video>
-		<marquee>./#homebrews/wheel/Coffee Crisis.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20180504T000000</releasedate>
-		<publisher>mega cat studios</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>DC1FC80AB39F9A5BFAC841A816C656D4</cheevosHash>
-		<genreid>263</genreid>
-		<scrap name="TheGamesDB" date="20221016T085448" />
-	</game>
 	<game id="367964" source="ScreenScraper.fr">
 		<path>./#homebrews/Darius - Extra Version.zip</path>
 		<name>Darius - Extra Version</name>
@@ -16157,20 +16126,6 @@ Through the levels, Batman will collect Batman emblems (which will give him Bata
 		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Fix It Felix Jr.7z</path>
-		<name>Fix-It Felix, Jr.</name>
-		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
-		<image>./#homebrews/mixart/Fix It Felix Jr.png</image>
-		<video>./#homebrews/snap/Fix It Felix Jr.mp4</video>
-		<marquee>./#homebrews/wheel/Fix It Felix Jr.png</marquee>
-		<rating>1</rating>
-		<releasedate>20130331T000000</releasedate>
-		<genre>Puzzle-Game</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
-	</game>
-	<game>
 		<path>./Kung Fury - Streets of Rage 2 (USA).7z</path>
 		<name>Kung Fury - Streets of Rage 2</name>
 		<desc>Kung Fury: Street Rage 2 is the companion video game to the film published by Hello There AB released in June 2015, paying homage to classic beat 'em up games such as Streets of Rage, Double Dragon, and Final Fight, though the actual gameplay mostly resembles One Finger Death Punch by Silver Dollar Games, with the player ...
@@ -16443,20 +16398,54 @@ The game also features a 2-player versus mode.  This mode is a horizontally spli
 		<cheevosId>10</cheevosId>
 	</game>
 	<game>
-		<path>./#homebrews/Life On Mars.zip</path>
-		<name>Life On Mars</name>
-		<desc>"Life On Mars" is a homebrew for the Sega Genesis, a sci-fi metroidvania from the developers of "Metal Dragon", inspired by classic space horror movies like Metroid and Aliens . It is proposed to play as a technician who went to repair communications on a Martian colony that fell silent 9 months ago. The gameplay contains all the attributes of classic metroidvanias, such as initially inaccessible locations, acquiring new skills, upgrading weapons, and more.</desc>
-		<image>./#homebrews/mixart/Life On Mars.png</image>
-		<video>./#homebrews/snap/Life On Mars.mp4</video>
-		<marquee>./#homebrews/wheel/Life On Mars.png</marquee>
-		<rating>3</rating>
-		<releasedate>20230325T000000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Action, Adventure</genre>
+		<path>./Contra - Hard Corps (USA, Korea).7z</path>
+		<name>Contra : Hard Corps</name>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
+		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
+		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940808T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
+		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en,kr</lang>
+		<region>kr</region>
+		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
+		<cheevosId>120</cheevosId>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Coffee Crisis.zip</path>
+		<name>Coffee Crisis</name>
+		<desc>Need a fresh cup? Take the Rogue Brawling to PC now!
+
+Coffee Crisis is an arcade-style beat 'em up full of caffeinated carnage! This is a full scale release for the Sega Genesis/Mega Drive, packed with classic gameplay and an extra espresso shot of action!
+
+Single player and local co-op campaign
+7 caffeinated power-ups to keep your alien-bashing blasting on all cylinders
+8 challenging bosses
+Visit real Pittsburgh locations and areas!
+Charge-up attacks, suplex throws, and high-test weapons!
+12 professional metal tracks
+Crush alien overlords with metal-fueled, caffeine aided combos to save Earth’s most precious resources - free wifi, heavy metal, and coffee! Feel their extra-terrestrial flesh rip to shreds as you crank the alien cries to 11!  
+
+Save the planet, save the wifi, save the metal, save the COFFEE! 
+
+*This game is Region Free. It works in JP, NTSC, PAL, and SECAM regions</desc>
+		<image>./#homebrews/mixart/Coffee Crisis.png</image>
+		<video>./#homebrews/snap/Coffee Crisis.mp4</video>
+		<marquee>./#homebrews/wheel/Coffee Crisis.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20180504T000000</releasedate>
+		<publisher>mega cat studios</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<lang>en</lang>
-		<cheevosHash>85E9D2326917C02A6C48FB403F75689D</cheevosHash>
+		<cheevosHash>DC1FC80AB39F9A5BFAC841A816C656D4</cheevosHash>
+		<genreid>263</genreid>
+		<scrap name="TheGamesDB" date="20221016T085448" />
 	</game>
 	<game source="ScreenScraper.fr">
 		<path>./#homebrews/Demons of Asteborg.zip</path>
@@ -16494,22 +16483,33 @@ But beware, Zadimus won't let you get away with it...</desc>
 		<scrap name="TheGamesDB" date="20221016T085450" />
 	</game>
 	<game>
-		<path>./Contra - Hard Corps (USA, Korea).7z</path>
-		<name>Contra : Hard Corps</name>
-		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
-		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
-		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
-		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940808T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
-		<players>2</players>
+		<path>./#homebrews/Fix It Felix Jr.7z</path>
+		<name>Fix-It Felix, Jr.</name>
+		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
+		<image>./#homebrews/mixart/Fix It Felix Jr.png</image>
+		<video>./#homebrews/snap/Fix It Felix Jr.mp4</video>
+		<marquee>./#homebrews/wheel/Fix It Felix Jr.png</marquee>
+		<rating>1</rating>
+		<releasedate>20130331T000000</releasedate>
+		<genre>Puzzle-Game</genre>
 		<favorite>true</favorite>
-		<lang>en,kr</lang>
-		<region>kr</region>
-		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
-		<cheevosId>120</cheevosId>
+		<lang>en</lang>
+		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Life On Mars.zip</path>
+		<name>Life On Mars</name>
+		<desc>"Life On Mars" is a homebrew for the Sega Genesis, a sci-fi metroidvania from the developers of "Metal Dragon", inspired by classic space horror movies like Metroid and Aliens . It is proposed to play as a technician who went to repair communications on a Martian colony that fell silent 9 months ago. The gameplay contains all the attributes of classic metroidvanias, such as initially inaccessible locations, acquiring new skills, upgrading weapons, and more.</desc>
+		<image>./#homebrews/mixart/Life On Mars.png</image>
+		<video>./#homebrews/snap/Life On Mars.mp4</video>
+		<marquee>./#homebrews/wheel/Life On Mars.png</marquee>
+		<rating>3</rating>
+		<releasedate>20230325T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Action, Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>85E9D2326917C02A6C48FB403F75689D</cheevosHash>
 	</game>
 </gameList>

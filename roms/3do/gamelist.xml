@@ -1869,23 +1869,6 @@
 		<cheevosHash>F2B052859174AD98E18B3C3267A4A31A</cheevosHash>
 	</game>
 	<game>
-		<path>./BattleSport (Europe).chd</path>
-		<name>Battlesport</name>
-		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
-		<image>./mixart/BattleSport (Europe).png</image>
-		<video>./snap/BattleSport (Europe).mp4</video>
-		<marquee>./wheel/BattleSport (Europe).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Cyclone Studios</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Sports</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>5B2F29B3789D5D7601712FAC6CB88C04</cheevosHash>
-	</game>
-	<game>
 		<path>./Super Wing Commander (Europe).chd</path>
 		<name>Super Wing Commander</name>
 		<desc>A remake of the first Wing Commander with all-new graphics and sound.  As in the original game, the player takes control of a young pilot on the carrier TCS Tiger's Claw to fly missions in the war against the Kilrathi.  Super Wing Commander includes the Vega campaign from the original game and the first Secret Missions add-on campaign. Exclusive to this version is a new campaign set between Secret Missions 1 and 2 where the Tiger's Claw must find and destroy the base where the Sivar dreadnought from Secret Missions 1 was developed.  The look of the original game has been completely redesigned, with ships and people looking completely different from the original. All dialogue is now heard through digitized speech.</desc>
@@ -1918,5 +1901,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EF370EBCA02F745F73F283660613C333</cheevosHash>
+	</game>
+	<game>
+		<path>./BattleSport (Europe).chd</path>
+		<name>Battlesport</name>
+		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
+		<image>./mixart/BattleSport (Europe).png</image>
+		<video>./snap/BattleSport (Europe).mp4</video>
+		<marquee>./wheel/BattleSport (Europe).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Cyclone Studios</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Sports</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>5B2F29B3789D5D7601712FAC6CB88C04</cheevosHash>
 	</game>
 </gameList>

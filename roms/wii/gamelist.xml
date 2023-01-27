@@ -5425,24 +5425,6 @@ This game features an elimination version, where a wrong answer eliminates you f
 		<region>eu</region>
 		<genreid>2304</genreid>
 	</game>
-	<game>
-		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
-		<name>Mario Kart Wii Deluxe</name>
-		<desc>Up to four players, represented by Miis, compete against each other in a three round trivia contest. Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the third round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner. 
- 
-This game features an elimination version, where a wrong answer eliminates you from the competition. There is also a 2-on-2 duel version and the return of the Quiz Attack for a solo player to see how many consecutive correct answers they can achieve.</desc>
-		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
-		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
-		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20221113T000000</releasedate>
-		<developer>FJRoyet</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Party, Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="8694" source="ScreenScraper.fr">
 		<path>./Mario Kart Wii (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Mario Kart Wii</name>
@@ -5534,5 +5516,23 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
+		<name>Mario Kart Wii Deluxe</name>
+		<desc>Up to four players, represented by Miis, compete against each other in a three round trivia contest. Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the third round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner. 
+ 
+This game features an elimination version, where a wrong answer eliminates you from the competition. There is also a 2-on-2 duel version and the return of the Quiz Attack for a solo player to see how many consecutive correct answers they can achieve.</desc>
+		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
+		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20221113T000000</releasedate>
+		<developer>FJRoyet</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Party, Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

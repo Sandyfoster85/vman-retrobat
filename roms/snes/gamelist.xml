@@ -5481,21 +5481,6 @@ In this 2D shooter, Player 1 controls Dr. Alan Grant and Player 2 controls Tacti
 		<lang>en</lang>
 		<cheevosHash>2BC3BA107D1660F2B42C009E8ABB39F7</cheevosHash>
 	</game>
-	<game>
-		<path>./#homebrews/Justice for Mario.7z</path>
-		<name>Justice for Mario</name>
-		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<emulator>snes9x</emulator>
-		<image>./#homebrews/mixart/Justice for Mario.jpg</image>
-		<video>./#homebrews/snap/Justice for Mario.mp4</video>
-		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<lang>en</lang>
-		<cheevosHash>2BC3BA107D1660F2B42C009E8ABB39F7</cheevosHash>
-	</game>
 	<game id="2305" source="ScreenScraper.fr">
 		<path>./Justice League Task Force (USA).7z</path>
 		<name>Justice League Task Force</name>
@@ -14738,15 +14723,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>7F44A65CF20B213502314FC118B5A6F4</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Oh No! More Zombies Ate My Neighbors.7z</path>
-		<name>Oh No! More Zombies Ate My Neighbors</name>
-		<image>./#homebrews/mixart/Oh No! More Zombies Ate My Neighbors.jpg</image>
-		<video>./#homebrews/snap/Oh No! More Zombies Ate My Neighbors.mp4</video>
-		<marquee>./#homebrews/wheel/Oh No! More Zombies Ate My Neighbors.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>7F44A65CF20B213502314FC118B5A6F4</cheevosHash>
-	</game>
-	<game>
 		<path>./Pasedonal Mario Worlds.7z</path>
 		<name>Pasedonal Mario Worlds</name>
 		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -14762,21 +14738,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<cheevosHash>88D9F569FEDDD365154B96282ADB7159</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Pasedonal Mario Worlds.7z</path>
-		<name>Pasedonal Mario Worlds</name>
-		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<emulator>snes9x</emulator>
-		<image>./#homebrews/mixart/Pasedonal Mario Worlds.jpg</image>
-		<video>./#homebrews/snap/Pasedonal Mario Worlds.mp4</video>
-		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20190101T000000</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<lang>en</lang>
-		<cheevosHash>88D9F569FEDDD365154B96282ADB7159</cheevosHash>
-	</game>
-	<game>
 		<path>./Super Enan World.7z</path>
 		<name>Super Enan World</name>
 		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
@@ -14784,21 +14745,6 @@ This is a traditional platform game based on the movie 3 Ninjas Kick Back. Each 
 		<image>./mixart/Super Enan World.jpg</image>
 		<video>./snap/Super Enan World.mp4</video>
 		<marquee>./wheel/Super Enan World.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>2019</releasedate>
-		<developer>Homebrew</developer>
-		<publisher>Non-commercial</publisher>
-		<lang>en</lang>
-		<cheevosHash>C43EAE8B30185C6D68C5E19A1A2B4A37</cheevosHash>
-	</game>
-	<game>
-		<path>./#homebrews/Super Enan World.7z</path>
-		<name>Super Enan World</name>
-		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
-		<emulator>snes9x</emulator>
-		<image>./#homebrews/mixart/Super Enan World.jpg</image>
-		<video>./#homebrews/snap/Super Enan World.mp4</video>
-		<marquee>./#homebrews/wheel/Super Enan World.png</marquee>
 		<rating>0.8</rating>
 		<releasedate>2019</releasedate>
 		<developer>Homebrew</developer>
@@ -15413,5 +15359,193 @@ All three games tell the story of ninja Ryu Hayabusa through alternating cinemat
 		<region>us</region>
 		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
 		<cheevosId>498</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Justice for Mario.7z</path>
+		<name>Justice for Mario</name>
+		<desc>Justice for Mario is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Justice for Mario.jpg</image>
+		<video>./#homebrews/snap/Justice for Mario.mp4</video>
+		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<md5>596855ea1298d4bc0aca1ae005af51d7</md5>
+		<lang>en</lang>
+		<cheevosHash>2BC3BA107D1660F2B42C009E8ABB39F7</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Pasedonal Mario Worlds.7z</path>
+		<name>Pasedonal Mario Worlds</name>
+		<desc>Pasedonal Mario Worlds is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Pasedonal Mario Worlds.jpg</image>
+		<video>./#homebrews/snap/Pasedonal Mario Worlds.mp4</video>
+		<marquee>./#homebrews/wheel/Justice for Mario.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20190101T000000</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<md5>a461e2651977c1caa3d494ad9df9d3a7</md5>
+		<lang>en</lang>
+		<cheevosHash>88D9F569FEDDD365154B96282ADB7159</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Super Enan World.7z</path>
+		<name>Super Enan World</name>
+		<desc>Super Enan World is a new homebrew release that re-imagines Super Mario Land, the iconic Game Boy title, on the Super Nintendo. It was developed in secret by a mystery coder and 30 custom cartridges of it were sent out to select people to celebrate the Game Boy's 30th Anniversary.</desc>
+		<emulator>snes9x</emulator>
+		<image>./#homebrews/mixart/Super Enan World.jpg</image>
+		<video>./#homebrews/snap/Super Enan World.mp4</video>
+		<marquee>./#homebrews/wheel/Super Enan World.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>2019</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Non-commercial</publisher>
+		<md5>0d2cab9e98bd3e6cad46511092ca41ff</md5>
+		<lang>en</lang>
+		<cheevosHash>C43EAE8B30185C6D68C5E19A1A2B4A37</cheevosHash>
+	</game>
+	<game id="422775">
+		<path>./#homebrews/Chips Challenge The Retro Room brew.zip</path>
+		<name>Chip's Challenge</name>
+		<desc>Chips Challenge is getting its very first retro console release ever! For the first time you will be able to play Chips Challenge on Super Nintendo and Sega Genesis/Megadrive!  Play as Nerdy Chip McCallahan, who navigates through a series of increasingly difficult puzzles in 148 two-dimensional levels, in order to prove himself and gain membership to the very exclusive Bit Busters Club. Chip's Challenge will be available on 16-bit consoles including a cartridge in both PAL and NTSC versions, a box and an instruction booklet.</desc>
+		<image>./#homebrews/mixart/Chips Challenge The Retro Room brew.png</image>
+		<video>./#homebrews/snap/Chips Challenge The Retro Room brew.mp4</video>
+		<marquee>./#homebrews/wheel/Chips Challenge The Retro Room brew.png</marquee>
+		<rating>0</rating>
+		<releasedate>2021231T200000</releasedate>
+		<developer>RetroRoomGames</developer>
+		<publisher>Homebrew</publisher>
+		<md5>42a3062f6b86844dc5cc497957fc1e03</md5>
+		<lang>en</lang>
+		<cheevosHash>42A3062F6B86844DC5CC497957FC1E03</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T143706" />
+	</game>
+	<game id="419136">
+		<path>./#homebrews/Dottie dreads nought.zip</path>
+		<name>Dottie - Dreads Nought</name>
+		<desc>Você pode ajudar Dottie em sua aventura de caminhada para encontrar a lendária flor Edelweib?
+
+Junto com o passeio está seu amigo Ernesto. Ao usar o espelho mágico, você pode mudar a perspectiva para ele e revelar segredos anteriormente ocultos.</desc>
+		<image>./#homebrews/mixart/Dottie dreads nought.png</image>
+		<video>./#homebrews/snap/Dottie dreads nought.mp4</video>
+		<marquee>./#homebrews/wheel/Dottie dreads nought.png</marquee>
+		<releasedate>20210902T000000</releasedate>
+		<developer>SNESDEV</developer>
+		<publisher>SNESDEV</publisher>
+		<genre>Plataforma</genre>
+		<crc32>94AFC86D</crc32>
+		<md5>90bd580db8b208798013b373bf1425a6</md5>
+		<lang>en</lang>
+		<cheevosHash>90BD580DB8B208798013B373BF1425A6</cheevosHash>
+		<scrap name="ScreenScraper" date="20221228T132904" />
+	</game>
+	<game id="367908">
+		<path>./#homebrews/Fork Parker's Crunch Out.zip</path>
+		<name>Fork Parker's Crunch Out</name>
+		<desc>Fork Parker's Crunch Out is a homebrew game starring Fork Parker, the fictional CFO of Devolver Digital. It was created to raise awareness about "crunch time" in game development, a practice in some companies when employees are expected to put in a large amount of (unpaid) overtime hours to get the game done in a proposed time. Devolver Digital donated 100% of their profits from sales to Take This, an organization that raises awareness and aims to combat mental health issues.
+
+At the start of the game Fork Parker feels threatened by the rise of a new publisher, Cash Cow Games. They released Loot Box: The Game where only one in twenty downloads contains the actual game and they bought their own e-sports team. Parker decides it is time to catch up with them through crunch time. The player controls Parker in the office with mechanics typical of time management titles. He needs to bring employees caffeine to keep them awake, serve hamburgers at their desks, whip them into working, literally, using a bat, or resuscitate them using a dose of electricity when they pass out. The game takes place on a single, fixed screen and most actions are tied to moving to one of the four stations near the top of the screen, for instance to get coffee. An icon of an employee's head shows the current mood / status and Parker needs to move quickly to the correct station to remedy it. There is also a pink pet pig Pork running around and it needs to be avoided. When Parker comes in contact with it, he shakes it for a long time and B needs to be tapped repeatedly to make him let go.</desc>
+		<image>./#homebrews/mixart/Fork Parker's Crunch Out.png</image>
+		<video>./#homebrews/snap/Fork Parker's Crunch Out.mp4</video>
+		<marquee>./#homebrews/wheel/Fork Parker's Crunch Out.png</marquee>
+		<rating>0</rating>
+		<releasedate>20190219T000000</releasedate>
+		<developer>Mega Cat Studios</developer>
+		<publisher>Devolver Digital</publisher>
+		<genre>Action</genre>
+		<crc32>F425A9DC</crc32>
+		<md5>91423de9bb8a23b172a51b104db37fad</md5>
+		<lang>en</lang>
+		<cheevosHash>91423DE9BB8A23B172A51B104DB37FAD</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T181958" />
+	</game>
+	<game id="367852">
+		<path>./#homebrews/Little Medusa.zip</path>
+		<name>Little Medusa</name>
+		<desc>Little Medusa is an action puzzle game with gameplay similar to titles like Adventures of Lolo and Kickle Cubicle. Artemiza is a goddess and the daughter of Zeus. She is also the successor to his throne on Mount Olympus. She is very vain and Fiora, the goddess of strife and magic, turns her into the gorgon Medusa. She also makes the other gods believe Artemiza has disappeared. Fiora frees the Titans and takes over the throne. Now Medusa is the only one who can stop her.
+
+The game consists of five worlds with multiple levels and a world ends with a boss fight. Each world is tied to one of the Titans: Ariadne (water), Coeus (wind), Ermolai (earth), Fiora (magic and discord) and Thia (fire). A level consists of a single, fixed screen that is completed once Medusa has collected all yellow stars. She has two lives at the start and there are enemies roaming. She can petrify enemies with her gaze and then push them into the water to create bridges. She can also create stone blocks that serve as obstacles.
+
+Some enemies have attacks and they respawn from pots. Later levels introduce keys, chests, rotatable arrow tiles that change the movement direction of pushed enemies, and additional lives that can be picked up. The game keeps track of the score and has a timer counting down. If the game is completed quickly enough a sixth and final world is unlocked with a new ending to the story. The game has achievements and an Olympian mode with permadeath.</desc>
+		<image>./#homebrews/mixart/Little Medusa.png</image>
+		<video>./#homebrews/snap/Little Medusa.mp4</video>
+		<marquee>./#homebrews/wheel/Little Medusa.png</marquee>
+		<rating>0</rating>
+		<releasedate>20180807T000000</releasedate>
+		<developer>Mega Cat Studios</developer>
+		<publisher>Mega Cat Studios</publisher>
+		<genre>Action</genre>
+		<md5>bed37135878223a8cd3dbc9d97c58e1d</md5>
+		<lang>en</lang>
+		<cheevosHash>BED37135878223A8CD3DBC9D97C58E1D</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T182546" />
+	</game>
+	<game id="367864">
+		<path>./#homebrews/Nekotako.zip</path>
+		<name>Nekotako</name>
+		<desc>Junte-se a uma garota polvo da lua e a um estranho OVNI amante de peixes em uma aventura fofa e rápida!
+
+Antes que eles pudessem voltar para sua casa, sua pescaria suada foi roubada por gatos travessos. Para recuperá-los, eles perseguem as bolas de pêlo pelos campos, rios e montanhas, finalmente alcançando seu esconderijo na cidade.
+
+O OVNI queima seu combustível de peixe rapidamente, então o polvo tem que pegar mais a cada parada. Ao longo do caminho, eles também pegarão moedas. Estes podem ser usados ​​por 4 itens diferentes que os ajudarão a vencer níveis difíceis ou guardados até o final para uma surpresa especial!</desc>
+		<image>./#homebrews/mixart/Nekotako.png</image>
+		<video>./#homebrews/snap/Nekotako.mp4</video>
+		<marquee>./#homebrews/wheel/Nekotako.png</marquee>
+		<releasedate>20210402T000000</releasedate>
+		<developer>PA Games</developer>
+		<publisher>PA Games</publisher>
+		<genre>Plataforma</genre>
+		<lang>en</lang>
+		<cheevosHash>DEF97153C342C7154E52F980B87D0D0E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221228T132911" />
+	</game>
+	<game>
+		<path>./#homebrews/Oh No! More Zombies Ate My Neighbors.7z</path>
+		<name>Oh No! More Zombies Ate My Neighbors</name>
+		<image>./#homebrews/mixart/Oh No! More Zombies Ate My Neighbors.jpg</image>
+		<video>./#homebrews/snap/Oh No! More Zombies Ate My Neighbors.mp4</video>
+		<marquee>./#homebrews/wheel/Oh No! More Zombies Ate My Neighbors.png</marquee>
+		<md5>7f44a65cf20b213502314fc118b5a6f4</md5>
+		<lang>en</lang>
+		<cheevosHash>7F44A65CF20B213502314FC118B5A6F4</cheevosHash>
+	</game>
+	<game id="170533">
+		<path>./#homebrews/Sydney Hunter and the Caverns of Death.zip</path>
+		<name>Sydney Hunter And The Caverns Of Death</name>
+		<desc>You control Sydney Hunter, the famous explorer who is off on an action packed quest! You'll direct him through the dangerous forest, fields and caverns on his way to the treasure. He must run, jump and duck to avoid the many hazards and elude the scary creatures along the way. Will you get Sydney Hunter to the hidden Mayan temple to get the diamonds?</desc>
+		<image>./#homebrews/mixart/Sydney Hunter and the Caverns of Death.png</image>
+		<video>./#homebrews/snap/Sydney Hunter and the Caverns of Death.mp4</video>
+		<marquee>./#homebrews/wheel/Sydney Hunter and the Caverns of Death.png</marquee>
+		<releasedate>20160706T000000</releasedate>
+		<developer>CollectorVision Games</developer>
+		<publisher>CollectorVision Games</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<md5>028c40c8515167da7faf65269e59cec3</md5>
+		<lang>en</lang>
+		<cheevosHash>028C40C8515167DA7FAF65269E59CEC3</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T143906" />
+	</game>
+	<game id="152233">
+		<path>./#homebrews/Unholy Night - The Darkness Hunter.zip</path>
+		<name>Unholy Night The Darkness Hunter</name>
+		<desc>Developed by former SNK developers who worked on Kizuna Encounter, The King of Fighters '98, KoF 2001 and KoF 2002.Unholy Night clearly takes a page out of Capcomâ€™s Darkstalkers series in that it channels a supernatural theme, including six playable characters with eight special moves to exploit. The game's story revolves around a group of hunters called the "Dark Family" as well as  vampires and werewolves.</desc>
+		<image>./#homebrews/mixart/Unholy Night - The Darkness Hunter.png</image>
+		<video>./#homebrews/snap/Unholy Night - The Darkness Hunter.mp4</video>
+		<marquee>./#homebrews/wheel/Unholy Night - The Darkness Hunter.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20170408T000000</releasedate>
+		<developer>Foxbat</developer>
+		<publisher>Retroism</publisher>
+		<genre>Fight / Versus</genre>
+		<players>2</players>
+		<md5>2e60fe37d3cb806483c825118b4f55a6</md5>
+		<lang>en</lang>
+		<cheevosHash>2E60FE37D3CB806483C825118B4F55A6</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T143809" />
 	</game>
 </gameList>

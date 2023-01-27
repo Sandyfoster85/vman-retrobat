@@ -5073,25 +5073,6 @@
 		<cheevosId>10078</cheevosId>
 	</game>
 	<game>
-		<path>./#homebrews/007 - GoldenEye with Mario.z64</path>
-		<name>007 - GoldenEye with Mario</name>
-		<desc>Fanmade 007 Goldeneye featearing Mario as the main character.</desc>
-		<emulator>libretro</emulator>
-		<core>parallel_n64</core>
-		<image>./#homebrews/mixart/007 - GoldenEye with Mario.jpg</image>
-		<video>./#homebrews/snap/007 - GoldenEye with Mario.mp4</video>
-		<marquee>./#homebrews/wheel/007 - GoldenEye with Mario.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20180305T000000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Fandmade</publisher>
-		<genre>Action, Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E3E176B5940C01882CFBB108EF7F3F44</cheevosHash>
-	</game>
-	<game>
 		<path>./#homebrews/Animal Forest (U) [!].z64</path>
 		<name>Animal Forest</name>
 		<desc>Fanmade Animal Forest mod from Animal Crossing with a completely different story.</desc>
@@ -5107,23 +5088,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>01BDCC854D0AB798500E7BC31A24D94F</cheevosHash>
-	</game>
-	<game>
-		<path>./#homebrews/Mario Kart 64 - Overkart (U) [!].z64</path>
-		<name>Mario Kart 64 - Overkart</name>
-		<desc>Fanmade Mario Kart 64 with special mods in Overkart mode.</desc>
-		<image>./#homebrews/mixart/Mario Kart 64 - Overkart (U) [!].png</image>
-		<video>./#homebrews/snap/Mario Kart 64 - Overkart (U) [!].mp4</video>
-		<marquee>./#homebrews/wheel/Mario Kart 64 - Overkart (U) [!].png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20180305T000000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Fandmade</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C9AFA970DBF71E315FABFA82FBFB5FF0</cheevosHash>
 	</game>
 	<game>
 		<path>./#homebrews/Mario Party 3 Starstruck (U) [!].z64</path>
@@ -5365,5 +5329,41 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/007 - GoldenEye with Mario.z64</path>
+		<name>007 - GoldenEye with Mario</name>
+		<desc>Fanmade 007 Goldeneye featearing Mario as the main character.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./#homebrews/mixart/007 - GoldenEye with Mario.jpg</image>
+		<video>./#homebrews/snap/007 - GoldenEye with Mario.mp4</video>
+		<marquee>./#homebrews/wheel/007 - GoldenEye with Mario.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E3E176B5940C01882CFBB108EF7F3F44</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart 64 - Overkart (U) [!].z64</path>
+		<name>Mario Kart 64 - Overkart</name>
+		<desc>Fanmade Mario Kart 64 with special mods in Overkart mode.</desc>
+		<image>./#homebrews/mixart/Mario Kart 64 - Overkart (U) [!].png</image>
+		<video>./#homebrews/snap/Mario Kart 64 - Overkart (U) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart 64 - Overkart (U) [!].png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C9AFA970DBF71E315FABFA82FBFB5FF0</cheevosHash>
 	</game>
 </gameList>

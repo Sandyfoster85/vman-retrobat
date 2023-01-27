@@ -1745,23 +1745,6 @@
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Xeno Crisis - Neo Geo CD.chd</path>
-		<name>Xeno Crisis</name>
-		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
-		<image>./#homebrews/mixart/Xeno Crisis - Neo Geo CD.png</image>
-		<video>./#homebrews/snap/Xeno Crisis - Neo Geo CD.mp4</video>
-		<marquee>./#homebrews/wheel/Xeno Crisis - Neo Geo CD.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Bitmap Bureau</developer>
-		<publisher>Independent</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>1D232E073B335D96CFEF64BAD118065C</cheevosHash>
-	</game>
-	<game>
 		<path>./Last Resort (World).chd</path>
 		<name>Last Resort</name>
 		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
@@ -1812,5 +1795,22 @@
 		<lang>en</lang>
 		<region>wr</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Xeno Crisis - Neo Geo CD.chd</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is an arena shooter in which one or two players take control of battle-hardened marines embarking on a deadly mission to confront an alien menace and get home alive! Run and gun your way through thousands of adversaries as you explore the devastated research outpost, searching for survivors, and ultimately facing the origin of the outpost's demise. Outpost 88 is divided into seven distinct areas, each being randomly generated with each play, meaning that your strategy must evolve on the fly if you're to succeed in your mission. Collect dog-tags from vanquished enemies to upgrade your equipment between areas and look out for special weapons which will give you a momentary advantage. +A faithful port of the hit 16 bit game with added extras. +Incredible pixel art from the legendary pixel artist, Henk Nieborg. +Intense FM chiptune soundtrack by Savaged Regime, originally created for the YM2612! +Two difficulty levels and three modes of play. +An arsenal of 10 weapons to master. +Play solo or local co-op with a friend!</desc>
+		<image>./#homebrews/mixart/Xeno Crisis - Neo Geo CD.png</image>
+		<video>./#homebrews/snap/Xeno Crisis - Neo Geo CD.mp4</video>
+		<marquee>./#homebrews/wheel/Xeno Crisis - Neo Geo CD.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Independent</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>1D232E073B335D96CFEF64BAD118065C</cheevosHash>
 	</game>
 </gameList>

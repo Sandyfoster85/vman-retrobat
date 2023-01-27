@@ -69286,30 +69286,6 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<region>us</region>
 		<cheevosHash>17F2B6DAC6D972045E777A8A13F8EA1C</cheevosHash>
 	</game>
-	<game>
-		<path>./robotron.zip</path>
-		<name>Robotron: 2084</name>
-		<desc>Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
-
-The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
-
-At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
-
-MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.</desc>
-		<image>./mixart/robotron.png</image>
-		<video>./snap/robotron.mp4</video>
-		<marquee>./wheel/robotron.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Vid Kidz</developer>
-		<publisher>Williams / Vid Kidz</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>656AEFB80B236D5E86412607B50E5156</cheevosHash>
-	</game>
 	<game id="42993">
 		<path>./sfex2h.zip</path>
 		<name>Street Fighter EX2</name>
@@ -72872,6 +72848,25 @@ After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, J
 		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
 	</game>
 	<game>
+		<path>./lgtnfght.zip</path>
+		<name>Lightning Fighters</name>
+		<desc>In Lightning Fighters and Trigon, the original Japanese version, there are different rules depending on whether you start the game with one or two players. In a one-player game, you start with no bombs, and when you die the game restarts you at a checkpoint. In a two-player game, each life starts with one bomb, and when you die you respawn in place. There are some powerups that only appear in a two-player game and one that only appears in a one-player game. The game type cannot be changed once the game starts. A second player cannot join an originally one-player game; conversely, if one player dies in a two-player game the game remains in two-player mode and the second player can rejoin at any time.
+
+In Lightning Fighters, even if you start a one-player game, the game is always in two-player mode: you respawn in place when you die and you start each life with one bomb stocked. This means that a second player can join midway into a one-player game. Unfortunately it also means that the powerup that only appears in one-player games in the other versions, does not appear at all in the US version.</desc>
+		<image>./mixart/lgtnfght.png</image>
+		<video>./snap/lgtnfght.mp4</video>
+		<marquee>./wheel/lgtnfght.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>66E6AA78FE57ADCADC198155C99ED1F1</cheevosHash>
+	</game>
+	<game>
 		<path>./alien3.zip</path>
 		<name>Alien3: The Gun</name>
 		<desc>Alien 3 - The Gun is a shooter game.</desc>
@@ -72892,22 +72887,27 @@ After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, J
 		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
 	</game>
 	<game>
-		<path>./lgtnfght.zip</path>
-		<name>Lightning Fighters</name>
-		<desc>In Lightning Fighters and Trigon, the original Japanese version, there are different rules depending on whether you start the game with one or two players. In a one-player game, you start with no bombs, and when you die the game restarts you at a checkpoint. In a two-player game, each life starts with one bomb, and when you die you respawn in place. There are some powerups that only appear in a two-player game and one that only appears in a one-player game. The game type cannot be changed once the game starts. A second player cannot join an originally one-player game; conversely, if one player dies in a two-player game the game remains in two-player mode and the second player can rejoin at any time.
+		<path>./robotron.zip</path>
+		<name>Robotron: 2084</name>
+		<desc>Set in the year 2084, Robotron is a single-screen shoot-em-up in which super-intelligent self-aware robots known as 'Robotrons' - designed and built to help mankind - have revolted against their creators and vowed to either reprogram the humans into Robotrons or, failing this, wipe-out the human race entirely. 
 
-In Lightning Fighters, even if you start a one-player game, the game is always in two-player mode: you respawn in place when you die and you start each life with one bomb stocked. This means that a second player can join midway into a one-player game. Unfortunately it also means that the powerup that only appears in one-player games in the other versions, does not appear at all in the US version.</desc>
-		<image>./mixart/lgtnfght.png</image>
-		<video>./snap/lgtnfght.mp4</video>
-		<marquee>./wheel/lgtnfght.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+The player must destroy the robots and rescue the Earth's remaining human families. The player's only weapon is a multi-directional Anti-Robot Laser Gun. Used effectively, it will give players the power to destroy all the Robot waves, with the exception of the indestructible 'Hulk' unit. 
+
+At the start of the attack wave, players will have three chances to wipe out the enemy and advance to the next wave. Every 25,000 points players are granted another chance to complete their mission. 
+
+MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth. Defenseless and easy prey to the Robots, they are totally dependent upon players for their survival and will wander aimlessly until the player makes contact with them. Touching them will place them under the player's protective powers and earn them the following points: 1,000 for rescuing the 1st human; 2,000 for the 2nd: 3,000 for the 3rd; 4,000 for the 4th; 5,000 for the 5th; and 5,000 for every additional human saved. At the beginning of each new wave and when the player loses a turn, rescue scoring will again begin at 1,000.</desc>
+		<image>./mixart/robotron.png</image>
+		<video>./snap/robotron.mp4</video>
+		<marquee>./wheel/robotron.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Vid Kidz</developer>
+		<publisher>Williams / Vid Kidz</publisher>
+		<genre>Shooter</genre>
 		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>66E6AA78FE57ADCADC198155C99ED1F1</cheevosHash>
+		<cheevosHash>656AEFB80B236D5E86412607B50E5156</cheevosHash>
 	</game>
 </gameList>
