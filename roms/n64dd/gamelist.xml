@@ -17,38 +17,6 @@
 		<cheevosHash>A91E882C7A73E754FF8F07E23100EADE</cheevosHash>
 	</game>
 	<game>
-		<path>./Mario Artist - Paint Studio.n64</path>
-		<name>Mario Artist - Paint Studio</name>
-		<desc>Mario Artist: Paint Studio is a Nintendo 64DD video game released late in 1999. The game is based off of the SNES classic Mario Paint, though instead of using the SNES Mouse it used the Nintendo 64 Mouse, which it came bundled with. It is a simple paint program where you can create portraits in a similar fashion to how you would in Microsoft Paint or Apple Works. There are various Nintendo based portraits and stamps that you can use in your paintings. With the use of the Capture Cartridge, players could import their images they've taken with the Game Boy Camera over to Paint Studio and alter them on a larger screen. The game was one of four Mario Artist games released on the 64DD. More were planned, though because the games proved unsuccessful they were never released.</desc>
-		<image>./mixart/Mario Artist Paint Studio.png</image>
-		<video>./snap/Mario Artist Paint Studio.mp4</video>
-		<marquee>./wheel/Mario Artist Paint Studio.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19991130T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Educational</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>B63CE8F56B2E246C37FABC3927AEAA43</cheevosHash>
-	</game>
-	<game>
-		<path>./Mario Artist - Talent Studio.n64</path>
-		<name>Mario Artist - Talent Studio</name>
-		<desc>In Mario Artist: Talent Studio, the player can create their own characters in 3D, customizing features such as hair, skin, and eye color, voice, clothes, facial features, and body size and type. The process is similar to Nintendo's later Miis, but much more detailed. The characters can then be inserted into movies and animations. Events during these movies can be controlled by pressing the Z-trigger. Images from external video can be imported using the Capture Cartridge.</desc>
-		<image>./mixart/Mario Artist Talent Studio.png</image>
-		<video>./snap/Mario Artist Talent Studio.mp4</video>
-		<marquee>./wheel/Mario Artist Talent Studio.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20001130T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Educational</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>1C84AED224BC0A98095937BBC591243C</cheevosHash>
-	</game>
-	<game>
 		<path>./Mario Artist Polygon Studio.n64</path>
 		<name>Mario Artist Polygon Studio</name>
 		<desc>Mario Artist: Polygon Studio is a Nintendo 64DD video game, and the last of the four Mario Artist video games. It was released in August of 2000 and was compatible with the Mario Artist: Communication Kit. With it, you could share your creations over the internet until February of 2001 when the service was discontinued. With the Polygon Studio, players could create their own 3D models with little detail.</desc>
@@ -92,9 +60,122 @@
 		<developer>Captain Seedy-Eye, LuigiBlood</developer>
 		<genre>Action, Adventure</genre>
 		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>848D65E7D58492AEFC585CE7F201381E</cheevosHash>
 		<cheevosId>14486</cheevosId>
+	</game>
+	<game>
+		<path>./Mario Artist - Paint Studio.n64</path>
+		<name>Mario Artist - Paint Studio</name>
+		<desc>Mario Artist: Paint Studio is a Nintendo 64DD video game released late in 1999. The game is based off of the SNES classic Mario Paint, though instead of using the SNES Mouse it used the Nintendo 64 Mouse, which it came bundled with. It is a simple paint program where you can create portraits in a similar fashion to how you would in Microsoft Paint or Apple Works. There are various Nintendo based portraits and stamps that you can use in your paintings. With the use of the Capture Cartridge, players could import their images they've taken with the Game Boy Camera over to Paint Studio and alter them on a larger screen. The game was one of four Mario Artist games released on the 64DD. More were planned, though because the games proved unsuccessful they were never released.</desc>
+		<image>./mixart/Mario Artist - Paint Studio.png</image>
+		<video>./snap/Mario Artist Paint Studio.mp4</video>
+		<marquee>./wheel/Mario Artist Paint Studio.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19991130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>B63CE8F56B2E246C37FABC3927AEAA43</cheevosHash>
+	</game>
+	<game>
+		<path>./Mario Artist - Talent Studio.n64</path>
+		<name>Mario Artist - Talent Studio</name>
+		<desc>In Mario Artist: Talent Studio, the player can create their own characters in 3D, customizing features such as hair, skin, and eye color, voice, clothes, facial features, and body size and type. The process is similar to Nintendo's later Miis, but much more detailed. The characters can then be inserted into movies and animations. Events during these movies can be controlled by pressing the Z-trigger. Images from external video can be imported using the Capture Cartridge.</desc>
+		<image>./mixart/Mario Artist - Talent Studio.png</image>
+		<video>./snap/Mario Artist Talent Studio.mp4</video>
+		<marquee>./wheel/Mario Artist Talent Studio.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20001130T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>1C84AED224BC0A98095937BBC591243C</cheevosHash>
+	</game>
+	<game id="99459">
+		<path>./Super Mario 64 - Disk Version (Japan) (Proto).ndd</path>
+		<name>Super Mario 64 - Disk Version</name>
+		<desc>Super Mario 64: Disk Version is a planned re-release of Super Mario 64 that was intended to boost sales of the ill-fated Nintendo 64 add-on, the 64DD. Its existence was speculated for several years until 2014, when a prototype was discovered. Since then, the ROM has been released to the public.</desc>
+		<image>./mixart/Super Mario 64 - Disk Version (Japan) (Proto).png</image>
+		<video>./snap/Super Mario 64 - Disk Version (Japan) (Proto).mp4</video>
+		<marquee>./wheel/Super Mario 64 - Disk Version (Japan) (Proto).png</marquee>
+		<rating>0.9</rating>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Adventure</genre>
+		<family>Mario</family>
+		<players>1</players>
+		<md5>d9ea905727b44f2774926cb03c2300a7</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230127T014548" />
+	</game>
+	<game>
+		<path>./[BIOS] Nintendo 64DD IPL (Japan) (v1.2).z64</path>
+		<name>[BIOS] Nintendo 64DD IPL (Japan) (v1.2)</name>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<hidden>true</hidden>
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game id="78387">
+		<path>./Nihon Pro Golf Tour 64 (Japan) [b].ndd</path>
+		<name>Nihon Pro Golf Tour 64</name>
+		<desc>Golf simulation, developed for the short-lived Nintendo 64 disk drive add-on. This rare disk is best-known for being the only title for the system to offer a form of online play. The game features six gameplay modes, polygonal graphics, and a player editor. One or two players can compete in Match Play mode while up to four can compete for the best score in the 18-hole Stroke Player mode. The game also sports a Grand Opening Mode (compete with the world's best Japan Pro-Golfers,), a Career Mode, Qualifying Tournament (you create your own player and start with a handicap of 0) and Network Opening. The latter lets you connect to Randnet and compete in an All-Japan tournament.</desc>
+		<image>./mixart/Nihon Pro Golf Tour 64 (Japan) [b].png</image>
+		<video>./snap/Nihon Pro Golf Tour 64 (Japan) [b].mp4</video>
+		<marquee>./wheel/Nihon Pro Golf Tour 64 (Japan) [b].png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20000205T000000</releasedate>
+		<developer>Media Factory</developer>
+		<publisher>SETA Corporation</publisher>
+		<genre>Sports / Golf</genre>
+		<players>4</players>
+		<md5>9f797a9c704b5ebd04d6a2b036309af2</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230127T014448" />
+	</game>
+	<game>
+		<path>./[BIOS] 64DD_IPL_US_MJR.n64</path>
+		<name>[BIOS] 64DD_IPL_US_MJR</name>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<hidden>true</hidden>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./[BIOS] 64DD_IPL_DEV_H4G.n64</path>
+		<name>[BIOS] 64DD_IPL_DEV_H4G</name>
+		<rating>0</rating>
+		<releasedate>19691231T200000</releasedate>
+		<hidden>true</hidden>
+		<lang>en</lang>
+	</game>
+	<game id="99447">
+		<path>./Dezaemon DD (Japan) (Proto).ndd</path>
+		<name>Dezaemon DD</name>
+		<desc>Dezaemon 3D is a shoot 'em up game creator developed by  Athena and released for the Nintendo 64 only in Japan in 1998. The game was one in which one could design their own shooting game levels similar to the levels shown in Star Soldier: Vanishing Earth. The game had nearly limitless options, from creating the stage boss or adding a custom soundtrack for each level. A 64DD add-on was planned but they never released it: only some messages from the editor mode reveale this unused connection.</desc>
+		<image>./mixart/Dezaemon DD (Japan) (Proto).png</image>
+		<video>./snap/Dezaemon DD (Japan) (Proto).mp4</video>
+		<marquee>./wheel/Dezaemon DD (Japan) (Proto).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980626T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<md5>40aa8ec52c5e025d6c6ad94cebc2218f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230127T014322" />
 	</game>
 	<game>
 		<path>./F-Zero X - Expansion.n64</path>
