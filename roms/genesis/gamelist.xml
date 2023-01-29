@@ -674,29 +674,6 @@ The game used an overhead view for physical combat, and a third person "POV" whe
 		<region>eu</region>
 		<cheevosHash>32F931827159663D6BF27C12949B1875</cheevosHash>
 	</game>
-	<game>
-		<path>./T2 - The Arcade Game (USA, Europe).7z</path>
-		<name>T2 : The Arcade Game</name>
-		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. 
-
-Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.
-
-T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.
-
-Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
-		<image>./mixart/T2 - The Arcade Game (USA, Europe).png</image>
-		<video>./snap/T2 - The Arcade Game (USA, Europe).mp4</video>
-		<marquee>./wheel/T2 - The Arcade Game (USA, Europe).png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Arena Entertainment</developer>
-		<publisher>Acclaim - Arena Entertainment - Midway - Probe</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>3C2666BCC3C42A4218E46C5ABA2BCA15</cheevosHash>
-	</game>
 	<game id="142" source="ScreenScraper.fr">
 		<path>./TaleSpin (USA, Europe).7z</path>
 		<name>TaleSpin</name>
@@ -16511,5 +16488,28 @@ But beware, Zadimus won't let you get away with it...</desc>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>85E9D2326917C02A6C48FB403F75689D</cheevosHash>
+	</game>
+	<game>
+		<path>./T2 - The Arcade Game (USA, Europe).7z</path>
+		<name>T2 : The Arcade Game</name>
+		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. 
+
+Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.
+
+T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.
+
+Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
+		<image>./mixart/T2 - The Arcade Game (USA, Europe).png</image>
+		<video>./snap/T2 - The Arcade Game (USA, Europe).mp4</video>
+		<marquee>./wheel/T2 - The Arcade Game (USA, Europe).png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Arena Entertainment</developer>
+		<publisher>Acclaim - Arena Entertainment - Midway - Probe</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3C2666BCC3C42A4218E46C5ABA2BCA15</cheevosHash>
 	</game>
 </gameList>

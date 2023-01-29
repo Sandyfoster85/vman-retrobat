@@ -274,23 +274,6 @@ All this excitement takes place on a railroad track with 6 amazingly detailed sc
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="37514" source="ScreenScraper.fr">
-		<path>./LA Machine Guns.zip</path>
-		<name>LA Machine Guns</name>
-		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
-		<image>./mixart/LA Machine Guns.png</image>
-		<video>./snap/LA Machine Guns.mp4</video>
-		<marquee>./wheel/LA Machine Guns.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>261</genreid>
-	</game>
 	<game id="37522" source="ScreenScraper.fr">
 		<path>./Spike Out Final Edition.zip</path>
 		<name>Spikeout Final Edition</name>
@@ -381,5 +364,22 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37514" source="ScreenScraper.fr">
+		<path>./LA Machine Guns.zip</path>
+		<name>LA Machine Guns</name>
+		<desc>During your mission, you will encounter enormous amounts of enemies ranging from human size robots to lightning fast weapon pods. The player is armed with a heavy machine gun which he uses to survive the 4 stages of the game.</desc>
+		<image>./mixart/LA Machine Guns.png</image>
+		<video>./snap/LA Machine Guns.mp4</video>
+		<marquee>./wheel/LA Machine Guns.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>261</genreid>
 	</game>
 </gameList>

@@ -9486,7 +9486,7 @@ Improved weapons, magic and dungeons as well!</desc>
 	</game>
 	<game>
 		<path>./Slice Dice and Rice.lnk</path>
-		<name>SALT AND SACRIFICE</name>
+		<name>Slice Dice and Rice</name>
 		<desc>Slice Dice and Rice is an indie fighting game with no health bars. Inspired by Bushido Blade, it revolves around the idea of finding an opening in opponents defense and ending the round with a single, clean hit. Gone are the tedious hit points – each scratch impairs your movement, every wound might be your last. Gameplay Our goal was to make fighting games accessible to anyone. An intuitive set of basic abilities allowed us to remove the need for memorizing inputs and move-lists, while retaining the complexity. Moves can be canceled to feint an attack, hits can be parried or dodged, and they can clash with one another. This creates a mind-game heavy gameplay, one that mimics real samurai showdowns Characters and Stages You can play as one of 8 characters, all with their own stories and unique fighting styles. Game’s cast offers many variations of gameplay, from a swift monk using only his fists in battle, to a muscular lady with a giant sword that compensates speed and mobility with endurance during her attacks. Fights take place in alternative version of Japanese underworld and features 6 unique stages with hand-drawn textures.</desc>
 		<image>./mixart/Slice Dice and Rice.png</image>
 		<video>./snap/Slice Dice and Rice.mp4</video>
@@ -9752,6 +9752,22 @@ From the very beginning of the project, Sonic 2 HD has focused on maintaining th
 		<publisher>Insane Code</publisher>
 		<genre>Racing</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania Chronicles II - Simon's Quest II.lnk</path>
+		<name>Castlevania Chronicles II - Simon's Quest II</name>
+		<desc>Castlevania Chronicles II Simon's Quest is a fanmade built from-the-ground-up remaining of the 1987 NES / Famicom Disc System entry and comes with a raft of new features, as well as upgraded visuals, music and controls.</desc>
+		<image>./mixart/Castlevania Chronicles II - Simon's Quest II.jpg</image>
+		<video>./snap/Castlevania Chronicles II - Simon's Quest II.mp4</video>
+		<marquee>./wheel/Castlevania Chronicles II - Simon's Quest II.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20231201T000000</releasedate>
+		<developer>Warmachine Studios</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Action-Adventure</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

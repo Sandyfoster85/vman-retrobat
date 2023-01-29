@@ -1879,22 +1879,6 @@ This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade ga
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FarCryParadiseLost.parrot</path>
-		<name>Far Cry Paradise Lost</name>
-		<desc>The game takes full advantage of the Wii Remote and its Nunchuk attachment. For example, the player can make the character jump by lifting the nunchuk. Weapons are aimed by pointing the Wii Remote at the screen, and melee attacks are carried out by making a slashing motion with it. The zoom on sniper rifles will similarly be controlled by moving the Wii Remote towards the television. Split screen Chaos mode (standard deathmatch) is included.</desc>
-		<image>./mixart/FarCryParadiseLost.png</image>
-		<video>./snap/FarCryParadiseLost.mp4</video>
-		<marquee>./wheel/FarCryParadiseLost.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070101T000000</releasedate>
-		<developer>Global VR PC Based</developer>
-		<publisher>Global VR PC Based</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./GG.parrot</path>
 		<name>Sega Golden Gun</name>
 		<desc>Sega Golden Gun is a light gun game released by Sega in 2010 for Sega RingWide hardware. It was developed by Sega of China, by the same team responsible for the The House of the Dead series. Many of the game's assets, including the engine itself, were ported directly from The House of the Dead 4.</desc>
@@ -2119,6 +2103,22 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<developer>Sega Europa-R</developer>
 		<publisher>Sega Europa-R</publisher>
 		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FarCryParadiseLost.parrot</path>
+		<name>Far Cry Paradise Lost</name>
+		<desc>The game takes full advantage of the Wii Remote and its Nunchuk attachment. For example, the player can make the character jump by lifting the nunchuk. Weapons are aimed by pointing the Wii Remote at the screen, and melee attacks are carried out by making a slashing motion with it. The zoom on sniper rifles will similarly be controlled by moving the Wii Remote towards the television. Split screen Chaos mode (standard deathmatch) is included.</desc>
+		<image>./mixart/FarCryParadiseLost.png</image>
+		<video>./snap/FarCryParadiseLost.mp4</video>
+		<marquee>./wheel/FarCryParadiseLost.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070101T000000</releasedate>
+		<developer>Global VR PC Based</developer>
+		<publisher>Global VR PC Based</publisher>
+		<genre>Shooter</genre>
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>

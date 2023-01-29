@@ -321,21 +321,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Crime Patrol.cmd</path>
-		<name>Crime Patrol</name>
-		<desc>Crime Patrol was a laserdisc game created by American Laser Games in 1993.  In Crime Patrol, you team up with different departments in law enforcement.  You start off as a Rookie walking the beat.  After successfully getting through that area, you then move on to Undercover.  After Undercover, you move up to SWAT.  Then once SWAT is completed, you move to Delta Force and take on the toughest criminals in the country.</desc>
-		<image>./mixart/Crime Patrol.png</image>
-		<video>./content/Crime_Patrol_Singe_2/Video/menu-attract.mp4</video>
-		<marquee>./wheel/Crime Patrol.png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>American Laser Games</developer>
-		<publisher>American Laser Games</publisher>
-		<genre>Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Fire and Ice.cmd</path>
 		<name>Fire and Ice</name>
 		<desc>Defeat the evil Nekron in this adaptation of the 1983 movie.</desc>
@@ -474,6 +459,21 @@
 		<genre>Action</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Crime Patrol.cmd</path>
+		<name>Crime Patrol</name>
+		<desc>Crime Patrol was a laserdisc game created by American Laser Games in 1993.  In Crime Patrol, you team up with different departments in law enforcement.  You start off as a Rookie walking the beat.  After successfully getting through that area, you then move on to Undercover.  After Undercover, you move up to SWAT.  Then once SWAT is completed, you move to Delta Force and take on the toughest criminals in the country.</desc>
+		<image>./mixart/Crime Patrol.png</image>
+		<video>./content/Crime_Patrol_Singe_2/Video/menu-attract.mp4</video>
+		<marquee>./wheel/Crime Patrol.png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>American Laser Games</developer>
+		<publisher>American Laser Games</publisher>
+		<genre>Shooter</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

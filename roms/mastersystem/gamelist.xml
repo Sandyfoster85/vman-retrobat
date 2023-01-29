@@ -2308,23 +2308,6 @@ Once you have fought your way across the planet, you enter a tunnel system in th
 		<region>us</region>
 		<cheevosHash>DBAAC7C72EB3E0BF9E6D70B799D62799</cheevosHash>
 	</game>
-	<game id="885" source="ScreenScraper.fr">
-		<path>./Gangster Town (USA, Europe).7z</path>
-		<name>Gangster Town</name>
-		<desc>In Gangster Town, you must use the Light Phaser to shoot unruly mobsters from the town, starting with a car chase, a walk through downtown, shootouts in a bar and nightclub and more. Bonus games, such as finding a key in a brick wall,  are included as you complete the game.</desc>
-		<image>./mixart/Gangster Town (USA, Europe).png</image>
-		<video>./snap/Gangster Town (USA, Europe).mp4</video>
-		<marquee>./wheel/Gangster Town (USA, Europe).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870801T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Lightgun Shooter-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>3396259CA032ED4F1499D1F737E75E0D</cheevosHash>
-	</game>
 	<game id="851" source="ScreenScraper.fr">
 		<path>./Gauntlet (Europe).7z</path>
 		<name>Gauntlet</name>
@@ -5761,5 +5744,22 @@ Discover new landscapes, charge ahead in motorized vehicules, run through danger
 		<players>1</players>
 		<lang>en</lang>
 		<cheevosHash>FE697DFE05A9FDEA6B4F6B2983C80151</cheevosHash>
+	</game>
+	<game id="885" source="ScreenScraper.fr">
+		<path>./Gangster Town (USA, Europe).7z</path>
+		<name>Gangster Town</name>
+		<desc>In Gangster Town, you must use the Light Phaser to shoot unruly mobsters from the town, starting with a car chase, a walk through downtown, shootouts in a bar and nightclub and more. Bonus games, such as finding a key in a brick wall,  are included as you complete the game.</desc>
+		<image>./mixart/Gangster Town (USA, Europe).png</image>
+		<video>./snap/Gangster Town (USA, Europe).mp4</video>
+		<marquee>./wheel/Gangster Town (USA, Europe).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870801T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Lightgun Shooter-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3396259CA032ED4F1499D1F737E75E0D</cheevosHash>
 	</game>
 </gameList>

@@ -846,22 +846,6 @@
 		<cheevosHash>A6B4E7E4467B618B094AF4B7EA7E26C0</cheevosHash>
 	</game>
 	<game>
-		<path>./mok.bin</path>
-		<name>The Maze of the Kings (GDS-0022)</name>
-		<desc>The Maze of the Kings is a great fighting / shooting game, where players assume the roles of archaeological treasure hunters armed with magical canes! Travels across rivers and deserts and explore the insides of pyramids, while searching for lost treasure and killing mummies and other evil creatures along the way. Players can choose what type of firepower to use for their magical canes: Light, Spark, or Fire.</desc>
-		<image>./mixart/mok.png</image>
-		<video>./snap/mok.mp4</video>
-		<marquee>./wheel/mok.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20020101T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Adventure-Lightgun Shooter-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>4A51C5A2164CD598AE4432BB4608E4D1</cheevosHash>
-	</game>
-	<game>
 		<path>./rhytngk.zip</path>
 		<name>Rhythm Tengoku (Japan)</name>
 		<desc>Rhythm Tengoku for arcade is a port of the Gameboy Advance game of the same name.  It's a music game based around good timing and rhythm. The game has music supplied by the record production company J.P. ROOM, and is developed by the team responsible for Wario Ware, which is visible in the quirky presentation of the game.    The game is actually a series of shorter games bundled into one package. Control is normally very simple - usually, only the A Button is required, but some games make players press multiple buttons for different actions.    Players will punch in time with a karate expert as pots and rocks are thrown; pluck hairs off of an onion; march in time to an instructor; hit a baseball while the screen zooms in and out; shoot ghosts with arrows; chop demons as a samurai; and much more.</desc>
@@ -1931,5 +1915,21 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>4767B433E100780A8BA4EE33A214ECA4</cheevosHash>
+	</game>
+	<game>
+		<path>./mok.bin</path>
+		<name>The Maze of the Kings (GDS-0022)</name>
+		<desc>The Maze of the Kings is a great fighting / shooting game, where players assume the roles of archaeological treasure hunters armed with magical canes! Travels across rivers and deserts and explore the insides of pyramids, while searching for lost treasure and killing mummies and other evil creatures along the way. Players can choose what type of firepower to use for their magical canes: Light, Spark, or Fire.</desc>
+		<image>./mixart/mok.png</image>
+		<video>./snap/mok.mp4</video>
+		<marquee>./wheel/mok.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20020101T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Adventure-Lightgun Shooter-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>4A51C5A2164CD598AE4432BB4608E4D1</cheevosHash>
 	</game>
 </gameList>
