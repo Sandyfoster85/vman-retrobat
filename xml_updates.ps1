@@ -143,6 +143,14 @@ $ps3_autocontrollers = $es_settings.config.AppendChild($ps3.disableautocontrolle
 $ps3_autocontrollers.SetAttribute("name","ps3.disableautocontrollers")
 $ps3_autocontrollers.SetAttribute("value","1") 
 
+# 12. 2023-01-30 - Update mastersystem FoldViewMode in order to see #homebrews
+$mastersystem_folderview0 = $es_settings.SelectSingleNode("//string[@name='mastersystem.FolderViewMode']")
+$mastersystem_folderview0.ParentNode.RemoveChild($mastersystem_folderview0)
+$mastersystem_folderview0 = $es_settings.CreateElement("string")
+$mastersystem_folderview = $es_settings.config.AppendChild($mastersystem_folderview0)
+$mastersystem_folderview.SetAttribute("name","mastersystem.FolderViewMode")
+$mastersystem_folderview.SetAttribute("value","always")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
