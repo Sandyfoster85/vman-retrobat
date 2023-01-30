@@ -136,9 +136,9 @@ $disable_updates.SetAttribute("name","updates.enabled")
 $disable_updates.SetAttribute("value","false") 
 
 # 11. 2023-01-30 - Disable PS3 Autocontrollers causing Inverting controls - reported by Virtualman
-$ps3_autocontrollers0 = $es_settings.SelectSingleNode("//bool[@name='ps3.disableautocontrollers']")
+$ps3_autocontrollers0 = $es_settings.SelectSingleNode("//string[@name='ps3.disableautocontrollers']")
 $ps3_autocontrollers0.ParentNode.RemoveChild($ps3.disableautocontrollers0)
-$ps3_autocontrollers0 = $es_settings.CreateElement("bool")
+$ps3_autocontrollers0 = $es_settings.CreateElement("string")
 $ps3_autocontrollers = $es_settings.config.AppendChild($ps3.disableautocontrollers0)
 $ps3_autocontrollers.SetAttribute("name","ps3.disableautocontrollers")
 $ps3_autocontrollers.SetAttribute("value","1") 
