@@ -1444,22 +1444,6 @@ Dancing Stage Unleashed 2 includes more than three dozen songs, of which 14 are 
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="14610">
-		<path>./Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).iso</path>
-		<name>The Elder Scrolls III : Morrowind</name>
-		<desc>The Elder Scrolls III: Morrowind is an Xbox role-playing game that offers the player a lot of freedom. At the beginning you have to create a character by choosing among 10 races. Then you can decide whether to embark on the main quest or one of the many side quests offered. During your journeys you will meet many different creatures on which you can test your sword.</desc>
-		<image>./mixart/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).png</image>
-		<video>./snap/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).mp4</video>
-		<marquee>./wheel/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20020606T000000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Bethesda Softworks</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="14757">
 		<path>./Enclave (USA) (En,Fr,De).xiso.iso</path>
 		<name>Enclave</name>
@@ -3910,5 +3894,21 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game id="14610">
+		<path>./Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).iso</path>
+		<name>The Elder Scrolls III : Morrowind</name>
+		<desc>The Elder Scrolls III: Morrowind is an Xbox role-playing game that offers the player a lot of freedom. At the beginning you have to create a character by choosing among 10 races. Then you can decide whether to embark on the main quest or one of the many side quests offered. During your journeys you will meet many different creatures on which you can test your sword.</desc>
+		<image>./mixart/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).png</image>
+		<video>./snap/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).mp4</video>
+		<marquee>./wheel/Elder Scrolls III, The - Morrowind (USA) (Game of the Year Edition).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20020606T000000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

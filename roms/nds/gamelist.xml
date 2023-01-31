@@ -886,24 +886,6 @@ When a customer first enters your bakery, hand them a menu. Then they will give 
 		<region>us</region>
 		<cheevosHash>9080285FFBE83A3E5BE2650E5D50EC96</cheevosHash>
 	</game>
-	<game id="5809" source="ScreenScraper.fr">
-		<path>./Castlevania - Dawn of Sorrow (USA).zip</path>
-		<name>Castlevania: Dawn of Sorrow</name>
-		<desc>The team that developed Castlevania: Aria of Sorrow returns to bring the sequel, CastleVania: Dawn of Sorrow, to the Nintendo DS. This time, you must infiltrate a castle belonging to a cult that is planning to resurrect Lord Dracula. Castlevania: Dawn of Sorrow lets you defeat evil spirits using the "Magic Seal" system which utilizes the Nintendo DS touch screen. You can trade captured souls with other players using the wireless system as well.</desc>
-		<image>./mixart/Castlevania - Dawn of Sorrow (USA).png</image>
-		<video>./snap/Castlevania - Dawn of Sorrow (USA).mp4</video>
-		<marquee>./wheel/Castlevania - Dawn of Sorrow (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20050929T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<players>2</players>
-		<crc32>135737F6</crc32>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>02B82366DCE96B554440FD0B39B491D3</cheevosHash>
-		<cheevosId>5522</cheevosId>
-	</game>
 	<game>
 		<path>./Castlevania - Order of Ecclesia (USA) (En,Fr).zip</path>
 		<name>Castlevania: Order of Ecclesia</name>
@@ -29224,6 +29206,24 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<region>eu</region>
 		<cheevosHash>57AFD3C093764002A17A6AA376F1EEFE</cheevosHash>
 		<cheevosId>12711</cheevosId>
+	</game>
+	<game id="5809" source="ScreenScraper.fr">
+		<path>./Castlevania - Dawn of Sorrow (USA).zip</path>
+		<name>Castlevania: Dawn of Sorrow</name>
+		<desc>The team that developed Castlevania: Aria of Sorrow returns to bring the sequel, CastleVania: Dawn of Sorrow, to the Nintendo DS. This time, you must infiltrate a castle belonging to a cult that is planning to resurrect Lord Dracula. Castlevania: Dawn of Sorrow lets you defeat evil spirits using the "Magic Seal" system which utilizes the Nintendo DS touch screen. You can trade captured souls with other players using the wireless system as well.</desc>
+		<image>./mixart/Castlevania - Dawn of Sorrow (USA).png</image>
+		<video>./snap/Castlevania - Dawn of Sorrow (USA).mp4</video>
+		<marquee>./wheel/Castlevania - Dawn of Sorrow (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20050929T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<players>2</players>
+		<crc32>135737F6</crc32>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>02B82366DCE96B554440FD0B39B491D3</cheevosHash>
+		<cheevosId>5522</cheevosId>
 	</game>
 	<game>
 		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>

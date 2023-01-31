@@ -19230,22 +19230,6 @@ Apart from destroying enemies, points can be gained from collecting golden V-sha
 		<region>us</region>
 		<cheevosHash>18E9771688D7B3D6EF2F3698264E8637</cheevosHash>
 	</game>
-	<game>
-		<path>./bbakraid.zip</path>
-		<name>Battle Bakraid - Unlimited Version</name>
-		<desc>The sequel to "Battle Garegga", an equally excellent vertically scrolling shoot 'em up game.</desc>
-		<image>./mixart/bbakraid.png</image>
-		<video>./snap/bbakraid.mp4</video>
-		<marquee>./wheel/bbakraid.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19990101T000000</releasedate>
-		<publisher>Eighting</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4171BC7633E2DF09D9059D8FE92051AD</cheevosHash>
-	</game>
 	<game id="40172">
 		<path>./bballoon.zip</path>
 		<name>Bnb Arcade</name>
@@ -72605,66 +72589,6 @@ After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, J
 		<region>us</region>
 		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
 	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
-	</game>
 	<game id="39990">
 		<path>./alpinr2b.zip</path>
 		<name>Alpine Racer 2</name>
@@ -72791,26 +72715,6 @@ MAN, WOMAN, CHILD: These are the only three types of human clones left on Earth.
 		<region>us</region>
 		<cheevosHash>656AEFB80B236D5E86412607B50E5156</cheevosHash>
 	</game>
-	<game>
-		<path>./alien3.zip</path>
-		<name>Alien3: The Gun</name>
-		<desc>Alien 3 - The Gun is a shooter game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/alien3.png</image>
-		<video>./snap/alien3.mp4</video>
-		<marquee>./wheel/alien3.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
-	</game>
 	<game id="79093">
 		<path>./opwolf3u.zip</path>
 		<name>Operation Wolf 3</name>
@@ -72909,5 +72813,101 @@ A myriad of secrets have been programmed into the game for added dimension. Can 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8ADAEBB87BD876848C7AA46875244E4D</cheevosHash>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien3: The Gun</name>
+		<desc>Alien 3 - The Gun is a shooter game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/alien3.png</image>
+		<video>./snap/alien3.mp4</video>
+		<marquee>./wheel/alien3.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
+	</game>
+	<game>
+		<path>./bbakraid.zip</path>
+		<name>Battle Bakraid - Unlimited Version</name>
+		<desc>The sequel to "Battle Garegga", an equally excellent vertically scrolling shoot 'em up game.</desc>
+		<image>./mixart/bbakraid.png</image>
+		<video>./snap/bbakraid.mp4</video>
+		<marquee>./wheel/bbakraid.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19990101T000000</releasedate>
+		<publisher>Eighting</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4171BC7633E2DF09D9059D8FE92051AD</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
 	</game>
 </gameList>

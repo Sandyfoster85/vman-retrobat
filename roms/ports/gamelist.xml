@@ -504,6 +504,22 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./AM2R.lnk</path>
+		<name>'H'AM2R Another Metroid 2 Remake</name>
+		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
+		<image>./mixart/AM2R.png</image>
+		<video>./snap/AM2R.mp4</video>
+		<marquee>./wheel/AM2R.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160825T000000</releasedate>
+		<developer>DoctorM64</developer>
+		<publisher>DoctorM64</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./The Last StarFighter.lnk</path>
 		<name>'H'The Last StarFighter</name>
 		<desc>This is a fan-made game based on the arcade game that was seen in the movie. It's partially 1984 since the voice and sound sample was taken from the game that was used in the movie. it's partially 2006 since the game was recreated with the it's graphics looking so similar to the one seen in the movie. The only difference in the games are the fonts of the text in this recreated game and the graphics either look like flat-shaded or textured polygons. For the 3rd time, I finally beaten Ko-Dan Command Ship. I had to mess with the dip switch settings. It's very similar to what you see in the movie. After watching the movie, it made me feel want to play this game again. This game was ported to the home systems such as Atari 8-bit, Commodore 64, and the NES. But they look nothing like the arcade version. This freeware game is the closest to the arcade version you see in the movie.</desc>
@@ -516,6 +532,22 @@ NOTE: Requires keyboard to exit!</desc>
 		<publisher>Fan-Made</publisher>
 		<genre>Arcade</genre>
 		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marble Madness II.lnk</path>
+		<name>Marble Man: Marble Madness II</name>
+		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
+		<image>./mixart/Marble Madness II.jpg</image>
+		<video>./snap/Marble Madness II.mp4</video>
+		<marquee>./wheel/Marble Madness II.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20220626T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Arcade, Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -584,6 +616,19 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./3dSen.lnk</path>
+		<name>3DSen</name>
+		<desc>3dSen PC breathes new life into your favorite NES games by magically converting them into 3D and letting you play them in real-time.</desc>
+		<image>./mixart/3DSen.png</image>
+		<video>./snap/3DSen.mp4</video>
+		<marquee>./wheel/3DSen.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20200719T000000</releasedate>
+		<genre>Emulator</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./SoH - Zelda OoT.lnk</path>
 		<name>SoH - Zelda OoT</name>
 		<desc>Welcome to the Ship of Harkinian! A PC port of The Legend of Zelda: Ocarina of Time allowing you to enjoy the game with modern controls, widescreen, high-resolution, gyroscopy and other great features!</desc>
@@ -596,43 +641,6 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>Ship of Harkinian</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./3dSen.lnk</path>
-		<name>3dSen</name>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./AM2R.lnk</path>
-		<name>'H'AM2R Another Metroid 2 Remake</name>
-		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
-		<image>./mixart/AM2R.png</image>
-		<video>./snap/AM2R.mp4</video>
-		<marquee>./wheel/AM2R.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20160825T000000</releasedate>
-		<developer>DoctorM64</developer>
-		<publisher>DoctorM64</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Marble Madness II.lnk</path>
-		<name>Marble Man: Marble Madness II</name>
-		<desc>Marble Man: Marble Madness II was a cancelled arcade game planned for release in 1991 as the sequel to the 1984 arcade game Marble Madness. Mark Cerny, the creator of the original Marble Madness, wasn't involved with the development of the sequel. Development was instead led by Bob Flanagan who designed the game based on what he felt made Marble Madness a success in the home console market. Because the market's demographic was a younger audience, Flanagan wanted to make the sequel more accessible and introduced "Marble Man". The design also included pinball mini-games between sets of levels and allowed up to three players to traverse isometric courses. The final wave is called "King of the Mountain". Flanagan intended to address the short length of the first game and, with the help of Mike Hally, developed seventeen courses. The game was cancelled and the focus shifted to the development of Guardians of the 'Hood, a beat 'em up game released in 1992. No boards of the game were made apart from the prototypes, and according to Cerny, at most 12 of these exist. These prototypes have since become collector items.</desc>
-		<image>./mixart/Marble Madness II.jpg</image>
-		<video>./snap/Marble Madness II.mp4</video>
-		<marquee>./wheel/Marble Madness II.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20220626T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Arcade, Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -3795,42 +3795,6 @@ Carmageddon is a violent game which is probably not suitable for minors.</desc>
 		<region>us</region>
 		<cheevosHash>106B61C9D51A6726AF47AC54932504FD</cheevosHash>
 	</game>
-	<game>
-		<path>./Castlevania - Symphony of the Night (USA).chd</path>
-		<name>Castlevania : Symphony of the Night</name>
-		<desc>As a descendant of Dracula, you must end the vampire bloodline. Can you rid the world of this unspeakable terror? Uncover the mystery of Castlevania and challenge an adventure as legendary as its name. Over 140 different enemies, bosses, and ghastly creatures. Awesome magical spells - transform into a bat, a wolf, or etheral mist. Hidden weapons, secrets, and characters...the largest Castlevania ever!</desc>
-		<image>./mixart/Castlevania - Symphony of the Night (USA).png</image>
-		<video>./snap/Castlevania - Symphony of the Night (USA).mp4</video>
-		<marquee>./wheel/Castlevania - Symphony of the Night (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19971002T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Role playing games-Platform-Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>BF7E0E90D8E8D5738C7332BC6AF666DA</cheevosHash>
-		<cheevosId>11240</cheevosId>
-	</game>
-	<game>
-		<path>./Castlevania Chronicles (USA).chd</path>
-		<name>Castlevania Chronicles</name>
-		<desc>This Castlevania game was originally released on the Sharp X68000 (a home computer relatively unknown outside of Japan) but never made it to the worldwide audience. This conversion is meant to fix that, a remake of the original for the PlayStation with a good deal of new features.
-
-This game plays very much like any old platform game on the NES (specifically, it plays just like an old Castlevania), you walk slowly forward killing any demonic creature you meet. The game is mostly sideways, though you can jump or walk onto the platforms here and there. The game plays like an old game, but looks like a new one with completely remade 2D graphics, with FMV cutscenes, arranged high quality music and more.</desc>
-		<image>./mixart/Castlevania Chronicles (USA).png</image>
-		<video>./snap/Castlevania Chronicles (USA).mp4</video>
-		<marquee>./wheel/Castlevania Chronicles (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20010810T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform-Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2B9120E614DA71F97234AB2E18061711</cheevosHash>
-		<cheevosId>11345</cheevosId>
-	</game>
 	<game id="20632" source="ScreenScraper.fr">
 		<path>./Castrol Honda Superbike Racing (USA).chd</path>
 		<name>Castrol Honda Superbike Racing</name>
@@ -21489,5 +21453,41 @@ Featuring a motion-captured, cyberscanned Bruce Willis, multiple levels, explosi
 		<region>us</region>
 		<cheevosHash>26C44135FFBF8DD757D4B110C02A824E</cheevosHash>
 		<cheevosId>14345</cheevosId>
+	</game>
+	<game>
+		<path>./Castlevania Chronicles (USA).chd</path>
+		<name>Castlevania Chronicles</name>
+		<desc>This Castlevania game was originally released on the Sharp X68000 (a home computer relatively unknown outside of Japan) but never made it to the worldwide audience. This conversion is meant to fix that, a remake of the original for the PlayStation with a good deal of new features.
+
+This game plays very much like any old platform game on the NES (specifically, it plays just like an old Castlevania), you walk slowly forward killing any demonic creature you meet. The game is mostly sideways, though you can jump or walk onto the platforms here and there. The game plays like an old game, but looks like a new one with completely remade 2D graphics, with FMV cutscenes, arranged high quality music and more.</desc>
+		<image>./mixart/Castlevania Chronicles (USA).png</image>
+		<video>./snap/Castlevania Chronicles (USA).mp4</video>
+		<marquee>./wheel/Castlevania Chronicles (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20010810T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform-Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2B9120E614DA71F97234AB2E18061711</cheevosHash>
+		<cheevosId>11345</cheevosId>
+	</game>
+	<game>
+		<path>./Castlevania - Symphony of the Night (USA).chd</path>
+		<name>Castlevania : Symphony of the Night</name>
+		<desc>As a descendant of Dracula, you must end the vampire bloodline. Can you rid the world of this unspeakable terror? Uncover the mystery of Castlevania and challenge an adventure as legendary as its name. Over 140 different enemies, bosses, and ghastly creatures. Awesome magical spells - transform into a bat, a wolf, or etheral mist. Hidden weapons, secrets, and characters...the largest Castlevania ever!</desc>
+		<image>./mixart/Castlevania - Symphony of the Night (USA).png</image>
+		<video>./snap/Castlevania - Symphony of the Night (USA).mp4</video>
+		<marquee>./wheel/Castlevania - Symphony of the Night (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19971002T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Role playing games-Platform-Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BF7E0E90D8E8D5738C7332BC6AF666DA</cheevosHash>
+		<cheevosId>11240</cheevosId>
 	</game>
 </gameList>

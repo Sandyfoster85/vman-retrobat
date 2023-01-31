@@ -1051,26 +1051,6 @@ If your vitality gets low in each scene, you'll lose a life. You can also choose
 		<region>eu</region>
 		<cheevosHash>F3980B6733B91375295954110168F925</cheevosHash>
 	</game>
-	<game id="40">
-		<path>./Castlevania - Bloodlines (USA) (MSU-MD)/Castlevania - Bloodlines (USA) (MSU-MD).md</path>
-		<name>Castlevania : Bloodlines</name>
-		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
-
-The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
-		<image>./mixart/Castlevania - Bloodlines (USA) (MSU-MD).png</image>
-		<video>./snap/Castlevania - Bloodlines (USA) (MSU-MD).mp4</video>
-		<marquee>./wheel/Castlevania - Bloodlines (USA) (MSU-MD).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940317T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<family>Castlevania</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5898A042C2B81EFE58559C1174819973</cheevosHash>
-	</game>
 	<game id="22">
 		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD)/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).md</path>
 		<name>Castle of Illusion Starring Mickey Mouse</name>
@@ -1190,5 +1170,25 @@ Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opp
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
+	</game>
+	<game id="40">
+		<path>./Castlevania - Bloodlines (USA) (MSU-MD)/Castlevania - Bloodlines (USA) (MSU-MD).md</path>
+		<name>Castlevania : Bloodlines</name>
+		<desc>In the year 1917, evil had threatened to rise up again in Transylvania. A young lady named Elizabeth Bartley, who was tried as a witch and killed centuries before, was planning to resurrect the Prince of Darkness, Count Dracula, once again.
+
+The latest of the Belmont lineage, John Morris, and his friend Eric Lecarde, must now travel across Europe to the Palace of Versailles in France, where Bartley is planning the resurrection. And in their way stands Dracula's strongest followers yet...</desc>
+		<image>./mixart/Castlevania - Bloodlines (USA) (MSU-MD).png</image>
+		<video>./snap/Castlevania - Bloodlines (USA) (MSU-MD).mp4</video>
+		<marquee>./wheel/Castlevania - Bloodlines (USA) (MSU-MD).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940317T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
+		<family>Castlevania</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5898A042C2B81EFE58559C1174819973</cheevosHash>
 	</game>
 </gameList>

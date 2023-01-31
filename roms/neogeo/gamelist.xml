@@ -1749,27 +1749,6 @@ This sequel features all-new stages and music, and improved animation and graphi
 		<cheevosHash>DAE39A7C687A24B581717789C0CD80AE</cheevosHash>
 	</game>
 	<game>
-		<path>./whp.zip</path>
-		<name>World Heroes Perfect</name>
-		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament. New features include:
-
-1. An all-new attack mode where you use all four buttons to attack an enemy.
-2. A power bar which grants you special abilities depending on the character.
-3. All-new stages and music set across different locations in Earth's past and future.
-4. Three secret characters to choose from, including a character new to the series</desc>
-		<image>./mixart/whp.png</image>
-		<video>./snap/whp.mp4</video>
-		<marquee>./wheel/whp.png</marquee>
-		<rating>0</rating>
-		<releasedate>19950825T000000</releasedate>
-		<developer>ADK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight-Fight / Versus-Action</genre>
-		<players>2</players>
-		<cheevosHash>35B43F65CAF0F38DAAA9AF61658F8C92</cheevosHash>
-		<cheevosId>13825</cheevosId>
-	</game>
-	<game>
 		<path>./wjammers.zip</path>
 		<name>Windjammers</name>
 		<desc>Windjammers is based on a real-life sport known as Saucer Tennis or Frisbee Tennis. You and an opponent face off in an arena with a low net in the middle. Points are scored by throwing a disc into the goals behind a player or whenever your opponent is not able to catch the disc in time. There are two moves: a regular throw and a lob. By using quarter-circle movement, you can also add effect to the throw. To catch difficult discs, you can slide to move more quickly. There are six characters to choose from, with specific abilities and their own court fit for their skills. A single game consists of short sets of thirty seconds. The game is won after two winning sets or sudden death after two draws.</desc>
@@ -1784,22 +1763,6 @@ This sequel features all-new stages and music, and improved animation and graphi
 		<players>2</players>
 		<cheevosHash>C9A5750DB3E5F76E917E153DC097E738</cheevosHash>
 		<cheevosId>11860</cheevosId>
-	</game>
-	<game>
-		<path>./zedblade.zip</path>
-		<name>Zed Blade</name>
-		<desc>You and/or a friend must choose one of three characters to play as, each with different speeds at which they control their ships. Then select three weapons to use for the front and back of your ship. During play, you must travel to every planet in the solar system, and defeat the various enemy ships and the boss near the end of the planet. Your weapons can be upgraded during the battle, and you can also collect HyperBombs if you want to do maximum damage. Contains a nice soundtrack reminiscent of early 1990s "rave" music.</desc>
-		<image>./mixart/zedblade.png</image>
-		<video>./snap/zedblade.mp4</video>
-		<marquee>./wheel/zedblade.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940913T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Action-Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<cheevosHash>AD7690EC619673225F1E0F7F265D5FA8</cheevosHash>
-		<cheevosId>11760</cheevosId>
 	</game>
 	<game>
 		<path>./2020bb.zip</path>
@@ -2358,5 +2321,44 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
 		<cheevosId>11770</cheevosId>
+	</game>
+	<game>
+		<path>./whp.zip</path>
+		<name>World Heroes Perfect</name>
+		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament. New features include:
+
+1. An all-new attack mode where you use all four buttons to attack an enemy.
+2. A power bar which grants you special abilities depending on the character.
+3. All-new stages and music set across different locations in Earth's past and future.
+4. Three secret characters to choose from, including a character new to the series</desc>
+		<image>./mixart/whp.png</image>
+		<video>./snap/whp.mp4</video>
+		<marquee>./wheel/whp.png</marquee>
+		<rating>0</rating>
+		<releasedate>19950825T000000</releasedate>
+		<developer>ADK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight-Fight / Versus-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>35B43F65CAF0F38DAAA9AF61658F8C92</cheevosHash>
+		<cheevosId>13825</cheevosId>
+	</game>
+	<game>
+		<path>./zedblade.zip</path>
+		<name>Zed Blade</name>
+		<desc>You and/or a friend must choose one of three characters to play as, each with different speeds at which they control their ships. Then select three weapons to use for the front and back of your ship. During play, you must travel to every planet in the solar system, and defeat the various enemy ships and the boss near the end of the planet. Your weapons can be upgraded during the battle, and you can also collect HyperBombs if you want to do maximum damage. Contains a nice soundtrack reminiscent of early 1990s "rave" music.</desc>
+		<image>./mixart/zedblade.png</image>
+		<video>./snap/zedblade.mp4</video>
+		<marquee>./wheel/zedblade.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940913T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Action-Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>AD7690EC619673225F1E0F7F265D5FA8</cheevosHash>
+		<cheevosId>11760</cheevosId>
 	</game>
 </gameList>

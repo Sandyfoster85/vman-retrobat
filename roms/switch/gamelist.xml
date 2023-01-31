@@ -1076,21 +1076,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PAC-MAN 99.xci</path>
-		<name>PAC-MAN 99</name>
-		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
-		<image>./mixart/PAC-MAN 99.jpg</image>
-		<video>./snap/PAC-MAN 99.mp4</video>
-		<marquee>./wheel/PAC-MAN 99.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Arika</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Arcade</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Goblin Sword.xci</path>
 		<name>Goblin Sword</name>
 		<desc>Goblin Sword is a retro-inspired action platformer with light rpg elements. An army of monsters led by an evil wizard have invaded your hometown. Slay as many monsters as you can, collect loot, avoid dangerous traps and defeat menacing bosses, before facing the evil wizard himself. Features: • 89 levels • 13 bosses • 30 weapons with unique special attacks • 30 relics that grant you abilities • 14 costumes • 8 guardians that follow you around and assist you • 5 secret very hard levels • Decorate your home with souvenirs</desc>
@@ -1153,6 +1138,21 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<genre>Racing</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN 99.xci</path>
+		<name>PAC-MAN 99</name>
+		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
+		<image>./mixart/PAC-MAN 99.jpg</image>
+		<video>./snap/PAC-MAN 99.mp4</video>
+		<marquee>./wheel/PAC-MAN 99.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Arcade</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

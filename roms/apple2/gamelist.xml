@@ -13514,21 +13514,6 @@ As in the wacky movie, your goal here is ultimately to overcome a potentially pl
 		<lang>en</lang>
 		<genreid>513</genreid>
 	</game>
-	<game id="52243" source="ScreenScraper.fr">
-		<path>./Alf, The First Adventure (1985)(Box Office).dsk</path>
-		<name>Alf, The First Adventure</name>
-		<image>./mixart/Alf, The First Adventure (1985)(Box Office).png</image>
-		<video>./snap/Alf, The First Adventure (1985)(Box Office)-video.mp4</video>
-		<marquee>./wheel/Alf, The First Adventure (1985)(Box Office)-marquee.png</marquee>
-		<rating>0</rating>
-		<releasedate>19850101T000000</releasedate>
-		<publisher>Box Office</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<crc32>19F78E62</crc32>
-		<md5>d9e5e4806ed4abc5828e5d740231e6d7</md5>
-		<lang>en</lang>
-	</game>
 	<game id="52427" source="ScreenScraper.fr">
 		<path>./Bruce Lee (1984)(Datasoft)[cr].dsk</path>
 		<name>Bruce Lee</name>
@@ -13605,5 +13590,20 @@ Later re-released as Deluxe version titled Typhoon Thompson in Search for the Se
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>260</genreid>
+	</game>
+	<game id="52243" source="ScreenScraper.fr">
+		<path>./Alf, The First Adventure (1985)(Box Office).dsk</path>
+		<name>Alf, The First Adventure</name>
+		<image>./mixart/Alf, The First Adventure (1985)(Box Office).png</image>
+		<video>./snap/Alf, The First Adventure (1985)(Box Office)-video.mp4</video>
+		<marquee>./wheel/Alf, The First Adventure (1985)(Box Office)-marquee.png</marquee>
+		<rating>0</rating>
+		<releasedate>19850101T000000</releasedate>
+		<publisher>Box Office</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<crc32>19F78E62</crc32>
+		<md5>d9e5e4806ed4abc5828e5d740231e6d7</md5>
+		<lang>en</lang>
 	</game>
 </gameList>

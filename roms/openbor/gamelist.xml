@@ -940,21 +940,6 @@
 		<releasedate>19700101T010000</releasedate>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Maplevania.pak</path>
-		<name>Maplevania</name>
-		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
-		<image>./mixart/Maplevania.png</image>
-		<video>./snap/Maplevania.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
 	<game id="191459" source="ScreenScraper.fr">
 		<path>./Ninja Warriors vs Marvel.pak</path>
 		<name>Ninja Warriors Vs Marvel</name>
@@ -4163,6 +4148,21 @@
 		<genre>2D-Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Maplevania.pak</path>
+		<name>Maplevania</name>
+		<desc>A 2D fighting CastleVania with a cartoon feel whiping it's way through monsters</desc>
+		<image>./mixart/Maplevania.png</image>
+		<video>./snap/Maplevania.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

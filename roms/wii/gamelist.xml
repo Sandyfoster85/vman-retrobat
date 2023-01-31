@@ -4726,22 +4726,6 @@ Sie schießen, oder Sie sind das Mittagessen, es liegt an Ihnen!</desc>
 		<region>eu</region>
 		<genreid>2816</genreid>
 	</game>
-	<game>
-		<path>./Castlevania ReBirth.wad</path>
-		<name>Castlevania : The Adventure Rebirth</name>
-		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
- 
-Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
-		<image>./mixart/Castlevania ReBirth.png</image>
-		<video>./snap/Castlevania ReBirth.mp4</video>
-		<marquee>./wheel/Castlevania ReBirth.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20091228T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-	</game>
 	<game id="10458" source="ScreenScraper.fr">
 		<path>./Gyrostarr.wad</path>
 		<name>Gyrostarr</name>
@@ -5533,6 +5517,22 @@ This game features an elimination version, where a wrong answer eliminates you f
 		<genre>Party, Racing</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Castlevania ReBirth.wad</path>
+		<name>Castlevania : The Adventure Rebirth</name>
+		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
+ 
+Another 100 years has passed since the death of Count Dracula, but the revival of his curse has emerged once again within the realms of Transylvania. Play the role of the ultimate gothic hero from the long lineage of vampire hunters, the Belmont clan, and rid the universe of Dracula s legion of darkness and doom. Based on the classic 1989 original Castlevania: The Adventure, the WiiWare version will allow players of a new generation and older fans to experience one of the most popular games within the storied Castlevania timeline from a new perspective.</desc>
+		<image>./mixart/Castlevania ReBirth.png</image>
+		<video>./snap/Castlevania ReBirth.mp4</video>
+		<marquee>./wheel/Castlevania ReBirth.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20091228T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform</genre>
 		<lang>en</lang>
 	</game>
 </gameList>
