@@ -1,7 +1,7 @@
 @echo off
 echo Restoring configs...
 rem #######################################
-echo VMan Backup/Restore Config v3.5.0.1 by Bilu
+echo VMan Backup/Restore Config v3.5.x by Bilu
 rem #######################################
 echo Tool to retain User customizations through a RetroBat upgrade.
 pause
