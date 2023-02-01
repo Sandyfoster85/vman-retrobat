@@ -151,6 +151,14 @@ $mastersystem_folderview = $es_settings.config.AppendChild($mastersystem_folderv
 $mastersystem_folderview.SetAttribute("name","mastersystem.FolderViewMode")
 $mastersystem_folderview.SetAttribute("value","always")
 
+# 13. 2023-2-01 - Update n64dd default emulator to Project64 - reported by Retro Nimrod
+$n64dd_emulator0 = $es_settings.SelectSingleNode("//string[@name='n64dd.emulator']")
+$n64dd_emulator0.ParentNode.RemoveChild($n64dd_emulator0)
+$n64dd_emulator0 = $es_settings.CreateElement("string")
+$n64dd_emulator = $es_settings.config.AppendChild($n64dd_emulator0)
+$n64dd_emulator.SetAttribute("name","n64dd.emulator")
+$n64dd_emulator.SetAttribute("value","project64")
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
