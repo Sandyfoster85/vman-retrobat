@@ -158,6 +158,25 @@
 		<hidden>true</hidden>
 		<lang>en</lang>
 	</game>
+	<game id="99447">
+		<path>./Dezaemon DD (Japan) (Proto).ndd</path>
+		<name>Dezaemon DD</name>
+		<desc>Dezaemon 3D is a shoot 'em up game creator developed by  Athena and released for the Nintendo 64 only in Japan in 1998. The game was one in which one could design their own shooting game levels similar to the levels shown in Star Soldier: Vanishing Earth. The game had nearly limitless options, from creating the stage boss or adding a custom soundtrack for each level. A 64DD add-on was planned but they never released it: only some messages from the editor mode reveale this unused connection.</desc>
+		<image>./mixart/Dezaemon DD (Japan) (Proto).png</image>
+		<video>./snap/Dezaemon DD (Japan) (Proto).mp4</video>
+		<marquee>./wheel/Dezaemon DD (Japan) (Proto).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19980626T000000</releasedate>
+		<developer>Athena</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em up / Vertical</genre>
+		<players>2</players>
+		<hidden>true</hidden>
+		<md5>40aa8ec52c5e025d6c6ad94cebc2218f</md5>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230127T014322" />
+	</game>
 	<game>
 		<path>./F-Zero X - Expansion.n64</path>
 		<name>F-Zero X - Expansion Kit</name>
@@ -178,8 +197,6 @@
 		<path>./Dezaemon 3D [Patched].z64</path>
 		<name>Dezaemon DD</name>
 		<desc>Dezaemon 3D is a shoot 'em up game creator developed by  Athena and released for the Nintendo 64 only in Japan in 1998. The game was one in which one could design their own shooting game levels similar to the levels shown in Star Soldier: Vanishing Earth. The game had nearly limitless options, from creating the stage boss or adding a custom soundtrack for each level. A 64DD add-on was planned but they never released it: only some messages from the editor mode reveale this unused connection.</desc>
-		<emulator>libretro</emulator>
-		<core>mupen64plus_next</core>
 		<image>./mixart/Dezaemon DD (Japan) (Proto).png</image>
 		<video>./snap/Dezaemon DD (Japan) (Proto).mp4</video>
 		<marquee>./wheel/Dezaemon DD (Japan) (Proto).png</marquee>
@@ -188,10 +205,9 @@
 		<developer>Athena</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Shoot'em up / Vertical</genre>
-		<players>2</players>
-		<md5>40aa8ec52c5e025d6c6ad94cebc2218f</md5>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230127T014322" />
+		<players>1-2</players>
+		<md5>c229888693bceb66bd2f4601223e9365</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230202T124004" />
 	</game>
 </gameList>
