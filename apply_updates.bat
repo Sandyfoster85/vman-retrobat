@@ -86,6 +86,8 @@ copy /y V:\RetroBat\backup\vman_backupcfg.bat V:\RetroBat\emulationstation\.emul
 rem 8. 2023-1-30 - rpcs3 restore default.yml as Retrobat 5.1 was overriding causing inverting controls. Disable PS3 Autocontrollers fixes this problem - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
 
+rem 9. 2023-2-02 - Added missing bezelproject and decorations for any other future missing overlays - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\ V:\RetroBat\decorations\ /S /NFL /NDL /IS /MT:4
 
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
