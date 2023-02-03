@@ -8446,4 +8446,36 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./FORGE.vpx</path>
+		<name>FORGE</name>
+		<desc>Flipper FORGE 1.0</desc>
+		<image>./mixart/FORGE.png</image>
+		<video>./snap/FORGE.mp4</video>
+		<marquee>./wheel/FORGE.png</marquee>
+		<rating>4</rating>
+		<releasedate>2023</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Death Race 2000 V2.vpx</path>
+		<name>Death Race 2000 (PupEdition)</name>
+		<desc>Flipper Death Race 2000 V2</desc>
+		<image>./mixart/Death Race 2000 V2.png</image>
+		<video>./snap/Death Race 2000 V2.mp4</video>
+		<marquee>./wheel/Death Race 2000 V2.png</marquee>
+		<rating>4</rating>
+		<releasedate>2023</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>
