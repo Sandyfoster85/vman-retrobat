@@ -89,6 +89,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\em
 rem 9. 2023-2-02 - Added missing bezelproject and decorations for any other future missing overlays - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\ V:\RetroBat\decorations\ /S /NFL /NDL /IS /MT:4
 
+rem 10. 2023-2-03 - Copy es_padtokey.cfg (pre-post-upgrade) to support additional kill switches - reported by Virtualman
+copy /y  "V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\RetroBat\emulationstation\.emulationstation\es_padtokey.cfg" V:\RetroBat\emulationstation\.emulationstation\
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
