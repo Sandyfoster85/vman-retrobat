@@ -1,5 +1,5 @@
 # Data sources and variables
-$version ='** VMAN RBL Lightgun-Bliss Experience v3.5.1.1 by Bilu **'
+$version ='** VMAN RBL Lightgun-Bliss Experience v3.5.1.2 by Bilu **'
 $OutputEncoding = [Console]::OutputEncoding
 $templatecfg='V:\_tools\vman-retrobat-master\lightgun\templates'
 $overridefolder='V:\RetroBat\emulators\retroarch\config'
@@ -182,10 +182,21 @@ function SetOverrides {
 			if ($item.new_core -eq 'flycast'){
 				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun1_crosshair = "Red"')
 				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun2_crosshair = "Blue"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_allow_service_buttons = "disabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_internal_resolution = "1440x1080"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_render_to_texture_upscaling = "4x"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_texupscale = "4"')
 				}			
 			if ($item.new_core -eq 'mednafen_psx_hw'){
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_gun_cursor = "cross"')
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_skip_bios = "enabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_dither_mode = "internal resolution"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_filter = "bilinear"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_internal_resolution = "4x"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_mode = "memory only"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_nclip = "disabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_texture = "enabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_vertex = "enabled"')
 				}
 			if ($item.new_core -eq 'mednafen_saturn'){
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_saturn_virtuagun_crosshair = "Cross"')
@@ -217,10 +228,21 @@ function SetOverrides {
 			if ($item.new_core -eq 'flycast'){
 				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun1_crosshair = "disabled"')
 				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun2_crosshair = "disabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_allow_service_buttons = "disabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_internal_resolution = "1440x1080"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_render_to_texture_upscaling = "4x"')
+				Add-Content -LiteralPath "$optfile" -Value $('reicast_texupscale = "4"')
 				}			
 			if ($item.new_core -eq 'mednafen_psx_hw'){
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_gun_cursor = "off"')
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_skip_bios = "enabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_dither_mode = "internal resolution"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_filter = "bilinear"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_internal_resolution = "4x"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_mode = "memory only"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_nclip = "disabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_texture = "enabled"')
+				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_vertex = "enabled"')
 				}
 			if ($item.new_core -eq 'mednafen_saturn'){
 				Add-Content -LiteralPath "$optfile" -Value $('beetle_saturn_virtuagun_crosshair = "Off"')
