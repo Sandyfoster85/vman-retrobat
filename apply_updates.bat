@@ -92,6 +92,9 @@ robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\ V:\RetroBat\decora
 rem 10. 2023-2-03 - Copy es_padtokey.cfg (pre-post-upgrade) to support additional kill switches - reported by Virtualman
 copy /y  "V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\RetroBat\emulationstation\.emulationstation\es_padtokey.cfg" V:\RetroBat\emulationstation\.emulationstation\
 
+rem 11. 2023-2-04 - New RBL Features ES Menu sync
+robocopy V:\_tools\vman-retrobat-master\RetroBat\system\es_menu\ V:\RetroBat\system\es_menu\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 
