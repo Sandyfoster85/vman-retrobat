@@ -121,10 +121,11 @@ function SetOverrides {
 		Write-Progress -Activity "Setting Retroarch per-game config overrides and remaps..." -Status "$($item.system)" -PercentComplete (($counter/$matrix.Count)*100)
 		
 		$templatename=$(Split-Path -Path $item.path -Leaf) -replace "\.(\w+)$"
-		$templatesrc=$($templatecfg + '\' + $script_mode + '\' + $item.override + '\' + $item.system + '.cfg')
+		$templatesrc_cfg=$($templatecfg + '\' + $script_mode + '\' + $item.override + '\' + $item.system + '.cfg')
 		$templatedst0_cfg=$($overridefolder + '\' + $item.override + '\' + $item.system + '.cfg')		
+		$templatesrc_opt=$($templatecfg + '\' + $script_mode + '\' + $item.override + '\' + $item.system + '.opt')
+		$templatedst0_opt=$($overridefolder + '\' + $item.override + '\' + $item.system + '.opt')
 		$templatedst1=$($overridefolder + '\' + $item.override + '\' + $templatename)
-		$optfile=$($overridefolder + '\' + $item.override + '\' + $templatename + '.opt')
 		
 		$remapsrc=$($templatecfg + '\' + $script_mode + '\remaps\' + $item.override + '\' + $item.system + '.*')
 		$remapsrc_j=$($templatecfg + '\' + $script_mode + '\remaps\' + $item.override + '\' + $item.system + '_justifier.*')
@@ -134,13 +135,15 @@ function SetOverrides {
 		$remapdst1_j=$($overridefolder + '\remaps\' + $item.override + '\' + $templatename + '_justifier')	
 
 		if (Test-Path $templatedst0_cfg) {Remove-Item -Path $templatedst0_cfg} 
+		if (Test-Path $templatedst0_opt) {Remove-Item -Path $templatedst0_opt} 
 		if (Test-Path $remapdst0) {Remove-Item -Path $remapdst0}
 		if (Test-Path $remapdst0_j) {Remove-Item -Path $remapdst0_j}
 		Remove-Item -ErrorAction SilentlyContinue -LiteralPath $($templatedst1+'.cfg') 
 		Remove-Item -ErrorAction SilentlyContinue -LiteralPath $($templatedst1+'.opt')
 		Remove-Item -ErrorAction SilentlyContinue -LiteralPath $($remapdst1+'.rmp')
 		Remove-Item -ErrorAction SilentlyContinue -LiteralPath $($remapdst1_j+'rmp')
-		Copy-Item "$templatesrc" -Destination (New-Item -Path (Split-Path -Path "$templatedst0_cfg") -Type Directory -Force)
+		Copy-Item -ErrorAction SilentlyContinue  "$templatesrc_cfg" -Destination (New-Item -Path (Split-Path -Path "$templatedst0_cfg") -Type Directory -Force)
+		Copy-Item -ErrorAction SilentlyContinue  "$templatesrc_opt" -Destination (New-Item -Path (Split-Path -Path "$templatedst0_opt") -Type Directory -Force)
 
 		if ('puae','mame','mame2016','mame2003_plus' -contains $item.new_core) {
 			Add-Content -Path "$templatedst0_cfg" -Value `n$('input_driver = "raw"')
@@ -173,107 +176,77 @@ function SetOverrides {
 		Add-Content -Path "$templatedst0_cfg" -Value $('input_player2_mouse_index = "'+ $player2_mouse_index + '"')
 		}
 
-		Get-ChildItem "$templatedst0_cfg" | Rename-Item -NewName { $_.Name -replace $item.system,"$templatename" }
+		Get-ChildItem -ErrorAction SilentlyContinue "$templatedst0_cfg" | Rename-Item -NewName { $_.Name -replace $item.system,"$templatename" }
 				
 		if ($show_crosshair -eq 'y'){
 			if ($item.new_core -eq 'genesis_plus_gx'){
-				Add-Content -LiteralPath "$optfile" -Value $('genesis_plus_gx_gun_cursor = "enabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('genesis_plus_gx_gun_cursor = "enabled"')
 				}
 			if ($item.new_core -eq 'flycast'){
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun1_crosshair = "Red"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun2_crosshair = "Blue"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_allow_service_buttons = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_internal_resolution = "1440x1080"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_render_to_texture_upscaling = "4x"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_texupscale = "4"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('reicast_lightgun1_crosshair = "Red"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('reicast_lightgun2_crosshair = "Blue"')
 				}			
 			if ($item.new_core -eq 'mednafen_psx_hw'){
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_gun_cursor = "cross"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_skip_bios = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_dither_mode = "internal resolution"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_filter = "bilinear"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_internal_resolution = "4x"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_mode = "memory only"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_nclip = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_texture = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_vertex = "enabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('beetle_psx_hw_gun_cursor = "cross"')
 				}
 			if ($item.new_core -eq 'mednafen_saturn'){
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_saturn_virtuagun_crosshair = "Cross"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('beetle_saturn_virtuagun_crosshair = "Cross"')
 				}
 			if ($item.new_core -eq 'snes9x'){
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_justifier1_crosshair = "2"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_justifier2_crosshair = "2"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_rifle_crosshair = "2"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_superscope_crosshair = "2"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_justifier1_crosshair = "2"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_justifier2_crosshair = "2"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_rifle_crosshair = "2"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_superscope_crosshair = "2"')
 				}			
 			if ($item.new_core -eq 'mame2003_plus'){
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_crosshair_enabled = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_skip_disclaimer = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_skip_warnings = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_digital_joy_centering = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_xy_device = "lightgun"')				
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('mame2003-plus_crosshair_enabled = "enabled"')				
 				}		
 			if ($item.new_core -eq 'fceumm'){
-				Add-Content -LiteralPath "$optfile" -Value $('fceumm_show_crosshair = "enabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fceumm_show_crosshair = "enabled"')
 				}				
 			if ($item.new_core -eq 'fbneo'){
-				Add-Content -LiteralPath "$optfile" -Value $('fbneo-lightgun-hide-crosshair = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('fbneo-lightgun-crosshair-emulation = "always show"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fbneo-lightgun-hide-crosshair = "disabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fbneo-lightgun-crosshair-emulation = "always show"')
 				}
 		} else {
 			if ($item.new_core -eq 'genesis_plus_gx'){
-				Add-Content -LiteralPath "$optfile" -Value $('genesis_plus_gx_gun_cursor = "disabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('genesis_plus_gx_gun_cursor = "disabled"')
 				}
 			if ($item.new_core -eq 'flycast'){
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun1_crosshair = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_lightgun2_crosshair = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_allow_service_buttons = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_internal_resolution = "1440x1080"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_render_to_texture_upscaling = "4x"')
-				Add-Content -LiteralPath "$optfile" -Value $('reicast_texupscale = "4"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('reicast_lightgun1_crosshair = "disabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('reicast_lightgun2_crosshair = "disabled"')
 				}			
 			if ($item.new_core -eq 'mednafen_psx_hw'){
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_gun_cursor = "off"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_skip_bios = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_dither_mode = "internal resolution"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_filter = "bilinear"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_internal_resolution = "4x"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_mode = "memory only"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_nclip = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_texture = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_psx_hw_pgxp_vertex = "enabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('beetle_psx_hw_gun_cursor = "off"')
 				}
 			if ($item.new_core -eq 'mednafen_saturn'){
-				Add-Content -LiteralPath "$optfile" -Value $('beetle_saturn_virtuagun_crosshair = "Off"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('beetle_saturn_virtuagun_crosshair = "Off"')
 				}
 			if ($item.new_core -eq 'snes9x'){
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_justifier1_crosshair = "0"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_justifier2_crosshair = "0"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_rifle_crosshair = "0"')
-				Add-Content -LiteralPath "$optfile" -Value $('snes9x_superscope_crosshair = "0"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_justifier1_crosshair = "0"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_justifier2_crosshair = "0"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_rifle_crosshair = "0"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('snes9x_superscope_crosshair = "0"')
 				}			
 			if ($item.new_core -eq 'mame2003_plus'){
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_crosshair_enabled = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_skip_disclaimer = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_skip_warnings = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_digital_joy_centering = "disabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('mame2003-plus_xy_device = "lightgun"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('mame2003-plus_crosshair_enabled = "disabled"')
 				}		
 			if ($item.new_core -eq 'fceumm'){
-				Add-Content -LiteralPath "$optfile" -Value $('fceumm_show_crosshair = "disabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fceumm_show_crosshair = "disabled"')
 				}				
 			if ($item.new_core -eq 'fbneo'){
-				Add-Content -LiteralPath "$optfile" -Value $('fbneo-lightgun-hide-crosshair = "enabled"')
-				Add-Content -LiteralPath "$optfile" -Value $('fbneo-lightgun-crosshair-emulation = "always hide"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fbneo-lightgun-hide-crosshair = "enabled"')
+				Add-Content -LiteralPath "$templatedst0_opt" -Value $('fbneo-lightgun-crosshair-emulation = "always hide"')
 				}
 		}
-		
+
+		Get-ChildItem -ErrorAction SilentlyContinue "$templatedst0_opt" | Rename-Item -NewName { $_.Name -replace $item.system,"$templatename" }
+
 		if ($item.justifier -eq 'justifier') {
-			Copy-Item -Path "$remapsrc_j" -Destination (New-Item -Path (Split-Path -Path "$remapdst0_j") -Type Directory -Force)
+			Copy-Item -ErrorAction SilentlyContinue -Path "$remapsrc_j" -Destination (New-Item -Path (Split-Path -Path "$remapdst0_j") -Type Directory -Force)
 			Get-ChildItem -ErrorAction SilentlyContinue "$remapdst0_j" | Rename-Item -NewName { $_.Name -replace $($item.system + '_justifier'),"$templatename" }
 		} else {
-			Copy-Item -Path "$remapsrc" -Destination (New-Item -Path (Split-Path -Path "$remapdst0") -Type Directory -Force)
+			Copy-Item -ErrorAction SilentlyContinue -Path "$remapsrc" -Destination (New-Item -Path (Split-Path -Path "$remapdst0") -Type Directory -Force)
 			Get-ChildItem -ErrorAction SilentlyContinue "$remapdst0" | Rename-Item -NewName { $_.Name -replace $item.system,"$templatename" }
 		}
 		
