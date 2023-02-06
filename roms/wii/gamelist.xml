@@ -5160,22 +5160,6 @@ Take a look back at 25 years of Super Mario with this limited-edition soundtrack
 		<region>eu</region>
 		<genreid>1536</genreid>
 	</game>
-	<game id="9250" source="ScreenScraper.fr">
-		<path>./Ghost Squad (USA).rvz</path>
-		<name>Ghost Squad</name>
-		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
-		<image>./mixart/Ghost Squad (USA).png</image>
-		<video>./snap/Ghost Squad (USA).mp4</video>
-		<marquee>./wheel/Ghost Squad (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<region>us</region>
-	</game>
 	<game id="9863" source="ScreenScraper.fr">
 		<path>./Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es).rvz</path>
 		<name>Gunblade NY &amp; LA Machineguns: Arcade Hits Pack</name>
@@ -5502,24 +5486,6 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<genreid>256</genreid>
 	</game>
 	<game>
-		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
-		<name>Mario Kart Wii Deluxe</name>
-		<desc>Up to four players, represented by Miis, compete against each other in a three round trivia contest. Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the third round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner. 
- 
-This game features an elimination version, where a wrong answer eliminates you from the competition. There is also a 2-on-2 duel version and the return of the Quiz Attack for a solo player to see how many consecutive correct answers they can achieve.</desc>
-		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
-		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
-		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20221113T000000</releasedate>
-		<developer>FJRoyet</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Party, Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Castlevania ReBirth.wad</path>
 		<name>Castlevania : The Adventure Rebirth</name>
 		<desc>The classic Castlevania game is reborn for the Wii with all-new upgrades. 
@@ -5534,5 +5500,39 @@ Another 100 years has passed since the death of Count Dracula, but the revival o
 		<publisher>Konami</publisher>
 		<genre>Platform</genre>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
+		<name>Mario Kart Wii Deluxe (Green Edition)</name>
+		<desc>Up to four players, represented by Miis, compete against each other in a three round trivia contest. Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the third round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner. 
+ 
+This game features an elimination version, where a wrong answer eliminates you from the competition. There is also a 2-on-2 duel version and the return of the Quiz Attack for a solo player to see how many consecutive correct answers they can achieve.</desc>
+		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
+		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20230203T000000</releasedate>
+		<developer>FJRoyet</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Party, Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="9250" source="ScreenScraper.fr">
+		<path>./Ghost Squad (USA).rvz</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./mixart/Ghost Squad (USA).png</image>
+		<video>./snap/Ghost Squad (USA).mp4</video>
+		<marquee>./wheel/Ghost Squad (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<region>us</region>
 	</game>
 </gameList>

@@ -45703,26 +45703,6 @@ Gold - Destroy all enemies on screen, score depends on closeness to player prior
 		<region>us</region>
 		<cheevosHash>CA14D12070E1F84203BF49502C88A477</cheevosHash>
 	</game>
-	<game>
-		<path>./opwolf.zip</path>
-		<name>Operation Wolf</name>
-		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
-
-In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/opwolf.png</image>
-		<video>./snap/opwolf.mp4</video>
-		<marquee>./wheel/opwolf.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2F18128B8D3ADC968B0F993968175EFD</cheevosHash>
-	</game>
 	<game id="79095">
 		<path>./orbit.zip</path>
 		<name>Orbit</name>
@@ -72791,29 +72771,6 @@ Hasta La Vista, Baby!</desc>
 		<region>us</region>
 		<cheevosHash>F064BA69EEC828668EB9475146E336B5</cheevosHash>
 	</game>
-	<game id="44216">
-		<path>./zombraid.zip</path>
-		<name>Zombie Raid</name>
-		<desc>Welcome to the extraordinary world of Zombie Raid. Players use specially designed sawed-off shotguns with pump action reload to fight their way through the graveyard, through castles and dungeons and even through the mad scientist's laboratory. Battle all kinds of ghastly creatures, like zombies and other frightful beings. You may feel like you're lost in a horror movie!
-
-A myriad of secrets have been programmed into the game for added dimension. Can you discover how to get extra life? Can you find a way to escape the forces? Can you defeat the evil? The challenges are endless!</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/zombraid.png</image>
-		<video>./snap/zombraid.mp4</video>
-		<marquee>./wheel/zombraid.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sammy</developer>
-		<publisher>Sammy</publisher>
-		<genre>Shooter</genre>
-		<arcadesystemname>sammy</arcadesystemname>
-		<players>2</players>
-		<md5>6c81def6e611a035384a00528c0dbcc7</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8ADAEBB87BD876848C7AA46875244E4D</cheevosHash>
-	</game>
 	<game>
 		<path>./alien3.zip</path>
 		<name>Alien3: The Gun</name>
@@ -72909,5 +72866,48 @@ A myriad of secrets have been programmed into the game for added dimension. Can 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game>
+		<path>./opwolf.zip</path>
+		<name>Operation Wolf</name>
+		<desc>Operation Wolf is a light-gun controlled shoot-em-up in which the player takes on the role of Special Forces operative 'Roy Adams' and must infiltrate and capture six heavily fortified bases, with the ultimate aim of rescuing five trapped hostages and guiding them to safety.
+
+In order to complete each stage, the player must shoot as many enemy soldiers and vehicles as that stage requires. Enemy soldiers can throw hand grenades and knives, while enemy vehicles can shoot missiles and launch rockets. The player's ammunition and grenades are limited, but can be stocked up by shooting barrels and crates. Occasionally a high-powered machine gun power-up appears, allowing the player's gun to have unlimited ammo and an increased rate of fire for 10 seconds. Completing the 'Powder Magazine' stage fills the player's ammunition and grenade supplies to maximum.</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/opwolf.png</image>
+		<video>./snap/opwolf.mp4</video>
+		<marquee>./wheel/opwolf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2F18128B8D3ADC968B0F993968175EFD</cheevosHash>
+	</game>
+	<game id="44216">
+		<path>./zombraid.zip</path>
+		<name>Zombie Raid</name>
+		<desc>Welcome to the extraordinary world of Zombie Raid. Players use specially designed sawed-off shotguns with pump action reload to fight their way through the graveyard, through castles and dungeons and even through the mad scientist's laboratory. Battle all kinds of ghastly creatures, like zombies and other frightful beings. You may feel like you're lost in a horror movie!
+
+A myriad of secrets have been programmed into the game for added dimension. Can you discover how to get extra life? Can you find a way to escape the forces? Can you defeat the evil? The challenges are endless!</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/zombraid.png</image>
+		<video>./snap/zombraid.mp4</video>
+		<marquee>./wheel/zombraid.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sammy</developer>
+		<publisher>Sammy</publisher>
+		<genre>Shooter</genre>
+		<arcadesystemname>sammy</arcadesystemname>
+		<players>2</players>
+		<md5>6c81def6e611a035384a00528c0dbcc7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8ADAEBB87BD876848C7AA46875244E4D</cheevosHash>
 	</game>
 </gameList>
