@@ -1416,8 +1416,6 @@ Alundra is an action role playing game (RPG) somewhat similar to the famous Zeld
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A299F7DC421C11BBD2489A4059A375CA</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Armored Core (USA).chd</path>
@@ -4779,8 +4777,6 @@ Each character plays exactly the same except for the type of weapons they wield 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>40C050AB9315CA357E9B5DC39007FFCE</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./CT Special Forces - Back To Hell.chd</path>
@@ -6773,8 +6769,6 @@ The story unfolds by means of fully-3D action levels interspersed with hand-draw
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>315539D0EE7E3FF04899DB9A254A07E8</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="20308" source="ScreenScraper.fr">
 		<path>./Eliminator (USA).chd</path>
@@ -8493,6 +8487,22 @@ This is a 2D fighting game, in which you can play as one of 10 very different ki
 		<cheevosHash>260665CC4567F21BE361F6F1807DE0A3</cheevosHash>
 		<cheevosId>11337</cheevosId>
 	</game>
+	<game>
+		<path>./Gunfighter - The Legend of Jesse James (USA).chd</path>
+		<name>Gunfighter : The Legend of Jesse James</name>
+		<desc>Step into the boots of a legend of the Old West for a sharp-shooting adventure of true romance and frontier justice. Jesse James' partner has been shot dead and his best girl Zee has been kidnapped by a band of no-good outlaw varmints. Guide the rogue hero as he blasts away at the bad guys to avenge his lost companion and save the girl. The game is compatible with PlayStation light guns for a true first-person experience. Gunfighter: The Legend of Jesse James also features an assortment of mini-games for variety and replay value.</desc>
+		<image>./mixart/Gunfighter - The Legend of Jesse James (USA).png</image>
+		<video>./snap/Gunfighter - The Legend of Jesse James (USA).mp4</video>
+		<marquee>./wheel/Gunfighter - The Legend of Jesse James (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>20011118T000000</releasedate>
+		<developer>Rebellion</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Lightgun Shooter</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E7E8A1707B2B630F7A013016F595E71F</cheevosHash>
+	</game>
 	<game id="19974" source="ScreenScraper.fr">
 		<path>./Gungage (Europe).chd</path>
 		<name>Gungage</name>
@@ -9601,8 +9611,6 @@ A Dreamcast version also exists, but without the Super Story Mode and a couple o
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>98F648C9463B64E57C99D00EBA363F99</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Juggernaut (USA).m3u</path>
@@ -10408,8 +10416,6 @@ In LETHAL ENFORCERS II, you?re thrust into the Old West and must take on stageco
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>662EFC1257A419354A3CDB3A1D9AC498</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="20327" source="ScreenScraper.fr">
 		<path>./Liberogrande International (Europe) (En,Fr,De,Es,It).chd</path>
@@ -10950,8 +10956,6 @@ The player takes control of characters struggling to survive on populated by ove
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>383A045C7A2026772EFBE10E30B910C6</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./MDK (USA).chd</path>
@@ -12962,8 +12966,6 @@ Abe's Exoddus is a 2D platform which focuses on puzzle solving instead of jump &
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>1C3BB68F39430F84D777342A6033FBB6</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Omega Boost (USA).chd</path>
@@ -13537,8 +13539,6 @@ Enemies include other space ships and large insect like aliens.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CD5FA7E5C5AF775EC14087B42E094374</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="20007" source="ScreenScraper.fr">
 		<path>./Point Blank 2 (USA).chd</path>
@@ -13556,8 +13556,6 @@ Enemies include other space ships and large insect like aliens.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EEC2FE480ADC1E0F1453484C5277C154</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="20134" source="ScreenScraper.fr">
 		<path>./Point Blank 3 (USA).chd</path>
@@ -13575,8 +13573,6 @@ Enemies include other space ships and large insect like aliens.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E94891FD679354E56D3C5EFFD365459A</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="20665" source="ScreenScraper.fr">
 		<path>./Polaris SnoCross (USA).chd</path>
@@ -13901,6 +13897,23 @@ Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6B47F7A76F0F60B8B5C6F6A9C8229E9D</cheevosHash>
+	</game>
+	<game>
+		<path>./Project - Horned Owl (USA).chd</path>
+		<name>Project : Horned Owl</name>
+		<desc>Based on a popular Japanese anime series called Policenauts, this on-rails first-person shooter gives gamers a glimpse of the future in amazing detail and visual acuity. The character artist from the popular anime Ghost in a Shell created the models for this game, so you can expect some well-drawn and highly detailed characters throughout the game.     Putting you behind the controls of a giant mech, it's your duty to blast the evil forces that threaten the peaceful city that you serve. A tracking camera guides you through the 3D environments, as enemies pop up from behind every conceivable hiding place. The gun is accurate and easily calibrated, meaning you  ll be blasting enemies with pinpoint precision.</desc>
+		<image>./mixart/Project - Horned Owl (USA).png</image>
+		<video>./snap/Project - Horned Owl (USA).mp4</video>
+		<marquee>./wheel/Project - Horned Owl (USA).png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19960831T000000</releasedate>
+		<developer>MOVIC Inc.</developer>
+		<publisher>Sony Computer Entertaiment</publisher>
+		<genre>Action-Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FDE853EFA99FAF43232FCE8A86DCE40A</cheevosHash>
 	</game>
 	<game>
 		<path>./Project Overkill (USA).chd</path>
@@ -14729,8 +14742,6 @@ Surprise elements and hidden secrets entwine with the Resident Evil storyline</d
 		<region>us</region>
 		<cheevosHash>7F009EE09A398BE094220E3E943AC458</cheevosHash>
 		<cheevosId>11419</cheevosId>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Resident Evil 2 (USA).m3u</path>
@@ -16788,8 +16799,6 @@ Dark Forces is a close prequel to the original Star Wars movie trilogy. The game
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3F3991D27906D65EAF15694BB75EBECE</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game id="103394" source="ScreenScraper.fr">
 		<path>./Starfighter Sanvein (USA).chd</path>
@@ -18251,6 +18260,22 @@ There are a total of eight different modes of play: Practice, Stroke Play, The S
 		<cheevosHash>C93322ED8AB0DF1962DDAEB77E25C29F</cheevosHash>
 	</game>
 	<game>
+		<path>./Time Crisis (USA).chd</path>
+		<name>Time Crisis</name>
+		<desc>Time Crisis is a rail shooter, originally released for the arcades, similar to Virtua Cop in gameplay style. The player moves automatically, using the light gun to eliminate appearing enemies, after which he can proceed to the next screen. The stages typically culminate in boss battles. The player can also press a button to make Richard dive for cover. However, using this feature too much might result in expiration of the time limit imposed on each screen.</desc>
+		<image>./mixart/Time Crisis (USA).png</image>
+		<video>./snap/Time Crisis (USA).mp4</video>
+		<marquee>./wheel/Time Crisis (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19971031T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F0CDC9DFF95D72FEC777A86DD255C690</cheevosHash>
+		<cheevosId>3595</cheevosId>
+	</game>
+	<game>
 		<path>./Time Crisis - Project Titan (USA).chd</path>
 		<name>Time Crisis : Project Titan</name>
 		<desc>Project Titan features the same gameplay as the other Time Crisis games. It also retains the signature foot pedal. Players by default are in hiding position. They are shielded from taking fire, but they cannot fire back. In order to begin play, players must step on the pedal and begin firing. Stepping off the pad also allows the player to reload the gun.
@@ -18267,8 +18292,6 @@ This game introduces the a new gameplay mechanic that allows the player to move 
 		<region>us</region>
 		<cheevosHash>D2EBEB76BC0C162CD5FEBFD614D636A2</cheevosHash>
 		<cheevosId>3481</cheevosId>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Time Gal &amp; Ninja Hayate (USA) CD1.chd</path>
@@ -20856,8 +20879,6 @@ Graphically, Starblade Alpha has been improved from its original arcade format. 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BCA1CBC9EFA8ED959BD49741F361BED1</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./NHL 2001 (USA).chd</path>
@@ -21207,8 +21228,6 @@ Each level of this action shooter delivers nonstop action with a total of 6 leve
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DA1F9081E21439D3EC86CF0F560F80FB</cheevosHash>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
 	</game>
 	<game>
 		<path>./Austin Powers Pinball (USA).chd</path>
@@ -21470,60 +21489,5 @@ This game plays very much like any old platform game on the NES (specifically, i
 		<region>us</region>
 		<cheevosHash>BF7E0E90D8E8D5738C7332BC6AF666DA</cheevosHash>
 		<cheevosId>11240</cheevosId>
-	</game>
-	<game>
-		<path>./Gunfighter - The Legend of Jesse James (USA).chd</path>
-		<name>Gunfighter : The Legend of Jesse James</name>
-		<desc>Step into the boots of a legend of the Old West for a sharp-shooting adventure of true romance and frontier justice. Jesse James' partner has been shot dead and his best girl Zee has been kidnapped by a band of no-good outlaw varmints. Guide the rogue hero as he blasts away at the bad guys to avenge his lost companion and save the girl. The game is compatible with PlayStation light guns for a true first-person experience. Gunfighter: The Legend of Jesse James also features an assortment of mini-games for variety and replay value.</desc>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
-		<image>./mixart/Gunfighter - The Legend of Jesse James (USA).png</image>
-		<video>./snap/Gunfighter - The Legend of Jesse James (USA).mp4</video>
-		<marquee>./wheel/Gunfighter - The Legend of Jesse James (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>20011118T000000</releasedate>
-		<developer>Rebellion</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Lightgun Shooter</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E7E8A1707B2B630F7A013016F595E71F</cheevosHash>
-	</game>
-	<game>
-		<path>./Project - Horned Owl (USA).chd</path>
-		<name>Project : Horned Owl</name>
-		<desc>Based on a popular Japanese anime series called Policenauts, this on-rails first-person shooter gives gamers a glimpse of the future in amazing detail and visual acuity. The character artist from the popular anime Ghost in a Shell created the models for this game, so you can expect some well-drawn and highly detailed characters throughout the game.     Putting you behind the controls of a giant mech, it's your duty to blast the evil forces that threaten the peaceful city that you serve. A tracking camera guides you through the 3D environments, as enemies pop up from behind every conceivable hiding place. The gun is accurate and easily calibrated, meaning you  ll be blasting enemies with pinpoint precision.</desc>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
-		<image>./mixart/Project - Horned Owl (USA).png</image>
-		<video>./snap/Project - Horned Owl (USA).mp4</video>
-		<marquee>./wheel/Project - Horned Owl (USA).png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19960831T000000</releasedate>
-		<developer>MOVIC Inc.</developer>
-		<publisher>Sony Computer Entertaiment</publisher>
-		<genre>Action-Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FDE853EFA99FAF43232FCE8A86DCE40A</cheevosHash>
-	</game>
-	<game>
-		<path>./Time Crisis (USA).chd</path>
-		<name>Time Crisis</name>
-		<desc>Time Crisis is a rail shooter, originally released for the arcades, similar to Virtua Cop in gameplay style. The player moves automatically, using the light gun to eliminate appearing enemies, after which he can proceed to the next screen. The stages typically culminate in boss battles. The player can also press a button to make Richard dive for cover. However, using this feature too much might result in expiration of the time limit imposed on each screen.</desc>
-		<emulator>libretro</emulator>
-		<core>mednafen_psx_hw</core>
-		<image>./mixart/Time Crisis (USA).png</image>
-		<video>./snap/Time Crisis (USA).mp4</video>
-		<marquee>./wheel/Time Crisis (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19971031T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F0CDC9DFF95D72FEC777A86DD255C690</cheevosHash>
-		<cheevosId>3595</cheevosId>
 	</game>
 </gameList>
