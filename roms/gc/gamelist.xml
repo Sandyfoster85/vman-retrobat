@@ -7022,23 +7022,6 @@ In this implementation, you can play in one of 8 different settings, including a
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="4746" source="ScreenScraper.fr">
-		<path>./Super Smash Bros. Melee (USA) (En,Ja) (v1.02).rvz</path>
-		<name>Super Smash Bros. Melee</name>
-		<desc>Normally, Nintendo contract players such as Mario, Pikachu, Link, Donkey Kong, Bowser, and Kirby are generally happy and well-mannered, but in Super Smash Bros. Melee, the pleasantries get thrown out and the gloves (except for Mario's) come off. This update of the N64 favorite features these and other video game icons in furious, yet utterly absurd fisticuffs that usually make for a smashing good time. Just make sure you have at least one human opponent to pound on.</desc>
-		<image>./mixart/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).png</image>
-		<video>./snap/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).mp4</video>
-		<marquee>./wheel/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20011202T000000</releasedate>
-		<developer>HAL Laboratory</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Fight</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en,jp</lang>
-		<region>jp</region>
-	</game>
 	<game id="5073" source="ScreenScraper.fr">
 		<path>./Superman - Shadow of Apokolips (USA).rvz</path>
 		<name>Superman: Shadow of Apokolips</name>
@@ -8984,23 +8967,6 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<region>eu</region>
 	</game>
 	<game>
-		<path>./Auto Modellista (USA).rvz</path>
-		<name>Auto Modellista</name>
-		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
-		<image>./mixart/Auto Modellista (USA).png</image>
-		<video>./snap/Auto Modellista (USA).mp4</video>
-		<marquee>./wheel/Auto Modellista (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030930T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Star Wars - Rogue Squadron II - Rogue Leader (USA).rvz</path>
 		<name>Star Wars : Rogue Squadron II : Rogue Leader</name>
 		<desc>In Star Wars Rogue Squadron II you get the chance to jump into the cockpit of an X-wing and join Luke Skywalker and the Star Wars galaxy's most daring pilots as they return to face off against the Empire. As in the original hit game for N64, you'll relive favorite Star Wars battles including the perilous Death Star trench run, a daring space attack on a Star Destroyer and the legendary battle on the ice planet Hoth. Rogue Leader features stunning, movie like visuals and immerses players in an intense action-arcade experience. Aerial conflict takes place in a variety of craft such as the legendary X-wing, A-wing, and B-wing. For the first time, the game also features on-foot ground combat in missions directly based on or inspired by the original movie trilogy.</desc>
@@ -9032,5 +8998,39 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<players>2-4</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game>
+		<path>./Auto Modellista (USA).rvz</path>
+		<name>Auto Modellista</name>
+		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
+		<image>./mixart/Auto Modellista (USA).png</image>
+		<video>./snap/Auto Modellista (USA).mp4</video>
+		<marquee>./wheel/Auto Modellista (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030930T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="4746" source="ScreenScraper.fr">
+		<path>./Super Smash Bros. Melee (USA) (En,Ja) (v1.02).rvz</path>
+		<name>Super Smash Bros. Melee</name>
+		<desc>Normally, Nintendo contract players such as Mario, Pikachu, Link, Donkey Kong, Bowser, and Kirby are generally happy and well-mannered, but in Super Smash Bros. Melee, the pleasantries get thrown out and the gloves (except for Mario's) come off. This update of the N64 favorite features these and other video game icons in furious, yet utterly absurd fisticuffs that usually make for a smashing good time. Just make sure you have at least one human opponent to pound on.</desc>
+		<image>./mixart/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).png</image>
+		<video>./snap/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).mp4</video>
+		<marquee>./wheel/Super Smash Bros. Melee (USA) (En,Ja) (v1.02).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20011202T000000</releasedate>
+		<developer>HAL Laboratory</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Fight</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en,jp</lang>
+		<region>jp</region>
 	</game>
 </gameList>

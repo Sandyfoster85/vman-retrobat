@@ -1065,24 +1065,6 @@ Straight after his return to the present day, Bond realizes that he's still aliv
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Smash Bros. for Wii U/code/cross_f.rpx</path>
-		<name>Super Smash Bros. for Wii U</name>
-		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
-
-Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
-		<image>./mixart/Super Smash Bros. for Wii U.png</image>
-		<video>./snap/Super Smash Bros. for Wii U.mp4</video>
-		<marquee>./wheel/Super Smash Bros. for Wii U-01.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20141121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Sora Ltd.</publisher>
-		<genre>Fight</genre>
-		<players>4+</players>
-		<md5>29c8d640c9ef8807ce3942da1d4b3421</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super_Mario_Maker_USA.wux</path>
 		<name>Super Mario Maker</name>
 		<desc>Super Mario Maker lets people’s imaginations run wild. For the first time ever, friends can have fun playing through levels they create for one another. The Wii U GamePad controller makes it so easy for anyone to create levels; it may feel like simply sketching out ideas on paper. Players can enjoy a seemingly endless supply of inventive Mario levels from players around the world.</desc>
@@ -1613,7 +1595,7 @@ The player flies around a little black creature called a Clone through the woods
 		<video>./snap/The Legend of Zelda_ The Wind Waker HD.mp4</video>
 		<marquee>./wheel/The Legend of Zelda_ The Wind Waker HD-03.png</marquee>
 		<rating>0.9</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<favorite>true</favorite>
 		<md5>f7282e218b94437057b30132e24c404b</md5>
 		<lang>en</lang>
@@ -1636,6 +1618,24 @@ The gameplay includes thirty-two circuits (sixteen brand new ones and sixteen re
 		<players>4+</players>
 		<favorite>true</favorite>
 		<md5>1357c833acd98ec03218eb773296824a</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Smash Bros. for Wii U/code/cross_f.rpx</path>
+		<name>Super Smash Bros. for Wii U</name>
+		<desc>Mario! Link! Samus! Pikachu! All of your favorite Nintendo characters are back, along with plenty of new faces, in Super Smash Bros. for Wii U, the next entry in the beloved Super Smash Bros. series.
+
+Up to four players can battle each other locally or online across beautifully designed stages inspired by classic Nintendo home console games. With a variety of control options and amiibo compatibility, the timeless Super Smash Bros. battles come alive.</desc>
+		<image>./mixart/Super Smash Bros. for Wii U.png</image>
+		<video>./snap/Super Smash Bros. for Wii U.mp4</video>
+		<marquee>./wheel/Super Smash Bros. for Wii U-01.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20141121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Sora Ltd.</publisher>
+		<genre>Fight</genre>
+		<players>4+</players>
+		<md5>29c8d640c9ef8807ce3942da1d4b3421</md5>
 		<lang>en</lang>
 	</game>
 </gameList>
