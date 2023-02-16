@@ -2433,30 +2433,6 @@ In the game, players control the differently colored Yoshis most of the time. Ma
 		<cheevosHash>CE1E3E33B6E39D37B43D7DE599F9E785</cheevosHash>
 		<cheevosId>558</cheevosId>
 	</game>
-	<game id="2147" source="ScreenScraper.fr">
-		<path>./Super Metroid (Japan, USA).zip</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super Metroid (Japan, USA).png</image>
-		<video>./snap/Super Metroid (Japan, USA).mp4</video>
-		<marquee>./wheel/Super Metroid (Japan, USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<crc32>F350DBD0</crc32>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>21F3E98DF4780EE1C667B84E57D88675</cheevosHash>
-		<cheevosId>236</cheevosId>
-	</game>
 	<game id="19060" source="ScreenScraper.fr">
 		<path>./Ganbare! Daiku no Gen-san (Japan).zip</path>
 		<name>Ganbare! Daiku no Gen-san</name>
@@ -9581,5 +9557,29 @@ Play takes place over five levels, first of your launch on Mars, then the approa
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>445B931E1D09A24CDD467720A641B8E7</cheevosHash>
+	</game>
+	<game id="2147" source="ScreenScraper.fr">
+		<path>./Super Metroid (Japan, USA).zip</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super Metroid (Japan, USA).png</image>
+		<video>./snap/Super Metroid (Japan, USA).mp4</video>
+		<marquee>./wheel/Super Metroid (Japan, USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<crc32>F350DBD0</crc32>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>21F3E98DF4780EE1C667B84E57D88675</cheevosHash>
+		<cheevosId>236</cheevosId>
 	</game>
 </gameList>

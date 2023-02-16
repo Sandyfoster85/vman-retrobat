@@ -3233,25 +3233,6 @@ The game is structured very similar to previous Zelda games: you travel through 
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 	</game>
-	<game id="8724">
-		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
-		<name>Metroid: Other M</name>
-		<desc>Metroid: Other M is reminiscent of 2-D side-scrollers, but players can switch the perspective into 3-D at any time as they explore the twisting passages of a derelict space station and delve deep into a cinematic, never-before-told story of bounty hunter Samus Aran's past.
-
-This new approach uses a new control scheme in which players use the Wii Remote controller held sideways to battle enemies and navigate the expansive, gorgeous environments in classic Metroid fashion, then aim at the screen with the Wii Remote pointer to blast foes in first-person and hunt the world for clues and hidden passages.</desc>
-		<image>./mixart/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</image>
-		<video>./snap/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).mp4</video>
-		<marquee>./wheel/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20100903T000000</releasedate>
-		<developer>Team Ninja</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en,es,fr</lang>
-		<region>eu</region>
-	</game>
 	<game id="8914" source="ScreenScraper.fr">
 		<path>./WarioWare - Smooth Moves (USA) (En,Fr,Es).wbfs</path>
 		<name>Wario Ware : Smooth Moves</name>
@@ -4559,24 +4540,6 @@ Indy 500 features mission based racing that includes challenging famous rivals t
 		<region>us</region>
 		<genreid>1537</genreid>
 	</game>
-	<game id="8782" source="ScreenScraper.fr">
-		<path>./Metroid Prime Trilogy (USA).rvz</path>
-		<name>Metroid Prime: Trilogy</name>
-		<desc>Metroid Prime 3: Corruption set a new standard for first-person motion controls in video games. Now it's bringing those controls to the rest of the celebrated series, allowing players to experience the entire Metroid Prime story arc with the peerless precision of the Wii Remote. Nintendo announces Metroid Prime Trilogy, a new premium three-game collection for the Wii console that bundles all three landmark Metroid Prime games onto one disc and revamps the first two installments with intuitive Wii Remote controls, wide-screen presentation and other enhancements. Each game maintains its original storyline and settings, but now Metroid Prime and Metroid Prime 2: Echoes lets you use your Wii Remote to aim with precision as heroine Samus Aran. Based on the breakthrough control system that debuted in Metroid Prime 3: Corruption, these new Wii controls bring an entirely new level of immersion and freedom to these milestone games.</desc>
-		<image>./mixart/Metroid Prime Trilogy (USA).png</image>
-		<video>./snap/Metroid Prime Trilogy (USA).mp4</video>
-		<marquee>./wheel/Metroid Prime Trilogy (USA).png</marquee>
-		<rating>1</rating>
-		<releasedate>20090904T000000</releasedate>
-		<developer>Retro Studios</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>3840</genreid>
-	</game>
 	<game id="8708" source="ScreenScraper.fr">
 		<path>./Super Mario Galaxy (USA) (En,Fr,Es).cc.rvz</path>
 		<name>Super Mario Galaxy</name>
@@ -5564,5 +5527,42 @@ Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade E
 		<genre>Party, Racing</genre>
 		<players>2</players>
 		<lang>en</lang>
+	</game>
+	<game id="8724">
+		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
+		<name>Metroid: Other M</name>
+		<desc>Metroid: Other M is reminiscent of 2-D side-scrollers, but players can switch the perspective into 3-D at any time as they explore the twisting passages of a derelict space station and delve deep into a cinematic, never-before-told story of bounty hunter Samus Aran's past.
+
+This new approach uses a new control scheme in which players use the Wii Remote controller held sideways to battle enemies and navigate the expansive, gorgeous environments in classic Metroid fashion, then aim at the screen with the Wii Remote pointer to blast foes in first-person and hunt the world for clues and hidden passages.</desc>
+		<image>./mixart/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</image>
+		<video>./snap/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).mp4</video>
+		<marquee>./wheel/Metroid - Other M (USA) (En,Fr,Es) (Rev 1).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20100903T000000</releasedate>
+		<developer>Team Ninja</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en,es,fr</lang>
+		<region>eu</region>
+	</game>
+	<game id="8782" source="ScreenScraper.fr">
+		<path>./Metroid Prime Trilogy (USA).rvz</path>
+		<name>Metroid Prime: Trilogy</name>
+		<desc>Metroid Prime 3: Corruption set a new standard for first-person motion controls in video games. Now it's bringing those controls to the rest of the celebrated series, allowing players to experience the entire Metroid Prime story arc with the peerless precision of the Wii Remote. Nintendo announces Metroid Prime Trilogy, a new premium three-game collection for the Wii console that bundles all three landmark Metroid Prime games onto one disc and revamps the first two installments with intuitive Wii Remote controls, wide-screen presentation and other enhancements. Each game maintains its original storyline and settings, but now Metroid Prime and Metroid Prime 2: Echoes lets you use your Wii Remote to aim with precision as heroine Samus Aran. Based on the breakthrough control system that debuted in Metroid Prime 3: Corruption, these new Wii controls bring an entirely new level of immersion and freedom to these milestone games.</desc>
+		<image>./mixart/Metroid Prime Trilogy (USA).png</image>
+		<video>./snap/Metroid Prime Trilogy (USA).mp4</video>
+		<marquee>./wheel/Metroid Prime Trilogy (USA).png</marquee>
+		<rating>1</rating>
+		<releasedate>20090904T000000</releasedate>
+		<developer>Retro Studios</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>3840</genreid>
 	</game>
 </gameList>

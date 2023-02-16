@@ -950,22 +950,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Metroid Dread.xci</path>
-		<name>Metroid Dread</name>
-		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
-		<image>./mixart/Metroid Dread.jpg</image>
-		<video>./snap/Metroid Dread.mp4</video>
-		<marquee>./wheel/Metroid Dread.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20211201T000000</releasedate>
-		<developer>MercuryStream</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Galaxy Shooter.nsp</path>
 		<name>Galaxy Shooter</name>
 		<desc>Take your starship to fight! Cruise the Galaxy and shoot down formations of evil space invaders. Dodge the bullet hell and shoot ’em up!</desc>
@@ -1125,21 +1109,6 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./PAC-MAN 99.xci</path>
-		<name>PAC-MAN 99</name>
-		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
-		<image>./mixart/PAC-MAN 99.jpg</image>
-		<video>./snap/PAC-MAN 99.mp4</video>
-		<marquee>./wheel/PAC-MAN 99.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20211106T000000</releasedate>
-		<developer>Arika</developer>
-		<publisher>Bandai Namco</publisher>
-		<genre>Arcade</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super Smash Bros. Ultimate.xci</path>
 		<name>Super Smash Bros. Ultimate + DLC</name>
 		<desc>New characters and stages join the entire legacy roster! Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</desc>
@@ -1153,6 +1122,54 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<genre>Fighting</genre>
 		<players>4</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Dread.xci</path>
+		<name>Metroid Dread</name>
+		<desc>Samus’ story continues after the events of the Metroid™ Fusion game when she descends upon planet ZDR to investigate a mysterious transmission sent to the Galactic Federation. The remote planet has become overrun by vicious alien lifeforms and chilling mechanical menaces. Samus is more agile and capable than ever, but can she overcome the inhuman threat stalking the depths of ZDR?</desc>
+		<image>./mixart/Metroid Dread.jpg</image>
+		<video>./snap/Metroid Dread.mp4</video>
+		<marquee>./wheel/Metroid Dread.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20211201T000000</releasedate>
+		<developer>MercuryStream</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Prime Remastered.nsp</path>
+		<name>Metroid Prime Remastered</name>
+		<desc>New characters and stages join the entire legacy roster! Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Metroid Prime Remastered.jpg</image>
+		<video>./snap/Metroid Prime Remastered.mp4</video>
+		<marquee>./wheel/Metroid Prime Remastered.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20231106T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./PAC-MAN 99.xci</path>
+		<name>PAC-MAN 99</name>
+		<desc>Pac-Man 99 is a battle royale version of the classic arcade game Pac-Man. Players go up against 98 other players to see who can go the longest.</desc>
+		<image>./mixart/PAC-MAN 99.jpg</image>
+		<video>./snap/PAC-MAN 99.mp4</video>
+		<marquee>./wheel/PAC-MAN 99.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20211106T000000</releasedate>
+		<developer>Arika</developer>
+		<publisher>Bandai Namco</publisher>
+		<genre>Arcade</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

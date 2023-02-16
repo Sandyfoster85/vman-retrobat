@@ -7500,26 +7500,6 @@ Structurally, the party moves from area to area, and the plot advances as the pl
 		<region>us</region>
 		<cheevosHash>30C91A133D08FF33A488ABC15053530C</cheevosHash>
 	</game>
-	<game>
-		<path>./Metroid Prime Pinball (USA).zip</path>
-		<name>Metroid Prime Pinball</name>
-		<desc>In this pinball game based on Metroid Prime, Samus gets knocked and rolled around the table in Morph Ball form; the table contains Metroids, which can latch onto her and suck away health. Tables include the surface of Tallon IV, the Space Station, the Phazon Mines, and more can be unlocked by searching for artifacts and collecting bounties, which are found by destroying Space Pirates and other dangerous creatures.
-
-Metroid Prime Pinball is a pinball game with a Metroid theme. Players can collect power-ups such as missiles and super bombs, which can be helpful when defeating bosses. There are also missions to be completed within a time limit; these missions can involve defeating unique enemies that appear on the table or completing tasks such as wall jumping. Completing missions earns either artifacts or special tokens.
-
-The game also features a single-card multiplayer mode. In this mode, up to eight players can play. The game is a race to see who can reach a certain score first. Players lose points if they lose their ball. It is also possible to dump enemies onto opponents' tables to cause trouble for them.</desc>
-		<image>./mixart/Metroid Prime Pinball (USA).png</image>
-		<video>./snap/Metroid Prime Pinball (USA).mp4</video>
-		<marquee>./wheel/Metroid Prime Pinball (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20070622T000000</releasedate>
-		<developer>Fuse Games</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5BE0283662014ADDEB952709C043F5C6</cheevosHash>
-	</game>
 	<game id="6290" source="ScreenScraper.fr">
 		<path>./Monster High - Skultimate Roller Maze (USA) (En,Fr,Es).zip</path>
 		<name>Monster High: Skultimate Roller Maze</name>
@@ -19050,27 +19030,6 @@ As players progress through the game, they gain the power of different types of 
 		<region>us</region>
 		<cheevosHash>0207EE8F986B38D85BF52559F6ACAFB6</cheevosHash>
 	</game>
-	<game>
-		<path>./Metroid Prime - Hunters (USA).zip</path>
-		<name>Metroid Prime - Hunters</name>
-		<desc>An episode in the Metroid Prime series which started on the GameCube, this game takes place between Metroid Prime and Metroid Prime 2: Echoes. Interstellar bounty hunter Samus Aran is sent to the distant Alimbic Cluster by the Galactic Federation to investigate a message saying that the source of ultimate power lies in this desolate part of the galaxy, once home to an advanced culture.
-
-Samus is not alone, however. Other races have heard this mysterious message, too. Six other bounty hunters, each with unique characteristics, will do everything to get their hands on the Alimbic relics for their own reasons.
-
-The single-player mode is more focused on shooting than other Metroid games but also has puzzles in classic Metroid fashion. Unlike previous games, Samus has all her moves from the start, but she still has to look for weapons. The player may also run into other bounty hunters in this mode.
-
-The multiplayer mode is similar to Unreal Tournament or Quake games. Players can choose from any hunter that was defeated in single-player mode. There are seven modes in total including: Nodes, Survival, Bounty, Prime Hunter, Battle, Capture, and Defender. Each mode has its own unique rules. There are a vast number of arenas that can be played over local wireless or Nintendo Wi-Fi Connection. When using friend codes, voice chat before and after matches is enabled.</desc>
-		<image>./mixart/Metroid Prime - Hunters (USA).png</image>
-		<video>./snap/Metroid Prime - Hunters (USA).mp4</video>
-		<marquee>./wheel/Metroid Prime - Hunters (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20060505T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E4D94AD05DD5490E73AE9CB0B21F0D6B</cheevosHash>
-	</game>
 	<game id="151846" source="ScreenScraper.fr">
 		<path>./Miami Law (USA) (En,Fr,Es).zip</path>
 		<name>Miami Law</name>
@@ -29244,5 +29203,46 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<lang>de,en,fr</lang>
 		<region>eu</region>
 		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
+	</game>
+	<game>
+		<path>./Metroid Prime - Hunters (USA).zip</path>
+		<name>Metroid Prime - Hunters</name>
+		<desc>An episode in the Metroid Prime series which started on the GameCube, this game takes place between Metroid Prime and Metroid Prime 2: Echoes. Interstellar bounty hunter Samus Aran is sent to the distant Alimbic Cluster by the Galactic Federation to investigate a message saying that the source of ultimate power lies in this desolate part of the galaxy, once home to an advanced culture.
+
+Samus is not alone, however. Other races have heard this mysterious message, too. Six other bounty hunters, each with unique characteristics, will do everything to get their hands on the Alimbic relics for their own reasons.
+
+The single-player mode is more focused on shooting than other Metroid games but also has puzzles in classic Metroid fashion. Unlike previous games, Samus has all her moves from the start, but she still has to look for weapons. The player may also run into other bounty hunters in this mode.
+
+The multiplayer mode is similar to Unreal Tournament or Quake games. Players can choose from any hunter that was defeated in single-player mode. There are seven modes in total including: Nodes, Survival, Bounty, Prime Hunter, Battle, Capture, and Defender. Each mode has its own unique rules. There are a vast number of arenas that can be played over local wireless or Nintendo Wi-Fi Connection. When using friend codes, voice chat before and after matches is enabled.</desc>
+		<image>./mixart/Metroid Prime - Hunters (USA).png</image>
+		<video>./snap/Metroid Prime - Hunters (USA).mp4</video>
+		<marquee>./wheel/Metroid Prime - Hunters (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20060505T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E4D94AD05DD5490E73AE9CB0B21F0D6B</cheevosHash>
+	</game>
+	<game>
+		<path>./Metroid Prime Pinball (USA).zip</path>
+		<name>Metroid Prime Pinball</name>
+		<desc>In this pinball game based on Metroid Prime, Samus gets knocked and rolled around the table in Morph Ball form; the table contains Metroids, which can latch onto her and suck away health. Tables include the surface of Tallon IV, the Space Station, the Phazon Mines, and more can be unlocked by searching for artifacts and collecting bounties, which are found by destroying Space Pirates and other dangerous creatures.
+
+Metroid Prime Pinball is a pinball game with a Metroid theme. Players can collect power-ups such as missiles and super bombs, which can be helpful when defeating bosses. There are also missions to be completed within a time limit; these missions can involve defeating unique enemies that appear on the table or completing tasks such as wall jumping. Completing missions earns either artifacts or special tokens.
+
+The game also features a single-card multiplayer mode. In this mode, up to eight players can play. The game is a race to see who can reach a certain score first. Players lose points if they lose their ball. It is also possible to dump enemies onto opponents' tables to cause trouble for them.</desc>
+		<image>./mixart/Metroid Prime Pinball (USA).png</image>
+		<video>./snap/Metroid Prime Pinball (USA).mp4</video>
+		<marquee>./wheel/Metroid Prime Pinball (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20070622T000000</releasedate>
+		<developer>Fuse Games</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5BE0283662014ADDEB952709C043F5C6</cheevosHash>
 	</game>
 </gameList>

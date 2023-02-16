@@ -1943,29 +1943,6 @@ The soundtrack features "Born to Be Wild," "Bad to the Bone," "The Peter Gunn Th
 		<cheevosHash>0DD6D73652A885C9B90646602B53AC6C</cheevosHash>
 		<cheevosId>237</cheevosId>
 	</game>
-	<game>
-		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
-		<name>Super Metroid</name>
-		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
-
-Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
-
-There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
-
-There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
-		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
-		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
-		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19940418T000000</releasedate>
-		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
-		<publisher>Nintendo</publisher>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>82094CA2DB9D6E78C91C88D31D7C0D06</cheevosHash>
-		<cheevosId>236</cheevosId>
-	</game>
 	<game id="172167" source="ScreenScraper.fr">
 		<path>./Bram_Stoker's_Dracula_(USA)_(MSU1).sfc</path>
 		<name>Bram Stoker's Dracula</name>
@@ -2018,5 +1995,28 @@ There are 4 cups in all to race for, Mushroom Cup, Flower Cup, Star Cup and Spec
 		<region>us</region>
 		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
 		<cheevosId>300</cheevosId>
+	</game>
+	<game>
+		<path>./Super_Metroid_(Japan,_USA)_(MSU1).sfc</path>
+		<name>Super Metroid</name>
+		<desc>Super Metroid is a follow-up to Metroid II, and once again features bounty hunter Samus Aran. She heads to planet Zebes in order to hunt down the leaders of the Space Pirates, who kidnapped an unique Metroid larva. 
+
+Super Metroid is a platform game, which, like the previous Metroid games, is not divided into separate levels; the planet Zebes is an open world which Samus traverses back and forth. This world is divided into rooms separated with doors which must be shot to be opened. Shooting is also used to open up secret passages, some of which contain nifty bonuses, but finding most of them is required to proceed in the game. 
+
+There are many items to find on the way, and each new item usually makes heretofore inaccessible areas available to Samus. The items include both weaponry (such as missiles, super missiles, or upgrades to Samus's standard laser gun), energy tanks that increase Samus' max health, and other gadgets (like a grappling hook that allows Samus to stick to the ceiling). 
+
+There are various enemies - alien fauna - lurking around planet Zebes. The enemies all respawn after re-entering a room, though Samus' increasing capabilities mean that they become easier to defeat as the player makes progress. After killing them, the enemies typically leave behind some health or ammo.</desc>
+		<image>./mixart/Super_Metroid_(Japan,_USA)_(MSU1).png</image>
+		<video>./snap/Super_Metroid_(Japan,_USA)_(MSU1).mp4</video>
+		<marquee>./wheel/Super_Metroid_(Japan,_USA)_(MSU1).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19940418T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.|Nintendo R&amp;D1</developer>
+		<publisher>Nintendo</publisher>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>82094CA2DB9D6E78C91C88D31D7C0D06</cheevosHash>
+		<cheevosId>236</cheevosId>
 	</game>
 </gameList>

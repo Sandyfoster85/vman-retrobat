@@ -17372,40 +17372,6 @@ The Cube is a 3D object in the center of the screen and the animal parts fall to
 		<region>us</region>
 		<cheevosHash>E0ADFF6EBE33CD13B57A7041F14599D8</cheevosHash>
 	</game>
-	<game>
-		<path>./Metroid - Zero Mission (USA).7z</path>
-		<name>Metroid : Zero Mission</name>
-		<desc>She's battled baddies on nearly every Nintendo system, and now, Samus Aran returns to her roots. Metroid: Zero Mission relives the story that started it all--revealing for the first time full details of her meeting with the Metroids. The plotline will be familiar to longtime fans of the Metroid series, but the challenges are new, the power-ups are plentiful, and the graphics and sound are supercharged. Plus, if you thought that the original Metroid had a surprise ending, wait until you get past the Mother Brain in Metroid: Zero Mission. A new twist provides a deeper adventure than ever before.</desc>
-		<image>./mixart/Metroid - Zero Mission (USA).png</image>
-		<video>./snap/Metroid - Zero Mission (USA).mp4</video>
-		<marquee>./wheel/Metroid - Zero Mission (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20040209T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EBBCE58109988B6DA61EBB06C7A432D5</cheevosHash>
-		<cheevosId>534</cheevosId>
-	</game>
-	<game>
-		<path>./Metroid Fusion (USA, Australia).7z</path>
-		<name>Metroid Fusion</name>
-		<desc>While lending mission support on planet SR388, interstellar bounty hunter Samus Aran is attacked by an X parasite, an organism with the ability to mimic the abilities of any creature it infects. Near death, Samus is saved by a vaccine made from the DNA of the last Metroid -- the X parasite's only natural predator. When the X spread to a research station in orbit around SR388, a weakened Samus is forced to exterminate them all ... or die trying.</desc>
-		<image>./mixart/Metroid Fusion (USA, Australia).png</image>
-		<video>./snap/Metroid Fusion (USA, Australia).mp4</video>
-		<marquee>./wheel/Metroid Fusion (USA, Australia).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20021117T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AF5040FC0F579800151EE2A683E2E5B5</cheevosHash>
-		<cheevosId>785</cheevosId>
-	</game>
 	<game id="83557" source="ScreenScraper.fr">
 		<path>./Elf - The Movie (USA) (En,Fr,De,Es,It).7z</path>
 		<name>Elf - The Movie</name>
@@ -17990,5 +17956,39 @@ In addition to the old Cyber Elf system, this game also contains a new "chip" sy
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>73D90562373B2B0882354986AABDD61F</cheevosHash>
+	</game>
+	<game>
+		<path>./Metroid - Zero Mission (USA).7z</path>
+		<name>Metroid : Zero Mission</name>
+		<desc>She's battled baddies on nearly every Nintendo system, and now, Samus Aran returns to her roots. Metroid: Zero Mission relives the story that started it all--revealing for the first time full details of her meeting with the Metroids. The plotline will be familiar to longtime fans of the Metroid series, but the challenges are new, the power-ups are plentiful, and the graphics and sound are supercharged. Plus, if you thought that the original Metroid had a surprise ending, wait until you get past the Mother Brain in Metroid: Zero Mission. A new twist provides a deeper adventure than ever before.</desc>
+		<image>./mixart/Metroid - Zero Mission (USA).png</image>
+		<video>./snap/Metroid - Zero Mission (USA).mp4</video>
+		<marquee>./wheel/Metroid - Zero Mission (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20040209T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EBBCE58109988B6DA61EBB06C7A432D5</cheevosHash>
+		<cheevosId>534</cheevosId>
+	</game>
+	<game>
+		<path>./Metroid Fusion (USA, Australia).7z</path>
+		<name>Metroid Fusion</name>
+		<desc>While lending mission support on planet SR388, interstellar bounty hunter Samus Aran is attacked by an X parasite, an organism with the ability to mimic the abilities of any creature it infects. Near death, Samus is saved by a vaccine made from the DNA of the last Metroid -- the X parasite's only natural predator. When the X spread to a research station in orbit around SR388, a weakened Samus is forced to exterminate them all ... or die trying.</desc>
+		<image>./mixart/Metroid Fusion (USA, Australia).png</image>
+		<video>./snap/Metroid Fusion (USA, Australia).mp4</video>
+		<marquee>./wheel/Metroid Fusion (USA, Australia).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20021117T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AF5040FC0F579800151EE2A683E2E5B5</cheevosHash>
+		<cheevosId>785</cheevosId>
 	</game>
 </gameList>

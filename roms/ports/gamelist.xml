@@ -504,22 +504,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./AM2R.lnk</path>
-		<name>'H'AM2R Another Metroid 2 Remake</name>
-		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
-		<image>./mixart/AM2R.png</image>
-		<video>./snap/AM2R.mp4</video>
-		<marquee>./wheel/AM2R.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20160825T000000</releasedate>
-		<developer>DoctorM64</developer>
-		<publisher>DoctorM64</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Last StarFighter.lnk</path>
 		<name>'H'The Last StarFighter</name>
 		<desc>This is a fan-made game based on the arcade game that was seen in the movie. It's partially 1984 since the voice and sound sample was taken from the game that was used in the movie. it's partially 2006 since the game was recreated with the it's graphics looking so similar to the one seen in the movie. The only difference in the games are the fonts of the text in this recreated game and the graphics either look like flat-shaded or textured polygons. For the 3rd time, I finally beaten Ko-Dan Command Ship. I had to mess with the dip switch settings. It's very similar to what you see in the movie. After watching the movie, it made me feel want to play this game again. This game was ported to the home systems such as Atari 8-bit, Commodore 64, and the NES. But they look nothing like the arcade version. This freeware game is the closest to the arcade version you see in the movie.</desc>
@@ -641,6 +625,22 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>Ship of Harkinian</publisher>
 		<genre>Adventure</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./AM2R.lnk</path>
+		<name>'H'AM2R Another Metroid 2 Remake</name>
+		<desc>Fanmade AM2R is an action-adventure game developed by Argentinian programmer Milton Guasti and released on August 6, 2016, Metroid's 30th anniversary. It was originally released for Windows. It is an unofficial remake of the 1991 Game Boy game Metroid II: Return of Samus in the style of Metroid: Zero Mission.</desc>
+		<image>./mixart/AM2R.png</image>
+		<video>./snap/AM2R.mp4</video>
+		<marquee>./wheel/AM2R.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20160825T000000</releasedate>
+		<developer>DoctorM64</developer>
+		<publisher>DoctorM64</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

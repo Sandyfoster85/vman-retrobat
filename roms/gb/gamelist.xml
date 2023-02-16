@@ -7478,23 +7478,6 @@ Each successful hit gives points which decide the winner if no fighter goes down
 		<region>us</region>
 		<cheevosHash>680C8FBB0BC15C850121EF2C929DF177</cheevosHash>
 	</game>
-	<game>
-		<path>./Metroid II - Return of Samus (World).7z</path>
-		<name>Metroid II : Return of Samus</name>
-		<desc>This is the sequel to the very popular Metroid for the NES.  In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites.  After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy.  Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.</desc>
-		<image>./mixart/Metroid II - Return of Samus (World).png</image>
-		<video>./snap/Metroid II - Return of Samus (World).mp4</video>
-		<marquee>./wheel/Metroid II - Return of Samus (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920121T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>9639948AD274FA15281F549E5F9C4D87</cheevosHash>
-		<cheevosId>521</cheevosId>
-	</game>
 	<game id="3240" source="ScreenScraper.fr">
 		<path>./Mickey Mouse - Magic Wand (USA, Europe).7z</path>
 		<name>Mickey Mouse : Magic Wands!</name>
@@ -10857,7 +10840,7 @@ The aim is to defeat each boss.  To get to the boss you must perform a task on t
 		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
 		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
 		<rating>0.8</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>HAL Laboratory, Inc.</developer>
 		<publisher>Nintendo of America Inc.</publisher>
 		<genre>Various-Action-Pinball</genre>
@@ -10867,5 +10850,22 @@ The aim is to defeat each boss.  To get to the boss you must perform a task on t
 		<region>eu</region>
 		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
 		<cheevosId>708</cheevosId>
+	</game>
+	<game>
+		<path>./Metroid II - Return of Samus (World).7z</path>
+		<name>Metroid II : Return of Samus</name>
+		<desc>This is the sequel to the very popular Metroid for the NES.  In Metroid 2, you control Samus Aran in her quest to rid the planet SR388 of the Metroid parasites.  After killing the space pirate Mother Brain in the original Metroid, Samus must take on this adventure to prevent the Metroids from multiplying throughout the galaxy.  Samus soon finds out that the Metroids have mutated, making them much more difficult to defeat.</desc>
+		<image>./mixart/Metroid II - Return of Samus (World).png</image>
+		<video>./snap/Metroid II - Return of Samus (World).mp4</video>
+		<marquee>./wheel/Metroid II - Return of Samus (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920121T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9639948AD274FA15281F549E5F9C4D87</cheevosHash>
+		<cheevosId>521</cheevosId>
 	</game>
 </gameList>

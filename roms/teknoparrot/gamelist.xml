@@ -1173,23 +1173,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FNFSB.parrot</path>
-		<name>Fast and the Furious Super Bikes, The</name>
-		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
-		<image>./mixart/FNFSB.png</image>
-		<video>./snap/FNFSB.mp4</video>
-		<marquee>./wheel/FNFSB.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20060101T000000</releasedate>
-		<developer>Raw Thrills PC Based</developer>
-		<publisher>Raw Thrills PC Based</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./FNFSB2.parrot</path>
 		<name>Fast and the Furios Super Bikes 2, The</name>
 		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
@@ -2117,6 +2100,23 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<releasedate>20061201T000000</releasedate>
 		<developer>Raw Thrills</developer>
 		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSB.parrot</path>
+		<name>Fast and the Furious Super Bikes, The</name>
+		<desc>The Fast and the Furious: Super Bikes is the second game inspired by the hit movie franchise. This time, the action is not confined to the United States. Super Bikes takes players from Sturgis to Monaco, from Chicago to Shanghai, and from Detroit to Switzerland. Players can choose from 12 licensed motorcycles and riders. Like The Fast and the Furious, players can upgrade their bikes with NOS, bigger engines, tires and more!</desc>
+		<image>./mixart/FNFSB.png</image>
+		<video>./snap/FNFSB.mp4</video>
+		<marquee>./wheel/FNFSB.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Raw Thrills PC Based</developer>
+		<publisher>Raw Thrills PC Based</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
