@@ -6,26 +6,6 @@
 		<database>ScreenScraper.fr</database>
 		<web>http://www.screenscraper.fr</web>
 	</provider>
-	<game id="14188" source="ScreenScraper.fr">
-		<path>./worldtourracing.cdi</path>
-		<name>World Tour Racing</name>
-		<desc>World Tour Racing is an F1-style racing game for the Jaguar CD system.  You guide a very fast car on road courses based on countries around the world.  
-
-The graphics in World Tour Racing feature fully 3D environments constructed with texture-mapped polygons.
-
-The various game modes include a championship, single race, and arcade mode.  Championship mode consists of a 16 race season.  Single race is self-explanatory, and arcade mode is similar to championship mode, except that advancement to the next race is based whether or not you finish high enough in each race..</desc>
-		<image>./mixart/worldtourracing.png</image>
-		<video>./snap/worldtourracing.mp4</video>
-		<marquee>./wheel/worldtourracing.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970602T000000</releasedate>
-		<developer>Teque</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<genreid>1537</genreid>
-	</game>
 	<game id="14202" source="ScreenScraper.fr">
 		<path>./baldies.cdi</path>
 		<name>Baldies</name>
@@ -241,5 +221,25 @@ The videos in Vid Grid are mostly from mid 90's hard rock bands. They are:
 		<players>1</players>
 		<lang>en</lang>
 		<genreid>2816</genreid>
+	</game>
+	<game id="14188" source="ScreenScraper.fr">
+		<path>./worldtourracing/worldtourracing.cue</path>
+		<name>World Tour Racing</name>
+		<desc>World Tour Racing is an F1-style racing game for the Jaguar CD system.  You guide a very fast car on road courses based on countries around the world.  
+
+The graphics in World Tour Racing feature fully 3D environments constructed with texture-mapped polygons.
+
+The various game modes include a championship, single race, and arcade mode.  Championship mode consists of a 16 race season.  Single race is self-explanatory, and arcade mode is similar to championship mode, except that advancement to the next race is based whether or not you finish high enough in each race..</desc>
+		<image>./mixart/worldtourracing.png</image>
+		<video>./snap/worldtourracing.mp4</video>
+		<marquee>./wheel/worldtourracing.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970602T000000</releasedate>
+		<developer>Teque</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<genreid>1537</genreid>
 	</game>
 </gameList>
