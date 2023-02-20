@@ -2594,23 +2594,6 @@ Based on characters from comic book author Todd McFarlane, KISS Psycho Circus: T
 		<region>us</region>
 		<cheevosHash>74BA00EE396A1F021D7B729252FF2986</cheevosHash>
 	</game>
-	<game id="13718" source="ScreenScraper.fr">
-		<path>./NBA Hoopz (USA).chd</path>
-		<name>NBA Hoopz</name>
-		<desc>Rather than 5 on 5 action like professional play, this game features 3 on 3 play. Using players from the NBA, each player chooses a guard, forward, and center from the team's NBA roster for the first half and can make substitutions for the second half.    NBA Hoopz is an arcade-style game and not meant to be realistic: players can jump twenty or thirty feet in the air, dunk the ball from 20 feet (6.1 m) away, and do otherwise physically impossible things. Fouls are only called on flagrant pushes, foul shots are rare (and only after a number of fouls are accumulated), and there is no out of bounds. In addition, after a player makes three consecutive shots he becomes "on fire" which allows him to make almost any shot as well as goaltend without penalty.</desc>
-		<image>./mixart/NBA Hoopz (USA).png</image>
-		<video>./snap/NBA Hoopz (USA).mp4</video>
-		<marquee>./wheel/NBA Hoopz (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20010313T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A6A0329213AD1738F70F0DF4579C62AC</cheevosHash>
-	</game>
 	<game id="13721" source="ScreenScraper.fr">
 		<path>./NBA Showtime - NBA on NBC (USA).chd</path>
 		<name>NBA Showtime - NBA on NBC</name>
@@ -5394,24 +5377,6 @@ Sega Rally 2 contains several modes of play. The first mode is the simple arcade
 		<region>us</region>
 		<cheevosHash>E7689CCF1B1B24E5CB37957D75061434</cheevosHash>
 	</game>
-	<game id="13556" source="ScreenScraper.fr">
-		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
-		<name>Virtua Tennis</name>
-		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
-		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
-		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
-		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000908T000000</releasedate>
-		<developer>Hitmaker</developer>
-		<publisher>Sega</publisher>
-		<genre>Sports</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>BC8036E1B3BF3F55A00F4DDBA1FBBA0F</cheevosHash>
-	</game>
 	<game id="13592" source="ScreenScraper.fr">
 		<path>./Illbleed (USA).chd</path>
 		<name>Illbleed</name>
@@ -6100,5 +6065,40 @@ The result of five months of hard work, Teenage Mutant Ninja Turtles: The Cowabu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CC87F79C9816B17B83D201310CF4ACCF</cheevosHash>
+	</game>
+	<game id="13718" source="ScreenScraper.fr">
+		<path>./NBA Hoopz (USA).chd</path>
+		<name>NBA Hoopz</name>
+		<desc>Rather than 5 on 5 action like professional play, this game features 3 on 3 play. Using players from the NBA, each player chooses a guard, forward, and center from the team's NBA roster for the first half and can make substitutions for the second half.    NBA Hoopz is an arcade-style game and not meant to be realistic: players can jump twenty or thirty feet in the air, dunk the ball from 20 feet (6.1 m) away, and do otherwise physically impossible things. Fouls are only called on flagrant pushes, foul shots are rare (and only after a number of fouls are accumulated), and there is no out of bounds. In addition, after a player makes three consecutive shots he becomes "on fire" which allows him to make almost any shot as well as goaltend without penalty.</desc>
+		<image>./mixart/NBA Hoopz (USA).png</image>
+		<video>./snap/NBA Hoopz (USA).mp4</video>
+		<marquee>./wheel/NBA Hoopz (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010313T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A6A0329213AD1738F70F0DF4579C62AC</cheevosHash>
+	</game>
+	<game id="13556" source="ScreenScraper.fr">
+		<path>./Virtua Tennis - Sega Professional Tennis (USA).chd</path>
+		<name>Virtua Tennis</name>
+		<desc>Imagine how a tennis player feels when he enters the arena, the crowd is cheering, the atmosphere electric, the adrenalin rushes...  Well now you can with Virtua tennis, the most lifelike and playable tennis game ever! Play as one of eight licensed players and uncover the secret stars. As well as the traditional arcade mode you can play in the exhibition mode, with 4 player action via doubles play.  Once you've mastered those modes take on the world in the world circuit mode, with unique training games, diffrent challenges and shops to buy clothing, equipment, stages and playing partners.   Virtua Tennis, so realistic you can almost taste the strawberries and cream.</desc>
+		<image>./mixart/Virtua Tennis - Sega Professional Tennis (USA).png</image>
+		<video>./snap/Virtua Tennis - Sega Professional Tennis (USA).mp4</video>
+		<marquee>./wheel/Virtua Tennis - Sega Professional Tennis (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000908T000000</releasedate>
+		<developer>Hitmaker</developer>
+		<publisher>Sega</publisher>
+		<genre>Sports</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>BC8036E1B3BF3F55A00F4DDBA1FBBA0F</cheevosHash>
 	</game>
 </gameList>

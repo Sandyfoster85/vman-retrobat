@@ -12603,23 +12603,6 @@ Play is either player vs computer, as either the home or visiting team, two play
 		<region>us</region>
 		<cheevosHash>88F9EEEAE1928A64A9F7A7EE221B30F7</cheevosHash>
 	</game>
-	<game id="724" source="ScreenScraper.fr">
-		<path>./R.B.I. Baseball '94 (USA, Europe).7z</path>
-		<name>R.B.I. Baseball '94</name>
-		<desc>R.B.I. '94 is an updated version of the series that features a 800 of the top MLBPA players at the time with their 1993 stats applied and features authentic modeled ball parks.  The game doesn't feature the MLB license, however, but does represent them by city name and omitting their nicknames and logos.  The standard modes apply including exhibition that both has a single player and two-player option, a full 162-game season or skip straight to the playoffs or the World Series.  The Home Run Derby is also present along with award-winning sports announcer, Jack Buck, lending his voice talent for play-by-play commentary.  A password feature is present for players to continue their season at their leisure.</desc>
-		<image>./mixart/R.B.I. Baseball '94 (USA, Europe).png</image>
-		<video>./snap/R.B.I. Baseball '94 (USA, Europe).mp4</video>
-		<marquee>./wheel/R.B.I. Baseball '94 (USA, Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940401T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Atari - Tengen</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>AED0ED1189BB7C0379AE1AC9278950B7</cheevosHash>
-	</game>
 	<game id="722" source="ScreenScraper.fr">
 		<path>./R.B.I. Baseball 3 (USA).7z</path>
 		<name>R.B.I. Baseball 3</name>
@@ -16511,5 +16494,22 @@ Assets from the movie are used when possible, such as voice clips from Arnold Sc
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>3C2666BCC3C42A4218E46C5ABA2BCA15</cheevosHash>
+	</game>
+	<game id="724" source="ScreenScraper.fr">
+		<path>./R.B.I. Baseball '94 (USA, Europe).7z</path>
+		<name>R.B.I. Baseball '94</name>
+		<desc>R.B.I. '94 is an updated version of the series that features a 800 of the top MLBPA players at the time with their 1993 stats applied and features authentic modeled ball parks.  The game doesn't feature the MLB license, however, but does represent them by city name and omitting their nicknames and logos.  The standard modes apply including exhibition that both has a single player and two-player option, a full 162-game season or skip straight to the playoffs or the World Series.  The Home Run Derby is also present along with award-winning sports announcer, Jack Buck, lending his voice talent for play-by-play commentary.  A password feature is present for players to continue their season at their leisure.</desc>
+		<image>./mixart/R.B.I. Baseball '94 (USA, Europe).png</image>
+		<video>./snap/R.B.I. Baseball '94 (USA, Europe).mp4</video>
+		<marquee>./wheel/R.B.I. Baseball '94 (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari - Tengen</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>AED0ED1189BB7C0379AE1AC9278950B7</cheevosHash>
 	</game>
 </gameList>

@@ -78,26 +78,6 @@
 		<scrap name="ScreenScraper" date="20221020T224222" />
 		<scrap name="HfsDB" date="20221020T224409" />
 	</game>
-	<game id="44011">
-		<path>./vstrik3.zip</path>
-		<name>Virtua Striker 3</name>
-		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
-		<image>./mixart/vstrik3-image.png</image>
-		<video>./snap/vstrik3-video.mp4</video>
-		<marquee>./wheel/vstrik3-marquee.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20010101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Soccer</genre>
-		<family>Virtua Striker</family>
-		<players>2</players>
-		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224230" />
-	</game>
 	<game>
 		<path>./wldrider.zip</path>
 		<name>Wild Riders</name>
@@ -154,5 +134,25 @@
 		<region>us</region>
 		<cheevosHash>C5ADE9364CDEB444212A9EDF14150B46</cheevosHash>
 		<scrap name="ScreenScraper" date="20221020T224156" />
+	</game>
+	<game id="44011">
+		<path>./vstrik3.zip</path>
+		<name>Virtua Striker 3</name>
+		<desc>Virtua Striker 3 (c) 2001 Sega.  - TECHNICAL -  Sega NAOMI 2 hardware  CPU : 2 x Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : 2 x PowerVR 2 (PVR2DC-CLX2) GPU's Geometry Processor : Custom Videologic T+L chip 'Elan' (100mhz</desc>
+		<image>./mixart/vstrik3-image.png</image>
+		<video>./snap/vstrik3-video.mp4</video>
+		<marquee>./wheel/vstrik3-marquee.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Soccer</genre>
+		<family>Virtua Striker</family>
+		<players>2</players>
+		<md5>079dba6a81c953e22e6fa6bf0cfd1b42</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224230" />
 	</game>
 </gameList>

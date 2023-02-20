@@ -3110,18 +3110,6 @@ Xbox Series X|S</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage 2.m3u</path>
-		<name>Streets of Rage 2</name>
-		<image>./mixart/Streets of Rage 2.png</image>
-		<video>./snap/Streets of Rage 2.mp4</video>
-		<marquee>./wheel/Streets of Rage 2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20070829T000000</releasedate>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Switchball.m3u</path>
 		<name>Switchball</name>
 		<desc>Switchball is a 3D action-puzzle game, made by Swedish developer Atomic Elbow, which was released for Microsoft Windows on June 26, 2007, on Xbox Live Arcade for the Xbox 360 on November 7, 2007 and on PlayStation Network for the PlayStation 3 on September 17, 2009.</desc>
@@ -4619,6 +4607,18 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<genre>Puzzle, Strategy</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage 2.m3u</path>
+		<name>Streets of Rage 2</name>
+		<image>./mixart/Streets of Rage 2.png</image>
+		<video>./snap/Streets of Rage 2.mp4</video>
+		<marquee>./wheel/Streets of Rage 2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070829T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>1</players>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -20241,30 +20241,6 @@ There is also addition to the boss battle scoring: similar to some shooters, pla
 		<region>us</region>
 		<cheevosHash>EF5B98BD9121CD0103C41CF447E392F5</cheevosHash>
 	</game>
-	<game id="40264">
-		<path>./blitz2k.zip</path>
-		<name>Nfl Blitz 2000 Gold Edition</name>
-		<desc>New edition of Midway's "NFL Jam" action/sports game where the emphasis is on bone-crushing action rather than sport simulation.
-Additions this year come in the form of a season mode, a simpler passing system based on preset buttons (gone is the "aiming" mechanism) as well as a limited yet functional play-book editor.
-Also included are new audible calls and voice-overs, smoother animations and new stadiums to play in.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/blitz2k.png</image>
-		<video>./snap/blitz2k.mp4</video>
-		<marquee>./wheel/blitz2k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports / Football</genre>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>4</players>
-		<favorite>true</favorite>
-		<md5>bea3a7335c400e1bf82a5658b435c94d</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8AA9521DE0AA0D185662F1ADBD7EB4D9</cheevosHash>
-	</game>
 	<game>
 		<path>./blkheart.zip</path>
 		<name>Black Heart</name>
@@ -32133,25 +32109,6 @@ The character controlled by the player is that of a real Japanese samurai, Taira
 		<cheevosHash>D83645F44012610793D7DC6A058AC6DA</cheevosHash>
 	</game>
 	<game>
-		<path>./gghost.zip</path>
-		<name>Goalie Ghost</name>
-		<desc>Your goal here is to keep the ball from getting past you and try to get it past your opponent. One to 3 balls will begin in the center of the playfield. When the ball comes towards you, get in front of it to kick it towards your opponent. If it is up high, press your jump button to jump up and hit it.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gghost.png</image>
-		<video>./snap/gghost.mp4</video>
-		<marquee>./wheel/gghost.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Bally Midway</developer>
-		<publisher>Bally Sente</publisher>
-		<genre>Sports-Sports / Soccer</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A5304BC0DB77744DA11953DEF8B1D448</cheevosHash>
-	</game>
-	<game>
 		<path>./gground.zip</path>
 		<name>Gain Ground</name>
 		<desc>Gain Ground is a one or two player shoot-em-up featuring single screen levels, in which players must rescue lost troops before making their way to the exit. Players can choose to play as any one of three different characters; each with their own unique weapons, strengths and weaknesses. Time is a factor in this game and all troops that do not enter the exit will be lost. All rescued troops will join the player's ranks as bonus players. The levels take players through fields, castles, forests, forts etc.</desc>
@@ -35261,25 +35218,6 @@ Game C: The same as "Space Invaders" - all the aliens move as one 'block' in the
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>37EC2E0ED93491AE7FAE4B1B46C61637</cheevosHash>
-	</game>
-	<game>
-		<path>./hiimpact.zip</path>
-		<name>High Impact Football</name>
-		<desc>An American Football game from Williams.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/hiimpact.png</image>
-		<video>./snap/hiimpact.mp4</video>
-		<marquee>./wheel/hiimpact.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Williams, Inc.</developer>
-		<publisher>Williams</publisher>
-		<genre>Sports-Sports / Football</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>16D9644BC23936BB6F78287025E6CB5F</cheevosHash>
 	</game>
 	<game>
 		<path>./hippodrm.zip</path>
@@ -45948,23 +45886,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=31541&a
 		<region>us</region>
 		<cheevosHash>620B4D404EA4D6111C23C9831C2DB236</cheevosHash>
 	</game>
-	<game>
-		<path>./outzone.zip</path>
-		<name>Out Zone</name>
-		<desc>A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.</desc>
-		<image>./mixart/outzone.png</image>
-		<video>./snap/outzone.mp4</video>
-		<marquee>./wheel/outzone.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Toaplan</developer>
-		<publisher>Toaplan</publisher>
-		<genre>Shooter-Shooter / Run and Shoot</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FBD2C46EEE483945592EF763041CBD39</cheevosHash>
-	</game>
 	<game id="79117">
 		<path>./ozmawars.zip</path>
 		<name>Ozma Wars</name>
@@ -51851,25 +51772,6 @@ R Type Leo consists of 6 stages and is the first game in the series to allow 2 p
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8C0B4BA197C5A12A782E9597A0EBF06F</cheevosHash>
-	</game>
-	<game>
-		<path>./rungun2.zip</path>
-		<name>Run And Gun 2</name>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/rungun2.png</image>
-		<video>./snap/rungun2.mp4</video>
-		<marquee>./wheel/rungun2.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Basketball-Sports</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EA90B9DD668689F7083EECE4A8FC8C21</cheevosHash>
 	</game>
 	<game id="42851">
 		<path>./rushhero.zip</path>
@@ -72909,5 +72811,107 @@ A myriad of secrets have been programmed into the game for added dimension. Can 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>8ADAEBB87BD876848C7AA46875244E4D</cheevosHash>
+	</game>
+	<game>
+		<path>./outzone.zip</path>
+		<name>Out Zone</name>
+		<desc>A vertically scrolling run and gun game, in which the player controls a soldier who must fight his way through 7 increasingly difficult levels. At the end of each level a boss must be defeated before the player can progress any further.</desc>
+		<image>./mixart/outzone.png</image>
+		<video>./snap/outzone.mp4</video>
+		<marquee>./wheel/outzone.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Toaplan</developer>
+		<publisher>Toaplan</publisher>
+		<genre>Shooter-Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FBD2C46EEE483945592EF763041CBD39</cheevosHash>
+	</game>
+	<game id="40264">
+		<path>./blitz2k.zip</path>
+		<name>Nfl Blitz 2000 Gold Edition</name>
+		<desc>New edition of Midway's "NFL Jam" action/sports game where the emphasis is on bone-crushing action rather than sport simulation.
+Additions this year come in the form of a season mode, a simpler passing system based on preset buttons (gone is the "aiming" mechanism) as well as a limited yet functional play-book editor.
+Also included are new audible calls and voice-overs, smoother animations and new stadiums to play in.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/blitz2k.png</image>
+		<video>./snap/blitz2k.mp4</video>
+		<marquee>./wheel/blitz2k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports / Football</genre>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>bea3a7335c400e1bf82a5658b435c94d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8AA9521DE0AA0D185662F1ADBD7EB4D9</cheevosHash>
+	</game>
+	<game>
+		<path>./gghost.zip</path>
+		<name>Goalie Ghost</name>
+		<desc>Your goal here is to keep the ball from getting past you and try to get it past your opponent. One to 3 balls will begin in the center of the playfield. When the ball comes towards you, get in front of it to kick it towards your opponent. If it is up high, press your jump button to jump up and hit it.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gghost.png</image>
+		<video>./snap/gghost.mp4</video>
+		<marquee>./wheel/gghost.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Bally Midway</developer>
+		<publisher>Bally Sente</publisher>
+		<genre>Sports-Sports / Soccer</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A5304BC0DB77744DA11953DEF8B1D448</cheevosHash>
+	</game>
+	<game>
+		<path>./hiimpact.zip</path>
+		<name>High Impact Football</name>
+		<desc>An American Football game from Williams.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/hiimpact.png</image>
+		<video>./snap/hiimpact.mp4</video>
+		<marquee>./wheel/hiimpact.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Williams, Inc.</developer>
+		<publisher>Williams</publisher>
+		<genre>Sports-Sports / Football</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>16D9644BC23936BB6F78287025E6CB5F</cheevosHash>
+	</game>
+	<game id="42850">
+		<path>./rungun2.zip</path>
+		<name>Run And Gun 2</name>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/rungun2.png</image>
+		<video>./snap/rungun2.mp4</video>
+		<marquee>./wheel/rungun2.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Basketball-Sports</genre>
+		<family>Run and Gun</family>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>4</players>
+		<favorite>true</favorite>
+		<md5>3fa1357e2c6994ac4c87f89322aefdf7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EA90B9DD668689F7083EECE4A8FC8C21</cheevosHash>
 	</game>
 </gameList>

@@ -6348,21 +6348,6 @@ You race in open-wheel cars and there are different driving views, with detailed
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="188566">
-		<path>./Skynet.pc</path>
-		<name>SkyNET</name>
-		<desc>SkyNET is Bethesda's last game based on the Terminator franchise. Originally developed as an expansion pack to Terminator: Future Shock, SkyNET eventually became its own standalone product. Its major features are an updated version of the Xngine allowing for play in the sharper 640x480 resolution (and the ability to update Future Shock to the same), a new single-player campaign, and a new multiplayer deathmatch component.In the single-player game, you must stop the machines from launching a recovered nuclear weapon. The story takes place over seven missions broken into various sections and ''levels,'' with night progressing into daylight as the game goes on. The locations are also more varied and interactive than those featured in the first game, with levels like the basement of the Cyberdyne building, and a sinking nuclear submarine. Driving and flying levels return from Future Shock, as do the mission briefings, which are now handled entirely in FMV. The game seems to act as a prequel to Future Shock, with the most advanced technology and player weapons from that game not appearing in the course of the single-player missions in SkyNET.The multiplayer game allows for eight players over a LAN and two over IPX. The levels are contained recreations of sections or ideas in the single-player game, like a block of cityscape, a shattered freeway, or an open valley, and many can be played at either dawn or dusk. Vehicles are available in most levels, and unlike in single-player, can be entered and exited freely. You also have the option to play as a Terminator, with reduced movement speed, a little more toughness, and the classic red-tinted vision with information overlays.</desc>
-		<image>./mixart/Skynet.png</image>
-		<video>./snap/Skynet.mp4</video>
-		<marquee>./wheel/Skynet.png</marquee>
-		<rating>0</rating>
-		<releasedate>19700101T010000</releasedate>
-		<developer>Bethesda Softworks</developer>
-		<publisher>Bethesda Softworks</publisher>
-		<genre>Shooter / 1st person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Alone_In_The_Dark.pc</path>
 		<name>Alone in the Dark</name>
@@ -6516,21 +6501,6 @@ There is also a freeform mode where the player is given an unlimited number of p
 		<releasedate>19920918T000000</releasedate>
 		<developer>id Software</developer>
 		<publisher>FormGen, Inc.</publisher>
-		<genre>Shooter / 1st person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Star_Wars_Dark_Forces.pc</path>
-		<name>Star Wars: Dark Forces</name>
-		<desc>Kyle Katarn is a former Imperial officer turned mercenary, now hired by the Rebel Alliance.  After having stolen the Death Star plans from a remote facility, he is tasked with investigating the sudden destruction of a hidden Rebel base. This leads him to face off against Imperial General Rom Mohc and the various iterations of his ''Dark Troopers'' - cybernetic soldiers with the armor and firepower to turn the tide of the war.Dark Forces is a close prequel to the original Star Wars movie trilogy. The game marks LucasArts' first attempt to enter the first-person shooter market. Instead of licensing the Doom engine, like many competitors, LucasArts created its own internal ''Jedi'' engine. The Jedi engine contains advanced features over similar tech, including the ability to look up and down, jump, crouch, and limited support (in the build used for Dark Forces) for rooms (sectors) over rooms. 3D models also make occasional appearances inside the game, as turrets or Kyle's ship dropping him off or picking him up from each mission. Most levels have a fairly complex, often maze-like structure, and include various switches that need to be activated to change the layout of the level. Jumping is integrated into the gameplay, as certain areas can only be accessed in that way. In addition to weapons, Kyle can use shields to protect himself from damage, a head lamp to illuminate dark areas, as well as specific items used to counter environmental hazards. The player character is given a certain amount of ''lives'' per level; he dies permanently once he runs out of all of them. Game progress can be saved only between missions.The game features fourteen substantial levels as Kyle works to disarm the Dark Trooper project. Many levels reference characters or areas from the Star Wars movie trilogy, such as a visit with Jabba the Hutt, a trip to Coruscant, and a battle through the interior of a Star Destroyer.  As opposed to most first-person shooters of the time period, every level has objectives for Kyle to complete, ranging from grabbing a clue and getting out alive, to planting charges around a facility to demolish it.  Cutscenes appear between key missions to update the plot.The Star Wars license gets plenty of use, and the game features Imperial officers, stormtroopers, and a collection of aliens seen in the films as enemies. Blaster rifles and thermal detonators are used as weapons, along with other firearms inspired by the tech of the films. Dark Forces also uses the iMuse engine to dynamically change the music during action scenes, with much of the music based off, or directly replicating, John Williams' original film score. The game is entirely a single-player campaign, and no multiplayer is included or supported.</desc>
-		<image>./mixart/Star_Wars_Dark_Forces.png</image>
-		<video>./snap/Star Wars Dark Forces.mp4</video>
-		<marquee>./wheel/Star_Wars_Dark_Forces.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>LucasArts</developer>
-		<publisher>LucasArts</publisher>
 		<genre>Shooter / 1st person</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
@@ -7104,6 +7074,36 @@ Each table has up to four flippers, giving the player the possibility to control
 		<releasedate>19700101T010000</releasedate>
 		<developer>Digital Extremes</developer>
 		<publisher>Epic Games</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="188566">
+		<path>./Skynet.pc</path>
+		<name>SkyNET</name>
+		<desc>SkyNET is Bethesda's last game based on the Terminator franchise. Originally developed as an expansion pack to Terminator: Future Shock, SkyNET eventually became its own standalone product. Its major features are an updated version of the Xngine allowing for play in the sharper 640x480 resolution (and the ability to update Future Shock to the same), a new single-player campaign, and a new multiplayer deathmatch component.In the single-player game, you must stop the machines from launching a recovered nuclear weapon. The story takes place over seven missions broken into various sections and ''levels,'' with night progressing into daylight as the game goes on. The locations are also more varied and interactive than those featured in the first game, with levels like the basement of the Cyberdyne building, and a sinking nuclear submarine. Driving and flying levels return from Future Shock, as do the mission briefings, which are now handled entirely in FMV. The game seems to act as a prequel to Future Shock, with the most advanced technology and player weapons from that game not appearing in the course of the single-player missions in SkyNET.The multiplayer game allows for eight players over a LAN and two over IPX. The levels are contained recreations of sections or ideas in the single-player game, like a block of cityscape, a shattered freeway, or an open valley, and many can be played at either dawn or dusk. Vehicles are available in most levels, and unlike in single-player, can be entered and exited freely. You also have the option to play as a Terminator, with reduced movement speed, a little more toughness, and the classic red-tinted vision with information overlays.</desc>
+		<image>./mixart/Skynet.png</image>
+		<video>./snap/Skynet.mp4</video>
+		<marquee>./wheel/Skynet.png</marquee>
+		<rating>0</rating>
+		<releasedate>19700101T010000</releasedate>
+		<developer>Bethesda Softworks</developer>
+		<publisher>Bethesda Softworks</publisher>
+		<genre>Shooter / 1st person</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star_Wars_Dark_Forces.pc</path>
+		<name>Star Wars: Dark Forces</name>
+		<desc>Kyle Katarn is a former Imperial officer turned mercenary, now hired by the Rebel Alliance.  After having stolen the Death Star plans from a remote facility, he is tasked with investigating the sudden destruction of a hidden Rebel base. This leads him to face off against Imperial General Rom Mohc and the various iterations of his ''Dark Troopers'' - cybernetic soldiers with the armor and firepower to turn the tide of the war.Dark Forces is a close prequel to the original Star Wars movie trilogy. The game marks LucasArts' first attempt to enter the first-person shooter market. Instead of licensing the Doom engine, like many competitors, LucasArts created its own internal ''Jedi'' engine. The Jedi engine contains advanced features over similar tech, including the ability to look up and down, jump, crouch, and limited support (in the build used for Dark Forces) for rooms (sectors) over rooms. 3D models also make occasional appearances inside the game, as turrets or Kyle's ship dropping him off or picking him up from each mission. Most levels have a fairly complex, often maze-like structure, and include various switches that need to be activated to change the layout of the level. Jumping is integrated into the gameplay, as certain areas can only be accessed in that way. In addition to weapons, Kyle can use shields to protect himself from damage, a head lamp to illuminate dark areas, as well as specific items used to counter environmental hazards. The player character is given a certain amount of ''lives'' per level; he dies permanently once he runs out of all of them. Game progress can be saved only between missions.The game features fourteen substantial levels as Kyle works to disarm the Dark Trooper project. Many levels reference characters or areas from the Star Wars movie trilogy, such as a visit with Jabba the Hutt, a trip to Coruscant, and a battle through the interior of a Star Destroyer.  As opposed to most first-person shooters of the time period, every level has objectives for Kyle to complete, ranging from grabbing a clue and getting out alive, to planting charges around a facility to demolish it.  Cutscenes appear between key missions to update the plot.The Star Wars license gets plenty of use, and the game features Imperial officers, stormtroopers, and a collection of aliens seen in the films as enemies. Blaster rifles and thermal detonators are used as weapons, along with other firearms inspired by the tech of the films. Dark Forces also uses the iMuse engine to dynamically change the music during action scenes, with much of the music based off, or directly replicating, John Williams' original film score. The game is entirely a single-player campaign, and no multiplayer is included or supported.</desc>
+		<image>./mixart/Star_Wars_Dark_Forces.png</image>
+		<video>./snap/Star Wars Dark Forces.mp4</video>
+		<marquee>./wheel/Star_Wars_Dark_Forces.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>LucasArts</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Shooter / 1st person</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
