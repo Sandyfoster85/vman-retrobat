@@ -1316,23 +1316,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./StarWars.parrot</path>
-		<name>Star Wars Battle Pod</name>
-		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
-		<image>./mixart/Star Wars - Battle Pod.png</image>
-		<video>./snap/Star Wars - Battle Pod.mp4</video>
-		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Arcade Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./YugiohDT6U.parrot</path>
 		<name>Yugioh 5DS Duel Terminal 6 USA</name>
 		<desc>Card game released in 2012 for the Konami PC arcade platform.</desc>
@@ -2118,6 +2101,23 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<developer>Raw Thrills PC Based</developer>
 		<publisher>Raw Thrills PC Based</publisher>
 		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StarWars.parrot</path>
+		<name>Star Wars Battle Pod</name>
+		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
