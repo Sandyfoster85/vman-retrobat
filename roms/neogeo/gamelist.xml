@@ -1257,23 +1257,6 @@ After the player beats the final boss, the game starts again from the beginning,
 		<cheevosHash>D585DF49CBC106B84E3C6CB4D0EF22B7</cheevosHash>
 	</game>
 	<game>
-		<path>./samsho.zip</path>
-		<name>Samurai Shodown</name>
-		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
-Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
-		<image>./mixart/samsho.png</image>
-		<video>./snap/samsho.mp4</video>
-		<marquee>./wheel/samsho.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Fight-Fight / Versus-Action</genre>
-		<players>2</players>
-		<cheevosHash>71584CE454046D8B5C63CE863E8B6A42</cheevosHash>
-		<cheevosId>13802</cheevosId>
-	</game>
-	<game>
 		<path>./samsho2.zip</path>
 		<name>Samurai Shodown II</name>
 		<desc>One of SNK's legendary fighting game series has made a return! In Samurai Shodown II, you can take on one of the roles of 15 warriors as you fight your way through the land to defeat the evil Mizuki! Slash, kick, and slice your opponents in half...do whatever it takes...live by the sword, and die by its blade.</desc>
@@ -2360,5 +2343,22 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<lang>en</lang>
 		<cheevosHash>AD7690EC619673225F1E0F7F265D5FA8</cheevosHash>
 		<cheevosId>11760</cheevosId>
+	</game>
+	<game>
+		<path>./samsho.zip</path>
+		<name>Samurai Shodown</name>
+		<desc>In early Japan, a man named Shiro Tokisada Amakusa preaches a heretic religion. Little does anyone know that Amakusa is really a servant of the evil Ambrosia, who took over Amakusa's body. Ambrosia wishes to shroud the world in darkness.
+Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor of destroying Amakusa, and fulfilling a mission.</desc>
+		<image>./mixart/samsho.png</image>
+		<video>./snap/samsho.mp4</video>
+		<marquee>./wheel/samsho.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Fight-Fight / Versus-Action</genre>
+		<players>2</players>
+		<cheevosHash>71584CE454046D8B5C63CE863E8B6A42</cheevosHash>
+		<cheevosId>13802</cheevosId>
 	</game>
 </gameList>

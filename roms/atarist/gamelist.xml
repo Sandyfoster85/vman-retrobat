@@ -17577,20 +17577,6 @@ Beware of daybreak! You will die if you don't locate a crypt to protect yourself
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Ninja Mission (1987)(Mastertronics).zip</path>
-		<name>Ninja Mission</name>
-		<image>./mixart/Ninja Mission (1987)(Mastertronics).png</image>
-		<video>./snap/Ninja Mission (1987)(Mastertronics).mp4</video>
-		<marquee>./wheel/Ninja Mission (1987)(Mastertronics).png</marquee>
-		<rating />
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Mastertronic</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ninja Rabbits (1991)(Micro Value)[cr Bad Brew Crew][t].m3u</path>
 		<name>Ninja Rabbits</name>
 		<image>./mixart/Ninja Rabbits (1991)(Micro Value)[cr Bad Brew Crew][t].png</image>
@@ -24289,8 +24275,23 @@ Elite's implementation of this is a five-level side-view action game, in which y
 		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
 		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
 		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
+		<rating />
+		<releasedate />
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja Mission (1987)(Mastertronics).zip</path>
+		<name>Ninja Mission</name>
+		<image>./mixart/Ninja Mission (1987)(Mastertronics).png</image>
+		<video>./snap/Ninja Mission (1987)(Mastertronics).mp4</video>
+		<marquee>./wheel/Ninja Mission (1987)(Mastertronics).png</marquee>
 		<rating></rating>
-		<releasedate></releasedate>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Mastertronic</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -2714,22 +2714,6 @@ Well that, and seek revenge on the town that awoke him by turning them all into 
 		<lang>en,jp</lang>
 		<region>jp</region>
 	</game>
-	<game id="14878">
-		<path>./Tenchu - Return from Darkness (USA, Asia).xiso.iso</path>
-		<name>Tenchu : Return From Darkness</name>
-		<desc>Tenchu: Return of the Darkness is an infiltration game for Xbox. The story takes place in 16th century Japan where violent revolts and a civil war break out. You play as a ninja under the orders of Lord Gohda who charges you with stopping Tenrai. The game includes 11 levels and over 20 ninja weapons and equipment.</desc>
-		<image>./mixart/Tenchu - Return from Darkness (USA, Asia).xiso.png</image>
-		<video>./snap/Tenchu - Return from Darkness (USA, Asia).xiso.mp4</video>
-		<marquee>./wheel/Tenchu - Return from Darkness (USA, Asia).xiso.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20040310T000000</releasedate>
-		<developer>From Software</developer>
-		<publisher>Activision</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="14794">
 		<path>./Thief - Deadly Shadows (USA).xiso.iso</path>
 		<name>Thief: Deadly Shadows</name>
@@ -3906,6 +3890,23 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<developer>Pandemic Studios</developer>
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="14878">
+		<path>./Tenchu - Return from Darkness (USA, Asia).xiso.iso</path>
+		<name>Tenchu : Return From Darkness</name>
+		<desc>Tenchu: Return of the Darkness is an infiltration game for Xbox. The story takes place in 16th century Japan where violent revolts and a civil war break out. You play as a ninja under the orders of Lord Gohda who charges you with stopping Tenrai. The game includes 11 levels and over 20 ninja weapons and equipment.</desc>
+		<image>./mixart/Tenchu - Return from Darkness (USA, Asia).xiso.png</image>
+		<video>./snap/Tenchu - Return from Darkness (USA, Asia).xiso.mp4</video>
+		<marquee>./wheel/Tenchu - Return from Darkness (USA, Asia).xiso.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20040310T000000</releasedate>
+		<developer>From Software</developer>
+		<publisher>Activision</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

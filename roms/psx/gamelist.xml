@@ -12794,23 +12794,6 @@ There is five difficulty settings and adjustable options such as period time tim
 		<region>us</region>
 		<cheevosHash>4EFFA28718BCBB97ED48781411EE395D</cheevosHash>
 	</game>
-	<game>
-		<path>./Ninja - Shadow of Darkness (USA).chd</path>
-		<name>Ninja : Shadow of Darkness</name>
-		<desc>In NINJA: Shadow of Darkness, players assume the role of Kurosawa, a young but powerful ninja. Unlike many ninjas before him, he is able to summon powers of the arcane; magical spells that do great damage to those cast upon. And he'll need it - the world has been cast into utter darkness in which monsters and creatures from the beyond roam.
-
-There are four different worlds broken into 11 distinctive levels - Kurosawa will travel throughout cemeteries, rocky mountain terrain, coastal areas, deep and dark forests, etc. The goal in each is to survive, which is often easier said than done. As alluded to earlier, monsters (such as goblins) are out for your blood - even fellow ninjas who've turned to the dark side will meet you with resistance.</desc>
-		<image>./mixart/Ninja - Shadow of Darkness (USA).png</image>
-		<video>./snap/Ninja - Shadow of Darkness (USA).mp4</video>
-		<marquee>./wheel/Ninja - Shadow of Darkness (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19980930T000000</releasedate>
-		<developer>Core Design</developer>
-		<publisher>Eidos Interactive</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C6C486C82BACC6B09C9F0390D6B572A6</cheevosHash>
-	</game>
 	<game id="19678" source="ScreenScraper.fr">
 		<path>./No Fear Downhill Mountain Bike Racing (USA).chd</path>
 		<name>No Fear Downhill Mountain Bike Racing</name>
@@ -21489,5 +21472,23 @@ This game plays very much like any old platform game on the NES (specifically, i
 		<region>us</region>
 		<cheevosHash>BF7E0E90D8E8D5738C7332BC6AF666DA</cheevosHash>
 		<cheevosId>11240</cheevosId>
+	</game>
+	<game>
+		<path>./Ninja - Shadow of Darkness (USA).chd</path>
+		<name>Ninja : Shadow of Darkness</name>
+		<desc>In NINJA: Shadow of Darkness, players assume the role of Kurosawa, a young but powerful ninja. Unlike many ninjas before him, he is able to summon powers of the arcane; magical spells that do great damage to those cast upon. And he'll need it - the world has been cast into utter darkness in which monsters and creatures from the beyond roam.
+
+There are four different worlds broken into 11 distinctive levels - Kurosawa will travel throughout cemeteries, rocky mountain terrain, coastal areas, deep and dark forests, etc. The goal in each is to survive, which is often easier said than done. As alluded to earlier, monsters (such as goblins) are out for your blood - even fellow ninjas who've turned to the dark side will meet you with resistance.</desc>
+		<image>./mixart/Ninja - Shadow of Darkness (USA).png</image>
+		<video>./snap/Ninja - Shadow of Darkness (USA).mp4</video>
+		<marquee>./wheel/Ninja - Shadow of Darkness (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19980930T000000</releasedate>
+		<developer>Core Design</developer>
+		<publisher>Eidos Interactive</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C6C486C82BACC6B09C9F0390D6B572A6</cheevosHash>
 	</game>
 </gameList>
