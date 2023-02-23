@@ -16208,26 +16208,6 @@ Some of the enemies are also quite different. Some of the lizards, which appear 
 		<cheevosHash>1F2A9F322E770BE0A3CC2AABDF8BC575</cheevosHash>
 		<cheevosId>98</cheevosId>
 	</game>
-	<game>
-		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
-		<name>Shinobi III : Return of the Ninja Master</name>
-		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
-
-In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
-		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
-		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
-		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930822T000000</releasedate>
-		<developer>Megasoft</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
-		<cheevosId>64</cheevosId>
-	</game>
 	<game id="189651" source="ScreenScraper.fr">
 		<path>./#homebrews/L'Abbaye des Morts.zip</path>
 		<name>L'Abbaye des Morts</name>
@@ -16511,5 +16491,25 @@ Assets from the movie are used when possible, such as voice clips from Arnold Sc
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>AED0ED1189BB7C0379AE1AC9278950B7</cheevosHash>
+	</game>
+	<game>
+		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
+		<name>Shinobi III : Return of the Ninja Master</name>
+		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
+
+In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
+		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
+		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
+		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930822T000000</releasedate>
+		<developer>Megasoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
+		<cheevosId>64</cheevosId>
 	</game>
 </gameList>

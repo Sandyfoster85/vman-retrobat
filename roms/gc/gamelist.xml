@@ -8818,22 +8818,6 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<region>us</region>
 	</game>
 	<game>
-		<path>./I-Ninja (USA).rvz</path>
-		<name>I-ninja</name>
-		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
-		<image>./mixart/I-Ninja (USA).png</image>
-		<video>./snap/I-Ninja (USA).mp4</video>
-		<marquee>./wheel/I-Ninja (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20040202T000000</releasedate>
-		<developer>Argonaut</developer>
-		<publisher>Namco</publisher>
-		<genre>Action-Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Bloody Roar - Primal Fury (USA).rvz</path>
 		<name>Bloody Roar : Primal Fury</name>
 		<desc>Primal Fury, called Bloody Roar Extreme in Japan, is a traditional 3D polygonal fighter that boasts a brawling style similar to that of Fighting Vipers. The twist is that each of the game's 16 characters can transform from human to beast shape and take on new fighting abilities. Bloody Roar: Primal Fury comes as an updated port to the PlayStation 2 released Bloody Roar 3, and is differentiated by enhanced, more detailed graphics, more rounded character models and a better framerate, among other additions. Developed by Eighting, the game is rated "T" for Teen by the ESRB.</desc>
@@ -9029,6 +9013,22 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<publisher>Electronic Arts</publisher>
 		<genre>Sports-Simulation</genre>
 		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./I-Ninja (USA).rvz</path>
+		<name>I-ninja</name>
+		<desc>A robot army led by Master O-Dor has destroyed the ninja clan. As the last of your kind you must take on the robot army and defeat Master O-Dor. You play a cartoon ninja with a big head in a level based 3D platform game. Each level is packed with new skills to master, challenges to beat, and grades to earn.</desc>
+		<image>./mixart/I-Ninja (USA).png</image>
+		<video>./snap/I-Ninja (USA).mp4</video>
+		<marquee>./wheel/I-Ninja (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20040202T000000</releasedate>
+		<developer>Argonaut</developer>
+		<publisher>Namco</publisher>
+		<genre>Action-Platform</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>

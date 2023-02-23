@@ -518,22 +518,6 @@
 		<players>1-2</players>
 	</game>
 	<game>
-		<path>./Ninja.pak</path>
-		<name>Ninja</name>
-		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
-		<image>./mixart/Ninja.png</image>
-		<video>./snap/Ninja.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Airgallet Fighters Wing.pak</path>
 		<name>Airgallet Fighters Wing</name>
 		<desc>New enemy declarated   wold war III , japan has been invaded , rest of the world has also been invaded,   two pilots the team airgallet  is not enough ,to combat the threat the  general   the navy battleship morita kaisaku, orders, finding new pilots to save the world, the elect are shin kazama and mike simon team u.n scuadron, mao mao and malcom team aerofighters, together to defeat the invaders ,to restore world peace.</desc>
@@ -4163,6 +4147,22 @@
 		<publisher>OpenBOR</publisher>
 		<genre>2D-Fighting</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Ninja.pak</path>
+		<name>Ninja</name>
+		<desc>A 2D fighting forces with all great characeters from Ninja 80's era!</desc>
+		<image>./mixart/Ninja.png</image>
+		<video>./snap/Ninja.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

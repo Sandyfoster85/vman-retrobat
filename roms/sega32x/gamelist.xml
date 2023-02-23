@@ -434,23 +434,6 @@ The 32X version of Virtua Racing adds a couple of new features. There are now 3 
 		<region>us</region>
 		<cheevosHash>72B1AD0F949F68DA7D0A6339ECD51A3F</cheevosHash>
 	</game>
-	<game id="12687" source="ScreenScraper.fr">
-		<path>./WWF WrestleMania - The Arcade Game (USA).7z</path>
-		<name>WWF WrestleMania : The Arcade Game</name>
-		<desc>WWF Wrestlemania: The Arcade Game merges the personalities and action of the popular WWF TV show characters with a Mortal Kombat-style fighting game. This title features digitized graphics of 8 WWF superstars: Doink, Razor Ramon, Bret "Hit Man" Hart, Shawn Michaels, The Undertaker, Yokozuna, Bam Bam Bigelow, and Lex Luger.
-
-Although it is a wrestling title, this game is structured a lot like a one-on-one fighter. It is very fast-paced, and features crazy special moves. Also, each match is divided into a series of rounds, much like a fighting game. Instead of each round ending in a KO, each round simply ends when you force the other wrestler(s) to fall by reducing their energy meter. Game modes include single player arcade mode, tournament mode, and vs mode for 1-on-1 multiplayer.</desc>
-		<image>./mixart/WWF WrestleMania - The Arcade Game (USA).png</image>
-		<video>./snap/WWF WrestleMania - The Arcade Game (USA).mp4</video>
-		<marquee>./wheel/WWF WrestleMania - The Arcade Game (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Sculptured Software</developer>
-		<publisher>Acclaim Entertainment</publisher>
-		<genre>Fight-Sports</genre>
-		<players>2</players>
-		<cheevosHash>8456CAE9975BA6CB041C4EF2BE54B1A1</cheevosHash>
-	</game>
 	<game>
 		<path>./Virtua Fighter (Japan, USA).7z</path>
 		<name>Virtua Fighter</name>
@@ -648,5 +631,24 @@ This game is played from a side-view with non-scrolling backgrounds. It has stro
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C238B112113B0297B2B9F4F618D56598</cheevosHash>
+	</game>
+	<game id="12687" source="ScreenScraper.fr">
+		<path>./WWF WrestleMania - The Arcade Game (USA).7z</path>
+		<name>WWF WrestleMania : The Arcade Game</name>
+		<desc>WWF Wrestlemania: The Arcade Game merges the personalities and action of the popular WWF TV show characters with a Mortal Kombat-style fighting game. This title features digitized graphics of 8 WWF superstars: Doink, Razor Ramon, Bret "Hit Man" Hart, Shawn Michaels, The Undertaker, Yokozuna, Bam Bam Bigelow, and Lex Luger.
+
+Although it is a wrestling title, this game is structured a lot like a one-on-one fighter. It is very fast-paced, and features crazy special moves. Also, each match is divided into a series of rounds, much like a fighting game. Instead of each round ending in a KO, each round simply ends when you force the other wrestler(s) to fall by reducing their energy meter. Game modes include single player arcade mode, tournament mode, and vs mode for 1-on-1 multiplayer.</desc>
+		<image>./mixart/WWF WrestleMania - The Arcade Game (USA).png</image>
+		<video>./snap/WWF WrestleMania - The Arcade Game (USA).mp4</video>
+		<marquee>./wheel/WWF WrestleMania - The Arcade Game (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Sculptured Software</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Fight-Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8456CAE9975BA6CB041C4EF2BE54B1A1</cheevosHash>
 	</game>
 </gameList>

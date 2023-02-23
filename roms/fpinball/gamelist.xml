@@ -3868,22 +3868,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Superman (Atari 1979) Full HD.fpt</path>
-		<name>Superman (Atari 1979) HD</name>
-		<desc>Flipper Superman (Atari 1979) Full HD</desc>
-		<image>./mixart/Superman (Atari 1979) Full HD.png</image>
-		<video>./snap/Superman (Atari 1979) Full HD.mp4</video>
-		<marquee>./wheel/Superman (Atari 1979) Full HD.png</marquee>
-		<rating>4</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Zombies Ate My Neighbors.fpt</path>
 		<name>Zombies Ate My Neighbors</name>
 		<desc>Flipper Zombies Ate My Neighbors</desc>
@@ -5046,6 +5030,22 @@
 		<video>./snap/Metroid 4.mp4</video>
 		<marquee>./wheel/Metroid 4.png</marquee>
 		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman (Atari 1979) Full HD.fpt</path>
+		<name>Superman (Atari 1979) HD</name>
+		<desc>Flipper Superman (Atari 1979) Full HD</desc>
+		<image>./mixart/Superman (Atari 1979) Full HD.png</image>
+		<video>./snap/Superman (Atari 1979) Full HD.mp4</video>
+		<marquee>./wheel/Superman (Atari 1979) Full HD.png</marquee>
+		<rating>4</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
