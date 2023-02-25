@@ -8950,23 +8950,6 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game>
-		<path>./Auto Modellista (USA).rvz</path>
-		<name>Auto Modellista</name>
-		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
-		<image>./mixart/Auto Modellista (USA).png</image>
-		<video>./snap/Auto Modellista (USA).mp4</video>
-		<marquee>./wheel/Auto Modellista (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030930T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4746" source="ScreenScraper.fr">
 		<path>./Super Smash Bros. Melee (USA) (En,Ja) (v1.02).rvz</path>
 		<name>Super Smash Bros. Melee</name>
@@ -9029,6 +9012,23 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<developer>Argonaut</developer>
 		<publisher>Namco</publisher>
 		<genre>Action-Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Auto Modellista (USA).rvz</path>
+		<name>Auto Modellista</name>
+		<desc>Faithful port of Capcom's cel-shaded PlayStation 2 racer, sans online support. The game features nine tracks in all, eight normal and one hidden, and 69 real-world, licensed vehicles -- presented anime-style thanks to the toon-shading technique. Players can choose from arcade mode, a standard enter and race scenario, garage life, which is the career mode of the game, and VJ and Theater, an arena enabling players to watch, edit and direct race replays of their choice. Cars can be fully customized down to the tires, brakes, suspension, turbine kits, mufflers, transmissions and more with hundreds of parts to choose from. Supports two-player split-screen racing.</desc>
+		<image>./mixart/Auto Modellista (USA).png</image>
+		<video>./snap/Auto Modellista (USA).mp4</video>
+		<marquee>./wheel/Auto Modellista (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030930T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
