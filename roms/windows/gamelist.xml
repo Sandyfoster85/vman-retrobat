@@ -4642,22 +4642,6 @@ Work your way through 30 campaign levels of increasing difficulty using the huge
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Celeste.lnk</path>
-		<name>Celeste</name>
-		<desc>Celeste is presented as a series of challenging platforming levels as the player guides the character up a mountain. The player can move, jump, and dash the character across platforms, but the player can only perform a dash once before touching ground again. The character's hair changes color from red to blue to signify when the dash ability has been depleted. The character can pass through a balloon to replenish her jump mid-air. Collectible strawberries scattered throughout the levels add a score-based competition to the game.</desc>
-		<image>./mixart/Celeste.jpg</image>
-		<video>./snap/Celeste.mp4</video>
-		<marquee>./wheel/Celeste.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20181201T000000</releasedate>
-		<developer>Matt Makes Games</developer>
-		<publisher>Matt Makes Games</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Demoniaca - Everlasting Night.lnk</path>
 		<name>Demoniaca - Everlasting Night</name>
 		<desc>Demoniaca - is a dark, gothic, mature and sexy action RPG inspired by the Castlevania series. Explore, fight, meet new friends and avenge those who brought you unbearable pain and loss. Tyger Tyger, burning bright! In the forests of the night; What immortal hand or eye, Could frame thy fearful symmetry? Satisfying, addictive and rewarding gameplay Explore the dreadful and corrupted Tower of Babel, find all its secrets, challenge its powerful masters and slay hordes of their minions! Transparent, fluent and deep combat Easy to learn but hard to master - each enemy and battlefield is different and hand-crafted! Dress and arm yourself in fashion The generous choice of potions, gear, skills, and moves will allow you to customize your playstyle as you like! Enjoy the view The world and characters of Demoniaca are grim, but also beautiful and sexy - they are made with love and leave no one untouched!</desc>
@@ -9939,6 +9923,22 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
 		<publisher>Rogue Games</publisher>
 		<genre>Shooter, RPG</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Celeste.lnk</path>
+		<name>Celeste</name>
+		<desc>Celeste is presented as a series of challenging platforming levels as the player guides the character up a mountain. The player can move, jump, and dash the character across platforms, but the player can only perform a dash once before touching ground again. The character's hair changes color from red to blue to signify when the dash ability has been depleted. The character can pass through a balloon to replenish her jump mid-air. Collectible strawberries scattered throughout the levels add a score-based competition to the game.</desc>
+		<image>./mixart/Celeste.jpg</image>
+		<video>./snap/Celeste.mp4</video>
+		<marquee>./wheel/Celeste.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20181201T000000</releasedate>
+		<developer>Matt Makes Games</developer>
+		<publisher>Matt Makes Games</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
