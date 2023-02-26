@@ -5201,25 +5201,6 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<cheevosHash>B8C98E55712842E6DC07C1A5E9EBC612</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/007 - GoldenEye with Mario.z64</path>
-		<name>007 - GoldenEye with Mario</name>
-		<desc>Fanmade 007 Goldeneye featearing Mario as the main character.</desc>
-		<emulator>libretro</emulator>
-		<core>parallel_n64</core>
-		<image>./#homebrews/mixart/007 - GoldenEye with Mario.jpg</image>
-		<video>./#homebrews/snap/007 - GoldenEye with Mario.mp4</video>
-		<marquee>./#homebrews/wheel/007 - GoldenEye with Mario.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>20180305T000000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Fandmade</publisher>
-		<genre>Action, Shooter</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E3E176B5940C01882CFBB108EF7F3F44</cheevosHash>
-	</game>
-	<game>
 		<path>./#homebrews/Mario Kart 64 - Overkart (U) [!].z64</path>
 		<name>Mario Kart 64 - Overkart</name>
 		<desc>Fanmade Mario Kart 64 with special mods in Overkart mode.</desc>
@@ -5363,5 +5344,24 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<region>us</region>
 		<cheevosHash>1822EF9F6DA0DDF2B3CCC71F33D4A653</cheevosHash>
 		<cheevosId>10648</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/007 - GoldenEye with Mario.z64</path>
+		<name>007 - GoldenEye with Mario</name>
+		<desc>Fanmade 007 Goldeneye featearing Mario as the main character.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./#homebrews/mixart/007 - GoldenEye with Mario.jpg</image>
+		<video>./#homebrews/snap/007 - GoldenEye with Mario.mp4</video>
+		<marquee>./#homebrews/wheel/007 - GoldenEye with Mario.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>20180305T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Fandmade</publisher>
+		<genre>Action, Shooter</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E3E176B5940C01882CFBB108EF7F3F44</cheevosHash>
 	</game>
 </gameList>

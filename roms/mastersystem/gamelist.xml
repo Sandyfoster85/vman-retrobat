@@ -5656,22 +5656,6 @@ Discover new landscapes, charge ahead in motorized vehicules, run through danger
 		<cheevosHash>A884892AAB50FD7921D189E63A2972A9</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Golden Axe Tyris.zip</path>
-		<name>Golden Axe Tyris.zip</name>
-		<desc>Homebrew Golden Axe Tyris.zip</desc>
-		<image>./#homebrews/mixart/Golden Axe Tyris.png</image>
-		<video>./#homebrews/snap/Golden Axe Tyris.mp4</video>
-		<marquee>./#homebrews/wheel/Golden Axe Tyris.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Homebrews</publisher>
-		<genre>Adventure, Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>244AA895891E25077F27F33FC806DFC6</cheevosHash>
-	</game>
-	<game>
 		<path>./#homebrews/Silver Valley.zip</path>
 		<name>Silver Valley.zip</name>
 		<desc>Homebrew Silver Valley.zip</desc>
@@ -5761,5 +5745,21 @@ Before Alex comes face-to-face with Janken, he should rescue his brother, Egle, 
 		<region>eu</region>
 		<cheevosHash>F43E74FFEC58DDF62F0B8667D31F22C0</cheevosHash>
 		<cheevosId>9998</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Golden Axe Tyris.zip</path>
+		<name>Golden Axe Tyris.zip</name>
+		<desc>Homebrew Golden Axe Tyris.zip</desc>
+		<image>./#homebrews/mixart/Golden Axe Tyris.png</image>
+		<video>./#homebrews/snap/Golden Axe Tyris.mp4</video>
+		<marquee>./#homebrews/wheel/Golden Axe Tyris.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Homebrews</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>244AA895891E25077F27F33FC806DFC6</cheevosHash>
 	</game>
 </gameList>
