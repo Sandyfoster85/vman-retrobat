@@ -41313,23 +41313,6 @@ The Master did not want to miss this opportunity to make peace and went alone. U
 		<cheevosHash>5695D715317703C490686296F9FE0644</cheevosHash>
 	</game>
 	<game>
-		<path>./matmania.zip</path>
-		<name>Mat Mania</name>
-		<desc>Mat Mania - The Prowrestling Network also known as "Exciting Hour - The Prowrestling Network"</desc>
-		<image>./mixart/matmania.png</image>
-		<video>./snap/matmania.mp4</video>
-		<marquee>./wheel/matmania.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Technos Japan (Taito America license)</developer>
-		<publisher>Technos Japan (Taito America license)</publisher>
-		<genre>Sports / Wrestling-Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0A5D972E65CFA114EECDEAD24A8B0644</cheevosHash>
-	</game>
-	<game>
 		<path>./matrim.zip</path>
 		<name>Matrimelee</name>
 		<desc>The king of certain country wants to find a worthy successor for the throne and the ideal husband for his little daughter (or a beautiful and strong woman for his older son). So he holds a fighting tournament where the prize is the hand of the princess and the throne succession.</desc>
@@ -68592,26 +68575,6 @@ Each player character has a different weapon or power that can be used throughou
 		<region>us</region>
 		<cheevosHash>AD96296850061297DCF94EFFB7FB4BE5</cheevosHash>
 	</game>
-	<game>
-		<path>./wwfwfest.zip</path>
-		<name>WWF WrestleFest</name>
-		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/wwfwfest.png</image>
-		<video>./snap/wwfwfest.mp4</video>
-		<marquee>./wheel/wwfwfest.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Technos</developer>
-		<publisher>Tecmo</publisher>
-		<genre>Sports-Sports / Wrestling</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B910C45A9CDE7EF9F3FA77B6E53227A1</cheevosHash>
-	</game>
 	<game id="39975">
 		<path>./aliencr.zip</path>
 		<name>Alien Crush</name>
@@ -71600,24 +71563,6 @@ Players maneuver their way through hairpin curves, jumps, bridges, puddles, and 
 		<cheevosHash>E07E71E9D01B6AEB7622741B93A5B1FD</cheevosHash>
 	</game>
 	<game>
-		<path>./wwfmania.zip</path>
-		<name>WWF: Wrestlemania</name>
-		<desc>8 selectable wrestlers fights in mayhem with punishing head-to-head and team match-ups and gruelling WWF and Intercontinental title bouts. Features in-ring commentary by Vince McMahon and Jerry 'The King' Lawler.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/wwfmania.png</image>
-		<video>./snap/wwfmania.mp4</video>
-		<marquee>./wheel/wwfmania.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19950101T000000</releasedate>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Wrestling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9D9B7D8599CA71F7C670D56C3D8937DA</cheevosHash>
-	</game>
-	<game>
 		<path>./wwfsstar.zip</path>
 		<name>WWF Superstars</name>
 		<desc>A tag-team wrestling game with 6 WWF superstars to choose from.</desc>
@@ -72913,5 +72858,62 @@ Like the "Gauntlet" games on which Xybots is based; the game is endless and play
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EE1DB907BD67128E06EC7E21B4581B3C</cheevosHash>
+	</game>
+	<game>
+		<path>./matmania.zip</path>
+		<name>Mat Mania</name>
+		<desc>Mat Mania - The Prowrestling Network also known as "Exciting Hour - The Prowrestling Network"</desc>
+		<image>./mixart/matmania.png</image>
+		<video>./snap/matmania.mp4</video>
+		<marquee>./wheel/matmania.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Technos Japan (Taito America license)</developer>
+		<publisher>Technos Japan (Taito America license)</publisher>
+		<genre>Sports / Wrestling-Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0A5D972E65CFA114EECDEAD24A8B0644</cheevosHash>
+	</game>
+	<game>
+		<path>./wwfmania.zip</path>
+		<name>WWF: Wrestlemania</name>
+		<desc>8 selectable wrestlers fights in mayhem with punishing head-to-head and team match-ups and gruelling WWF and Intercontinental title bouts. Features in-ring commentary by Vince McMahon and Jerry 'The King' Lawler.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/wwfmania.png</image>
+		<video>./snap/wwfmania.mp4</video>
+		<marquee>./wheel/wwfmania.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19950101T000000</releasedate>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Wrestling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9D9B7D8599CA71F7C670D56C3D8937DA</cheevosHash>
+	</game>
+	<game>
+		<path>./wwfwfest.zip</path>
+		<name>WWF WrestleFest</name>
+		<desc>10 selectable wrestlers fight in a tag team tournament or take part in the Royal Rumble.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/wwfwfest.png</image>
+		<video>./snap/wwfwfest.mp4</video>
+		<marquee>./wheel/wwfwfest.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Technos</developer>
+		<publisher>Tecmo</publisher>
+		<genre>Sports-Sports / Wrestling</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B910C45A9CDE7EF9F3FA77B6E53227A1</cheevosHash>
 	</game>
 </gameList>

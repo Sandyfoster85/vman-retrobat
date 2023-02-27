@@ -25260,24 +25260,6 @@ The game is played with a top down view of the hockey rink, with the screen scro
 		<region>us</region>
 		<cheevosHash>27FA888402933D69E418BAE268A9FF68</cheevosHash>
 	</game>
-	<game>
-		<path>./Pro Wrestling (USA).zip</path>
-		<name>Pro Wrestling</name>
-		<desc>Pro Wrestling is an action wrestling game for one or two players. By using different controller combinations you can perform a wide variety of moves to try and beat your opponent in a 5 minute match. In the one player version, you need to fight your way to first place (but the game will be over if you fall below 6th place). There are seven different wrestlers to fight before you can be declared the Video Wrestling Association champion!</desc>
-		<image>./mixart/Pro Wrestling (USA).png</image>
-		<video>./snap/Pro Wrestling (USA).mp4</video>
-		<marquee>./wheel/Pro Wrestling (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19870301T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1696622370DC54399E55C85EF8605241</cheevosHash>
-		<cheevosId>1493</cheevosId>
-	</game>
 	<game id="189425" source="ScreenScraper.fr">
 		<path>./Probotector (Europe) (Unl).zip</path>
 		<name>Probotector</name>
@@ -30862,5 +30844,24 @@ Due to Mr. Dream being a simple head-swap and recolor of Mike Tyson, Mr. Dream f
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>27B4479DF4228D48986698FFB94E9F6B</cheevosHash>
+	</game>
+	<game>
+		<path>./Pro Wrestling (USA).zip</path>
+		<name>Pro Wrestling</name>
+		<desc>Pro Wrestling is an action wrestling game for one or two players. By using different controller combinations you can perform a wide variety of moves to try and beat your opponent in a 5 minute match. In the one player version, you need to fight your way to first place (but the game will be over if you fall below 6th place). There are seven different wrestlers to fight before you can be declared the Video Wrestling Association champion!</desc>
+		<image>./mixart/Pro Wrestling (USA).png</image>
+		<video>./snap/Pro Wrestling (USA).mp4</video>
+		<marquee>./wheel/Pro Wrestling (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19870301T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1696622370DC54399E55C85EF8605241</cheevosHash>
+		<cheevosId>1493</cheevosId>
 	</game>
 </gameList>

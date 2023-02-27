@@ -7719,22 +7719,6 @@ This will be the first time on a Game Boy System that 4 players can play multipl
 		<region>us</region>
 		<genreid>262</genreid>
 	</game>
-	<game id="5305" source="ScreenScraper.fr">
-		<path>./Ultimate Muscle - Legends vs. New Generation (USA).rvz</path>
-		<name>Ultimate Muscle : Legends vs New Generation</name>
-		<desc>As evil villains return to take over the world, a battle ensues between old and new superheroes. The wise trainer of both generations, Meat, has decided to pit the two generations against each other to decide which generation is the strongest of all time. In this epic battle, you can play as 20 different characters, each with different wrestling skills and signature finishing moves. Customize your character and play in Story mode or Versus and Tournament mode against three of your friends.</desc>
-		<image>./mixart/Ultimate Muscle - Legends vs. New Generation (USA).png</image>
-		<video>./snap/Ultimate Muscle - Legends vs. New Generation (USA).mp4</video>
-		<marquee>./wheel/Ultimate Muscle - Legends vs. New Generation (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20030603T000000</releasedate>
-		<developer>AKI Corporation</developer>
-		<publisher>AKI Corporation</publisher>
-		<genre>Fight</genre>
-		<players>2-4</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4881" source="ScreenScraper.fr">
 		<path>./Ultimate Spider-Man (USA).rvz</path>
 		<name>Ultimate Spider-man</name>
@@ -9029,6 +9013,23 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<publisher>Capcom</publisher>
 		<genre>Race, Driving</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5305" source="ScreenScraper.fr">
+		<path>./Ultimate Muscle - Legends vs. New Generation (USA).rvz</path>
+		<name>Ultimate Muscle : Legends vs New Generation</name>
+		<desc>As evil villains return to take over the world, a battle ensues between old and new superheroes. The wise trainer of both generations, Meat, has decided to pit the two generations against each other to decide which generation is the strongest of all time. In this epic battle, you can play as 20 different characters, each with different wrestling skills and signature finishing moves. Customize your character and play in Story mode or Versus and Tournament mode against three of your friends.</desc>
+		<image>./mixart/Ultimate Muscle - Legends vs. New Generation (USA).png</image>
+		<video>./snap/Ultimate Muscle - Legends vs. New Generation (USA).mp4</video>
+		<marquee>./wheel/Ultimate Muscle - Legends vs. New Generation (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20030603T000000</releasedate>
+		<developer>AKI Corporation</developer>
+		<publisher>AKI Corporation</publisher>
+		<genre>Fight</genre>
+		<players>2-4</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
