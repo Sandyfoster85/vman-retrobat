@@ -109,7 +109,7 @@ $collection_custom0.ParentNode.RemoveChild($collection_custom0)
 $collection_custom0 = $es_settings.CreateElement("string")
 $collection_custom = $es_settings.config.AppendChild($collection_custom0)
 $collection_custom.SetAttribute("name","CollectionSystemsCustom")
-$collection_custom.SetAttribute("value","Virtualman-Xmas-Special,baseball,basketball,batman,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,homebrews,kof,lightgun,mario,mariokart,marvel,megaman,metalslug,metroid,mortalkombat,ninja,oldschool,pinball,racing,samuraishodown,shmups,soccer,sonic,sor,sports,starwars,streetfighter,tennis,tmnt,trackball,tron,wrestling,zelda")
+$collection_custom.SetAttribute("value","Virtualman-Xmas-Special,bmx,baseball,basketball,batman,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,homebrews,kof,lightgun,mario,mariokart,marvel,megaman,metalslug,metroid,mortalkombat,ninja,oldschool,pinball,racing,samuraishodown,shmups,skateboarding,snowboarding,soccer,sonic,sor,sports,starwars,streetfighter,tennis,tmnt,trackball,tron,wrestling,zelda")
 
 # 8. 2023-01-22 - Update neogeo FoldViewMode in order to see #homebrews
 $neogeo_folderview0 = $es_settings.SelectSingleNode("//string[@name='neogeo.FolderViewMode']")
