@@ -516,22 +516,6 @@
 		<cheevosHash>E4D4FB5A1C5EA0AFAADB3EC5F424769E</cheevosHash>
 	</game>
 	<game>
-		<path>./BladeForce (Europe).chd</path>
-		<name>Blade Force</name>
-		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
-		<image>./mixart/BladeForce (Europe).png</image>
-		<video>./snap/BladeForce (Europe).mp4</video>
-		<marquee>./wheel/BladeForce (Europe).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Panasonic</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>6B9B1A1C8724A04A80D7F3A58F8A24AF</cheevosHash>
-	</game>
-	<game>
 		<path>./Captain Quazar (USA).chd</path>
 		<name>Captain Quazar</name>
 		<desc>The idea behind Captain Quazar is simple, from a 3/4 overhead view control the Captain, kill the bad guys and save the day. Everything in this huge galaxy can be blown away, but be careful where you lay waste, because you have to manage your resources to survive.</desc>
@@ -1918,5 +1902,21 @@
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>5B2F29B3789D5D7601712FAC6CB88C04</cheevosHash>
+	</game>
+	<game>
+		<path>./BladeForce (Europe).chd</path>
+		<name>Blade Force</name>
+		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
+		<image>./mixart/BladeForce (Europe).png</image>
+		<video>./snap/BladeForce (Europe).mp4</video>
+		<marquee>./wheel/BladeForce (Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6B9B1A1C8724A04A80D7F3A58F8A24AF</cheevosHash>
 	</game>
 </gameList>

@@ -2462,26 +2462,6 @@ The new features for the Fire ProWrestling series debuting in Fire ProWrestling 
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>1537</genreid>
 	</game>
-	<game>
-		<path>./Flipnic - Ultimate Pinball (USA).gz</path>
-		<name>Flipnic : Ultimate Pinball</name>
-		<desc>A pinball game with multiple twists. Flipnic isn't your basic pinball game, it's a psychedelic trip through fantastic land of pinball. The game features multiple tables in which the player must complete a given set of tasks before he can proceed to the next level. Each of the "tables" consists of many smaller playing areas and every one has some gimmick in them. For example, one must first freeze the waterfall and then destroy the ice and climb a mountain behind it. All this using only the paddles and the ball. 
- This latter-day pinball game for PS2 is designed to offer a wide variety of game modes, contemporarily cutting-edge graphics, and surrealistic action. The game's main mode features over 100 missions, in more than 70 game levels, on five differently themed tables -- Biology, Metallurgy, Optics, Geometry, and Theology. "Free Play" and two-player mini-game modes are also available. Developed at Sony Computer Entertainment's Japanese headquarters, Flipnic flips Stateside thanks to Capcom.</desc>
-		<image>./mixart/Flipnic - Ultimate Pinball (USA).png</image>
-		<video>./snap/Flipnic - Ultimate Pinball (USA).mp4</video>
-		<marquee>./wheel/Flipnic - Ultimate Pinball (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20050713T000000</releasedate>
-		<developer>Ubisoft</developer>
-		<publisher>Ubisoft</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-		<genreid>1792</genreid>
-	</game>
 	<game id="21902" source="ScreenScraper.fr">
 		<path>./Forbidden Siren (Europe).gz</path>
 		<name>Forbidden Siren</name>
@@ -8124,5 +8104,25 @@ As a prisoner, Dingo is assaulted by Ken Marinaris, a female Orbital Frame runne
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./Flipnic - Ultimate Pinball (USA).gz</path>
+		<name>Flipnic : Ultimate Pinball</name>
+		<desc>A pinball game with multiple twists. Flipnic isn't your basic pinball game, it's a psychedelic trip through fantastic land of pinball. The game features multiple tables in which the player must complete a given set of tasks before he can proceed to the next level. Each of the "tables" consists of many smaller playing areas and every one has some gimmick in them. For example, one must first freeze the waterfall and then destroy the ice and climb a mountain behind it. All this using only the paddles and the ball. 
+ This latter-day pinball game for PS2 is designed to offer a wide variety of game modes, contemporarily cutting-edge graphics, and surrealistic action. The game's main mode features over 100 missions, in more than 70 game levels, on five differently themed tables -- Biology, Metallurgy, Optics, Geometry, and Theology. "Free Play" and two-player mini-game modes are also available. Developed at Sony Computer Entertainment's Japanese headquarters, Flipnic flips Stateside thanks to Capcom.</desc>
+		<image>./mixart/Flipnic - Ultimate Pinball (USA).png</image>
+		<video>./snap/Flipnic - Ultimate Pinball (USA).mp4</video>
+		<marquee>./wheel/Flipnic - Ultimate Pinball (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20050713T000000</releasedate>
+		<developer>Ubisoft</developer>
+		<publisher>Ubisoft</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>1792</genreid>
 	</game>
 </gameList>

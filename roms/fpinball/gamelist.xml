@@ -1076,17 +1076,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Superman 1.03.fpt</path>
-		<name>Superman 1.03</name>
-		<desc>Flipper Superman</desc>
-		<image>./mixart/Superman 1.03.png</image>
-		<video>./snap/Superman 1.03.mp4</video>
-		<marquee>./wheel/Superman 1.03.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Hulk_1_0.fpt</path>
 		<name>Hulk_1_0</name>
 		<desc>Flipper Hulk</desc>
@@ -3219,22 +3208,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Microsoft Pinball.fpt</path>
-		<name>Microsoft Pinball</name>
-		<desc>Flipper Microsoft Pinball</desc>
-		<image>./mixart/Microsoft Pinball.png</image>
-		<video>./snap/Microsoft Pinball.mp4</video>
-		<marquee>./wheel/Microsoft Pinball.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Skeleton Warriors.fpt</path>
 		<name>Skeleton Warriors</name>
 		<desc>Flipper Skeleton Warriors</desc>
@@ -4786,17 +4759,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Knight Rider Phys 2_5.fpt</path>
-		<name>Knight Rider Phys 2_5</name>
-		<desc>Flipper Knight Rider</desc>
-		<image>./mixart/Knight Rider Phys 2_5.png</image>
-		<video>./snap/Knight Rider Phys 2_5.mp4</video>
-		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Legend of Zelda.fpt</path>
 		<name>Legend of Zelda</name>
 		<desc>Flipper Legend of Zelda</desc>
@@ -4818,19 +4780,6 @@
 		<releasedate>19891231T200000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Masters of the Universe (p2.5) (Mastered Edition).fpt</path>
-		<name>Masters of the Universe (p2.5) (Mastered Edition)</name>
-		<desc>Flipper Masters of the Universe (p2.5) (Mastered Edition)</desc>
-		<image>./mixart/Masters of the Universe (p2.5) (Mastered Edition).png</image>
-		<video>./snap/Masters of the Universe (p2.5) (Mastered Edition).mp4</video>
-		<marquee>./wheel/Masters of the Universe (p2.5) (Mastered Edition).png</marquee>
-		<releasedate>20170101T000000</releasedate>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
@@ -5046,6 +4995,57 @@
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Knight Rider Phys 2_5.fpt</path>
+		<name>Knight Rider Phys 2_5</name>
+		<desc>Flipper Knight Rider</desc>
+		<image>./mixart/Knight Rider Phys 2_5.png</image>
+		<video>./snap/Knight Rider Phys 2_5.mp4</video>
+		<marquee>./wheel/Knight Rider Phys 2_5.png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Masters of the Universe (p2.5) (Mastered Edition).fpt</path>
+		<name>Masters of the Universe (p2.5) (Mastered Edition)</name>
+		<desc>Flipper Masters of the Universe (p2.5) (Mastered Edition)</desc>
+		<image>./mixart/Masters of the Universe (p2.5) (Mastered Edition).png</image>
+		<video>./snap/Masters of the Universe (p2.5) (Mastered Edition).mp4</video>
+		<marquee>./wheel/Masters of the Universe (p2.5) (Mastered Edition).png</marquee>
+		<releasedate>20170101T000000</releasedate>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Microsoft Pinball.fpt</path>
+		<name>Microsoft Pinball</name>
+		<desc>Flipper Microsoft Pinball</desc>
+		<image>./mixart/Microsoft Pinball.png</image>
+		<video>./snap/Microsoft Pinball.mp4</video>
+		<marquee>./wheel/Microsoft Pinball.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Superman 1.03.fpt</path>
+		<name>Superman 1.03</name>
+		<desc>Flipper Superman</desc>
+		<image>./mixart/Superman 1.03.png</image>
+		<video>./snap/Superman 1.03.mp4</video>
+		<marquee>./wheel/Superman 1.03.png</marquee>
+		<releasedate>19940101T000000</releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

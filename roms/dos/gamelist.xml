@@ -4212,24 +4212,6 @@ The change of scenario, the predecessor was set in medieval times, means that th
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star_Wars_X_Wing.pc</path>
-		<name>Star Wars: X-Wing</name>
-		<desc>Star Wars: X-Wing is a space simulation video game.
-
-The player's character flies starfighters, including the eponymous X-wing (but also A-Wing and Y-Wing), for the Rebel Alliance as part of a narrative that precedes and parallels the events of Star Wars Episode IV: A New Hope.
-
-Later, an expansion adds the B-wing as a playable vehicle.</desc>
-		<image>./mixart/Star_Wars_X_Wing.png</image>
-		<video>./snap/Star Wars X Wing.mp4</video>
-		<marquee>./wheel/Star_Wars_X_Wing.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Totally Games</developer>
-		<publisher>LucasArts</publisher>
-		<genre>Simulation</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Steel Panthers 2.pc</path>
 		<name>Steel Panthers II</name>
 		<desc>Steel Panthers III is the third in the Steel Panther series, which chronicles the exploits of tanks from a top-down hex-based setting. 
@@ -7105,6 +7087,24 @@ Each table has up to four flippers, giving the player the possibility to control
 		<publisher>LucasArts</publisher>
 		<genre>Shooter / 1st person</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star_Wars_X_Wing.pc</path>
+		<name>Star Wars: X-Wing</name>
+		<desc>Star Wars: X-Wing is a space simulation video game.
+
+The player's character flies starfighters, including the eponymous X-wing (but also A-Wing and Y-Wing), for the Rebel Alliance as part of a narrative that precedes and parallels the events of Star Wars Episode IV: A New Hope.
+
+Later, an expansion adds the B-wing as a playable vehicle.</desc>
+		<image>./mixart/Star_Wars_X_Wing.png</image>
+		<video>./snap/Star Wars X Wing.mp4</video>
+		<marquee>./wheel/Star_Wars_X_Wing.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Totally Games</developer>
+		<publisher>LucasArts</publisher>
+		<genre>Simulation</genre>
 		<lang>en</lang>
 	</game>
 </gameList>

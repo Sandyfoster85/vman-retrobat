@@ -1565,22 +1565,6 @@
 		<cheevosHash>821D95D7AEDF9C8489BD3929881A6926</cheevosHash>
 	</game>
 	<game>
-		<path>./toukon4.zip</path>
-		<name>Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition (Japan, TRF1 Ver.A)</name>
-		<desc>Shin Nihon Pro Wrestling Toukon Retsuden 4 - Arcade Edition (c) 1999 Namco.  - TECHNICAL -  Sega Naomi Hardware  CPU : Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : PowerVR (PVR2DC) Sound Engine : ARM7 Yamaha AICA 45 MHZ  -</desc>
-		<image>./mixart/toukon4.png</image>
-		<video>./snap/toukon4.mp4</video>
-		<marquee>./wheel/toukon4.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Yuke's</developer>
-		<publisher>Capcom</publisher>
-		<genre>Sports-Sports / Wrestling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>40ECEB0ED5E06A700651C1E65CC87A84</cheevosHash>
-	</game>
-	<game>
 		<path>./vathlete.bin</path>
 		<name>Virtua Athlete (GDS-0019)</name>
 		<desc>Virtua Athlete is a sport simulation.</desc>
@@ -1931,5 +1915,21 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>4A51C5A2164CD598AE4432BB4608E4D1</cheevosHash>
+	</game>
+	<game>
+		<path>./toukon4.zip</path>
+		<name>Shin Nihon Pro Wrestling Toukon Retsuden 4 Arcade Edition (Japan, TRF1 Ver.A)</name>
+		<desc>Shin Nihon Pro Wrestling Toukon Retsuden 4 - Arcade Edition (c) 1999 Namco.  - TECHNICAL -  Sega Naomi Hardware  CPU : Hitachi SH-4 32-bit RISC CPU (200 MHz 360 MIPS / 1.4 GFLOPS) Graphic Engine : PowerVR (PVR2DC) Sound Engine : ARM7 Yamaha AICA 45 MHZ  -</desc>
+		<image>./mixart/toukon4.png</image>
+		<video>./snap/toukon4.mp4</video>
+		<marquee>./wheel/toukon4.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Yuke's</developer>
+		<publisher>Capcom</publisher>
+		<genre>Sports-Sports / Wrestling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>40ECEB0ED5E06A700651C1E65CC87A84</cheevosHash>
 	</game>
 </gameList>

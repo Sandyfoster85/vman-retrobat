@@ -16337,25 +16337,6 @@ The game also features a 2-player versus mode.  This mode is a horizontally spli
 		<cheevosHash>9FEEB724052C39982D432A7851C98D3E</cheevosHash>
 		<cheevosId>10</cheevosId>
 	</game>
-	<game>
-		<path>./Contra - Hard Corps (USA, Korea).7z</path>
-		<name>Contra : Hard Corps</name>
-		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
-		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
-		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
-		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940808T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en,kr</lang>
-		<region>kr</region>
-		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
-		<cheevosId>120</cheevosId>
-	</game>
 	<game source="ScreenScraper.fr">
 		<path>./#homebrews/Coffee Crisis.zip</path>
 		<name>Coffee Crisis</name>
@@ -16511,5 +16492,24 @@ In normal Shinobi style, you are presented with side-scrolling playfields which 
 		<region>us</region>
 		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
 		<cheevosId>64</cheevosId>
+	</game>
+	<game>
+		<path>./Contra - Hard Corps (USA, Korea).7z</path>
+		<name>Contra : Hard Corps</name>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
+		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
+		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940808T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,kr</lang>
+		<region>kr</region>
+		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
+		<cheevosId>120</cheevosId>
 	</game>
 </gameList>

@@ -891,22 +891,6 @@ Koihime Enbu is an ground based fighting game. Anyone can enjoy it from a beginn
 		<region>us</region>
 	</game>
 	<game>
-		<path>./MeltyBloodRE2.parrot</path>
-		<name>Melty Blood</name>
-		<desc>Fighting game released in 2011 for the Sega RingEdge 2 arcade platform.</desc>
-		<image>./mixart/MeltyBloodRE2.png</image>
-		<video>./snap/MeltyBloodRE2.mp4</video>
-		<marquee>./wheel/MeltyBloodRE2.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20110101T000000</releasedate>
-		<developer>Sega RingEdge 2</developer>
-		<publisher>Sega RingEdge 2</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./NitroplusBlasterz.parrot</path>
 		<name>Nitro+ Blasterz: Heroines Infinite Duel</name>
 		<desc>The greatest heroines of the Nitroplus visual novels come together in a battle royale! Choose from 12 core characters (plus two DLC characters), bring any two of 20 partners, and build up your Power Gauge to unleash your awe-inspiring Lethal Blaze! 
@@ -989,22 +973,6 @@ You must choose from four pizza couriers each with his or her own particular abi
 		<publisher>Gaelco PC Based (Atari License)</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
-		<path>./RaidenIIINesica.parrot</path>
-		<name>Raiden III for NESiCAxLive</name>
-		<desc>Shoot 'Em Up game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
-		<image>./mixart/RaidenIIINesica.png</image>
-		<video>./snap/RaidenIIINesica.mp4</video>
-		<marquee>./wheel/RaidenIIINesica.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20120101T000000</releasedate>
-		<developer>Taito NESiCAxLive</developer>
-		<publisher>Taito NESiCAxLive</publisher>
-		<genre>Shoot 'Em Up</genre>
-		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -2120,6 +2088,38 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<genre>Arcade Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./MeltyBloodRE2.parrot</path>
+		<name>Melty Blood</name>
+		<desc>Fighting game released in 2011 for the Sega RingEdge 2 arcade platform.</desc>
+		<image>./mixart/MeltyBloodRE2.png</image>
+		<video>./snap/MeltyBloodRE2.mp4</video>
+		<marquee>./wheel/MeltyBloodRE2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>Sega RingEdge 2</developer>
+		<publisher>Sega RingEdge 2</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RaidenIIINesica.parrot</path>
+		<name>Raiden III for NESiCAxLive</name>
+		<desc>Shoot 'Em Up game released in 2012 for the Taito NESiCAxLive arcade platform.</desc>
+		<image>./mixart/RaidenIIINesica.png</image>
+		<video>./snap/RaidenIIINesica.mp4</video>
+		<marquee>./wheel/RaidenIIINesica.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Shoot 'Em Up</genre>
+		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
