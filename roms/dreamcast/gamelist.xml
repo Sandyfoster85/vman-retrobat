@@ -576,22 +576,6 @@ Interplay announced in late 1999 that they were working on a title for the Dream
 		<cheevosHash>687A2D974858B262D13AC7F3AC4D3C75</cheevosHash>
 		<cheevosId>17836</cheevosId>
 	</game>
-	<game>
-		<path>./Capcom Fighting Collection (Hack)[Final v2].cdi</path>
-		<name>Capcom Fighting Collection</name>
-		<desc>Homebrew Compilation content :  - Capcom vs SNK 2 (JP)   - Capcom vs SNK 2: Fan Disk (JP)    - Ikaruga (JP)   - Marvel vs Capcom 2 (US)   - Marvel vs Capcom 2 (JP)   - Super Street Fighter 2 X (NEW English Translation)   - Super Street Fighter 2 X (JP)   - Street Fighter 3: 3rd Strike (US)   - Street Fighter 3: 3rd Strike (JP)   - Super Puzzle Fighter 2 X (NEW English Translation)   - Super Puzzle Fighter 2 X (JP)</desc>
-		<image>./mixart/Capcom Fighting Collection (Hack)[Final v2].png</image>
-		<video>./snap/Capcom Fighting Collection (Hack)[Final v2].mp4</video>
-		<marquee>./wheel/Capcom Fighting Collection (Hack)[Final v2].png</marquee>
-		<rating>0.8</rating>
-		<releasedate />
-		<developer>Homebrew</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Compilation</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="13565" source="ScreenScraper.fr">
 		<path>./Capcom vs. SNK - Millennium Fight 2000 (USA).chd</path>
 		<name>Capcom vs. SNK - Millennium Fight 2000</name>
@@ -6100,5 +6084,21 @@ The result of five months of hard work, Teenage Mutant Ninja Turtles: The Cowabu
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>BC8036E1B3BF3F55A00F4DDBA1FBBA0F</cheevosHash>
+	</game>
+	<game>
+		<path>./Capcom Fighting Collection (Hack)[Final v2].cdi</path>
+		<name>Capcom Fighting Collection</name>
+		<desc>Homebrew Compilation content :  - Capcom vs SNK 2 (JP)   - Capcom vs SNK 2: Fan Disk (JP)    - Ikaruga (JP)   - Marvel vs Capcom 2 (US)   - Marvel vs Capcom 2 (JP)   - Super Street Fighter 2 X (NEW English Translation)   - Super Street Fighter 2 X (JP)   - Street Fighter 3: 3rd Strike (US)   - Street Fighter 3: 3rd Strike (JP)   - Super Puzzle Fighter 2 X (NEW English Translation)   - Super Puzzle Fighter 2 X (JP)</desc>
+		<image>./#homebrews/mixart/Capcom Fighting Collection (Hack)[Final v2].png</image>
+		<video>./#homebrews/snap/Capcom Fighting Collection (Hack)[Final v2].mp4</video>
+		<marquee>./#homebrews/wheel/Capcom Fighting Collection (Hack)[Final v2].png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Compilation</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

@@ -1501,24 +1501,6 @@ This version of the game features nearly 200 levels, a resistance mode, a puzzle
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Super Street Fighter 2 THD.m3u</path>
-		<name>Super Street Fighter II Turbo HD Remix</name>
-		<desc>The Capcom arcade classic receives a whole new look with Super Street Fighter II Turbo HD Remix. Capcom maintains the integrity of the popular game by utilizing the original game code while upgrading the graphics with new artwork and high resolution 1080p images -- all of the art, from character animation to stage backgrounds, will be completely redrawn by Udon Entertainment, the company responsible for the official US Street Fighter series of comics. Super Street Fighter II Turbo HD Remix includes both online and offline competition for one to two players.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia</core>
-		<image>./mixart/Super Street Fighter 2 THD.jpg</image>
-		<video>./snap/Super Street Fighter 2 THD.mp4</video>
-		<marquee>./wheel/Super Street Fighter 2 THD.png</marquee>
-		<rating>0</rating>
-		<releasedate>20081126T000000</releasedate>
-		<developer>Backbone Entertainment</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17222">
 		<path>./1942_Joint_Strike.m3u</path>
 		<name>1942 : Joint Strike</name>
@@ -4255,21 +4237,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./Puzzle Fighter HD.m3u</path>
-		<name>Puzzle Fighter HD</name>
-		<desc>Street Fighter Puzzle Fighter HD</desc>
-		<image>./mixart/Puzzle Fighter HD.png</image>
-		<video>./snap/Puzzle Fighter HD.mp4</video>
-		<marquee>./wheel/Puzzle Fighter HD.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<publisher>Capcom</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17195">
 		<path>./Harm's Way.m3u</path>
 		<name>Harms Way</name>
@@ -4287,25 +4254,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Marvel vs. Capcom Origins.m3u</path>
-		<name>Marvel vs. Capcom Origins</name>
-		<desc>MARVEL VS. CAPCOM ORIGINS offers both the one-on-one gameplay of Marvel Super Heroes with its unique Infinity Gem system and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, MARVEL VS. CAPCOM ORIGINS features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.</desc>
-		<image>./mixart/Marvel vs. Capcom Origins.png</image>
-		<video>./snap/Marvel vs. Capcom Origins.mp4</video>
-		<marquee>./wheel/Marvel vs. Capcom Origins.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20120925T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Combat</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>56a6935d74bde05dc07c8189fbd8de61</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220813T082621" />
-		<scrap name="HfsDB" date="20220813T082625" />
 	</game>
 	<game id="17461">
 		<path>./SEGA Rally Online Arcade.m3u</path>
@@ -4619,6 +4567,58 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<releasedate>20070829T000000</releasedate>
 		<genre>Fighting</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Marvel vs. Capcom Origins.m3u</path>
+		<name>Marvel vs. Capcom Origins</name>
+		<desc>MARVEL VS. CAPCOM ORIGINS offers both the one-on-one gameplay of Marvel Super Heroes with its unique Infinity Gem system and the two-on-two carnage of the original Marvel vs. Capcom: Clash of Super Heroes, featuring a tag system, assists, and the wild Duo Team Attack. Bringing forth a host of features never before seen in these games, MARVEL VS. CAPCOM ORIGINS features GGPO-enhanced online play with 8-player lobbies and spectator mode, HD graphical upgrades, dynamic challenges and replay saving.</desc>
+		<image>./mixart/Marvel vs. Capcom Origins.png</image>
+		<video>./snap/Marvel vs. Capcom Origins.mp4</video>
+		<marquee>./wheel/Marvel vs. Capcom Origins.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20120925T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Combat</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>56a6935d74bde05dc07c8189fbd8de61</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220813T082621" />
+		<scrap name="HfsDB" date="20220813T082625" />
+	</game>
+	<game>
+		<path>./Puzzle Fighter HD.m3u</path>
+		<name>Puzzle Fighter HD</name>
+		<desc>Street Fighter Puzzle Fighter HD</desc>
+		<image>./mixart/Puzzle Fighter HD.png</image>
+		<video>./snap/Puzzle Fighter HD.mp4</video>
+		<marquee>./wheel/Puzzle Fighter HD.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<publisher>Capcom</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Street Fighter 2 THD.m3u</path>
+		<name>Super Street Fighter II Turbo HD Remix</name>
+		<desc>The Capcom arcade classic receives a whole new look with Super Street Fighter II Turbo HD Remix. Capcom maintains the integrity of the popular game by utilizing the original game code while upgrading the graphics with new artwork and high resolution 1080p images -- all of the art, from character animation to stage backgrounds, will be completely redrawn by Udon Entertainment, the company responsible for the official US Street Fighter series of comics. Super Street Fighter II Turbo HD Remix includes both online and offline competition for one to two players.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia</core>
+		<image>./mixart/Super Street Fighter 2 THD.jpg</image>
+		<video>./snap/Super Street Fighter 2 THD.mp4</video>
+		<marquee>./wheel/Super Street Fighter 2 THD.png</marquee>
+		<rating>0</rating>
+		<releasedate>20081126T000000</releasedate>
+		<developer>Backbone Entertainment</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>
