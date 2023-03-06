@@ -9802,21 +9802,6 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Dust and Neon.lnk</path>
-		<name>Dust and Neon</name>
-		<desc>Dust &amp; Neon pits a single cowboy against an army of robots in this fast-paced, roguelite action twin-stick shooter, set in a futuristic Wild West.</desc>
-		<image>./mixart/Dust and Neon.jpg</image>
-		<video>./snap/Dust and Neon.mp4</video>
-		<marquee>./wheel/Dust and Neon.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20230626T000000</releasedate>
-		<developer>Marquardt Studios</developer>
-		<publisher>Rogue Games</publisher>
-		<genre>Shooter, RPG</genre>
-		<players>1</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Celeste.lnk</path>
 		<name>Celeste</name>
 		<desc>Celeste is presented as a series of challenging platforming levels as the player guides the character up a mountain. The player can move, jump, and dash the character across platforms, but the player can only perform a dash once before touching ground again. The character's hair changes color from red to blue to signify when the dash ability has been depleted. The character can pass through a balloon to replenish her jump mid-air. Collectible strawberries scattered throughout the levels add a score-based competition to the game.</desc>
@@ -9954,6 +9939,22 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
 		<developer>ThinkingStars</developer>
 		<publisher>Lightning Games</publisher>
 		<genre>Action, Role-Playing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dust and Neon.lnk</path>
+		<name>Dust and Neon</name>
+		<desc>Dust &amp; Neon pits a single cowboy against an army of robots in this fast-paced, roguelite action twin-stick shooter, set in a futuristic Wild West.</desc>
+		<image>./mixart/Dust and Neon.jpg</image>
+		<video>./snap/Dust and Neon.mp4</video>
+		<marquee>./wheel/Dust and Neon.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20230626T000000</releasedate>
+		<developer>Marquardt Studios</developer>
+		<publisher>Rogue Games</publisher>
+		<genre>Shooter, RPG</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
