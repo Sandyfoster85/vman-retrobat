@@ -4267,23 +4267,6 @@
 		<cheevosHash>A9FE1CC3159D653F9F7B1800E4E84890</cheevosHash>
 	</game>
 	<game>
-		<path>./Street Fighter - The Movie (USA).chd</path>
-		<name>Street Fighter : The Movie</name>
-		<desc>Street Fighter : The Movie est un jeu de combat sur Saturn. Il s'agit de l'adaptation du film Street Fighter avec Jean-Claude Van Damme. Le jeu présente des personnages digitalisés et donne une grande importance aux spécialités des personnages ainsi qu'aux combos qu'ils peuvent réaliser.</desc>
-		<image>./mixart/Street Fighter - The Movie (USA).png</image>
-		<video>./snap/Street Fighter - The Movie (USA).mp4</video>
-		<marquee>./wheel/Street Fighter - The Movie (USA).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19950810T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Acclaim</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>556F2E0C7C6D3542953673BD4FC7A8D9</cheevosHash>
-	</game>
-	<game>
 		<path>./Street Fighter Alpha - Warrior's Dreams (USA).chd</path>
 		<name>Street Fighter Alpha : Warriors' Dreams</name>
 		<desc>Street Fighter Alpha : Warriors' Dreams sur Saturn est un jeu de combat en 2D qui réunit bon nombre de personnages connus de la série. Choisissez parmi une trentaine de combattants et débloquez-en plusieurs autres totalement inédits. Le titre permet d'affronter un ami.</desc>
@@ -5407,5 +5390,24 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0C621E75C0F30A185E0C068564C45035</cheevosHash>
+	</game>
+	<game>
+		<path>./Street Fighter - The Movie (USA).chd</path>
+		<name>Street Fighter : The Movie</name>
+		<desc>Street Fighter : The Movie est un jeu de combat sur Saturn. Il s'agit de l'adaptation du film Street Fighter avec Jean-Claude Van Damme. Le jeu présente des personnages digitalisés et donne une grande importance aux spécialités des personnages ainsi qu'aux combos qu'ils peuvent réaliser.</desc>
+		<emulator>libretro</emulator>
+		<core>yabasanshiro</core>
+		<image>./mixart/Street Fighter - The Movie (USA).png</image>
+		<video>./snap/Street Fighter - The Movie (USA).mp4</video>
+		<marquee>./wheel/Street Fighter - The Movie (USA).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19950810T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Acclaim</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>556F2E0C7C6D3542953673BD4FC7A8D9</cheevosHash>
 	</game>
 </gameList>

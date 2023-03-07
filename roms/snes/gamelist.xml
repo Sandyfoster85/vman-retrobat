@@ -10845,24 +10845,6 @@ Street Fighter 2 is one of the most cloned fighting games and its effects on gam
 		<cheevosHash>BE7FC84AC1151B99AD48329327E2AAA7</cheevosHash>
 		<cheevosId>1192</cheevosId>
 	</game>
-	<game id="2176" source="ScreenScraper.fr">
-		<path>./Street Fighter II Turbo (USA).7z</path>
-		<name>Street Fighter II Turbo</name>
-		<desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
-
-This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting."</desc>
-		<image>./mixart/Street Fighter II Turbo (USA).png</image>
-		<video>./snap/Street Fighter II Turbo (USA).mp4</video>
-		<marquee>./wheel/Street Fighter II Turbo (USA).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19930801T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight</genre>
-		<players>2</players>
-		<cheevosHash>AC63BD5085B0F8F35E2CFF59E9C34456</cheevosHash>
-		<cheevosId>648</cheevosId>
-	</game>
 	<game id="19200" source="ScreenScraper.fr">
 		<path>./Street Hockey '95 (USA).7z</path>
 		<name>Street Sports : Street Hockey '95</name>
@@ -15587,5 +15569,23 @@ All three games tell the story of ninja Ryu Hayabusa through alternating cinemat
 		<region>us</region>
 		<cheevosHash>A641A33A829154F656CA00AB1EF35500</cheevosHash>
 		<cheevosId>498</cheevosId>
+	</game>
+	<game id="2176" source="ScreenScraper.fr">
+		<path>./Street Fighter II Turbo (USA).7z</path>
+		<name>Street Fighter II Turbo</name>
+		<desc>Choose from twelve street fighters from around the world, skilled in a variety of martial arts -- for instance, a character named E.Honda is a sumo wrestler from Japan, while Ken is a master of Tae Kwon Do from the United States. Journey to different countries to defeat other fighters, eventually leading up to a battle with evil man M.Bison. Besides the standard punches and kicks, each character can also execute special moves, such as energy projectiles or lightning-fast kicks, for more damage or to create a chain of hit combos. 
+
+This home version is a re-release of the original Street Fighter 2 game with several major improvements: the 'boss' characters (Vega, Balrog, Sagat, and M. Bison) are automatically unlocked for you to play, each character receives some new or upgraded moves and costume colors, and you can select a Turbo speed level which lets you play at a faster speed. It is based on the arcade re-release by the same name which also contained the subtitle "Hyper Fighting."</desc>
+		<image>./mixart/Street Fighter II Turbo (USA).png</image>
+		<video>./snap/Street Fighter II Turbo (USA).mp4</video>
+		<marquee>./wheel/Street Fighter II Turbo (USA).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19930801T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight</genre>
+		<players>2</players>
+		<cheevosHash>AC63BD5085B0F8F35E2CFF59E9C34456</cheevosHash>
+		<cheevosId>648</cheevosId>
 	</game>
 </gameList>
