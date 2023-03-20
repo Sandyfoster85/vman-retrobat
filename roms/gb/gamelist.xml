@@ -47,25 +47,6 @@ The game features four different modes of play: Beginners Mode in which the basi
 		<cheevosHash>53B746BFF74C50CD3EBCF41161C66CF3</cheevosHash>
 		<cheevosId>4689</cheevosId>
 	</game>
-	<game>
-		<path>./Adventure Island (USA, Europe).7z</path>
-		<name>Adventure Island</name>
-		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
-
-The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
-		<image>./mixart/Adventure Island (USA, Europe).png</image>
-		<video>./snap/Adventure Island (USA, Europe).mp4</video>
-		<marquee>./wheel/Adventure Island (USA, Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19920202T000000</releasedate>
-		<developer>Hudson Soft Company, Ltd.</developer>
-		<publisher>Hudson Soft Company, Ltd.</publisher>
-		<genre>Action-Platform</genre>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>D67E58BF5F39D5FB073FED85C3D9BEDE</cheevosHash>
-		<cheevosId>2265</cheevosId>
-	</game>
 	<game id="3254" source="ScreenScraper.fr">
 		<path>./Adventure Island II - Aliens in Paradise (USA, Europe).7z</path>
 		<name>Adventure Island II: Aliens in Paradise</name>
@@ -10857,7 +10838,7 @@ The aim is to defeat each boss.  To get to the boss you must perform a task on t
 		<video>./snap/Kirby's Pinball Land (USA, Europe).mp4</video>
 		<marquee>./wheel/Kirby's Pinball Land (USA, Europe).png</marquee>
 		<rating>0.8</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>HAL Laboratory, Inc.</developer>
 		<publisher>Nintendo of America Inc.</publisher>
 		<genre>Various-Action-Pinball</genre>
@@ -10867,5 +10848,24 @@ The aim is to defeat each boss.  To get to the boss you must perform a task on t
 		<region>eu</region>
 		<cheevosHash>F711ED10307D4EA27223FE965595B123</cheevosHash>
 		<cheevosId>708</cheevosId>
+	</game>
+	<game>
+		<path>./Adventure Island (USA, Europe).7z</path>
+		<name>Adventure Island</name>
+		<desc>In the South Pacific, Master Higgins lives peacefully wearing only a grass skirt and a cap. That is until the Evil Witch Doctor decides to capture Tina and hold her as his own. It's up to Master Higgins to gather throwing axes, fireballs and skateboards in order to aid his noble quest.
+
+The game is a side scroller, Master Higgins moves across the screen from left to right and finds his power-ups in giant eggs. This includes a skateboard which results in a great speed enhancement - until Master Higgins gets hit and loses his power. If he is not on a skateboard a hit means instant death. Another game mechanic is starvation which gets indicated through a meter which steadily decreases. If it hits zero the hero dies and the only way to fill it up is by collecting food on the way. Bosses await him at the end of levels, all the way to the Evil Witch Doctor himself.</desc>
+		<image>./mixart/Adventure Island (USA, Europe).png</image>
+		<video>./snap/Adventure Island (USA, Europe).mp4</video>
+		<marquee>./wheel/Adventure Island (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19920202T000000</releasedate>
+		<developer>Hudson Soft Company, Ltd.</developer>
+		<publisher>Hudson Soft Company, Ltd.</publisher>
+		<genre>Action-Platform</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>D67E58BF5F39D5FB073FED85C3D9BEDE</cheevosHash>
+		<cheevosId>2265</cheevosId>
 	</game>
 </gameList>

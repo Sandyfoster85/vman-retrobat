@@ -6209,22 +6209,6 @@ Though it follows the same story told in the Gold and Silver versions, Pokémon 
 		<cheevosHash>A6924CE1F9AD2228E1C6580779B23878</cheevosHash>
 		<cheevosId>576</cheevosId>
 	</game>
-	<game id="82616" source="ScreenScraper.fr">
-		<path>./Pokemon - Silver Version (USA, Europe).7z</path>
-		<name>Pokémon: Silver Version</name>
-		<desc>Enter a whole new world, with new Pokémon to capture, train and battle! Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time-and be sure to keep an eye out for Pokémon that come out only at night!</desc>
-		<image>./mixart/Pokemon - Silver Version (USA, Europe).png</image>
-		<video>./snap/Pokemon - Silver Version (USA, Europe).mp4</video>
-		<marquee>./wheel/Pokemon - Silver Version (USA, Europe).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20001014T000000</releasedate>
-		<developer>Game Freak</developer>
-		<publisher>Nintendo</publisher>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>2AC166169354E84D0E2D7CF4CB40B312</cheevosHash>
-		<cheevosId>722</cheevosId>
-	</game>
 	<game id="82598" source="ScreenScraper.fr">
 		<path>./Pokemon Pinball (USA).7z</path>
 		<name>Pokémon Pinball</name>
@@ -9563,5 +9547,21 @@ The game is similar in style and gameplay to early Metal Gear games. It is viewe
 		<region>us</region>
 		<cheevosHash>F6DD1B1E5747412B9E5F25376C972D5A</cheevosHash>
 		<cheevosId>520</cheevosId>
+	</game>
+	<game id="82616" source="ScreenScraper.fr">
+		<path>./Pokemon - Silver Version (USA, Europe).7z</path>
+		<name>Pokémon: Silver Version</name>
+		<desc>Enter a whole new world, with new Pokémon to capture, train and battle! Meet Professor Elm and get the all-new Poké Gear, including map, radio, cell phone and clock. Set the clock then watch as day turns to night and events take place in real time-and be sure to keep an eye out for Pokémon that come out only at night!</desc>
+		<image>./mixart/Pokemon - Silver Version (USA, Europe).png</image>
+		<video>./snap/Pokemon - Silver Version (USA, Europe).mp4</video>
+		<marquee>./wheel/Pokemon - Silver Version (USA, Europe).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20001014T000000</releasedate>
+		<developer>Game Freak</developer>
+		<publisher>Nintendo</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>2AC166169354E84D0E2D7CF4CB40B312</cheevosHash>
+		<cheevosId>722</cheevosId>
 	</game>
 </gameList>

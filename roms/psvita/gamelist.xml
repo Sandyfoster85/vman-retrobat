@@ -574,20 +574,6 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<md5>f83d7507c8451b2ac2be10254710c1bb</md5>
 		<lang>en</lang>
 	</game>
-	<game id="30502">
-		<path>./Metal Slug 3.cmd</path>
-		<name>Metal Slug 3</name>
-		<image>./mixart/Metal Slug 3.jpg</image>
-		<video>./snap/Metal Slug 3.mp4</video>
-		<marquee>./wheel/Metal Slug 3.png</marquee>
-		<developer>DotEmu</developer>
-		<publisher>SNK</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<family>Metal Slug</family>
-		<players>2</players>
-		<md5>1486dccc667db30cc209d98cba4a6a7f</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Monster Monpiece.cmd</path>
 		<name>Monster Monpiece</name>
@@ -2190,6 +2176,20 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<players>1</players>
 		<favorite>true</favorite>
 		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
+		<lang>en</lang>
+	</game>
+	<game id="30502">
+		<path>./Metal Slug 3.cmd</path>
+		<name>Metal Slug 3</name>
+		<image>./mixart/Metal Slug 3.jpg</image>
+		<video>./snap/Metal Slug 3.mp4</video>
+		<marquee>./wheel/Metal Slug 3.png</marquee>
+		<developer>DotEmu</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<players>2</players>
+		<md5>1486dccc667db30cc209d98cba4a6a7f</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

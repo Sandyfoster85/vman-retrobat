@@ -1450,17 +1450,6 @@ The Peanuts Movie: Snoopy's Grand Adventure is a side-scrolling platform video g
 		<md5>43c3289b339a94588297e16cad8eb07d</md5>
 		<lang>en</lang>
 	</game>
-	<game id="246311">
-		<path>./NES Remix Pack (USA).wux</path>
-		<name>NES Remix Pack</name>
-		<image>./mixart/NES Remix Pack-01.png</image>
-		<video>./snap/NES Remix.mp4</video>
-		<marquee>./wheel/NES Remix Pack-01.png</marquee>
-		<rating>0.86</rating>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="241512">
 		<path>./The Legend of Zelda Breath of the Wild/code/The Legend of Zelda Breath of the Wild.rpx</path>
 		<name>The Legend of Zelda: Breath of the Wild</name>
@@ -1637,5 +1626,16 @@ Up to four players can battle each other locally or online across beautifully de
 		<favorite>true</favorite>
 		<md5>0ca011f2947aefd907421607a98652bf</md5>
 		<lang>en</lang>
+	</game>
+	<game id="246311">
+		<path>./NES Remix Pack (USA).wux</path>
+		<name>NES Remix Pack</name>
+		<image>./mixart/NES Remix Pack-01.png</image>
+		<video>./snap/NES Remix.mp4</video>
+		<marquee>./wheel/NES Remix Pack-01.png</marquee>
+		<rating>0.86</rating>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

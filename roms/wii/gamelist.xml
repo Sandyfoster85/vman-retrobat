@@ -5460,22 +5460,6 @@ Explore the Wuhu Islands with Wii Sports Resort, the sequel to the Wii launch ti
 		<region>eu</region>
 		<genreid>1538</genreid>
 	</game>
-	<game id="9250" source="ScreenScraper.fr">
-		<path>./Ghost Squad (USA).rvz</path>
-		<name>Ghost Squad</name>
-		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
-		<image>./mixart/Ghost Squad (USA).png</image>
-		<video>./snap/Ghost Squad (USA).mp4</video>
-		<marquee>./wheel/Ghost Squad (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20071120T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Action-Lightgun Shooter</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<region>us</region>
-	</game>
 	<game id="9863" source="ScreenScraper.fr">
 		<path>./Gunblade NY &amp; L.A. Machineguns Arcade Hits Pack (USA) (En,Fr,Es).rvz</path>
 		<name>Gunblade NY &amp; LA Machineguns: Arcade Hits Pack</name>
@@ -5565,5 +5549,21 @@ Explore the Wuhu Islands with Wii Sports Resort, the sequel to the Wii launch ti
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>261</genreid>
+	</game>
+	<game id="9250" source="ScreenScraper.fr">
+		<path>./Ghost Squad (USA).rvz</path>
+		<name>Ghost Squad</name>
+		<desc>Sega?s top-grossing light-gun game, Ghost Squad, comes to the Wii system and replicates the excitement of the arcade experience in your home!.The Ghost Squad is a Special Forces unit established in strict secrecy by the U.N. to combat terrorism and carry out special highly-classified missions without leaving a trace. As an elite member of the Ghost Squad, players will complete dangerous missions such as eliminating terrorist groups, releasing hostages, deactivating bombs, and even rescuing the US President when terrorists hijack Air Force One!Using the Wii Remote or Nintendo?s new Wii Zapper peripheral, players will utilize revolutionary selectable weapons including a high powered rifle, sub machine and shot gun, or even engage in hand-to-hand combat.</desc>
+		<image>./mixart/Ghost Squad (USA).png</image>
+		<video>./snap/Ghost Squad (USA).mp4</video>
+		<marquee>./wheel/Ghost Squad (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20071120T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Action-Lightgun Shooter</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<region>us</region>
 	</game>
 </gameList>

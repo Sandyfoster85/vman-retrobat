@@ -22,22 +22,6 @@
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="88047" source="ScreenScraper.fr">
-		<path>./Baseball.mgw</path>
-		<name>Baseball</name>
-		<desc>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
-		<image>./mixart/Baseball.png</image>
-		<video>./snap/Baseball.mp4</video>
-		<marquee>./wheel/Baseball.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="88048" source="ScreenScraper.fr">
 		<path>./Bomb Fight.mgw</path>
 		<name>Bomb Fight</name>
@@ -638,20 +622,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
-		<path>./Tron.mgw</path>
-		<name>Tron</name>
-		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
-		<image>./mixart/Tron.png</image>
-		<video>./snap/Tron.mp4</video>
-		<marquee>./wheel/Tron.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Tomytronic</developer>
-		<publisher>Tomytronic</publisher>
-		<genre>Action</genre>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
 		<path>./Wild Man Jump.mgw</path>
 		<name>Wild Man Jump</name>
 		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
@@ -663,22 +633,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="88072" source="ScreenScraper.fr">
-		<path>./Lifeboat (Nintendo, Multi Screen).mgw</path>
-		<name>Lifeboat</name>
-		<desc>A fire breaks out on a luxury liner; passengers jump from the ship. Put lifeboat in position for catching passengers. Each lifeboat holds up to four passengers. There is a shore on the left and right of the screen. When a lifeboat reaches shore, passengers will unload automatically. 1 point per person caught. 1 point per person unloaded to shore. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value (2 points per passenger caught or unloaded to shore) until a miss is made.</desc>
-		<image>./mixart/Lifeboat (Nintendo, Multi Screen).png</image>
-		<video>./snap/Lifeboat (Nintendo, Multi Screen).mp4</video>
-		<marquee>./wheel/Lifeboat (Nintendo, Multi Screen).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
@@ -816,6 +770,53 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<releasedate>19780101T000000</releasedate>
 		<developer>Mattel Electronics</developer>
 		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="88047" source="ScreenScraper.fr">
+		<path>./Baseball.mgw</path>
+		<name>Baseball</name>
+		<desc>Train baseball by playing with your coach. Move the player left and right to get all balls. When a ball falls to the ground, a chance is missed. Three misses and game ends. 10 points are scored each time a ball is hit. A quick rest is awarded at every 1000 points. Maximum displayed score is 9990.</desc>
+		<image>./mixart/Baseball.png</image>
+		<video>./snap/Baseball.mp4</video>
+		<marquee>./wheel/Baseball.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="88072" source="ScreenScraper.fr">
+		<path>./Lifeboat (Nintendo, Multi Screen).mgw</path>
+		<name>Lifeboat</name>
+		<desc>A fire breaks out on a luxury liner; passengers jump from the ship. Put lifeboat in position for catching passengers. Each lifeboat holds up to four passengers. There is a shore on the left and right of the screen. When a lifeboat reaches shore, passengers will unload automatically. 1 point per person caught. 1 point per person unloaded to shore. Maximum displayed score is 999. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached game goes into "Chance-Time": score flashes and all points are awarded at double value (2 points per passenger caught or unloaded to shore) until a miss is made.</desc>
+		<image>./mixart/Lifeboat (Nintendo, Multi Screen).png</image>
+		<video>./snap/Lifeboat (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Lifeboat (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Tron.mgw</path>
+		<name>Tron</name>
+		<desc>You must destroy your enemy: Sark and the MCP (Master Control Program) by making the Enemy Light Cycle crash and by destroying Sark's Rings and finally by penetrating the MCP barrier and destroying the MCP. *Level 1: The Light Cycle Game. Two Light Cycles appear: Tron's (the blue one) Sark's (the red one). As both Cycles travel across the screen they create a wall behind them. You must try to destroy the enemy's Cycle by causing it to crash into a wall while avoiding crashing into a wall or the enemy Cycle. Press the "Speed/Shoot" button to accelerate. 5 points for moving ahead and creating five Tron wall bars. 100 points for destroying each enemy Light Cycle. * Level 2: The Ring Game. Tron is on the left and Sark is on the right. The green bars beneath each figure represent the four Rings each player begins with. Move Tron up and down to catch the Disc as Sark throws it; then position Tron and press the "Speed/Shoot" button to throw the Disc where Sark can't catch it. If either one misses it they lose one Ring below them. 5 points for catching a Disc. 20 points for destroying the enemy's Ring. 200 points for destroying all Rings. * Level 3: the MCP Game. Tron is on the left on a stationary position. Below him are bars that act as timers: the number of bars equals the number of Tron's remaining Rings from the Ring Game. Press the "Speed/Shoot" button to throw one Disc at the MCP Barrier; the Barrier will begin to move up and down. Try to pick the correct timing to press the "Speed/Shoot" button again and release a Disc to penetrate the Barrier and destroy the MCP; then game starts again with the Light Cycle Game - at higher speed! If the Disc fails to penetrate the Barrier you must release another Disc and aim for the correct timing again. If all bars below Tron disappear, a miss is scored. 200 points for destroying the MCP. Bonus 50 points x the number or remaining timing bars. The highest score that can be recorded is 1,995 points; anything over 2,000 points appear as a green bar on the top of the screen when your total score is shown. The highest possible score is 15,995 points, shown as seven bars plus 1,995. Bonus life is given at every 2,000 points scored (maximum five lives at one time).</desc>
+		<image>./mixart/Tron.png</image>
+		<video>./snap/Tron.mp4</video>
+		<marquee>./wheel/Tron.png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Tomytronic</developer>
+		<publisher>Tomytronic</publisher>
 		<genre>Action</genre>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>

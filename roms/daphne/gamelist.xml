@@ -228,20 +228,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./lair.daphne</path>
-		<name>Dragon's Lair</name>
-		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
-		<image>./mixart/lair.png</image>
-		<video>./snap/lair.mp4</video>
-		<marquee>./wheel/lair.png</marquee>
-		<rating />
-		<releasedate>19830623T000000</releasedate>
-		<publisher>Cinematronics</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./astron.daphne</path>
 		<name>Astron Belt</name>
 		<desc>Astron Belt is an early laserdisc video game and third-person space combat rail shooter, released in 1983 by Sega in Japan and licensed to Bally Midway for release in the United States.</desc>
@@ -252,6 +238,20 @@
 		<releasedate>19830515T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Bally Midway</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./lair.daphne</path>
+		<name>Dragon's Lair</name>
+		<desc>Dragon's Lair is a video game franchise that began with the laserdisc video game Dragon's Lair originally released for the arcades in 1983.</desc>
+		<image>./mixart/lair.png</image>
+		<video>./snap/lair.mp4</video>
+		<marquee>./wheel/lair.png</marquee>
+		<rating></rating>
+		<releasedate>19830623T000000</releasedate>
+		<publisher>Cinematronics</publisher>
 		<genre>Action</genre>
 		<favorite>true</favorite>
 		<lang>en</lang>

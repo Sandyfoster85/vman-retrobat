@@ -1564,36 +1564,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Tom and Jerry.vpx</path>
-		<name>Tom and Jerry</name>
-		<desc>Flipper Tom and Jerry</desc>
-		<image>./mixart/Tom and Jerry.jpg</image>
-		<video>./snap/Tom and Jerry.mp4</video>
-		<marquee>./wheel/Tom and Jerry.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Tomb Raider - A Survival is Born (TBA 2019).vpx</path>
-		<name>Tomb Raider - A Survival is Born (TBA 2019)</name>
-		<desc>Flipper Tomb Raider - A Survival is Born (TBA 2019)</desc>
-		<image>./mixart/Tomb Raider - A Survival is Born (TBA 2019).jpg</image>
-		<video>./snap/Tomb Raider - A Survival is Born (TBA 2019).mp4</video>
-		<marquee>./wheel/Tomb Raider - A Survival is Born (TBA 2019).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./TOTAN Skitso detail mod 1.6.vpx</path>
 		<name>TOTAN Skitso detail mod 1.6</name>
 		<desc>Flipper TOTAN Skitso detail mod 1.6</desc>
@@ -5746,22 +5716,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Re-animator.vpx</path>
-		<name>Re-animator</name>
-		<desc>Flipper Re-animator</desc>
-		<image>./mixart/Re-animator.png</image>
-		<video>./snap/Re-animator.mp4</video>
-		<marquee>./wheel/Re-animator.png</marquee>
-		<rating>3.00</rating>
-		<releasedate>20220924T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FanMade</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Flintstones (1994).vpx</path>
 		<name>The Flintstones (1994)</name>
 		<desc>Flipper The Flintstones</desc>
@@ -6950,22 +6904,6 @@
 		<marquee>./wheel/BTTF  trilogie ver 1.8.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Back To The Future (Data East 1990).vpx</path>
-		<name>Back To The Future (Data East)</name>
-		<desc>Flipper Back To The Future (Data East 1990)</desc>
-		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
-		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
-		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
@@ -8601,6 +8539,84 @@
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Married With Children (Original 2021).vpx</path>
+		<name>Married With Children (PupEdition)</name>
+		<desc>Flipper Married With Children (Original 2021) PupEdition</desc>
+		<image>./mixart/Married With Children (Original 2021).png</image>
+		<video>./snap/Married With Children (Original 2021).mp4</video>
+		<marquee>./wheel/Married With Children (Original 2021).png</marquee>
+		<rating>4.12</rating>
+		<releasedate>20210924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Re-animator.vpx</path>
+		<name>Re-animator</name>
+		<desc>Flipper Re-animator</desc>
+		<image>./mixart/Re-animator.png</image>
+		<video>./snap/Re-animator.mp4</video>
+		<marquee>./wheel/Re-animator.png</marquee>
+		<rating>3.00</rating>
+		<releasedate>20220924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FanMade</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Back To The Future (Data East 1990).vpx</path>
+		<name>Back To The Future (Data East)</name>
+		<desc>Flipper Back To The Future (Data East 1990)</desc>
+		<image>./mixart/Back To The Future 1.4 PF Mod.jpg</image>
+		<video>./snap/Back To The Future 1.4 PF Mod.mp4</video>
+		<marquee>./wheel/Back To The Future 1.4 PF Mod.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tom and Jerry.vpx</path>
+		<name>Tom and Jerry</name>
+		<desc>Flipper Tom and Jerry</desc>
+		<image>./mixart/Tom and Jerry.jpg</image>
+		<video>./snap/Tom and Jerry.mp4</video>
+		<marquee>./wheel/Tom and Jerry.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tomb Raider - A Survival is Born (TBA 2019).vpx</path>
+		<name>Tomb Raider - A Survival is Born (TBA 2019)</name>
+		<desc>Flipper Tomb Raider - A Survival is Born (TBA 2019)</desc>
+		<image>./mixart/Tomb Raider - A Survival is Born (TBA 2019).jpg</image>
+		<video>./snap/Tomb Raider - A Survival is Born (TBA 2019).mp4</video>
+		<marquee>./wheel/Tomb Raider - A Survival is Born (TBA 2019).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -25670,23 +25670,6 @@ The power-up system of Darius II was changed from that of its parent game, with 
 		<cheevosHash>D8A3EC41BA8BCAE88B161B0F94AC0AE8</cheevosHash>
 	</game>
 	<game>
-		<path>./darkseal.zip</path>
-		<name>Dark Seal</name>
-		<desc>Fantasy hack and slash game in which up to four people can play at the same time, choosing from three stock fantasy characters (Knight, Wizard and Bard) and, for some reason, a Ninja. Players must then fight their way through enemy-packed levels, plundering treasure and avoiding the game's many traps. Gameplay is highly reminiscent of Atari's legendary 1985 classic, "Gauntlet".</desc>
-		<image>./mixart/darkseal.png</image>
-		<video>./snap/darkseal.mp4</video>
-		<marquee>./wheel/darkseal.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Action / Labyrinth-Fight-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6863BF5DCDF0B87432AA49DA67551917</cheevosHash>
-	</game>
-	<game>
 		<path>./darktowr.zip</path>
 		<name>Dark Tower</name>
 		<desc>Dark Tower is a simple yet playable platform game which is somewhat unique in that while the game itself is original (i.e. not a direct clone of another game) many of the game's component parts are NOT. See 'Trivia' for further details.</desc>
@@ -30743,31 +30726,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4371&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>84635A393C7D6DDB5A4C6E6801952418</cheevosHash>
-	</game>
-	<game>
-		<path>./frogger.zip</path>
-		<name>Frogger</name>
-		<desc>Frogger is a one or two-player game in which players must overcome a number of hazards to safely guide the green amphibian from the bottom of the screen to one of five home bases situated at the top of the screen.
-
-The lower half of the screen consists of a bi-directional flow of traffic moving across five lanes. To navigate across the road safely, Frogger's hops must be timed to avoid the vehicles, which include buses, civilian traffic and racing cars, with different vehicle types moving at different speeds. As well as being able to hop vertically, Frogger can also move left and right, allowing him to move with the flow of traffic. 
-
-The upper half of the screen consists of a fast-flowing river populated with logs, crocodiles and turtles. Frogger will drown if he has any contact with the water and these act as platforms onto which Frogger can hop. He must be careful to avoid contact with crocodiles' snapping jaws, however and some of the turtles will periodically dive below the water's surface, drowning Frogger. Frogger will also die if he is on a log, turtle or crocodile when it reaches the edge of the screen.
-
-On the logs of the river section a female frog will occasionally appear and bonus points are awarded if Frogger successfully escorts her safely home. A fly also appears randomly in a home base and bonus points are awarded if Frogger enters the base when the fly is present. Conversely, a crocodile may also appear in a home base and a life is lost if Frogger enters the base while the crocodile is present.
-
-A round is completed once five frogs have been guided safely home, after which the next round begins with an increased level of difficulty. This includes faster-moving vehicles on the road section and new, deadly hazards on the river section, including crocodiles, otters and snakes.</desc>
-		<image>./mixart/frogger.png</image>
-		<video>./snap/frogger.mp4</video>
-		<marquee>./wheel/frogger.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action / Labyrinth-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>222E72DC25A859B80BE81E1E43363952</cheevosHash>
 	</game>
 	<game id="41281">
 		<path>./frogs.zip</path>
@@ -44897,23 +44855,6 @@ Fly at full speed on your magic cloud to reach enemy lands and battle your way t
 		<cheevosHash>6C17368701D21EFC2766F56A1C8C6EA6</cheevosHash>
 	</game>
 	<game>
-		<path>./nitrobal.zip</path>
-		<name>Nitro Ball</name>
-		<desc>Futuristic, fast and furious vertical action game, it's a sort of "Smash T.V." in a pinball environment.</desc>
-		<image>./mixart/nitrobal.png</image>
-		<video>./snap/nitrobal.mp4</video>
-		<marquee>./wheel/nitrobal.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Data East</developer>
-		<publisher>Data East</publisher>
-		<genre>Shooter-Shooter / Run and Shoot</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1742583C81AEEE85CEB8665E185B4795</cheevosHash>
-	</game>
-	<game>
 		<path>./nmouse.zip</path>
 		<name>Naughty Mouse</name>
 		<desc>Naughty Mouse, also known as Woodpecker, is a platform arcade game where the player must take control of Naughty Mouse, who must make it from his own house at the bottom of the screen to his girlfriend's house at the top. 
@@ -47527,32 +47468,6 @@ In battle, players must defend against wave after wave of enemy planes (fighter 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>375CF9088E743744B038ED37549BED7D</cheevosHash>
-	</game>
-	<game id="42455">
-		<path>./pong.zip</path>
-		<name>Pong</name>
-		<desc>Pong is a basic simulation of the racket sport of table tennis. A small square representing a ping pong ball travels across the screen in a linear trajectory. If the square strikes the perimeter of the playing field, or one of the simulated paddles, the square ricochets based on the angle of the impact.
-
-Game play consists of players moving their respective paddles vertically to defend their scoring zones. Players score one point by maneuvering the square past their opponent's paddle.
-
-Pong can be played either by a single player pitted against a computerized opponent, or by two players each controlling a paddle.
-
-Scoring went up to 21 pts.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/pong.png</image>
-		<video>./snap/pong.mp4</video>
-		<marquee>./wheel/pong.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19720101T000000</releasedate>
-		<publisher>Atari</publisher>
-		<genre>Action / Breakout games</genre>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<md5>f2e00f51ea95ccaed398ea3505cf43e0</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6FDB087AA3FBFBCB8287A593A0919E61</cheevosHash>
 	</game>
 	<game>
 		<path>./ponpoko.zip</path>
@@ -64456,23 +64371,6 @@ The player can move their skier left or right, and can press buttons to either s
 		<cheevosHash>F3DC370C0B0ED3BACFF24B6A29B8CD71</cheevosHash>
 	</game>
 	<game>
-		<path>./wboy.zip</path>
-		<name>Wonder Boy</name>
-		<desc>Wonder Boy (ã¯ã³ãã¼ãã¼ã¤ WandÄ BÅi?) (also known as Super Wonder Boy for its Sega Mark III release in Japan and Revenge of Drancon for its Game Gear release in North America) is a 1986 video game published by Sega and developed by Escape (now known as WestOne Bit Entertainment, not to be confused with Westone).</desc>
-		<image>./mixart/wboy.png</image>
-		<video>./snap/wboy.mp4</video>
-		<marquee>./wheel/wboy.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Escape (Sega license)</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>C0A789113BF696C1F7BCB46044568A0B</cheevosHash>
-	</game>
-	<game>
 		<path>./wc90.zip</path>
 		<name>Tecmo World Cup '90</name>
 		<desc>A 2-D soccer game with 4-way scrolling movement. Choose from 8 teams. The game play is fairly realistic and the moves are easy to learn.</desc>
@@ -70707,40 +70605,6 @@ Karate Tournament uses a distinctive graphical technique in that it 'morphs' som
 		<cheevosHash>5227D7FCF1A6789D109183067FEE39DA</cheevosHash>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
-	<game>
 		<path>./aztarac.zip</path>
 		<name>Aztarac</name>
 		<desc>The actual game has you piloting a little space tank. The tank and its turret are controlled independently, which allows you to move in one direction while shooting in another. Your mission is to guard various space outposts from hordes of incoming enemy ships. Each level will have several outposts all clustered together in the center. If an enemy ship touches an outpost, then the outpost is destroyed. You can activate a long range scanner by using your second button. This allows you to locate enemies before they get close, that way you can fly off and get them before they even have a shot at the outposts.</desc>
@@ -70962,23 +70826,6 @@ Accurately navigating the player Knights can be initially quite difficult as con
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>0E7217251D81ADFD48614DF6680043D4</cheevosHash>
-	</game>
-	<game>
-		<path>./sf2ce.zip</path>
-		<name>Street Fighter II' : Champion Edition</name>
-		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
-		<image>./mixart/sf2ce.png</image>
-		<video>./snap/sf2ce.mp4</video>
-		<marquee>./wheel/sf2ce.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48165021FDB6D258A054008F3EE85BDF</cheevosHash>
 	</game>
 	<game>
 		<path>./sfiii2.zip</path>
@@ -71783,23 +71630,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&am
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
-	</game>
-	<game>
-		<path>./wbmlvc.zip</path>
-		<name>Wonder Boy In Monster Land</name>
-		<desc>Wonder Boy in Monster Land is a multi-directional scrolling platform hack 'n' slash game with RPG elements, in which the game's hero, Wonder Boy, has seen his home of Wonderland invaded by the evil 'MEKA Dragon' and its army of minions.     At the start of the game Wonder Boy is unarmed, but the mayor of Wonder Land (as it was known before the invasion) gives him a short sword to help him in his quest. Wonder Boy has a life meter represented as a series of red hearts and whenever he sustains damage, the hearts deplete. When all the hearts are depleted, Wonder Boy dies and the game ends. As well as the life meter, there is also an Hourglass Timer at the top of the screen; whenever this runs out, Wonder Boy loses some life. The Timer can be refilled by collecting hourglasses or by visiting hospitals or taverns.</desc>
-		<image>./mixart/wbmlvc.png</image>
-		<video>./snap/wbmlvc.mp4</video>
-		<marquee>./wheel/wbmlvc.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6E163831C5D73D0E894F6C8AEDA47EDA</cheevosHash>
 	</game>
 	<game>
 		<path>./willow.zip</path>
@@ -72915,5 +72745,175 @@ Like the "Gauntlet" games on which Xybots is based; the game is endless and play
 		<region>us</region>
 		<cheevosHash>DE7D34DBD63215293F83B0A887072D0B</cheevosHash>
 		<genreid>262</genreid>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game>
+		<path>./darkseal.zip</path>
+		<name>Dark Seal</name>
+		<desc>Fantasy hack and slash game in which up to four people can play at the same time, choosing from three stock fantasy characters (Knight, Wizard and Bard) and, for some reason, a Ninja. Players must then fight their way through enemy-packed levels, plundering treasure and avoiding the game's many traps. Gameplay is highly reminiscent of Atari's legendary 1985 classic, "Gauntlet".</desc>
+		<image>./mixart/darkseal.png</image>
+		<video>./snap/darkseal.mp4</video>
+		<marquee>./wheel/darkseal.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Action / Labyrinth-Fight-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6863BF5DCDF0B87432AA49DA67551917</cheevosHash>
+	</game>
+	<game>
+		<path>./frogger.zip</path>
+		<name>Frogger</name>
+		<desc>Frogger is a one or two-player game in which players must overcome a number of hazards to safely guide the green amphibian from the bottom of the screen to one of five home bases situated at the top of the screen.
+
+The lower half of the screen consists of a bi-directional flow of traffic moving across five lanes. To navigate across the road safely, Frogger's hops must be timed to avoid the vehicles, which include buses, civilian traffic and racing cars, with different vehicle types moving at different speeds. As well as being able to hop vertically, Frogger can also move left and right, allowing him to move with the flow of traffic. 
+
+The upper half of the screen consists of a fast-flowing river populated with logs, crocodiles and turtles. Frogger will drown if he has any contact with the water and these act as platforms onto which Frogger can hop. He must be careful to avoid contact with crocodiles' snapping jaws, however and some of the turtles will periodically dive below the water's surface, drowning Frogger. Frogger will also die if he is on a log, turtle or crocodile when it reaches the edge of the screen.
+
+On the logs of the river section a female frog will occasionally appear and bonus points are awarded if Frogger successfully escorts her safely home. A fly also appears randomly in a home base and bonus points are awarded if Frogger enters the base when the fly is present. Conversely, a crocodile may also appear in a home base and a life is lost if Frogger enters the base while the crocodile is present.
+
+A round is completed once five frogs have been guided safely home, after which the next round begins with an increased level of difficulty. This includes faster-moving vehicles on the road section and new, deadly hazards on the river section, including crocodiles, otters and snakes.</desc>
+		<image>./mixart/frogger.png</image>
+		<video>./snap/frogger.mp4</video>
+		<marquee>./wheel/frogger.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action / Labyrinth-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>222E72DC25A859B80BE81E1E43363952</cheevosHash>
+	</game>
+	<game>
+		<path>./nitrobal.zip</path>
+		<name>Nitro Ball</name>
+		<desc>Futuristic, fast and furious vertical action game, it's a sort of "Smash T.V." in a pinball environment.</desc>
+		<image>./mixart/nitrobal.png</image>
+		<video>./snap/nitrobal.mp4</video>
+		<marquee>./wheel/nitrobal.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Data East</developer>
+		<publisher>Data East</publisher>
+		<genre>Shooter-Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1742583C81AEEE85CEB8665E185B4795</cheevosHash>
+	</game>
+	<game id="42455">
+		<path>./pong.zip</path>
+		<name>Pong</name>
+		<desc>Pong is a basic simulation of the racket sport of table tennis. A small square representing a ping pong ball travels across the screen in a linear trajectory. If the square strikes the perimeter of the playing field, or one of the simulated paddles, the square ricochets based on the angle of the impact.
+
+Game play consists of players moving their respective paddles vertically to defend their scoring zones. Players score one point by maneuvering the square past their opponent's paddle.
+
+Pong can be played either by a single player pitted against a computerized opponent, or by two players each controlling a paddle.
+
+Scoring went up to 21 pts.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/pong.png</image>
+		<video>./snap/pong.mp4</video>
+		<marquee>./wheel/pong.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19720101T000000</releasedate>
+		<publisher>Atari</publisher>
+		<genre>Action / Breakout games</genre>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<md5>f2e00f51ea95ccaed398ea3505cf43e0</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6FDB087AA3FBFBCB8287A593A0919E61</cheevosHash>
+	</game>
+	<game>
+		<path>./sf2ce.zip</path>
+		<name>Street Fighter II' : Champion Edition</name>
+		<desc>From the corners of the globe come twelve of the toughest fighters to ever prowl the streets. Choose your champion and step into the arena as one of the eight original challengers or as one of the four Grand Masters! Pound your opponent as Balrog and knock them out for the count. Tower over your prey as Sagat and daze them with your awesome Tiger Shot. Slash your opponent with Vega's claw and send them running for cover. Or strike fear into your enemies as M. Bison, the greatest Grand Master of them all!</desc>
+		<image>./mixart/sf2ce.png</image>
+		<video>./snap/sf2ce.mp4</video>
+		<marquee>./wheel/sf2ce.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48165021FDB6D258A054008F3EE85BDF</cheevosHash>
+	</game>
+	<game>
+		<path>./wbmlvc.zip</path>
+		<name>Wonder Boy In Monster Land</name>
+		<desc>Wonder Boy in Monster Land is a multi-directional scrolling platform hack 'n' slash game with RPG elements, in which the game's hero, Wonder Boy, has seen his home of Wonderland invaded by the evil 'MEKA Dragon' and its army of minions.     At the start of the game Wonder Boy is unarmed, but the mayor of Wonder Land (as it was known before the invasion) gives him a short sword to help him in his quest. Wonder Boy has a life meter represented as a series of red hearts and whenever he sustains damage, the hearts deplete. When all the hearts are depleted, Wonder Boy dies and the game ends. As well as the life meter, there is also an Hourglass Timer at the top of the screen; whenever this runs out, Wonder Boy loses some life. The Timer can be refilled by collecting hourglasses or by visiting hospitals or taverns.</desc>
+		<image>./mixart/wbmlvc.png</image>
+		<video>./snap/wbmlvc.mp4</video>
+		<marquee>./wheel/wbmlvc.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6E163831C5D73D0E894F6C8AEDA47EDA</cheevosHash>
+	</game>
+	<game>
+		<path>./wboy.zip</path>
+		<name>Wonder Boy</name>
+		<desc>Wonder Boy (ã¯ã³ãã¼ãã¼ã¤ WandÄ BÅi?) (also known as Super Wonder Boy for its Sega Mark III release in Japan and Revenge of Drancon for its Game Gear release in North America) is a 1986 video game published by Sega and developed by Escape (now known as WestOne Bit Entertainment, not to be confused with Westone).</desc>
+		<image>./mixart/wboy.png</image>
+		<video>./snap/wboy.mp4</video>
+		<marquee>./wheel/wboy.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Escape (Sega license)</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>C0A789113BF696C1F7BCB46044568A0B</cheevosHash>
 	</game>
 </gameList>

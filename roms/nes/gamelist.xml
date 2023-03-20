@@ -21487,23 +21487,6 @@ There are three different peaks, each featuring a couple different runs. The mou
 		<cheevosHash>881F7570C7A228FDA35F6BCC5EA024BF</cheevosHash>
 		<cheevosId>1733</cheevosId>
 	</game>
-	<game id="1478" source="ScreenScraper.fr">
-		<path>./High Speed (USA).zip</path>
-		<name>High Speed</name>
-		<desc>High Speed is a conversion of the Williams Electronics pinball game of the same name. The game recreates the pinball table and gameplay from the arcade version and also adds some video game features, such as lightning bombs, attacking enemies, magnetic helicopters, and rust balls which dissolve your flipper. The bottom part of the screen remains on the bottom set of flippers, while the top half scrolls over the whole pinball table to follow the action. Gameplay is for one to four players alternating.</desc>
-		<image>./mixart/High Speed (USA).png</image>
-		<video>./snap/High Speed (USA).mp4</video>
-		<marquee>./wheel/High Speed (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910702T000000</releasedate>
-		<developer>Rare</developer>
-		<publisher>Tradewest</publisher>
-		<genre>Simulation</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B472F97C9F85B13EAABC4400CFE3B7BD</cheevosHash>
-	</game>
 	<game id="1564" source="ScreenScraper.fr">
 		<path>./Hogan's Alley (World).zip</path>
 		<name>Hogan's Alley</name>
@@ -23506,24 +23489,6 @@ By exploring these 25 cities, children can familiarize themselves with the landm
 		<region>us</region>
 		<cheevosHash>A6A1BF2399B9225ACDCB4B7690994BCD</cheevosHash>
 		<cheevosId>1825</cheevosId>
-	</game>
-	<game id="1517" source="ScreenScraper.fr">
-		<path>./Mario's Time Machine (USA).zip</path>
-		<name>Mario's Time Machine</name>
-		<desc>Bowser is at it again!  He's using a time machine, called a Timulator, to loot historical artifacts from the past, in order to stock his museum.  He plans to destroy the time machine after, and therefore change the course of history forever.  It's up to Mario to stop Bowser and return all the stolen artifacts to their rightful place in history!</desc>
-		<image>./mixart/Mario's Time Machine (USA).png</image>
-		<video>./snap/Mario's Time Machine (USA).mp4</video>
-		<marquee>./wheel/Mario's Time Machine (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19940423T000000</releasedate>
-		<developer>Radical Entertainment</developer>
-		<publisher>The Software Toolworks</publisher>
-		<genre>Educational</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD526B87D79DFBB9BE11D9CF9DD979C4</cheevosHash>
-		<cheevosId>1826</cheevosId>
 	</game>
 	<game id="18810" source="ScreenScraper.fr">
 		<path>./Master Chu and the Drunkard Hu (USA) (Unl).zip</path>
@@ -26911,28 +26876,6 @@ A player will select a question from one of 6 categories. The game gives the ans
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6ED59492B8475A5C3A40544759740824</cheevosHash>
-	</game>
-	<game>
-		<path>./Super Mario Bros. (World).zip</path>
-		<name>Super Mario Bros.</name>
-		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
-
-The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
-
-Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
-		<image>./mixart/Super Mario Bros. (World).png</image>
-		<video>./snap/Super Mario Bros. (World).mp4</video>
-		<marquee>./wheel/Super Mario Bros. (World).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19850913T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>8E3630186E35D477231BF8FD50E54CDD</cheevosHash>
-		<cheevosId>1446</cheevosId>
 	</game>
 	<game id="94350" source="ScreenScraper.fr">
 		<path>./Super Mario Bros. + Duck Hunt (USA).zip</path>
@@ -30897,5 +30840,77 @@ From the original roster, only 9 made it to Super Fighter III, those being Ryu, 
 		<players>2</players>
 		<lang>en</lang>
 		<genreid>262</genreid>
+	</game>
+	<game id="1478" source="ScreenScraper.fr">
+		<path>./High Speed (USA).zip</path>
+		<name>High Speed</name>
+		<desc>High Speed is a conversion of the Williams Electronics pinball game of the same name. The game recreates the pinball table and gameplay from the arcade version and also adds some video game features, such as lightning bombs, attacking enemies, magnetic helicopters, and rust balls which dissolve your flipper. The bottom part of the screen remains on the bottom set of flippers, while the top half scrolls over the whole pinball table to follow the action. Gameplay is for one to four players alternating.</desc>
+		<image>./mixart/High Speed (USA).png</image>
+		<video>./snap/High Speed (USA).mp4</video>
+		<marquee>./wheel/High Speed (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910702T000000</releasedate>
+		<developer>Rare</developer>
+		<publisher>Tradewest</publisher>
+		<genre>Simulation</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B472F97C9F85B13EAABC4400CFE3B7BD</cheevosHash>
+	</game>
+	<game id="1517" source="ScreenScraper.fr">
+		<path>./Mario's Time Machine (USA).zip</path>
+		<name>Mario's Time Machine</name>
+		<desc>Bowser is at it again!  He's using a time machine, called a Timulator, to loot historical artifacts from the past, in order to stock his museum.  He plans to destroy the time machine after, and therefore change the course of history forever.  It's up to Mario to stop Bowser and return all the stolen artifacts to their rightful place in history!</desc>
+		<image>./mixart/Mario's Time Machine (USA).png</image>
+		<video>./snap/Mario's Time Machine (USA).mp4</video>
+		<marquee>./wheel/Mario's Time Machine (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19940423T000000</releasedate>
+		<developer>Radical Entertainment</developer>
+		<publisher>The Software Toolworks</publisher>
+		<genre>Educational</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD526B87D79DFBB9BE11D9CF9DD979C4</cheevosHash>
+		<cheevosId>1826</cheevosId>
+	</game>
+	<game>
+		<path>./Super Mario Bros. (World).zip</path>
+		<name>Super Mario Bros.</name>
+		<desc>The Princess has been kidnapped by the evil Bowser, and it is up to Mario and brother Luigi to save the day.
+
+The first ever platform adventure for the Mario Brothers has the player exploring level after level, with Bowser to contend with as the end of level boss. Power-ups include the Super Mushroom, which increases Mario's size and power, the fire flower, allowing him to shoot fireballs at enemies, and the ever important starman for a short burst of invincibility.
+
+Each level includes a bonus section filled with coins plus a shortcut through the level, plenty of bad buys and obstacles to get past, and an end of level flag, in which the higher the player grabs it, the more points are awarded to them. Certain levels also include warp points, which takes the player to higher levels.</desc>
+		<image>./mixart/Super Mario Bros. (World).png</image>
+		<video>./snap/Super Mario Bros. (World).mp4</video>
+		<marquee>./wheel/Super Mario Bros. (World).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19850913T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>8E3630186E35D477231BF8FD50E54CDD</cheevosHash>
+		<cheevosId>1446</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Zelda II -Amida Curse.zip</path>
+		<name>Zelda II - Amida Curse</name>
+		<desc>Zelda II – Amida’s Curse is a brand new Zelda II adventure. The game has been build up from the ground. With a new world, new graphics and an original soundtrack by bentglasstube. The focus of Amida’s Curse lies on exploration above combat. Gameplay has been altered to make this, above all, a fun gaming experience. So, difficulty is lower than the original Zelda II, there are no cheap deaths and grinding isn’t necessary.</desc>
+		<image>./#homebrews/mixart/Zelda II -Amida Curse.png</image>
+		<video>./#homebrews/snap/Zelda II -Amida Curse.mp4</video>
+		<marquee>./#homebrews/wheel/Zelda II -Amida Curse.png</marquee>
+		<rating>3</rating>
+		<releasedate>20210101T000000</releasedate>
+		<developer>Homebrew</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
 	</game>
 </gameList>
