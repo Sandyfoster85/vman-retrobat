@@ -6506,21 +6506,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage (TBA 2018).vpx</path>
-		<name>Streets of Rage (TBA 2018)</name>
-		<desc>Flipper Streets of Rage (TBA 2018)</desc>
-		<image>./mixart/Streets of Rage (TBA 2018).jpg</image>
-		<video>./snap/Streets of Rage (TBA 2018).mp4</video>
-		<marquee>./wheel/Streets of Rage (TBA 2018).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Terminator 1 (TBA 2019).vpx</path>
 		<name>Terminator 1 (TBA 2019)</name>
 		<desc>Flipper Terminator 1 (TBA 2019)</desc>
@@ -8617,6 +8602,37 @@
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage (TBA 2018).vpx</path>
+		<name>Streets of Rage (TBA 2018)</name>
+		<desc>Flipper Streets of Rage (TBA 2018)</desc>
+		<image>./mixart/Streets of Rage (TBA 2018).jpg</image>
+		<video>./snap/Streets of Rage (TBA 2018).mp4</video>
+		<marquee>./wheel/Streets of Rage (TBA 2018).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./The Matrix.vpx</path>
+		<name>The Matrix</name>
+		<desc>Flipper The Matrix (VP Cook Mods)</desc>
+		<image>./mixart/The Matrix.png</image>
+		<video>./snap/The Matrix.mp4</video>
+		<marquee>./wheel/The Matrix.png</marquee>
+		<rating>1</rating>
+		<releasedate>20230101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

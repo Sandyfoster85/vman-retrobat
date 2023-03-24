@@ -642,22 +642,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage 4 HD.pak</path>
-		<name>Streets of Rage 4</name>
-		<desc>A 2D fighting forces with all great characeters from Streets of Rage in HD</desc>
-		<image>./mixart/Streets of Rage 4 HD.png</image>
-		<video>./snap/Streets of Rage 4 HD.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>20160101T000000</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Teenage Mutant Ninja Turtles - Shell Shocked.pak</path>
 		<name>TMNT - Shell Shocked</name>
 		<desc>A 2D fighting forces with all great characeters from TMNT</desc>
@@ -3480,21 +3464,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Streets of Rage - Zombies.pak</path>
-		<name>Streets of Rage Zombies</name>
-		<desc>A 2D fighting forces with all great characeters from Streets of Rage and tons of Zombies</desc>
-		<image>./mixart/Streets of Rage - Zombies.png</image>
-		<video>./snap/Streets of Rage - Zombies.mp4</video>
-		<marquee>./wheel/OpenBOR.png</marquee>
-		<rating>4.8</rating>
-		<releasedate>2016</releasedate>
-		<developer>OpenBOR</developer>
-		<publisher>OpenBOR</publisher>
-		<genre>2D-Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Streets of Rage 2X.pak</path>
 		<name>Streets of Rage 2X</name>
 		<desc>A 2D fighting forces with all great characeters from Streets of Rage 2X HD</desc>
@@ -4163,6 +4132,37 @@
 		<releasedate>20130515T000000</releasedate>
 		<developer>Ericard</developer>
 		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage - Zombies.pak</path>
+		<name>Streets of Rage Zombies</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage and tons of Zombies</desc>
+		<image>./mixart/Streets of Rage - Zombies.png</image>
+		<video>./snap/Streets of Rage - Zombies.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>2016</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage 4 HD.pak</path>
+		<name>Streets of Rage 4</name>
+		<desc>A 2D fighting forces with all great characeters from Streets of Rage in HD</desc>
+		<image>./mixart/Streets of Rage 4 HD.png</image>
+		<video>./snap/Streets of Rage 4 HD.mp4</video>
+		<marquee>./wheel/OpenBOR.png</marquee>
+		<rating>4.8</rating>
+		<releasedate>20160101T000000</releasedate>
+		<developer>OpenBOR</developer>
+		<publisher>OpenBOR</publisher>
+		<genre>2D-Fighting</genre>
+		<players>4</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 </gameList>

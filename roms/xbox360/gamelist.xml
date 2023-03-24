@@ -4332,24 +4332,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="17757">
-		<path>./Bonk.m3u</path>
-		<name>Bonk : Brink of Extinction</name>
-		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
-		<image>./mixart/Bonk.jpg</image>
-		<video>./snap/Bonk.mp4</video>
-		<marquee>./wheel/Bonk.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Hudson</developer>
-		<publisher>Hudson</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T132913" />
-	</game>
 	<game id="17781">
 		<path>./Discs Of Tron.m3u</path>
 		<name>Discs Of Tron</name>
@@ -4472,23 +4454,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<scrap name="ScreenScraper" date="20220813T081755" />
 		<scrap name="TheGamesDB" date="20220813T082114" />
 	</game>
-	<game id="18142">
-		<path>./Asteroids Deluxe.m3u</path>
-		<name>Asteroids Deluxe</name>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Asteroids Deluxe.png</image>
-		<video>./snap/Asteroids Deluxe.mp4</video>
-		<marquee>./wheel/Asteroids Deluxe.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Banjo Kazooie.m3u</path>
 		<name>Banjo-Kazooie</name>
@@ -4507,50 +4472,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220813T081753" />
 		<scrap name="TheGamesDB" date="20220813T082101" />
-	</game>
-	<game id="17559">
-		<path>./Battlezone.m3u</path>
-		<name>Battlezone</name>
-		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
-		<image>./mixart/Battlezone.png</image>
-		<video>./snap/Battlezone.mp4</video>
-		<marquee>./wheel/Battlezone.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20080416T000000</releasedate>
-		<developer>Stainless Games</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bejeweled 3.m3u</path>
-		<name>Bejeweled 3</name>
-		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
-		<image>./mixart/Bejeweled 3.png</image>
-		<video>./snap/Bejeweled 3.mp4</video>
-		<marquee>./wheel/Bejeweled 3.png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20111115T000000</releasedate>
-		<developer>PopCap Games</developer>
-		<publisher>PopCap Games, Inc.</publisher>
-		<genre>Puzzle, Strategy</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Streets of Rage 2.m3u</path>
-		<name>Streets of Rage 2</name>
-		<image>./mixart/Streets of Rage 2.png</image>
-		<video>./snap/Streets of Rage 2.mp4</video>
-		<marquee>./wheel/Streets of Rage 2.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20070829T000000</releasedate>
-		<genre>Fighting</genre>
-		<players>1</players>
-		<lang>en</lang>
 	</game>
 	<game>
 		<path>./Marvel vs. Capcom Origins.m3u</path>
@@ -4603,6 +4524,85 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Streets of Rage 2.m3u</path>
+		<name>Streets of Rage 2</name>
+		<image>./mixart/Streets of Rage 2.png</image>
+		<video>./snap/Streets of Rage 2.mp4</video>
+		<marquee>./wheel/Streets of Rage 2.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20070829T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game id="18142">
+		<path>./Asteroids Deluxe.m3u</path>
+		<name>Asteroids Deluxe</name>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Asteroids Deluxe.png</image>
+		<video>./snap/Asteroids Deluxe.mp4</video>
+		<marquee>./wheel/Asteroids Deluxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17559">
+		<path>./Battlezone.m3u</path>
+		<name>Battlezone</name>
+		<desc>BattleZone is a downloadable action game on Xbox Live Arcade that lets you try your hand at futuristic tank battles. You'll also have to collect ore and build your base with factories and warehouses. There are many parameters to take into account. You'll need to build your base with factories and warehouses. You'll need to take on the enemy base and surround yourself with several warrant officers to complete the game's many missions.</desc>
+		<image>./mixart/Battlezone.png</image>
+		<video>./snap/Battlezone.mp4</video>
+		<marquee>./wheel/Battlezone.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20080416T000000</releasedate>
+		<developer>Stainless Games</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bejeweled 3.m3u</path>
+		<name>Bejeweled 3</name>
+		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
+		<image>./mixart/Bejeweled 3.png</image>
+		<video>./snap/Bejeweled 3.mp4</video>
+		<marquee>./wheel/Bejeweled 3.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20111115T000000</releasedate>
+		<developer>PopCap Games</developer>
+		<publisher>PopCap Games, Inc.</publisher>
+		<genre>Puzzle, Strategy</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17757">
+		<path>./Bonk.m3u</path>
+		<name>Bonk : Brink of Extinction</name>
+		<desc>Bonk: Brink of Extinction is a side-scrolling platformer for Xbox 360 in which you play as a prehistoric teenager. Armed with a headbutt to destroy enemies and teeth to climb walls, he must fight against dinosaurs. The game offers a cooperative multiplayer mode and is available for download on Xbox Live.</desc>
+		<image>./mixart/Bonk.jpg</image>
+		<video>./snap/Bonk.mp4</video>
+		<marquee>./wheel/Bonk.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Hudson</developer>
+		<publisher>Hudson</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>e35814f8205f4bc6cff4707e7f9b53c1</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T132913" />
 	</game>
 	<game id="17769">
 		<path>./BUBBLE BOBBLE Neo!.m3u</path>

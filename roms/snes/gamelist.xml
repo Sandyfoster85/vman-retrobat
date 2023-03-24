@@ -7656,7 +7656,7 @@ Although the game features fictional players, it is endorsed by Footlocker.</des
 		<video>./snap/David Crane's Amazing Tennis (USA).mp4</video>
 		<marquee>./wheel/David Crane's Amazing Tennis (USA).png</marquee>
 		<rating>0.45</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Imagineering Inc.</developer>
 		<publisher>Absolute Entertainment</publisher>
 		<genre>Sports</genre>
@@ -9245,7 +9245,7 @@ In addition to stroke and match play, you can obtain passwords that allow you to
 		<video>./snap/Harley's Humongous Adventure (USA).mp4</video>
 		<marquee>./wheel/Harley's Humongous Adventure (USA).png</marquee>
 		<rating>0.8</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Visual Concepts Entertainment, Inc.</developer>
 		<publisher>Electronic Arts, Inc.|Hi-Tech Expressions, Inc.</publisher>
 		<genre>Adventure</genre>
@@ -14616,7 +14616,7 @@ When you complete each round, a statistics screen will appear, and you are award
 		<video>./snap/Super Copa (Brazil) (Es,Pt).mp4</video>
 		<marquee>./wheel/Super Copa (Brazil) (Es,Pt).png</marquee>
 		<rating>0.65</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Sculptured Software</developer>
 		<publisher>American Softworks</publisher>
 		<genre>Sports / Soccer</genre>
@@ -16614,5 +16614,24 @@ Characters from the main game can be transferred into the add-on, which also inc
 		<region>us</region>
 		<cheevosHash>E55CB77E878115FD5C224134450047C6</cheevosHash>
 		<cheevosId>3968</cheevosId>
+	</game>
+	<game id="65019">
+		<path>./#homebrews/Sonic the Hedgehog 4 (World) (Unl).zip</path>
+		<name>Sonic The Hedgehog 4</name>
+		<desc>Hack of the game Speedy Gonzales: Los Gatos Bandidos.</desc>
+		<image>./#homebrews/mixart/Sonic the Hedgehog 4 (World) (Unl).png</image>
+		<video>./#homebrews/snap/Sonic the Hedgehog 4 (World) (Unl).mp4</video>
+		<marquee>./#homebrews/wheel/Sonic the Hedgehog 4 (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Twin Eagles Group</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<md5>d12db58f12ad4b06ea693fd920aca65d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<scrap name="ScreenScraper" date="20230324T184059" />
 	</game>
 </gameList>
