@@ -629,21 +629,6 @@ The game also makes a step towards strategy RPGs by focusing less on exploration
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T210251" />
 	</game>
-	<game id="362617">
-		<path>./Azure (Japan).cd</path>
-		<name>Azure</name>
-		<desc>Azure is a crosshair style shoot 'em up game, developed and published by Family Soft, which was released in Japan in 1993.</desc>
-		<image>./mixart/Azure (Japan).jpg</image>
-		<marquee>./wheel/Azure (Japan).png</marquee>
-		<video>./snap/Azure (Japan).mp4</video>
-		<releasedate>19930114T000000</releasedate>
-		<developer>Family Soft</developer>
-		<publisher>Family Soft</publisher>
-		<genre>Shooter</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230325T210444" />
-	</game>
 	<game id="362998">
 		<path>./Dragon Knight III (Japan).cd</path>
 		<name>Dragon Knight III</name>
@@ -855,13 +840,47 @@ Multi-player support can be extended to modem and/or serial port play.</desc>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T210525" />
 	</game>
+	<game id="363367">
+		<path>./Burai (Japan).cd</path>
+		<name>Burai</name>
+		<desc>The evil god Daar was defeated long time ago. The difference races of Kypros could co-exist in peace. But Daar had followers, among them a powerful warrior named Bido. He intends to resurrect Daar and attack the king of Kypros. His minions attack three strongest knights who serve the king. But before he died, one of the knights released eight magical pearls. Each pearl can choose a hero, and eight heroes together would be able to stop Bido. Those heroes live in different places and belong to different races - humans,  dragons, lizard-men, dog-like wosshus. Among them there are simple fighters, a thief, a powerful sorcerer. But they all know - the future of Kypros lies in their hands...
+
+Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and towns, random enemies, first-person turn-based battles, party management, etc. Its stand-out feature is the ability to play as eight different heroes. Each hero starts in a different part of the game world. The characters have different abilities and spells at their disposal, but overall follow the same gameplay template. The intro sequence presents the heroes in a particular order (starting with the thief Hayate, who was caught and thrown into prison), but the player can choose to start as any of the eight heroes.</desc>
+		<image>./mixart/Burai (Japan).png</image>
+		<marquee>./wheel/Burai (Japan).png</marquee>
+		<video>./snap/Burai (Japan).mp4</video>
+		<rating>0</rating>
+		<releasedate>19900119T000000</releasedate>
+		<developer>Riverhill Soft</developer>
+		<publisher>Riverhill Soft</publisher>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230325T210657" />
+	</game>
+	<game id="362371">
+		<path>./CG Syndicate Vol  1 - Lisa Northpoint (Japan) (En,Ja).cd</path>
+		<name>CG Syndicate Vol. 1 : Lisa Northpoint</name>
+		<desc>FMV - Virtual chic playing tricks on ya</desc>
+		<image>./mixart/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).jpg</image>
+		<marquee>./wheel/CG Syndicate vol. 1 Lisa Northpoint.png</marquee>
+		<video>./snap/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).mp4</video>
+		<rating>0.6</rating>
+		<releasedate>19910325T193304</releasedate>
+		<developer>R-Key</developer>
+		<publisher>R-Key</publisher>
+		<genre>Action / Adventure</genre>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230325T210737" />
+	</game>
 	<game>
 		<path>./Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).cd</path>
 		<name>Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan)</name>
 		<desc>Interactive slideshow cover girls from the 80's ...</desc>
 		<image>./mixart/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).jpg</image>
 		<marquee>./wheel/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).png</marquee>
-		<video>./snap/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).mp4</marquee>
+		<video>./snap/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).mp4</video>
 		<rating>0.6</rating>
 		<releasedate>19910325T195144</releasedate>
 		<developer>Cosmopolitan</developer>
@@ -1351,53 +1370,19 @@ You can upgrade and modify your agents, as well as equip them with tools you hav
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230324T111553" />
 	</game>
-	<game>
-		<path>./4D Tennis (Japan).cd</path>
-		<name>4D Tennis (Japan)</name>
-		<emulator>tsugaru</emulator>
-		<core>tsugaru</core>
-		<playcount>3</playcount>
-		<lastplayed>20230326T093511</lastplayed>
-		<gametime>244</gametime>
+	<game id="362617">
+		<path>./Azure (Japan).cd</path>
+		<desc>Azure is a crosshair style shoot 'em up game, developed and published by Family Soft, which was released in Japan in 1993.</desc>
+		<name>Azure</name>
+		<image>./mixart/Azure (Japan).jpg</image>
+		<marquee>./wheel/Azure (Japan).png</marquee>
+		<video>./snap/Azure (Japan).mp4</video>
+		<releasedate>1993</releasedate>
+		<developer>Family Soft</developer>
+		<publisher>Family Soft</publisher>
+		<genre>Shooter</genre>
 		<lang>jp</lang>
 		<region>jp</region>
-	</game>
-	<game id="362371">
-		<path>./CG Syndicate Vol  1 - Lisa Northpoint (Japan) (En,Ja).cd</path>
-		<name>CG Syndicate Vol. 1 : Lisa Northpoint</name>
-		<desc>FMV - Virtual chic playing tricks on ya</desc>
-		<image>./mixart/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).jpg</image>
-		<video>./snap/CG Syndicate Vol. 1 - Lisa Northpoint (Japan) (En,Ja).mp4</video>
-		<marquee>./wheel/CG Syndicate vol. 1 Lisa Northpoint.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910325T193304</releasedate>
-		<developer>R-Key</developer>
-		<publisher>R-Key</publisher>
-		<genre>Action / Adventure</genre>
-		<playcount>1</playcount>
-		<lastplayed>20230326T100402</lastplayed>
-		<gametime>87</gametime>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230325T210737" />
-	</game>
-	<game id="363367">
-		<path>./Burai (Japan).cd</path>
-		<name>Burai</name>
-		<desc>The evil god Daar was defeated long time ago. The difference races of Kypros could co-exist in peace. But Daar had followers, among them a powerful warrior named Bido. He intends to resurrect Daar and attack the king of Kypros. His minions attack three strongest knights who serve the king. But before he died, one of the knights released eight magical pearls. Each pearl can choose a hero, and eight heroes together would be able to stop Bido. Those heroes live in different places and belong to different races - humans,  dragons, lizard-men, dog-like wosshus. Among them there are simple fighters, a thief, a powerful sorcerer. But they all know - the future of Kypros lies in their hands...
-
-Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and towns, random enemies, first-person turn-based battles, party management, etc. Its stand-out feature is the ability to play as eight different heroes. Each hero starts in a different part of the game world. The characters have different abilities and spells at their disposal, but overall follow the same gameplay template. The intro sequence presents the heroes in a particular order (starting with the thief Hayate, who was caught and thrown into prison), but the player can choose to start as any of the eight heroes.</desc>
-		<image>./mixart/Burai (Japan).png</image>
-		<marquee>./wheel/Burai (Japan).png</marquee>
-		<video>./snap/Burai (Japan).mp4</video>
-		<rating>0</rating>
-		<releasedate>19900119T000000</releasedate>
-		<developer>Riverhill Soft</developer>
-		<publisher>Riverhill Soft</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230325T210657" />
+		<scrap name="ScreenScraper" date="20230325T210444" />
 	</game>
 </gameList>
