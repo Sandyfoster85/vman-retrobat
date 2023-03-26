@@ -159,6 +159,10 @@ $n64dd_emulator = $es_settings.config.AppendChild($n64dd_emulator0)
 $n64dd_emulator.SetAttribute("name","n64dd.emulator")
 $n64dd_emulator.SetAttribute("value","project64")
 
+# 14. 2023-3-26 - Correct FMTowns extensions in es_systems.cfg, reported by Virtualman
+$fmtowns = $es_systems.SelectSingleNode("//system[name='fmtowns']")
+$fmtowns.extension = '.m3u .d88 .d77 .xdf .iso .game .cd .chd'
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
