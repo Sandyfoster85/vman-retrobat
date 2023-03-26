@@ -646,26 +646,6 @@ The game also makes a step towards strategy RPGs by focusing less on exploration
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T211041" />
 	</game>
-	<game id="362785">
-		<path>./GunBlaze (Japan).cd</path>
-		<name>GunBlaze</name>
-		<desc>The events of this game take place in London, in the second half of the 19th century. Mark Flint is a young private detective. One day he sees several men assault a young girl near his apartment. He saves the girl, only to discover that he has seen her face already on a wanted poster. But the girl (whose name is Jewel) explains that she is being hunted by the mysterious society of Rosenkreuz. Her father was a great scientist who knew how to make items out of pure ether; his zeppelin was attacked, and the Rosenkreuz are after the ether-made necklace Jewel is wearing. Mark, Jewel, and their friends have to find a way to defeat the Rosenkreuz and their leader, the ambitious Irene, who won't stop until the entire world is under her control...
-
-GunBlaze plays like a story-driven Japanese RPG, with the real-world setting adding some unusual gameplay elements. Most of the game takes place in urban locations (such as the city of London); instead of a world map, there is a city map with locations marked on it. Despite the fantasy elements, the game tries to keep the realistic setting without supernatural or sci-fi themes - for example, there are no magic spells or any equivalent powers. The heroes fight with guns, for which they have to buy bullets, and which require re-loading during combat.
-
-Otherwise, GunBlaze preserves traditional Japanese RPG gameplay elements such as linear plot progression, simple character development system (leveling up), random enemies, turn-based battle engine, etc.
-
-Despite the historical European setting, GunBlaze has typically Japanese manga/anime-style character design. The game has nudity and sexual content, though it can be considered softcore.</desc>
-		<image>./mixart/GunBlaze (Japan).png</image>
-		<marquee>./wheel/GunBlaze (Japan).png</marquee>
-		<video>./snap/GunBlaze (Japan).mp4</video>
-		<releasedate>19940119T000000</releasedate>
-		<developer>Active Software</developer>
-		<publisher>Active Software</publisher>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230325T211726" />
-	</game>
 	<game id="47436">
 		<path>./hishouzame.chd</path>
 		<name>Hishouzame Flying Shark</name>
@@ -680,23 +660,6 @@ Despite the historical European setting, GunBlaze has typically Japanese manga/a
 		<players>1-2</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230325T211828" />
-	</game>
-	<game id="363028">
-		<path>./MegaMorph (Japan).cd</path>
-		<name>MegaMorph</name>
-		<desc>In the future, remains of a mysterious, highly advanced ancient civilization were discovered in a cave on a deserted planet. A unique material was found there, which could spontaneously change shape and morph into complete products by itself. Humans were able to harvest the technology, but an accident destroyed the source. The player takes the role of a pilot who must venture to dangerous areas of space in order to discover possible additional sources of the material.
-
-MegaMorph is a third-person perspective arcade-style shooter, similar in concept and gameplay to Microcosm and Novastorm. The backgrounds consists entirely out of full-motion video sequences. Forward movement is on rails, but the player can move the craft in four directions. The craft can defend itself with regular fire with unlimited ammunition, or drop a limited supply of missiles. Stages typically culminate with boss battles.</desc>
-		<image>./mixart/MegaMorph (Japan).png</image>
-		<marquee>./wheel/MegaMorph (Japan).png</marquee>
-		<video>./snap/MegaMorph (Japan).mp4</video>
-		<releasedate>19940119T000000</releasedate>
-		<developer>Psygnosis</developer>
-		<publisher>Fujitsu</publisher>
-		<genre>Action</genre>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230325T212705" />
 	</game>
 	<game id="200036">
 		<path>./mixed-up mother goose.chd</path>
@@ -873,23 +836,6 @@ Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and to
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T210737" />
-	</game>
-	<game>
-		<path>./Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).cd</path>
-		<name>Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan)</name>
-		<desc>Interactive slideshow cover girls from the 80's ...</desc>
-		<image>./mixart/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).jpg</image>
-		<marquee>./wheel/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).png</marquee>
-		<video>./snap/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).mp4</video>
-		<rating>0.6</rating>
-		<releasedate>19910325T195144</releasedate>
-		<developer>Cosmopolitan</developer>
-		<publisher>Cosmopolitan</publisher>
-		<genre>Adult</genre>
-		<players>1</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230324T113345" />
 	</game>
 	<game id="363214">
 		<path>./Galaxy Wars - Regional Power II (Japan).cd</path>
@@ -1384,5 +1330,63 @@ You can upgrade and modify your agents, as well as equip them with tools you hav
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T210444" />
+	</game>
+	<game>
+		<path>./Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).cd</path>
+		<name>Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan)</name>
+		<desc>Interactive slideshow cover girls from the 80's ...</desc>
+		<image>./mixart/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).jpg</image>
+		<video>./snap/Cover Girls Vol  1 - Sexy Photos with Sophisticated Sound (Japan).mp4</video>
+		<marquee>./wheel/Cover Girls Vol. 1 - Sexy Photos with Sophisticated Sound (Japan).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910325T195144</releasedate>
+		<developer>Cosmopolitan</developer>
+		<publisher>Cosmopolitan</publisher>
+		<genre>Adult</genre>
+		<players>1</players>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230324T113345" />
+	</game>
+	<game id="362785">
+		<path>./GunBlaze (Japan).cd</path>
+		<name>GunBlaze</name>
+		<desc>The events of this game take place in London, in the second half of the 19th century. Mark Flint is a young private detective. One day he sees several men assault a young girl near his apartment. He saves the girl, only to discover that he has seen her face already on a wanted poster. But the girl (whose name is Jewel) explains that she is being hunted by the mysterious society of Rosenkreuz. Her father was a great scientist who knew how to make items out of pure ether; his zeppelin was attacked, and the Rosenkreuz are after the ether-made necklace Jewel is wearing. Mark, Jewel, and their friends have to find a way to defeat the Rosenkreuz and their leader, the ambitious Irene, who won't stop until the entire world is under her control...
+
+GunBlaze plays like a story-driven Japanese RPG, with the real-world setting adding some unusual gameplay elements. Most of the game takes place in urban locations (such as the city of London); instead of a world map, there is a city map with locations marked on it. Despite the fantasy elements, the game tries to keep the realistic setting without supernatural or sci-fi themes - for example, there are no magic spells or any equivalent powers. The heroes fight with guns, for which they have to buy bullets, and which require re-loading during combat.
+
+Otherwise, GunBlaze preserves traditional Japanese RPG gameplay elements such as linear plot progression, simple character development system (leveling up), random enemies, turn-based battle engine, etc.
+
+Despite the historical European setting, GunBlaze has typically Japanese manga/anime-style character design. The game has nudity and sexual content, though it can be considered softcore.</desc>
+		<image>./mixart/GunBlaze (Japan).png</image>
+		<video>./snap/GunBlaze (Japan).mp4</video>
+		<marquee>./wheel/GunBlaze (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940119T000000</releasedate>
+		<developer>Active Software</developer>
+		<publisher>Active Software</publisher>
+		<genre>Adventure</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230325T211726" />
+	</game>
+	<game id="363028">
+		<path>./MegaMorph (Japan).cd</path>
+		<name>MegaMorph</name>
+		<desc>In the future, remains of a mysterious, highly advanced ancient civilization were discovered in a cave on a deserted planet. A unique material was found there, which could spontaneously change shape and morph into complete products by itself. Humans were able to harvest the technology, but an accident destroyed the source. The player takes the role of a pilot who must venture to dangerous areas of space in order to discover possible additional sources of the material.
+
+MegaMorph is a third-person perspective arcade-style shooter, similar in concept and gameplay to Microcosm and Novastorm. The backgrounds consists entirely out of full-motion video sequences. Forward movement is on rails, but the player can move the craft in four directions. The craft can defend itself with regular fire with unlimited ammunition, or drop a limited supply of missiles. Stages typically culminate with boss battles.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/MegaMorph (Japan).png</image>
+		<video>./snap/MegaMorph (Japan).mp4</video>
+		<marquee>./wheel/MegaMorph (Japan).png</marquee>
+		<releasedate>19940119T000000</releasedate>
+		<developer>Psygnosis</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Action</genre>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230325T212705" />
 	</game>
 </gameList>
