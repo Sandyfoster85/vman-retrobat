@@ -576,11 +576,16 @@ As the Avatar embarks on a quest to liberate Britannia, he begins to gain insigh
 	<game id="362341">
 		<path>./Sherlock Holmes - Consulting Detective (Japan) (En,Ja).cd</path>
 		<name>Sherlock Holmes - Consulting Detective</name>
-		<image>./mixart/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).png</image>
+		<desc>In this game, the player is cast into the roles of Sherlock Holmes, the greatest fictional detective of all times, and his friend and partner Dr. Watson, as they have to investigate and successfully solve three criminal cases: The Mummy's Curse deals with the horrifying death of three men, which were apparently murdered by an ancient mummy; The Mystified Murderess involves a woman who has been convicted for murdering her beloved one, but cannot seem to recall anything of what had happened to her; The Tin Soldier concerns the murder of an old general, whose past must be investigated in order to find the killer.</desc>
+		<image>./mixart/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).jpg</image>
 		<video>./snap/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).mp4</video>
 		<marquee>./wheel/Sherlock Holmes - Consulting Detective (Japan) (En,Ja).png</marquee>
 		<family>Sherlock Holmes</family>
 		<favorite>true</favorite>
+		<releasedate>19911201T000000</releasedate>
+		<developer>ICOM Simulations</developer>
+		<publisher>Fujitsu</publisher>
+		<genre>Adventure</genre>
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230324T111540" />
@@ -906,11 +911,16 @@ Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and to
 	</game>
 	<game>
 		<path>./Chaos Strikes Back (Japan).chd</path>
-		<name>Chaos Strikes Back (Japan)</name>
+		<name>Dungeon Master: Chaos Strikes Back (Japan)</name>
+		<desc>The Dark Lord returns in the sequel to the award-winning Dungeon Master. Using 4 player characters created in the "Prison" (or importing your own champions from Dungeon Master), you will have to face Lord Chaos again with a challenge: to destroy 4 pieces of Corbum ore before it shatters the universe!</desc>
 		<video>./snap/Chaos Strikes Back (Japan).mp4</video>
+		<image>./mixart/Chaos Strikes Back (Japan).png</image>
 		<marquee>./wheel/Chaos Strikes Back (Japan).png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19911231T200000</releasedate>
+		<developer>FTL Games</developer>
+		<publisher>Victor</publisher>
+		<genre>Role-PLaying</genre>
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230324T113345" />
@@ -918,11 +928,15 @@ Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and to
 	<game id="363034">
 		<path>./dead force.chd</path>
 		<name>Shinseiki Kouboushi - Dead Force</name>
+		<desc>In the middle of the continent of Lorelei lies the Karma mountain range, separating two cultures. To the East is the peaceful, rural Canaan federation. To the West is Dardila, the land of monks. The peaceful days of these nations were over when a meteor fell on Dardila, gradually turning the monks evil. A war erupted, and Dardilan forces overrun Canaan. Marion, the crown prince of Canaan, has just turned fourteen, and has to deal with the tremendous responsibility of commanding his army and winning the war. Dead Force is a tactical role-playing game. The entire game consists of large-scale battles between armies.</desc>
 		<image>./mixart/dead force.png</image>
 		<video>./snap/Dead Force.mp4</video>
 		<marquee>./wheel/Dead Force.png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19951231T200000</releasedate>
+		<developer>Fuga Systems</developer>
+		<publisher>Fuga Systems</publisher>
+		<genre>Role-PLaying</genre>
 		<md5>956381b9eef87a53da813b692763f837</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230325T214040" />
@@ -946,20 +960,30 @@ Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and to
 	<game>
 		<path>./ku2++.chd</path>
 		<name>ku2++</name>
+		<desc>Ku2++ is a Shoot-'Em-Up game, developed and published by Panther Software, which was released in Japan in 1993</desc>
+		<image>./mixart/ku2++.jpg</image>
 		<video>./snap/KU 2++.mp4</video>
 		<marquee>./wheel/KU 2++.png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19931231T200000</releasedate>
+		<developer>Panther</developer>
+		<publisher>Panther</publisher>
+		<genre>Action, Shooter</genre>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230324T113347" />
 	</game>
 	<game>
 		<path>./Prince of Persia.chd</path>
 		<name>Prince of Persia</name>
+		<desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place. Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platform genre.</desc>
+		<image>./mixart/Prince of Persia.jpg</image>
 		<video>./snap/Prince of Persia.mp4</video>
 		<marquee>./wheel/Prince of Persia.png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19921231T200000</releasedate>
+		<developer>Riverhill</developer>
+		<publisher>Riverhill</publisher>
+		<genre>Action, Platform</genre>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230324T113349" />
 	</game>
@@ -1114,12 +1138,17 @@ The game has similar gameplay and opponents as in the  handheld version; Bomberm
 	<game id="363211">
 		<path>./Eye of the Beholder II.chd</path>
 		<name>Eye of the Beholder 2 - The Legend of Darkmoon</name>
+		<desc>The Archmage Khelben summons the Heroes of Waterdeep, slayers of the Beholder Xanathar, for another mission. Strange things are happening in the forests near Waterdeep, centered around the Temple Darkmoon. People have been disappearing and shallow graves containing human remains have been found. Khelben teleports the party to the forests near Darkmoon so they may find out what kind of evil is working in the towers of the temple. Eye of the Beholder II: The Legend of Darkmoon is, like its predecessor, a first-person dungeon-crawling role-playing game based on the second edition of AD&D rules.</desc>
+		<image>./mixart/Eye of the Beholder II.png</image>
 		<video>./snap/Eye of the Beholder II.mp4</video>
 		<marquee>./wheel/Eye of the Beholder II.png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19931231T200000</releasedate>
 		<family>Eye of the Beholder</family>
 		<md5>51029c075828dbe66e255fe61b88e164</md5>
+		<developer>Westwood</developer>
+		<publisher>Arrow Micro-Techs</publisher>
+		<genre>Role-Playing</genre>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230325T211319" />
 	</game>
@@ -1177,12 +1206,17 @@ Each campaign includes a variety of missions involving both dogfights and air-to
 	<game id="363622">
 		<path>./king's quest v.chd</path>
 		<name>King's Quest V - Absence Makes the Heart Go Yonder!</name>
+		<desc>On a beautiful sunny day, King Graham of Daventry decides to take a stroll in the woods surrounding his castle. When he returns, he discovers with horror that his home, Daventry Castle, has completely disappeared! Graham is at a loss, and wonders how this could have happened, when a talking owl named Cedric appears. He tells him that he saw the whole thing, and that an evil wizard named Mordack whisked the entire castle away, along with Graham's family in it. Cedric offers to take him to his homeland, Serenia, where his master, the wizard Crispin resides. Surely Crispin will be able to help King Graham rescue his family from Mordack's clutches. King's Quest V: Absence Makes the Heart Go Yonder is an adventure game, and the first from Sierra to use a point-and-click mouse interface. Rather than typing commands on a keyboard to interact with the game world and use the arrow keys to walk around, King's Quest V instead simplifies all actions down to base commands. To access the different cursors, the player can move the mouse to the top of the screen, revealing a hidden menu with each of the different actions, as well as game options and the inventory bag. By clicking the "Walk" cursor on the screen, Graham will walk as close as he can to the appropriate area. Clicking the "Eye" cursor on items will provide a description, the same as typing "Look at".</desc>
+		<image>./mixart/king's quest v.png</image>
 		<video>./snap/King's Quest V.mp4</video>
 		<marquee>./wheel/king's quest v.png</marquee>
-		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<rating>4</rating>
+		<releasedate>19911231T200000</releasedate>
 		<family>King's Quest</family>
 		<md5>be42d8e01cb999f9036d91514377b748</md5>
+		<developer>Sierra</developer>
+		<publisher>Sierra</publisher>
+		<genre>Adventure</genre>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230325T212136" />
 	</game>
@@ -1250,10 +1284,15 @@ You can do the battling only in a certain quadrant, but don't be long as your me
 	<game id="363253">
 		<path>./Prince of Persia 2.chd</path>
 		<name>Prince of Persia 2 - The Shadow &amp;amp; The Flame</name>
+		<desc>After having defeated the evil Grand Vizier Jaffar, the brave Prince claimed just one reward: the hand of the beautiful daughter of the Persian Sultan. However, as the Prince approached the palace, his appearance suddenly turned into that of a beggar. Someone who looked just like the Prince ordered to throw him out. It turns out that Jaffar is alive and back for vengeance. Banished from the palace, the unfortunately Prince must travel to faraway lands and find a way to defeat the villain.</desc>
+		<image>./mixart/Prince of Persia 2.png</image>
 		<video>./snap/Prince of Persia 2.mp4</video>
 		<marquee>./wheel/Prince of Persia 2.png</marquee>
 		<rating>0</rating>
-		<releasedate>19691231T200000</releasedate>
+		<releasedate>19941231T200000</releasedate>
+		<developer>Borderbun</developer>
+		<publisher>Interprog</publisher>
+		<genre>Action, Platform</genre>
 		<family>Prince of Persia</family>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230325T213020" />
