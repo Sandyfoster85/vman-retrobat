@@ -4373,23 +4373,6 @@ Designed by Chris and Erin Roberts, the creative force behind the Wing Commander
 		<region>us</region>
 		<cheevosHash>67DA9236EBB8AC7C0F19819C70600D0D</cheevosHash>
 	</game>
-	<game id="78496" source="ScreenScraper.fr">
-		<path>./Tetris 4D (Japan).chd</path>
-		<name>Tetris 4D</name>
-		<desc>Tetris 4D is a fairly standard Tetris game that was released in Japan shortly after the Dreamcast launched.  The game features two modes, Classic and Battle. Classic mode offers a normal solitaire Tetris game: rotate and fit falling blocks to complete lines. Five difficulty settings are available, which change the speed and piece preview settings.  The sound and graphics generally follow a modern urban/industrial theme, with five techno music choices, including a variation of the classic Tetris "Karinka". The 3D backgrounds are basic but shift viewpoint as you advance in levels.  The Battle mode offers two to four player multiplayer. One player starts off flagged, and blocks push up from the bottom as other players make lines. Once he makes enough lines himself the flag moves to another player. Difficulty is set independently allowing for handicaps.  Unfortunately, you can't play the battle mode against the computer. There's also no VMU support for saving high scores, a rather critical omission for this type of game.</desc>
-		<image>./mixart/Tetris 4D (Japan).png</image>
-		<video>./snap/Tetris 4D (Japan).mp4</video>
-		<marquee>./wheel/Tetris 4D (Japan).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19981223T000000</releasedate>
-		<developer>Bullet Proof Software</developer>
-		<publisher>Bullet Proof Software</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>4</players>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>1328D31E00BA16435D8F191E0351E182</cheevosHash>
-	</game>
 	<game id="13591" source="ScreenScraper.fr">
 		<path>./Time Stalkers (USA).chd</path>
 		<name>Time Stalkers</name>
@@ -6100,5 +6083,23 @@ The result of five months of hard work, Teenage Mutant Ninja Turtles: The Cowabu
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="78496" source="ScreenScraper.fr">
+		<path>./Tetris 4D (Japan).chd</path>
+		<name>Tetris 4D</name>
+		<desc>Tetris 4D is a fairly standard Tetris game that was released in Japan shortly after the Dreamcast launched.  The game features two modes, Classic and Battle. Classic mode offers a normal solitaire Tetris game: rotate and fit falling blocks to complete lines. Five difficulty settings are available, which change the speed and piece preview settings.  The sound and graphics generally follow a modern urban/industrial theme, with five techno music choices, including a variation of the classic Tetris "Karinka". The 3D backgrounds are basic but shift viewpoint as you advance in levels.  The Battle mode offers two to four player multiplayer. One player starts off flagged, and blocks push up from the bottom as other players make lines. Once he makes enough lines himself the flag moves to another player. Difficulty is set independently allowing for handicaps.  Unfortunately, you can't play the battle mode against the computer. There's also no VMU support for saving high scores, a rather critical omission for this type of game.</desc>
+		<image>./mixart/Tetris 4D (Japan).png</image>
+		<video>./snap/Tetris 4D (Japan).mp4</video>
+		<marquee>./wheel/Tetris 4D (Japan).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19981223T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>1328D31E00BA16435D8F191E0351E182</cheevosHash>
 	</game>
 </gameList>

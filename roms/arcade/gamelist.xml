@@ -59886,22 +59886,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3780&am
 		<cheevosHash>1F8A8CFC43FEBB48D0D6959D2DB359B4</cheevosHash>
 	</game>
 	<game>
-		<path>./tetrisse.zip</path>
-		<name>Tetris (Sega)</name>
-		<desc>Tetris is an arcade game published by Sega in 1988. It took Japanese arcades by storm, and is one of the most commonly known versions of the game. Due to its popularity, it became the base of rules for many other Japanese games created later on, both licensed and unlicensed. Such games include the TGM series, Tetris Plus series, Tetris S and Shimizu Tetris. It was one of the first games to have lock delay, greatly improving maneuverability at high speeds.</desc>
-		<image>./mixart/tetrisse.png</image>
-		<video>./snap/tetrisse.mp4</video>
-		<marquee>./wheel/tetrisse.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19881201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Puzzle</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A492A2BD3C0F83C364A391E58DDC64DE</cheevosHash>
-	</game>
-	<game>
 		<path>./tfrceac.zip</path>
 		<name>Thunder Force Ac</name>
 		<desc>This game is a port of the Sega Mega Drive game "Thunder Force III". The main changes from the home console version are:
@@ -72915,5 +72899,22 @@ Scoring went up to 21 pts.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C0A789113BF696C1F7BCB46044568A0B</cheevosHash>
+	</game>
+	<game>
+		<path>./tetrisse.zip</path>
+		<name>Tetris (Sega)</name>
+		<desc>Tetris is an arcade game published by Sega in 1988. It took Japanese arcades by storm, and is one of the most commonly known versions of the game. Due to its popularity, it became the base of rules for many other Japanese games created later on, both licensed and unlicensed. Such games include the TGM series, Tetris Plus series, Tetris S and Shimizu Tetris. It was one of the first games to have lock delay, greatly improving maneuverability at high speeds.</desc>
+		<image>./mixart/tetrisse.png</image>
+		<video>./snap/tetrisse.mp4</video>
+		<marquee>./wheel/tetrisse.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19881201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A492A2BD3C0F83C364A391E58DDC64DE</cheevosHash>
 	</game>
 </gameList>

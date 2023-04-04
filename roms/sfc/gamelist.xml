@@ -9418,24 +9418,6 @@ After the battle, a map screen appears where the player can save the game, and c
 		<cheevosHash>66836FDF6AB04377F8F904996FC70E42</cheevosHash>
 		<cheevosId>3900</cheevosId>
 	</game>
-	<game id="2790" source="ScreenScraper.fr">
-		<path>./Tetris Battle Gaiden (Japan).zip</path>
-		<name>Tetris Battle Gaiden</name>
-		<desc>Tetris Battle Gaiden is a competitive puzzle-battle game, similar to games such as Puzzle Fighter or Puyo Puyo. One can play against a friend or the Computer in a story mode. There is also an included Rensa mode, which ensures a more hyperactive game due to increased gravity. The player can choose from a list of characters in the story mode, including a Dragon or a pumpkin named Halloween.</desc>
-		<image>./mixart/Tetris Battle Gaiden (Japan).png</image>
-		<video>./snap/Tetris Battle Gaiden (Japan).mp4</video>
-		<marquee>./wheel/Tetris Battle Gaiden (Japan).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19931202T000000</releasedate>
-		<developer>Bullet Proof Software</developer>
-		<publisher>Bullet Proof Software</publisher>
-		<players>2</players>
-		<crc32>1307003E</crc32>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>F21E1FEFCB3187877060B3FAFB53ABD2</cheevosHash>
-		<cheevosId>2234</cheevosId>
-	</game>
 	<game>
 		<path>./Tetsuwan Atom (Japan).zip</path>
 		<name>Tetsuwan Atom</name>
@@ -9581,5 +9563,24 @@ By collecting 100 music notes, Milon will get an extra life.  There are also oth
 		<region>jp</region>
 		<cheevosHash>F39FAABB923F1688B96A4E8EE4B333CA</cheevosHash>
 		<cheevosId>2802</cheevosId>
+	</game>
+	<game id="2790" source="ScreenScraper.fr">
+		<path>./Tetris Battle Gaiden (Japan).zip</path>
+		<name>Tetris Battle Gaiden</name>
+		<desc>Tetris Battle Gaiden is a competitive puzzle-battle game, similar to games such as Puzzle Fighter or Puyo Puyo. One can play against a friend or the Computer in a story mode. There is also an included Rensa mode, which ensures a more hyperactive game due to increased gravity. The player can choose from a list of characters in the story mode, including a Dragon or a pumpkin named Halloween.</desc>
+		<image>./mixart/Tetris Battle Gaiden (Japan).png</image>
+		<video>./snap/Tetris Battle Gaiden (Japan).mp4</video>
+		<marquee>./wheel/Tetris Battle Gaiden (Japan).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19931202T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Bullet Proof Software</publisher>
+		<players>2</players>
+		<favorite>true</favorite>
+		<crc32>1307003E</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>F21E1FEFCB3187877060B3FAFB53ABD2</cheevosHash>
+		<cheevosId>2234</cheevosId>
 	</game>
 </gameList>

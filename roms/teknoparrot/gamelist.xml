@@ -1412,21 +1412,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./TetrisTheGrandMaster3TerrorInstinct.parrot</path>
-		<name>Tetris The Grand Master 3 - Terror Instinct</name>
-		<desc>Tetris: The Grand Master 3 Terror Instinct introduced several play mechanics to Tetris game play which can be seen today in its sequels and many other Tetris implementations. The basic game play of TGM is similar to that of other Tetris games. The player must move and rotate Tetromino-shaped pieces falling into a well to form horizontal lines, which will then be cleared. During game play, the game automatically gives ranks to the player according to his/her score, starting from 9 all the way up to GM (Grand Master).</desc>
-		<image>./mixart/Tetris The Grand Master 3 - Terror Instinct.png</image>
-		<video>./snap/Tetris The Grand Master 3 - Terror Instinct.mp4</video>
-		<marquee>./wheel/Tetris The Grand Master 3 - Terror Instinct.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Arika</developer>
-		<genre>Puzzle</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./TokyoCop.parrot</path>
 		<name>Tokyo Cop</name>
 		<desc>Tokyo Cop: Special Police Reinforcement is an arcade racing game where the player takes the role of one of four police agents at the Neo Koban Police Station and has to clear the streets of Tokyo from dangerous criminals. The game consists of more than 48 missions covering four of Tokyo's districts: Ginza, Hibiya, Shinjuku and Shibuya. To gain promotion the player has to catch a number of criminals within a time limit. Not succeeding with this can instead lead to the player being demoted. To arrest a criminal the player has to move his car along side the criminal and hit it. Most of the time one hit is enough but for some of the tougher opponents multiple hits will be needed. There are in total nine cars to drive and each has their own characteristics that makes them more or less suitable for pursuing the various criminals.</desc>
@@ -2120,6 +2105,22 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<publisher>Sega</publisher>
 		<genre>Arcade Shooter</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./TetrisTheGrandMaster3TerrorInstinct.parrot</path>
+		<name>Tetris The Grand Master 3 - Terror Instinct</name>
+		<desc>Tetris: The Grand Master 3 Terror Instinct introduced several play mechanics to Tetris game play which can be seen today in its sequels and many other Tetris implementations. The basic game play of TGM is similar to that of other Tetris games. The player must move and rotate Tetromino-shaped pieces falling into a well to form horizontal lines, which will then be cleared. During game play, the game automatically gives ranks to the player according to his/her score, starting from 9 all the way up to GM (Grand Master).</desc>
+		<image>./mixart/Tetris The Grand Master 3 - Terror Instinct.png</image>
+		<video>./snap/Tetris The Grand Master 3 - Terror Instinct.mp4</video>
+		<marquee>./wheel/Tetris The Grand Master 3 - Terror Instinct.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arika</developer>
+		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
 	</game>

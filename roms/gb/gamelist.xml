@@ -1985,26 +1985,6 @@ The game offers a story mode against the computer, as well as a 2-player versus 
 		<region>eu</region>
 		<cheevosHash>8517AC370FC46971D8A8C106BDE4D4C4</cheevosHash>
 	</game>
-	<game id="3450" source="ScreenScraper.fr">
-		<path>./Tetris Blast (USA, Europe).7z</path>
-		<name>Tetris Blast</name>
-		<desc>In this version of Tetris, the basic 'clear the line of puzzle blocks' element is still here, but with an added twist: inside the many block shapes are bombs. By linking the bombs while clearing the play field as usual (creating a line of blocks), more of the field is cleared as the bombs explode. 
-
-The usual gameplay modes are included, i.e. challenge, clear as many lines as possible, time trial, clear as many lines as possible before time runs out and 2 player battle.</desc>
-		<image>./mixart/Tetris Blast (USA, Europe).png</image>
-		<video>./snap/Tetris Blast (USA, Europe).mp4</video>
-		<marquee>./wheel/Tetris Blast (USA, Europe).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19960102T000000</releasedate>
-		<developer>Bullet-Proof Software, Inc.</developer>
-		<publisher>Nintendo of America Inc.</publisher>
-		<genre>Puzzle-Game-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>0AFFC9DF2E1220EA4573DEB6CB2D4B32</cheevosHash>
-		<cheevosId>7040</cheevosId>
-	</game>
 	<game id="3484" source="ScreenScraper.fr">
 		<path>./Tetris Plus (USA, Europe).7z</path>
 		<name>Tetris Plus</name>
@@ -9916,26 +9896,6 @@ It has fourteen levels of single-player action some featuring the Gorgonite Arch
 		<region>eu</region>
 		<cheevosHash>46B6AE39B3140F81D66BE8338A8BCEA3</cheevosHash>
 	</game>
-	<game id="2976" source="ScreenScraper.fr">
-		<path>./Tetris (World) (Rev A).7z</path>
-		<name>Tetris</name>
-		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, and was included with the Game Boy upon its release in several territories. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.
-
-The game is very similar to Nintendo's own NES version of the game, featuring the same "Type A" endless and "Type B" set-clear modes. The game also features a 2-player versus mode that can be played with two Game Boys, two copies of Tetris, and a Game Boy link cable. Clearing lines in this mode will cause the other player's stack to rise, with the goal being to make the other player lose.</desc>
-		<image>./mixart/Tetris (World) (Rev A).png</image>
-		<video>./snap/Tetris (World) (Rev A).mp4</video>
-		<marquee>./wheel/Tetris (World) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Bullet Proof Software</developer>
-		<publisher>Spectrum Holobyte, Inc.</publisher>
-		<genre>Puzzle-Game-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>982ED5D2B12A0377EB14BCDC4123744E</cheevosHash>
-		<cheevosId>508</cheevosId>
-	</game>
 	<game id="70990" source="ScreenScraper.fr">
 		<path>./Track Meet (USA, Europe).7z</path>
 		<name>Track Meet</name>
@@ -10867,5 +10827,47 @@ The game is a side scroller, Master Higgins moves across the screen from left to
 		<region>eu</region>
 		<cheevosHash>D67E58BF5F39D5FB073FED85C3D9BEDE</cheevosHash>
 		<cheevosId>2265</cheevosId>
+	</game>
+	<game id="2976" source="ScreenScraper.fr">
+		<path>./Tetris (World) (Rev A).7z</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, and was included with the Game Boy upon its release in several territories. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases and the background changes, and the game ends if the stack reaches the top of the well.
+
+The game is very similar to Nintendo's own NES version of the game, featuring the same "Type A" endless and "Type B" set-clear modes. The game also features a 2-player versus mode that can be played with two Game Boys, two copies of Tetris, and a Game Boy link cable. Clearing lines in this mode will cause the other player's stack to rise, with the goal being to make the other player lose.</desc>
+		<image>./mixart/Tetris (World) (Rev A).png</image>
+		<video>./snap/Tetris (World) (Rev A).mp4</video>
+		<marquee>./wheel/Tetris (World) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Bullet Proof Software</developer>
+		<publisher>Spectrum Holobyte, Inc.</publisher>
+		<genre>Puzzle-Game-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>982ED5D2B12A0377EB14BCDC4123744E</cheevosHash>
+		<cheevosId>508</cheevosId>
+	</game>
+	<game id="3450" source="ScreenScraper.fr">
+		<path>./Tetris Blast (USA, Europe).7z</path>
+		<name>Tetris Blast</name>
+		<desc>In this version of Tetris, the basic 'clear the line of puzzle blocks' element is still here, but with an added twist: inside the many block shapes are bombs. By linking the bombs while clearing the play field as usual (creating a line of blocks), more of the field is cleared as the bombs explode. 
+
+The usual gameplay modes are included, i.e. challenge, clear as many lines as possible, time trial, clear as many lines as possible before time runs out and 2 player battle.</desc>
+		<image>./mixart/Tetris Blast (USA, Europe).png</image>
+		<video>./snap/Tetris Blast (USA, Europe).mp4</video>
+		<marquee>./wheel/Tetris Blast (USA, Europe).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19960102T000000</releasedate>
+		<developer>Bullet-Proof Software, Inc.</developer>
+		<publisher>Nintendo of America Inc.</publisher>
+		<genre>Puzzle-Game-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>0AFFC9DF2E1220EA4573DEB6CB2D4B32</cheevosHash>
+		<cheevosId>7040</cheevosId>
 	</game>
 </gameList>

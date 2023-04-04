@@ -26920,26 +26920,6 @@ Duck Hunt: The basic light zapper game for the NES. Two game modes allowed the p
 		<region>us</region>
 		<cheevosHash>5F11FC50BFC5D164188CAE495F59EB65</cheevosHash>
 	</game>
-	<game id="94352" source="ScreenScraper.fr">
-		<path>./Super Mario Bros. + Tetris + Nintendo World Cup (Europe).zip</path>
-		<name>Super Mario Bros. + Tetris + Nintendo World Cup</name>
-		<desc>This cartridge contains three games:
-
-1. Nintendo World Cup
-2. Super Mario Bros.
-3. Tetris</desc>
-		<image>./mixart/Super Mario Bros. + Tetris + Nintendo World Cup (Europe).png</image>
-		<video>./snap/Super Mario Bros. + Tetris + Nintendo World Cup (Europe).mp4</video>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Compilation-Sports</genre>
-		<players>6</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>690EF25921A067C03218E473C3BA05F6</cheevosHash>
-	</game>
 	<game id="1248" source="ScreenScraper.fr">
 		<path>./Super Mario Bros. 2 (USA).zip</path>
 		<name>Super Mario Bros. 2</name>
@@ -27571,26 +27551,6 @@ Level 5: Defeat the T-1000 within the steel mill.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5F240C7AB89B7B45D14556B53A3863F8</cheevosHash>
-	</game>
-	<game id="1291" source="ScreenScraper.fr">
-		<path>./Tetris (USA).zip</path>
-		<name>Tetris</name>
-		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
-
-The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
-		<image>./mixart/Tetris (USA).png</image>
-		<video>./snap/Tetris (USA).mp4</video>
-		<marquee>./wheel/Tetris (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19891101T000000</releasedate>
-		<developer>Bullet-Proof Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5B0E571558C8C796937B96AF469561C6</cheevosHash>
-		<cheevosId>2022</cheevosId>
 	</game>
 	<game id="102109" source="ScreenScraper.fr">
 		<path>./Tetris - The Soviet Mind Game (USA) (Unl).zip</path>
@@ -30473,27 +30433,6 @@ In addition to the platforming there are many enemy types and three weapons, bot
 		<cheevosHash>3717CF460F2970CEDFF65AA21B13C238</cheevosHash>
 		<scrap name="ScreenScraper" date="20230126T174126" />
 	</game>
-	<game id="367432">
-		<path>./#homebrews/BeerSlinger.zip</path>
-		<name>Beerslinger</name>
-		<desc>Beerslinger is a time management game with a concept similar to the arcade classic Tapper. It is the second game in the Holiday series by the developer, this time made for Saint Patrick's Day.
-
-The player controls a bartender who needs to serve customers in a pub. Each level is a different day and introduces two bars, one with the beers on tap and one where customers sit down and order. Based on the customer's order the bartender needs to fill up the mug with the correct type of beer (e.g. IPA, lager, stout, wheat) and serve it in time. A timer below the customer's stool shows the remaining time and if the bartender messes up three times by being too late or serving the wrong type, he is fired and the game is over. The goal is to make it through the seven days of the week. Each day also has a cash target.
-
-A single button is used to fill up the mug and then again to serve it. The second button is used to empty the mug when it does not contain the correct type of beer to get rid of it. The customers order using a voice sample expressing their choice in addition to the next on screen. Levels gradually get more difficult, introducing multiple types of beer and more room for patrons who also turn up faster. Starting with two kegs and two stools the game ends with four kegs and six stools.</desc>
-		<image>./#homebrews/mixart/BeerSlinger.png</image>
-		<video>./#homebrews/snap/BeerSlinger.mp4</video>
-		<marquee>./#homebrews/wheel/BeerSlinger.png</marquee>
-		<rating>1</rating>
-		<releasedate>20150522T000000</releasedate>
-		<developer>Greeting Carts</developer>
-		<publisher>Greeting Carts</publisher>
-		<genre>Action</genre>
-		<md5>2217c30ec142bf1f16e03dd29fb13ecf</md5>
-		<lang>en</lang>
-		<cheevosHash>4388D6EB5058146C461C801A0A87FB8B</cheevosHash>
-		<scrap name="ScreenScraper" date="20230126T174514" />
-	</game>
 	<game>
 		<path>./#homebrews/Dungeons_amp_Doomknights.zip</path>
 		<name>Dungeons_amp_Doomknights.zip</name>
@@ -30898,6 +30837,27 @@ Each level includes a bonus section filled with coins plus a shortcut through th
 		<cheevosHash>8E3630186E35D477231BF8FD50E54CDD</cheevosHash>
 		<cheevosId>1446</cheevosId>
 	</game>
+	<game id="367432">
+		<path>./#homebrews/BeerSlinger.zip</path>
+		<name>Beerslinger</name>
+		<desc>Beerslinger is a time management game with a concept similar to the arcade classic Tapper. It is the second game in the Holiday series by the developer, this time made for Saint Patrick's Day.
+
+The player controls a bartender who needs to serve customers in a pub. Each level is a different day and introduces two bars, one with the beers on tap and one where customers sit down and order. Based on the customer's order the bartender needs to fill up the mug with the correct type of beer (e.g. IPA, lager, stout, wheat) and serve it in time. A timer below the customer's stool shows the remaining time and if the bartender messes up three times by being too late or serving the wrong type, he is fired and the game is over. The goal is to make it through the seven days of the week. Each day also has a cash target.
+
+A single button is used to fill up the mug and then again to serve it. The second button is used to empty the mug when it does not contain the correct type of beer to get rid of it. The customers order using a voice sample expressing their choice in addition to the next on screen. Levels gradually get more difficult, introducing multiple types of beer and more room for patrons who also turn up faster. Starting with two kegs and two stools the game ends with four kegs and six stools.</desc>
+		<image>./#homebrews/mixart/BeerSlinger.png</image>
+		<video>./#homebrews/snap/BeerSlinger.mp4</video>
+		<marquee>./#homebrews/wheel/BeerSlinger.png</marquee>
+		<rating>1</rating>
+		<releasedate>20150522T000000</releasedate>
+		<developer>Greeting Carts</developer>
+		<publisher>Greeting Carts</publisher>
+		<genre>Action</genre>
+		<md5>2217c30ec142bf1f16e03dd29fb13ecf</md5>
+		<lang>en</lang>
+		<cheevosHash>4388D6EB5058146C461C801A0A87FB8B</cheevosHash>
+		<scrap name="ScreenScraper" date="20230126T174514" />
+	</game>
 	<game>
 		<path>./#homebrews/Zelda II -Amida Curse.zip</path>
 		<name>Zelda II - Amida Curse</name>
@@ -30912,5 +30872,47 @@ Each level includes a bonus section filled with coins plus a shortcut through th
 		<genre>Adventure</genre>
 		<players>1</players>
 		<lang>en</lang>
+	</game>
+	<game id="94352" source="ScreenScraper.fr">
+		<path>./Super Mario Bros. + Tetris + Nintendo World Cup (Europe).zip</path>
+		<name>Super Mario Bros. + Tetris + Nintendo World Cup</name>
+		<desc>This cartridge contains three games:
+
+1. Nintendo World Cup
+2. Super Mario Bros.
+3. Tetris</desc>
+		<image>./mixart/Super Mario Bros. + Tetris + Nintendo World Cup (Europe).png</image>
+		<video>./snap/Super Mario Bros. + Tetris + Nintendo World Cup (Europe).mp4</video>
+		<marquee>./wheel/Super Mario Bros. (World).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Compilation-Sports</genre>
+		<players>6</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>690EF25921A067C03218E473C3BA05F6</cheevosHash>
+	</game>
+	<game id="1291" source="ScreenScraper.fr">
+		<path>./Tetris (USA).zip</path>
+		<name>Tetris</name>
+		<desc>This version of Tetris is one of many conversions of the famous block-stacking game, as well as the best-known (but not the only) version on Nintendo's first home console. The goal is to place pieces made up of four tiles in a ten-by-twenty well, organizing them into complete rows, which disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The game offers two different modes of play, "Type A" and "Type B". "Type A" is a standard endless mode, where the speed of the game increases every ten lines, with an option for the starting level when beginning the game. "Type B", on the other hand, is a race to clear 25 lines, with options for both drop speed and starting garbage. In both modes, successful play is rewarded with cute animations. There are also three different background songs to choose from.</desc>
+		<image>./mixart/Tetris (USA).png</image>
+		<video>./snap/Tetris (USA).mp4</video>
+		<marquee>./wheel/Tetris (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19891101T000000</releasedate>
+		<developer>Bullet-Proof Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5B0E571558C8C796937B96AF469561C6</cheevosHash>
+		<cheevosId>2022</cheevosId>
 	</game>
 </gameList>

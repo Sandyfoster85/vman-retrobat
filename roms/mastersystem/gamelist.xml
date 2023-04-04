@@ -5568,22 +5568,6 @@ Discover new landscapes, charge ahead in motorized vehicules, run through danger
 		<cheevosHash>EE1E71857E93CCDCBDDF470ED42586A1</cheevosHash>
 	</game>
 	<game>
-		<path>./#homebrews/Bruce Lee.zip</path>
-		<name>Bruce Lee.zip</name>
-		<desc>Homebrew Bruce Lee.zip</desc>
-		<image>./#homebrews/mixart/Bruce Lee.png</image>
-		<video>./#homebrews/snap/Bruce Lee.mp4</video>
-		<marquee>./#homebrews/wheel/Bruce Lee.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Homebrews</publisher>
-		<genre>Adventure, Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>F28EFE0CEC44BA1A5C30FCE900702A94</cheevosHash>
-	</game>
-	<game>
 		<path>./#homebrews/DARC.zip</path>
 		<name>DARC.zip</name>
 		<desc>Homebrew DARC.zip</desc>
@@ -5761,5 +5745,21 @@ Streets of Rage 2 differs from the previous title in several ways. There are cha
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>E680B108E67CAF02E4FB77D419F48358</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Bruce Lee.zip</path>
+		<name>Bruce Lee.zip</name>
+		<desc>Homebrew Bruce Lee.zip</desc>
+		<image>./#homebrews/mixart/Bruce Lee.png</image>
+		<video>./#homebrews/snap/Bruce Lee.mp4</video>
+		<marquee>./#homebrews/wheel/Bruce Lee.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Homebrews</publisher>
+		<genre>Adventure, Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>F28EFE0CEC44BA1A5C30FCE900702A94</cheevosHash>
 	</game>
 </gameList>

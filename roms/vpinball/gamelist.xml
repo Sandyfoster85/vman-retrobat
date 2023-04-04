@@ -1519,21 +1519,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Starship Troopers (Sega 1997) v2.0.vpx</path>
-		<name>Starship Troopers (Sega 1997) v2.0</name>
-		<desc>Flipper Starship Troopers (Sega 1997) v2.0</desc>
-		<image>./mixart/Starship Troopers (Sega 1997) v2.0.jpg</image>
-		<video>./snap/Starship Troopers (Sega 1997) v2.0.mp4</video>
-		<marquee>./wheel/Starship Troopers (Sega 1997) v2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Stones_10_RTM_1.5_FINAL.vpx</path>
 		<name>Stones_10_RTM_1.5_FINAL</name>
 		<desc>Flipper Stones_10_RTM_1.5_FINAL</desc>
@@ -8628,6 +8613,54 @@
 		<marquee>./wheel/The Matrix.png</marquee>
 		<rating>1</rating>
 		<releasedate>20230101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alien Covenant.vpx</path>
+		<name>Alien Covenant (PupEdition)</name>
+		<desc>Flipper Alien Covenant (PupEdition)</desc>
+		<image>./mixart/Alien Covenant.png</image>
+		<video>./snap/Alien Covenant.mp4</video>
+		<marquee>./wheel/Alien Covenant.png</marquee>
+		<rating>3</rating>
+		<releasedate>20230101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Dragon's Lair.vpx</path>
+		<name>Dragon's Lair (PupEdition)</name>
+		<desc>Flipper Dragon's Lair PupEdition</desc>
+		<image>./mixart/Dragon's Lair.png</image>
+		<video>./snap/Dragon's Lair.mp4</video>
+		<marquee>./wheel/Dragon's Lair.png</marquee>
+		<rating>3</rating>
+		<releasedate>2023</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Starship Troopers (Sega 1997) v2.0.vpx</path>
+		<name>Starship Troopers (PupEdition)</name>
+		<desc>Flipper Starship Troopers (Sega 1997) PupEdition VPW v2.0</desc>
+		<image>./mixart/Starship Troopers (Sega 1997) v2.0.jpg</image>
+		<video>./snap/Starship Troopers (Sega 1997) v2.0.mp4</video>
+		<marquee>./wheel/Starship Troopers (Sega 1997) v2.0.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
