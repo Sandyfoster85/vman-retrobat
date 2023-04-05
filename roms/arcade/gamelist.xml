@@ -27062,23 +27062,6 @@ All songs of this game are ripped from Data East's "Tumble Pop".</desc>
 		<cheevosHash>EFD571C6B367A222296AE606D1A164D3</cheevosHash>
 	</game>
 	<game>
-		<path>./dkong.zip</path>
-		<name>Donkey Kong</name>
-		<desc>An absolutely legendary arcade game in which the player takes on the role of Mario - who makes his debut in this game, and would go on to become a gaming legend - and must battle his way to the top of each level to rescue h</desc>
-		<image>./mixart/dkong.png</image>
-		<video>./snap/dkong.mp4</video>
-		<marquee>./wheel/dkong.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19810101T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Platform-Plateform / Run Jump</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>02BBE063EFC4B8883206C66E6CB775C9</cheevosHash>
-		<cheevosId>11943</cheevosId>
-	</game>
-	<game>
 		<path>./dleague.zip</path>
 		<name>Dynamite League</name>
 		<desc>Dynamite League is a baseball game.</desc>
@@ -30048,22 +30031,6 @@ You control a jet shooter and fly through several different states in America sh
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>4B3EF271E8B9ABEF6C93BFC5B292841E</cheevosHash>
-	</game>
-	<game>
-		<path>./finalttr.zip</path>
-		<name>Final Tetris</name>
-		<image>./mixart/finalttr.png</image>
-		<video>./snap/finalttr.mp4</video>
-		<marquee>./wheel/finalttr.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Jeil Computer System</developer>
-		<publisher>Jeil Computer System</publisher>
-		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>176E2CD082315D56AB5B9BE67562A9F4</cheevosHash>
 	</game>
 	<game>
 		<path>./finehour.zip</path>
@@ -68151,26 +68118,6 @@ The object is to shoot all the robots, and then escape out of the room through o
 		<cheevosHash>5B956DC4F880A4AA8C5F3E9F330DF83C</cheevosHash>
 	</game>
 	<game>
-		<path>./mario.zip</path>
-		<name>Mario Bros.</name>
-		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
-
-Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
-
-As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003</core>
-		<image>./mixart/mario.png</image>
-		<video>./snap/mario.mp4</video>
-		<marquee>./wheel/mario.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19830101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
-		<cheevosId>11946</cheevosId>
-	</game>
-	<game>
 		<path>./polepos.zip</path>
 		<name>Pole Position</name>
 		<desc>Pole Position is a 1-player game using a color raster-scan video display. Game action takes place at the Fuji Speedway in Japan. The country around the speedway consists of green meadows, hills, and snow-capped Mt. Fuji. 
@@ -72901,6 +72848,22 @@ Scoring went up to 21 pts.</desc>
 		<cheevosHash>C0A789113BF696C1F7BCB46044568A0B</cheevosHash>
 	</game>
 	<game>
+		<path>./finalttr.zip</path>
+		<name>Final Tetris</name>
+		<image>./mixart/finalttr.png</image>
+		<video>./snap/finalttr.mp4</video>
+		<marquee>./wheel/finalttr.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Jeil Computer System</developer>
+		<publisher>Jeil Computer System</publisher>
+		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>176E2CD082315D56AB5B9BE67562A9F4</cheevosHash>
+	</game>
+	<game>
 		<path>./tetrisse.zip</path>
 		<name>Tetris (Sega)</name>
 		<desc>Tetris is an arcade game published by Sega in 1988. It took Japanese arcades by storm, and is one of the most commonly known versions of the game. Due to its popularity, it became the base of rules for many other Japanese games created later on, both licensed and unlicensed. Such games include the TGM series, Tetris Plus series, Tetris S and Shimizu Tetris. It was one of the first games to have lock delay, greatly improving maneuverability at high speeds.</desc>
@@ -72916,5 +72879,42 @@ Scoring went up to 21 pts.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A492A2BD3C0F83C364A391E58DDC64DE</cheevosHash>
+	</game>
+	<game>
+		<path>./dkong.zip</path>
+		<name>Donkey Kong</name>
+		<desc>An absolutely legendary arcade game in which the player takes on the role of Mario - who makes his debut in this game, and would go on to become a gaming legend - and must battle his way to the top of each level to rescue h</desc>
+		<image>./mixart/dkong.png</image>
+		<video>./snap/dkong.mp4</video>
+		<marquee>./wheel/dkong.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19810101T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Platform-Plateform / Run Jump</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>02BBE063EFC4B8883206C66E6CB775C9</cheevosHash>
+		<cheevosId>11943</cheevosId>
+	</game>
+	<game>
+		<path>./mario.zip</path>
+		<name>Mario Bros.</name>
+		<desc>Mario Bros. is a superb, single-screen platform game in which the legendary "Mario Bros.", Mario and Luigi, must try to rid each level of a number of pests that have infested the waterworks: Shellcreepers (turtles), Sidesteppers (crabs that need to be hit twice) and Fighterflies (flies that can only be attacked when they touch a platform).
+
+Players can jump upwards to hit the platform above them, which will 'flip' any enemies on the above platform onto their backs. The prone enemies can then be kicked into the water to remove them. A 'POW' button also appears on a number of screen; this can be 'butted' by a player, causing all on-screen enemies to flip onto their backs; as well as destroying any enemy fireballs that may be around. Each POW can only be used a maximum of three times. 
+
+As well as the game's enemies, players are also hampered by the huge amount of inertia that comes into play when controlling Mario or Luigi. This is due to the low degree of traction that exists between the Mario brothers and the platforms. On later phases, ice appears on the platforms reducing the amount of traction even further. As the game progresses, water droplets hang below the platforms and freeze into deadly icicles, which will eventually break off and fall.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003</core>
+		<image>./mixart/mario.png</image>
+		<video>./snap/mario.mp4</video>
+		<marquee>./wheel/mario.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19830101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DE2F15D014D40B93578D255E6221FD60</cheevosHash>
+		<cheevosId>11946</cheevosId>
 	</game>
 </gameList>

@@ -416,19 +416,6 @@ NOTE: Requires keyboard to exit!</desc>
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Super Mario War.lnk</path>
-		<name>Super Mario War</name>
-		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
-		<image>./mixart/Super Mario War.png</image>
-		<video>./snap/Super Mario War.mp4</video>
-		<marquee>./wheel/Super Mario War.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20060101T000000</releasedate>
-		<genre>Fighting</genre>
-		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./SuperTuxKart.lnk</path>
 		<name>SuperTuxKart</name>
 		<desc>SuperTuxKart is a Free 3d kart racing game; we want to make the game fun more than we want to make it realistic. You can play with up to 4 friends on one PC, racing against each other or just try to beat the computer. (a network multiplayer feature is planned) See the great lighthouse or drive through the sand and visit the pyramids. Race underground or in space, watching the stars passing by. Have some rest under the palms on the beach (watching the other karts overtaking you :) ). But don't eat the bananas! Watch for bowling balls, plungers, bubble gum and cakes thrown by opponents. You can do a single race against other karts, compete in one of several Grand Prix, try to beat the high score in time trials on your own, play battle mode against your friends, and more!</desc>
@@ -641,6 +628,19 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<publisher>FanGame</publisher>
 		<genre>Fighting</genre>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Mario War.lnk</path>
+		<name>Super Mario War</name>
+		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
+		<image>./mixart/Super Mario War.png</image>
+		<video>./snap/Super Mario War.mp4</video>
+		<marquee>./wheel/Super Mario War.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

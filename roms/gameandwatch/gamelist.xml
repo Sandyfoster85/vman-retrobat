@@ -421,22 +421,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="88073" source="ScreenScraper.fr">
-		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
-		<name>Mario Bros.</name>
-		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
-		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
-		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
-		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="88074" source="ScreenScraper.fr">
 		<path>./Mario's Bombs Away (Nintendo G&amp;W, Panorama).mgw</path>
 		<name>Mario's Bombs Away</name>
@@ -782,7 +766,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Baseball.mp4</video>
 		<marquee>./wheel/Baseball.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>VTech</developer>
 		<publisher>VTech</publisher>
 		<genre>Action</genre>
@@ -798,7 +782,7 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Lifeboat (Nintendo, Multi Screen).mp4</video>
 		<marquee>./wheel/Lifeboat (Nintendo, Multi Screen).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Nintendo</developer>
 		<publisher>Nintendo</publisher>
 		<genre>Action</genre>
@@ -814,10 +798,26 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<video>./snap/Tron.mp4</video>
 		<marquee>./wheel/Tron.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Tomytronic</developer>
 		<publisher>Tomytronic</publisher>
 		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="88073" source="ScreenScraper.fr">
+		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
+		<name>Mario Bros.</name>
+		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
+		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
+		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>

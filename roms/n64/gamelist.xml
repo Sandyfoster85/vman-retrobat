@@ -2625,23 +2625,6 @@
 		<region>us</region>
 		<cheevosHash>9F62363594B50F8A2695C113E52D9485</cheevosHash>
 	</game>
-	<game id="5559" source="ScreenScraper.fr">
-		<path>./New Tetris, The (USA).n64</path>
-		<name>The New Tetris</name>
-		<desc>In this new version Tetris, from the same people that brought Tetris into the 3D sphere world, you can now play a 4 player game, and dump your cleared lines to another player using 'garbage'.  In the single player mode, the total lines cleared in every match that you play are added up, and once you reach a certain amount, a famous monument will be unlocked, and you can view them from all angles in full 3D.</desc>
-		<image>./mixart/New Tetris, The (USA).png</image>
-		<video>./snap/New Tetris, The (USA).mp4</video>
-		<marquee>./wheel/New Tetris, The (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990731T000000</releasedate>
-		<developer>Blue Planet Software</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
-		<players>4</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD417F24466BEE4443CF0A7740E34C1A</cheevosHash>
-	</game>
 	<game>
 		<path>./NFL Blitz (USA).n64</path>
 		<name>NFL Blitz</name>
@@ -5363,5 +5346,24 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>6D6B7C02ECE14B4FEB390F1F298C0465</cheevosHash>
+	</game>
+	<game id="5559" source="ScreenScraper.fr">
+		<path>./New Tetris, The (USA).n64</path>
+		<name>The New Tetris</name>
+		<desc>In this new version Tetris, from the same people that brought Tetris into the 3D sphere world, you can now play a 4 player game, and dump your cleared lines to another player using 'garbage'.  In the single player mode, the total lines cleared in every match that you play are added up, and once you reach a certain amount, a famous monument will be unlocked, and you can view them from all angles in full 3D.</desc>
+		<emulator>libretro</emulator>
+		<core>parallel_n64</core>
+		<image>./mixart/New Tetris, The (USA).png</image>
+		<video>./snap/New Tetris, The (USA).mp4</video>
+		<marquee>./wheel/New Tetris, The (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990731T000000</releasedate>
+		<developer>Blue Planet Software</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
+		<players>4</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD417F24466BEE4443CF0A7740E34C1A</cheevosHash>
 	</game>
 </gameList>

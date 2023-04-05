@@ -1512,21 +1512,6 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<releasedate />
 		<lang>en</lang>
 	</game>
-	<game id="26151" source="ScreenScraper.fr">
-		<path>./Tetris.m3u</path>
-		<name>Tetris</name>
-		<desc>The first Tetris game for the PlayStation 3 will feature a variety of online and offline multiplayer modes in cooperative and competitive flavors.</desc>
-		<image>./mixart/Tetris.png</image>
-		<video>./snap/Tetris.mp4</video>
-		<marquee>./wheel/Tetris.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20101222T000000</releasedate>
-		<developer>Electronic Arts</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Puzzle-Game</genre>
-		<lang>en</lang>
-		<genreid>2816</genreid>
-	</game>
 	<game id="0" source="ScreenScraper.fr">
 		<path>./TMNT Turtles In Time Re-Shelled.m3u</path>
 		<name>TMNT Turtles In Time Re-Shelled</name>
@@ -2229,5 +2214,20 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="26151" source="ScreenScraper.fr">
+		<path>./Tetris.m3u</path>
+		<name>Tetris</name>
+		<desc>The first Tetris game for the PlayStation 3 will feature a variety of online and offline multiplayer modes in cooperative and competitive flavors.</desc>
+		<image>./mixart/Tetris.png</image>
+		<video>./snap/Tetris.mp4</video>
+		<marquee>./wheel/Tetris.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20101222T000000</releasedate>
+		<developer>Electronic Arts</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Puzzle-Game</genre>
+		<lang>en</lang>
+		<genreid>2816</genreid>
 	</game>
 </gameList>

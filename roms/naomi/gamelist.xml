@@ -1407,22 +1407,6 @@
 		<cheevosHash>53B98E6B4F0ECBA35763DC868A3F1D7E</cheevosHash>
 	</game>
 	<game>
-		<path>./sgtetris.zip</path>
-		<name>Sega Tetris</name>
-		<desc>Sega Tetris brings the Nintendo classic to the Naomi. Expect the same fundamental gameplay here: Tetris blocks of set shapes drop from the top and you have to line them up on the bottom, forming lines that disappear.</desc>
-		<image>./mixart/sgtetris.png</image>
-		<video>./snap/sgtetris.mp4</video>
-		<marquee>./wheel/sgtetris.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>DC3BFEB360DE40C1D7DAB48417CF3DE7</cheevosHash>
-	</game>
-	<game>
 		<path>./shaktamb.bin</path>
 		<name>Shakatto Tambourine! (2K1 AUT, GDS-0016)</name>
 		<desc>Shakatto Tambourine! is a Sega NAOMI arcade game released exclusively in Japan in 2000. It is very similar in nature to Samba de Amigo, but rather than rely on maracas, the game uses tambourines.    Like Samba de Amigo, Shakatyo Tambourine! was followed by an update, Shakatto Tambourine! 2001. In a strange turn of events Shakatto Tambourine! was never brought to a Sega home platform, but was brought to the Sony PlayStation in the form of MiniMoni. Shakatto Tambourine! Dapyon!, complete with tambourine controllers built similarly to the Sega Dreamcast's Samba de Amigo Maracas (provided by Sammy).</desc>
@@ -1931,5 +1915,21 @@
 		<players>2</players>
 		<lang>en</lang>
 		<cheevosHash>40ECEB0ED5E06A700651C1E65CC87A84</cheevosHash>
+	</game>
+	<game>
+		<path>./sgtetris.zip</path>
+		<name>Sega Tetris</name>
+		<desc>Sega Tetris brings the Nintendo classic to the Naomi. Expect the same fundamental gameplay here: Tetris blocks of set shapes drop from the top and you have to line them up on the bottom, forming lines that disappear.</desc>
+		<image>./mixart/sgtetris.png</image>
+		<video>./snap/sgtetris.mp4</video>
+		<marquee>./wheel/sgtetris.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Puzzle-Game-Puzzle-Game / Fall</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>DC3BFEB360DE40C1D7DAB48417CF3DE7</cheevosHash>
 	</game>
 </gameList>

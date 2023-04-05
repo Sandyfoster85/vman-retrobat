@@ -3747,23 +3747,6 @@ Game players answer multiple choice questions stated by the host.</desc>
 		<scrap name="ScreenScraper" date="20230206T195255" />
 		<scrap name="TheGamesDB" date="20230206T194225" />
 	</game>
-	<game id="104791" source="ScreenScraper.fr">
-		<path>./Tetris (USA, Europe).chd</path>
-		<name>Tetris</name>
-		<desc>Your pulse quickens. Beams, boxes, zig-zags and "L" shaped building blocks drop relentlessly down a narrow passage. You quickly spin, shift, and align the shapes then slide them in for a perfect fit. It's challenging and the pace is demanding. But satisfaction comes as you position each block neatly into place.</desc>
-		<image>./mixart/Tetris (USA, Europe).png</image>
-		<video>./snap/Tetris (USA, Europe).mp4</video>
-		<marquee>./wheel/Tetris (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Philips P.O.V. Entertainment Group</developer>
-		<publisher>Philips Interactive Media</publisher>
-		<genre>Action / Breakout games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="104793" source="ScreenScraper.fr">
 		<path>./Text Tiles (USA, Europe).chd</path>
 		<name>Text Tiles</name>
@@ -4022,24 +4005,6 @@ A feature of the game is the voice acting talent of Eugene Levy who is most nota
 		<scrap name="ScreenScraper" date="20230206T194849" />
 		<scrap name="TheGamesDB" date="20230206T194202" />
 	</game>
-	<game id="104730" source="ScreenScraper.fr">
-		<path>./Hotel Mario (Europe).chd</path>
-		<name>Hotel Mario</name>
-		<desc>Bowser has taken over the Mushroom Kingdom, -He's captured Princess Toadstool and is holding her in one of the seven hotels in the kingdom. Only you and Mario can free the Princess but you'll have to battle Koopas, Parabombs, Banzai Bill, Spiney, Monty, Pat the Bat and other nefarious nasties!</desc>
-		<image>./mixart/Hotel Mario (Europe).png</image>
-		<video>./snap/Hotel Mario (Europe).mp4</video>
-		<marquee>./wheel/Hotel Mario (Europe).png</marquee>
-		<releasedate>19940405T000000</releasedate>
-		<developer>Philips Fantasy Factory</developer>
-		<publisher>Philips Interactive Media</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-		<genreid>2816</genreid>
-	</game>
 	<game id="104731" source="ScreenScraper.fr">
 		<path>./Inca (USA).chd</path>
 		<name>Inca</name>
@@ -4079,26 +4044,6 @@ Inca is a game that combines adventure and action, or to put it more correctly, 
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>256</genreid>
-	</game>
-	<game id="108798">
-		<path>./Mario Wacky Worlds (prototype).chd</path>
-		<name>Mario Wacky Worlds</name>
-		<desc>Super Mario's Wacky Worlds was a canceled Mario platform video game developed by NovaLogic for the Philips CD-i system. The game was conceived as a sequel to Super Mario World.</desc>
-		<image>./mixart/Mario Wacky Worlds (prototype).png</image>
-		<video>./snap/Mario Wacky Worlds (prototype).mp4</video>
-		<marquee>./wheel/Mario Wacky Worlds (prototype).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Prototype</developer>
-		<publisher>Novalogic</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>4a2a65cf9695c5936810c38228c4e541</md5>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-		<scrap name="ScreenScraper" date="20230206T225556" />
-		<scrap name="TheGamesDB" date="20230206T194211" />
 	</game>
 	<game id="104782" source="ScreenScraper.fr">
 		<path>./Space Ace (Europe).chd</path>
@@ -4178,5 +4123,60 @@ Inca is a game that combines adventure and action, or to put it more correctly, 
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>256</genreid>
+	</game>
+	<game id="104791" source="ScreenScraper.fr">
+		<path>./Tetris (USA, Europe).chd</path>
+		<name>Tetris</name>
+		<desc>Your pulse quickens. Beams, boxes, zig-zags and "L" shaped building blocks drop relentlessly down a narrow passage. You quickly spin, shift, and align the shapes then slide them in for a perfect fit. It's challenging and the pace is demanding. But satisfaction comes as you position each block neatly into place.</desc>
+		<image>./mixart/Tetris (USA, Europe).png</image>
+		<video>./snap/Tetris (USA, Europe).mp4</video>
+		<marquee>./wheel/Tetris (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Philips P.O.V. Entertainment Group</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Action / Breakout games</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="104730" source="ScreenScraper.fr">
+		<path>./Hotel Mario (Europe).chd</path>
+		<name>Hotel Mario</name>
+		<desc>Bowser has taken over the Mushroom Kingdom, -He's captured Princess Toadstool and is holding her in one of the seven hotels in the kingdom. Only you and Mario can free the Princess but you'll have to battle Koopas, Parabombs, Banzai Bill, Spiney, Monty, Pat the Bat and other nefarious nasties!</desc>
+		<image>./mixart/Hotel Mario (Europe).png</image>
+		<video>./snap/Hotel Mario (Europe).mp4</video>
+		<marquee>./wheel/Hotel Mario (Europe).png</marquee>
+		<releasedate>19940405T000000</releasedate>
+		<developer>Philips Fantasy Factory</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>2816</genreid>
+	</game>
+	<game id="108798">
+		<path>./Mario Wacky Worlds (prototype).chd</path>
+		<name>Mario Wacky Worlds</name>
+		<desc>Super Mario's Wacky Worlds was a canceled Mario platform video game developed by NovaLogic for the Philips CD-i system. The game was conceived as a sequel to Super Mario World.</desc>
+		<image>./mixart/Mario Wacky Worlds (prototype).png</image>
+		<video>./snap/Mario Wacky Worlds (prototype).mp4</video>
+		<marquee>./wheel/Mario Wacky Worlds (prototype).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Prototype</developer>
+		<publisher>Novalogic</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>4a2a65cf9695c5936810c38228c4e541</md5>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<scrap name="ScreenScraper" date="20230206T225556" />
+		<scrap name="TheGamesDB" date="20230206T194211" />
 	</game>
 </gameList>

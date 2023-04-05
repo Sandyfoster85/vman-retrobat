@@ -4433,23 +4433,6 @@
 		<cheevosHash>69B9DD7CB1A1E35DD92B5064ADF4B2E2</cheevosHash>
 	</game>
 	<game>
-		<path>./Tetris Plus (USA).chd</path>
-		<name>Tetris Plus</name>
-		<desc>This is yet another updated version of Tetris which was released for PlayStation, Saturn, and Game Boy.  This version features Classic mode, Puzzle mode, Versus mode, and Edit mode.  In Puzzle mode, you must save the professor who climbs his way to the top.  In order to do that, you must clear the blocks away and bring him to the bottom.  Versus mode brings you head to head with another player.  Edit mode allows you to create and save your own custom levels.</desc>
-		<image>./mixart/Tetris Plus (USA).png</image>
-		<video>./snap/Tetris Plus (USA).mp4</video>
-		<marquee>./wheel/Tetris Plus (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19960930T000000</releasedate>
-		<developer>Natsume</developer>
-		<publisher>Jaleco</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A3CDD0FACEC55B5C50FE09CC66FAD07F</cheevosHash>
-	</game>
-	<game>
 		<path>./Theme Park (USA).chd</path>
 		<name>Theme Park</name>
 		<desc>Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.  Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.  You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.  It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.</desc>
@@ -5409,5 +5392,22 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>556F2E0C7C6D3542953673BD4FC7A8D9</cheevosHash>
+	</game>
+	<game>
+		<path>./Tetris Plus (USA).chd</path>
+		<name>Tetris Plus</name>
+		<desc>This is yet another updated version of Tetris which was released for PlayStation, Saturn, and Game Boy.  This version features Classic mode, Puzzle mode, Versus mode, and Edit mode.  In Puzzle mode, you must save the professor who climbs his way to the top.  In order to do that, you must clear the blocks away and bring him to the bottom.  Versus mode brings you head to head with another player.  Edit mode allows you to create and save your own custom levels.</desc>
+		<image>./mixart/Tetris Plus (USA).png</image>
+		<video>./snap/Tetris Plus (USA).mp4</video>
+		<marquee>./wheel/Tetris Plus (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19960930T000000</releasedate>
+		<developer>Natsume</developer>
+		<publisher>Jaleco</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A3CDD0FACEC55B5C50FE09CC66FAD07F</cheevosHash>
 	</game>
 </gameList>
