@@ -1056,27 +1056,6 @@ Despite the historical European setting, GunBlaze has typically Japanese manga/a
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T211726" />
 	</game>
-	<game id="362398">
-		<path>./After Burner III (Japan).cd</path>
-		<name>After Burner III</name>
-		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
-
-The title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
-
-Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
-		<emulator>tsugaru</emulator>
-		<core>tsugaru</core>
-		<image>./mixart/After Burner III (Japan).png</image>
-		<video>./snap/After Burner III (Japan).mp4</video>
-		<marquee>./wheel/After Burner III (Japan).png</marquee>
-		<releasedate>19920101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>CSK</publisher>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<scrap name="ScreenScraper" date="20230324T111439" />
-	</game>
 	<game id="363448">
 		<path>./bubble bobble.chd</path>
 		<name>Bubble Bobble</name>
@@ -1393,5 +1372,26 @@ Burai: Jōkan is a Japanese-style RPG with top-down navigation, world map and to
 		<lang>jp</lang>
 		<region>jp</region>
 		<scrap name="ScreenScraper" date="20230325T210657" />
+	</game>
+	<game id="362398">
+		<path>./After Burner III (Japan).cd</path>
+		<name>After Burner III</name>
+		<desc>The third in Sega's arcade flight sim series, After Burner III takes you back to the cockpit of the F-14 Tomcat in order to take on as many terrorist airplanes as you can with your arsenal of sidewinder missiles and your trusty vulcan cannon.
+
+The title is actually a port of SEGA's arcade fight-sim Strike Fighter, a Japan-only arcade release that attempted to mix the sim "lite" gameplay of G-Loc Air Battle with After Burner's arcade gimmicks. As such, the game features the ability to play both in the cockpit as well as in the classic third person perspective. Both night and day scenarios are now available, with mission objectives that include new air-ground strikes. 
+
+Includes 3 gameplay modes: Arcade, Timed and "Hits" which measures how many enemies you can shoot down in specific waves. No multiplayer support available.</desc>
+		<emulator>tsugaru</emulator>
+		<core>tsugaru</core>
+		<image>./mixart/After Burner III (Japan).png</image>
+		<video>./snap/After Burner III (Japan).mp4</video>
+		<marquee>./wheel/After Burner III (Japan).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>CSK</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<scrap name="ScreenScraper" date="20230324T111439" />
 	</game>
 </gameList>
