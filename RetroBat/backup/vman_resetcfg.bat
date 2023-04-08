@@ -25,6 +25,7 @@ for %%I in (^
  %EMULATIONSTATION%\es_padtokey.cfg^
  %EMULATIONSTATION%\es_systems.cfg^
  %EMULATIONSTATION%\es_settings.cfg^
+ %EMULATIONSTATION%\es_input.cfg.org^
  %BASE%\emulators\retroarch\cores\mame_libretro.dll^
  %BASE%\emulators\retroarch\cores\fbneo_libretro.dll^
  %BASE%\system\es_menu\*.menu^
