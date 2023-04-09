@@ -1836,23 +1836,6 @@
 		<cheevosHash>4955279A4E0CA665D20B6E8067CD2A5A</cheevosHash>
 	</game>
 	<game>
-		<path>./Corpse Killer (USA).chd</path>
-		<name>Corpse Killer</name>
-		<desc>Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.    The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.</desc>
-		<image>./mixart/Corpse Killer (USA).png</image>
-		<video>./snap/Corpse Killer (USA).mp4</video>
-		<marquee>./wheel/Corpse Killer (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Digital Pictures</developer>
-		<publisher>Digital Pictures</publisher>
-		<genre>Lightgun Shooter-Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F2B052859174AD98E18B3C3267A4A31A</cheevosHash>
-	</game>
-	<game>
 		<path>./Super Wing Commander (Europe).chd</path>
 		<name>Super Wing Commander</name>
 		<desc>A remake of the first Wing Commander with all-new graphics and sound.  As in the original game, the player takes control of a young pilot on the carrier TCS Tiger's Claw to fly missions in the war against the Kilrathi.  Super Wing Commander includes the Vega campaign from the original game and the first Secret Missions add-on campaign. Exclusive to this version is a new campaign set between Secret Missions 1 and 2 where the Tiger's Claw must find and destroy the base where the Sivar dreadnought from Secret Missions 1 was developed.  The look of the original game has been completely redesigned, with ships and people looking completely different from the original. All dialogue is now heard through digitized speech.</desc>
@@ -1887,6 +1870,22 @@
 		<cheevosHash>EF370EBCA02F745F73F283660613C333</cheevosHash>
 	</game>
 	<game>
+		<path>./BladeForce (Europe).chd</path>
+		<name>Blade Force</name>
+		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
+		<image>./mixart/BladeForce (Europe).png</image>
+		<video>./snap/BladeForce (Europe).mp4</video>
+		<marquee>./wheel/BladeForce (Europe).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Panasonic</developer>
+		<publisher>Panasonic</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6B9B1A1C8724A04A80D7F3A58F8A24AF</cheevosHash>
+	</game>
+	<game>
 		<path>./BattleSport (Europe).chd</path>
 		<name>Battlesport</name>
 		<desc>Battlesport simulates the sport of the future. Choose your vehicle and enter the arena to face your computer opponents to see who scores the most goals before the clock runs out.    Scoring isn't easy. The ball constantly bounces over the arena, retrieved by a player constantly bombarded by opponents. A variety of weapons are available to shoot your competitor, and anyone that takes a hit while carrying the ball loses possession, sending the ball bouncing across the arena. Taking too many shots results in a temporary inability to take part in the action while your opponent happily scores goals.    Winning matches increases standing in the rankings and the acquisition of cash to purchase a better vehicle and enhanced offensive or defensive items.</desc>
@@ -1904,19 +1903,20 @@
 		<cheevosHash>5B2F29B3789D5D7601712FAC6CB88C04</cheevosHash>
 	</game>
 	<game>
-		<path>./BladeForce (Europe).chd</path>
-		<name>Blade Force</name>
-		<desc>In the year 2110, in the city of Meggagrid, once known as Los Angeles, you meet Dr. Grubert, a very prominent inventor who has been crippled by an explosion perpetrated by a crime family known as The Pitt Family.  He gives a suit known as the Helipak Flight Suit to fight back and take down the criminals in the city and apprehend The Pitt Family and bring peace back to the city.  With an arsenal of nine different weapons and twenty power-ups, the player flies around seven levels of the city with six degrees of freedom.</desc>
-		<image>./mixart/BladeForce (Europe).png</image>
-		<video>./snap/BladeForce (Europe).mp4</video>
-		<marquee>./wheel/BladeForce (Europe).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Panasonic</developer>
-		<publisher>Panasonic</publisher>
-		<genre>Action</genre>
+		<path>./Corpse Killer (USA).chd</path>
+		<name>Corpse Killer</name>
+		<desc>Corpse Killer is a full-motion video shoot-'em up. You play as an elite special forces soldier, who parachutes onto a remote tropical island. It seems the evil genius Dr. Hellman has found a way to raise the dead, and created an island of zombies. It's up to you to shoot your way through the undead hordes and stop Dr. Hellman.    The game is played from a first-person perspective. Various zombies pop up in front of a video background, and you shoot them down by moving a cursor on screen or by using a light gun. The Saturn version has a few different features including extra power-ups as well as added footage of enemies.</desc>
+		<image>./mixart/Corpse Killer (USA).png</image>
+		<video>./snap/Corpse Killer (USA).mp4</video>
+		<marquee>./wheel/Corpse Killer (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Digital Pictures</developer>
+		<publisher>Digital Pictures</publisher>
+		<genre>Lightgun Shooter-Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>6B9B1A1C8724A04A80D7F3A58F8A24AF</cheevosHash>
+		<region>us</region>
+		<cheevosHash>F2B052859174AD98E18B3C3267A4A31A</cheevosHash>
 	</game>
 </gameList>

@@ -359,23 +359,6 @@ The most evil wizard, Narzod, gained the power to enslave all mankind. You are t
 		<cheevosHash>E65B3262E9447A747D93E0CCB1DBB7DF</cheevosHash>
 	</game>
 	<game>
-		<path>./3D Mine Storm (USA).zip</path>
-		<name>3D Mine Storm</name>
-		<desc>In 3D Mine Storm, the player controls a ship through multiple mine fields destroying all mines on each field to progress to the next field. The game will start with the enemy minelayer seeding the first mine field. Mines are left in 3 different levels or planes per field. The player's ship will come into view after all the mines have been activated and the minelayer has left the field.</desc>
-		<image>./mixart/3D Mine Storm (USA).png</image>
-		<video>./snap/3D Mine Storm (USA).mp4</video>
-		<marquee>./wheel/3D Mine Storm (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19830101T000000</releasedate>
-		<developer>GCE</developer>
-		<publisher>GCE</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1A81FEA8AC1C1D46DE7B633814130857</cheevosHash>
-	</game>
-	<game>
 		<path>./3D Narrow Escape (USA).zip</path>
 		<name>3D Narrow Escape</name>
 		<desc>Enter the stellar fortress of a 23rd century warlord whose evil intent is to dominate your home star system and enslave all its inhabitants.
@@ -428,5 +411,22 @@ The future of the galaxy rests on your shoulders. Good luck!</desc>
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>268E75778F282D853D77ACF42C6C8734</cheevosHash>
+	</game>
+	<game>
+		<path>./3D Mine Storm (USA).zip</path>
+		<name>3D Mine Storm</name>
+		<desc>In 3D Mine Storm, the player controls a ship through multiple mine fields destroying all mines on each field to progress to the next field. The game will start with the enemy minelayer seeding the first mine field. Mines are left in 3 different levels or planes per field. The player's ship will come into view after all the mines have been activated and the minelayer has left the field.</desc>
+		<image>./mixart/3D Mine Storm (USA).png</image>
+		<video>./snap/3D Mine Storm (USA).mp4</video>
+		<marquee>./wheel/3D Mine Storm (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19830101T000000</releasedate>
+		<developer>GCE</developer>
+		<publisher>GCE</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1A81FEA8AC1C1D46DE7B633814130857</cheevosHash>
 	</game>
 </gameList>

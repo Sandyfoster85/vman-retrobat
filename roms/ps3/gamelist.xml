@@ -2058,22 +2058,6 @@ The survival horror experience begins after a prison transport vehicle careens o
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="0" source="ScreenScraper.fr">
-		<path>./1942 Joint Strike.m3u</path>
-		<name>1942 Joint Strike</name>
-		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
-		<image>./mixart/1942 Joint Strike.png</image>
-		<video>./snap/1942 Joint Strike.mp4</video>
-		<marquee>./wheel/1942 Joint Strike.png</marquee>
-		<rating>0.69</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="25507" source="ScreenScraper.fr">
 		<path>./3D Dot Game Heroes.m3u</path>
 		<name>3d Dot Game Heroes</name>
@@ -2229,5 +2213,21 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<genre>Puzzle-Game</genre>
 		<lang>en</lang>
 		<genreid>2816</genreid>
+	</game>
+	<game id="0" source="ScreenScraper.fr">
+		<path>./1942 Joint Strike.m3u</path>
+		<name>1942 Joint Strike</name>
+		<desc>1942: Joint Strike takes inspiration and influence from the 194X series of World War II-themed vertical shooters. The art, sound, and gameplay of the new game takes cues from the original 194X games, but stands out as its own unique entry. Gameplay resembles the classic 2D style that gamers expect, but the game utilizes a full 3D engine. Set in a World War II-themed locale, stages, vehicles, and weapons have the look and feel of WWII with some stylistic differences. The world in which 1942 takes place is not our own and the events that transpire are not historically accurate, nor are they intended to be. This is an alternate world where history and technology developed along their own paths. As a result, players jump into the cockpits of WWII-era aircraft to take on huge waves of incoming enemy fire, dodging explosions and missiles while challenging huge bosses at the end of each stage. New co-op "Joint Strike attacks" combine the powers of two aircrafts into a devastating barrage.</desc>
+		<image>./mixart/1942 Joint Strike.png</image>
+		<video>./snap/1942 Joint Strike.mp4</video>
+		<marquee>./wheel/1942 Joint Strike.png</marquee>
+		<rating>0.69</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

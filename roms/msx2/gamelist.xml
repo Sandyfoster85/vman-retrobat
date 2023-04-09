@@ -943,25 +943,6 @@ The backgrounds are noticeably more detailed than in the original version; also,
 		<region>jp</region>
 		<cheevosHash>0855944D76448A593AC0C05F645AB257</cheevosHash>
 	</game>
-	<game>
-		<path>./Metal Gear 2 - Solid Snake (Japan).zip</path>
-		<name>Metal Gear 2 - Solid Snake</name>
-		<desc>In 1999, a great scientist named Kio Marv invented "oilix", a special petroleum-purifying substance that was supposed to help in the upcoming oil crisis. Shortly after the invention became known in the world, Dr. Marv was abducted. An investigation showed that he was held captive in Zanzibar Land, an isolated state in Central Asia which was ruled by a group of mercenaries from all around the world. Having oilix in addition to nuclear weapons are bound to Zanzibar an invincible state that would sooner or later attempt to conquer the entire world. Roy Campbell, ex-commander of special unit FOXHOUND, sends Solid Snake, the man who has single-handedly brought down the military nation of Outer Heaven four years ago, on a mission to infiltrate Zanzibar and to bring back the scientist and his invention.
-
-Like its predecessor, Metal Gear 2: Solid Snake is a stealth game. The driving element of the gameplay is to stay unnoticed. If guards spot you, you don't have much chance in combat, unless you are armed with appropriate weapons, which aren't easily acquired. Snake can use a variety of weapons and gadgets to help him survive during his mission. He can also hide behind objects, punch guards, and crawl. From time to time he'll have to participate in boss battles, where stealth won't help any more.</desc>
-		<image>./mixart/Metal Gear 2 - Solid Snake (Japan).png</image>
-		<video>./snap/Metal Gear 2 - Solid Snake (Japan).mp4</video>
-		<marquee>./wheel/Metal Gear 2 - Solid Snake (Japan).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>19900720T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>9F50D92D35E19D5DE37D75A36A410588</cheevosHash>
-		<cheevosId>10504</cheevosId>
-	</game>
 	<game id="94537" source="ScreenScraper.fr">
 		<path>./Antarctic Adventure (Europe).zip</path>
 		<name>Kekkyoku Nankyoku Daibouken</name>
@@ -1841,6 +1822,26 @@ Really loved the spacecraft scenes complete with their robotic butler drivers an
 		<md5>d2f51a8ac5b78d322d6ba404e962f07a</md5>
 		<lang>jp</lang>
 		<region>jp</region>
+		<cheevosHash>D2F51A8AC5B78D322D6BA404E962F07A</cheevosHash>
 		<scrap name="ScreenScraper" date="20230209T203723" />
+	</game>
+	<game>
+		<path>./Metal Gear 2 - Solid Snake (Japan).zip</path>
+		<name>Metal Gear 2 - Solid Snake</name>
+		<desc>In 1999, a great scientist named Kio Marv invented "oilix", a special petroleum-purifying substance that was supposed to help in the upcoming oil crisis. Shortly after the invention became known in the world, Dr. Marv was abducted. An investigation showed that he was held captive in Zanzibar Land, an isolated state in Central Asia which was ruled by a group of mercenaries from all around the world. Having oilix in addition to nuclear weapons are bound to Zanzibar an invincible state that would sooner or later attempt to conquer the entire world. Roy Campbell, ex-commander of special unit FOXHOUND, sends Solid Snake, the man who has single-handedly brought down the military nation of Outer Heaven four years ago, on a mission to infiltrate Zanzibar and to bring back the scientist and his invention.
+
+Like its predecessor, Metal Gear 2: Solid Snake is a stealth game. The driving element of the gameplay is to stay unnoticed. If guards spot you, you don't have much chance in combat, unless you are armed with appropriate weapons, which aren't easily acquired. Snake can use a variety of weapons and gadgets to help him survive during his mission. He can also hide behind objects, punch guards, and crawl. From time to time he'll have to participate in boss battles, where stealth won't help any more.</desc>
+		<image>./mixart/Metal Gear 2 - Solid Snake (Japan).png</image>
+		<video>./snap/Metal Gear 2 - Solid Snake (Japan).mp4</video>
+		<marquee>./wheel/Metal Gear 2 - Solid Snake (Japan).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>19900720T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>9F50D92D35E19D5DE37D75A36A410588</cheevosHash>
+		<cheevosId>10504</cheevosId>
 	</game>
 </gameList>

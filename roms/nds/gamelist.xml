@@ -29185,26 +29185,6 @@ The VS Com and Multiplayer are similar. You must defeat either the Com or anothe
 		<cheevosId>5522</cheevosId>
 	</game>
 	<game>
-		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
-		<name>Aliens - Infestation</name>
-		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
-
--Choose you squad and watch the dynamic story system adapt
--Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
--Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
-		<image>./mixart/Aliens - Infestation (USA) (En,Fr,De).png</image>
-		<video>./snap/Aliens - Infestation (USA) (En,Fr,De).mp4</video>
-		<marquee>./wheel/Aliens - Infestation (USA) (En,Fr,De).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20110930T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Wayforward Technologies</publisher>
-		<favorite>true</favorite>
-		<lang>de,en,fr</lang>
-		<region>eu</region>
-		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
-	</game>
-	<game>
 		<path>./Metroid Prime - Hunters (USA).zip</path>
 		<name>Metroid Prime - Hunters</name>
 		<desc>An episode in the Metroid Prime series which started on the GameCube, this game takes place between Metroid Prime and Metroid Prime 2: Echoes. Interstellar bounty hunter Samus Aran is sent to the distant Alimbic Cluster by the Galactic Federation to investigate a message saying that the source of ultimate power lies in this desolate part of the galaxy, once home to an advanced culture.
@@ -29244,5 +29224,25 @@ The game also features a single-card multiplayer mode. In this mode, up to eight
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5BE0283662014ADDEB952709C043F5C6</cheevosHash>
+	</game>
+	<game>
+		<path>./Aliens - Infestation (USA) (En,Fr,De).zip</path>
+		<name>Aliens - Infestation</name>
+		<desc>GAME OVER, MAN!  The Xenomorph, the ultimate killing machine, returns.  Only the Universe's toughest, the Colonial Marines, can exterminate the galaxy's most feared species.  Can you fight off the terror of the alien infestation?
+
+-Choose you squad and watch the dynamic story system adapt
+-Pick up where the Aliens crew left off and fight through the U.S.S. Sulaco, planet LV-426, and more!
+-Load up with iconic weapons from the film, including pulse rifles, smart guns, and flamethrowers.</desc>
+		<image>./mixart/Aliens - Infestation (USA) (En,Fr,De).png</image>
+		<video>./snap/Aliens - Infestation (USA) (En,Fr,De).mp4</video>
+		<marquee>./wheel/Aliens - Infestation (USA) (En,Fr,De).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20110930T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Wayforward Technologies</publisher>
+		<favorite>true</favorite>
+		<lang>de,en,fr</lang>
+		<region>eu</region>
+		<cheevosHash>217483572FFD1F9E9E0CF368D78B0889</cheevosHash>
 	</game>
 </gameList>

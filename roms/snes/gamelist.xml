@@ -5691,27 +5691,6 @@ O OVNI queima seu combustível de peixe rapidamente, então o polvo tem que pega
 		<cheevosHash>2E60FE37D3CB806483C825118B4F55A6</cheevosHash>
 		<scrap name="ScreenScraper" date="20230126T143809" />
 	</game>
-	<game id="19002" source="ScreenScraper.fr">
-		<path>./Battle Clash (USA).7z</path>
-		<name>Battle Clash</name>
-		<desc>Battle Clash is a game that uses the Super Scope light gun peripheral. In this game, you fight in a futuristic version of the world as a warrior named Michael Anderson, who takes part in a competition simply known as the "Battle Game". Contestants in the Battle Game fight using mobile Standing Tanks (or STs for short), that come with a variety of weapon systems and forms.
-
-To defeat the enemies in each stage, you must shot at weak spots on their armor to cause damage to them. The game scrolls automatically along with the opponent, so you cannot manually dodge bullets. You will have to play defensively by shooting them down.</desc>
-		<image>./mixart/Battle Clash (USA).png</image>
-		<video>./snap/Battle Clash (USA).mp4</video>
-		<marquee>./wheel/Battle Clash (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19921001T000000</releasedate>
-		<developer>Intelligent Systems Co., Ltd.</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Lightgun Shooter-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D9B2A11D20A10FE4F82BE4A92481D3D3</cheevosHash>
-		<cheevosId>421</cheevosId>
-	</game>
 	<game>
 		<path>./T2 - The Arcade Game (USA).7z</path>
 		<name>T2 : The Arcade Game</name>
@@ -16587,25 +16566,6 @@ Characters from the main game can be transferred into the add-on, which also inc
 		<cheevosHash>E55CB77E878115FD5C224134450047C6</cheevosHash>
 		<cheevosId>3968</cheevosId>
 	</game>
-	<game id="65019">
-		<path>./#homebrews/Sonic the Hedgehog 4 (World) (Unl).zip</path>
-		<name>Sonic The Hedgehog 4</name>
-		<desc>Hack of the game Speedy Gonzales: Los Gatos Bandidos.</desc>
-		<image>./#homebrews/mixart/Sonic the Hedgehog 4 (World) (Unl).png</image>
-		<video>./#homebrews/snap/Sonic the Hedgehog 4 (World) (Unl).mp4</video>
-		<marquee>./#homebrews/wheel/Sonic the Hedgehog 4 (World).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19960901T000000</releasedate>
-		<developer>Twin Eagles Group</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Platform</genre>
-		<family>Sonic</family>
-		<players>1</players>
-		<md5>d12db58f12ad4b06ea693fd920aca65d</md5>
-		<lang>en</lang>
-		<region>wr</region>
-		<scrap name="ScreenScraper" date="20230324T184059" />
-	</game>
 	<game>
 		<path>./Super Mario All-Stars (USA).7z</path>
 		<name>Super Mario All-Stars</name>
@@ -16633,5 +16593,46 @@ Included in Super Mario All-Stars are the following games:
 		<region>us</region>
 		<cheevosHash>53C038150BA00D5F8D8574B4D36283F2</cheevosHash>
 		<cheevosId>253</cheevosId>
+	</game>
+	<game id="65019">
+		<path>./#homebrews/Sonic the Hedgehog 4 (World) (Unl).zip</path>
+		<name>Sonic The Hedgehog 4</name>
+		<desc>Hack of the game Speedy Gonzales: Los Gatos Bandidos.</desc>
+		<image>./#homebrews/mixart/Sonic the Hedgehog 4 (World) (Unl).png</image>
+		<video>./#homebrews/snap/Sonic the Hedgehog 4 (World) (Unl).mp4</video>
+		<marquee>./#homebrews/wheel/Sonic the Hedgehog 4 (World).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19960901T000000</releasedate>
+		<developer>Twin Eagles Group</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<family>Sonic</family>
+		<players>1</players>
+		<md5>d12db58f12ad4b06ea693fd920aca65d</md5>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>D12DB58F12AD4B06EA693FD920ACA65D</cheevosHash>
+		<scrap name="ScreenScraper" date="20230324T184059" />
+	</game>
+	<game id="19002" source="ScreenScraper.fr">
+		<path>./Battle Clash (USA).7z</path>
+		<name>Battle Clash</name>
+		<desc>Battle Clash is a game that uses the Super Scope light gun peripheral. In this game, you fight in a futuristic version of the world as a warrior named Michael Anderson, who takes part in a competition simply known as the "Battle Game". Contestants in the Battle Game fight using mobile Standing Tanks (or STs for short), that come with a variety of weapon systems and forms.
+
+To defeat the enemies in each stage, you must shot at weak spots on their armor to cause damage to them. The game scrolls automatically along with the opponent, so you cannot manually dodge bullets. You will have to play defensively by shooting them down.</desc>
+		<image>./mixart/Battle Clash (USA).png</image>
+		<video>./snap/Battle Clash (USA).mp4</video>
+		<marquee>./wheel/Battle Clash (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19921001T000000</releasedate>
+		<developer>Intelligent Systems Co., Ltd.</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Lightgun Shooter-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D9B2A11D20A10FE4F82BE4A92481D3D3</cheevosHash>
+		<cheevosId>421</cheevosId>
 	</game>
 </gameList>

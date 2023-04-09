@@ -1151,26 +1151,6 @@ The game was released only in Japan. It is sometimes erroneously called "Wonder 
 		<region>jp</region>
 		<cheevosHash>A6F2F7299DBE4E61E5D081CE9C1CD76D</cheevosHash>
 	</game>
-	<game id="41">
-		<path>./Michael Jackson's Moonwalker (Japan, USA) (MSU-MD)/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).md</path>
-		<name>Michael Jackson's Moonwalker</name>
-		<desc>Michael Jackson's Moonwalker is pretty much based on the Michael Jackson movie. Mr. Big has kidnapped the children and has nasty things in store for them, like drugging them and making them slaves. It's up to Michael to use his powers and save his little friends.
-
-Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opponents as he looks for the hidden children. Stages come in shape of some of MJ's videos like streets and graveyards.</desc>
-		<image>./mixart/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</image>
-		<video>./snap/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).mp4</video>
-		<marquee>./wheel/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19900824T000000</releasedate>
-		<developer>Ultimate</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>us</region>
-		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
-	</game>
 	<game id="20">
 		<path>./Streets of Rage 2 (USA) (MSU-MD)/Streets of Rage 2 (USA) (MSU-MD).md</path>
 		<name>Streets of Rage 2</name>
@@ -1190,5 +1170,25 @@ Streets of Rage 2 differs from the previous title in several ways. There are cha
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>EBF7EA04AA9FFB40AFD0D14A99FB6D49</cheevosHash>
+	</game>
+	<game id="41">
+		<path>./Michael Jackson's Moonwalker (Japan, USA) (MSU-MD)/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).md</path>
+		<name>Michael Jackson's Moonwalker</name>
+		<desc>Michael Jackson's Moonwalker is pretty much based on the Michael Jackson movie. Mr. Big has kidnapped the children and has nasty things in store for them, like drugging them and making them slaves. It's up to Michael to use his powers and save his little friends.
+
+Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opponents as he looks for the hidden children. Stages come in shape of some of MJ's videos like streets and graveyards.</desc>
+		<image>./mixart/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</image>
+		<video>./snap/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).mp4</video>
+		<marquee>./wheel/Michael Jackson's Moonwalker (Japan, USA) (MSU-MD).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19900824T000000</releasedate>
+		<developer>Ultimate</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>us</region>
+		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
 	</game>
 </gameList>

@@ -171,19 +171,6 @@ Before each mission, the player is briefed and allowed to choose a primary and s
 		<region>jp</region>
 		<cheevosHash>C51CC11E75EE519ABCF5E7197AB7CF1B</cheevosHash>
 	</game>
-	<game>
-		<path>./Choujin Sentai - Jetman (Japan) (Translated En).zip</path>
-		<name>Choujin Sentai - Jetman (Japan) (Translated En)</name>
-		<image>./mixart/Choujin Sentai - Jetman (Japan) (Translated En).png</image>
-		<video>./snap/Choujin Sentai - Jetman (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20010101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<cheevosHash>1DA97179BDEA9CCC6F9086B5CC244C30</cheevosHash>
-	</game>
 	<game id="1449" source="ScreenScraper">
 		<path>./Akira (Japan) (Translated En).zip</path>
 		<name>Akira</name>
@@ -5920,5 +5907,18 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>E986B2E5202E16C480241A5C866F4BB2</cheevosHash>
+	</game>
+	<game>
+		<path>./Choujin Sentai - Jetman (Japan) (Translated En).zip</path>
+		<name>Choujin Sentai - Jetman (Japan) (Translated En)</name>
+		<image>./mixart/Choujin Sentai - Jetman (Japan) (Translated En).png</image>
+		<video>./snap/Choujin Sentai - Jetman (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Choujin Sentai - Jetman (Japan) (Translated En).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20010101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>1DA97179BDEA9CCC6F9086B5CC244C30</cheevosHash>
 	</game>
 </gameList>

@@ -3963,32 +3963,6 @@ Each cage hides a mini games where you have to catch the animal to calm it and t
 		<cheevosHash>F8240E62D8C0A64A61E19388414E3104</cheevosHash>
 	</game>
 	<game>
-		<path>./Adventure (USA).zip</path>
-		<name>Adventure</name>
-		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. 
-
-This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.
-
-There are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing).
-
-The Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom
-
-Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.</desc>
-		<image>./mixart/Adventure (USA).png</image>
-		<video>./snap/Adventure (USA).mp4</video>
-		<marquee>./wheel/Adventure (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Sears, Roebuck and Co.</developer>
-		<publisher>Atari</publisher>
-		<genre>Adventure</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>157BDDB7192754A45372BE196797F284</cheevosHash>
-		<cheevosId>11778</cheevosId>
-	</game>
-	<game>
 		<path>./Boxing (USA).zip</path>
 		<name>Boxing</name>
 		<desc>Boxing shows a top-down view of two boxers, one white and one black. When close enough, a boxer can hit his opponent with a punch (executed by pressing the fire button on the Atari joystick). This causes his opponent to reel back slightly. Long punches score one point, while closer punches (power punches, from the manual) score two. There are no knockdowns or rounds. A match is completed either when one player lands 100 punches (a "knockout") or two minutes have elapsed (a "decision"). In the case of a decision, the player with the most landed punches is the winner. Ties are possible.
@@ -12717,11 +12691,37 @@ Stage two is a space shoot out against hordes of enemy aircraft - those you fail
 		<video>./snap/Tetris 26 (USA) (Unl).mp4</video>
 		<marquee>./wheel/Tetris 26 (USA) (Unl).png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<publisher>Hozer Video Games - Colin Hughes</publisher>
 		<genre>Strategy</genre>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B0E1EE07FBC73493EAC5651A52F90F00</cheevosHash>
+	</game>
+	<game>
+		<path>./Adventure (USA).zip</path>
+		<name>Adventure</name>
+		<desc>An evil magician has stolen the Enchanted Chalice and has hidden it somewhere in the Kingdom. The object of the game is to rescue the Enchanted Chalice and place it inside the Golden Castle where it belongs. 
+
+This is no easy task, as the Evil Magician has created three Dragons to hinder you in your quest for the Golden Chalice. There is Yorgie, the Yellow Dragon, who is just plain mean; there is Grundle, the Green Dragon, who is mean and ferocious; and there is Rhindle, the Red Dragon, who is the most ferocious of all. Rhindle is also the fastest Dragon and is the most difficult to outmaneuver.
+
+There are three castles in the Kingdom; the White Castle, the Black Castle, and the Golden Castle. Each castle has a Gate over the entrance. The Gate can be opened with the corresponding colored Key. Inside each Castle are rooms(or dungeons, depending at which Skill Level you are playing).
+
+The Castles are separated by rooms, pathways, and labyrinths. Common to all the Skill Levels is the Blue Labyrinth through which you must find your way to the Black Castle. Skill Levels 2 and 3 have a more complicated Kingdom
+
+Adventure was the first action-adventure game on a video console, the first to contain a widely-known Easter egg, and the first to allow a player to have a stash of items, which required the player to select which one to use at any given moment, usually through keyboard or joystick input. Adventure allowed the player to drop one item and pick up another without having to type in any commands. The graphics, on the other hand, were not that great, and Adventure creator Warren Robinett even described the dragons as looking like ducks.</desc>
+		<image>./mixart/Adventure (USA).png</image>
+		<video>./snap/Adventure (USA).mp4</video>
+		<marquee>./wheel/Adventure (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Sears, Roebuck and Co.</developer>
+		<publisher>Atari</publisher>
+		<genre>Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>157BDDB7192754A45372BE196797F284</cheevosHash>
+		<cheevosId>11778</cheevosId>
 	</game>
 </gameList>

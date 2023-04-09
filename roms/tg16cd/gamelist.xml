@@ -2528,26 +2528,6 @@ Also available between the stages (and as a separate gameplay mode, "vs.") is a 
 		<cheevosHash>524F3F42CBCF7134C7A98929070CF26B</cheevosHash>
 	</game>
 	<game>
-		<path>./Prince of Persia.chd</path>
-		<name>Prince Of Persia</name>
-		<desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place.
-
-Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platform genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist's vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters' movements.
-
-The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards. The player character has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. The hero starts with three units of health, which can be replenished with small health potions or permanently increased with large jars.
-
-The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro, an altered set of graphics and four new levels.</desc>
-		<image>./mixart/Prince of Persia.png</image>
-		<video>./snap/Prince of Persia.mp4</video>
-		<marquee>./wheel/Prince of Persia.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19700101T000000</releasedate>
-		<publisher>Riverhill Soft Inc.</publisher>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>1772F5B73D6056CEFF3DFB1CFC1BDED9</cheevosHash>
-	</game>
-	<game>
 		<path>./Akumajou Dracula X - Chi no Rondo.chd</path>
 		<name>Akumajou Dracula X - Chi no Rondo</name>
 		<desc>In the days of old, the people thrived on peace and prosperity. Indeed, fears of unrest were not among their thoughts...
@@ -2585,5 +2565,25 @@ Kaze attacks with his sword when he is near the enemy, or throws shurikens at th
 		<players>1</players>
 		<crc32>00000000</crc32>
 		<cheevosHash>2965CA6D2FB01DB5359504769ABBCA9B</cheevosHash>
+	</game>
+	<game>
+		<path>./Prince of Persia.chd</path>
+		<name>Prince Of Persia</name>
+		<desc>While the Sultan of Persia is fighting a war in a foreign country, his Grand Vizier Jaffar orchestrates a coup d'état. His way to the throne lies through the Sultan's lovely daughter. Jaffar kidnaps her and threatens to kill her if she refuses to marry him. Meanwhile, the man the Princess loves is thrown into the dungeon. He has only one hour to escape from his prison, defeat the guards on his way, and stop Jaffar before the terrible marriage takes place.
+
+Prince of Persia is a 2D platformer that is commonly regarded as a progenitor of the cinematic platform genre. Rather than following the more common jump-and-run mechanics, it focuses on careful advancement through fairly complex levels, emphasizing the protagonist's vulnerability and survival aspect. Rotoscoping technique is used to give more realism to the animation of the characters' movements.
+
+The protagonist must avoid deadly traps, solve some simple jumping and environmental puzzles (such as stepping on pressure plates to raise portcullis), and engage in sword fights with the guards. The player character has an infinite amount of lives, but has to restart at the beginning of a level each time he dies, and must complete the game within an hour. The hero starts with three units of health, which can be replenished with small health potions or permanently increased with large jars.
+
+The Game Boy Color and SNES versions of the game feature additional levels and new enemies. The Genesis version has a new intro, an altered set of graphics and four new levels.</desc>
+		<image>./mixart/Prince of Persia.png</image>
+		<video>./snap/Prince of Persia.mp4</video>
+		<marquee>./wheel/Prince of Persia.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19700101T000000</releasedate>
+		<publisher>Riverhill Soft Inc.</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>1772F5B73D6056CEFF3DFB1CFC1BDED9</cheevosHash>
 	</game>
 </gameList>

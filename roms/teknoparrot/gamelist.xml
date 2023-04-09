@@ -1863,23 +1863,6 @@ This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade ga
 		<region>us</region>
 	</game>
 	<game>
-		<path>./Batman.parrot</path>
-		<name>Batman</name>
-		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
-		<image>./mixart/Batman.png</image>
-		<video>./snap/Batman.mp4</video>
-		<marquee>./wheel/Batman.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20171201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Driving-Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./or2spdlx.parrot</path>
 		<name>Outrun 2 Special Tours Deluxe</name>
 		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
@@ -2119,6 +2102,23 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<releasedate>20050101T000000</releasedate>
 		<developer>Arika</developer>
 		<genre>Puzzle</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./Batman.parrot</path>
+		<name>Batman</name>
+		<desc>In Batman, players control Batman as he drives the Batmobile through Gotham City to recapture supervillain escapees from Arkham Asylum. Players can choose to pursue the Joker, Bane, or Mr. Freeze; each of these gameplay routes, available in "easy" and "hard" variations, features a predetermined set of six vehicular combat missions to complete. Players must use the Batmobile to chase and eliminate specified targets, such as vehicles filled with henchmen. Certain missions feature other Batman villains, such as the Scarecrow, the Penguin and Catwoman, while one mission in each gameplay route sees the player fly The Bat from The Dark Knight Rises.</desc>
+		<image>./mixart/Batman.png</image>
+		<video>./snap/Batman.mp4</video>
+		<marquee>./wheel/Batman.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20171201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Driving-Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

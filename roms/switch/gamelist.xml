@@ -1044,22 +1044,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Cruisn_Blast.nsp</path>
-		<name>CRUIS’N BLAST</name>
-		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
-		<image>./mixart/CRUIS’N BLAST.jpg</image>
-		<video>./snap/CRUIS’N BLAST.mp4</video>
-		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20210928T000000</releasedate>
-		<developer>Raw Thrills</developer>
-		<publisher>Raw Thrills</publisher>
-		<genre>Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Super Smash Bros. Ultimate.xci</path>
 		<name>Super Smash Bros. Ultimate + DLC</name>
 		<desc>New characters and stages join the entire legacy roster! Gaming icons clash in the ultimate brawl you can play anytime, anywhere! Smash rivals off the stage as new characters Simon Belmont and King K. Rool join Inkling, Ridley, and every other fighter in Super Smash Bros. history. Enjoy enhanced speed and combat at new stages based on the Castlevania series, Super Mario Odyssey, and more! Having trouble choosing a stage? Then select the Stage Morph option to transform one stage into another while battling - a series first! Plus, new echo fighters Dark Samus, Richter Belmont, and Chrom join the battle. Whether you play locally or online, savor the faster combat, new attacks, and new defensive options, like a perfect shield. Jam out to 900 different music compositions and go 1-on-1 with a friend, hold a 4-player free-for-all, kick it up to 8-player battles and more! Feel free to bust out your GameCube controllers - legendary couch competitions await - or play together anytime, anywhere!</desc>
@@ -1104,23 +1088,6 @@ But all is not so simple in the world of golf. To best today's players you have 
 		<publisher>Bandai Namco</publisher>
 		<genre>Arcade</genre>
 		<players>4</players>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Metroid Prime Remastered.nsp</path>
-		<name>Metroid Prime Remastered</name>
-		<desc>Suit up for an iconic adventure Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon. Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more.</desc>
-		<emulator>ryujinx</emulator>
-		<image>./mixart/Metroid Prime Remastered.jpg</image>
-		<video>./snap/Metroid Prime Remastered.mp4</video>
-		<marquee>./wheel/Metroid Prime Remastered.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20231106T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action, Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -1171,5 +1138,38 @@ Need some extra assistance bringing Bowser out of his frenzied, furious state? A
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>wr</region>
+	</game>
+	<game>
+		<path>./Cruisn_Blast.nsp</path>
+		<name>CRUIS’N BLAST</name>
+		<desc>The arcade hit Cruis’n Blast is speeding onto Nintendo Switch! Blast your way through nearly 30 over-the-top tracks. Grab the wheel of 23 custom rides from licensed supercars to monster trucks and unicorns! Up to four players can race together, so pick your favorite vehicle and hit the road!</desc>
+		<image>./mixart/CRUIS’N BLAST.jpg</image>
+		<video>./snap/CRUIS’N BLAST.mp4</video>
+		<marquee>./wheel/CRUIS’N BLAST.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20210928T000000</releasedate>
+		<developer>Raw Thrills</developer>
+		<publisher>Raw Thrills</publisher>
+		<genre>Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Metroid Prime Remastered.nsp</path>
+		<name>Metroid Prime Remastered</name>
+		<desc>Suit up for an iconic adventure Intergalactic bounty hunter Samus Aran receives a distress signal from a wrecked frigate in orbit around planet Tallon IV. Upon investigation, the frigate reveals itself to be a Space Pirate research vessel home to terrifying genetic experiments using the mysterious Phazon substance. There, Samus encounters her nemesis, Meta Ridley, whom she pursues to the surface of Tallon IV. It’s up to her alone to explore the planet’s interconnected regions, investigate its dark secrets, and end the intergalactic threat posed by Phazon. Experience this critically acclaimed first-person adventure like never before with remastered visuals, audio, controls, and more.</desc>
+		<emulator>ryujinx</emulator>
+		<image>./mixart/Metroid Prime Remastered.jpg</image>
+		<video>./snap/Metroid Prime Remastered.mp4</video>
+		<marquee>./wheel/Metroid Prime Remastered.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20231106T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action, Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

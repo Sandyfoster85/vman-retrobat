@@ -294,6 +294,21 @@ NOTE: Requires keyboard to exit!</desc>
 		<favorite>true</favorite>
 	</game>
 	<game>
+		<path>./Streets of Rage Remake.lnk</path>
+		<name>'H'Streets of Rage Remake</name>
+		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
+		<image>./mixart/sorr.png</image>
+		<video>./snap/sorr.mp4</video>
+		<marquee>./wheel/sorr.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20110101T000000</releasedate>
+		<developer>FanGame</developer>
+		<publisher>FanGame</publisher>
+		<genre>Fighting</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Brutal Doom.lnk</path>
 		<name>'H'Brutal Doom</name>
 		<desc>Doom on Steroids!</desc>
@@ -413,6 +428,19 @@ NOTE: Requires keyboard to exit!</desc>
 		<releasedate>20150101T000000</releasedate>
 		<developer>Vincent Jouillat</developer>
 		<publisher>Vincent Jouillat</publisher>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Super Mario War.lnk</path>
+		<name>Super Mario War</name>
+		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
+		<image>./mixart/Super Mario War.png</image>
+		<video>./snap/Super Mario War.mp4</video>
+		<marquee>./wheel/Super Mario War.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<genre>Fighting</genre>
+		<players>4</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -613,34 +641,6 @@ Each player's character is equipped with a semi-automatic machine gun with an un
 		<genre>Action, Adventure</genre>
 		<players>1</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Streets of Rage Remake.lnk</path>
-		<name>'H'Streets of Rage Remake</name>
-		<desc>Street of Rage Remake 5.2. Streets of Rage Remake (also known as Bare Knuckle Remake) is a mind-blowing SOR fangame, released by Bombergames in 2011 on the Microsoft Windows platform. It is designed as a remake of the original Sega Genesis trilogy, though in some ways it can be seen as a true sequel to SOR3.</desc>
-		<image>./mixart/sorr.png</image>
-		<video>./snap/sorr.mp4</video>
-		<marquee>./wheel/sorr.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20110101T000000</releasedate>
-		<developer>FanGame</developer>
-		<publisher>FanGame</publisher>
-		<genre>Fighting</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Super Mario War.lnk</path>
-		<name>Super Mario War</name>
-		<desc>Super Mario War is an open-source, cross-platform, platform-adventure video game and level editor released on December 16, 2006. It is based upon gameplay elements and audiovisual media that are cloned from Nintendo's Super Mario series.</desc>
-		<image>./mixart/Super Mario War.png</image>
-		<video>./snap/Super Mario War.mp4</video>
-		<marquee>./wheel/Super Mario War.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20060101T000000</releasedate>
-		<genre>Fighting</genre>
-		<players>4</players>
 		<lang>en</lang>
 	</game>
 </gameList>

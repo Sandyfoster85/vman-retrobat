@@ -4417,24 +4417,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17384">
-		<path>./3D_Ultra_Mini_Golf_2.m3u</path>
-		<name>3d Ultra Mini Golf Adventures 2</name>
-		<desc>In 3D Ultra MiniGolf Adventures 2, players are challenged to navigate their ball beyond obstacles using the help of secret shortcuts, game-changing power-ups and traps to sabotage the competition. Players can also manipulate the game by using special pick-ups to destroy course obstructions or even interfere with competitor's shots. Gamers can bring their A-game as they play in matches of up to four players locally or online. The sequel also offers an intuitive Map Editor tool, allowing full customization of virtual courses and the strategic placement of power-ups and traps. Putt through over 50 fun-filled holes in diverse locations, such as a Haunted Manor, a Manic Museum and a Winter Wonderland. As an added bonus, players can choose from up to four customizable animated characters and are invited to play using their own Xbox 360 Avatars and watch as their personalities unfold in every course.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/3D_Ultra_Mini_Golf_2.jpg</image>
-		<video>./snap/3D_Ultra_Mini_Golf_2.mp4</video>
-		<marquee>./wheel/3D_Ultra_Mini_Golf_2.png</marquee>
-		<rating>0.55</rating>
-		<releasedate>20101027T000000</releasedate>
-		<developer>Artificial Mind &amp; Movement</developer>
-		<publisher>Konami</publisher>
-		<genre>Sports / Golf</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Banjo Tooie.m3u</path>
 		<name>Banjo-Tooie</name>
@@ -4537,23 +4519,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="18142">
-		<path>./Asteroids Deluxe.m3u</path>
-		<name>Asteroids Deluxe</name>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Asteroids Deluxe.png</image>
-		<video>./snap/Asteroids Deluxe.mp4</video>
-		<marquee>./wheel/Asteroids Deluxe.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="17559">
 		<path>./Battlezone.m3u</path>
 		<name>Battlezone</name>
@@ -4567,22 +4532,6 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>Atari</publisher>
 		<genre>Action</genre>
 		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Bejeweled 3.m3u</path>
-		<name>Bejeweled 3</name>
-		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
-		<image>./mixart/Bejeweled 3.png</image>
-		<video>./snap/Bejeweled 3.mp4</video>
-		<marquee>./wheel/Bejeweled 3.png</marquee>
-		<rating>0.35</rating>
-		<releasedate>20111115T000000</releasedate>
-		<developer>PopCap Games</developer>
-		<publisher>PopCap Games, Inc.</publisher>
-		<genre>Puzzle, Strategy</genre>
-		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
@@ -4618,6 +4567,57 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<genre>Puzzle-Game</genre>
 		<family>Bubble Bobble</family>
 		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17384">
+		<path>./3D_Ultra_Mini_Golf_2.m3u</path>
+		<name>3d Ultra Mini Golf Adventures 2</name>
+		<desc>In 3D Ultra MiniGolf Adventures 2, players are challenged to navigate their ball beyond obstacles using the help of secret shortcuts, game-changing power-ups and traps to sabotage the competition. Players can also manipulate the game by using special pick-ups to destroy course obstructions or even interfere with competitor's shots. Gamers can bring their A-game as they play in matches of up to four players locally or online. The sequel also offers an intuitive Map Editor tool, allowing full customization of virtual courses and the strategic placement of power-ups and traps. Putt through over 50 fun-filled holes in diverse locations, such as a Haunted Manor, a Manic Museum and a Winter Wonderland. As an added bonus, players can choose from up to four customizable animated characters and are invited to play using their own Xbox 360 Avatars and watch as their personalities unfold in every course.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/3D_Ultra_Mini_Golf_2.jpg</image>
+		<video>./snap/3D_Ultra_Mini_Golf_2.mp4</video>
+		<marquee>./wheel/3D_Ultra_Mini_Golf_2.png</marquee>
+		<rating>0.55</rating>
+		<releasedate>20101027T000000</releasedate>
+		<developer>Artificial Mind &amp; Movement</developer>
+		<publisher>Konami</publisher>
+		<genre>Sports / Golf</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="18142">
+		<path>./Asteroids Deluxe.m3u</path>
+		<name>Asteroids Deluxe</name>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Asteroids Deluxe.png</image>
+		<video>./snap/Asteroids Deluxe.mp4</video>
+		<marquee>./wheel/Asteroids Deluxe.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Bejeweled 3.m3u</path>
+		<name>Bejeweled 3</name>
+		<desc>The biggest, brightest Bejeweled ever! Discover all-new ways to play the world's #1 puzzle game. Find your perfect match with 8 breathtaking game modes that meet all your moods ease into Classic Bejeweled for cascades of fun, journey through 40 challenging Quest puzzles, charge into the electrifying Lightning for non-stop action, and tailor your experience in Zen for a revolutionary new way to relax.</desc>
+		<image>./mixart/Bejeweled 3.png</image>
+		<video>./snap/Bejeweled 3.mp4</video>
+		<marquee>./wheel/Bejeweled 3.png</marquee>
+		<rating>0.35</rating>
+		<releasedate>20111115T000000</releasedate>
+		<developer>PopCap Games</developer>
+		<publisher>PopCap Games, Inc.</publisher>
+		<genre>Puzzle, Strategy</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -9545,22 +9545,6 @@ Unlike most of the other Castlevania games, Simon's Quest does not feature the t
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./80s Overdrive.lnk</path>
-		<name>80s Overdrive</name>
-		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
-		<image>./mixart/80s Overdrive.jpg</image>
-		<video>./snap/80s Overdrive.mp4</video>
-		<marquee>./wheel/80s Overdrive.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20200515T010000</releasedate>
-		<developer>Insane Code</developer>
-		<publisher>Insane Code</publisher>
-		<genre>Racing</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Aeterna Noctis.lnk</path>
 		<name>Aeterna Noctis</name>
 		<desc>Aeterna Noctis is a challenging 2D hand-drawn action platformer, a Metroidvania with thrilling combat that will keep you on the edge of your seat and heart-stopping platform sections that will put your skills to the test.</desc>
@@ -10038,6 +10022,38 @@ Use MODS to customise the table to your skills to score big. PD:R will reward yo
 		<publisher>Enhance Games</publisher>
 		<genre>Puzzle</genre>
 		<players>3</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./80s Overdrive.lnk</path>
+		<name>80s Overdrive</name>
+		<desc>80's OVERDRIVE is a 2D pixelart racing game, designed to take you back in time to when 8 and 16 bit consoles and arcade games ruled the world. Compete against opponents in career mode to unlock new races, buy new cars and upgrade them with state-of-the-art technologies! Try your skill in time attack mode and see how far you can get in this race against the clock! Create your own tracks with built-in track generator and easily share them with your friends!</desc>
+		<image>./mixart/80s Overdrive.jpg</image>
+		<video>./snap/80s Overdrive.mp4</video>
+		<marquee>./wheel/80s Overdrive.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20200515T010000</releasedate>
+		<developer>Insane Code</developer>
+		<publisher>Insane Code</publisher>
+		<genre>Racing</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Supplice.lnk</path>
+		<name>Supplice</name>
+		<desc>Supplice is a stylish throwback shooter inspired by the mid-90s FPS glory days and the legendary Doom modding community. Mixing the retro stylings of 90s era shooters with colorful graphics and frantic gameplay, it creates an experience that's ever so familiar but also exciting and fresh.</desc>
+		<image>./mixart/Supplice.jpg</image>
+		<video>./snap/Supplice.mp4</video>
+		<marquee>./wheel/Supplice.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20231201T000000</releasedate>
+		<developer>Mekworx</developer>
+		<publisher>Hyperstrange</publisher>
+		<genre>Action, FPS</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

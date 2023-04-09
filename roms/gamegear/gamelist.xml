@@ -4753,24 +4753,6 @@ Gameplay wise this is a standard beat-em-up with gorgeous graphics. It has some 
 		<region>eu</region>
 		<cheevosHash>71E87C98E849C71DFD9A21A4A9FF56B4</cheevosHash>
 	</game>
-	<game>
-		<path>./Aerial Assault (World).7z</path>
-		<name>Aerial Assault</name>
-		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
-		<image>./mixart/Aerial Assault (World).png</image>
-		<video>./snap/Aerial Assault (World).mp4</video>
-		<marquee>./wheel/Aerial Assault (World).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sims</developer>
-		<publisher>Sega</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>B6FB54E60F8992DAAA35E98A712FF2CB</cheevosHash>
-	</game>
 	<game id="12859" source="ScreenScraper.fr">
 		<path>./Streets of Rage (World).7z</path>
 		<name>Streets of Rage</name>
@@ -4807,5 +4789,23 @@ Streets of Rage 2 differs from the previous title in several ways. There are cha
 		<players>2</players>
 		<cheevosHash>5566E332F860DC0F9DA1507FD7FEB1CD</cheevosHash>
 		<cheevosId>13237</cheevosId>
+	</game>
+	<game>
+		<path>./Aerial Assault (World).7z</path>
+		<name>Aerial Assault</name>
+		<desc>In Aerial Assault, you play the Freedom Fighter who must destroy five targets, including the Vinsk, CB-53 Bomber, "El", and two cliff fortresses. During each of the five missions, you will encounter enemy jets, choppers, submarines, jeeps, parachute bombs, and several other enemies in which you must destroy. Shooting either the spinning fighters or the small flying helicopters will earn you a power-up that allows you to upgrade or downgrade your firepower. There are three difficult settings: "Easy", "Normal", and "Hard". You will not be able to complete the game if you select the "Easy" setting.</desc>
+		<image>./mixart/Aerial Assault (World).png</image>
+		<video>./snap/Aerial Assault (World).mp4</video>
+		<marquee>./wheel/Aerial Assault (World).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sega</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>B6FB54E60F8992DAAA35E98A712FF2CB</cheevosHash>
 	</game>
 </gameList>

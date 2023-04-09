@@ -1727,24 +1727,6 @@
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
-		<path>./Ironclad (World).chd</path>
-		<name>Ironclad</name>
-		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
-		<image>./mixart/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</image>
-		<video>./snap/Ironclad (World).mp4</video>
-		<marquee>./wheel/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19960920T000000</releasedate>
-		<developer>Saurus Co., Ltd.</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
 		<path>./Last Resort (World).chd</path>
 		<name>Last Resort</name>
 		<desc>Last Resort is a 1-2 player horizontal shooter game where you pilot a spacecraft across horizontally scrolling cityscapes and wastelands, while destroying hordes of enemy spacecraft, either metallic or organic, including huge mid- and end-level guardians. Getting power-up pods provide the craft with a movable drone which can be charged up and fired or locked into position and used as an extra gun or 'battering ram'/shield. A clone of R-Type (both one and two), but with much improved graphics and sound</desc>
@@ -1812,5 +1794,23 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>1D232E073B335D96CFEF64BAD118065C</cheevosHash>
+	</game>
+	<game>
+		<path>./Ironclad (World).chd</path>
+		<name>Ironclad</name>
+		<desc>Ironclad is a side-scrolling shoot 'em up for the Neo Geo CD. Use your war ship to save the Kingdom of Chop from the Iron Mask Republic. You can use three main blast weapons, which are upgradable when you collect more items, a charged attack available when Iron Clad is attached to your ship, three melee weapons, a bomber that clears all enemy bullets, and varying shooting patterns. Stages are selectable, and there are multiple endings.</desc>
+		<image>./mixart/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</image>
+		<video>./snap/Ironclad (World).mp4</video>
+		<marquee>./wheel/Choutetsu Brikin'ger (1996)(Saurus - SNK)(en-ja)[aka Ironclad].png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19960920T000000</releasedate>
+		<developer>Saurus Co., Ltd.</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 </gameList>

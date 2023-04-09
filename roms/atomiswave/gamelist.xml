@@ -432,6 +432,21 @@
 		<cheevosHash>54FF8E1686E6C015EE2646ADABDBFC29</cheevosHash>
 	</game>
 	<game>
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./mixart/dolphin.png</image>
+		<video>./snap/dolphin.mp4</video>
+		<marquee>./wheel/dolphin.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
+	</game>
+	<game>
 		<path>./demofist.zip</path>
 		<name>Demolish Fist</name>
 		<desc>Demolish Fist is a side scrolling beat 'em up where the player controls one of four characters, Enzo, Leoneer, Vanessa or Undead as you battle your way through various stages. There are many items, which are available to use as a weapons against your enemies. Each player has their own assortment of moves and specials that they can unleash at will. Also all four of these characters have the ability to use the awesome 'Vertigo' technique! Demolish Fist is a well put together fighting game that has many things to offer the beat 'em up world.</desc>
@@ -447,20 +462,5 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>74B3777BA3E4BBA4A513BB84A08C4560</cheevosHash>
-	</game>
-	<game>
-		<path>./dolphin.zip</path>
-		<name>Dolphin Blue</name>
-		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
-		<image>./mixart/dolphin.png</image>
-		<video>./snap/dolphin.mp4</video>
-		<marquee>./wheel/dolphin.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20030101T000000</releasedate>
-		<genre>Shoot'em Up-Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>CECA5B6AB24A4304B89739B0C6AA4F79</cheevosHash>
 	</game>
 </gameList>

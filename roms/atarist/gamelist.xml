@@ -24243,17 +24243,6 @@ Elite's implementation of this is a five-level side-view action game, in which y
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
-		<name>Another World</name>
-		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
-		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
-		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
-		<rating />
-		<releasedate />
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Ninja Mission (1987)(Mastertronics).zip</path>
 		<name>Ninja Mission</name>
 		<image>./mixart/Ninja Mission (1987)(Mastertronics).png</image>
@@ -24274,8 +24263,8 @@ Elite's implementation of this is a five-level side-view action game, in which y
 		<image>./mixart/Bargon Attack (1991)(Coktel Vision)[cr Cynix].png</image>
 		<video>./snap/Bargon Attack (1991)(Coktel Vision)[cr Cynix].mp4</video>
 		<marquee>./wheel/Bargon Attack (1991)(Coktel Vision)[cr Cynix].png</marquee>
-		<rating></rating>
-		<releasedate></releasedate>
+		<rating />
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game>
@@ -24292,6 +24281,17 @@ Part two is a more traditional 2D fighting game where you have to advance from l
 		<developer>Thalion Software</developer>
 		<publisher>Grandslam Entertainment Ltd.</publisher>
 		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Another World (1991)(Delphine)[cr Elite].m3u</path>
+		<name>Another World</name>
+		<image>./mixart/Another World (1991)(Delphine)[cr Elite].png</image>
+		<video>./snap/Another World (1991)(Delphine)[cr Elite].mp4</video>
+		<marquee>./wheel/Another World (1991)(Delphine)[cr Elite].png</marquee>
+		<rating></rating>
+		<releasedate></releasedate>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -469,20 +469,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Monkey Jump.mgw</path>
-		<name>Monkey Jump</name>
-		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
-		<image>./mixart/Monkey Jump.png</image>
-		<video>./snap/Monkey Jump.mp4</video>
-		<marquee>./wheel/Monkey Jump.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="88077" source="ScreenScraper.fr">
 		<path>./Monkey.mgw</path>
 		<name>Monkey</name>
@@ -497,21 +483,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="88085" source="ScreenScraper.fr">
-		<path>./Safari.mgw</path>
-		<name>Safari</name>
-		<desc>The barbarians continuously wander around. Control the position of the hunter so as to keep out of sight from the barbarians and to reach the rescue helicopter. If the hunter is spotted by the barbarian, he will be caught, meaning a miss. A hunter will appear in the upper right corner of the screen at each miss. Five misses and game ends. 1 point is awarded when the hunter successfully reaches the ladder of the helicopter. Maximum displayed score is 9999.</desc>
-		<image>./mixart/Safari.png</image>
-		<video>./snap/Safari.mp4</video>
-		<marquee>./wheel/Safari.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
-		<players>1</players>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game id="88087" source="ScreenScraper.fr">
@@ -560,63 +531,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<genre>Action</genre>
 		<players>1</players>
 		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Snoopy Tennis (Nintendo, Wide Screen).mgw</path>
-		<name>Snoopy Tennis</name>
-		<desc>Charlie Brown and Snoopy are playing tennis. Snoopy has to climb the tree to receive Charlie Brown's serve. Lucy keeps butting in, intercepts the ball from snoopy and returns it. Pressing when ball is just in front of Snoopy's face is good timing.  When Snoopy swings and misses, he can not move until his racket returns to original position. When Snoopy misses, ball continues on, followed by sound of broken bottles. CRASH mark appears. Snoopy pretends innocence, fakes sleep. Charlie Brown throws racket down in despair. 2 points when returning Charlie Brown's ball. 3 points when returning Lucy's ball. Bonus scores are those with 200 or 500 points (200, 500, 1200, 1500, ... to 9500). When each bonus score is reached, fanfare sounds and all misses are canceled. When a bonus score is reached and there are no misses registered, game goes into "Chance time" for 50 to 70 seconds. Score flashes on and off, returning Charlie Brown's ball score 5 points, Lucy's ball score 6 points. Maximum display score is 9999 points.</desc>
-		<image>./mixart/Snoopy Tennis (Nintendo, Wide Screen).png</image>
-		<video>./snap/Snoopy Tennis (Nintendo, Wide Screen).mp4</video>
-		<marquee>./wheel/Snoopy Tennis (Nintendo, Wide Screen).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Action</genre>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Sub Chase.mgw</path>
-		<name>Sub Chase</name>
-		<desc>Computer controls submarine attack. Turn power on: single (bright red) dot appears: that's your ship. Use cursor keys to steer ship within range of invisible submarine. "Sonar" single beep means submarine is nearby. "Sonar" frequent beeps mean submarine is very near or under your ship. Fire depth charge by using control key. You have 30 on board to sink as many submarines as you can. Sink one and computer programs another submarine. Watch out for torpedoes (moving line of dots). If submarine sinks your ship, game is over. Game is also over when you have no more depth charges on board. 1 to 5 points per submarine sunk (score depends on how many charges you shot). Scores over 100 will be displayed by code, I.E.: 100-109 hits by "A0-A9", 110-119 by "B0-B9", 120-129 by "C0-C9", 130-139 by "D0-D9", 140-149 by "E0-E9".</desc>
-		<image>./mixart/Sub Chase.png</image>
-		<video>./snap/Sub Chase.mp4</video>
-		<marquee>./wheel/Sub Chase.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Action</genre>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game id="88093" source="ScreenScraper.fr">
-		<path>./Terrahawks The Battlehawk.mgw</path>
-		<name>Towering Rescue</name>
-		<desc>A large scale earthquake occurred! Rescue refugees on the top of the buildings by helicopter. If the helicopter collides against red building or tower on either side, the game is over. Also if you fail to rescue 2 refugees the game is over. In game A, helicopter can carry one only refugee at one time. In game B, helicopter can carry up to two refugees at the same time. 10 points per each refugee taken to the safety building (on the right side of the screen). Maximum display score is 9990 points. At 9990 points the game is over automatically.</desc>
-		<image>./mixart/Terrahawks The Battlehawk.png</image>
-		<video>./snap/Terrahawks The Battlehawk.mp4</video>
-		<marquee>./wheel/Terrahawks The Battlehawk.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Gakken</developer>
-		<publisher>Gakken</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
-		<path>./Wild Man Jump.mgw</path>
-		<name>Wild Man Jump</name>
-		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
-		<image>./mixart/Wild Man Jump.png</image>
-		<video>./snap/Wild Man Jump.mp4</video>
-		<marquee>./wheel/Wild Man Jump.png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>VTech</developer>
-		<publisher>VTech</publisher>
-		<genre>Action</genre>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
 	<game>
@@ -743,21 +657,6 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game>
-		<path>./Armor Battle.mgw</path>
-		<name>Armor Battle</name>
-		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
-		<image>./mixart/Armor Battle.png</image>
-		<video>./snap/Armor Battle.mp4</video>
-		<marquee>./wheel/Armor Battle.png</marquee>
-		<rating>0</rating>
-		<releasedate>19780101T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Action</genre>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
 	<game id="88047" source="ScreenScraper.fr">
 		<path>./Baseball.mgw</path>
 		<name>Baseball</name>
@@ -790,6 +689,99 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
+	<game id="88073" source="ScreenScraper.fr">
+		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
+		<name>Mario Bros.</name>
+		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
+		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
+		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
+		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Monkey Jump.mgw</path>
+		<name>Monkey Jump</name>
+		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
+		<image>./mixart/Monkey Jump.png</image>
+		<video>./snap/Monkey Jump.mp4</video>
+		<marquee>./wheel/Monkey Jump.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="88085" source="ScreenScraper.fr">
+		<path>./Safari.mgw</path>
+		<name>Safari</name>
+		<desc>The barbarians continuously wander around. Control the position of the hunter so as to keep out of sight from the barbarians and to reach the rescue helicopter. If the hunter is spotted by the barbarian, he will be caught, meaning a miss. A hunter will appear in the upper right corner of the screen at each miss. Five misses and game ends. 1 point is awarded when the hunter successfully reaches the ladder of the helicopter. Maximum displayed score is 9999.</desc>
+		<image>./mixart/Safari.png</image>
+		<video>./snap/Safari.mp4</video>
+		<marquee>./wheel/Safari.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Snoopy Tennis (Nintendo, Wide Screen).mgw</path>
+		<name>Snoopy Tennis</name>
+		<desc>Charlie Brown and Snoopy are playing tennis. Snoopy has to climb the tree to receive Charlie Brown's serve. Lucy keeps butting in, intercepts the ball from snoopy and returns it. Pressing when ball is just in front of Snoopy's face is good timing.  When Snoopy swings and misses, he can not move until his racket returns to original position. When Snoopy misses, ball continues on, followed by sound of broken bottles. CRASH mark appears. Snoopy pretends innocence, fakes sleep. Charlie Brown throws racket down in despair. 2 points when returning Charlie Brown's ball. 3 points when returning Lucy's ball. Bonus scores are those with 200 or 500 points (200, 500, 1200, 1500, ... to 9500). When each bonus score is reached, fanfare sounds and all misses are canceled. When a bonus score is reached and there are no misses registered, game goes into "Chance time" for 50 to 70 seconds. Score flashes on and off, returning Charlie Brown's ball score 5 points, Lucy's ball score 6 points. Maximum display score is 9999 points.</desc>
+		<image>./mixart/Snoopy Tennis (Nintendo, Wide Screen).png</image>
+		<video>./snap/Snoopy Tennis (Nintendo, Wide Screen).mp4</video>
+		<marquee>./wheel/Snoopy Tennis (Nintendo, Wide Screen).png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Sub Chase.mgw</path>
+		<name>Sub Chase</name>
+		<desc>Computer controls submarine attack. Turn power on: single (bright red) dot appears: that's your ship. Use cursor keys to steer ship within range of invisible submarine. "Sonar" single beep means submarine is nearby. "Sonar" frequent beeps mean submarine is very near or under your ship. Fire depth charge by using control key. You have 30 on board to sink as many submarines as you can. Sink one and computer programs another submarine. Watch out for torpedoes (moving line of dots). If submarine sinks your ship, game is over. Game is also over when you have no more depth charges on board. 1 to 5 points per submarine sunk (score depends on how many charges you shot). Scores over 100 will be displayed by code, I.E.: 100-109 hits by "A0-A9", 110-119 by "B0-B9", 120-129 by "C0-C9", 130-139 by "D0-D9", 140-149 by "E0-E9".</desc>
+		<image>./mixart/Sub Chase.png</image>
+		<video>./snap/Sub Chase.mp4</video>
+		<marquee>./wheel/Sub Chase.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="88093" source="ScreenScraper.fr">
+		<path>./Terrahawks The Battlehawk.mgw</path>
+		<name>Towering Rescue</name>
+		<desc>A large scale earthquake occurred! Rescue refugees on the top of the buildings by helicopter. If the helicopter collides against red building or tower on either side, the game is over. Also if you fail to rescue 2 refugees the game is over. In game A, helicopter can carry one only refugee at one time. In game B, helicopter can carry up to two refugees at the same time. 10 points per each refugee taken to the safety building (on the right side of the screen). Maximum display score is 9990 points. At 9990 points the game is over automatically.</desc>
+		<image>./mixart/Terrahawks The Battlehawk.png</image>
+		<video>./snap/Terrahawks The Battlehawk.mp4</video>
+		<marquee>./wheel/Terrahawks The Battlehawk.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<developer>Gakken</developer>
+		<publisher>Gakken</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
 	<game>
 		<path>./Tron.mgw</path>
 		<name>Tron</name>
@@ -805,19 +797,33 @@ At 200 and 500 points, if there are one or more misses, fanfare sounds play and 
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="88073" source="ScreenScraper.fr">
-		<path>./Mario Bros. (Nintendo, Multi Screen).mgw</path>
-		<name>Mario Bros.</name>
-		<desc>Mario is back in action with his brother Luigi, working in a bottling plant, loading cases on a belt conveyor. The conveyor carries the cases up for loading onto trucks. Operate Mario and Luigi up and down ladders in order to get cases. When a case is dropped, the foreman get angry and a miss is scored. Three misses and game is over 1 point per case loaded on a conveyor. 10 points per truck loaded with 8 cases. At 300 points fanfare sounds and all misses are canceled; if there are no misses when 300 points are reached, game goes into "CHANCE TIME". Score flashes and all points are awarded at double value until a miss is made. Maximum displayed score is 999 points.</desc>
-		<image>./mixart/Mario Bros. (Nintendo, Multi Screen).png</image>
-		<video>./snap/Mario Bros. (Nintendo, Multi Screen).mp4</video>
-		<marquee>./wheel/Mario Bros. (Nintendo, Multi Screen).png</marquee>
+	<game>
+		<path>./Wild Man Jump.mgw</path>
+		<name>Wild Man Jump</name>
+		<desc>A Kong kidnapped a very nice girl and took her to the mysterious jungle. She's waiting for you to save her. Now it's up to you to make your way to her. You can escape the Kong by jumping the tires he's throwing at you. You may want to rest for a while on short benches placed here and there. There's four items on the left side of the tree. The purse and the shoe on floors 1 and 3 award you with bonus points. The magic cakes on floors 2 and 4 make you invincible for a short time. You can smash tires by simply hitting them, and they're worth bonus points. When you save the girl, she awards you with a kiss. But beware of the Kong, he will kidnap her again! At every 4 completed stages, Kong falls down from tree tree, then game starts again at increased difficulty. If time runs out, or you get hurt by a tire, a life is lost. When all lives are lost, game ends. 10 points are scored when jumping a tire 100 points are scored when getting a bonus item 100 points are scored when smashing a tire 300 to 500 points awarded when completing level (depending on remaining time). Bonus life is awarded when completing level 2 and at every 4 levels. Maximum displayed score is 99990.</desc>
+		<image>./mixart/Wild Man Jump.png</image>
+		<video>./snap/Wild Man Jump.mp4</video>
+		<marquee>./wheel/Wild Man Jump.png</marquee>
 		<rating>0</rating>
-		<releasedate></releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
+		<releasedate />
+		<developer>VTech</developer>
+		<publisher>VTech</publisher>
 		<genre>Action</genre>
-		<players>1</players>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./Armor Battle.mgw</path>
+		<name>Armor Battle</name>
+		<desc>You are on a dangerous tank mission. To reach and destroy your assigned target, you must maneuver through a field filled with enemy mines. Although these are hidden, the mine detection equipment in your tank warns you of their presence by producing a buzzing sound. This is your signal to change course on route to your target. If you should stumble into a mine, your tank will be "destroyed" and returned to its original starting position. If you get through the minefield and successfully engage the target, the built-in computer will automatically set up another challenge with a new starting position, target location, and minefield.</desc>
+		<image>./mixart/Armor Battle.png</image>
+		<video>./snap/Armor Battle.mp4</video>
+		<marquee>./wheel/Armor Battle.png</marquee>
+		<rating>0</rating>
+		<releasedate>19780101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Action</genre>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>

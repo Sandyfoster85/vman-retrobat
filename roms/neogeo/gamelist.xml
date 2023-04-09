@@ -2288,24 +2288,6 @@ The second game in the Shock Troopers series enables shot locking, close proximi
 		<cheevosHash>7BB2F8C57626A7198CD45C9200BA616E</cheevosHash>
 	</game>
 	<game>
-		<path>./mslugx.zip</path>
-		<name>Metal Slug X - Super Vehicle-001</name>
-		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
-		<image>./mixart/mslugx.png</image>
-		<video>./snap/mslugx.mp4</video>
-		<marquee>./wheel/mslugx.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19990101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
-		<cheevosId>11770</cheevosId>
-	</game>
-	<game>
 		<path>./whp.zip</path>
 		<name>World Heroes Perfect</name>
 		<desc>In the final entry in the World Heroes saga, all sixteen fighters from previous games return for another tournament. New features include:
@@ -2360,5 +2342,23 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 		<players>2</players>
 		<cheevosHash>71584CE454046D8B5C63CE863E8B6A42</cheevosHash>
 		<cheevosId>13802</cheevosId>
+	</game>
+	<game>
+		<path>./mslugx.zip</path>
+		<name>Metal Slug X - Super Vehicle-001</name>
+		<desc>Jump! Shoot! Evade! The time to test your reflexes has come once again! Scatter the swarms of oncoming enemies with triple the firepower (compared with past SNK games). A festival of dazzling destruction, take on the Metal Slug world, if you dare!</desc>
+		<image>./mixart/mslugx.png</image>
+		<video>./snap/mslugx.mp4</video>
+		<marquee>./wheel/mslugx.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19990101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Plateform / Shooter Scrolling-Platform-Shooter / Run and Gun-Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
+		<cheevosId>11770</cheevosId>
 	</game>
 </gameList>

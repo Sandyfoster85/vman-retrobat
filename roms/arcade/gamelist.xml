@@ -21931,28 +21931,6 @@ Each of the game's screens is littered with buildings and barricades that can al
 		<region>us</region>
 		<cheevosHash>538F600F9F773C6BAECEC87E062678E3</cheevosHash>
 	</game>
-	<game id="40435">
-		<path>./calspeed.zip</path>
-		<name>California Speed</name>
-		<desc>A driving game that takes place in various courses throughout the state of California, USA and includes a stage where you race on a rollercoaster!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/calspeed.png</image>
-		<video>./snap/calspeed.mp4</video>
-		<marquee>./wheel/calspeed.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>6f9d255629f9642ab49bcf1c5c221d26</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1DA3B1442490DAAF9486A60F19341282</cheevosHash>
-	</game>
 	<game>
 		<path>./cameltry.zip</path>
 		<name>Cameltry</name>
@@ -67973,28 +67951,6 @@ One day, Kate is kidnapped by the Dead End Gang under the leadership of Faust. T
 		<region>us</region>
 		<cheevosHash>0F21FBC2B96826D67AE314D46EA4FC6D</cheevosHash>
 	</game>
-	<game id="40029">
-		<path>./aquajet.zip</path>
-		<name>Aqua Jet</name>
-		<desc>A 3-D waterscooter simulator with racing elements.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/aquajet.png</image>
-		<video>./snap/aquajet.mp4</video>
-		<marquee>./wheel/aquajet.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Boat</genre>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>6a312ddb5960c50efba168a4635650ad</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B267466D355FBF6F1DE9F7A3C62A4E5C</cheevosHash>
-	</game>
 	<game>
 		<path>./aafb.zip</path>
 		<name>All American Football</name>
@@ -69237,30 +69193,6 @@ All the music has been replaced.</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>C7BDEB05D990BD44C5C637CEDA14FA58</cheevosHash>
-	</game>
-	<game>
-		<path>./bldyror2.zip</path>
-		<name>Bloody Roar 2: Bringer of the New Age</name>
-		<desc>Bloody Roar 2: Bringer of the New Age is a 3D fighting game developed and released by Eighting/Raizing (in conjunction with Hudson) for arcades in 1998.
-
-The sequel to Beastorizer (better known as Bloody Roar), Bloody Roar 2 brings a new roster of transformable Zoeanthropes while replacing the "Beast Rave" ability with an all new powerful super move (that fully depletes the Beast gauge while delivering a devastating series of attacks). The story takes place years after the original, where a new terrorist organization (the Zoanthrope Liberation Front, or ZLF) seeks complete dominance over humans and opposing Zoanthropes.
-
-Like its predecessor, it's better known for its Sony PlayStation port, developed by Hudson and published by Hudson in Japan on January 28, 1999, SCEA in North America on April 30, 1999 (as Bloody Roar II, also known as Bloody Roar II: The New Breed), and Virgin in Europe on July 1999. This version was digitally re-released for the PlayStation 3 and PlayStation Portable (both via PlayStation Network) on June 8, 2010.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/bldyror2.png</image>
-		<video>./snap/bldyror2.mp4</video>
-		<marquee>./wheel/bldyror2.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Eighting Co., Ltd.</developer>
-		<publisher>Eighting / Raizing</publisher>
-		<genre>Fighting 3D</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>9DF50A97ACDAB9EE00D08698BD73FC65</cheevosHash>
 	</game>
 	<game>
 		<path>./sfa3.zip</path>
@@ -70645,31 +70577,6 @@ An abstract, oriental-looking face occasionally forms part of a level's platform
 		<cheevosHash>252AA4364F77DBFC12CB50006D3CE713</cheevosHash>
 	</game>
 	<game>
-		<path>./outrun.zip</path>
-		<name>'H' Out Run</name>
-		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
-
-Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
-
-At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
-
-As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/outrun.png</image>
-		<video>./snap/outrun.mp4</video>
-		<marquee>./wheel/outrun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 3rd Pers. view</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
-	</game>
-	<game>
 		<path>./ddragon.zip</path>
 		<name>Double Dragon</name>
 		<desc>Double Dragon is a side-scrolling beat-em-up for one or two players, featuring twin brothers and martial arts masters, "Billy &amp; Jimmy Lee". The brothers must defeat the savage street gang known as the 'Black Warriors' to rescue Billy's kidnapped girlfriend, Marian. Standing between the brothers and Marian are four huge, colorful and varied levels; each populated with a wide variety of thugs.
@@ -70699,24 +70606,6 @@ Double Dragon was a huge success due to the many game-play innovations it brough
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>A7D9FC7DC88E60D2401F1D89DCA4476A</cheevosHash>
-	</game>
-	<game>
-		<path>./mmatrix.zip</path>
-		<name>Mars Matrix: Hyper Solid Shooting</name>
-		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
-		<image>./mixart/mmatrix.png</image>
-		<video>./snap/mmatrix.mp4</video>
-		<marquee>./wheel/mmatrix.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20000101T000000</releasedate>
-		<developer>Takumi</developer>
-		<publisher>Takumi</publisher>
-		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5D87554E1EFBA014FD10046644BD41B3</cheevosHash>
 	</game>
 	<game>
 		<path>./zaxxon.zip</path>
@@ -71452,26 +71341,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3314&am
 		<cheevosHash>02F6B54BE05C7927E0794B73A942F909</cheevosHash>
 		<cheevosId>12379</cheevosId>
 	</game>
-	<game>
-		<path>./jojo.zip</path>
-		<name>JoJo no Kimyou na Bouken</name>
-		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
-		<emulator>libretro</emulator>
-		<core>fbalpha2012</core>
-		<image>./mixart/jojo.png</image>
-		<video>./snap/jojo.mp4</video>
-		<marquee>./wheel/jojo.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
-	</game>
 	<game id="37557">
 		<path>./vfkids.zip</path>
 		<name>Virtua Fighter Kids</name>
@@ -71687,29 +71556,6 @@ The game consists of 6 levels, each representing a scene from the movie. Defeate
 		<region>us</region>
 		<cheevosHash>FC0F326747867CBDAEA31A1B28BED699</cheevosHash>
 	</game>
-	<game id="60196">
-		<path>./a51mxr3k.zip</path>
-		<name>Area 51 / Maximum Force Duo</name>
-		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/a51mxr3k.png</image>
-		<video>./snap/a51mxr3k.mp4</video>
-		<marquee>./wheel/a51mxr3k.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Atari</developer>
-		<publisher>Atari</publisher>
-		<genre>Lightgun Shooter</genre>
-		<family>Area 51</family>
-		<arcadesystemname>atari</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>63abb18f79794f529579779224cfd172</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
-	</game>
 	<game id="40450">
 		<path>./carnevil.zip</path>
 		<name>Carnevil</name>
@@ -71743,89 +71589,6 @@ After defeating TÃ¶kkentÃ¤kker and surviving the explosion of his airship, J
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3263877978AEB9834A6B61809E7561D4</cheevosHash>
-	</game>
-	<game id="39990">
-		<path>./alpinr2b.zip</path>
-		<name>Alpine Racer 2</name>
-		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/alpinr2b.png</image>
-		<video>./snap/alpinr2b.mp4</video>
-		<marquee>./wheel/alpinr2b.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<developer>Namco</developer>
-		<publisher>Namco</publisher>
-		<genre>Sports / Skiing</genre>
-		<family>Alpine Racer</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
-	</game>
-	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
-	</game>
-	<game>
-		<path>./captcomm.zip</path>
-		<name>Captain Commando</name>
-		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
-		<image>./mixart/captcomm.png</image>
-		<video>./snap/captcomm.mp4</video>
-		<marquee>./wheel/captcomm.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
-		<cheevosId>11726</cheevosId>
-	</game>
-	<game>
-		<path>./redearth.zip</path>
-		<name>Warzard</name>
-		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/redearth.png</image>
-		<video>./snap/redearth.mp4</video>
-		<marquee>./wheel/redearth.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19961121T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight-Fight /  Co-op</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
 	</game>
 	<game>
 		<path>./lgtnfght.zip</path>
@@ -71961,66 +71724,6 @@ Hasta La Vista, Baby!</desc>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>4171BC7633E2DF09D9059D8FE92051AD</cheevosHash>
-	</game>
-	<game>
-		<path>./cphd.zip</path>
-		<name>'H'Crouching Pony Hidden Dragon</name>
-		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
-		<image>./mixart/cphd.png</image>
-		<video>./snap/cphd.mp4</video>
-		<marquee>./wheel/cphd.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140714T000000</releasedate>
-		<developer>Le Cortex</developer>
-		<publisher>Neko Interactive</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
-	</game>
-	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game id="43948">
-		<path>./victlapw.zip</path>
-		<name>Ace Driver: Victory Lap</name>
-		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/victlapw.png</image>
-		<video>./snap/victlapw.mp4</video>
-		<marquee>./wheel/victlapw.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19960101T000000</releasedate>
-		<publisher>Namco</publisher>
-		<genre>Race, Driving / Race 3rd Pers. view</genre>
-		<family>Ace Driver</family>
-		<arcadesystemname>namco</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
 	</game>
 	<game>
 		<path>./opwolf.zip</path>
@@ -72220,26 +71923,6 @@ Stick Straw - A long-reach hitter, making him the best choice for long-range mov
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>24B312DCE08AD6D8D54BE8C7F1FF19DF</cheevosHash>
-	</game>
-	<game>
-		<path>./alien3.zip</path>
-		<name>Alien3: The Gun</name>
-		<desc>Alien 3 - The Gun is a shooter game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/alien3.png</image>
-		<video>./snap/alien3.mp4</video>
-		<marquee>./wheel/alien3.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Lightgun Shooter</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
 	</game>
 	<game>
 		<path>./bbmanw.zip</path>
@@ -72678,40 +72361,6 @@ Like the "Gauntlet" games on which Xybots is based; the game is endless and play
 		<genreid>262</genreid>
 	</game>
 	<game>
-		<path>./astdelux.zip</path>
-		<name>Asteroids Deluxe</name>
-		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
-
-Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
-
-Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
-
-When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
-
-In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
-
-At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
-
-The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
-
-As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/astdelux.png</image>
-		<video>./snap/astdelux.mp4</video>
-		<marquee>./wheel/astdelux.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19800101T000000</releasedate>
-		<developer>Dave Shepperd</developer>
-		<publisher>Atari</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
-	</game>
-	<game>
 		<path>./darkseal.zip</path>
 		<name>Dark Seal</name>
 		<desc>Fantasy hack and slash game in which up to four people can play at the same time, choosing from three stock fantasy characters (Knight, Wizard and Bard) and, for some reason, a Ninja. Players must then fight their way through enemy-packed levels, plundering treasure and avoiding the game's many traps. Gameplay is highly reminiscent of Atari's legendary 1985 classic, "Gauntlet".</desc>
@@ -72939,6 +72588,358 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=98311&a
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>
+		<cheevosHash>96A3FFAFE3423190418FD44C2741AC11</cheevosHash>
 		<scrap name="ArcadeDB" date="20230406T110211" />
+	</game>
+	<game id="60196">
+		<path>./a51mxr3k.zip</path>
+		<name>Area 51 / Maximum Force Duo</name>
+		<desc>This is the same game as the original "Area 51" and "Maximum Force" games, with the addition of a single credit 'Tournament' mode for "Maximum Force" and new/additional secret areas in both games.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/a51mxr3k.png</image>
+		<video>./snap/a51mxr3k.mp4</video>
+		<marquee>./wheel/a51mxr3k.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Lightgun Shooter</genre>
+		<family>Area 51</family>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>63abb18f79794f529579779224cfd172</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC45CE3B6098FEED410AB734B770CB9E</cheevosHash>
+	</game>
+	<game>
+		<path>./alien3.zip</path>
+		<name>Alien3: The Gun</name>
+		<desc>Alien 3 - The Gun is a shooter game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/alien3.png</image>
+		<video>./snap/alien3.mp4</video>
+		<marquee>./wheel/alien3.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Lightgun Shooter</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5AF10052357AAFCEF08CC73F1219EA3E</cheevosHash>
+	</game>
+	<game id="39990">
+		<path>./alpinr2b.zip</path>
+		<name>Alpine Racer 2</name>
+		<desc>A checkpoint-style racing game, featuring realistic physics, unique controls and an unusual genre for a racing game. It features three separate courses and your choice of speed or gate racing. There is a cool replay feature for finishing in first place.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/alpinr2b.png</image>
+		<video>./snap/alpinr2b.mp4</video>
+		<marquee>./wheel/alpinr2b.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Sports / Skiing</genre>
+		<family>Alpine Racer</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>c613f535b89b7c01c7aff48f4fb67d45</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A885F7FC12952906D8E92C3EE51164FD</cheevosHash>
+	</game>
+	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game id="40029">
+		<path>./aquajet.zip</path>
+		<name>Aqua Jet</name>
+		<desc>A 3-D waterscooter simulator with racing elements.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/aquajet.png</image>
+		<video>./snap/aquajet.mp4</video>
+		<marquee>./wheel/aquajet.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<developer>Namco</developer>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Boat</genre>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>6a312ddb5960c50efba168a4635650ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B267466D355FBF6F1DE9F7A3C62A4E5C</cheevosHash>
+	</game>
+	<game>
+		<path>./astdelux.zip</path>
+		<name>Asteroids Deluxe</name>
+		<desc>Asteroids Deluxe is a 1 or 2-player game with an X-Y or vector-generator monitor. The game depicts a third-person view of a player's spaceship battling to destroy asteroids, flying saucers and enemy ships or 'death stars' (shaped like clusters of triangles). When hit, the asteroids and death stars will break into progressively smaller pieces. 
+
+Players can put up an octagon-shaped 'shield' to temporarily protect their spaceship. However, this shield wears out with use. 
+
+Large asteroids appear and drift in from the outer edges of the display. By pressing the ROTATE LEFT and ROTATE RIGHT pushbuttons on the control panel, the player may aim a spaceship toward any of the asteroids. The player uses the FIRE pushbutton to shoot at the asteroids and other objects. 
+
+When shot, each large asteroid divides into two medium-sized asteroids, and the game adds 20 points to the player's score. Medium-sized asteroids, when shot, divide into two small-sized asteroids, and the game awards 50 points to the player. When shot the smallest asteroid disappears and the game adds 100 points to the player's score. 
+
+In addition to asteroids, the players can score points for shooting the various enemy ships. When hit, the large ships ('death stars' shaped like hexagons) score 50 points and break into three diamond shapes. The medium-sized enemy or diamond, when hit, grants the player 100 points and breaks into two small triangular pieces. These small pieces disappear when the player hits them, and the score increases by 200 points. 
+
+At any time during game play, a flying saucer may appear from either side of the display. The game awards players 200 points for shooting a large saucer and 1,000 points for a small saucer (the latter is a smaller target for players, though not any faster moving than the large one. It also shoots more accurately). 
+
+The player's objective in the game is to shoot and destroy as many asteroids, saucers, and enemy ships as possible before all his or her spaceships are destroyed. A ship is destroyed if an asteroid, saucer or enemy ship smashes into it, or if a flying saucer shoots it. To prevent losing a ship, the player may press the THRUST pushbutton to move out of the path of an oncoming object. 
+
+As an emergency maneuver, a player can press the Shields button. An octagon will then appear around the player's ship as protection from all enemies. For challenge the shield power lasts only about 10 seconds, but the power is renewed with each ship. The amount of shielding power available is shown by the brightness of the octagon (dim means almost exhausted power).</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/astdelux.png</image>
+		<video>./snap/astdelux.mp4</video>
+		<marquee>./wheel/astdelux.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19800101T000000</releasedate>
+		<developer>Dave Shepperd</developer>
+		<publisher>Atari</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>737ED73A8AACEEFAF2AEEA2FE1504137</cheevosHash>
+	</game>
+	<game>
+		<path>./bldyror2.zip</path>
+		<name>Bloody Roar 2: Bringer of the New Age</name>
+		<desc>Bloody Roar 2: Bringer of the New Age is a 3D fighting game developed and released by Eighting/Raizing (in conjunction with Hudson) for arcades in 1998.
+
+The sequel to Beastorizer (better known as Bloody Roar), Bloody Roar 2 brings a new roster of transformable Zoeanthropes while replacing the "Beast Rave" ability with an all new powerful super move (that fully depletes the Beast gauge while delivering a devastating series of attacks). The story takes place years after the original, where a new terrorist organization (the Zoanthrope Liberation Front, or ZLF) seeks complete dominance over humans and opposing Zoanthropes.
+
+Like its predecessor, it's better known for its Sony PlayStation port, developed by Hudson and published by Hudson in Japan on January 28, 1999, SCEA in North America on April 30, 1999 (as Bloody Roar II, also known as Bloody Roar II: The New Breed), and Virgin in Europe on July 1999. This version was digitally re-released for the PlayStation 3 and PlayStation Portable (both via PlayStation Network) on June 8, 2010.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/bldyror2.png</image>
+		<video>./snap/bldyror2.mp4</video>
+		<marquee>./wheel/bldyror2.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Eighting Co., Ltd.</developer>
+		<publisher>Eighting / Raizing</publisher>
+		<genre>Fighting 3D</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>9DF50A97ACDAB9EE00D08698BD73FC65</cheevosHash>
+	</game>
+	<game id="40435">
+		<path>./calspeed.zip</path>
+		<name>California Speed</name>
+		<desc>A driving game that takes place in various courses throughout the state of California, USA and includes a stage where you race on a rollercoaster!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/calspeed.png</image>
+		<video>./snap/calspeed.mp4</video>
+		<marquee>./wheel/calspeed.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Atari</developer>
+		<publisher>Atari</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<arcadesystemname>atari</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>6f9d255629f9642ab49bcf1c5c221d26</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1DA3B1442490DAAF9486A60F19341282</cheevosHash>
+	</game>
+	<game>
+		<path>./cphd.zip</path>
+		<name>'H'Crouching Pony Hidden Dragon</name>
+		<desc>CPHD is a homebrew - A pedestrian shooter mixed with RPG features exclusive for the Neo-Geo. Collect money and experience to evolve your weapons and equipments. Confront hordes of ninjas, shaolins, geishas... into intense fight to earn your immortality.</desc>
+		<image>./mixart/cphd.png</image>
+		<video>./snap/cphd.mp4</video>
+		<marquee>./wheel/cphd.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140714T000000</releasedate>
+		<developer>Le Cortex</developer>
+		<publisher>Neko Interactive</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game>
+		<path>./outrun.zip</path>
+		<name>'H' Out Run</name>
+		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
+
+Each of the game's stages is packed with civilian traffic that must be carefully avoided, as players try to negotiate the game's twisting, hilly roads. 
+
+At the end of every stage players are presented with a fork in the road, allowing them to chose which route they wish to take next. This was not the first time this feature had appeared (Tatsumi's 1983 racer, TX-1, was the first to introduce forked roads).
+
+As well as being able to choose routes, players could also - via the game's "in-car radio" - choose one of three different catchy tunes to listen to while driving. The songs are 'Magical Sound Shower', 'Passing Breeze' and 'Splash Wave'.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/outrun.png</image>
+		<video>./snap/outrun.mp4</video>
+		<marquee>./wheel/outrun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 3rd Pers. view</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>83A4BF4956274D8CABCCC84B446A4694</cheevosHash>
+	</game>
+	<game id="43948">
+		<path>./victlapw.zip</path>
+		<name>Ace Driver: Victory Lap</name>
+		<desc>A chase-view racing game featuring more tracks and cars than the original.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/victlapw.png</image>
+		<video>./snap/victlapw.mp4</video>
+		<marquee>./wheel/victlapw.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19960101T000000</releasedate>
+		<publisher>Namco</publisher>
+		<genre>Race, Driving / Race 3rd Pers. view</genre>
+		<family>Ace Driver</family>
+		<arcadesystemname>namco</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>e3c29137c559e76aa5fbefaeeb40fb4a</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>48DBB360A06D764EB611E2A8E109A2C2</cheevosHash>
+	</game>
+	<game>
+		<path>./captcomm.zip</path>
+		<name>Captain Commando</name>
+		<desc>Captain Commando is set in a crime-ridden future in the year 2026, where a superhero named Captain Commando, assisted by his three faithful Commando Companions rise up to protect the Earth and all the Galaxy from a gang of super-powered criminals.</desc>
+		<image>./mixart/captcomm.png</image>
+		<video>./snap/captcomm.mp4</video>
+		<marquee>./wheel/captcomm.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F6267C0019E7006BAB5875B27BE32478</cheevosHash>
+		<cheevosId>11726</cheevosId>
+	</game>
+	<game>
+		<path>./jojo.zip</path>
+		<name>JoJo no Kimyou na Bouken</name>
+		<desc>JoJo's Venture is a 2D fighting game based off of the hit Japanese manga series JoJo's Bizarre Adventure (famous for over-the-top violence, an intricate plot, and numerous Western rock music references).</desc>
+		<emulator>libretro</emulator>
+		<core>fbalpha2012</core>
+		<image>./mixart/jojo.png</image>
+		<video>./snap/jojo.mp4</video>
+		<marquee>./wheel/jojo.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7510D498F23F5815D3376EA7BAD64E29</cheevosHash>
+	</game>
+	<game>
+		<path>./mmatrix.zip</path>
+		<name>Mars Matrix: Hyper Solid Shooting</name>
+		<desc>A prediction is that before human civilization, there was once an advanced civilization on Mars. A sorceress destroyed the civilization and everything that was remembered of it, except a chip called "INFINITY". In 2100, millions of people were starving due to massive food shortages and has caused civil wars around the world. Centuries later, however, the world government had sent colonists to Mars which began to solve these problems. At a nearby farm, the Infinity chip was discovered and it revealed all the technology of the advanced civilization. In 2309, a Declaration of Independence has been sent to Earth. Large armies have been amassed on Mars, and a gigantic armada was waiting for any attack from Earth. The Earth government sends out a fleet of battleships followed by a special air raid unit called ACID; ACID is equipped with a new fighter ship known as the Mosquito. Their mission is to enter Mars, stop the rebel violence, locate and destroy the rebel leader, whoever... or whatever it may be...</desc>
+		<image>./mixart/mmatrix.png</image>
+		<video>./snap/mmatrix.mp4</video>
+		<marquee>./wheel/mmatrix.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20000101T000000</releasedate>
+		<developer>Takumi</developer>
+		<publisher>Takumi</publisher>
+		<genre>Shoot'em up / Vertical-Shoot'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5D87554E1EFBA014FD10046644BD41B3</cheevosHash>
+	</game>
+	<game>
+		<path>./redearth.zip</path>
+		<name>Warzard</name>
+		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/redearth.png</image>
+		<video>./snap/redearth.mp4</video>
+		<marquee>./wheel/redearth.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19961121T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight-Fight /  Co-op</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
 	</game>
 </gameList>

@@ -96,25 +96,6 @@
 		<scrap name="ScreenScraper" date="20221020T224237" />
 		<scrap name="HfsDB" date="20221020T224323" />
 	</game>
-	<game id="46719">
-		<path>./beachspi.zip</path>
-		<name>Beach Spikers: Virtua Beach Volleyball</name>
-		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
-		<image>./mixart/beachspi-image.png</image>
-		<video>./snap/beachspi-video.mp4</video>
-		<marquee>./wheel/beachspi-marquee.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20010701T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Sports / Volleyball</genre>
-		<players>1</players>
-		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
-		<scrap name="ScreenScraper" date="20221020T224149" />
-	</game>
 	<game id="46730">
 		<path>./clubk2k3.zip</path>
 		<name>Club Kart: European Session</name>
@@ -154,5 +135,24 @@
 		<region>us</region>
 		<cheevosHash>AB0BA049FCFAE02CFEC1F5999E0A99DC</cheevosHash>
 		<scrap name="ScreenScraper" date="20221020T224230" />
+	</game>
+	<game id="46719">
+		<path>./beachspi.zip</path>
+		<name>Beach Spikers: Virtua Beach Volleyball</name>
+		<desc>The typical summer sport, beach volleyball, became an arcade game! Not only the beach volleyball fans but also all the game fans will be extremely excited by the new type of sports game.</desc>
+		<image>./mixart/beachspi-image.png</image>
+		<video>./snap/beachspi-video.mp4</video>
+		<marquee>./wheel/beachspi-marquee.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20010701T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Sports / Volleyball</genre>
+		<players>1</players>
+		<md5>c114cc2701d7551bc3c1b9f1e3c8cbe3</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1C8CFD2373E58ACB141762F7630F7D0E</cheevosHash>
+		<scrap name="ScreenScraper" date="20221020T224149" />
 	</game>
 </gameList>

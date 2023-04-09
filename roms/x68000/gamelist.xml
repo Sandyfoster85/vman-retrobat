@@ -1450,6 +1450,17 @@ The game was later also released as part of a compilation called Taito Legends 2
 		<region>jp</region>
 	</game>
 	<game>
+		<path>./Akumajou Dracula.m3u</path>
+		<name>Akumajou Dracula</name>
+		<image>./mixart/Akumajou Dracula.png</image>
+		<video>./snap/Akumajou Dracula.mp4</video>
+		<marquee>./wheel/Akumajou Dracula.png</marquee>
+		<rating>0</rating>
+		<releasedate />
+		<lang>jp</lang>
+		<region>jp</region>
+	</game>
+	<game>
 		<path>./Alien Syndrome (1992)(Dempa).m3u</path>
 		<name>Alien Syndrome</name>
 		<desc>Alien Syndrome is a scrolling shooter arcade conversion.
@@ -1466,17 +1477,6 @@ You can play as a single player or two people, taking turns (Player 2 starts the
 		<publisher>Dempa</publisher>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>jp</lang>
-		<region>jp</region>
-	</game>
-	<game>
-		<path>./Akumajou Dracula.m3u</path>
-		<name>Akumajou Dracula</name>
-		<image>./mixart/Akumajou Dracula.png</image>
-		<video>./snap/Akumajou Dracula.mp4</video>
-		<marquee>./wheel/Akumajou Dracula.png</marquee>
-		<rating>0</rating>
-		<releasedate></releasedate>
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>

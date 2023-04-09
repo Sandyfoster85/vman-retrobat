@@ -175,25 +175,6 @@ It is up to the player to use the complex moves of an interactive movie to escap
 		<lang>en</lang>
 		<genreid>1028</genreid>
 	</game>
-	<game id="14156" source="ScreenScraper.fr">
-		<path>./primal_rage.cdi</path>
-		<name>Primal Rage</name>
-		<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
-
-Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
-		<image>./mixart/primal_rage.png</image>
-		<video>./snap/primal_rage.mp4</video>
-		<marquee>./wheel/primal_rage.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19950101T000000</releasedate>
-		<developer>Time Warner Interactive</developer>
-		<publisher>Atari</publisher>
-		<genre>Fight-Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>262</genreid>
-	</game>
 	<game id="14200" source="ScreenScraper.fr">
 		<path>./vidgrid/vidgrid.cue</path>
 		<name>Vid Grid</name>
@@ -241,5 +222,24 @@ The various game modes include a championship, single race, and arcade mode.  Ch
 		<players>2</players>
 		<lang>en</lang>
 		<genreid>1537</genreid>
+	</game>
+	<game id="14156" source="ScreenScraper.fr">
+		<path>./primal_rage.cdi</path>
+		<name>Primal Rage</name>
+		<desc>A meteor struck the Earth, and caused great chaos. Seven gods from ancient times awoke, and are now attempting to take control of the post-apocalyptic world.
+
+Primal Rage is a one-on-one fighting game featuring dinosaurs and giant apes as the fighters. The graphics are done with digitized stop-motion animation. Gameplay is similar to Mortal Kombat in that it is viewed from a side perspective, and features deadly finishing moves at the end of the match.</desc>
+		<image>./mixart/primal_rage.png</image>
+		<video>./snap/primal_rage.mp4</video>
+		<marquee>./wheel/primal_rage.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19950101T000000</releasedate>
+		<developer>Time Warner Interactive</developer>
+		<publisher>Atari</publisher>
+		<genre>Fight-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>262</genreid>
 	</game>
 </gameList>

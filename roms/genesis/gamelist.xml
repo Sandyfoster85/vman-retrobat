@@ -16385,38 +16385,6 @@ In normal Shinobi style, you are presented with side-scrolling playfields which 
 		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
 		<cheevosId>64</cheevosId>
 	</game>
-	<game>
-		<path>./Contra - Hard Corps (USA, Korea).7z</path>
-		<name>Contra : Hard Corps</name>
-		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
-		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
-		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
-		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940808T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en,kr</lang>
-		<region>kr</region>
-		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
-		<cheevosId>120</cheevosId>
-	</game>
-	<game>
-		<path>./#homebrews/Super Mario World (Unl) [b1].zip</path>
-		<name>Super Mario World</name>
-		<desc>Super Mario World, also known as Super Mario Advance, is an unlicensed Sega Mega Drive game developed by Chuanpu and published by Jazz Dark, loosely based off Nintendo's Super Mario Bros. franchise. It is actually a hack of Squirrel King, another unlicensed game. Whereas the first few stages have been altered (with tiles taken from Super Mario All-Stars on the SNES), later stages are identical to those seen in Squirrel King.</desc>
-		<image>./#homebrews/mixart/Super Mario World (Unl) [b1].png</image>
-		<video>./#homebrews/snap/Super Mario World (Unl) [b1].mp4</video>
-		<marquee>./#homebrews/wheel/Super Mario World (Unl) [b1].png</marquee>
-		<developer>Chuanpu</developer>
-		<publisher>Jazz Dark</publisher>
-		<genre>Action</genre>
-		<md5>28eb0df1a1a43e727c97203c5c0870c9</md5>
-		<lang>en</lang>
-	</game>
 	<game id="19" source="ScreenScraper.fr">
 		<path>./Immortal, The (USA, Europe).7z</path>
 		<name>The Immortal</name>
@@ -16524,5 +16492,38 @@ Enemies are also smarter with weapons, and some can even steal health upgrades, 
 		<region>us</region>
 		<cheevosHash>2D0B0C8F10EDF76131708E874E8D1EE4</cheevosHash>
 		<cheevosId>54</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario World (Unl) [b1].zip</path>
+		<name>Super Mario World</name>
+		<desc>Super Mario World, also known as Super Mario Advance, is an unlicensed Sega Mega Drive game developed by Chuanpu and published by Jazz Dark, loosely based off Nintendo's Super Mario Bros. franchise. It is actually a hack of Squirrel King, another unlicensed game. Whereas the first few stages have been altered (with tiles taken from Super Mario All-Stars on the SNES), later stages are identical to those seen in Squirrel King.</desc>
+		<image>./#homebrews/mixart/Super Mario World (Unl) [b1].png</image>
+		<video>./#homebrews/snap/Super Mario World (Unl) [b1].mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario World (Unl) [b1].png</marquee>
+		<developer>Chuanpu</developer>
+		<publisher>Jazz Dark</publisher>
+		<genre>Action</genre>
+		<md5>28eb0df1a1a43e727c97203c5c0870c9</md5>
+		<lang>en</lang>
+		<cheevosHash>28EB0DF1A1A43E727C97203C5C0870C9</cheevosHash>
+	</game>
+	<game>
+		<path>./Contra - Hard Corps (USA, Korea).7z</path>
+		<name>Contra : Hard Corps</name>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
+		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
+		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940808T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,kr</lang>
+		<region>kr</region>
+		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
+		<cheevosId>120</cheevosId>
 	</game>
 </gameList>

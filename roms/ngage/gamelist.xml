@@ -742,24 +742,6 @@ The game follows the basic concepts of a 3D Shooter, just as the "bigger" Call o
 		<lang>en</lang>
 		<genreid>256</genreid>
 	</game>
-	<game id="14409" source="ScreenScraper.fr">
-		<path>./Rayman 3.cmd</path>
-		<name>Rayman 3</name>
-		<desc>He may appear to have no body to connecting his limbs and head, but Rayman should not be underestimated. In this cartoon-style action-platform game, Rayman must extract the Dark Lum lord, who has been swallowed by his rather dumb friend Globox. 
-With over 50 maps spread across eight universes, plus an N-Gage exclusive four-player Capture The Flag mode, Rayman 3 provides a feast of action-platform gameplay.</desc>
-		<image>./mixart/Rayman 3.png</image>
-		<video>./snap/Rayman 3.mp4</video>
-		<marquee>./wheel/Rayman 3.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20031211T000000</releasedate>
-		<developer>Gameloft</developer>
-		<publisher>Gameloft</publisher>
-		<genre>Platform</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>257</genreid>
-	</game>
 	<game id="14408" source="ScreenScraper.fr">
 		<path>./SonicN.cmd</path>
 		<name>Sonic N</name>
@@ -843,5 +825,23 @@ With over 50 maps spread across eight universes, plus an N-Gage exclusive four-p
 		<players>4</players>
 		<lang>en</lang>
 		<genreid>1537</genreid>
+	</game>
+	<game id="14409" source="ScreenScraper.fr">
+		<path>./Rayman 3.cmd</path>
+		<name>Rayman 3</name>
+		<desc>He may appear to have no body to connecting his limbs and head, but Rayman should not be underestimated. In this cartoon-style action-platform game, Rayman must extract the Dark Lum lord, who has been swallowed by his rather dumb friend Globox. 
+With over 50 maps spread across eight universes, plus an N-Gage exclusive four-player Capture The Flag mode, Rayman 3 provides a feast of action-platform gameplay.</desc>
+		<image>./mixart/Rayman 3.png</image>
+		<video>./snap/Rayman 3.mp4</video>
+		<marquee>./wheel/Rayman 3.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20031211T000000</releasedate>
+		<developer>Gameloft</developer>
+		<publisher>Gameloft</publisher>
+		<genre>Platform</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>257</genreid>
 	</game>
 </gameList>
