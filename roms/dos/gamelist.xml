@@ -7137,4 +7137,23 @@ You play Mike Dawson, an ad company manager who, in pursuit of his goal in life 
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game id="157742">
+		<path>./Tetris.pc</path>
+		<name>Tetris (1987)</name>
+		<desc>The original commercially-licensed version of Alexey Pajitnov's classic Tetris puzzle game. Geometric shapes fall from the top of a playfield to rest on the bottom; fit the pieces together, and the line they form disappears. If the pieces don't form lines and eventually stack up to the top of the playfield, the game is over. Difficulty increases by dropping the pieces faster and faster over time.
+
+Tetris is a verifiable classic game, translated to well over 200 electronic and computer platforms. It takes 2 minutes to learn, but a lifetime to master.</desc>
+		<image>./mixart/Tetris.png</image>
+		<video>./snap/Tetris.mp4</video>
+		<marquee>./wheel/Tetris.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Spectrum Holobyte</developer>
+		<publisher>Spectrum Holobyte</publisher>
+		<genre>Strategy</genre>
+		<family>Tetris</family>
+		<players>1</players>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20230409T095545" />
+	</game>
 </gameList>
