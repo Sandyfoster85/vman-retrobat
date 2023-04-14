@@ -163,6 +163,10 @@ $n64dd_emulator.SetAttribute("value","project64")
 $fmtowns = $es_systems.SelectSingleNode("//system[name='fmtowns']")
 $fmtowns.extension = '.m3u .d88 .d77 .xdf .iso .game .cd .chd'
 
+# 15. 2023-4-14 - Added .p extensions in es_systems.cfg for zx81, reported by gspawn
+$zx81 = $es_systems.SelectSingleNode("//system[name='zx81']")
+$zx81.extension	= 'tzx .tap .z80 .Z80 .rzx .scl .trd .zip .7z .p'
+
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)
 ######################################################################
