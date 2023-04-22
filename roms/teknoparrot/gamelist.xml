@@ -1300,22 +1300,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./KingofFightersSkyStage.parrot</path>
-		<name>The King of Fighters: Sky Stage</name>
-		<desc>KOF Sky Stage is an arcade vertical shooting game with King of Fighters characters. In order to rescue fighters trapped in Orochi's dimensional prison, these heroes have been given the ability to fly through the skies and use their abilities to shoot down various demons and wraiths.</desc>
-		<image>./mixart/KOF Sky Stage.png</image>
-		<video>./snap/KOF Sky Stage.mp4</video>
-		<marquee>./wheel/KOF Sky Stage.png</marquee>
-		<rating>0.80</rating>
-		<releasedate>20101201T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>Atlus</publisher>
-		<genre>Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./LGJ.parrot</path>
 		<name>Let's Go Jungle: Lost on the Island of Spice</name>
 		<desc>Let's Go Jungle: Lost on the Island of Spice. The game follows the story of Beth and her bumbling tour guide, Zack. While out on a boat tour around the island, pirates being chased by sharks crash into their boat and try to commandeer it. The two are thrown overboard and wash ashore on a tropical island, where the local wildlife has gone crazy. Beth and Zack must work together if they hope to escape the island. The game follows many of the same conventions as the original games, mixing arcade shooting with Press X to Not Die segments with a few control tweaks.</desc>
@@ -1863,23 +1847,6 @@ This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade ga
 		<region>us</region>
 	</game>
 	<game>
-		<path>./or2spdlx.parrot</path>
-		<name>Outrun 2 Special Tours Deluxe</name>
-		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
-		<image>./mixart/Outrun 2 SP SDX.png</image>
-		<video>./snap/Outrun 2 SP SDX.mp4</video>
-		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20191201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./GRID.parrot</path>
 		<name>GRID</name>
 		<desc>Racing game released in 2010 for the Sega Europa-R arcade platform.</desc>
@@ -2119,6 +2086,39 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
 		<genre>Driving-Shooter</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./KingofFightersSkyStage.parrot</path>
+		<name>The King of Fighters: Sky Stage</name>
+		<desc>KOF Sky Stage is an arcade vertical shooting game with King of Fighters characters. In order to rescue fighters trapped in Orochi's dimensional prison, these heroes have been given the ability to fly through the skies and use their abilities to shoot down various demons and wraiths.</desc>
+		<image>./mixart/KOF Sky Stage.png</image>
+		<video>./snap/KOF Sky Stage.mp4</video>
+		<marquee>./wheel/KOF Sky Stage.png</marquee>
+		<rating>0.80</rating>
+		<releasedate>20101201T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>Atlus</publisher>
+		<genre>Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./or2spdlx.parrot</path>
+		<name>Outrun 2 Special Tours Deluxe</name>
+		<desc>In Outrun 2 - Special Tours: Sega adds a number of new features that will challenge and entertain players of all skill levels including: -15 new exhilarating courses for a total of 30! The new courses are based on highways and byways of the US. You'll recognize skylines and vistas of major cities and highways from across the country! -2 new Ferrari's - The 512BB and 250GTO. This gives players a choice of 10 of the world's greatest sports cars to race with! -Players of any skill level will feel the thrill of competing like never before thanks to Sega's Re-tuned Artifical Intelligence. The enhanced AI will help novice drivers stay in the race until the very end resulting in increased enjoyment for all! -New Background Music. 7 tunes from the original OutRun and Turbo OutRun have been added that'll bring back fond memories.</desc>
+		<image>./mixart/Outrun 2 SP SDX.png</image>
+		<video>./snap/Outrun 2 SP SDX.mp4</video>
+		<marquee>./wheel/Outrun 2 SP SDX.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20191201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

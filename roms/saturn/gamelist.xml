@@ -3786,22 +3786,6 @@
 		<cheevosHash>C4DB9D08D56D1FBF78322852775D4818</cheevosHash>
 	</game>
 	<game>
-		<path>./Scorcher (USA).chd</path>
-		<name>Scorcher</name>
-		<desc>Scorcher is a futuristic racing game by Scavenger. In dark post-war-looking decors, you race against a couple of opponents driving in a spherical racer. You can pick up special triangles to gain speed powerups.  The graphics support resolutions up to 640x480.</desc>
-		<image>./mixart/Scorcher (USA).png</image>
-		<video>./snap/Scorcher (USA).mp4</video>
-		<marquee>./wheel/Scorcher (USA).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19970301T000000</releasedate>
-		<developer>Zyrinx</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EDFB9B75DAD28E8446B82D5B0B98A5FD</cheevosHash>
-	</game>
-	<game>
 		<path>./Scud - The Disposable Assassin (USA).chd</path>
 		<name>Scud : The Disposable Assassin</name>
 		<desc>Scud : The Disposable Assassin est un jeu d'action sur Saturn tiré du comics Scud : The Disposable Assassin qui met en scène un robot qui a été programmé pour tuer et s'autodétruire. Il s'apprête à tuer une cible et se rend compte de son état : il décide alors, après avoir tiré sur le robot de le sauver en l'emmenant à l'hôpital pour aussi se sauver lui-même. Commence une course contre la montre : Scud va obtenir de l'argent pour payer les factures d'hôpital du robot pour l'empêcher de mourir.</desc>
@@ -5409,5 +5393,21 @@
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>D3681AA093345CFE78CDBE34F69C87B8</cheevosHash>
+	</game>
+	<game>
+		<path>./Scorcher (USA).chd</path>
+		<name>Scorcher</name>
+		<desc>Scorcher is a futuristic racing game by Scavenger. In dark post-war-looking decors, you race against a couple of opponents driving in a spherical racer. You can pick up special triangles to gain speed powerups.  The graphics support resolutions up to 640x480.</desc>
+		<image>./mixart/Scorcher (USA).png</image>
+		<video>./snap/Scorcher (USA).mp4</video>
+		<marquee>./wheel/Scorcher (USA).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19970301T000000</releasedate>
+		<developer>Zyrinx</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EDFB9B75DAD28E8446B82D5B0B98A5FD</cheevosHash>
 	</game>
 </gameList>

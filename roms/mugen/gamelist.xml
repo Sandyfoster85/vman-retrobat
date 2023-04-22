@@ -274,21 +274,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Namco X Capcom Brawlers.lnk</path>
-		<name>Namco X Capcom Brawlers</name>
-		<desc>Mugen Fanmade 2D Fighting Namco X Capcom Brawlers</desc>
-		<image>./mixart/Namco X Capcom Brawlers.png</image>
-		<video>./snap/Namco X Capcom Brawlers.mp4</video>
-		<marquee>./wheel/Namco X Capcom Brawlers.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Sailor Moon Mugen.lnk</path>
 		<name>Sailor Moon Mugen</name>
 		<desc>Mugen Fanmade 2D Fighting Sailor Moon Mugen</desc>
@@ -544,21 +529,6 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Saturday Morning Mayhem.lnk</path>
-		<name>Saturday Morning Mayhem</name>
-		<desc>Mugen Fanmade 2D Fighting Saturday Morning Mayhem</desc>
-		<image>./mixart/Saturday Morning Mayhem.png</image>
-		<video>./snap/Saturday Morning Mayhem.mp4</video>
-		<marquee>./wheel/Saturday Morning Mayhem.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20110211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -908,22 +878,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Enter The Dragon MUGEN V2.lnk</path>
-		<name>Enter The Dragon MUGEN</name>
-		<desc>Mugen Fanmade 2D Fighting Enter The Dragon MUGEN</desc>
-		<image>./mixart/Enter The Dragon MUGEN V2.png</image>
-		<video>./snap/Enter The Dragon MUGEN V2.mp4</video>
-		<marquee>./wheel/Enter The Dragon MUGEN V2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20160211T010000</releasedate>
-		<developer>Fanmade</developer>
-		<publisher>Mugen</publisher>
-		<genre>Fighting</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./King of Fighters EX Ultimate 2021.lnk</path>
 		<name>King of Fighters EX Ultimate 2021</name>
 		<desc>Mugen Fanmade 2D Fighting King of Fighters EX Ultimate 2021</desc>
@@ -1048,6 +1002,52 @@
 		<genre>Fighting</genre>
 		<players>2</players>
 		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Enter The Dragon MUGEN V2.lnk</path>
+		<name>Enter The Dragon MUGEN</name>
+		<desc>Mugen Fanmade 2D Fighting Enter The Dragon MUGEN</desc>
+		<image>./mixart/Enter The Dragon MUGEN V2.png</image>
+		<video>./snap/Enter The Dragon MUGEN V2.mp4</video>
+		<marquee>./wheel/Enter The Dragon MUGEN V2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Namco X Capcom Brawlers.lnk</path>
+		<name>Namco X Capcom Brawlers</name>
+		<desc>Mugen Fanmade 2D Fighting Namco X Capcom Brawlers</desc>
+		<image>./mixart/Namco X Capcom Brawlers.png</image>
+		<video>./snap/Namco X Capcom Brawlers.mp4</video>
+		<marquee>./wheel/Namco X Capcom Brawlers.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20160211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Saturday Morning Mayhem.lnk</path>
+		<name>Saturday Morning Mayhem</name>
+		<desc>Mugen Fanmade 2D Fighting Saturday Morning Mayhem</desc>
+		<image>./mixart/Saturday Morning Mayhem.png</image>
+		<video>./snap/Saturday Morning Mayhem.mp4</video>
+		<marquee>./wheel/Saturday Morning Mayhem.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20110211T010000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Mugen</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>

@@ -60,20 +60,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./tbatman.cmd</path>
-		<name>Batman</name>
-		<desc>Tiger Electronics presents Batman</desc>
-		<image>./mixart/tbatman.png</image>
-		<video>./snap/tbatman.mp4</video>
-		<marquee>./wheel/tbatman.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19971231T200000</releasedate>
-		<developer>Tiger Electronics</developer>
-		<publisher>Game.com</publisher>
-		<genre>Casual Game</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./tbttf.cmd</path>
 		<name>Back to the Future</name>
 		<desc>Tiger Electronics presents Back to the Future</desc>
@@ -514,20 +500,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./tmkombat.cmd</path>
-		<name>Mortal Kombat</name>
-		<desc>Tiger Electronics presents Mortal Kombat</desc>
-		<image>./mixart/tmkombat.png</image>
-		<video>./snap/tmkombat.mp4</video>
-		<marquee>./wheel/tmkombat.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19971231T200000</releasedate>
-		<developer>Tiger Electronics</developer>
-		<publisher>Game.com</publisher>
-		<genre>Casual Game</genre>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./tsddragon.cmd</path>
 		<name>Super Double Dragon</name>
 		<desc>Tiger Electronics presents Super Double Dragon</desc>
@@ -611,6 +583,34 @@
 		<publisher>Game.com</publisher>
 		<genre>Casual Game</genre>
 		<players>1</players>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tmkombat.cmd</path>
+		<name>Mortal Kombat</name>
+		<desc>Tiger Electronics presents Mortal Kombat</desc>
+		<image>./mixart/tmkombat.png</image>
+		<video>./snap/tmkombat.mp4</video>
+		<marquee>./wheel/tmkombat.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./tbatman.cmd</path>
+		<name>Batman</name>
+		<desc>Tiger Electronics presents Batman</desc>
+		<image>./mixart/tbatman.png</image>
+		<video>./snap/tbatman.mp4</video>
+		<marquee>./wheel/tbatman.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19971231T200000</releasedate>
+		<developer>Tiger Electronics</developer>
+		<publisher>Game.com</publisher>
+		<genre>Casual Game</genre>
 		<lang>en</lang>
 	</game>
 	<game>

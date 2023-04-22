@@ -32236,25 +32236,6 @@ The bike minigame (where you must stop your bike) has the Boss music from "Final
 		<region>us</region>
 		<cheevosHash>5628CEB6AF4A48B8D1947578D4E58F19</cheevosHash>
 	</game>
-	<game>
-		<path>./gladiatr.zip</path>
-		<name>Gladiator</name>
-		<desc>The player controls a gladiator/knight named Great Guaranos as he walks through a castle. Moving the joystick left and right moves Great Guaranos left and right, and up and down is used to position Great Guaranos's shield. The game's three buttons correspond to a high, medium, and low attack with Great Guaranos's sword. Gladiator consists of 4 Stages. The first level is the 'Underground Chamber', 2nd is the 'Brick Corridor', 3rd is the 'Roof Top' stage, and the 4th stage is called the 'Mysterious 4-D World'. Your reward for completing the game is to enter the "Treasure Place".</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/gladiatr.png</image>
-		<video>./snap/gladiatr.mp4</video>
-		<marquee>./wheel/gladiatr.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Fight-Fight / 2D</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>B0824F3DB08C9C51435448ACCE4A0A18</cheevosHash>
-	</game>
 	<game id="41455">
 		<path>./glasskr.zip</path>
 		<name>Glass</name>
@@ -32417,26 +32398,6 @@ The object of the game is to shoot a set number of enemy planes as they approach
 		<region>us</region>
 		<cheevosHash>9A18CD4FC9E220A3FF75CF72806D1589</cheevosHash>
 		<cheevosId>15791</cheevosId>
-	</game>
-	<game>
-		<path>./gng.zip</path>
-		<name>Ghosts'n Goblins</name>
-		<desc>Three years have passed since the events of "Makaimura" and Arthur the knight once again finds himself battling against the hideous creatures of Demon World. The demons have now seized the kingdom and Arthur returns home to witness the castle's lone survivor, his beloved Gunievere, murdered by the king of the demons, Lucifer. Arthur once again embarks on a one-man quest to destroy the demonic invaders and save Gunievere's mortal soul. 
-
-Game-play is of a very similar vein to that of "Makaimura" - the classic run, jump and shoot action remains intact. Daimakaimura is, however, even more difficult than its already demanding predecessor. Arthur now has access to several new power-ups to aid him on his daunting quest, such as 'Golden Armour' which gives Arthur greater protection from the demons. Additionally, unlike "Makaimura", Arthur can now fire his weapons upwards instead of just left or right and, while jumping, can fire beneath him as well. 
-
-The graphics in Daimakaimura are predictably far superior to those of its 1985 prequel, with highly imaginative level design and superbly-drawn, smoothly animated enemies all adding to the game's superb Gothic feel.</desc>
-		<image>./mixart/gng.png</image>
-		<video>./snap/gng.mp4</video>
-		<marquee>./wheel/gng.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>64FB7D782F2BE42FEB84FEF5D0530776</cheevosHash>
 	</game>
 	<game>
 		<path>./goal92.zip</path>
@@ -34097,27 +34058,6 @@ Gun Frontier also employs an anti-autofire mechanism where the difficulty will m
 		<cheevosHash>458DADD79B5CD4DAA6A25300E61D2506</cheevosHash>
 	</game>
 	<game>
-		<path>./gunsmoke.zip</path>
-		<name>Gun.Smoke</name>
-		<desc>Gun.Smoke is a vertically-scrolling shoot-em-up set in the Wild West, in which the player takes the role of a Billy; a young Sheriff charged with hunting down and killing a number of infamous 'Wanted' outlaws.
-
-Each level is packed with gun-toting bandits and the Sheriff must shoot his way through the stage, before finally taking on the wanted outlaw 'boss' character at the end. Each outlaw wields a special weapon unique to them, such as a Winchester rifle, knives, darts or boomerangs.
-
-Shooting the barrels that litter the levels reveals power-ups such as boots (for extra speed), rifles (for increased range) and bullets (for rapid fire). The game's 3 directional fire buttons (for firing left, right or ahead) can be combined (pressed Simultaneously) to create a total of 8 different firing directions.</desc>
-		<image>./mixart/gunsmoke.png</image>
-		<video>./snap/gunsmoke.mp4</video>
-		<marquee>./wheel/gunsmoke.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19850101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shooter-Shooter / Run and Shoot</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EC523D77D302C161EB3550DBE93AE1D7</cheevosHash>
-	</game>
-	<game>
 		<path>./gururin.zip</path>
 		<name>Gururin</name>
 		<desc>Your goal is to make three people of the same color line up and disappear--but to do that, you won't flip the people around as they fall but rather rotate the entire pit once they've landed. Like clothes in a dryer, you've got to flip the whole playfield around and try to match up the midgets as they slide down to the bottom of the screen, reorganizing themselves as they go.</desc>
@@ -34206,29 +34146,6 @@ Shooting the barrels that litter the levels reveals power-ups such as boots (for
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>AFC680B34C218F57BE693835C79D693D</cheevosHash>
-	</game>
-	<game>
-		<path>./gwarb.zip</path>
-		<name>Guerrilla War</name>
-		<desc>The country is struggling under the cruel domination of its evil King. The rebel guerilla leader and his comrades attempt to secretly land on shore. The King's military is waiting for them, however, and the players must fight their way inland to reach and destroy the King's palace stronghold.
-
-In this, the pseudo-sequel to SNK's own superb "Ikari Warriors" (released two years earlier), players must once again shoot their way through a number of vertically scrolling levels, all packed with large numbers of enemy soldiers, gun emplacements and vehicles. Each level also contains a number of captured prisoners tied to wooden stakes, and these can be rescued for extra points. 
-
-The players' weapons have only a limited amount of ammunition and additional ammo/grenades must be picked up along the way. A number of gun upgrades can also be found. At various points in the game, players can also enter unoccupied enemy tanks, which provide increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode - this is proceeded by a warning flash to allow the player to exit the tank before the explosion occurs. Should the player be caught inside or near the tank when it explodes, a life is lost.
-
-As with "Ikari Warriors", Guerrilla War features full 360 degree gameplay with attacking troops appearing from all directions. The players' on-screen counterparts are able to rotate themselves accordingly.</desc>
-		<image>./mixart/gwarb.png</image>
-		<video>./snap/gwarb.mp4</video>
-		<marquee>./wheel/gwarb.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>SNK</developer>
-		<publisher>SNK</publisher>
-		<genre>Shooter-Shooter / Run and Shoot</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>923426845F0DE668ECC9FECC0B56E459</cheevosHash>
 	</game>
 	<game>
 		<path>./gwarrior.zip</path>
@@ -40175,21 +40092,6 @@ Treasure must be constantly collected in order to stay alive.</desc>
 		<region>us</region>
 		<cheevosHash>DEFF1024B8CE1C7F02C4EA5FE26C95BB</cheevosHash>
 		<cheevosId>12792</cheevosId>
-	</game>
-	<game>
-		<path>./lsasquad.zip</path>
-		<name>Land Sea Air Squad / Riku Kai Kuu Saizensen</name>
-		<desc>Land Sea Air Squad also known in japan as "Riku Kai Kuu Saizensen".</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/lsasquad.png</image>
-		<video>./snap/lsasquad.mp4</video>
-		<marquee>./wheel/lsasquad.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19860101T000000</releasedate>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>D8312E0A393241B06C2CFBFC39B4331A</cheevosHash>
 	</game>
 	<game>
 		<path>./ltswords.zip</path>
@@ -48481,24 +48383,6 @@ The player's opponents are each rendered as humorous cartoon-like caricatures - 
 		<cheevosHash>C196E3119590AB1959C6BCDF50C846FD</cheevosHash>
 	</game>
 	<game>
-		<path>./punisher.zip</path>
-		<name>The Punisher</name>
-		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
-		<image>./mixart/punisher.png</image>
-		<video>./snap/punisher.mp4</video>
-		<marquee>./wheel/punisher.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>1A52ED76F4DF2F621E235C36A97DEED3</cheevosHash>
-		<cheevosId>11787</cheevosId>
-	</game>
-	<game>
 		<path>./punkshot.zip</path>
 		<name>Punk Shot</name>
 		<desc>Street basketball game two on two with punks and punchs!</desc>
@@ -51446,27 +51330,6 @@ R Type Leo consists of 6 stages and is the first game in the series to allow 2 p
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>DBC2C9129533C07AAC5B7F00C3C5C98A</cheevosHash>
-	</game>
-	<game id="42852">
-		<path>./rvschoolu.zip</path>
-		<name>Rival Schools: United By Fate</name>
-		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
-		<emulator>libretro</emulator>
-		<core>mame</core>
-		<image>./mixart/rvschoolu.png</image>
-		<video>./snap/rvschoolu.mp4</video>
-		<marquee>./wheel/rvschoolu.png</marquee>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Rival Schools</family>
-		<arcadesystemname>capcom</arcadesystemname>
-		<players>2</players>
-		<md5>3e85e52cf2c6ce2161d2348c42f435fc</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FA2886E88C81CD0A202A76DFC07B0A5B</cheevosHash>
 	</game>
 	<game>
 		<path>./ryujin.zip</path>
@@ -62789,23 +62652,6 @@ The game is similar to the original "Tank" except the battlefields can be open o
 		<cheevosHash>8B6EC40C27593256329932CF5AC91211</cheevosHash>
 	</game>
 	<game>
-		<path>./unsquad.zip</path>
-		<name>Area 88</name>
-		<desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</desc>
-		<image>./mixart/unsquad.png</image>
-		<video>./snap/unsquad.mp4</video>
-		<marquee>./wheel/unsquad.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>E67D7CBD0B5AAC0D9D7A9193E7B69653</cheevosHash>
-	</game>
-	<game>
 		<path>./uopoko.zip</path>
 		<name>Puzzle Uo Poko</name>
 		<desc>Uo Poko is a puzzle game for one or two players (co-operative). The aim is to clear the screen of coloured glass balls by dropping like-coloured balls down onto them. Connecting three or more like-coloured balls creates a chain reaction and causes them to disappear.
@@ -67081,37 +66927,6 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<cheevosHash>5CAAADF5ADFAE76FA3E965ECB4FB4196</cheevosHash>
 		<cheevosId>14880</cheevosId>
 	</game>
-	<game id="41400">
-		<path>./rushatck.zip</path>
-		<name>Rush'n Attack</name>
-		<desc>Green Beret is a sideways-scrolling action/platform game set during the Cold War, in which a US Special Forces Marine must infiltrate a Russian military base to save four POW's from being executed by firing squad. 
-
-Initially, the soldier is armed with only a combat knife, but by killing the certain enemy troops, players can obtain either a three-shot flamethrower, a four-shot RPG, or a three-pack of hand grenades. 
-
-The Marine can jump or lie down to avoid the enemy bullets, as well as climbing ladders to avoid enemies and projectiles, as well as the flashing land mines that litter the levels. While it's possible to remain still in one area to rack up points, if players take too long to proceed, the game will start sending out tougher enemies and eventually a stealth-like bomber will appear to take out the player. There is also an unseen time limit that will kill off players if they take too long to complete the stage. 
-
-The game has four stages in total: a missile base, a harbour, an air Base and a Siberian POW Camp. At the end of each stage the Marine will face a group of enemies specific to that stage: Stage 1 ends with a truckload of running and jump-kicking soldiers, Stage 2 with a pack of fierce dogs and their handlers, Stage 3 with three Gyro-copters and Stage 4 with a number of multi-shot flamethrower operators. 
-
-The game is completed once the captives have been rescued at the end of the fourth stage, after which the action starts over with an increased level of difficulty.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/rushatck.png</image>
-		<video>./snap/rushatck.mp4</video>
-		<marquee>./wheel/rushatck.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Platform / Shooter Scrolling</genre>
-		<family>Green Beret</family>
-		<arcadesystemname>konami</arcadesystemname>
-		<players>2</players>
-		<md5>ce2c5080a78981b55388527278f3e994</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3062538FC1A23D3CF8B1390C18A828BF</cheevosHash>
-		<cheevosId>12431</cheevosId>
-	</game>
 	<game id="43982" source="ScreenScraper.fr">
 		<path>./vr.zip</path>
 		<name>Virtua Racing</name>
@@ -68852,23 +68667,6 @@ bear between rounds for extra points.</desc>
 		<cheevosHash>FD7D02101D1E2E15045A1E8FD2433459</cheevosHash>
 	</game>
 	<game>
-		<path>./jackal.zip</path>
-		<name>Jackal</name>
-		<desc>Take the role of soldiers infiltrating enemy territory in a jeep to rescue your POW comrades.</desc>
-		<image>./mixart/jackal.png</image>
-		<video>./snap/jackal.mp4</video>
-		<marquee>./wheel/jackal.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter / Vehicle, Vertical-Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5DA520440785B95DF2C6016087C315AE</cheevosHash>
-	</game>
-	<game>
 		<path>./androdun.zip</path>
 		<name>Andro Dunos</name>
 		<desc>The invasion of an unknown life source is getting worse. Nobody knows if the defensive line or the heart of the enemy base is ruined first. With the people's hope, the most advanced fighter will be dispatched into multi-scrolling space.
@@ -69386,29 +69184,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=4913&am
 		<region>us</region>
 		<cheevosHash>024E350BE5736B014D80C32330F03E2A</cheevosHash>
 		<cheevosId>12027</cheevosId>
-	</game>
-	<game id="78949">
-		<path>./mk4.zip</path>
-		<name>Mortal Kombat 4</name>
-		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/mk4.png</image>
-		<video>./snap/mk4.mp4</video>
-		<marquee>./wheel/mk4.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Fight / Versus</genre>
-		<family>Mortal Kombat</family>
-		<arcadesystemname>midway</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>f07469f7979d3faf74844064248ba73c</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FD274029E50AE245AA2443993D73AD9A</cheevosHash>
 	</game>
 	<game>
 		<path>./stg.zip</path>
@@ -71432,27 +71207,6 @@ Edit this entry: https://www.arcade-history.com/?&amp;page=detail&amp;id=3343&am
 		<cheevosHash>61D91F297D01EC70C2F86613829F0A4E</cheevosHash>
 	</game>
 	<game>
-		<path>./willow.zip</path>
-		<name>Willow</name>
-		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
-
-The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
-		<image>./mixart/willow.png</image>
-		<video>./snap/willow.mp4</video>
-		<marquee>./wheel/willow.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Lucasfilm</publisher>
-		<genre>Platform-Plateform / Shooter Scrolling</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
-		<cheevosId>11836</cheevosId>
-	</game>
-	<game>
 		<path>./starblad.zip</path>
 		<name>Starblade</name>
 		<desc>Starblade is a 3-D space shoot'em up featuring 2 separate missions; the first is to destroy the planet 'Red Eye' while the second is to wipe out the enemy fleet and their leader. The game's sit-down cabinet featured a seat that vibrated whenever the player was hit, either by incoming fire or by enemy objects such as ships, asteroids etc. The yoke joystick - which had a fire button situated at the top of the stick, underneath where the player's thumb sits - was very similar in appearance and feel to that used in Atari's 1983 wireframe classic, "Star Wars (Atari)".</desc>
@@ -71985,24 +71739,6 @@ Special items that reveal coins, upgraded armour, or simply bonus points can be 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>B921A42C761DBFFF191C1AEBE556D6F7</cheevosHash>
-	</game>
-	<game>
-		<path>./kungfum.zip</path>
-		<name>Kung-Fu Master</name>
-		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
-		<image>./mixart/kungfum.png</image>
-		<video>./snap/kungfum.mp4</video>
-		<marquee>./wheel/kungfum.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19840101T000000</releasedate>
-		<developer>Irem</developer>
-		<publisher>Irem</publisher>
-		<genre>Fight / 2D-Fight</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
 	</game>
 	<game>
 		<path>./mystwarr.zip</path>
@@ -72778,26 +72514,6 @@ Like its predecessor, it's better known for its Sony PlayStation port, developed
 		<cheevosHash>DF92411309F72D5ACFA55565AB2EBA1E</cheevosHash>
 	</game>
 	<game>
-		<path>./nbajam.zip</path>
-		<name>'H' NBA Jam</name>
-		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
-		<emulator>libretro</emulator>
-		<core>mame2003_plus</core>
-		<image>./mixart/nbajam.png</image>
-		<video>./snap/nbajam.mp4</video>
-		<marquee>./wheel/nbajam.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Midway</developer>
-		<publisher>Midway</publisher>
-		<genre>Sports-Sports / Basketball</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
-	</game>
-	<game>
 		<path>./outrun.zip</path>
 		<name>'H' Out Run</name>
 		<desc>Out Run is a ground-breaking racing game in which the player drives a red Ferrari Testarossa through a number of colourful European locations, trying to reach each end-of-level checkpoint before the tight time limit expires.
@@ -72902,6 +72618,182 @@ As well as being able to choose routes, players could also - via the game's "in-
 		<cheevosHash>5D87554E1EFBA014FD10046644BD41B3</cheevosHash>
 	</game>
 	<game>
+		<path>./altbeast.zip</path>
+		<name>Altered Beast</name>
+		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/altbeast.png</image>
+		<video>./snap/altbeast.mp4</video>
+		<marquee>./wheel/altbeast.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
+		<cheevosId>11975</cheevosId>
+	</game>
+	<game>
+		<path>./kungfum.zip</path>
+		<name>Kung-Fu Master</name>
+		<desc>Kung-Fu Master, known in Japan as Spartan X (ã¹ãã«ã¿ã³X?), is a 1984 beat 'em up arcade game developed and published in Japan by Irem. It was later published in North America by Data East. The Japanese version was based on the Jackie Chan movie Wheels on Meals, known as Spartan X in Japan, and credited "Paragon Films Ltd., Towa Promotion", who produced the film upon which it was based. The game is considered by many to be the first beat 'em up video game, and contains elements of Bruce Lee's Game of Death.</desc>
+		<image>./mixart/kungfum.png</image>
+		<video>./snap/kungfum.mp4</video>
+		<marquee>./wheel/kungfum.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19840101T000000</releasedate>
+		<developer>Irem</developer>
+		<publisher>Irem</publisher>
+		<genre>Fight / 2D-Fight</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF2B388FD1C1E0B6CE616474CEBC68ED</cheevosHash>
+	</game>
+	<game id="78949">
+		<path>./mk4.zip</path>
+		<name>Mortal Kombat 4</name>
+		<desc>The 4th installment of the classic 'Mortal Kombat' series. New graphics, new fighters and a whole new challenge awaits you. Prepare to do battle and take on a whole new dimension.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/mk4.png</image>
+		<video>./snap/mk4.mp4</video>
+		<marquee>./wheel/mk4.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Mortal Kombat</family>
+		<arcadesystemname>midway</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>f07469f7979d3faf74844064248ba73c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FD274029E50AE245AA2443993D73AD9A</cheevosHash>
+	</game>
+	<game id="42852">
+		<path>./rvschoolu.zip</path>
+		<name>Rival Schools: United By Fate</name>
+		<desc>The story of Rival Schools introduces the player to a Japanese city called Aoharu City, where several local schools are the victims of unknown attacks and kidnappings of students and staff. The various characters in the game set out to find who is responsible for the attacks on their school, with the cut-scenes and fights portraying their interactions with the other schools and among themselves. Eventually, the story reveals that an elite school in the city, Justice High, is responsible for the attacks. The player's team eventually faces off against Raizo Imawano, the principal of the school, and first boss of the game. If certain requirements are met during the fight against Raizo, the story would continue as the player would then head into a true final boss fight against Hyo Imawano, Raizo's nephew and the true mastermind behind the events of the game.</desc>
+		<emulator>libretro</emulator>
+		<core>mame</core>
+		<image>./mixart/rvschoolu.png</image>
+		<video>./snap/rvschoolu.mp4</video>
+		<marquee>./wheel/rvschoolu.png</marquee>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Fight / Versus</genre>
+		<family>Rival Schools</family>
+		<arcadesystemname>capcom</arcadesystemname>
+		<players>2</players>
+		<md5>3e85e52cf2c6ce2161d2348c42f435fc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FA2886E88C81CD0A202A76DFC07B0A5B</cheevosHash>
+	</game>
+	<game>
+		<path>./unsquad.zip</path>
+		<name>Area 88</name>
+		<desc>U.N. Squadron / Area 88 is a horizontally-scrolling shoot-em-up and is based on the Manga series of the same name. The game features characters from the original Manga and their mission is to battle their way through enemy-packed levels to stop a terrorist group known as 'Project 4'.</desc>
+		<image>./mixart/unsquad.png</image>
+		<video>./snap/unsquad.mp4</video>
+		<marquee>./wheel/unsquad.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>E67D7CBD0B5AAC0D9D7A9193E7B69653</cheevosHash>
+	</game>
+	<game>
+		<path>./willow.zip</path>
+		<name>Willow</name>
+		<desc>Willow is a sideways scrolling platform shoot-em-up game loosely based upon the movie of the same name. Players take on the role of one of two characters: Willow Ufgood or Madmartigan. The hero's mission is to rescue the baby Elora Danan from the evil Queen Bavmorda and bring her back safely. If the quest fails, the Queen will plunge the world into darkness and chaos.
+
+The game consists of 6 levels, each representing a scene from the movie. Defeated enemies drop gold coins that can be collected by the player. In addition, each level is littered with locked treasure chests that can be shot open and the treasure within collected. The gold can be used to purchase a number of weapons and character power-ups from a nearby shop (represented on screen by a wise old man). All power-ups will stay with the player until all lives are lost and the game is over.</desc>
+		<image>./mixart/willow.png</image>
+		<video>./snap/willow.mp4</video>
+		<marquee>./wheel/willow.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Lucasfilm</publisher>
+		<genre>Platform-Plateform / Shooter Scrolling</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>592CEC0A3FC4D8CF9B6E57A09BFF554B</cheevosHash>
+		<cheevosId>11836</cheevosId>
+	</game>
+	<game>
+		<path>./gwarb.zip</path>
+		<name>Guerrilla War</name>
+		<desc>The country is struggling under the cruel domination of its evil King. The rebel guerilla leader and his comrades attempt to secretly land on shore. The King's military is waiting for them, however, and the players must fight their way inland to reach and destroy the King's palace stronghold.
+
+In this, the pseudo-sequel to SNK's own superb "Ikari Warriors" (released two years earlier), players must once again shoot their way through a number of vertically scrolling levels, all packed with large numbers of enemy soldiers, gun emplacements and vehicles. Each level also contains a number of captured prisoners tied to wooden stakes, and these can be rescued for extra points. 
+
+The players' weapons have only a limited amount of ammunition and additional ammo/grenades must be picked up along the way. A number of gun upgrades can also be found. At various points in the game, players can also enter unoccupied enemy tanks, which provide increased firepower as well as resistance to enemy shots. Too many enemy hits, however, will eventually see the tank explode - this is proceeded by a warning flash to allow the player to exit the tank before the explosion occurs. Should the player be caught inside or near the tank when it explodes, a life is lost.
+
+As with "Ikari Warriors", Guerrilla War features full 360 degree gameplay with attacking troops appearing from all directions. The players' on-screen counterparts are able to rotate themselves accordingly.</desc>
+		<image>./mixart/gwarb.png</image>
+		<video>./snap/gwarb.mp4</video>
+		<marquee>./wheel/gwarb.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>SNK</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter-Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>923426845F0DE668ECC9FECC0B56E459</cheevosHash>
+	</game>
+	<game>
+		<path>./jackal.zip</path>
+		<name>Jackal</name>
+		<desc>Take the role of soldiers infiltrating enemy territory in a jeep to rescue your POW comrades.</desc>
+		<image>./mixart/jackal.png</image>
+		<video>./snap/jackal.mp4</video>
+		<marquee>./wheel/jackal.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter / Vehicle, Vertical-Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5DA520440785B95DF2C6016087C315AE</cheevosHash>
+	</game>
+	<game>
+		<path>./lsasquad.zip</path>
+		<name>Land Sea Air Squad / Riku Kai Kuu Saizensen</name>
+		<desc>Land Sea Air Squad also known in japan as "Riku Kai Kuu Saizensen".</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/lsasquad.png</image>
+		<video>./snap/lsasquad.mp4</video>
+		<marquee>./wheel/lsasquad.png</marquee>
+		<rating>0.5</rating>
+		<releasedate>19860101T000000</releasedate>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D8312E0A393241B06C2CFBFC39B4331A</cheevosHash>
+	</game>
+	<game>
 		<path>./redearth.zip</path>
 		<name>Warzard</name>
 		<desc>Red Earth take place in the year 1999 of an alternate Earth, follow the adventures of four heroes as they take on an army of mythical monsters unleashed by Scion to bring about the destruction of the world. Take your pick from Leo the Lion King, Mai-Ling the Martial artist, Tessa the Witch, or Kenji the Ninja as they fight their way across the globe in order to defeat Scion the iron giant.</desc>
@@ -72922,24 +72814,133 @@ As well as being able to choose routes, players could also - via the game's "in-
 		<cheevosHash>DCA1E1BBF2DD8825021EA8264F8B136B</cheevosHash>
 	</game>
 	<game>
-		<path>./altbeast.zip</path>
-		<name>Altered Beast</name>
-		<desc>Altered Beast is a side scrolling, platform, beat 'em up game that puts the player in control of a centurion who had died in battle. The centurion has been raised from the dead to rescue Zeus' daughter Athena from the demon Neff. The player battles undead and demonic hordes, controlling the shapeshifting hero. He must fight through several levels in order to save the kidnapped goddess.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2010</core>
-		<image>./mixart/altbeast.png</image>
-		<video>./snap/altbeast.mp4</video>
-		<marquee>./wheel/altbeast.png</marquee>
-		<rating>0.5</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Plateform / Fighter Scrolling</genre>
+		<path>./punisher.zip</path>
+		<name>The Punisher</name>
+		<desc>A Capcom arcade beat-em-up game similar to games like Double Dragon featuring the Marvel character The Punisher. Nick Fury is also a playable character in this game.</desc>
+		<image>./mixart/punisher.png</image>
+		<video>./snap/punisher.mp4</video>
+		<marquee>./wheel/punisher.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Beat'em Up</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
-		<cheevosHash>FFD3FE067FCC35A30E5BA34415E01507</cheevosHash>
-		<cheevosId>11975</cheevosId>
+		<cheevosHash>1A52ED76F4DF2F621E235C36A97DEED3</cheevosHash>
+		<cheevosId>11787</cheevosId>
+	</game>
+	<game>
+		<path>./gladiatr.zip</path>
+		<name>Gladiator</name>
+		<desc>The player controls a gladiator/knight named Great Guaranos as he walks through a castle. Moving the joystick left and right moves Great Guaranos left and right, and up and down is used to position Great Guaranos's shield. The game's three buttons correspond to a high, medium, and low attack with Great Guaranos's sword. Gladiator consists of 4 Stages. The first level is the 'Underground Chamber', 2nd is the 'Brick Corridor', 3rd is the 'Roof Top' stage, and the 4th stage is called the 'Mysterious 4-D World'. Your reward for completing the game is to enter the "Treasure Place".</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/gladiatr.png</image>
+		<video>./snap/gladiatr.mp4</video>
+		<marquee>./wheel/gladiatr.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Fight-Fight / 2D</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>B0824F3DB08C9C51435448ACCE4A0A18</cheevosHash>
+	</game>
+	<game>
+		<path>./gng.zip</path>
+		<name>Ghosts'n Goblins</name>
+		<desc>Three years have passed since the events of "Makaimura" and Arthur the knight once again finds himself battling against the hideous creatures of Demon World. The demons have now seized the kingdom and Arthur returns home to witness the castle's lone survivor, his beloved Gunievere, murdered by the king of the demons, Lucifer. Arthur once again embarks on a one-man quest to destroy the demonic invaders and save Gunievere's mortal soul. 
+
+Game-play is of a very similar vein to that of "Makaimura" - the classic run, jump and shoot action remains intact. Daimakaimura is, however, even more difficult than its already demanding predecessor. Arthur now has access to several new power-ups to aid him on his daunting quest, such as 'Golden Armour' which gives Arthur greater protection from the demons. Additionally, unlike "Makaimura", Arthur can now fire his weapons upwards instead of just left or right and, while jumping, can fire beneath him as well. 
+
+The graphics in Daimakaimura are predictably far superior to those of its 1985 prequel, with highly imaginative level design and superbly-drawn, smoothly animated enemies all adding to the game's superb Gothic feel.</desc>
+		<image>./mixart/gng.png</image>
+		<video>./snap/gng.mp4</video>
+		<marquee>./wheel/gng.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>64FB7D782F2BE42FEB84FEF5D0530776</cheevosHash>
+	</game>
+	<game>
+		<path>./gunsmoke.zip</path>
+		<name>Gun.Smoke</name>
+		<desc>Gun.Smoke is a vertically-scrolling shoot-em-up set in the Wild West, in which the player takes the role of a Billy; a young Sheriff charged with hunting down and killing a number of infamous 'Wanted' outlaws.
+
+Each level is packed with gun-toting bandits and the Sheriff must shoot his way through the stage, before finally taking on the wanted outlaw 'boss' character at the end. Each outlaw wields a special weapon unique to them, such as a Winchester rifle, knives, darts or boomerangs.
+
+Shooting the barrels that litter the levels reveals power-ups such as boots (for extra speed), rifles (for increased range) and bullets (for rapid fire). The game's 3 directional fire buttons (for firing left, right or ahead) can be combined (pressed Simultaneously) to create a total of 8 different firing directions.</desc>
+		<image>./mixart/gunsmoke.png</image>
+		<video>./snap/gunsmoke.mp4</video>
+		<marquee>./wheel/gunsmoke.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19850101T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Shooter-Shooter / Run and Shoot</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EC523D77D302C161EB3550DBE93AE1D7</cheevosHash>
+	</game>
+	<game id="41400">
+		<path>./rushatck.zip</path>
+		<name>Rush'n Attack</name>
+		<desc>Green Beret is a sideways-scrolling action/platform game set during the Cold War, in which a US Special Forces Marine must infiltrate a Russian military base to save four POW's from being executed by firing squad. 
+
+Initially, the soldier is armed with only a combat knife, but by killing the certain enemy troops, players can obtain either a three-shot flamethrower, a four-shot RPG, or a three-pack of hand grenades. 
+
+The Marine can jump or lie down to avoid the enemy bullets, as well as climbing ladders to avoid enemies and projectiles, as well as the flashing land mines that litter the levels. While it's possible to remain still in one area to rack up points, if players take too long to proceed, the game will start sending out tougher enemies and eventually a stealth-like bomber will appear to take out the player. There is also an unseen time limit that will kill off players if they take too long to complete the stage. 
+
+The game has four stages in total: a missile base, a harbour, an air Base and a Siberian POW Camp. At the end of each stage the Marine will face a group of enemies specific to that stage: Stage 1 ends with a truckload of running and jump-kicking soldiers, Stage 2 with a pack of fierce dogs and their handlers, Stage 3 with three Gyro-copters and Stage 4 with a number of multi-shot flamethrower operators. 
+
+The game is completed once the captives have been rescued at the end of the fourth stage, after which the action starts over with an increased level of difficulty.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/rushatck.png</image>
+		<video>./snap/rushatck.mp4</video>
+		<marquee>./wheel/rushatck.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Green Beret</family>
+		<arcadesystemname>konami</arcadesystemname>
+		<players>2</players>
+		<md5>ce2c5080a78981b55388527278f3e994</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3062538FC1A23D3CF8B1390C18A828BF</cheevosHash>
+		<cheevosId>12431</cheevosId>
+	</game>
+	<game>
+		<path>./nbajam.zip</path>
+		<name>'H' NBA Jam</name>
+		<desc>Two-on-two basketball with digitized images of real NBA players, monster dunks and no referee - it's a blowout!</desc>
+		<emulator>libretro</emulator>
+		<core>mame2003_plus</core>
+		<image>./mixart/nbajam.png</image>
+		<video>./snap/nbajam.mp4</video>
+		<marquee>./wheel/nbajam.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Midway</publisher>
+		<genre>Sports-Sports / Basketball</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
 	</game>
 </gameList>

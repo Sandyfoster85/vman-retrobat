@@ -2219,26 +2219,6 @@ As in the original, the game plays as a standard 2D side-scrolling beat 'em up, 
 		<cheevosId>12323</cheevosId>
 	</game>
 	<game>
-		<path>./shocktr2.zip</path>
-		<name>Shock Troopers - 2nd Squad</name>
-		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
-
-The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
-		<image>./mixart/shocktr2.png</image>
-		<video>./snap/shocktr2.mp4</video>
-		<marquee>./wheel/shocktr2.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Saurus</developer>
-		<publisher>SNK</publisher>
-		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
-		<cheevosId>11768</cheevosId>
-	</game>
-	<game>
 		<path>./zupapa.zip</path>
 		<name>Zupapa</name>
 		<desc>Is a 2001 release of SNK for MVS. It's pretty much a puzzler / screen-cleaning game with bright and colourful optics and simple gameplay.</desc>
@@ -2360,5 +2340,25 @@ Now, choose between 12 warriors (and 3 bonus characters) to fight for the honor 
 		<lang>en</lang>
 		<cheevosHash>320A36C48C06DCE51438108DF9DEFB90</cheevosHash>
 		<cheevosId>11770</cheevosId>
+	</game>
+	<game>
+		<path>./shocktr2.zip</path>
+		<name>Shock Troopers - 2nd Squad</name>
+		<desc>As one of four playable characters each with unique methods of attack and power-ups, go through the level and destroy any enemies that get in your way, and defeat the boss at the end of that area. When you have completed the first area, you need to select a path to continue the game on.
+
+The second game in the Shock Troopers series enables shot locking, close proximity attacks, and evasive maneuvers allowing for flexible operation. In addition to the four characters, versatile modes of attack are featured using powerful vehicles and special shots. Letters that make up certain keywords can be collected throughout the game, and by collecting each letter in the keyword, you will receive a high score.</desc>
+		<image>./mixart/shocktr2.png</image>
+		<video>./snap/shocktr2.mp4</video>
+		<marquee>./wheel/shocktr2.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Saurus</developer>
+		<publisher>SNK</publisher>
+		<genre>Shoot'em Up-Shooter-Action-Beat'em Up-Shooter / Run and Shoot-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>4AF54168A800F0FF32F7F9377D5329A9</cheevosHash>
+		<cheevosId>11768</cheevosId>
 	</game>
 </gameList>

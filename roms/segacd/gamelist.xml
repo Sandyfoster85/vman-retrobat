@@ -1970,30 +1970,6 @@ The game is a side-scrolling platformer. Chuck fights of a variety of dinosaurs 
 		<cheevosHash>D9FB5E8F32E161BC62D52C9BEA7A9CA1</cheevosHash>
 	</game>
 	<game>
-		<path>./Terminator, The (USA).chd</path>
-		<name>The Terminator</name>
-		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
-
-The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
-
-Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
-
-Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
-		<image>./mixart/Terminator, The (USA).png</image>
-		<video>./snap/Terminator, The (USA).mp4</video>
-		<marquee>./wheel/Terminator, The (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19930000T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4B64F8013A066FEB347C427778013947</cheevosHash>
-		<cheevosId>10071</cheevosId>
-	</game>
-	<game>
 		<path>./Flashback - The Quest for Identity (USA).chd</path>
 		<name>Flashback - The Quest for Identity (USA)</name>
 		<image>./mixart/Flashback - The Quest for Identity (USA).png</image>
@@ -3315,5 +3291,29 @@ The Sega CD version of the game retains identical levels and gameplay, but adds 
 		<region>us</region>
 		<cheevosHash>1E5609B304F3B0B023CAAC37B2F995F0</cheevosHash>
 		<cheevosId>10022</cheevosId>
+	</game>
+	<game>
+		<path>./Terminator, The (USA).chd</path>
+		<name>The Terminator</name>
+		<desc>Similar to adaptations of The Terminator on other systems, the Sega CD game is a platformer where the player controls Kyle Reese, who travels back in time from the year 2029 to protect Sarah Connor from the unstoppable killing machine known as the Terminator.
+
+The game consists of 10 levels. Future locations include the post-apocalyptic wasteland of 2029 Los Angeles and the time displacement complex. In the present of 1984, Reese must traverse the streets and rooftops of L.A., as well as the Tech Noir club, the police station, and, for the finale, an automated factory. 
+
+Reese is armed with a gun with unlimited ammo as well as a limited number of grenades to dispatch the many enemies, including Terminators and HKs in the future and punks in the present. In addition to these, several bosses must also be fought. The boss battles include several encounters with the Terminator, who naturally cannot be completely destroyed until the finale, but must be driven back to keep him from harming Sarah.
+
+Between levels, the game shows small digitized clips from the film that advance the storyline. The game also features a fully CD-based soundtrack with tracks ranging from heavy rock to electronic tunes.</desc>
+		<image>./mixart/Terminator, The (USA).png</image>
+		<video>./snap/Terminator, The (USA).mp4</video>
+		<marquee>./wheel/Terminator, The (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19930000T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4B64F8013A066FEB347C427778013947</cheevosHash>
+		<cheevosId>10071</cheevosId>
 	</game>
 </gameList>

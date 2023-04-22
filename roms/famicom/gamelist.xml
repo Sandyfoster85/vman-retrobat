@@ -1041,31 +1041,6 @@ Crazy Climber is awarded a bonus score on each building every time after getting
 		<region>jp</region>
 		<cheevosHash>A7506BE2F527BBE032D92469D36C4453</cheevosHash>
 	</game>
-	<game id="1834" source="ScreenScraper">
-		<path>./Crisis Force (Japan) (Translated En).zip</path>
-		<name>Crisis Force</name>
-		<desc>The year is 199x and a robot army has invaded Tokyo City. A boy and a girl (who remain unnamed) board their ships to fight off the threat.
-
-This is a vertical scrolling shoot-em-up game viewed from overhead, where the player pilots a fighter ship through seven levels of intense shooting action. Each level hurls enemies and bullets at the player's ship, ending with a boss fight, except for one which instead is a boss rush level. The game allows for two players to play at the same time.
-
-The player has a choice of two weapons; bullets or lasers. Weapons can be changed by picking up gems of different colors. Picking up the same color as you already have allows you to upgrade your current weapon a few times. The player's ship can change form and with it the way that the weapons work. This allows the player to pick the best weapon strategy for each situation. The player also has a limited amount of bombs that are useful to get out of tricky situations.
-
-When a weapon is upgraded it also acts as a shield so the ship can take an enemy bullet without dying. This will however degrade the weapon down to the first level again. There are also pickups that alter the ship's speed and a special gem that, if five of them are collected, temporarily transforms the ship into an invincible super ship.
-
-Crisis Force was only released in Japan.</desc>
-		<image>./mixart/Crisis Force (Japan) (Translated En).png</image>
-		<video>./snap/Crisis Force (Japan) (Translated En).mp4</video>
-		<marquee>./wheel/Crisis Force (Japan) (Translated En).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19910827T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>jp,en</lang>
-		<region>jp</region>
-		<cheevosHash>4C8415DD3BB071883753A7ED41AE4436</cheevosHash>
-	</game>
 	<game id="65465" source="ScreenScraper">
 		<path>./Cycle Race - Road Man (Japan).zip</path>
 		<name>Cycle Race - Road Man</name>
@@ -5920,5 +5895,30 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 		<lang>jp,en</lang>
 		<region>jp</region>
 		<cheevosHash>1DA97179BDEA9CCC6F9086B5CC244C30</cheevosHash>
+	</game>
+	<game id="1834" source="ScreenScraper">
+		<path>./Crisis Force (Japan) (Translated En).zip</path>
+		<name>Crisis Force</name>
+		<desc>The year is 199x and a robot army has invaded Tokyo City. A boy and a girl (who remain unnamed) board their ships to fight off the threat.
+
+This is a vertical scrolling shoot-em-up game viewed from overhead, where the player pilots a fighter ship through seven levels of intense shooting action. Each level hurls enemies and bullets at the player's ship, ending with a boss fight, except for one which instead is a boss rush level. The game allows for two players to play at the same time.
+
+The player has a choice of two weapons; bullets or lasers. Weapons can be changed by picking up gems of different colors. Picking up the same color as you already have allows you to upgrade your current weapon a few times. The player's ship can change form and with it the way that the weapons work. This allows the player to pick the best weapon strategy for each situation. The player also has a limited amount of bombs that are useful to get out of tricky situations.
+
+When a weapon is upgraded it also acts as a shield so the ship can take an enemy bullet without dying. This will however degrade the weapon down to the first level again. There are also pickups that alter the ship's speed and a special gem that, if five of them are collected, temporarily transforms the ship into an invincible super ship.
+
+Crisis Force was only released in Japan.</desc>
+		<image>./mixart/Crisis Force (Japan) (Translated En).png</image>
+		<video>./snap/Crisis Force (Japan) (Translated En).mp4</video>
+		<marquee>./wheel/Crisis Force (Japan) (Translated En).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19910827T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>jp,en</lang>
+		<region>jp</region>
+		<cheevosHash>4C8415DD3BB071883753A7ED41AE4436</cheevosHash>
 	</game>
 </gameList>

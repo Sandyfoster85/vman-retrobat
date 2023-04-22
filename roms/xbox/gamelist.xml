@@ -1644,22 +1644,6 @@ The heart of the single-player mode (besides the quick battle against the AI) ar
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
 	</game>
-	<game id="14709">
-		<path>./Max Payne (USA).xiso.iso</path>
-		<name>Max Payne</name>
-		<desc>The story is told in medias res and consists of three volumes: "The American Dream", "A Cold Day in Hell", and "A Bit Closer to Heaven". The game begins in the winter of 2001, as New York City finishes experiencing the worst blizzard in the history of the city. The intro sequence shows Max Payne, a renegade DEA agent and former NYPD officer, standing at the top of a skyscraper building as police units arrive. He then experiences a flashback from three years ago. Back in 1998, Max returned home to find that a trio of apparent junkies had broken into his house while high on a new designer drug called Valkyr. Max rushed to the aid his family, but was too late and his wife and their newborn daughter had already been brutally murdered. After his family's funeral, Payne transferred to the DEA. Three years later, Max Payne is employed as an undercover operative inside the Punchinello Mafia family responsible for the trafficking of Valkyr. His DEA colleague B.B. gives Max a message asking him to meet another DEA agent, who is also Max's best friend, Alex Balder, in the NYC Subway station. Max's arrival at the subway results in a shoot-out after he encounters mobsters working for Jack Lupino, a Mafia underboss in the Punchinello crime family, attempting a bank robbery by breaking through from the station. Working his way back to the surface, Max encounters Alex, who is then killed by an unknown assassin and Payne becomes the prime suspect in the murder. Additionally, the Mafia find out that he is a cop and now want him dead.</desc>
-		<image>./mixart/Max Payne (USA).xiso.png</image>
-		<video>./snap/Max Payne (USA).xiso.mp4</video>
-		<marquee>./wheel/Max Payne (USA).xiso.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20011212T000000</releasedate>
-		<developer>Remedy</developer>
-		<publisher>Take 2 Interactive</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="14698">
 		<path>./Max Payne 2 - The Fall of Max Payne (USA).xiso.iso</path>
 		<name>Max Payne 2 : The Fall of Max Payne</name>
@@ -3065,26 +3049,6 @@ Take your pick of over 70 planes, including military fighters rendered from actu
 		<lang>en,es</lang>
 		<region>eu</region>
 	</game>
-	<game id="15498">
-		<path>./Maximum Chase (USA).xiso.iso</path>
-		<name>Maximum Chase</name>
-		<desc>In this forever pursuit of a game, you play as a cop who has just got off duty. In a movie sequence you have a girl that gets in your car fleeing from a mob of mysterious people shooting, while you just got off duty. Little to know is this may be the destruction of Los Angeles.
-
-
-
-This game has a storyline where you must run from all kinds of obstacles, cars, and people, through the entire game. Choose from 5 different cars, and shoot arcade style from a car while a girl drives.</desc>
-		<image>./mixart/Maximum Chase (USA).xiso.png</image>
-		<video>./snap/Maximum Chase (USA).xiso.mp4</video>
-		<marquee>./wheel/Maximum Chase (USA).xiso.png</marquee>
-		<rating>0</rating>
-		<releasedate>20031106T000000</releasedate>
-		<developer>Genki</developer>
-		<publisher>Microsoft</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="14860" source="ScreenScraper.fr">
 		<path>./Project Gotham Racing (USA).iso</path>
 		<name>Project Gotham Racing</name>
@@ -3156,22 +3120,6 @@ A sequel was later released for the Xbox 360, entitled Fuzion Frenzy 2.</desc>
 		<publisher>Microsoft Studios</publisher>
 		<genre>Action, Strategy</genre>
 		<players>4</players>
-		<favorite>true</favorite>
-		<md5>77f79c168f2d859aef09936ff708a15a</md5>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./TaoFang - Fist of the Lotus.iso</path>
-		<name>Tao Feng: Fist of the Lotus</name>
-		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
-		<image>./mixart/TaoFang - Fist of the Lotus.png</image>
-		<video>./snap/TaoFang - Fist of the Lotus.mp4</video>
-		<marquee>./wheel/TaoFang - Fist of the Lotus.png</marquee>
-		<releasedate>20030318T000000</releasedate>
-		<developer>Studio Gigante</developer>
-		<publisher>Microsoft Studios</publisher>
-		<genre>Fighting</genre>
-		<players>1</players>
 		<favorite>true</favorite>
 		<md5>77f79c168f2d859aef09936ff708a15a</md5>
 		<lang>en</lang>
@@ -3911,5 +3859,57 @@ The challenges of this game are to stay under the $3000 when buying/selling part
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>256</genreid>
+	</game>
+	<game>
+		<path>./TaoFang - Fist of the Lotus.iso</path>
+		<name>Tao Feng: Fist of the Lotus</name>
+		<desc>Clothes will tear, blood will spill, and bones will break in the brutal fighting game Tao Feng: Fist of the Lotus. On the vicious streets and back-alleyways of New China, two fierce fighting sects battle in a race to uncover a valuable prize. During your fights throughout interactive environments, your fighter reflects all the physical damage he or she receives from opponents. You can either heal yourself from the beatings or build your powers to unleash devastating Chi attacks.</desc>
+		<image>./mixart/TaoFang - Fist of the Lotus.png</image>
+		<video>./snap/TaoFang - Fist of the Lotus.mp4</video>
+		<marquee>./wheel/TaoFang - Fist of the Lotus.png</marquee>
+		<releasedate>20030318T000000</releasedate>
+		<developer>Studio Gigante</developer>
+		<publisher>Microsoft Studios</publisher>
+		<genre>Fighting</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>77f79c168f2d859aef09936ff708a15a</md5>
+		<lang>en</lang>
+	</game>
+	<game id="14709">
+		<path>./Max Payne (USA).xiso.iso</path>
+		<name>Max Payne</name>
+		<desc>The story is told in medias res and consists of three volumes: "The American Dream", "A Cold Day in Hell", and "A Bit Closer to Heaven". The game begins in the winter of 2001, as New York City finishes experiencing the worst blizzard in the history of the city. The intro sequence shows Max Payne, a renegade DEA agent and former NYPD officer, standing at the top of a skyscraper building as police units arrive. He then experiences a flashback from three years ago. Back in 1998, Max returned home to find that a trio of apparent junkies had broken into his house while high on a new designer drug called Valkyr. Max rushed to the aid his family, but was too late and his wife and their newborn daughter had already been brutally murdered. After his family's funeral, Payne transferred to the DEA. Three years later, Max Payne is employed as an undercover operative inside the Punchinello Mafia family responsible for the trafficking of Valkyr. His DEA colleague B.B. gives Max a message asking him to meet another DEA agent, who is also Max's best friend, Alex Balder, in the NYC Subway station. Max's arrival at the subway results in a shoot-out after he encounters mobsters working for Jack Lupino, a Mafia underboss in the Punchinello crime family, attempting a bank robbery by breaking through from the station. Working his way back to the surface, Max encounters Alex, who is then killed by an unknown assassin and Payne becomes the prime suspect in the murder. Additionally, the Mafia find out that he is a cop and now want him dead.</desc>
+		<image>./mixart/Max Payne (USA).xiso.png</image>
+		<video>./snap/Max Payne (USA).xiso.mp4</video>
+		<marquee>./wheel/Max Payne (USA).xiso.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20011212T000000</releasedate>
+		<developer>Remedy</developer>
+		<publisher>Take 2 Interactive</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="15498">
+		<path>./Maximum Chase (USA).xiso.iso</path>
+		<name>Maximum Chase</name>
+		<desc>In this forever pursuit of a game, you play as a cop who has just got off duty. In a movie sequence you have a girl that gets in your car fleeing from a mob of mysterious people shooting, while you just got off duty. Little to know is this may be the destruction of Los Angeles.
+
+
+
+This game has a storyline where you must run from all kinds of obstacles, cars, and people, through the entire game. Choose from 5 different cars, and shoot arcade style from a car while a girl drives.</desc>
+		<image>./mixart/Maximum Chase (USA).xiso.png</image>
+		<video>./snap/Maximum Chase (USA).xiso.mp4</video>
+		<marquee>./wheel/Maximum Chase (USA).xiso.png</marquee>
+		<rating>0</rating>
+		<releasedate>20031106T000000</releasedate>
+		<developer>Genki</developer>
+		<publisher>Microsoft</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>

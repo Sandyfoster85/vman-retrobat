@@ -539,31 +539,6 @@ F1 Race was released as one of Nintendo's Disk Fax line of games. It came on a s
 		<region>jp</region>
 		<cheevosHash>97421703F29E921B21CDEEAC58EA33FD</cheevosHash>
 	</game>
-	<game id="71370" source="ScreenScraper.fr">
-		<path>./Famicom Grand Prix II - 3D Hot Rally (Japan).zip</path>
-		<name>Famicom Grand Prix II : 3D Hot Rally</name>
-		<desc>The second game in the Famicom Grand Prix series. In a departure from its predecessor, Famicom Grand Prix II features a behind-the-car view similar to Outrun and Rad Racer. Rather than consisting of a handful of short tracks, 3D Hot Rally provides three long tracks consisting of a variety of different terrain types giving the feel of an actual rally race. Each track has multiple routes to the finish line, requiring you to find the best path to victory. The game features three cars to choose from: the speedy Kattobi coupe, the balanced Yonque truck, or the rugged Monster buggy.
-
-
-
-In order to complete a race, players must reach each checkpoint within a certain time limit. If the limit is crossed too late, time is subtracted from their bank. If the time bank is depleted, the race is over. Successfully reaching a checkpoint before the time limit is reached banks extra time. Players can also collect exclamation marks scattered throughout the tracks. Collecting enough exclamation marks to fill the dash meter allows temporary access to the hot dash, a fifth gear that greatly increases speed. Before each race, you're asked to place a repair point somewhere on the track, allowing you to repair any damage done to your car, so long as you pick a route that leads you past that checkpoint. Taking too much damage puts you out of the race.
-
-
-
-As the name implies, 3D Hot Rally allows you to use the Famicom 3D System glasses to give the race a real feeling of depth. It also challenged players to submit their best times via Famicom Disk Fax kiosks located in various stores for a chance to win a Disk-kun stationary set.</desc>
-		<image>./mixart/Famicom Grand Prix II - 3D Hot Rally (Japan).png</image>
-		<video>./snap/Famicom Grand Prix II - 3D Hot Rally (Japan).mp4</video>
-		<marquee>./wheel/Famicom Grand Prix II - 3D Hot Rally (Japan).png</marquee>
-		<rating>0</rating>
-		<releasedate>19880414T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<players>1</players>
-		<crc32>85CDD2E9</crc32>
-		<lang>jp</lang>
-		<region>jp</region>
-		<cheevosHash>3EE175C4CFA5CB27FC6890A10C108841</cheevosHash>
-	</game>
 	<game id="98625" source="ScreenScraper.fr">
 		<path>./Family Composer (Japan).zip</path>
 		<name>Family Composer</name>
@@ -2405,5 +2380,30 @@ Doki Doki Panic follows a story book structure, and is made out of seven chapter
 		<lang>jp</lang>
 		<region>jp</region>
 		<cheevosHash>C263801F3B19B89159DB089C039A1B16</cheevosHash>
+	</game>
+	<game id="71370" source="ScreenScraper.fr">
+		<path>./Famicom Grand Prix II - 3D Hot Rally (Japan).zip</path>
+		<name>Famicom Grand Prix II : 3D Hot Rally</name>
+		<desc>The second game in the Famicom Grand Prix series. In a departure from its predecessor, Famicom Grand Prix II features a behind-the-car view similar to Outrun and Rad Racer. Rather than consisting of a handful of short tracks, 3D Hot Rally provides three long tracks consisting of a variety of different terrain types giving the feel of an actual rally race. Each track has multiple routes to the finish line, requiring you to find the best path to victory. The game features three cars to choose from: the speedy Kattobi coupe, the balanced Yonque truck, or the rugged Monster buggy.
+
+
+
+In order to complete a race, players must reach each checkpoint within a certain time limit. If the limit is crossed too late, time is subtracted from their bank. If the time bank is depleted, the race is over. Successfully reaching a checkpoint before the time limit is reached banks extra time. Players can also collect exclamation marks scattered throughout the tracks. Collecting enough exclamation marks to fill the dash meter allows temporary access to the hot dash, a fifth gear that greatly increases speed. Before each race, you're asked to place a repair point somewhere on the track, allowing you to repair any damage done to your car, so long as you pick a route that leads you past that checkpoint. Taking too much damage puts you out of the race.
+
+
+
+As the name implies, 3D Hot Rally allows you to use the Famicom 3D System glasses to give the race a real feeling of depth. It also challenged players to submit their best times via Famicom Disk Fax kiosks located in various stores for a chance to win a Disk-kun stationary set.</desc>
+		<image>./mixart/Famicom Grand Prix II - 3D Hot Rally (Japan).png</image>
+		<video>./snap/Famicom Grand Prix II - 3D Hot Rally (Japan).mp4</video>
+		<marquee>./wheel/Famicom Grand Prix II - 3D Hot Rally (Japan).png</marquee>
+		<rating>0</rating>
+		<releasedate>19880414T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<players>1</players>
+		<crc32>85CDD2E9</crc32>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>3EE175C4CFA5CB27FC6890A10C108841</cheevosHash>
 	</game>
 </gameList>

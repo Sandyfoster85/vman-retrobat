@@ -2030,8 +2030,8 @@
 	</game>
 	<game>
 		<path>./x-wingV100.fpt</path>
-		<name>X-Wing Star Wars</name>
-		<desc>Flipper Star Wars x-wingV100</desc>
+		<name>X-Wing Star Wars (FizX)</name>
+		<desc>Flipper Star Wars x-wingV1.10 FizX</desc>
 		<image>./mixart/x-wingV100.png</image>
 		<video>./snap/x-wingV100.mp4</video>
 		<marquee>./wheel/x-wingV100.png</marquee>
@@ -4780,22 +4780,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX).fpt</path>
-		<name>Star Wars DSA ULTIMATE Pro - (Galactic Edition) (PupEdition, FizX)</name>
-		<desc>Flipper Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX)</desc>
-		<image>./mixart/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).jpg</image>
-		<video>./snap/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).mp4</video>
-		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX).fpt</path>
 		<name>Halloween - Big Bloody Mike (PupEdition, FizX)</name>
 		<desc>Flipper Halloween - Big Bloody Mike (1.4 - PinEvent V2 - FizX)</desc>
@@ -4986,22 +4970,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
-		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
-		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
-		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
-		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
-		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
-		<rating>4</rating>
-		<releasedate>2022</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Avatar 2.2.fpt</path>
 		<name>Avatar (PupEdition, FizX)</name>
 		<desc>Flipper Avatar (Mini PupEdition + FizX) 2.2</desc>
@@ -5042,6 +5010,38 @@
 		<marquee>./wheel/Megaman.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Retroflair - BAM Edition (1.5 - PinEvent, FizX).fpt</path>
+		<name>Retroflair - BAM Edition (PupEdition, FizX)</name>
+		<desc>Flipper Retroflair - BAM Edition (1.5 - PinEvent, FizX)</desc>
+		<image>./mixart/Retroflair - BAM Edition (1.5 - PinEvent, FizX).jpg</image>
+		<video>./snap/Retroflair - BAM Edition 1.4 (PinEvent 1.1).mp4</video>
+		<marquee>./wheel/Retroflair - BAM Edition 1.4 (PinEvent 1.1).png</marquee>
+		<rating>4</rating>
+		<releasedate>2022</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX).fpt</path>
+		<name>Star Wars DSA ULTIMATE Pro - (Galactic Edition) (PupEdition, FizX)</name>
+		<desc>Flipper Star Wars DSA - Galactic Edition (1.1 - PinEvent V2 - FizX)</desc>
+		<image>./mixart/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).jpg</image>
+		<video>./snap/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).mp4</video>
+		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

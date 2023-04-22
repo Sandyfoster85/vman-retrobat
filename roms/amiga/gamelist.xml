@@ -38626,24 +38626,6 @@ Based on the 1990 movie Die Hard 2, the program sends you through five stages mo
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./DevilsTemple_v3.5_WHD.lha</path>
-		<name>Devil's Temple - Son of the Kung-Fu Master</name>
-		<desc>Three years after Thomas defeated X at the Devil's Temple, X has once again resurrected his evil army of thugs and kidnapped Lena. 
-Play as Tommy (the Son of the Kung-Fu Master) and make your way to the Devil's Temple where Lena is being held hostage.  Use your superior Kung-Fu skills to destroy anyone who gets in your way and rescue your girl before it's too late.</desc>
-		<image>./mixart/DevilsTemple_v3.4-Demo.png</image>
-		<video>./snap/DevilsTemple_v3.4-Demo.mp4</video>
-		<marquee>./wheel/DevilsTemple_v3.4-Demo.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20221021T000000</releasedate>
-		<developer>Raster Wizards</developer>
-		<publisher>Geezer Games</publisher>
-		<genre>Fight</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>262</genreid>
-	</game>
-	<game>
 		<path>./Turrican2AGA.lha</path>
 		<name>Turrican2AGA</name>
 		<lang>en</lang>
@@ -38689,5 +38671,23 @@ These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons 
 		<favorite>true</favorite>
 		<kidgame>true</kidgame>
 		<lang>en</lang>
+	</game>
+	<game>
+		<path>./DevilsTemple_v3.5_WHD.lha</path>
+		<name>Devil's Temple - Son of the Kung-Fu Master</name>
+		<desc>Three years after Thomas defeated X at the Devil's Temple, X has once again resurrected his evil army of thugs and kidnapped Lena. 
+Play as Tommy (the Son of the Kung-Fu Master) and make your way to the Devil's Temple where Lena is being held hostage.  Use your superior Kung-Fu skills to destroy anyone who gets in your way and rescue your girl before it's too late.</desc>
+		<image>./mixart/DevilsTemple_v3.4-Demo.png</image>
+		<video>./snap/DevilsTemple_v3.4-Demo.mp4</video>
+		<marquee>./wheel/DevilsTemple_v3.4-Demo.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20221021T000000</releasedate>
+		<developer>Raster Wizards</developer>
+		<publisher>Geezer Games</publisher>
+		<genre>Fight</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<genreid>262</genreid>
 	</game>
 </gameList>

@@ -797,26 +797,6 @@ A standard Ninja Turtles beat-em-up action game.</desc>
 		<region>us</region>
 		<cheevosHash>5CDBC71B6E4FCAF299E3C57FB2A57F01</cheevosHash>
 	</game>
-	<game id="116">
-		<path>./Terminator - Remastered Edition, The (USA) (MSU-MD)/Terminator - Remastered Edition, The (USA) (MSU-MD).md</path>
-		<name>The Terminator</name>
-		<desc>The Terminator licensed game for the Sega consoles was a fairly standard side-scrolling platform game. However, the game's six levels mirror the story-line of The Terminator movie very closely as you take on the role of Kyle Reese and his quest to save Sarah Connor from termination.
-
-Because the game follows the movie so closely, the first mission which involves blowing up the SkyNet computer and escaping through time is one of the hardest and something that most players remember with love/hate.</desc>
-		<image>./mixart/Terminator - Remastered Edition, The (USA) (MSU-MD).png</image>
-		<video>./snap/Terminator - Remastered Edition, The (USA) (MSU-MD).mp4</video>
-		<marquee>./wheel/Terminator - Remastered Edition, The (USA) (MSU-MD).png</marquee>
-		<rating>0.65</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Probe Software</developer>
-		<publisher>Virgin</publisher>
-		<genre>Platform / Shooter Scrolling</genre>
-		<family>Terminator</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>FB89FBF700AE7D0261EDC1DF83ECA98A</cheevosHash>
-	</game>
 	<game id="271">
 		<path>./ToeJam &amp; Earl in Panic on Funkotron (USA) (MSU-MD)/ToeJam &amp; Earl in Panic on Funkotron (USA) (MSU-MD).md</path>
 		<name>ToeJam &amp; Earl in Panic on Funkotron</name>
@@ -1190,5 +1170,25 @@ Michael Jackson (MJ) can jump, throw magical stars, and dance to counter his opp
 		<lang>jp,en</lang>
 		<region>us</region>
 		<cheevosHash>84BC1F4290C0EF195A29F0F369F9AA3B</cheevosHash>
+	</game>
+	<game id="116">
+		<path>./Terminator - Remastered Edition, The (USA) (MSU-MD)/Terminator - Remastered Edition, The (USA) (MSU-MD).md</path>
+		<name>The Terminator</name>
+		<desc>The Terminator licensed game for the Sega consoles was a fairly standard side-scrolling platform game. However, the game's six levels mirror the story-line of The Terminator movie very closely as you take on the role of Kyle Reese and his quest to save Sarah Connor from termination.
+
+Because the game follows the movie so closely, the first mission which involves blowing up the SkyNet computer and escaping through time is one of the hardest and something that most players remember with love/hate.</desc>
+		<image>./mixart/Terminator - Remastered Edition, The (USA) (MSU-MD).png</image>
+		<video>./snap/Terminator - Remastered Edition, The (USA) (MSU-MD).mp4</video>
+		<marquee>./wheel/Terminator - Remastered Edition, The (USA) (MSU-MD).png</marquee>
+		<rating>0.65</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Probe Software</developer>
+		<publisher>Virgin</publisher>
+		<genre>Platform / Shooter Scrolling</genre>
+		<family>Terminator</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FB89FBF700AE7D0261EDC1DF83ECA98A</cheevosHash>
 	</game>
 </gameList>

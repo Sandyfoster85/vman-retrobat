@@ -4717,22 +4717,6 @@ Kirby has been turned into a ball, and it is up to you to tilt and turn the game
 		<cheevosHash>C4639CC61C049E5A085526BB6CAC03BB</cheevosHash>
 		<cheevosId>710</cheevosId>
 	</game>
-	<game>
-		<path>./Legend of Zelda, The - Oracle of Seasons (USA).7z</path>
-		<name>The Legend of Zelda : Oracle of Seasons</name>
-		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
-		<image>./mixart/Legend of Zelda, The - Oracle of Seasons (USA).png</image>
-		<video>./snap/Legend of Zelda, The - Oracle of Seasons (USA).mp4</video>
-		<marquee>./wheel/Legend of Zelda, The - Oracle of Seasons (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20010513T000000</releasedate>
-		<developer>Flagship</developer>
-		<publisher>Nintendo</publisher>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>F2DC6C4E093E4F8C6CBEA80E8DBD62CB</cheevosHash>
-		<cheevosId>676</cheevosId>
-	</game>
 	<game id="82384" source="ScreenScraper.fr">
 		<path>./Lion King, The - Simba's Mighty Adventure (USA).7z</path>
 		<name>The Lion King: Simba's Mighty Adventure</name>
@@ -8327,21 +8311,6 @@ Lara Croft must find the deadly crystal before anyone else, but first she must j
 		<region>eu</region>
 		<cheevosHash>74B9B221C2B32147422144B327BD5F30</cheevosHash>
 	</game>
-	<game id="82887" source="ScreenScraper.fr">
-		<path>./Tomb Raider - Curse of the Sword (USA, Europe).7z</path>
-		<name>Tomb Raider: Curse of the Sword</name>
-		<desc>Released in conjunction with the LARA CROFT: Tomb Raider film starring Angelina Jolie, Curse of the Sword is one of the more advanced titles ever created for the Game Boy Color. While averting a museum robbery, Lara is wounded ever so slightly by what seems to be a cursed sword. Now, her worst fears are beginning to come true, as a bizarre cult based out of New Orleans is plotting to steal her soul. Help the lovely and talented Ms. Croft save herself as you control her through worldly adventures of all sorts. An equal blend of puzzle solving and action, the game boasts a unique control system that allows for maximum character response. You'll be collecting keys and artifacts throughout the experience, each of which will help you to unlock doors and secrets. Graced by perfect animation and epic gameplay, TOMB RAIDER: Curse of the Sword is a welcome addition to the long line of brilliant TOMB RAIDER games.</desc>
-		<image>./mixart/Tomb Raider - Curse of the Sword (USA, Europe).png</image>
-		<video>./snap/Tomb Raider - Curse of the Sword (USA, Europe).mp4</video>
-		<marquee>./wheel/Tomb Raider - Curse of the Sword (USA, Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate />
-		<developer>Core Design Ltd.</developer>
-		<publisher>Activision</publisher>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>A0B4538F687FC61BC88F7EE111170355</cheevosHash>
-	</game>
 	<game id="37010" source="ScreenScraper.fr">
 		<path>./Tonic Trouble (Europe).7z</path>
 		<name>Tonic Trouble</name>
@@ -9563,5 +9532,36 @@ The game is similar in style and gameplay to early Metal Gear games. It is viewe
 		<region>us</region>
 		<cheevosHash>F6DD1B1E5747412B9E5F25376C972D5A</cheevosHash>
 		<cheevosId>520</cheevosId>
+	</game>
+	<game>
+		<path>./Legend of Zelda, The - Oracle of Seasons (USA).7z</path>
+		<name>The Legend of Zelda : Oracle of Seasons</name>
+		<desc>The land of Holodrum is slowly withering. Onox, the General of Darkness, has imprisoned the Oracle of Seasons and is draining the very life out of the land. With the seasons in tumult and the forces of evil running rampant, the world looks for a hero... and finds Link. His quest won't be easy - he'll have to master the seasons themselves if he's to turn back the evil tide.</desc>
+		<image>./mixart/Legend of Zelda, The - Oracle of Seasons (USA).png</image>
+		<video>./snap/Legend of Zelda, The - Oracle of Seasons (USA).mp4</video>
+		<marquee>./wheel/Legend of Zelda, The - Oracle of Seasons (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20010513T000000</releasedate>
+		<developer>Flagship</developer>
+		<publisher>Nintendo</publisher>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>F2DC6C4E093E4F8C6CBEA80E8DBD62CB</cheevosHash>
+		<cheevosId>676</cheevosId>
+	</game>
+	<game id="82887" source="ScreenScraper.fr">
+		<path>./Tomb Raider - Curse of the Sword (USA, Europe).7z</path>
+		<name>Tomb Raider: Curse of the Sword</name>
+		<desc>Released in conjunction with the LARA CROFT: Tomb Raider film starring Angelina Jolie, Curse of the Sword is one of the more advanced titles ever created for the Game Boy Color. While averting a museum robbery, Lara is wounded ever so slightly by what seems to be a cursed sword. Now, her worst fears are beginning to come true, as a bizarre cult based out of New Orleans is plotting to steal her soul. Help the lovely and talented Ms. Croft save herself as you control her through worldly adventures of all sorts. An equal blend of puzzle solving and action, the game boasts a unique control system that allows for maximum character response. You'll be collecting keys and artifacts throughout the experience, each of which will help you to unlock doors and secrets. Graced by perfect animation and epic gameplay, TOMB RAIDER: Curse of the Sword is a welcome addition to the long line of brilliant TOMB RAIDER games.</desc>
+		<image>./mixart/Tomb Raider - Curse of the Sword (USA, Europe).png</image>
+		<video>./snap/Tomb Raider - Curse of the Sword (USA, Europe).mp4</video>
+		<marquee>./wheel/Tomb Raider - Curse of the Sword (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate></releasedate>
+		<developer>Core Design Ltd.</developer>
+		<publisher>Activision</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>A0B4538F687FC61BC88F7EE111170355</cheevosHash>
 	</game>
 </gameList>
