@@ -292,31 +292,6 @@ Tasks can include finding objects (like a spear) on the screen, or trying to rea
 		<region>us</region>
 		<cheevosHash>F9D308023ECE50B2776BF5809DB1723F</cheevosHash>
 	</game>
-	<game id="19" source="ScreenScraper.fr">
-		<path>./Immortal, The (USA, Europe).7z</path>
-		<name>The Immortal</name>
-		<desc>The Immortal is an isometric action-adventure game.
-
-Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
-isometric death await.
-
-The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
-
-The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.</desc>
-		<image>./mixart/Immortal, The (USA, Europe).png</image>
-		<video>./snap/Immortal, The (USA, Europe).mp4</video>
-		<marquee>./wheel/Immortal, The (USA, Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19911101T000000</releasedate>
-		<developer>Sandcastle</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Adventure</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>469C2C852005972BBCD2B51FDF9D1220</cheevosHash>
-		<cheevosId>313</cheevosId>
-	</game>
 	<game id="523" source="ScreenScraper.fr">
 		<path>./Incredible Crash Dummies, The (USA, Europe).7z</path>
 		<name>The Incredible Crash Dummies</name>
@@ -527,11 +502,26 @@ Each of the four Isla Sorna sites contains three missions. Once you have complet
 	</game>
 	<game>
 		<path>./NHL 20.7z</path>
-		<name>'H'NHL 20</name>
+		<name>NHL 20</name>
 		<desc>NHL Hocky with 2020 roster!</desc>
 		<image>./mixart/NHL 20.jpg</image>
 		<video>./snap/NHL 20.mp4</video>
 		<marquee>./wheel/NHL 20.png</marquee>
+		<rating>8</rating>
+		<releasedate />
+		<genre>Sports-Hockey</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>CCCFA090047775CDDCC3D27BC04B055E</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/NHL 20.7z</path>
+		<name>NHL 20</name>
+		<desc>NHL Hocky with 2020 roster!</desc>
+		<image>./#homebrews/mixart/NHL 20.jpg</image>
+		<video>./#homebrews/snap/NHL 20.mp4</video>
+		<marquee>./#homebrews/wheel/NHL 20.png</marquee>
 		<rating>8</rating>
 		<releasedate />
 		<genre>Sports-Hockey</genre>
@@ -658,29 +648,6 @@ The game used an overhead view for physical combat, and a third person "POV" whe
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>32F931827159663D6BF27C12949B1875</cheevosHash>
-	</game>
-	<game>
-		<path>./T2 - The Arcade Game (USA, Europe).7z</path>
-		<name>T2 : The Arcade Game</name>
-		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. 
-
-Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.
-
-T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.
-
-Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
-		<image>./mixart/T2 - The Arcade Game (USA, Europe).png</image>
-		<video>./snap/T2 - The Arcade Game (USA, Europe).mp4</video>
-		<marquee>./wheel/T2 - The Arcade Game (USA, Europe).png</marquee>
-		<rating>0.3</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Arena Entertainment</developer>
-		<publisher>Acclaim - Arena Entertainment - Midway - Probe</publisher>
-		<genre>Lightgun Shooter</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>3C2666BCC3C42A4218E46C5ABA2BCA15</cheevosHash>
 	</game>
 	<game id="142" source="ScreenScraper.fr">
 		<path>./TaleSpin (USA, Europe).7z</path>
@@ -852,7 +819,7 @@ Each stage has a different setting, including forests and mountains, with a wide
 	</game>
 	<game>
 		<path>./Water Margin (Eng).zip</path>
-		<name>'H'Water Margin : The Tales of Clouds and Winds</name>
+		<name>Water Margin : The Tales of Clouds and Winds</name>
 		<desc>The video game Water Margin a Tale of Clouds and Wind' was originally an unlicensed game for the Sega Mega Drive released in 1996, exclusively in Asian regions.    Piko Interactive has recently translated the game into English.    The Water Margin  original name is ?Shui Hu Feng Yun Zhuan'. The gameplay feels very much like Golden Axe except the theme is set in feudal China. There are even three selectable characters and it's also a two player game. The combat and magic system are a bit more simplistic than something more polished like Golden Axe (or other licensed Sega Beat'em Ups) but the game is worth playing. And despite feeling a bit repetitive it's a good length and it will provide a good challenge.    If you enjoy the Beat'em-Up genre this game is recommended for you. Complete with awesome amateurish artwork that really fits the era of gaming it came from !</desc>
 		<image>./mixart/Water Margin (Eng).png</image>
 		<video>./snap/Water Margin (Eng).mp4</video>
@@ -867,12 +834,44 @@ Each stage has a different setting, including forests and mountains, with a wide
 		<cheevosHash>A2AD7CD1E07C666A16980D083A822970</cheevosHash>
 	</game>
 	<game>
+		<path>./#homebrews/Water Margin (Eng).zip</path>
+		<name>Water Margin : The Tales of Clouds and Winds</name>
+		<desc>The video game Water Margin a Tale of Clouds and Wind' was originally an unlicensed game for the Sega Mega Drive released in 1996, exclusively in Asian regions.    Piko Interactive has recently translated the game into English.    The Water Margin  original name is ?Shui Hu Feng Yun Zhuan'. The gameplay feels very much like Golden Axe except the theme is set in feudal China. There are even three selectable characters and it's also a two player game. The combat and magic system are a bit more simplistic than something more polished like Golden Axe (or other licensed Sega Beat'em Ups) but the game is worth playing. And despite feeling a bit repetitive it's a good length and it will provide a good challenge.    If you enjoy the Beat'em-Up genre this game is recommended for you. Complete with awesome amateurish artwork that really fits the era of gaming it came from !</desc>
+		<image>./#homebrews/mixart/Water Margin (Eng).png</image>
+		<video>./#homebrews/snap/Water Margin (Eng).mp4</video>
+		<marquee>./#homebrews/wheel/Water Margin (Eng).png</marquee>
+		<rating>0</rating>
+		<releasedate>20150807T000000</releasedate>
+		<publisher>Piko Interactive</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>A2AD7CD1E07C666A16980D083A822970</cheevosHash>
+	</game>
+	<game>
 		<path>./Xeno Crisis.7z</path>
-		<name>'H'Xeno Crisis</name>
+		<name>Xeno Crisis</name>
 		<desc>Xeno Crisis is a new, original title for the Sega Mega Drive / Genesis and Dreamcast which will be released both as a physical cartridge and also as a downloadable ROM. At its core, it's an arena shooter for up to 2 players that takes inspiration from the likes of Smash TV, Contra, Mercs, Granada, Alien Syndrome, Zombies Ate My Neighbours, Chaos Engine, and Shock Troopers.</desc>
 		<image>./mixart/Xeno Crisis.png</image>
 		<video>./snap/Xeno Crisis.mp4</video>
 		<marquee>./wheel/Xeno Crisis.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>2015</releasedate>
+		<developer>Bitmap Bureau</developer>
+		<publisher>Unknown</publisher>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>50CCA5273CDB6D6DF36CBD29DBD3FF7F</cheevosHash>
+		<cheevosId>15387</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Xeno Crisis.7z</path>
+		<name>Xeno Crisis</name>
+		<desc>Xeno Crisis is a new, original title for the Sega Mega Drive / Genesis and Dreamcast which will be released both as a physical cartridge and also as a downloadable ROM. At its core, it's an arena shooter for up to 2 players that takes inspiration from the likes of Smash TV, Contra, Mercs, Granada, Alien Syndrome, Zombies Ate My Neighbours, Chaos Engine, and Shock Troopers.</desc>
+		<image>./#homebrews/mixart/Xeno Crisis.png</image>
+		<video>./#homebrews/snap/Xeno Crisis.mp4</video>
+		<marquee>./#homebrews/wheel/Xeno Crisis.png</marquee>
 		<rating>0.9</rating>
 		<releasedate>2015</releasedate>
 		<developer>Bitmap Bureau</developer>
@@ -3373,25 +3372,6 @@ Sonic the Hedgehog is a significant game because it gave Sega it's first real ma
 		<cheevosHash>1BC674BE034E43C96B86487AC69D9293</cheevosHash>
 		<cheevosId>1</cheevosId>
 	</game>
-	<game>
-		<path>./Contra - Hard Corps (USA, Korea).7z</path>
-		<name>Contra : Hard Corps</name>
-		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
-		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
-		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
-		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19940808T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en,kr</lang>
-		<region>kr</region>
-		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
-		<cheevosId>120</cheevosId>
-	</game>
 	<game id="731" source="ScreenScraper.fr">
 		<path>./Shanghai II - Dragon's Eye (USA).7z</path>
 		<name>Shanghai II : Dragon's Eye</name>
@@ -3661,34 +3641,6 @@ The game also features a sound test mode and a time trial mode, where the High S
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>46250BF62EDE204CD72CEE92DD211D71</cheevosHash>
-	</game>
-	<game id="3" source="ScreenScraper.fr">
-		<path>./Sonic the Hedgehog 2 (World) (Rev A).7z</path>
-		<name>Sonic the Hedgehog 2</name>
-		<desc>The evil Dr. Robotnik wants to conquer the world. In order to do that, he imprisons and transforms all animals into robots called 'Badniks'. This way they can build his powerful weapon, the Death Egg.  Only Sonic the Hedgehog, and his new tagalong partner, Miles 'Tails' Prower, can stop Robotnik and his army of Badniks from taking over the world. 
-
-Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog.  Like the original, players run through different worlds called "Zones", which each have their own specific theme.  There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress.
-
-Sonic and Tails can collect rings which are scattered throughout all of the levels.  As with most platformers, when the player collects 100 rings, they earn an extra life.  However, the rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible.  If he is hit again when he has no rings, he'll lose a life.
-
-If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage.  In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint.  Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds.
-
-New to Sonic the Hedgehog 2 is the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails.  Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play.  Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash".  This is useful when stuck near steep slopes or other areas where you need some momentum.
-
-The game also features a 2-player versus mode.  This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
-		<image>./mixart/Sonic the Hedgehog 2 (World) (Rev A).png</image>
-		<video>./snap/Sonic the Hedgehog 2 (World) (Rev A).mp4</video>
-		<marquee>./wheel/Sonic the Hedgehog 2 (World) (Rev A).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform-Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>9FEEB724052C39982D432A7851C98D3E</cheevosHash>
-		<cheevosId>10</cheevosId>
 	</game>
 	<game id="1187" source="ScreenScraper.fr">
 		<path>./Sonic the Hedgehog 3 (USA).7z</path>
@@ -12626,23 +12578,6 @@ Play is either player vs computer, as either the home or visiting team, two play
 		<region>us</region>
 		<cheevosHash>88F9EEEAE1928A64A9F7A7EE221B30F7</cheevosHash>
 	</game>
-	<game id="724" source="ScreenScraper.fr">
-		<path>./R.B.I. Baseball '94 (USA, Europe).7z</path>
-		<name>R.B.I. Baseball '94</name>
-		<desc>R.B.I. '94 is an updated version of the series that features a 800 of the top MLBPA players at the time with their 1993 stats applied and features authentic modeled ball parks.  The game doesn't feature the MLB license, however, but does represent them by city name and omitting their nicknames and logos.  The standard modes apply including exhibition that both has a single player and two-player option, a full 162-game season or skip straight to the playoffs or the World Series.  The Home Run Derby is also present along with award-winning sports announcer, Jack Buck, lending his voice talent for play-by-play commentary.  A password feature is present for players to continue their season at their leisure.</desc>
-		<image>./mixart/R.B.I. Baseball '94 (USA, Europe).png</image>
-		<video>./snap/R.B.I. Baseball '94 (USA, Europe).mp4</video>
-		<marquee>./wheel/R.B.I. Baseball '94 (USA, Europe).png</marquee>
-		<rating>0</rating>
-		<releasedate>19940401T000000</releasedate>
-		<developer>Tengen</developer>
-		<publisher>Atari - Tengen</publisher>
-		<genre>Sports</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>AED0ED1189BB7C0379AE1AC9278950B7</cheevosHash>
-	</game>
 	<game id="722" source="ScreenScraper.fr">
 		<path>./R.B.I. Baseball 3 (USA).7z</path>
 		<name>R.B.I. Baseball 3</name>
@@ -13408,69 +13343,6 @@ As a unique feature, you can bet money on the outcome of the fights, and if you 
 		<region>us</region>
 		<cheevosHash>7A926AAEA9E526066A75C253738B633C</cheevosHash>
 		<cheevosId>276</cheevosId>
-	</game>
-	<game>
-		<path>./Streets of Rage (World) (Rev A).7z</path>
-		<name>Streets of Rage</name>
-		<desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves.
-
-Gameplay is straightforward and simple. Three buttons are used, one to jump, other to attack and another to perform a range attack from a support police car. Each character has a limited set of moves that include punching and kicking or performing a back attack (if in the open), two grapple moves (depending if holding the opponent in front or by the back), a flying attack, and if playing with another player two additional tag attacks, and different abilities: Adam is slow, but a good jumper and a hard hitter, Axel fast and also a hard hitter, but a lousy jumper and Blaze fast and a good jumper, but weak hitter.
-Levels are in typical arcade side-scroller fashion: move from left to right (with two exceptions), clearing screens from enemies one after another as fast as possible while avoid taking damage with a boss in the end. Some levels feature "death drops" where the player must avoid falling, while throwing enemies there at the same time, including a typical elevator level.  Several items are scattered on the ground, from melee weapons and bonus points (and lives or additional police cars) to apples and turkeys (to restore health).</desc>
-		<image>./mixart/Streets of Rage (World) (Rev A).png</image>
-		<video>./snap/Streets of Rage (World) (Rev A).mp4</video>
-		<marquee>./wheel/Streets of Rage (World) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19910101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>59A3B22A1899461DCEBA50D1ADE88D3A</cheevosHash>
-		<cheevosId>55</cheevosId>
-	</game>
-	<game id="20" source="ScreenScraper.fr">
-		<path>./Streets of Rage 2 (USA).7z</path>
-		<name>Streets of Rage 2</name>
-		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...
-
-Streets of Rage 2 differs from the previous title in several ways. There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
-		<image>./mixart/Streets of Rage 2 (USA).png</image>
-		<video>./snap/Streets of Rage 2 (USA).mp4</video>
-		<marquee>./wheel/Streets of Rage 2 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19921201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>CB75D5A6919B61EFE917BEA5762C1CB7</cheevosHash>
-		<cheevosId>3</cheevosId>
-	</game>
-	<game id="143230" source="ScreenScraper.fr">
-		<path>./Streets of Rage 3 (USA).7z</path>
-		<name>Streets of Rage 3</name>
-		<desc>Streets of Rage 3 aimed to build on the success of its predecessor, so while the style of gameplay and control scheme is largely identical to its predecessors, significant changes were made to the overall structure of the game. Streets of Rage 3 is a faster paced release with longer levels, a more complex plot (which in turn leads to more in-depth scenarios complete with interactive levels and multiple endings) and the return of traps such as pits. Dash and dodge moves were added to each character's arsenal of moves, and weapons can now only be used for a few times before breaking.
-
-Changes to the fighting mechanics allows for the integration of weapons with certain movesets. Team attacks, absent from Streets of Rage 2 but available in the original Streets of Rage, make a return, and are occasionally used by enemies too. Blitz moves, performed while running, have also been altered and are now upgradable over the course of the game (predicated on how many points are earned per level). Death causes a downgrade, however holding the X button before a series of button combinations can give players access to the upgraded moveset at any point in the game, at the expense of the time taken to perform attacks.
-
-Enemies are also smarter with weapons, and some can even steal health upgrades, and there are also several secret playable characters, unlockable after overcoming certain conditions during the game. Special moves also no longer drain the user's health - a separate, automatically regenerating bar is introduced for this purpose.</desc>
-		<image>./mixart/Streets of Rage 3 (USA).png</image>
-		<video>./snap/Streets of Rage 3 (USA).mp4</video>
-		<marquee>./wheel/Streets of Rage 3 (USA).png</marquee>
-		<rating>0</rating>
-		<releasedate>19970317T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action-Beat'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>2D0B0C8F10EDF76131708E874E8D1EE4</cheevosHash>
-		<cheevosId>54</cheevosId>
 	</game>
 	<game id="78" source="ScreenScraper.fr">
 		<path>./Strider (USA, Europe).7z</path>
@@ -15694,11 +15566,28 @@ As one of these Crude Dudes, you must travel through tough streets and take out 
 	</game>
 	<game>
 		<path>./Mortal Kombat Revelations Hack.7z</path>
-		<name>'H'Mortal Kombat Revelations</name>
+		<name>Mortal Kombat Revelations</name>
 		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.  Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.  Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
 		<image>./mixart/Mortal Kombat Revelations Hack.jpg</image>
 		<video>./snap/Mortal Kombat Revelations Hack.mp4</video>
 		<marquee>./wheel/Mortal Kombat Revelations Hack.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Midway</developer>
+		<publisher>Acclaim Entertainment</publisher>
+		<genre>Fight-Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>649EE32A40BE377C56E9C24F4F8C7CE8</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Mortal Kombat Revelations Hack.7z</path>
+		<name>Mortal Kombat Revelations</name>
+		<desc>Five Hundred years ago, an ancient and well respected Shaolin fighting tournament, held every 50 years, was corrupted by an evil and elderly sorcerer by the name of Shang Tsung.  Shang was accompanied by Prince Goro, a warrior of the Shokan race (a four armed half-human/half-dragon). Knowing that if ten tournaments in a row were won by the Outworld champion, the Earth Realm would be conquered by evil and fall into darkness, Shang entered Goro in the tournament and had him defeat the great Kung Lao. Goro has been  reigning supreme as the undefeated fighting champion for five hundred years now. As the last tournament required draws near, Raiden, Thunder God and protector of the Earth Realm, enacts a plan to tip the scales in the humans favor, Seven fighters step into the arena on Shang Tsung's mysterious island: Shaolin warrior Liu Kang, Special Forces operative Sonya Blade, the mercenary thug Kano, fame-seeking actor Johnny Cage, the ice wielding Lin Kuei warrior Sub-Zero and his undead adversary Scorpion, and Raiden himself.  Mortal Kombat is a side-scrolling 1 on 1 fighting game. Fighting is set as one on one kombat, allowing each player to perform a variety of punches, kicks, and special moves in order to defeat their opponent.  When the opponent faces their second round loss, the winner can perform a finishing move called a "Fatality" on the loser.  The Fatality is a move unique to each fighter that graphically kills the loser in a blood-soaked finale.  Mortal Kombat began its life as a 2-player arcade title. It is notable for its use of digitized actors to represent the game's fighters, as well as its use of copious amounts of blood during gameplay.</desc>
+		<image>./#homebrews/mixart/Mortal Kombat Revelations Hack.jpg</image>
+		<video>./#homebrews/snap/Mortal Kombat Revelations Hack.mp4</video>
+		<marquee>./#homebrews/wheel/Mortal Kombat Revelations Hack.png</marquee>
 		<rating>0.75</rating>
 		<releasedate>19930101T000000</releasedate>
 		<developer>Midway</developer>
@@ -15726,37 +15615,6 @@ As one of these Crude Dudes, you must travel through tough streets and take out 
 		<cheevosHash>B3C0245D1614837B11562E53DA6C38A7</cheevosHash>
 		<scrap name="ScreenScraper" date="20221016T092355" />
 		<scrap name="HfsDB" date="20221016T085539" />
-	</game>
-	<game source="ScreenScraper.fr">
-		<path>./#homebrews/Coffee Crisis.zip</path>
-		<name>Coffee Crisis</name>
-		<desc>Need a fresh cup? Take the Rogue Brawling to PC now!
-
-Coffee Crisis is an arcade-style beat 'em up full of caffeinated carnage! This is a full scale release for the Sega Genesis/Mega Drive, packed with classic gameplay and an extra espresso shot of action!
-
-Single player and local co-op campaign
-7 caffeinated power-ups to keep your alien-bashing blasting on all cylinders
-8 challenging bosses
-Visit real Pittsburgh locations and areas!
-Charge-up attacks, suplex throws, and high-test weapons!
-12 professional metal tracks
-Crush alien overlords with metal-fueled, caffeine aided combos to save Earth’s most precious resources - free wifi, heavy metal, and coffee! Feel their extra-terrestrial flesh rip to shreds as you crank the alien cries to 11!  
-
-Save the planet, save the wifi, save the metal, save the COFFEE! 
-
-*This game is Region Free. It works in JP, NTSC, PAL, and SECAM regions</desc>
-		<image>./#homebrews/mixart/Coffee Crisis.png</image>
-		<video>./#homebrews/snap/Coffee Crisis.mp4</video>
-		<marquee>./#homebrews/wheel/Coffee Crisis.png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20180504T000000</releasedate>
-		<publisher>mega cat studios</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<cheevosHash>DC1FC80AB39F9A5BFAC841A816C656D4</cheevosHash>
-		<genreid>263</genreid>
-		<scrap name="TheGamesDB" date="20221016T085448" />
 	</game>
 	<game id="367964" source="ScreenScraper.fr">
 		<path>./#homebrews/Darius - Extra Version.zip</path>
@@ -16127,7 +15985,7 @@ Through the levels, Batman will collect Batman emblems (which will give him Bata
 	</game>
 	<game>
 		<path>./Fix It Felix Jr.7z</path>
-		<name>'H'Fix-It Felix, Jr.</name>
+		<name>Fix-It Felix, Jr.</name>
 		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
 		<image>./mixart/Fix It Felix Jr.png</image>
 		<video>./snap/Fix It Felix Jr.mp4</video>
@@ -16141,7 +15999,7 @@ Through the levels, Batman will collect Batman emblems (which will give him Bata
 	</game>
 	<game>
 		<path>./Kung Fury - Streets of Rage 2 (USA).7z</path>
-		<name>'H'Kung Fury - Streets of Rage 2</name>
+		<name>Kung Fury - Streets of Rage 2</name>
 		<desc>Kung Fury: Street Rage 2 is the companion video game to the film published by Hello There AB released in June 2015, paying homage to classic beat 'em up games such as Streets of Rage, Double Dragon, and Final Fight, though the actual gameplay mostly resembles One Finger Death Punch by Silver Dollar Games, with the player ...
 
 There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
@@ -16161,11 +16019,28 @@ There are changes in both graphics (characters now are bigger, more detailed and
 	</game>
 	<game>
 		<path>./Street Fighter II Remastered.7z</path>
-		<name>'H'Street Fighter II': Remastered Edition</name>
+		<name>Street Fighter II': Remastered Edition</name>
 		<desc>Street Fighter II Remastered is a project that has been in production since 2016 as a laboratory to test various possible solutions to solve part of the problems of this game and other titles on this platform. Everything related to art and presentation has been redone, all resources have been used intelligently to extract the potential of the console. It is also not a port restricted to the original work, Street Fighter 2 has always been updated in arcades and ports. So part of the job was to revise the game with modern elements present in the SF series itself to give an updated look to the game.</desc>
 		<image>./mixart/Street Fighter II Remastered.jpg</image>
 		<video>./snap/Street Fighter II Remastered.mp4</video>
 		<marquee>./wheel/Street Fighter II Remastered.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>20200101T000000</releasedate>
+		<developer>Pyron</developer>
+		<publisher>Fanmade</publisher>
+		<genre>Fighting</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>2D24E59DB6939E0A320310E4004F8097</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Street Fighter II Remastered.7z</path>
+		<name>Street Fighter II': Remastered Edition</name>
+		<desc>Street Fighter II Remastered is a project that has been in production since 2016 as a laboratory to test various possible solutions to solve part of the problems of this game and other titles on this platform. Everything related to art and presentation has been redone, all resources have been used intelligently to extract the potential of the console. It is also not a port restricted to the original work, Street Fighter 2 has always been updated in arcades and ports. So part of the job was to revise the game with modern elements present in the SF series itself to give an updated look to the game.</desc>
+		<image>./#homebrews/mixart/Street Fighter II Remastered.jpg</image>
+		<video>./#homebrews/snap/Street Fighter II Remastered.mp4</video>
+		<marquee>./#homebrews/wheel/Street Fighter II Remastered.png</marquee>
 		<rating>0.4</rating>
 		<releasedate>20200101T000000</releasedate>
 		<developer>Pyron</developer>
@@ -16225,60 +16100,6 @@ Some of the enemies are also quite different. Some of the lizards, which appear 
 		<cheevosHash>1F2A9F322E770BE0A3CC2AABDF8BC575</cheevosHash>
 		<cheevosId>98</cheevosId>
 	</game>
-	<game>
-		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
-		<name>Shinobi III : Return of the Ninja Master</name>
-		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
-
-In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
-		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
-		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
-		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930822T000000</releasedate>
-		<developer>Megasoft</developer>
-		<publisher>Sega</publisher>
-		<genre>Platform</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
-		<cheevosId>64</cheevosId>
-	</game>
-	<game source="ScreenScraper.fr">
-		<path>./#homebrews/Demons of Asteborg.zip</path>
-		<name>Demons Of Asteborg</name>
-		<desc>Demons of Asteborg is an original and challenging new 2D game, mixing action, small puzzles and strategy. This 16-bit game will bring back many memories for retro fans.
-The story
-
-Long ago in the Kingdom of Asteborg, a war broke out, pitting humans and demons against each other in a bloody battle. Sagramor, a powerful mercenary, and Maria, a sorceress with fighting magic, joined forces to defeat the demonic army.
-Sagramor found a way to lock the demons in an alternate dimension, at the cost of his own life. His sacrifice earned him the title of "Legend of Asteborg".
-
-Shortly before the end of the war, Maria gave birth to a child named Gareth.
-She died 4 years later.
-
-Gareth was then taken in by the royal orphanage, and Bohort, the leader of the armed troops, saw in him an invaluable potential. He trained him from an early age to become a formidable warrior.
-
-Decades later, Zadimus, the former leader of the Demons, who survived the great war, found a way to reopen the portal to the parallel dimension in order to free his fellow Demons and declare war on the humans in order to take back the Kingdom of Asteborg.
-
-As Gareth, now the royal guard of Asteborg, you will go on an adventure, braving the lands of the kingdom and its dangerous lands populated by bloodthirsty monsters.
-
-Along the way, you'll learn more and more about the ancient war and your identity.
-But beware, Zadimus won't let you get away with it...</desc>
-		<image>./#homebrews/mixart/Demons of Asteborg-image.jpg</image>
-		<video>./#homebrews/snap/Demons of Asteborg.mp4</video>
-		<marquee>./#homebrews/wheel/Demons of Asteborg.png</marquee>
-		<releasedate>20210801T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>D4EAD56F4B0259B7C23D57633842B33A</cheevosHash>
-		<genreid>257</genreid>
-		<scrap name="TheGamesDB" date="20221016T085450" />
-	</game>
 	<game id="189651" source="ScreenScraper.fr">
 		<path>./#homebrews/L'Abbaye des Morts.zip</path>
 		<name>L'Abbaye des Morts</name>
@@ -16323,11 +16144,28 @@ l'Abbaye des Morts (Abbey of the Dead) is a game designed to look and control li
 	</game>
 	<game>
 		<path>./Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].zip</path>
-		<name>'H'Ultracore</name>
+		<name>Ultracore</name>
 		<desc>An aftermarket release based on Hardcore, which was licensed for release by Sega back in the day but went unreleased by the original publisher, Psygnosis.</desc>
 		<image>./mixart/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].png</image>
 		<video>./snap/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].mp4</video>
 		<marquee>./wheel/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].png</marquee>
+		<rating>0</rating>
+		<releasedate>20190325T000000</releasedate>
+		<developer>Digital Illusions</developer>
+		<publisher>Strictly Limited Games</publisher>
+		<genre>Shooter / Run and Gun-Shooter</genre>
+		<favorite>true</favorite>
+		<lang>jp</lang>
+		<region>jp</region>
+		<cheevosHash>961E15EADA08AFC2A6C4B5E33E9A08E7</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].zip</path>
+		<name>Ultracore</name>
+		<desc>An aftermarket release based on Hardcore, which was licensed for release by Sega back in the day but went unreleased by the original publisher, Psygnosis.</desc>
+		<image>./#homebrews/mixart/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].png</image>
+		<video>./#homebrews/snap/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].mp4</video>
+		<marquee>./#homebrews/wheel/Ultracore (MJ-1.0) (JP) (CheckSum Fixed) [!].png</marquee>
 		<rating>0</rating>
 		<releasedate>20190325T000000</releasedate>
 		<developer>Digital Illusions</developer>
@@ -16362,5 +16200,330 @@ Now you and the members of your team can join Buck and his allies to rid the sol
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>F768FBBA021636FFF3682B9AE116076A</cheevosHash>
+	</game>
+	<game id="3" source="ScreenScraper.fr">
+		<path>./Sonic the Hedgehog 2 (World) (Rev A).7z</path>
+		<name>Sonic the Hedgehog 2</name>
+		<desc>The evil Dr. Robotnik wants to conquer the world. In order to do that, he imprisons and transforms all animals into robots called 'Badniks'. This way they can build his powerful weapon, the Death Egg.  Only Sonic the Hedgehog, and his new tagalong partner, Miles 'Tails' Prower, can stop Robotnik and his army of Badniks from taking over the world. 
+
+Sonic the Hedgehog 2 is a side-scrolling platformer based around speed, and the sequel to Sonic the Hedgehog.  Like the original, players run through different worlds called "Zones", which each have their own specific theme.  There are two Acts in nearly all of the 10 Zones, and at the end of each Zone's last Act is a machine that Robotnik controls, which you must defeat to progress.
+
+Sonic and Tails can collect rings which are scattered throughout all of the levels.  As with most platformers, when the player collects 100 rings, they earn an extra life.  However, the rings also act as protection - if Sonic is hurt when he is carrying rings, they scatter everywhere and he is briefly invincible.  If he is hit again when he has no rings, he'll lose a life.
+
+If the player reaches a continue point lamppost with 50 or more rings, they'll be able to access the Special Stage.  In this stage, you must gather a set amount of rings in a halfpipe-like stage before you reach a checkpoint.  Complete all the checkpoints and you'll earn one of the seven Chaos Emeralds.
+
+New to Sonic the Hedgehog 2 is the ability to play the game co-op with a friend - at any time, a player can plug in a second controller and take over the AI controlled Tails.  Tails has infinite lives and the camera remains focused on Sonic, meaning that Tails will not hinder play.  Sonic (and Tails) can now also get speed from a standing start by holding down and repeatedly pressing the jump button for a "Spin Dash".  This is useful when stuck near steep slopes or other areas where you need some momentum.
+
+The game also features a 2-player versus mode.  This mode is a horizontally split-screen race through levels based on three of the zones in the single player game.</desc>
+		<image>./mixart/Sonic the Hedgehog 2 (World) (Rev A).png</image>
+		<video>./snap/Sonic the Hedgehog 2 (World) (Rev A).mp4</video>
+		<marquee>./wheel/Sonic the Hedgehog 2 (World) (Rev A).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform-Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>9FEEB724052C39982D432A7851C98D3E</cheevosHash>
+		<cheevosId>10</cheevosId>
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Coffee Crisis.zip</path>
+		<name>Coffee Crisis</name>
+		<desc>Need a fresh cup? Take the Rogue Brawling to PC now!
+
+Coffee Crisis is an arcade-style beat 'em up full of caffeinated carnage! This is a full scale release for the Sega Genesis/Mega Drive, packed with classic gameplay and an extra espresso shot of action!
+
+Single player and local co-op campaign
+7 caffeinated power-ups to keep your alien-bashing blasting on all cylinders
+8 challenging bosses
+Visit real Pittsburgh locations and areas!
+Charge-up attacks, suplex throws, and high-test weapons!
+12 professional metal tracks
+Crush alien overlords with metal-fueled, caffeine aided combos to save Earth’s most precious resources - free wifi, heavy metal, and coffee! Feel their extra-terrestrial flesh rip to shreds as you crank the alien cries to 11!  
+
+Save the planet, save the wifi, save the metal, save the COFFEE! 
+
+*This game is Region Free. It works in JP, NTSC, PAL, and SECAM regions</desc>
+		<image>./#homebrews/mixart/Coffee Crisis.png</image>
+		<video>./#homebrews/snap/Coffee Crisis.mp4</video>
+		<marquee>./#homebrews/wheel/Coffee Crisis.png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20180504T000000</releasedate>
+		<publisher>mega cat studios</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<cheevosHash>DC1FC80AB39F9A5BFAC841A816C656D4</cheevosHash>
+		<genreid>263</genreid>
+		<scrap name="TheGamesDB" date="20221016T085448" />
+	</game>
+	<game source="ScreenScraper.fr">
+		<path>./#homebrews/Demons of Asteborg.zip</path>
+		<name>Demons Of Asteborg</name>
+		<desc>Demons of Asteborg is an original and challenging new 2D game, mixing action, small puzzles and strategy. This 16-bit game will bring back many memories for retro fans.
+The story
+
+Long ago in the Kingdom of Asteborg, a war broke out, pitting humans and demons against each other in a bloody battle. Sagramor, a powerful mercenary, and Maria, a sorceress with fighting magic, joined forces to defeat the demonic army.
+Sagramor found a way to lock the demons in an alternate dimension, at the cost of his own life. His sacrifice earned him the title of "Legend of Asteborg".
+
+Shortly before the end of the war, Maria gave birth to a child named Gareth.
+She died 4 years later.
+
+Gareth was then taken in by the royal orphanage, and Bohort, the leader of the armed troops, saw in him an invaluable potential. He trained him from an early age to become a formidable warrior.
+
+Decades later, Zadimus, the former leader of the Demons, who survived the great war, found a way to reopen the portal to the parallel dimension in order to free his fellow Demons and declare war on the humans in order to take back the Kingdom of Asteborg.
+
+As Gareth, now the royal guard of Asteborg, you will go on an adventure, braving the lands of the kingdom and its dangerous lands populated by bloodthirsty monsters.
+
+Along the way, you'll learn more and more about the ancient war and your identity.
+But beware, Zadimus won't let you get away with it...</desc>
+		<image>./#homebrews/mixart/Demons of Asteborg.png</image>
+		<video>./#homebrews/snap/Demons of Asteborg.mp4</video>
+		<marquee>./#homebrews/wheel/Demons of Asteborg.png</marquee>
+		<rating>0</rating>
+		<releasedate>20210801T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>D4EAD56F4B0259B7C23D57633842B33A</cheevosHash>
+		<genreid>257</genreid>
+		<scrap name="TheGamesDB" date="20221016T085450" />
+	</game>
+	<game>
+		<path>./#homebrews/Fix It Felix Jr.7z</path>
+		<name>Fix-It Felix, Jr.</name>
+		<desc>Fix-It Felis is Niceland's hammer-wielding maintenance man who's beloved by all. When he is not busy fixin' all of Ralph's wreckin', this gold-medal-winning good guy is being showered with kisses, praise and pies from his tenants. Hardwired for niceness, anything other than being "The Good Guy" just doesn't compute. Unfortunately for Niceland's tenants Wreck-It Ralph is at it again. Smashing anything he can get his gigantic paws on! So it's up to Felix once more to fix all the damage and save the day!</desc>
+		<image>./#homebrews/mixart/Fix It Felix Jr.png</image>
+		<video>./#homebrews/snap/Fix It Felix Jr.mp4</video>
+		<marquee>./#homebrews/wheel/Fix It Felix Jr.png</marquee>
+		<rating>1</rating>
+		<releasedate>20130331T000000</releasedate>
+		<genre>Puzzle-Game</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>38A3555768B31DC2ABFC34D20EF546CA</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Life On Mars.zip</path>
+		<name>Life On Mars</name>
+		<desc>"Life On Mars" is a homebrew for the Sega Genesis, a sci-fi metroidvania from the developers of "Metal Dragon", inspired by classic space horror movies like Metroid and Aliens . It is proposed to play as a technician who went to repair communications on a Martian colony that fell silent 9 months ago. The gameplay contains all the attributes of classic metroidvanias, such as initially inaccessible locations, acquiring new skills, upgrading weapons, and more.</desc>
+		<image>./#homebrews/mixart/Life On Mars.png</image>
+		<video>./#homebrews/snap/Life On Mars.mp4</video>
+		<marquee>./#homebrews/wheel/Life On Mars.png</marquee>
+		<rating>3</rating>
+		<releasedate>20230325T000000</releasedate>
+		<developer>Fanmade</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Action, Adventure</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>85E9D2326917C02A6C48FB403F75689D</cheevosHash>
+	</game>
+	<game>
+		<path>./T2 - The Arcade Game (USA, Europe).7z</path>
+		<name>T2 : The Arcade Game</name>
+		<desc>As the title states, this is the home conversion of the arcade rail-shooter based on the film Terminator 2: Judgement Day. Up to two players shoot through future and present levels as robotic killers reprogrammed to serve the human resistance. 
+
+Both players wield a machine gun with infinite ammo that lowers its firing rate (overheats) as it is continuously fired. A secondary weapon (missile launchers in the future, shotguns in the present) has limited ammo but deals heavy damage. Powerups inside the game world include secondary weapon ammo and coolant for the machine guns, and are shot to be collected.
+
+T2: The Arcade Game features seven levels based on specific scenes or general concepts in the film. The first four levels act as a prelude, as the player guns down waves of metal Terminators across a post-apocalyptic Battlefield, a besieged Human Hideout, and through the security checkpoints of the enemy supercomputer SkyNet. After destroying the computer, players travel back in time to protect John and Sarah Connor, while also destroying every scrap of SkyNet research at the headquarters of its manufacturer. From there, players must fend off the indestructible T-1000 until the final showdown in the Steel Mill.
+
+Assets from the movie are used when possible, such as voice clips from Arnold Schwarzenegger, and close-up digital stills of Robert Patrick for the final battle against the T-1000. The Genesis and SNES versions also support lightguns (the Menacer and Super Scope, respectively).</desc>
+		<image>./mixart/T2 - The Arcade Game (USA, Europe).png</image>
+		<video>./snap/T2 - The Arcade Game (USA, Europe).mp4</video>
+		<marquee>./wheel/T2 - The Arcade Game (USA, Europe).png</marquee>
+		<rating>0.3</rating>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Arena Entertainment</developer>
+		<publisher>Acclaim - Arena Entertainment - Midway - Probe</publisher>
+		<genre>Lightgun Shooter</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>3C2666BCC3C42A4218E46C5ABA2BCA15</cheevosHash>
+	</game>
+	<game id="724" source="ScreenScraper.fr">
+		<path>./R.B.I. Baseball '94 (USA, Europe).7z</path>
+		<name>R.B.I. Baseball '94</name>
+		<desc>R.B.I. '94 is an updated version of the series that features a 800 of the top MLBPA players at the time with their 1993 stats applied and features authentic modeled ball parks.  The game doesn't feature the MLB license, however, but does represent them by city name and omitting their nicknames and logos.  The standard modes apply including exhibition that both has a single player and two-player option, a full 162-game season or skip straight to the playoffs or the World Series.  The Home Run Derby is also present along with award-winning sports announcer, Jack Buck, lending his voice talent for play-by-play commentary.  A password feature is present for players to continue their season at their leisure.</desc>
+		<image>./mixart/R.B.I. Baseball '94 (USA, Europe).png</image>
+		<video>./snap/R.B.I. Baseball '94 (USA, Europe).mp4</video>
+		<marquee>./wheel/R.B.I. Baseball '94 (USA, Europe).png</marquee>
+		<rating>0</rating>
+		<releasedate>19940401T000000</releasedate>
+		<developer>Tengen</developer>
+		<publisher>Atari - Tengen</publisher>
+		<genre>Sports</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>AED0ED1189BB7C0379AE1AC9278950B7</cheevosHash>
+	</game>
+	<game>
+		<path>./Shinobi III - Return of the Ninja Master (USA).7z</path>
+		<name>Shinobi III : Return of the Ninja Master</name>
+		<desc>Shinobi III involves a ninja named Joe "Shinobi" Musashi (you) going and kicking some bad guy butt, in this case his old enemy "Neo Zeed".
+
+In normal Shinobi style, you are presented with side-scrolling playfields which you must slash and shuriken your way through, to meet the end boss of each round.</desc>
+		<image>./mixart/Shinobi III - Return of the Ninja Master (USA).png</image>
+		<video>./snap/Shinobi III - Return of the Ninja Master (USA).mp4</video>
+		<marquee>./wheel/Shinobi III - Return of the Ninja Master (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930822T000000</releasedate>
+		<developer>Megasoft</developer>
+		<publisher>Sega</publisher>
+		<genre>Platform</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>691EEFF9C5741724A8751EC0FA9CFBF0</cheevosHash>
+		<cheevosId>64</cheevosId>
+	</game>
+	<game id="19" source="ScreenScraper.fr">
+		<path>./Immortal, The (USA, Europe).7z</path>
+		<name>The Immortal</name>
+		<desc>The Immortal is an isometric action-adventure game.
+
+Your old mentor Mordamir has disappeared. Probably kidnapped. You're not too sure where he might be, but a dungeon is always a good place to look, so you seek out the nearest one and plunge into its depths. Beware: 8 levels of 
+isometric death await.
+
+The Immortal is the prototype of a trial-and-error game. Progress is made by encountering a hazard, dying, solving the problem, encountering the next hazard. To solve a level, you have to know its traps and their patterns by heart. As frustrating as this may sound (it is), The Immortal quite cleverly balances annoyance with curiosity and graphical rewards. In short: You want to see what challenge lies in the next room.
+
+The puzzles range from simple avoidance of traps to the correct use of items; you collect objects in an inventory. Every now and then, The Immortal surprises with a special challenge. For example, you've got to ride a magic carpet through a hallway full of fire traps, or ride a barrel on an underground river. The dungeon isn't empty: some friedlies may have valuable information or trade items, the nasty sort of guys will attack. Combat is fought man-to-man on a special screen. Your adversary indicates his next attack a few seconds before he executes it, so you've got time to react appropriately. You can dodge to the left or the right, as well as attack from these two directions. There is no save option in the game, of course, but you may restart each level as often as you like. Levels can be skipped by entering passwords.</desc>
+		<image>./mixart/Immortal, The (USA, Europe).png</image>
+		<video>./snap/Immortal, The (USA, Europe).mp4</video>
+		<marquee>./wheel/Immortal, The (USA, Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19911101T000000</releasedate>
+		<developer>Sandcastle</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Adventure</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>469C2C852005972BBCD2B51FDF9D1220</cheevosHash>
+		<cheevosId>313</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Kung Fury - Streets of Rage 2 (USA).7z</path>
+		<name>Kung Fury - Streets of Rage 2</name>
+		<desc>Kung Fury: Street Rage 2 is the companion video game to the film published by Hello There AB released in June 2015, paying homage to classic beat 'em up games such as Streets of Rage, Double Dragon, and Final Fight, though the actual gameplay mostly resembles One Finger Death Punch by Silver Dollar Games, with the player ...
+
+There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
+		<image>./#homebrews/mixart/Kung Fury - Streets of Rage 2 (USA).png</image>
+		<video>./#homebrews/snap/Kung Fury - Streets of Rage 2 (USA).mp4</video>
+		<marquee>./#homebrews/wheel/Kung Fury - Streets of Rage 2 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20151201T000000</releasedate>
+		<developer>Laser Unicorns</developer>
+		<publisher>Laser Unicorns</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>FF5B4FB7B955E00EF652FBB808F9D0AF</cheevosHash>
+	</game>
+	<game>
+		<path>./Streets of Rage (World) (Rev A).7z</path>
+		<name>Streets of Rage</name>
+		<desc>Streets of Rage, Sega's answer to Final Fight, follows the story of three young police officers (Adam Hunter, Axel Stone and Blaze Fielding) in a city controlled by a criminal syndicate led by a "Mr. X" where crime is rampant, which leads the three heroes to make a pact to leave the force and topple the syndicate by themselves.
+
+Gameplay is straightforward and simple. Three buttons are used, one to jump, other to attack and another to perform a range attack from a support police car. Each character has a limited set of moves that include punching and kicking or performing a back attack (if in the open), two grapple moves (depending if holding the opponent in front or by the back), a flying attack, and if playing with another player two additional tag attacks, and different abilities: Adam is slow, but a good jumper and a hard hitter, Axel fast and also a hard hitter, but a lousy jumper and Blaze fast and a good jumper, but weak hitter.
+Levels are in typical arcade side-scroller fashion: move from left to right (with two exceptions), clearing screens from enemies one after another as fast as possible while avoid taking damage with a boss in the end. Some levels feature "death drops" where the player must avoid falling, while throwing enemies there at the same time, including a typical elevator level.  Several items are scattered on the ground, from melee weapons and bonus points (and lives or additional police cars) to apples and turkeys (to restore health).</desc>
+		<image>./mixart/Streets of Rage (World) (Rev A).png</image>
+		<video>./snap/Streets of Rage (World) (Rev A).mp4</video>
+		<marquee>./wheel/Streets of Rage (World) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19910101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>59A3B22A1899461DCEBA50D1ADE88D3A</cheevosHash>
+		<cheevosId>55</cheevosId>
+	</game>
+	<game id="20" source="ScreenScraper.fr">
+		<path>./Streets of Rage 2 (USA).7z</path>
+		<name>Streets of Rage 2</name>
+		<desc>After Axel Stone, Blaze Fielding and Adam Hunter destroyed the evil Syndicate leader, Mr. X, the city became a peaceful place to live, and each one of them followed their own paths. One year later, after their reunion, Adam's brother Sammy returned from school to find their apartment in a mess, and Adam nowhere to be seen, and after calling his two friends, one of them notices a photo of Adam chained to a wall, next to someone they knew very well - Mr. X, who returned to turn the peaceful city once again into a war zone. Now, Axel, Blaze, Sammy, and Axel's good friend Max, a pro wrestler, must head out to stop Mr. X once again...hopefully for good...
+
+Streets of Rage 2 differs from the previous title in several ways. There are changes in both graphics (characters now are bigger, more detailed and with more animation frames, and scenarios are less grainy) and gameplay (the rocket move was replaced by a special move that doubles in offense and defense along several new moves), along other new features such as life bars (and names) for all enemies and the radically different new characters.</desc>
+		<image>./mixart/Streets of Rage 2 (USA).png</image>
+		<video>./snap/Streets of Rage 2 (USA).mp4</video>
+		<marquee>./wheel/Streets of Rage 2 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19921201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CB75D5A6919B61EFE917BEA5762C1CB7</cheevosHash>
+		<cheevosId>3</cheevosId>
+	</game>
+	<game id="143230" source="ScreenScraper.fr">
+		<path>./Streets of Rage 3 (USA).7z</path>
+		<name>Streets of Rage 3</name>
+		<desc>Streets of Rage 3 aimed to build on the success of its predecessor, so while the style of gameplay and control scheme is largely identical to its predecessors, significant changes were made to the overall structure of the game. Streets of Rage 3 is a faster paced release with longer levels, a more complex plot (which in turn leads to more in-depth scenarios complete with interactive levels and multiple endings) and the return of traps such as pits. Dash and dodge moves were added to each character's arsenal of moves, and weapons can now only be used for a few times before breaking.
+
+Changes to the fighting mechanics allows for the integration of weapons with certain movesets. Team attacks, absent from Streets of Rage 2 but available in the original Streets of Rage, make a return, and are occasionally used by enemies too. Blitz moves, performed while running, have also been altered and are now upgradable over the course of the game (predicated on how many points are earned per level). Death causes a downgrade, however holding the X button before a series of button combinations can give players access to the upgraded moveset at any point in the game, at the expense of the time taken to perform attacks.
+
+Enemies are also smarter with weapons, and some can even steal health upgrades, and there are also several secret playable characters, unlockable after overcoming certain conditions during the game. Special moves also no longer drain the user's health - a separate, automatically regenerating bar is introduced for this purpose.</desc>
+		<image>./mixart/Streets of Rage 3 (USA).png</image>
+		<video>./snap/Streets of Rage 3 (USA).mp4</video>
+		<marquee>./wheel/Streets of Rage 3 (USA).png</marquee>
+		<rating>0</rating>
+		<releasedate>19970317T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action-Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>2D0B0C8F10EDF76131708E874E8D1EE4</cheevosHash>
+		<cheevosId>54</cheevosId>
+	</game>
+	<game>
+		<path>./#homebrews/Super Mario World (Unl) [b1].zip</path>
+		<name>Super Mario World</name>
+		<desc>Super Mario World, also known as Super Mario Advance, is an unlicensed Sega Mega Drive game developed by Chuanpu and published by Jazz Dark, loosely based off Nintendo's Super Mario Bros. franchise. It is actually a hack of Squirrel King, another unlicensed game. Whereas the first few stages have been altered (with tiles taken from Super Mario All-Stars on the SNES), later stages are identical to those seen in Squirrel King.</desc>
+		<image>./#homebrews/mixart/Super Mario World (Unl) [b1].png</image>
+		<video>./#homebrews/snap/Super Mario World (Unl) [b1].mp4</video>
+		<marquee>./#homebrews/wheel/Super Mario World (Unl) [b1].png</marquee>
+		<developer>Chuanpu</developer>
+		<publisher>Jazz Dark</publisher>
+		<genre>Action</genre>
+		<md5>28eb0df1a1a43e727c97203c5c0870c9</md5>
+		<lang>en</lang>
+		<cheevosHash>28EB0DF1A1A43E727C97203C5C0870C9</cheevosHash>
+	</game>
+	<game>
+		<path>./Contra - Hard Corps (USA, Korea).7z</path>
+		<name>Contra : Hard Corps</name>
+		<desc>While the original arcade games, as well as a few computer conversions under the Gryzor title, were released unchanged in Europe, subsequent console installments of the Contra were released under the Probotector title in Europe.</desc>
+		<image>./mixart/Contra - Hard Corps (USA, Korea).png</image>
+		<video>./snap/Contra - Hard Corps (USA, Korea).mp4</video>
+		<marquee>./wheel/Contra - Hard Corps (USA, Korea).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19940808T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal-Shooter-Shooter / Run and Gun</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en,kr</lang>
+		<region>kr</region>
+		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
+		<cheevosId>120</cheevosId>
 	</game>
 </gameList>

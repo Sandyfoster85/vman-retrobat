@@ -70,6 +70,31 @@ copy /y "V:\_tools\vman-retrobat-master\roms\ps3\Metal Gear Solid - Peace Walker
 rem 3. 2022-12-30 - amigacd32 added controller remap to support cd32 and other retroarch future configs - reported by Virtualman
 robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\retroarch\ V:\RetroBat\emulators\retroarch\ /S /NFL /NDL /IS /MT:4
 
+rem 4. 2023-12-21 - Fix Rockin'Bliss shortcut from Ports - Note: Change Drive according to your location C: or V: - reported by Virtualman
+copy /y "V:\_tools\vman-retrobat-master\roms\ports\Rockin'Bliss!.lnk" V:\RetroBat\roms\ports\
+
+rem 5. 2023-1-19 - EmulationStation Theme fixes - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulationstation\.emulationstation\themes\ V:\RetroBat\emulationstation\.emulationstation\themes\ /S /NFL /NDL /IS /MT:4
+
+rem 6. 2023-1-22 - Saves for Retroarch (Terminator2, Mame bind new key) and more fixes - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\saves\ V:\RetroBat\saves\ /S /NFL /NDL /IS /MT:4
+
+rem 7. 2023-1-24 - Update configurations backup script - reported by Bilu
+robocopy V:\_tools\vman-retrobat-master\RetroBat\backup\ V:\RetroBat\backup\ /S /NFL /NDL /IS /MT:4
+copy /y V:\RetroBat\backup\vman_backupcfg.bat V:\RetroBat\emulationstation\.emulationstation\scripts\quit\
+
+rem 8. 2023-1-30 - rpcs3 restore default.yml as Retrobat 5.1 was overriding causing inverting controls. Disable PS3 Autocontrollers fixes this problem - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\emulators\rpcs3\ V:\RetroBat\emulators\rpcs3\ /S /NFL /NDL /IS /MT:4
+
+rem 9. 2023-2-02 - Added missing bezelproject and decorations for any other future missing overlays - reported by Virtualman
+robocopy V:\_tools\vman-retrobat-master\RetroBat\decorations\ V:\RetroBat\decorations\ /S /NFL /NDL /IS /MT:4
+
+rem 10. 2023-2-03 - Copy es_padtokey.cfg (pre-post-upgrade) to support additional kill switches - reported by Virtualman
+copy /y  "V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\RetroBat\emulationstation\.emulationstation\es_padtokey.cfg" V:\RetroBat\emulationstation\.emulationstation\
+
+rem 11. 2023-2-04 - New RBL Features ES Menu sync
+robocopy V:\_tools\vman-retrobat-master\RetroBat\system\es_menu\ V:\RetroBat\system\es_menu\ /S /NFL /NDL /IS /MT:4
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 

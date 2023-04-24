@@ -18,6 +18,7 @@
 		<publisher>CRL Group</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5D3C54869CD5897861C7F19A909C6733</cheevosHash>
 	</game>
 	<game>
 		<path>./Advanced Tactical Fighter (UK) (1986).dsk</path>
@@ -33,6 +34,23 @@ The goal of every round is to destroy a number of strategic targets. The positio
 		<publisher>Digital Integration</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>128F30DDCA80AA2CDC02505E45B2C19C</cheevosHash>
+	</game>
+	<game>
+		<path>./Barbarian 1 (UK) (1987).dsk</path>
+		<name>Barbarian</name>
+		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
+		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
+		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
+		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Palace Software</developer>
+		<publisher>Epyx</publisher>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>09E90290FE5C19823BF7C8336A2F6770</cheevosHash>
 	</game>
 	<game>
 		<path>./Barbarian 2 (UK) (1989).dsk</path>
@@ -49,6 +67,25 @@ Palace Software, the developer of the two Barbarian games, marketed the sequel w
 		<publisher>Palace Software</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B919CD06AE7B19BC96B3A57281B891F3</cheevosHash>
+	</game>
+	<game id="34794" source="ScreenScraper.fr">
+		<path>./Batman - The Movie (UK) (1989).dsk</path>
+		<name>Batman : The Movie</name>
+		<desc>Batman from DC Comics has appeared as the main character in numerous video games created for various platforms for over 20 years. This is a complete list of Batman video games for all computer, mobile phone, and console systems, including games where Batman is the protagonist or has a more minor role.
+
+Batman, Batman: The Caped Crusader and Batman: The Movie were produced by Sunsoft and Ocean Software, before the Batman Returns license was passed onto Konami and Sega, and the Batman Forever and Batman and Robin licenses were awarded to Acclaim. The video game version of Batman Begins was published by Electronic Arts.</desc>
+		<image>./mixart/Batman - The Movie (UK) (1989).png</image>
+		<video>./snap/Batman - The Movie (UK) (1989).mp4</video>
+		<marquee>./wheel/Batman - The Movie (UK) (1989).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19900101T000000</releasedate>
+		<developer>Ocean</developer>
+		<publisher>Ocean</publisher>
+		<crc32>5B4B7D66</crc32>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>947C5EE8C1434F322B5FF18160E91ADA</cheevosHash>
 	</game>
 	<game id="34824" source="ScreenScraper.fr">
 		<path>./Batman Caped Crusader (UK) (1988).dsk</path>
@@ -67,54 +104,7 @@ The game has two parts to it, and these can be played in any order. In A Bird In
 		<crc32>2EF83D50</crc32>
 		<lang>en</lang>
 		<region>eu</region>
-	</game>
-	<game>
-		<path>./Continental Circus (UK) (1989).dsk</path>
-		<name>Continental Circus</name>
-		<desc>The home conversions of Continental Circus lack the full-on 3D and special glasses of the arcade version, but retain the essential gameplay structure. The first race is in Brazil and features 100 cars, and requires you to finish in the top 80 in order to qualify for  next race. As you work through the 8 races the size of the field steadily decreases, but so does the worst acceptable finishing position to qualify.
-
-The car has high and low gears, and is susceptible to damage from contact with another car. Once you hit a car or a piece of the trackside scenery you will be called into the pits - fail to make it back, or hit another car, and you will crash and lose several seconds.</desc>
-		<image>./mixart/Continental Circus (UK) (1989).png</image>
-		<video>./snap/Continental Circus (UK) (1989).mp4</video>
-		<marquee>./wheel/Continental Circus (UK) (1989).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Virgin Mastertronic</publisher>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game>
-		<path>./Barbarian 1 (UK) (1987).dsk</path>
-		<name>Barbarian</name>
-		<desc>Barbarian: The Ultimate Warrior is a fighting game that supports one or two players. Players assume the roles of sword-wielding barbarians, who battle in locales such as a forest glade and a "fighting pit". The game's head-to-head mode lets a player fight against another or the computer in time-limited matches. The game also features a single-player story mode, which comprises a series of plot-connected challenges.</desc>
-		<image>./mixart/Barbarian 1 (UK) (1987).png</image>
-		<video>./snap/Barbarian 1 (UK) (1987).mp4</video>
-		<marquee>./wheel/Barbarian 1 (UK) (1987).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Palace Software</developer>
-		<publisher>Epyx</publisher>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-	</game>
-	<game id="34794" source="ScreenScraper.fr">
-		<path>./Batman - The Movie (UK) (1989).dsk</path>
-		<name>Batman : The Movie</name>
-		<desc>Batman from DC Comics has appeared as the main character in numerous video games created for various platforms for over 20 years. This is a complete list of Batman video games for all computer, mobile phone, and console systems, including games where Batman is the protagonist or has a more minor role.
-
-Batman, Batman: The Caped Crusader and Batman: The Movie were produced by Sunsoft and Ocean Software, before the Batman Returns license was passed onto Konami and Sega, and the Batman Forever and Batman and Robin licenses were awarded to Acclaim. The video game version of Batman Begins was published by Electronic Arts.</desc>
-		<image>./mixart/Batman - The Movie (UK) (1989).png</image>
-		<video>./snap/Batman - The Movie (UK) (1989).mp4</video>
-		<marquee>./wheel/Batman - The Movie (UK) (1989).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19900101T000000</releasedate>
-		<developer>Ocean</developer>
-		<publisher>Ocean</publisher>
-		<crc32>5B4B7D66</crc32>
-		<lang>en</lang>
-		<region>eu</region>
+		<cheevosHash>EE6661D4C02C49726997E550FB83D974</cheevosHash>
 	</game>
 	<game id="35098" source="ScreenScraper.fr">
 		<path>./Beyond the Ice Palace (UK) (1988).dsk</path>
@@ -131,6 +121,7 @@ Batman, Batman: The Caped Crusader and Batman: The Movie were produced by Sunsof
 		<crc32>D8F7ACE7</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>AC9D193B4C042C87EDB2E63590274EB4</cheevosHash>
 	</game>
 	<game id="35099" source="ScreenScraper.fr">
 		<path>./Bloodwych (UK) (1990).dsk</path>
@@ -151,6 +142,7 @@ Each player controls a party of four characters. The four basic classes are warr
 		<crc32>3A78F2C5</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>805B19B35E6D6CABD41229C3D0C59292</cheevosHash>
 	</game>
 	<game id="71975" source="ScreenScraper.fr">
 		<path>./Bobsleigh (UK) (1987).dsk</path>
@@ -173,6 +165,7 @@ Good luck for the season and hopefully you can get to the Olympics. Your gonna n
 		<crc32>AA2E867E</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>9B74CAC31116EF80D5450896CF4C8AB7</cheevosHash>
 	</game>
 	<game id="34733" source="ScreenScraper.fr">
 		<path>./Bomb Jack (UK) (1986).dsk</path>
@@ -193,6 +186,7 @@ The more you progress through the game, the more difficult it becomes, as enemie
 		<crc32>F5C0506E</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>DE542CDD26E8DD0A6C5D06574C27DA62</cheevosHash>
 	</game>
 	<game id="35248" source="ScreenScraper.fr">
 		<path>./Bomb Jack 2 (UK) (1987).dsk</path>
@@ -211,6 +205,7 @@ Gameplay differs from the original, in that Bombjack's movement is no longer fre
 		<crc32>61CB2668</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>3D5A4D93593C3657AD2AAD3D37439501</cheevosHash>
 	</game>
 	<game id="34747" source="ScreenScraper.fr">
 		<path>./Boulder Dash (UK) (1984).dsk</path>
@@ -227,6 +222,7 @@ Gameplay differs from the original, in that Bombjack's movement is no longer fre
 		<crc32>95FB7863</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>BE19D1EB1C61129965F675BFB184FFFE</cheevosHash>
 	</game>
 	<game id="35390" source="ScreenScraper.fr">
 		<path>./Bounder (UK) (1986).dsk</path>
@@ -247,6 +243,7 @@ The 174 screens are divided into 10 levels - at the end of each of these there's
 		<crc32>8C4E4218</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>AA811EECFA4D5C4A082EC73541D2D885</cheevosHash>
 	</game>
 	<game id="35250" source="ScreenScraper.fr">
 		<path>./Bumpy's Arcade Fantasy (UK) (1992).dsk</path>
@@ -263,6 +260,7 @@ The 174 screens are divided into 10 levels - at the end of each of these there's
 		<crc32>46BDF0AE</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>9EBCDCCB3964449CC77063EF5DF15348</cheevosHash>
 	</game>
 	<game id="72619" source="ScreenScraper.fr">
 		<path>./Burning Wheels (UK) (1987).dsk</path>
@@ -276,6 +274,7 @@ The 174 screens are divided into 10 levels - at the end of each of these there's
 		<crc32>5F60E19D</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>6A625C0817C67F9BC3DF4A67D3254471</cheevosHash>
 	</game>
 	<game id="35046" source="ScreenScraper.fr">
 		<path>./Castle Master 1 (UK,F,G) (1990).dsk</path>
@@ -296,6 +295,7 @@ Contact with ghouls drains your energy, as does falling too far (there are narro
 		<crc32>686A8266</crc32>
 		<lang>en,fr</lang>
 		<region>eu</region>
+		<cheevosHash>BC8D3C382D4A80B4D8C1763D4092F068</cheevosHash>
 	</game>
 	<game>
 		<path>./Castle Master 2 - The Crypt (UK) (1991).dsk</path>
@@ -308,6 +308,7 @@ Contact with ghouls drains your energy, as does falling too far (there are narro
 		<publisher>Domark Software</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>E50B212C757668167A975CC389B95929</cheevosHash>
 	</game>
 	<game id="35442" source="ScreenScraper.fr">
 		<path>./Chuck Yeager's Simulator (UK) (1987).dsk</path>
@@ -328,6 +329,7 @@ There is a "black box recorder" to replay your flights, and analysis of your per
 		<crc32>2C248780</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>4A919A2A9D8718A6F3A51EE66EBCFCED</cheevosHash>
 	</game>
 	<game id="72759" source="ScreenScraper.fr">
 		<path>./Colossus Chess 4 (UK) (1986).dsk</path>
@@ -342,6 +344,24 @@ There is a "black box recorder" to replay your flights, and analysis of your per
 		<crc32>D39F85E3</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B2D0EBBEC2D9A940FC0BA257835CA1C6</cheevosHash>
+	</game>
+	<game>
+		<path>./Continental Circus (UK) (1989).dsk</path>
+		<name>Continental Circus</name>
+		<desc>The home conversions of Continental Circus lack the full-on 3D and special glasses of the arcade version, but retain the essential gameplay structure. The first race is in Brazil and features 100 cars, and requires you to finish in the top 80 in order to qualify for  next race. As you work through the 8 races the size of the field steadily decreases, but so does the worst acceptable finishing position to qualify.
+
+The car has high and low gears, and is susceptible to damage from contact with another car. Once you hit a car or a piece of the trackside scenery you will be called into the pits - fail to make it back, or hit another car, and you will crash and lose several seconds.</desc>
+		<image>./mixart/Continental Circus (UK) (1989).png</image>
+		<video>./snap/Continental Circus (UK) (1989).mp4</video>
+		<marquee>./wheel/Continental Circus (UK) (1989).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Virgin Mastertronic</publisher>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>FE6111520CDC1BBD9C27914E83816A61</cheevosHash>
 	</game>
 	<game>
 		<path>./Cybernoid (UK) (1988).dsk</path>
@@ -358,6 +378,7 @@ Cybernoid is an arcade style action game for one player. You can choose from thr
 		<publisher>Hewson Consultants</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>A330270C80A9CAA8DF11DCB7A799EC9A</cheevosHash>
 	</game>
 	<game id="35467" source="ScreenScraper.fr">
 		<path>./Cybernoid 2 (UK) (1988).dsk</path>
@@ -375,6 +396,7 @@ Using the range of weapon systems correctly is again a key factor. These include
 		<crc32>70041C19</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>E1C825CDB7F1C81C3F7D00B507861AFC</cheevosHash>
 	</game>
 	<game>
 		<path>./Cyrus II Chess (UK) (1985).dsk</path>
@@ -394,6 +416,7 @@ There is also support for a printer so that either the current board or the cont
 		<publisher>Intelligent Software - Amsoft</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>2E2B1C45B444D948EC4A134912D90BB3</cheevosHash>
 	</game>
 	<game id="35669" source="ScreenScraper.fr">
 		<path>./Dark Side (UK) (1988).dsk</path>
@@ -416,6 +439,7 @@ Gameplay has more action than Driller. The Freescape world has a third dimension
 		<crc32>1B1E6166</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>D556F16BC6E42387A92CC61913AE1AF6</cheevosHash>
 	</game>
 	<game id="74160" source="ScreenScraper.fr">
 		<path>./Doors of Doom (UK) (1985).dsk</path>
@@ -430,6 +454,7 @@ Gameplay has more action than Driller. The Freescape world has a third dimension
 		<crc32>CFF265AB</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>E1ABD71D32FC073CAFB1C7AD6B0B6231</cheevosHash>
 	</game>
 	<game id="35548" source="ScreenScraper.fr">
 		<path>./Driller (UK) (1988).dsk</path>
@@ -445,6 +470,7 @@ Gameplay has more action than Driller. The Freescape world has a third dimension
 		<crc32>8225A9DD</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>8FFB09AEF3E3DE0CE365F678EC47EA74</cheevosHash>
 	</game>
 	<game>
 		<path>./Druid (UK) (1986).dsk</path>
@@ -467,6 +493,7 @@ The druid can also come across a pentagram on the ground which will restore his 
 		<publisher>Firebird Software</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>49B97B9F8FE0219E1DC4DACC878E1102</cheevosHash>
 	</game>
 	<game id="35026" source="ScreenScraper.fr">
 		<path>./E-Motion (UK) (1990).dsk</path>
@@ -482,6 +509,28 @@ The druid can also come across a pentagram on the ground which will restore his 
 		<crc32>291A9A6E</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B86826CB9C7D15977949C9D02C172AA4</cheevosHash>
+	</game>
+	<game id="34699" source="ScreenScraper.fr">
+		<path>./Elite (F) (1986).dsk</path>
+		<name>Elite</name>
+		<desc>Elite is a free-form space trading and combat simulation, commonly considered the progenitor of this sub-genre. The player initially controls a character referred to as "Commander Jameson", starting at Lave Station with 100 credits and a lightly armed trading ship called Cobra Mark III. Most of the game consists of traveling to various star systems, trading with their inhabitants, gaining money and reputation. Money can also be gained by other means beside trading; these include undertaking military missions, bounty hunting, asteroid mining, and even piracy. As the player character earns money, he becomes able to upgrade his ships with enhancements such as better weapons, shields, increased cargo capacity, an automated docking system, etc.
+
+The game utilizes pseudo-3D wire-frame graphics; its world is viewed from a first-person perspective. It has no overarching story, though a race known as Thargoids play the role of antagonists: their ships will often attack the player-controlled ship, forcing the player to engage in space combat. Combat is action-oriented, taking place in the same environment as the exploration. The player must use various weapons the ship is equipped with, as well as manoeuvre the ship, trying to dodge enemy attacks. The player can also choose to attack neutral ships; doing so will decrease the protagonist's reputation, eventually attracting the attention of the galactic police.
+
+Elite is notable for its expansive game world, consisting of eight galaxies and 256 planets. The player is free to travel to any of these planets, provided his ship has enough fuel for the trip (the ship's fuel capacity is limited for a journey to the distance of seven light years).</desc>
+		<image>./mixart/Elite (F) (1986).png</image>
+		<video>./snap/Elite (F) (1986).mp4</video>
+		<marquee>./wheel/Elite (F) (1986).png</marquee>
+		<rating>0.55</rating>
+		<releasedate>19860101T000000</releasedate>
+		<developer>David Braben</developer>
+		<publisher>Firebird Software</publisher>
+		<players>1</players>
+		<crc32>9D30AA0C</crc32>
+		<lang>fr</lang>
+		<region>eu</region>
+		<cheevosHash>A1426BCFE9D316CDBBEB2DC2F0666746</cheevosHash>
 	</game>
 	<game id="74245" source="ScreenScraper.fr">
 		<path>./Emlyn Huges' International Soccer (UK) (1988).dsk</path>
@@ -501,6 +550,7 @@ Fixture lists, results, and league tables may be displayed at any time during th
 		<crc32>7E6CD2BD</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>EBAAE37B9F966610BA1044FA2045F5F3</cheevosHash>
 	</game>
 	<game>
 		<path>./Everyone's A Wally - Meet The Gang (UK) (1985).dsk</path>
@@ -515,6 +565,7 @@ Fixture lists, results, and league tables may be displayed at any time during th
 		<publisher>Mikro-gen</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>C7FDACA31FDB0689836A8001C31071C5</cheevosHash>
 	</game>
 	<game id="34833" source="ScreenScraper.fr">
 		<path>./Exolon (UK) (1987).dsk</path>
@@ -531,6 +582,7 @@ Fixture lists, results, and league tables may be displayed at any time during th
 		<crc32>17C855A2</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>4E01A1454506042FA36EEC9C3937B45F</cheevosHash>
 	</game>
 	<game id="35027" source="ScreenScraper.fr">
 		<path>./F-16 Combat Pilot (UK) (1991).dsk</path>
@@ -548,6 +600,7 @@ F-16 Combat Pilot allows multiplayer duels via modem or serial link.</desc>
 		<crc32>93F7C6F5</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>7C731F690FBE076D6D472ED056CEC695</cheevosHash>
 	</game>
 	<game id="74330" source="ScreenScraper.fr">
 		<path>./F-16 Fighting Falcon (UK) (1989).dsk</path>
@@ -561,6 +614,7 @@ F-16 Combat Pilot allows multiplayer duels via modem or serial link.</desc>
 		<crc32>280D8B84</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>E78DFBB9F34A2B48A5424C8290A277C6</cheevosHash>
 	</game>
 	<game id="35221" source="ScreenScraper.fr">
 		<path>./Fire and Forget (UK) (1988).dsk</path>
@@ -579,6 +633,7 @@ The different tracks are located all over the globe. There are six courses withi
 		<crc32>7E31A2EF</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>16BD4BF8CCD593337D51C882C0B4AE12</cheevosHash>
 	</game>
 	<game id="35780" source="ScreenScraper.fr">
 		<path>./Fire and Forget 2 (UK) (1990).dsk</path>
@@ -596,6 +651,7 @@ In each of the five levels you need to blow your way to the front of the death c
 		<crc32>446C9055</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>FE449A0491294F1947290FFB884E7646</cheevosHash>
 	</game>
 	<game id="74402" source="ScreenScraper.fr">
 		<path>./Fly Spy (UK) (1986).dsk</path>
@@ -612,6 +668,7 @@ It also uses a Multi-Mode technique that allows you to mix graphic modes. The co
 		<crc32>2DD73002</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>35699FFFEAB207009DC20C894F44C0BE</cheevosHash>
 	</game>
 	<game id="35770" source="ScreenScraper.fr">
 		<path>./Galactic Plague (UK) (1984).dsk</path>
@@ -629,6 +686,7 @@ The player only has three lives and many players found this game to be extremely
 		<crc32>F04AF6F5</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>084720CB896A914AE7E2EA3D3D63B458</cheevosHash>
 	</game>
 	<game id="34744" source="ScreenScraper.fr">
 		<path>./Gauntlet 2 (US) (19xx).dsk</path>
@@ -645,6 +703,7 @@ The player only has three lives and many players found this game to be extremely
 		<crc32>D0E319BD</crc32>
 		<lang>en</lang>
 		<region>us</region>
+		<cheevosHash>A08A0F915022A99D97E9A21DD140CFE2</cheevosHash>
 	</game>
 	<game>
 		<path>./Get Dexter (UK,F,G) (1986).dsk</path>
@@ -661,6 +720,7 @@ There are obstacles to interact with, and foes to work around. Contact with thes
 		<publisher>Ere Informatique</publisher>
 		<lang>en,fr</lang>
 		<region>eu</region>
+		<cheevosHash>DB58B55C6E97904EF9FA9A47AE9BDC69</cheevosHash>
 	</game>
 	<game id="35739" source="ScreenScraper.fr">
 		<path>./Harrier Attack (UK) (1984).dsk</path>
@@ -677,6 +737,7 @@ There are obstacles to interact with, and foes to work around. Contact with thes
 		<crc32>79FBCC59</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>43BD546670F28FD5EF27A89ADE5CF8BA</cheevosHash>
 	</game>
 	<game id="35740" source="ScreenScraper.fr">
 		<path>./Harvey Headbanger (UK) (1986).dsk</path>
@@ -693,6 +754,7 @@ There are obstacles to interact with, and foes to work around. Contact with thes
 		<crc32>9B7DC4C8</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>BD1198588D87588FCCA6483773391C3A</cheevosHash>
 	</game>
 	<game id="34746" source="ScreenScraper.fr">
 		<path>./Head Over Heels (UK) (1987).dsk</path>
@@ -711,6 +773,7 @@ The game is presented from an isometric perspective, and presents the characters
 		<crc32>44547FA4</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>C8239D1EC14FD11BEBD2B9D4145D1D8D</cheevosHash>
 	</game>
 	<game id="74664" source="ScreenScraper.fr">
 		<path>./Heartland (UK) (1986).dsk</path>
@@ -729,6 +792,7 @@ There are six levels, all with distinctly cutesy themes and colourful graphics. 
 		<crc32>C8AEC0BE</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>0DE0C1AF5917F546843D4E9DB1EFBB61</cheevosHash>
 	</game>
 	<game id="74665" source="ScreenScraper.fr">
 		<path>./Heavy Metal (UK) (1990).dsk</path>
@@ -752,6 +816,7 @@ Performing useful actions in each mode, you'll gain points, and gathering 5,000 
 		<crc32>ED1320B8</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>C3E729A95BD4FCE6787ED6C8595DC9CD</cheevosHash>
 	</game>
 	<game id="35742" source="ScreenScraper.fr">
 		<path>./Heavy On The Magick (UK) (1986).dsk</path>
@@ -771,6 +836,7 @@ The lair is on many levels, and most rooms have multiple exits across the 8 comp
 		<crc32>F14DD98D</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>CCB520E07990858CDCAAFD79929C22D3</cheevosHash>
 	</game>
 	<game id="35078" source="ScreenScraper.fr">
 		<path>./Hero of the Golden Talisman (UK) (1986).dsk</path>
@@ -792,6 +858,7 @@ Power-ups can be collected to replenish health or air. If the hero runs out of a
 		<crc32>0DEC7DAC</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>844A528CEB6BAB53DDC8B9B9B37673AB</cheevosHash>
 	</game>
 	<game id="35351" source="ScreenScraper.fr">
 		<path>./Hero Quest (UK) (1991).dsk</path>
@@ -809,6 +876,7 @@ Strict turn-based movement rules apply, as actions other than movement can only 
 		<crc32>E538D741</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5B19843EF6194934798E5F11CFF55BFD</cheevosHash>
 	</game>
 	<game id="74679" source="ScreenScraper.fr">
 		<path>./Heroes of Karn (UK) (1985).dsk</path>
@@ -826,6 +894,7 @@ Heroes of Karn is an Interactive Fiction game with graphics and more unusually, 
 		<crc32>3F8CC329</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5CAD585E1027E9D2B5635DCE96BB410A</cheevosHash>
 	</game>
 	<game id="74685" source="ScreenScraper.fr">
 		<path>./Highway Encounter (UK) (1985).dsk</path>
@@ -843,6 +912,7 @@ The perspective and guidance concept are not the game's only original features; 
 		<crc32>49637637</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>F7D33D54AE22AC455537686C360FF880</cheevosHash>
 	</game>
 	<game id="34776" source="ScreenScraper.fr">
 		<path>./Hitchhiker's Guide to The Galaxy, The (UK) (1984).dsk</path>
@@ -859,6 +929,7 @@ The perspective and guidance concept are not the game's only original features; 
 		<crc32>9F8A3E05</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>56541A847A11A861137DCA7406707A29</cheevosHash>
 	</game>
 	<game id="34983" source="ScreenScraper.fr">
 		<path>./Hudson Hawk (UK) (1991).dsk</path>
@@ -875,6 +946,7 @@ The perspective and guidance concept are not the game's only original features; 
 		<crc32>1547BC60</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>DAD10EF5853B094FB9B777102D81231B</cheevosHash>
 	</game>
 	<game id="34739" source="ScreenScraper.fr">
 		<path>./Ikari Warriors (UK) (1986).dsk</path>
@@ -891,6 +963,8 @@ The perspective and guidance concept are not the game's only original features; 
 		<crc32>F426EEBA</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5E942D63C7F83A3FCD7D42410CDF1A43</cheevosHash>
+		<cheevosId>15546</cheevosId>
 	</game>
 	<game id="35725" source="ScreenScraper.fr">
 		<path>./Impossaball (UK) (1986).dsk</path>
@@ -907,6 +981,7 @@ The perspective and guidance concept are not the game's only original features; 
 		<crc32>2F081C59</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>7F0390A106C1E175365CC83D045A7FA3</cheevosHash>
 	</game>
 	<game>
 		<path>./Impossible Mission 2 (UK) (1988).dsk</path>
@@ -921,6 +996,7 @@ The perspective and guidance concept are not the game's only original features; 
 		<publisher>U.S. Gold</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>959E3FE2C309EA1B55E33F760EBBC89C</cheevosHash>
 	</game>
 	<game id="74797" source="ScreenScraper.fr">
 		<path>./Iron Man (UK) (1990).dsk</path>
@@ -940,6 +1016,7 @@ Only your off-road driving abilities will be enough to pull you to first place i
 		<crc32>FF9099A1</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>DE24736265231AAF2C779D0A956EF6DD</cheevosHash>
 	</game>
 	<game id="74828" source="ScreenScraper.fr">
 		<path>./Jet Set Willy (UK) (1985).dsk</path>
@@ -953,6 +1030,8 @@ Only your off-road driving abilities will be enough to pull you to first place i
 		<crc32>2B32AB1B</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>94F750A0449F41D6273C20649CE9BD08</cheevosHash>
+		<cheevosId>18815</cheevosId>
 	</game>
 	<game id="35685" source="ScreenScraper.fr">
 		<path>./Knight Tyme (UK) (1986).dsk</path>
@@ -971,6 +1050,7 @@ Knight Tyme is the third game of the Magic Knight series. As in Spellbound, the 
 		<crc32>5BE2B549</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>EDCA06839829FAD80B69789EC349E1F9</cheevosHash>
 	</game>
 	<game id="35692" source="ScreenScraper.fr">
 		<path>./Lasersquad (UK,F) (1989).dsk</path>
@@ -991,6 +1071,7 @@ There are 3 missions in turn - in The Assassins you must face down Sterner Regni
 		<crc32>D06412F8</crc32>
 		<lang>en,fr</lang>
 		<region>eu</region>
+		<cheevosHash>6A46E13CD87499563C9B5596D7F0963C</cheevosHash>
 	</game>
 	<game id="35201" source="ScreenScraper.fr">
 		<path>./Lotus Esprit Turbo Challenge (UK) (1990).dsk</path>
@@ -1011,6 +1092,7 @@ You can choose between sound effects or one of a variety of music pieces. The ga
 		<crc32>1A05B8E6</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>F4204CC448E0B149D18B4901060052D5</cheevosHash>
 	</game>
 	<game id="34914" source="ScreenScraper.fr">
 		<path>./Lurking Horror, The (UK) (1987).dsk</path>
@@ -1029,6 +1111,7 @@ In The Lurking Horror, you are a student at G.U.E. Tech. You have braved a snows
 		<crc32>5E0456FA</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>3DA7E64A23B9F2FD542222D4CFFFE905</cheevosHash>
 	</game>
 	<game id="35683" source="ScreenScraper.fr">
 		<path>./Marsport (UK) (1985).dsk</path>
@@ -1049,6 +1132,7 @@ The Marsport is split into ten distinct sections with their own functions, such 
 		<crc32>F3E97791</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>6194994EDCB6BE4A10DC7AB7B1037420</cheevosHash>
 	</game>
 	<game id="75459" source="ScreenScraper.fr">
 		<path>./Mr. Freeze (UK) (1984).dsk</path>
@@ -1063,6 +1147,7 @@ The Marsport is split into ten distinct sections with their own functions, such 
 		<crc32>7695B135</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>305AD4516C9DA9B942C01B6BD33975A8</cheevosHash>
 	</game>
 	<game id="35637" source="ScreenScraper.fr">
 		<path>./Myth (UK) (1989).dsk</path>
@@ -1085,6 +1170,7 @@ Some obstacles in the game require not only brute force, but also a bit of think
 		<crc32>FDE64959</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5E99B24458EFA1C5EF7CCBB08D66E0A3</cheevosHash>
 	</game>
 	<game id="35030" source="ScreenScraper.fr">
 		<path>./Nebulus (UK) (1988).dsk</path>
@@ -1102,6 +1188,7 @@ Nebulus was followed by a lesser-known sequel, Nebulus 2, on the Amiga in the 19
 		<crc32>25ABD4EF</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>F7521A08A0D41A2E242B6372579BF5AF</cheevosHash>
 	</game>
 	<game id="35638" source="ScreenScraper.fr">
 		<path>./Netherworld (UK) (1988).dsk</path>
@@ -1119,6 +1206,7 @@ Your space ship is able to shoot, furthermore you can collect several power ups,
 		<crc32>C3A2FEEF</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>C9857BB69FEF9FA5A21598DC3D3691A2</cheevosHash>
 	</game>
 	<game id="35640" source="ScreenScraper.fr">
 		<path>./Nigel Mansell's Grand Prix (UK) (1988).dsk</path>
@@ -1139,6 +1227,7 @@ F1 cars of this era have turbo boosts, and this is available in the game to prov
 		<crc32>161BD065</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>7F4CD443778EF1248CCC772374DC2415</cheevosHash>
 	</game>
 	<game id="35319" source="ScreenScraper.fr">
 		<path>./North Star (UK) (1988).dsk</path>
@@ -1159,6 +1248,7 @@ What this entails is essentially a case of walking from left to right taking out
 		<crc32>64C1FB4A</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>19216F15938816A44AF10D8DCE8D63EA</cheevosHash>
 	</game>
 	<game id="34954" source="ScreenScraper.fr">
 		<path>./Oh Mummy (UK) (1984).dsk</path>
@@ -1177,6 +1267,7 @@ In this game you play an archaeologist, and mummies are after you. You have to r
 		<crc32>F877CC81</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>AD394E42B36CE6F22F068A423ACA0BD3</cheevosHash>
 	</game>
 	<game id="35328" source="ScreenScraper.fr">
 		<path>./Pang (UK) (19xx).dsk</path>
@@ -1197,6 +1288,7 @@ You can also pick up power-ups such as: the ability to fire two shots at once, t
 		<crc32>EC601346</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>899C585E8BBD2CB1F3450243B4D8DAB4</cheevosHash>
 	</game>
 	<game id="34775" source="ScreenScraper.fr">
 		<path>./Paperboy (UK) (1987).dsk</path>
@@ -1213,6 +1305,7 @@ You can also pick up power-ups such as: the ability to fire two shots at once, t
 		<crc32>C3625F32</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>8F50315FBF0DA8F085C9BFF7E6C81021</cheevosHash>
 	</game>
 	<game id="34979" source="ScreenScraper.fr">
 		<path>./Paperboy 2 (UK) (1991).dsk</path>
@@ -1229,6 +1322,7 @@ You can also pick up power-ups such as: the ability to fire two shots at once, t
 		<crc32>28065D00</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>303A35F88D819632B362B01D0B1E23CF</cheevosHash>
 	</game>
 	<game id="35609" source="ScreenScraper.fr">
 		<path>./Power Drift (UK) (1989).dsk</path>
@@ -1251,6 +1345,7 @@ Finish all 5 stages in a level and youll be presented with a bonus level.</desc>
 		<crc32>848FEF02</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>1FCC2B7166CE33CCDB155D019944EB77</cheevosHash>
 	</game>
 	<game id="34831" source="ScreenScraper.fr">
 		<path>./Prehistorik (UK) (1991).dsk</path>
@@ -1271,6 +1366,7 @@ You will have to complete the level within the time limit, and avoid contact wit
 		<crc32>D8DC5D1B</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B38F8C1DEE58A2F1AE8D0F1E298A10D5</cheevosHash>
 	</game>
 	<game id="34890" source="ScreenScraper.fr">
 		<path>./Prehistorik 2 (UK,F,G) (1993).dsk</path>
@@ -1291,6 +1387,7 @@ There are bosses and passwords after every few levels. The Amstrad version is on
 		<crc32>68C1060B</crc32>
 		<lang>en,fr</lang>
 		<region>eu</region>
+		<cheevosHash>52C6951032846571F8A43E233CA83F13</cheevosHash>
 	</game>
 	<game id="35596" source="ScreenScraper.fr">
 		<path>./Purple Saturn Day (UK) (1989).dsk</path>
@@ -1309,6 +1406,7 @@ Although not an official entry in the series, this game is in the same vein as E
 		<crc32>4A848C11</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>ED93FFFDD7B79F219167733069D40C51</cheevosHash>
 	</game>
 	<game id="35583" source="ScreenScraper.fr">
 		<path>./Ranarama (UK) (1988).dsk</path>
@@ -1331,6 +1429,7 @@ This earns up to four of the Runes (Mysticism, Witchcraft, Magecraft and Runecra
 		<crc32>5622BED3</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>D5C6C7276074F2EFBBB20C815383D0D5</cheevosHash>
 	</game>
 	<game>
 		<path>./Rasputin (UK) (1986).dsk</path>
@@ -1350,6 +1449,7 @@ The game world consists of a series of rooms which may or may not have anything 
 		<publisher>Firebird Software</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>34F6AC20BCD46DF454FE887DC540B968</cheevosHash>
 	</game>
 	<game id="76037" source="ScreenScraper.fr">
 		<path>./Red Led (UK) (1987).dsk</path>
@@ -1363,6 +1463,7 @@ The game world consists of a series of rooms which may or may not have anything 
 		<crc32>28BC1AB0</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B02B601D233D49BEC84A228520B6B54D</cheevosHash>
 	</game>
 	<game>
 		<path>./Rick Dangerous 2 (UK) (1990).dsk</path>
@@ -1379,6 +1480,7 @@ Rick can climb ladders and crawl through tight spaces. He is equipped with a las
 		<publisher>MicroStyle</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>A5055FC80DD7C8B636C81AFCE2FC3923</cheevosHash>
 	</game>
 	<game>
 		<path>./RoboCop (UK) (1987).dsk</path>
@@ -1395,6 +1497,7 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
 		<publisher>Ocean</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>922B292D5D46338B2347830DC0271712</cheevosHash>
 	</game>
 	<game id="35763" source="ScreenScraper.fr">
 		<path>./Roland on the Ropes (UK) (1985).dsk</path>
@@ -1410,6 +1513,7 @@ Based on the 1987 movie of the same name, RoboCop allows the player to control R
 		<crc32>4EDDB979</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>AB2C4839937ED838AC58D8B0A5E43EF4</cheevosHash>
 	</game>
 	<game id="76437" source="ScreenScraper.fr">
 		<path>./Seabase Delta (UK) (1985).dsk</path>
@@ -1428,6 +1532,7 @@ This game picks up from that point. The enemy have intercepted the message and, 
 		<crc32>DE307716</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>3F2ABFD49586F3F92B23AAA5CB70A101</cheevosHash>
 	</game>
 	<game id="35090" source="ScreenScraper.fr">
 		<path>./Smash TV (UK) (1991).dsk</path>
@@ -1446,6 +1551,7 @@ Smash T.V. is an insane shoot-em-up from the brain of Eugene Jarvis, creator of 
 		<crc32>8FA71A8E</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>8D8B02765C9924B0D9ECF5BFA57E37BB</cheevosHash>
 	</game>
 	<game id="34764" source="ScreenScraper.fr">
 		<path>./Sorcery (UK) (1985).dsk</path>
@@ -1464,6 +1570,7 @@ The player must fly through 17 screens including wastelands, a river and the woo
 		<crc32>077376AA</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>9307F4ABB43B2EDA7B505C472BDDBFB2</cheevosHash>
 	</game>
 	<game id="34863" source="ScreenScraper.fr">
 		<path>./Sorcery Plus (UK) (1985).dsk</path>
@@ -1479,6 +1586,7 @@ The player must fly through 17 screens including wastelands, a river and the woo
 		<crc32>64B3B65D</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>7D1410AFAEF215191DAAD91CAA104718</cheevosHash>
 	</game>
 	<game id="35183" source="ScreenScraper.fr">
 		<path>./Space Crusade (E) (1990).dsk</path>
@@ -1497,6 +1605,7 @@ The game is a literal conversion of the board game in the same vein as Gremlin's
 		<crc32>B4EDA1E7</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>DFC6F1E53D7E39825C6BB0D04AD7B1F8</cheevosHash>
 	</game>
 	<game>
 		<path>./Spindizzy (UK) (1986).dsk</path>
@@ -1514,6 +1623,7 @@ Gerald must collect energy crystals throughout his journey - which can also be s
 		<players>2</players>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>3BFB3C3AF922B7FA92032ADE0A2F0750</cheevosHash>
 	</game>
 	<game id="35533" source="ScreenScraper.fr">
 		<path>./Star Glider (UK) (1987).dsk</path>
@@ -1536,6 +1646,7 @@ Repair depots must be visited frequently, as they can refill the weapon bays as 
 		<crc32>3A3F1A37</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>810E015B1850C04512F7EF9313687A33</cheevosHash>
 	</game>
 	<game id="35290" source="ScreenScraper.fr">
 		<path>./Starstrike 2 (UK) (1986).dsk</path>
@@ -1556,6 +1667,7 @@ The combat is intense, and aims to create the likely feel of space combat, with 
 		<crc32>BE464A4A</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>55AB3056CE70DDBF7C119FA480A460BC</cheevosHash>
 	</game>
 	<game id="35175" source="ScreenScraper.fr">
 		<path>./Stormlord (UK) (1989).dsk</path>
@@ -1574,6 +1686,7 @@ As you progress through the levels of platform-adventure action, you will come a
 		<crc32>810B6CCA</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>0168B8589CFD5A4667A9CD5C71D050C8</cheevosHash>
 	</game>
 	<game id="35286" source="ScreenScraper.fr">
 		<path>./Strike Force Cobra (UK) (1986).dsk</path>
@@ -1592,6 +1705,7 @@ Your team of four members of varying nationalities is chosen from a pool of 8, e
 		<crc32>1045062C</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>34D4751C8C2001ED5ADF6A4BE10A7397</cheevosHash>
 	</game>
 	<game id="35178" source="ScreenScraper.fr">
 		<path>./Strike Force Harrier (UK) (1986).dsk</path>
@@ -1610,6 +1724,7 @@ Acquiring a lock on enemy planes and tanks is made easier by the advanced target
 		<crc32>954C4107</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>2A45A42617C8901521B684F498397B72</cheevosHash>
 	</game>
 	<game id="35179" source="ScreenScraper.fr">
 		<path>./Striker - In The Crypt of Trogan (UK) (1992).dsk</path>
@@ -1627,6 +1742,7 @@ The Amstrad version adds a silhouetted backdrop (similar to that in the C64 vers
 		<crc32>FCB5807D</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>38F2937B89CFBE45D184261C51867B29</cheevosHash>
 	</game>
 	<game id="35060" source="ScreenScraper.fr">
 		<path>./Stunt Car Racer (UK) (1990).dsk</path>
@@ -1642,6 +1758,7 @@ The Amstrad version adds a silhouetted backdrop (similar to that in the C64 vers
 		<crc32>72FB6F79</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>6EFCA295CA579D7FD35BAE0DC96DD57F</cheevosHash>
 	</game>
 	<game id="76691" source="ScreenScraper.fr">
 		<path>./Sub Sunk (UK) (1985).dsk</path>
@@ -1655,6 +1772,7 @@ The Amstrad version adds a silhouetted backdrop (similar to that in the C64 vers
 		<crc32>B285E527</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>D9E88CB2A2A9FFE194DE444D71E97CFA</cheevosHash>
 	</game>
 	<game id="76699" source="ScreenScraper.fr">
 		<path>./Sultan_s Maze (UK) (1984).dsk</path>
@@ -1673,6 +1791,7 @@ Sultan's Maze is a primitive 3D adventure well known to enthusiasts of the Amstr
 		<crc32>47A15C55</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>3BBC03B26C01EA0BB898363E9BF7C959</cheevosHash>
 	</game>
 	<game id="35174" source="ScreenScraper.fr">
 		<path>./Switchblade (UK) (1990).dsk</path>
@@ -1691,6 +1810,7 @@ The gameplay is platform and ladders based, set both inside and outside. The lay
 		<crc32>335B3D7D</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>16DCEC6247E37A745FA8DF854E89FB33</cheevosHash>
 	</game>
 	<game id="35005" source="ScreenScraper.fr">
 		<path>./Tau Ceti (UK) (1986).dsk</path>
@@ -1706,6 +1826,7 @@ The gameplay is platform and ladders based, set both inside and outside. The lay
 		<crc32>50D102CF</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>A3EE9E7676B26213EA2E4148892C82DD</cheevosHash>
 	</game>
 	<game id="35493" source="ScreenScraper.fr">
 		<path>./Thrust (UK) (1986).dsk</path>
@@ -1724,6 +1845,7 @@ As a Resistance fighter, the player must fly into enemy lines in order to steal 
 		<crc32>D94CFCAE</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5122D63522E76F0D982F34004CD8E9EC</cheevosHash>
 	</game>
 	<game id="76821" source="ScreenScraper.fr">
 		<path>./Thrust 2 (UK) (1986).dsk</path>
@@ -1737,6 +1859,7 @@ As a Resistance fighter, the player must fly into enemy lines in order to steal 
 		<crc32>7B54CA61</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>55BBC52F0A4F0E9A024783537A78B36C</cheevosHash>
 	</game>
 	<game id="76845" source="ScreenScraper.fr">
 		<path>./Titus the Fox (UK) (1992).dsk</path>
@@ -1755,6 +1878,7 @@ There are secret rooms to find, and bosses at the end of each level. The player 
 		<crc32>C8A213AA</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>DFDFCC25BC0E94BB5EFFF068EFD0A281</cheevosHash>
 	</game>
 	<game id="35481" source="ScreenScraper.fr">
 		<path>./Tomahawk (UK,F,G) (1986).dsk</path>
@@ -1773,6 +1897,7 @@ You are armed with cannons, rockets and anti-tank missiles, each of which has it
 		<crc32>0346C14C</crc32>
 		<lang>en,fr</lang>
 		<region>eu</region>
+		<cheevosHash>AB3A3FA9938DD24A2DE11956C3F70333</cheevosHash>
 	</game>
 	<game id="35482" source="ScreenScraper.fr">
 		<path>./Total Eclipse (UK) (1988).dsk</path>
@@ -1791,6 +1916,7 @@ A pyramid has been built to destroy anything that blocks the sun and now a total
 		<crc32>5B34894F</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>9A8E16D59BBE27C9D502685D68327577</cheevosHash>
 	</game>
 	<game id="76869" source="ScreenScraper.fr">
 		<path>./Total Eclipse 2 - Sphinx Jinx (UK) (1989).dsk</path>
@@ -1804,6 +1930,7 @@ A pyramid has been built to destroy anything that blocks the sun and now a total
 		<crc32>B3A7BE71</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>9F1C40D5E0BB161DEF3BE878C72B0495</cheevosHash>
 	</game>
 	<game>
 		<path>./Total Recall (UK) (1991).dsk</path>
@@ -1820,6 +1947,7 @@ Some of the levels differ in gameplay, and range between action and driving scen
 		<publisher>Ocean Software Ltd.</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>13BA3115B72E95DA6845C1CA44615403</cheevosHash>
 	</game>
 	<game id="35460" source="ScreenScraper.fr">
 		<path>./Way of the Exploding Fist, The (UK) (1985).dsk</path>
@@ -1840,6 +1968,7 @@ To win each bout you must score 2 Yin-Yangs - a perfectly executed kick/punch sc
 		<crc32>3AE32B72</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>5AB8C032479E7D1D76F8CDEBB26415E3</cheevosHash>
 	</game>
 	<game id="72410" source="ScreenScraper.fr">
 		<path>./Wild Bunch, The (UK) (1985).dsk</path>
@@ -1853,6 +1982,7 @@ To win each bout you must score 2 Yin-Yangs - a perfectly executed kick/punch sc
 		<crc32>C0FBFA43</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>FD414AACCB5DC24AC72A003BF09FEE74</cheevosHash>
 	</game>
 	<game id="34879" source="ScreenScraper.fr">
 		<path>./Wizball (UK) (1987).dsk</path>
@@ -1875,6 +2005,7 @@ The game also features a bunch of multi-player modes, there's even a two-player 
 		<crc32>7C6ED5BF</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>19FC127ECE25127A87B3F54A9A6C4868</cheevosHash>
 	</game>
 	<game id="34904" source="ScreenScraper.fr">
 		<path>./Xor (UK) (1987).dsk</path>
@@ -1895,6 +2026,7 @@ The physical rules of this top-down maze are somewhat bizarre, but consistent: d
 		<crc32>258CA26A</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>7BE0A64129CF45B55DB5D0D9B0D27724</cheevosHash>
 	</game>
 	<game id="35448" source="ScreenScraper.fr">
 		<path>./Yie Ar Kung Fu (UK) (1985).dsk</path>
@@ -1911,6 +2043,7 @@ The physical rules of this top-down maze are somewhat bizarre, but consistent: d
 		<crc32>9A0CDEFB</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>07CDF3D36DB91102BB7CBE176D64C737</cheevosHash>
 	</game>
 	<game id="35164" source="ScreenScraper.fr">
 		<path>./Yie Ar Kung Fu 2 (UK) (1986).dsk</path>
@@ -1927,6 +2060,7 @@ The physical rules of this top-down maze are somewhat bizarre, but consistent: d
 		<crc32>519CFAF7</crc32>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>C83EDD7F98ECA33D38103C4B21E9DC27</cheevosHash>
 	</game>
 	<game id="77181" source="ScreenScraper.fr">
 		<path>./Zub (UK) (1986).dsk</path>
@@ -1945,26 +2079,7 @@ Zub must ride the intergalactic elevators to reach other planets and continue th
 		<crc32>6D2340C7</crc32>
 		<lang>en</lang>
 		<region>eu</region>
-	</game>
-	<game id="34699" source="ScreenScraper.fr">
-		<path>./Elite (F) (1986).dsk</path>
-		<name>Elite</name>
-		<desc>Elite is a free-form space trading and combat simulation, commonly considered the progenitor of this sub-genre. The player initially controls a character referred to as "Commander Jameson", starting at Lave Station with 100 credits and a lightly armed trading ship called Cobra Mark III. Most of the game consists of traveling to various star systems, trading with their inhabitants, gaining money and reputation. Money can also be gained by other means beside trading; these include undertaking military missions, bounty hunting, asteroid mining, and even piracy. As the player character earns money, he becomes able to upgrade his ships with enhancements such as better weapons, shields, increased cargo capacity, an automated docking system, etc.
-
-The game utilizes pseudo-3D wire-frame graphics; its world is viewed from a first-person perspective. It has no overarching story, though a race known as Thargoids play the role of antagonists: their ships will often attack the player-controlled ship, forcing the player to engage in space combat. Combat is action-oriented, taking place in the same environment as the exploration. The player must use various weapons the ship is equipped with, as well as manoeuvre the ship, trying to dodge enemy attacks. The player can also choose to attack neutral ships; doing so will decrease the protagonist's reputation, eventually attracting the attention of the galactic police.
-
-Elite is notable for its expansive game world, consisting of eight galaxies and 256 planets. The player is free to travel to any of these planets, provided his ship has enough fuel for the trip (the ship's fuel capacity is limited for a journey to the distance of seven light years).</desc>
-		<image>./mixart/Elite (F) (1986).png</image>
-		<video>./snap/Elite (F) (1986).mp4</video>
-		<marquee>./wheel/Elite (F) (1986).png</marquee>
-		<rating>0.55</rating>
-		<releasedate>19860101T000000</releasedate>
-		<developer>David Braben</developer>
-		<publisher>Firebird Software</publisher>
-		<players>1</players>
-		<crc32>9D30AA0C</crc32>
-		<lang>fr</lang>
-		<region>eu</region>
+		<cheevosHash>89F463DA0E15DED3F743390DE961A2BB</cheevosHash>
 	</game>
 	<game>
 		<path>./180 Darts (UK) (1986).dsk</path>
@@ -1984,5 +2099,6 @@ The dart boards are seen from a 1st person perspective shown on the whole screen
 		<players>2</players>
 		<lang>en</lang>
 		<region>eu</region>
+		<cheevosHash>B6A0E711CB8FD71666A10E5D9E586E2A</cheevosHash>
 	</game>
 </gameList>

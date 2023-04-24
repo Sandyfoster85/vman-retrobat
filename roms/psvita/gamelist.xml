@@ -574,20 +574,6 @@ Purchasing this content entitles you to both the PS3 system and PS Vita system v
 		<md5>f83d7507c8451b2ac2be10254710c1bb</md5>
 		<lang>en</lang>
 	</game>
-	<game id="30502">
-		<path>./Metal Slug 3.cmd</path>
-		<name>Metal Slug 3</name>
-		<image>./mixart/Metal Slug 3.jpg</image>
-		<video>./snap/Metal Slug 3.mp4</video>
-		<marquee>./wheel/Metal Slug 3.png</marquee>
-		<developer>DotEmu</developer>
-		<publisher>SNK</publisher>
-		<genre>Shooter / Run and Gun</genre>
-		<family>Metal Slug</family>
-		<players>2</players>
-		<md5>1486dccc667db30cc209d98cba4a6a7f</md5>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Monster Monpiece.cmd</path>
 		<name>Monster Monpiece</name>
@@ -2148,22 +2134,6 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Age of Zombies.cmd</path>
-		<name>Age of Zombies</name>
-		<desc>Age of Zombies is a game where the hero, Barry Steakfries, employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs.</desc>
-		<image>./mixart/Age of Zombies.jpg</image>
-		<video>./snap/Age of Zombies.mp4</video>
-		<marquee>./wheel/Age of Zombies.png</marquee>
-		<releasedate>20140114T000000</releasedate>
-		<developer>Halfbrick Studios</developer>
-		<publisher>TBC</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./10 Second Ninja X.cmd</path>
 		<name>10 Second Ninja X</name>
 		<desc>10 SECOND NINJA X is a blisteringly fast, satisfyingly difficult and surprisingly methodical sidescroller which tasks you with completing each level in ten seconds or less. No lengthy checkpoint gaps. No cluttered control scheme. No hand holding. Get that three star rating, yo! You got this. 1 star. Again. 1 star. Again. 2 stars! Again. Back to 1 star. DAMN IT. Again... 100 levels including all 40 original 10 Second Ninja levels remastered in HD. Individual leaderboards for each level. Unlockables and collectibles.</desc>
@@ -2190,6 +2160,36 @@ Challenge yourself ! Make it to the final stage of the Phoenix Festa tournament.
 		<genre>Action, Shooter</genre>
 		<favorite>true</favorite>
 		<md5>ba9d387db4749fb1637a8e004b713229</md5>
+		<lang>en</lang>
+	</game>
+	<game id="30502">
+		<path>./Metal Slug 3.cmd</path>
+		<name>Metal Slug 3</name>
+		<image>./mixart/Metal Slug 3.jpg</image>
+		<video>./snap/Metal Slug 3.mp4</video>
+		<marquee>./wheel/Metal Slug 3.png</marquee>
+		<developer>DotEmu</developer>
+		<publisher>SNK</publisher>
+		<genre>Shooter / Run and Gun</genre>
+		<family>Metal Slug</family>
+		<players>2</players>
+		<md5>1486dccc667db30cc209d98cba4a6a7f</md5>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Age of Zombies.cmd</path>
+		<name>Age of Zombies</name>
+		<desc>Age of Zombies is a game where the hero, Barry Steakfries, employs the use of time portals to stop the evil zombie scheme of Professor Brains. Using a huge pile of weapons and explosives, Steakfries is the real deal for blood-splattering needs.</desc>
+		<image>./mixart/Age of Zombies.jpg</image>
+		<video>./snap/Age of Zombies.mp4</video>
+		<marquee>./wheel/Age of Zombies.png</marquee>
+		<releasedate>20140114T000000</releasedate>
+		<developer>Halfbrick Studios</developer>
+		<publisher>TBC</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>951d272f60fd082e642efa4dfaa612fd</md5>
 		<lang>en</lang>
 	</game>
 </gameList>

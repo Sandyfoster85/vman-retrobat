@@ -1499,39 +1499,6 @@ Congo Bongo's gameplay is similar that of Donkey Kong and Frogger, but levels ar
 		<cheevosHash>F1FA565352F9BFB760B1D80929955548</cheevosHash>
 	</game>
 	<game>
-		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
-		<name>Buck Rogers - Planet Of Zoom</name>
-		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
-		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
-		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19700101T000000</releasedate>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
-	</game>
-	<game>
-		<path>./Jumpman Junior (USA).zip</path>
-		<name>Jumpman Junior</name>
-		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
-
-Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
-		<image>./mixart/Jumpman Junior (USA).png</image>
-		<video>./snap/Jumpman Junior (USA).mp4</video>
-		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19841201T000000</releasedate>
-		<developer>Epyx</developer>
-		<publisher>Epyx</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
-		<cheevosId>6339</cheevosId>
-	</game>
-	<game>
 		<path>./Venture (USA, Europe).zip</path>
 		<name>Venture</name>
 		<desc>Venture is an action game in which you control Winky, the heroic adventurer. Your goal is to collect as many treasures as you can which are scattered throughout numerous dungeons. In each dungeon, there are several chambers which each contain a treasure. Armed only with your crossbow, you need to get past the varied creatures which guard the chamber, snag the treasure, and make it out again. When you collect the treasure from each of the chambers in a dungeon, you can then move on to the next, more difficult dungeon</desc>
@@ -1553,7 +1520,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Victory (USA, Europe).png</image>
 		<video>./snap/Victory (USA, Europe).mp4</video>
 		<marquee>./wheel/Victory (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>E1522F2701F5F55580866D35E1794E5E</cheevosHash>
@@ -1564,7 +1531,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/War Games (USA, Europe).png</image>
 		<video>./snap/War Games (USA, Europe).mp4</video>
 		<marquee>./wheel/War Games (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 		<cheevosHash>A2B0CCD7EA648C3E5F3F750E9254F972</cheevosHash>
@@ -1575,7 +1542,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/War Room (USA).png</image>
 		<video>./snap/War Room (USA).mp4</video>
 		<marquee>./wheel/War Room (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>87B0DF17528E35B68FE0D839701132C3</cheevosHash>
@@ -1586,7 +1553,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Wing War (USA).png</image>
 		<video>./snap/Wing War (USA).mp4</video>
 		<marquee>./wheel/Wing War (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>35F537368236774C2E9D05B3048DE6CA</cheevosHash>
@@ -1597,7 +1564,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Wizard of Id's Wizmath (USA).png</image>
 		<video>./snap/Wizard of Id's Wizmath (USA).mp4</video>
 		<marquee>./wheel/Wizard of Id's Wizmath (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>3B22824D1910226582A5D8DDDC0B2FEB</cheevosHash>
@@ -1608,7 +1575,7 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Word Feud (USA).png</image>
 		<video>./snap/Word Feud (USA).mp4</video>
 		<marquee>./wheel/Word Feud (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>E8E11C2EB60CECBCFCC9547CF85003F7</cheevosHash>
@@ -1635,11 +1602,44 @@ Your strategy is important, analyze each screen before you begin, but don't take
 		<image>./mixart/Zenji (USA).png</image>
 		<video>./snap/Zenji (USA).mp4</video>
 		<marquee>./wheel/Zenji (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Activision</developer>
 		<publisher>Activision</publisher>
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>5595DC8ACC25F51AAED0D72BBB96E68B</cheevosHash>
+	</game>
+	<game>
+		<path>./Jumpman Junior (USA).zip</path>
+		<name>Jumpman Junior</name>
+		<desc>The ALIENATORS are back! And they have overrun the Jupiter Command Substation. It's up to Jumpman Junior with his speed and jumping ability, to defuse the bombs planted throughout the twelve levels.
+
+Your strategy is important, analyze each screen before you begin, but don't take too long, the more quickly you clear the screen the more bonus points you get. Maneuver up and down the ladders, ropes, and dumbwaiters. Watch out for the electrocution traps, moving walls, hellstones and the ever present enemy bullets. If you think you can handle all that, be prepared for the hurricane winds that blow you off course every time you jump. Jumpman Junior, the cartridge sequel to Jumpman, has twelve exciting screens waiting for you. Can you master them all?</desc>
+		<image>./mixart/Jumpman Junior (USA).png</image>
+		<video>./snap/Jumpman Junior (USA).mp4</video>
+		<marquee>./wheel/Jumpman Junior (USA).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19841201T000000</releasedate>
+		<developer>Epyx</developer>
+		<publisher>Epyx</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>5454538F617F2CCF56CB7E0F5A45D11B</cheevosHash>
+		<cheevosId>6339</cheevosId>
+	</game>
+	<game>
+		<path>./Buck Rogers - Planet Of Zoom (USA, Europe).zip</path>
+		<name>Buck Rogers - Planet Of Zoom</name>
+		<image>./mixart/Buck Rogers - Planet Of Zoom (USA, Europe).png</image>
+		<video>./snap/Buck Rogers - Planet Of Zoom (USA, Europe).mp4</video>
+		<marquee>./wheel/Buck Rogers - Planet Of Zoom (USA, Europe).png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19700101T000000</releasedate>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>F2065DECC9DABC889C6C59D4CC536143</cheevosHash>
 	</game>
 </gameList>

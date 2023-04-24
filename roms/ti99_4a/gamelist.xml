@@ -512,15 +512,6 @@
 		<cheevosHash>6D2D207E341F2CE9E16CDAA0D2FF1121</cheevosHash>
 	</game>
 	<game>
-		<path>./popeye.zip</path>
-		<name>Popeye</name>
-		<image>./mixart/Popeye.png</image>
-		<video>./snap/Popeye.mp4</video>
-		<marquee>./wheel/Popeye.png</marquee>
-		<lang>en</lang>
-		<cheevosHash>0C1CFF98FA277B1739E9B7D22AA4A369</cheevosHash>
-	</game>
-	<game>
 		<path>./prfrog.zip</path>
 		<name>Princess and Frog</name>
 		<image>./mixart/Princess and Frog.png</image>
@@ -802,5 +793,15 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>FD1F91A3B37ED2631DB1AAC0FE548C6E</cheevosHash>
+	</game>
+	<game>
+		<path>./popeye.zip</path>
+		<name>Popeye</name>
+		<image>./mixart/Popeye.png</image>
+		<video>./snap/Popeye.mp4</video>
+		<marquee>./wheel/Popeye.png</marquee>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>0C1CFF98FA277B1739E9B7D22AA4A369</cheevosHash>
 	</game>
 </gameList>
