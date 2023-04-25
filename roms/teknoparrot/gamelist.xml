@@ -1141,23 +1141,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./FNFSB2.parrot</path>
-		<name>Fast and the Furios Super Bikes 2, The</name>
-		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
-		<image>./mixart/FNFSB2.png</image>
-		<video>./snap/FNFSB2.mp4</video>
-		<marquee>./wheel/FNFSB2.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20100101T000000</releasedate>
-		<developer>Raw Thrills PC Based</developer>
-		<publisher>Raw Thrills PC Based</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Daytona3.parrot</path>
 		<name>Daytona 3 / Daytona Championship</name>
 		<desc>Daytona Championship USA is the holy grail of arcade racing - First launched in 1993, this brand new entry brings Sega’s #1 racer screeching into the 21st century! Daytona Championship USA features three brand new tracks including a recreation of the newly renovated DAYTONA International Speedway! In addition, the original three classic courses have been remastered for the modern era. New game features include a live camera feed so you can enjoy maximum bragging rights as you overtake your friends! Brand new to Daytona Championship USA is the ‘Live TV’ inspired video billboard. This brand new feature allows spectators to see what’s happening in the race, whether it’s a crash, a pass for position or to find out who’s winning or losing! Have you got what it takes to take the flag again.... because DAYTONA is back!</desc>
@@ -2118,6 +2101,23 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<releasedate>20191201T000000</releasedate>
 		<developer>Sega</developer>
 		<publisher>Sega</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./FNFSB2.parrot</path>
+		<name>Fast and the Furios Super Bikes 2, The</name>
+		<desc>Race through Moab as fighter jets attack UFOs, descend into the haunted catacombs of Paris, and dodge giant worms in hyperspace. Escape elephants in the jungles of Thailand, jump through the flaming hoops of Vegas, run with the bulls in Spain and cruise through the unbelievable snow-covered mountaintops of the Himalayas. Choose from 9 riders and 12 bikes with multiple tricked-out upgrades for engines, decals, tires and more!</desc>
+		<image>./mixart/FNFSB2.png</image>
+		<video>./snap/FNFSB2.mp4</video>
+		<marquee>./wheel/FNFSB2.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20100101T000000</releasedate>
+		<developer>Raw Thrills PC Based</developer>
+		<publisher>Raw Thrills PC Based</publisher>
 		<genre>Racing</genre>
 		<players>1</players>
 		<favorite>true</favorite>

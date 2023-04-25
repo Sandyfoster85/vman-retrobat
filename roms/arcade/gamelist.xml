@@ -26674,23 +26674,6 @@ Depthcharge was one of the early video games. Action was simple. This game also 
 		<cheevosHash>112EDB769E3319F8F48083F9325E85AB</cheevosHash>
 	</game>
 	<game>
-		<path>./devstors.zip</path>
-		<name>Devastators</name>
-		<desc>Devastators is an early third-person shooter. Up to two players can take control of Rambo-style mercenaries with mullets.</desc>
-		<image>./mixart/devstors.png</image>
-		<video>./snap/devstors.mp4</video>
-		<marquee>./wheel/devstors.png</marquee>
-		<rating>0.4</rating>
-		<releasedate>19880101T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Shooter-Shooter / 3rd person</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>272EEB9E020D53DF65F91E92C009D683</cheevosHash>
-	</game>
-	<game>
 		<path>./devzone.zip</path>
 		<name>Devil Zone</name>
 		<desc>A spaceship fights against wave after wave of alien demons.</desc>
@@ -58504,28 +58487,6 @@ Lorsqu'un point est marqué, le joueur responsable est présenté en gros plan, 
 		<cheevosHash>AD70C40D529F0DDD7466D23C89AF08DE</cheevosHash>
 	</game>
 	<game>
-		<path>./swa.zip</path>
-		<name>Star Wars Arcade</name>
-		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/swa.png</image>
-		<video>./snap/swa.mp4</video>
-		<marquee>./wheel/swa.png</marquee>
-		<rating>1</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Shooter / Plane, 1st person</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>2</players>
-		<favorite>true</favorite>
-		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>3EAB44526E5B52FCB8CF8160706E577F</cheevosHash>
-	</game>
-	<game>
 		<path>./swat.zip</path>
 		<name>SWAT</name>
 		<desc>SWAT is an abstract one or two player shoot-em-up in which the aim is to stop swarms of aliens from building a sectional tunnel from the bottom of the screen to the top.
@@ -63126,26 +63087,6 @@ When the treasure is successfully taken out of the chamber, bonus points are awa
 		<region>us</region>
 		<cheevosHash>A83B02EC9F0E3532DE425567FD9540A7</cheevosHash>
 	</game>
-	<game>
-		<path>./vf.zip</path>
-		<name>Virtua Fighter</name>
-		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vf.png</image>
-		<video>./snap/vf.mp4</video>
-		<marquee>./wheel/vf.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19930101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Fight-Fight / Versus</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>6ABE33F215BCC63CBD8F92C19E7CD537</cheevosHash>
-	</game>
 	<game id="37495">
 		<path>./vf2.zip</path>
 		<name>Virtua Fighter 2</name>
@@ -63169,28 +63110,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>CCEC805CB63CD137BC3CEEE0B4087B2B</cheevosHash>
-	</game>
-	<game>
-		<path>./vformula.zip</path>
-		<name>Virtua Formula</name>
-		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vformula.png</image>
-		<video>./snap/vformula.mp4</video>
-		<marquee>./wheel/vformula.png</marquee>
-		<rating>1</rating>
-		<releasedate>19921030T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving / Race 1st Pers. view</genre>
-		<arcadesystemname>sega</arcadesystemname>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>cc40a2587dc79b0c45193cbfc256fc78</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>07D8CCD0471A1525AE5284932B4C5473</cheevosHash>
 	</game>
 	<game>
 		<path>./vhunt2.zip</path>
@@ -64571,25 +64490,6 @@ The player's life bar is represented by a fire breathing dragon in the upper cor
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>7724528700FAA4034B9B5AAC8175EAC7</cheevosHash>
-	</game>
-	<game>
-		<path>./wingwaru.zip</path>
-		<name>Wing War</name>
-		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/wingwaru.png</image>
-		<video>./snap/wingwaru.mp4</video>
-		<marquee>./wheel/wingwaru.png</marquee>
-		<rating>0</rating>
-		<releasedate>19940101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Shooter-Shooter / Plane, 1st person</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>790E02A43613AF22195906AEEF2813E4</cheevosHash>
 	</game>
 	<game id="44084">
 		<path>./winrun91.zip</path>
@@ -66926,26 +66826,6 @@ A lucky few escaped and lived in exile. Four of the survivers decided to join fo
 		<region>us</region>
 		<cheevosHash>5CAAADF5ADFAE76FA3E965ECB4FB4196</cheevosHash>
 		<cheevosId>14880</cheevosId>
-	</game>
-	<game id="43982" source="ScreenScraper.fr">
-		<path>./vr.zip</path>
-		<name>Virtua Racing</name>
-		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1".</desc>
-		<emulator>libretro</emulator>
-		<core>mame2016</core>
-		<image>./mixart/vr.png</image>
-		<video>./snap/vr.mp4</video>
-		<marquee>./wheel/vr.png</marquee>
-		<rating>1.0</rating>
-		<releasedate>19920110T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving-Race 1st Pers. view</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>8295C40BD8D556E56D45FD58A7D5ABF7</cheevosHash>
 	</game>
 	<game>
 		<path>./spyhunt.zip</path>
@@ -72942,5 +72822,125 @@ The game is completed once the captives have been rescued at the end of the four
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>796F7668C5F250D8DD0EE6D26B8C87DF</cheevosHash>
+	</game>
+	<game>
+		<path>./devstors.zip</path>
+		<name>Devastators</name>
+		<desc>Devastators is an early third-person shooter. Up to two players can take control of Rambo-style mercenaries with mullets.</desc>
+		<image>./mixart/devstors.png</image>
+		<video>./snap/devstors.mp4</video>
+		<marquee>./wheel/devstors.png</marquee>
+		<rating>0.4</rating>
+		<releasedate>19880101T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Shooter-Shooter / 3rd person</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>272EEB9E020D53DF65F91E92C009D683</cheevosHash>
+	</game>
+	<game>
+		<path>./swa.zip</path>
+		<name>Star Wars Arcade</name>
+		<desc>Star Wars Arcade is a superb 3-D shoot-em-up for one or two players, based on the legendary 1977 movie of the same name. In the two player game, one player takes on the role of the pilot, who controls both the speed and direction of the fighter ship, and who can only shoot at the centre of the screen. The second other player takes on the role of the 'gunner' and can target a much larger area on-screen.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2010</core>
+		<image>./mixart/swa.png</image>
+		<video>./snap/swa.mp4</video>
+		<marquee>./wheel/swa.png</marquee>
+		<rating>1</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Shooter / Plane, 1st person</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>2</players>
+		<favorite>true</favorite>
+		<md5>b06e1037d2e3f3f33b4b6a3dba3cb6de</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>3EAB44526E5B52FCB8CF8160706E577F</cheevosHash>
+	</game>
+	<game>
+		<path>./vf.zip</path>
+		<name>Virtua Fighter</name>
+		<desc>In this 3-D fighting game, the game's battle system is simple, yet complex. There are 3 buttons: Punch, Kick and Guard. Movement is strictly confined to a horizontal plane.    Battles are won by draining the energy bar of your opponent or by pushing your opponent off the edges of the ring (known as a 'Ring-out').</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vf.png</image>
+		<video>./snap/vf.mp4</video>
+		<marquee>./wheel/vf.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19930101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Fight-Fight / Versus</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>6ABE33F215BCC63CBD8F92C19E7CD537</cheevosHash>
+	</game>
+	<game>
+		<path>./vformula.zip</path>
+		<name>Virtua Formula</name>
+		<desc>Virtua Formula (バーチャフォーミュラ) is an expanded version of the 1992 Sega Model 1 arcade game Virtua Racing, designed as a medium-scale attraction for theme parks and family entertainment centers..</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vformula.png</image>
+		<video>./snap/vformula.mp4</video>
+		<marquee>./wheel/vformula.png</marquee>
+		<rating>1</rating>
+		<releasedate>19921030T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving / Race 1st Pers. view</genre>
+		<arcadesystemname>sega</arcadesystemname>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>cc40a2587dc79b0c45193cbfc256fc78</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>07D8CCD0471A1525AE5284932B4C5473</cheevosHash>
+	</game>
+	<game id="43982" source="ScreenScraper.fr">
+		<path>./vr.zip</path>
+		<name>Virtua Racing</name>
+		<desc>Virtua Racing or V.R. for short, is a Formula One racing arcade game, developed by Sega AM2 and released in 1992. Virtua Racing was initially a proof-of-concept application for exercising a new 3D-graphics platform under development, the "Model 1".</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/vr.png</image>
+		<video>./snap/vr.mp4</video>
+		<marquee>./wheel/vr.png</marquee>
+		<rating>1.0</rating>
+		<releasedate>19920110T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving-Race 1st Pers. view</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>8295C40BD8D556E56D45FD58A7D5ABF7</cheevosHash>
+	</game>
+	<game>
+		<path>./wingwaru.zip</path>
+		<name>Wing War</name>
+		<desc>Wing War is a flight/combat simulation. The object of the game is by where the players fight head-to-head in airplanes trying to shoot the other players out of the sky.</desc>
+		<emulator>libretro</emulator>
+		<core>mame2016</core>
+		<image>./mixart/wingwaru.png</image>
+		<video>./snap/wingwaru.mp4</video>
+		<marquee>./wheel/wingwaru.png</marquee>
+		<rating>0</rating>
+		<releasedate>19940101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Shooter-Shooter / Plane, 1st person</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>790E02A43613AF22195906AEEF2813E4</cheevosHash>
 	</game>
 </gameList>

@@ -8668,4 +8668,20 @@
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
+	<game>
+		<path>./monkeyisland.vpx</path>
+		<name>Escape from Monkey Island</name>
+		<desc>Flipper Escape from Monkey Island</desc>
+		<image>./mixart/monkeyisland.png</image>
+		<video>./snap/monkeyisland.mp4</video>
+		<marquee>./wheel/monkeyisland.png</marquee>
+		<rating>3</rating>
+		<releasedate>2023</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
 </gameList>

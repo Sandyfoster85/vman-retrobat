@@ -189,23 +189,6 @@
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37515" source="ScreenScraper.fr">
-		<path>./Le Mans 24.zip</path>
-		<name>Le Mans 24</name>
-		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
-		<image>./mixart/Le Mans 24.png</image>
-		<video>./snap/Le Mans 24.mp4</video>
-		<marquee>./wheel/Le Mans 24.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
-	</game>
 	<game>
 		<path>./Magical Truck Adventure.zip</path>
 		<name>Magical Truck Adventure</name>
@@ -381,5 +364,22 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37515" source="ScreenScraper.fr">
+		<path>./Le Mans 24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<image>./mixart/Le Mans 24.png</image>
+		<video>./snap/Le Mans 24.mp4</video>
+		<marquee>./wheel/Le Mans 24.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
 	</game>
 </gameList>

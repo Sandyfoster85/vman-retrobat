@@ -7719,22 +7719,6 @@ This will be the first time on a Game Boy System that 4 players can play multipl
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="5080" source="ScreenScraper.fr">
-		<path>./Universal Studios Theme Parks Adventure (USA).rvz</path>
-		<name>Universal Studios : Theme Park Adventure</name>
-		<desc>Lights... Camera... PLAY! You're not just a visitor, you're the star in Kemco's Universal Studios? Theme Park Adventure, a magical 3-D journey beyond the theme park rides and into an amazing realm of games based upon the most successful movies produced in Hollywood. You'll love this virtual gaming lark through the world's best movie theme park!</desc>
-		<image>./mixart/Universal Studios Theme Parks Adventure (USA).png</image>
-		<video>./snap/Universal Studios Theme Parks Adventure (USA).mp4</video>
-		<marquee>./wheel/Universal Studios Theme Parks Adventure (USA).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20011218T000000</releasedate>
-		<developer>Kemco</developer>
-		<publisher>Kemco</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4794" source="ScreenScraper.fr">
 		<path>./Urbz, The - Sims in the City (USA).rvz</path>
 		<name>The Urbz: Sims in the City</name>
@@ -9030,6 +9014,22 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<developer>Konami</developer>
 		<publisher>Konami</publisher>
 		<genre>Action-Fight-Beat'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5080" source="ScreenScraper.fr">
+		<path>./Universal Studios Theme Parks Adventure (USA).rvz</path>
+		<name>Universal Studios : Theme Park Adventure</name>
+		<desc>Lights... Camera... PLAY! You're not just a visitor, you're the star in Kemco's Universal Studios? Theme Park Adventure, a magical 3-D journey beyond the theme park rides and into an amazing realm of games based upon the most successful movies produced in Hollywood. You'll love this virtual gaming lark through the world's best movie theme park!</desc>
+		<image>./mixart/Universal Studios Theme Parks Adventure (USA).png</image>
+		<video>./snap/Universal Studios Theme Parks Adventure (USA).mp4</video>
+		<marquee>./wheel/Universal Studios Theme Parks Adventure (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20011218T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Adventure</genre>
 		<players>2</players>
 		<lang>en</lang>
 		<region>us</region>

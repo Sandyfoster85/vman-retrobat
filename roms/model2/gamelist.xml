@@ -344,25 +344,6 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<region>jp</region>
 		<genreid>1536</genreid>
 	</game>
-	<game id="37505" source="ScreenScraper.fr">
-		<path>./zerogun.zip</path>
-		<name>Zero Gunner</name>
-		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
-		<image>./mixart/zerogun.png</image>
-		<video>./snap/zerogun.mp4</video>
-		<marquee>./wheel/zerogun.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>Psikyo</publisher>
-		<genre>Shooter / Plane</genre>
-		<arcadesystemname>model2</arcadesystemname>
-		<players>2</players>
-		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./hotd.zip</path>
 		<name>House of the Dead</name>
@@ -527,5 +508,24 @@ The arena size could be adjusted up to a very small platform or all the way to 8
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37505" source="ScreenScraper.fr">
+		<path>./zerogun.zip</path>
+		<name>Zero Gunner</name>
+		<desc>In the future date of 2016, worldwide martial law is initiated when a widespread terrorist organization overthrew and took control of the world's military authorities. A group of ace helicopter pilots are secretly amassed in a special forces squadron called ZERO to travel around the world and destroy the occupied terrorist forces.</desc>
+		<image>./mixart/zerogun.png</image>
+		<video>./snap/zerogun.mp4</video>
+		<marquee>./wheel/zerogun.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>Psikyo</publisher>
+		<genre>Shooter / Plane</genre>
+		<arcadesystemname>model2</arcadesystemname>
+		<players>2</players>
+		<md5>19dcf9a1c5963aba9988f78b5c0b4de9</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>260</genreid>
 	</game>
 </gameList>

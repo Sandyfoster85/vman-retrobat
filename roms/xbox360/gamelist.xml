@@ -3837,46 +3837,6 @@ Every once in a blue moon, Holly's Comet lands at the top of the monster-infeste
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220813T083209" />
 	</game>
-	<game id="16355">
-		<path>./Strider.m3u</path>
-		<name>Strider</name>
-		<desc>The Strider organization sends their best assassin, Hiryu, to kill the villain, Grandmaster Meio,in the metropolis of Kazakh City. The game is a retelling of the "core Strider story" and its common theme which centers around Hiryu's battle against Grandmaster Meio. The game mixes together elements from the first arcade Strider game, the NES console game, Strider 2, his Marvel vs. Capcom fighting game appearances, and the original manga from Moto Kikaku.
-
-The player control the series' main character, Strider Hiryu. The environment is freely explorable in search for weapons and items. Strider Hiryu's main weapon is his Cypher, a plasma weapon that can take several properties. Upgrades for the Cypher can be obtained by exploring Kazakh.</desc>
-		<image>./mixart/Strider.jpg</image>
-		<video>./snap/Strider.mp4</video>
-		<marquee>./wheel/Strider.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140219T000000</releasedate>
-		<developer>Double Helix Games</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<family>Strider</family>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>7b6e4842ce6cf64a36d9331a14715aea</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T134742" />
-	</game>
-	<game id="17553">
-		<path>./Super Contra.m3u</path>
-		<name>Super Contra</name>
-		<desc>Bill and Lance are back in Super Contra on Xbox Live and must fend off the alien invader, this time taking up residence in a military base in South America. Choose one of the two soldiers and, armed with your infinite ammo sledgehammer, wreak havoc on the enemy ranks. Opt for the co-op mode to play with a friend and unlock the various achievements of the title.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Super Contra.png</image>
-		<video>./snap/Super Contra.mp4</video>
-		<marquee>./wheel/Super Contra.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070725T000000</releasedate>
-		<developer>Digital Eclipse</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<family>Contra</family>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="18094">
 		<path>./Tempest.m3u</path>
 		<name>Tempest</name>
@@ -4618,6 +4578,46 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>Frozen Codebase</publisher>
 		<genre>Various</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16355">
+		<path>./Strider.m3u</path>
+		<name>Strider</name>
+		<desc>The Strider organization sends their best assassin, Hiryu, to kill the villain, Grandmaster Meio,in the metropolis of Kazakh City. The game is a retelling of the "core Strider story" and its common theme which centers around Hiryu's battle against Grandmaster Meio. The game mixes together elements from the first arcade Strider game, the NES console game, Strider 2, his Marvel vs. Capcom fighting game appearances, and the original manga from Moto Kikaku.
+
+The player control the series' main character, Strider Hiryu. The environment is freely explorable in search for weapons and items. Strider Hiryu's main weapon is his Cypher, a plasma weapon that can take several properties. Upgrades for the Cypher can be obtained by exploring Kazakh.</desc>
+		<image>./mixart/Strider.jpg</image>
+		<video>./snap/Strider.mp4</video>
+		<marquee>./wheel/Strider.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140219T000000</releasedate>
+		<developer>Double Helix Games</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Strider</family>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>7b6e4842ce6cf64a36d9331a14715aea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T134742" />
+	</game>
+	<game id="17553">
+		<path>./Super Contra.m3u</path>
+		<name>Super Contra</name>
+		<desc>Bill and Lance are back in Super Contra on Xbox Live and must fend off the alien invader, this time taking up residence in a military base in South America. Choose one of the two soldiers and, armed with your infinite ammo sledgehammer, wreak havoc on the enemy ranks. Opt for the co-op mode to play with a friend and unlock the various achievements of the title.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Super Contra.png</image>
+		<video>./snap/Super Contra.mp4</video>
+		<marquee>./wheel/Super Contra.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070725T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<family>Contra</family>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

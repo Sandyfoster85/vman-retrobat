@@ -2994,22 +2994,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./ASTROBLAST.fpt</path>
-		<name>ASTROBLAST</name>
-		<desc>Flipper ASTROBLAST</desc>
-		<image>./mixart/ASTROBLAST.png</image>
-		<video>./snap/ASTROBLAST.mp4</video>
-		<marquee>./wheel/ASTROBLAST.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Road Girls 1.2.fpt</path>
 		<name>Road Girls 1.2</name>
 		<desc>Flipper Road Girls 1.2</desc>
@@ -5042,6 +5026,22 @@
 		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ASTROBLAST.fpt</path>
+		<name>ASTROBLAST</name>
+		<desc>Flipper ASTROBLAST</desc>
+		<image>./mixart/ASTROBLAST.png</image>
+		<video>./snap/ASTROBLAST.mp4</video>
+		<marquee>./wheel/ASTROBLAST.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

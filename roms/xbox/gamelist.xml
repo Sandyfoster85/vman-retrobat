@@ -1626,24 +1626,6 @@ Music by Moby, Fatboy Slim, Propellorheads &amp; More!</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="15358">
-		<path>./Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).iso</path>
-		<name>Mashed Fully Loaded</name>
-		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones).
-
-The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you.</desc>
-		<image>./mixart/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).png</image>
-		<video>./snap/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).mp4</video>
-		<marquee>./wheel/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20050324T000000</releasedate>
-		<developer>SG Diffusion</developer>
-		<publisher>Supersonic Software</publisher>
-		<genre>Race, Driving</genre>
-		<players>2-4</players>
-		<lang>de,en,es,fr,it</lang>
-		<region>eu</region>
-	</game>
 	<game id="14698">
 		<path>./Max Payne 2 - The Fall of Max Payne (USA).xiso.iso</path>
 		<name>Max Payne 2 : The Fall of Max Payne</name>
@@ -3911,5 +3893,23 @@ This game has a storyline where you must run from all kinds of obstacles, cars, 
 		<players>1</players>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="15358">
+		<path>./Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).iso</path>
+		<name>Mashed Fully Loaded</name>
+		<desc>Mashed is an action-packed top-down arcade-racer. On 13 tracks (which must be played free in single-player first) you need all your driving skills to survive and make it to the finish as the 1st with one of the four different cars available (from slow ones to really fast ones).
+
+The heart of the single-player mode (besides the quick battle against the AI) are the bronze, silver and gold challenges for every track you need to complete to play free the next track. Each challenge is one of the seven (eight in multiplayer) game modes available in Mashed. From normal race-events (just be the 1st) over battles where you need to kill all your enemies before they do to the ultimate survival mode where everyone doesn't really like you.</desc>
+		<image>./mixart/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).png</image>
+		<video>./snap/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).mp4</video>
+		<marquee>./wheel/Mashed - Fully Loaded (Europe) (En,Fr,De,Es,It).png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20050324T000000</releasedate>
+		<developer>SG Diffusion</developer>
+		<publisher>Supersonic Software</publisher>
+		<genre>Race, Driving</genre>
+		<players>2-4</players>
+		<lang>de,en,es,fr,it</lang>
+		<region>eu</region>
 	</game>
 </gameList>
