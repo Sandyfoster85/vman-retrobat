@@ -5099,22 +5099,6 @@ Another 100 years has passed since the death of Count Dracula, but the revival o
 		<genre>Platform</genre>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
-		<name>Mario Kart Wii Deluxe (Green Edition)</name>
-		<desc>Mario Kart Wii Deluxe is a custom track distribution created by FJRoyet. It features all available retro tracks from SNES to Wii U/Mario Kart Tour in their original order. This also features retro tracks from other games and custom tracks that the author finds to be, to date, the best visually, giving a total of 656 tracks and 10 battle arenas. It also includes new features such as Fake Item Boxes that appear completely identical to regular item boxes, modified statistics of all vehicles and many more features to give a better gameplay experience.</desc>
-		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
-		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
-		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20230203T000000</releasedate>
-		<developer>FJRoyet</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Party, Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="8692" source="ScreenScraper.fr">
 		<path>./Super Smash Bros. Brawl.cc.rvz</path>
 		<name>Super Smash Bros. Brawl</name>
@@ -5564,5 +5548,21 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
+		<name>Mario Kart Wii Deluxe (Green Edition)</name>
+		<desc>Mario Kart Wii Deluxe is a custom track distribution created by FJRoyet. It features all available retro tracks from SNES to Wii U/Mario Kart Tour in their original order. This also features retro tracks from other games and custom tracks that the author finds to be, to date, the best visually, giving a total of 656 tracks and 10 battle arenas. It also includes new features such as Fake Item Boxes that appear completely identical to regular item boxes, modified statistics of all vehicles and many more features to give a better gameplay experience.</desc>
+		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
+		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20230203T000000</releasedate>
+		<developer>FJRoyet</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Party, Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
 	</game>
 </gameList>

@@ -3334,21 +3334,6 @@ Join Rana, Captain Bluebell and Mr Yoho as they deal outsky-pirate justice! Make
 		<players>1</players>
 		<lang>en</lang>
 	</game>
-	<game id="29051" source="ScreenScraper.fr">
-		<path>./Wizorb.cso</path>
-		<name>Wizorb</name>
-		<desc>Wizorb is a Breakout/Arkanoid action game (bounce an orb off a magic wand to break bricks), with a sprinkle of a Japanese-style RPG. Besides breaking bricks, there are monsters to kill, spells to cast and power-ups to buy. In total, there are about 60 levels on 5 worlds, plus some extra secret levels for good measure. Next to the classic gameplay, the player has access to a magic bar with limited supply to destroy bricks with fireballs.</desc>
-		<image>./mixart/Wizorb.png</image>
-		<video>./snap/Wizorb.mp4</video>
-		<marquee>./wheel/Wizorb.png</marquee>
-		<releasedate>20120101T000000</releasedate>
-		<developer>Tribute Games</developer>
-		<publisher>Tribute Games</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<genreid>256</genreid>
-	</game>
 	<game id="144811" source="ScreenScraper.fr">
 		<path>./World Ping Pong Championship.cso</path>
 		<name>World Ping Pong Championship</name>
@@ -4198,6 +4183,21 @@ The launch pad is all set. Are you ready to get into Orbit?</desc>
 		<developer>Sony Computer Entertaiment</developer>
 		<publisher>Sony Computer Entertaiment</publisher>
 		<genre>Action-Action / Breakout games</genre>
+		<lang>en</lang>
+		<genreid>256</genreid>
+	</game>
+	<game id="29051" source="ScreenScraper.fr">
+		<path>./Wizorb.cso</path>
+		<name>Wizorb</name>
+		<desc>Wizorb is a Breakout/Arkanoid action game (bounce an orb off a magic wand to break bricks), with a sprinkle of a Japanese-style RPG. Besides breaking bricks, there are monsters to kill, spells to cast and power-ups to buy. In total, there are about 60 levels on 5 worlds, plus some extra secret levels for good measure. Next to the classic gameplay, the player has access to a magic bar with limited supply to destroy bricks with fireballs.</desc>
+		<image>./mixart/Wizorb.png</image>
+		<video>./snap/Wizorb.mp4</video>
+		<marquee>./wheel/Wizorb.png</marquee>
+		<releasedate>20120101T000000</releasedate>
+		<developer>Tribute Games</developer>
+		<publisher>Tribute Games</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
 		<lang>en</lang>
 		<genreid>256</genreid>
 	</game>

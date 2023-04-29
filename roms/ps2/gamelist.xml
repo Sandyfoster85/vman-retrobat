@@ -1859,26 +1859,6 @@ Budokai Tenkaichi 3 is the third game of the Budokai Tenkaichi series and featur
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>262</genreid>
 	</game>
-	<game id="23346" source="ScreenScraper.fr">
-		<path>./Dragon Blaze (Europe).gz</path>
-		<name>Dragon Blaze</name>
-		<desc>Dragon Blaze is a 2D vertically scrolling shoot 'em up game where you take control of one of four dragon riders in a fantasy themed setting. The riders are Quaid with his fire dragon, Sonia with her three aqua dragons, Rob with his two-headed thunder dragon and Ian with his skull dragon. 
- 
-As you make progress through the colorful stages and fight of fantasy teamed enemies weapon power-ups in the form of swords can be retrieved. The dragon and rider can separate for a strong close range attack. The game can be played solo or with a friend.</desc>
-		<image>./mixart/Dragon Blaze (Europe).png</image>
-		<video>./snap/Dragon Blaze (Europe).mp4</video>
-		<marquee>./wheel/Dragon Blaze (Europe).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20061023T000000</releasedate>
-		<developer>Psikyo</developer>
-		<publisher>505 Games</publisher>
-		<genre>Shoot'em Up</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-		<genreid>260</genreid>
-	</game>
 	<game>
 		<path>./Dragon Quest VIII - Journey of the Cursed King (USA).gz</path>
 		<name>Dragon Quest VIII : Journey of the Cursed King</name>
@@ -8124,5 +8104,25 @@ Freekstyle features the voices and likeness of several real-life motocross stars
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>1537</genreid>
+	</game>
+	<game id="23346" source="ScreenScraper.fr">
+		<path>./Dragon Blaze (Europe).gz</path>
+		<name>Dragon Blaze</name>
+		<desc>Dragon Blaze is a 2D vertically scrolling shoot 'em up game where you take control of one of four dragon riders in a fantasy themed setting. The riders are Quaid with his fire dragon, Sonia with her three aqua dragons, Rob with his two-headed thunder dragon and Ian with his skull dragon. 
+ 
+As you make progress through the colorful stages and fight of fantasy teamed enemies weapon power-ups in the form of swords can be retrieved. The dragon and rider can separate for a strong close range attack. The game can be played solo or with a friend.</desc>
+		<image>./mixart/Dragon Blaze (Europe).png</image>
+		<video>./snap/Dragon Blaze (Europe).mp4</video>
+		<marquee>./wheel/Dragon Blaze (Europe).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20061023T000000</releasedate>
+		<developer>Psikyo</developer>
+		<publisher>505 Games</publisher>
+		<genre>Shoot'em Up</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>260</genreid>
 	</game>
 </gameList>

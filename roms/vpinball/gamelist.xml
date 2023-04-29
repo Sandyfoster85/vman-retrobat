@@ -3180,22 +3180,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./TRON Classic (Original 2021) Mod v1.03.vpx</path>
-		<name>TRON Classic (Original 2021)</name>
-		<desc>Flipper TRON Classic (Original 2021) Mod v2.0</desc>
-		<image>./mixart/TRON Classic (Original 2021) Mod v1.03.png</image>
-		<video>./snap/TRON Classic (Original 2021) Mod v1.03.mp4</video>
-		<marquee>./wheel/TRON Classic (Original 2021) Mod v1.03.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./World Challenge Soccer (Premier 1994) v2.0.vpx</path>
 		<name>World Challenge Soccer</name>
 		<desc>Flipper World Challenge Soccer (Premier 1994) v2.0</desc>
@@ -7368,22 +7352,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Stranger Things 4 LPE 1.0 (Limited PRO Edition).vpx</path>
-		<name>Stranger Things 4 - (PupEdition)</name>
-		<desc>Flipper Stranger Things 4 LPE 1.0 (Limited PRO Edition)</desc>
-		<image>./mixart/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</image>
-		<video>./snap/Stranger Things 4 LPE 1.0 (Limited PRO Edition).mp4</video>
-		<marquee>./wheel/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</marquee>
-		<rating>4</rating>
-		<releasedate>20221231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./The Beatles_007.vpx</path>
 		<name>The Beatles (PupEdition)</name>
 		<desc>Flipper The Beatles</desc>
@@ -8384,22 +8352,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Stranger Things - SE 1.47_OSB.vpx</path>
-		<name>Stranger Things - (PupEdition)</name>
-		<desc>Flipper Stranger Things - SE 1.47_OSB</desc>
-		<image>./mixart/Stranger Things - SE 1.47_OSB.jpg</image>
-		<video>./snap/Stranger Things - SE 1.47_OSB.mp4</video>
-		<marquee>./wheel/Stranger Things - SE 1.47_OSB.png</marquee>
-		<rating>1</rating>
-		<releasedate>19691231T200000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Strip Joker Poker (Gottlieb 1978) 1.5.vpx</path>
 		<name>Strip Joker Poker (Gottlieb 1978) (PupEdition)</name>
 		<desc>Flipper Strip Joker Poker (Gottlieb 1978) 1.5</desc>
@@ -8426,22 +8378,6 @@
 		<releasedate>1984</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Tron Legacy (Stern 2011) VPW Mod v1.0.vpx</path>
-		<name>Tron Legacy (PupEdition)</name>
-		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience! VPW Mod v1.0</desc>
-		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
-		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
-		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
-		<rating>4.12</rating>
-		<releasedate>20110924T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>Stern</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>
@@ -8679,6 +8615,70 @@
 		<releasedate>2023</releasedate>
 		<developer>FanMade</developer>
 		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stranger Things - SE 1.47_OSB.vpx</path>
+		<name>Stranger Things - (PupEdition)</name>
+		<desc>Flipper Stranger Things - SE 1.47_OSB</desc>
+		<image>./mixart/Stranger Things - SE 1.47_OSB.jpg</image>
+		<video>./snap/Stranger Things - SE 1.47_OSB.mp4</video>
+		<marquee>./wheel/Stranger Things - SE 1.47_OSB.png</marquee>
+		<rating>1</rating>
+		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Stranger Things 4 LPE 1.0 (Limited PRO Edition).vpx</path>
+		<name>Stranger Things 4 - (PupEdition)</name>
+		<desc>Flipper Stranger Things 4 LPE 1.0 (Limited PRO Edition)</desc>
+		<image>./mixart/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</image>
+		<video>./snap/Stranger Things 4 LPE 1.0 (Limited PRO Edition).mp4</video>
+		<marquee>./wheel/Stranger Things 4 LPE 1.0 (Limited PRO Edition).png</marquee>
+		<rating>4</rating>
+		<releasedate>20221231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./TRON Classic (Original 2021) Mod v1.03.vpx</path>
+		<name>TRON Classic (Original 2021)</name>
+		<desc>Flipper TRON Classic (Original 2021) Mod v2.0</desc>
+		<image>./mixart/TRON Classic (Original 2021) Mod v1.03.png</image>
+		<video>./snap/TRON Classic (Original 2021) Mod v1.03.mp4</video>
+		<marquee>./wheel/TRON Classic (Original 2021) Mod v1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Tron Legacy (Stern 2011) VPW Mod v1.0.vpx</path>
+		<name>Tron Legacy (PupEdition)</name>
+		<desc>The Ultimate Tron Legacy virtual pinball cabinet experience! VPW Mod v1.0</desc>
+		<image>./mixart/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).jpg</image>
+		<video>./snap/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).mp4</video>
+		<marquee>./wheel/Tron Legacy (Stern 2011) (1.6, SSF, Lightmod 1.2, NPC).png</marquee>
+		<rating>4.12</rating>
+		<releasedate>20110924T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>Stern</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>

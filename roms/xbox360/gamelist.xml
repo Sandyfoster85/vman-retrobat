@@ -1260,26 +1260,6 @@ This title is an expanded version of the 2008 iOS game of the same name, but wit
 		<marquee>./wheel/Joe Danger Special Edition.png</marquee>
 		<video>./snap/Joe Danger Special Edition.mp4</video>
 	</game>
-	<game id="17475">
-		<path>./Lode Runner.m3u</path>
-		<name>Lode Runner</name>
-		<desc>Lode Runner is the Xbox Live Arcade remake of the 1983 Commodore 64 and Apple II title. A puzzle and platformer, Lode Runner places you in a setting made up of bricks, ladders and walkways in which you must navigate to collect gold.
-
-This version of the game features nearly 200 levels, a resistance mode, a puzzle mode and a level editor. The software also offers multiplayer functions for 4 participants and even cooperation for 2.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Lode Runner.png</image>
-		<marquee>./wheel/Lode Runner.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090422T000000</releasedate>
-		<developer>Tozai Games</developer>
-		<publisher>Tozai Games</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<video>./snap/Lode Runner.mp4</video>
-	</game>
 	<game id="17440">
 		<path>./Phantom Breaker Battle Grounds.m3u</path>
 		<name>Phantom Breaker Battle Grounds</name>
@@ -3737,22 +3717,6 @@ Every once in a blue moon, Holly's Comet lands at the top of the monster-infeste
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17997">
-		<path>./Robotron 2084.m3u</path>
-		<name>Robotron : 2084</name>
-		<desc>In Robotron: 2084 on the Xbox Live Arcade, you play as a mutant who must save humanity from the Robotron invasion. In this action game, you are sent through a series of rooms filled with enemies to destroy and humans to save. You can move and shoot in eight different directions. Note that you don't have to shoot straight ahead as the hero can send a beam in any direction.</desc>
-		<image>./mixart/Robotron 2084.png</image>
-		<video>./snap/Robotron 2084.mp4</video>
-		<marquee>./wheel/Robotron 2084.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20051122T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Rumble Roses Xx.m3u</path>
 		<name>Rumble Roses Xx</name>
@@ -4617,6 +4581,42 @@ The player control the series' main character, Strider Hiryu. The environment is
 		<publisher>Konami</publisher>
 		<genre>Action</genre>
 		<family>Contra</family>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17475">
+		<path>./Lode Runner.m3u</path>
+		<name>Lode Runner</name>
+		<desc>Lode Runner is the Xbox Live Arcade remake of the 1983 Commodore 64 and Apple II title. A puzzle and platformer, Lode Runner places you in a setting made up of bricks, ladders and walkways in which you must navigate to collect gold.
+
+This version of the game features nearly 200 levels, a resistance mode, a puzzle mode and a level editor. The software also offers multiplayer functions for 4 participants and even cooperation for 2.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Lode Runner.png</image>
+		<video>./snap/Lode Runner.mp4</video>
+		<marquee>./wheel/Lode Runner.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090422T000000</releasedate>
+		<developer>Tozai Games</developer>
+		<publisher>Tozai Games</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17997">
+		<path>./Robotron 2084.m3u</path>
+		<name>Robotron : 2084</name>
+		<desc>In Robotron: 2084 on the Xbox Live Arcade, you play as a mutant who must save humanity from the Robotron invasion. In this action game, you are sent through a series of rooms filled with enemies to destroy and humans to save. You can move and shoot in eight different directions. Note that you don't have to shoot straight ahead as the hero can send a beam in any direction.</desc>
+		<image>./mixart/Robotron 2084.png</image>
+		<video>./snap/Robotron 2084.mp4</video>
+		<marquee>./wheel/Robotron 2084.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20051122T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
 		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

@@ -175,21 +175,6 @@
 		<genreid>1027</genreid>
 	</game>
 	<game>
-		<path>./Harley Davidson LA Riders.zip</path>
-		<name>Harley Davidson LA Riders</name>
-		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
-		<image>./mixart/Harley Davidson LA Riders.png</image>
-		<video>./snap/Harley Davidson LA Riders.mp4</video>
-		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./Magical Truck Adventure.zip</path>
 		<name>Magical Truck Adventure</name>
 		<desc>Magical Truck Adventure gives the player the feel of actually riding a rail car. An action-pedal and truck lever assists the player in chasing, jumping, and dodging the evil villains that threaten to steal Alma's precious stone. 
@@ -381,5 +366,20 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Harley Davidson LA Riders.zip</path>
+		<name>Harley Davidson LA Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./mixart/Harley Davidson LA Riders.png</image>
+		<video>./snap/Harley Davidson LA Riders.mp4</video>
+		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>
