@@ -34,56 +34,6 @@
 		<players>1</players>
 		<genreid>3840</genreid>
 	</game>
-	<game id="167382" source="ScreenScraper.fr">
-		<path>./Alien (USA, Europe).zip</path>
-		<name>Alien</name>
-		<desc>Alien is a basic side-scrolling shooter where the player controls a fighter jet and must shoot down a variety of different enemies. The game scrolls continuously to the right, while enemies attack the player by either shooting or attempting to crash into the player's craft. The player can fire normal shots, or charge up to fire an extra powerful shot, which is required to defeat certain types of enemies. At the end of each stage, a large boss enemy appears, which must be defeated to continue the game.</desc>
-		<image>./mixart/Alien (USA, Europe).png</image>
-		<video>./snap/Alien (USA, Europe).mp4</video>
-		<marquee>./wheel/Alien (USA, Europe).png</marquee>
-		<releasedate>19920101T000000</releasedate>
-		<publisher>Watara</publisher>
-		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<genreid>260</genreid>
-	</game>
-	<game id="167383" source="ScreenScraper.fr">
-		<path>./Balloon Fight (USA, Europe).zip</path>
-		<name>Balloon Fight</name>
-		<desc>Balloon Fight is a simple platform action game very similar to the better known NES title of the same name. The player controls a creature suspended by a pair of balloons who floats around a room, and must pop the balloons of enemy creatures by landing on top of them. If an enemy touches the player's balloons, they will pop, causing the player to fall and lose a life.
-
-There are several different stages, each with a different layout and various objects such as platforms, deadly spike pits, and fans that push the balloons around. The playfield also loops horizontally, and both the player and the enemies can leave one side of the screen and return through the other. When all enemies on a stage are defeated, the player is awarded a bonus for time remaining and moves on to the next stage.</desc>
-		<image>./mixart/Balloon Fight (USA, Europe).png</image>
-		<video>./snap/Balloon Fight (USA, Europe).mp4</video>
-		<marquee>./wheel/Balloon Fight (USA, Europe).png</marquee>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Thin Chen Enterprise</developer>
-		<publisher>Watara</publisher>
-		<genre>Platform</genre>
-		<lang>en</lang>
-		<region>eu</region>
-		<genreid>257</genreid>
-	</game>
-	<game id="167384" source="ScreenScraper.fr">
-		<path>./Block Buster (USA, Europe).zip</path>
-		<name>Block Buster</name>
-		<desc>Block Buster is a simple Tetris clone for one player. The goal is to place pieces made up of four tiles in the playfield, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
-
-The most notable difference from regular Tetris is that the game features a 12-by-16-block playfield, compared with the 10-by-20 field found in licensed Tetris titles. There is only one game mode (endless), though the starting level (speed) and amount of garbage can be chosen before starting the game.</desc>
-		<image>./mixart/Block Buster (USA, Europe).png</image>
-		<video>./snap/Block Buster (USA, Europe).mp4</video>
-		<marquee>./wheel/Block Buster (USA, Europe).png</marquee>
-		<releasedate>19920101T000000</releasedate>
-		<developer>Bon Treasure Co., Ltd.</developer>
-		<publisher>Watara</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<genreid>2816</genreid>
-	</game>
 	<game id="167385" source="ScreenScraper.fr">
 		<path>./Brain Power (USA, Europe).zip</path>
 		<name>Brain Power</name>
@@ -522,7 +472,7 @@ There are a large variety of items that can be found within missions. Food will 
 		<image>./mixart/Journey to the West (USA).png</image>
 		<video>./snap/Journey to the West (USA).mp4</video>
 		<marquee>./wheel/Journey to the West (USA).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>us</region>
 	</game>
@@ -613,7 +563,7 @@ Magincross is a horizontally-scrolling space shooter. The player shoots down wav
 		<image>./mixart/Majong (USA, Europe).png</image>
 		<video>./snap/Majong (USA, Europe).mp4</video>
 		<marquee>./wheel/Majong (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<developer>Bon Treasure</developer>
 		<publisher>Bon Treasure</publisher>
 		<lang>en</lang>
@@ -788,7 +738,7 @@ The NES version also includes a 2-player mode and a puzzle construction mode.</d
 		<image>./mixart/Sonny X'Press (USA, Europe).png</image>
 		<video>./snap/Sonny X'Press (USA, Europe).mp4</video>
 		<marquee>./wheel/Sonny X'Press (USA, Europe).png</marquee>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 		<region>eu</region>
 	</game>
@@ -947,5 +897,55 @@ Thunder Shooting is a side-scrolling space shooter. The player controls an advan
 		<publisher>Watara</publisher>
 		<lang>en</lang>
 		<region>eu</region>
+	</game>
+	<game id="167382" source="ScreenScraper.fr">
+		<path>./Alien (USA, Europe).zip</path>
+		<name>Alien</name>
+		<desc>Alien is a basic side-scrolling shooter where the player controls a fighter jet and must shoot down a variety of different enemies. The game scrolls continuously to the right, while enemies attack the player by either shooting or attempting to crash into the player's craft. The player can fire normal shots, or charge up to fire an extra powerful shot, which is required to defeat certain types of enemies. At the end of each stage, a large boss enemy appears, which must be defeated to continue the game.</desc>
+		<image>./mixart/Alien (USA, Europe).png</image>
+		<video>./snap/Alien (USA, Europe).mp4</video>
+		<marquee>./wheel/Alien (USA, Europe).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<publisher>Watara</publisher>
+		<genre>Shoot'em Up-Shoot'em up / Horizontal</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<genreid>260</genreid>
+	</game>
+	<game id="167383" source="ScreenScraper.fr">
+		<path>./Balloon Fight (USA, Europe).zip</path>
+		<name>Balloon Fight</name>
+		<desc>Balloon Fight is a simple platform action game very similar to the better known NES title of the same name. The player controls a creature suspended by a pair of balloons who floats around a room, and must pop the balloons of enemy creatures by landing on top of them. If an enemy touches the player's balloons, they will pop, causing the player to fall and lose a life.
+
+There are several different stages, each with a different layout and various objects such as platforms, deadly spike pits, and fans that push the balloons around. The playfield also loops horizontally, and both the player and the enemies can leave one side of the screen and return through the other. When all enemies on a stage are defeated, the player is awarded a bonus for time remaining and moves on to the next stage.</desc>
+		<image>./mixart/Balloon Fight (USA, Europe).png</image>
+		<video>./snap/Balloon Fight (USA, Europe).mp4</video>
+		<marquee>./wheel/Balloon Fight (USA, Europe).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Thin Chen Enterprise</developer>
+		<publisher>Watara</publisher>
+		<genre>Platform</genre>
+		<lang>en</lang>
+		<region>eu</region>
+		<genreid>257</genreid>
+	</game>
+	<game id="167384" source="ScreenScraper.fr">
+		<path>./Block Buster (USA, Europe).zip</path>
+		<name>Block Buster</name>
+		<desc>Block Buster is a simple Tetris clone for one player. The goal is to place pieces made up of four tiles in the playfield, organizing them into complete rows, which then disappear. As rows are cleared, the pace of the game increases, and the game ends if the stack reaches the top of the well.
+
+The most notable difference from regular Tetris is that the game features a 12-by-16-block playfield, compared with the 10-by-20 field found in licensed Tetris titles. There is only one game mode (endless), though the starting level (speed) and amount of garbage can be chosen before starting the game.</desc>
+		<image>./mixart/Block Buster (USA, Europe).png</image>
+		<video>./snap/Block Buster (USA, Europe).mp4</video>
+		<marquee>./wheel/Block Buster (USA, Europe).png</marquee>
+		<releasedate>19920101T000000</releasedate>
+		<developer>Bon Treasure Co., Ltd.</developer>
+		<publisher>Watara</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<genreid>2816</genreid>
 	</game>
 </gameList>

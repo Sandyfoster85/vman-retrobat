@@ -248,22 +248,6 @@ This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cart
 		<lang>en</lang>
 		<genreid>1024</genreid>
 	</game>
-	<game id="189015" source="ScreenScraper.fr">
-		<path>./Pokemon Tetris (Europe) (En,Ja,Fr).zip</path>
-		<name>Pokémon Shock Tetris</name>
-		<desc>As a variation on the Tetris gameplay them, the game used the motion detection feature of the Pokémon Mini hardware for the players to rotate the falling tetrominoes, and the player received a mild force feedback response to clearing lines of blocks....</desc>
-		<image>./mixart/Pokemon Tetris (Europe) (En,Ja,Fr).png</image>
-		<video>./snap/Pokemon Tetris (Europe) (En,Ja,Fr).mp4</video>
-		<marquee>./wheel/Pokemon Tetris (Europe) (En,Ja,Fr).png</marquee>
-		<releasedate>20020321T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>1</players>
-		<lang>en,jp,fr</lang>
-		<region>eu</region>
-		<genreid>2816</genreid>
-	</game>
 	<game id="189020" source="ScreenScraper.fr">
 		<path>./Togepi no Daibouken (English Translation).zip</path>
 		<name>Togepi no Daibouken</name>
@@ -278,6 +262,20 @@ This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cart
 		<players>1</players>
 		<lang>en</lang>
 		<genreid>512</genreid>
+	</game>
+	<game>
+		<path>./Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).zip</path>
+		<name>Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)</name>
+		<md5>b8645e28349f7322dbd116785876bb50</md5>
+		<lang>en</lang>
+		<region>eu</region>
+	</game>
+	<game>
+		<path>./Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).zip</path>
+		<name>Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)</name>
+		<md5>a46b17f221404b64e914535831f36c3a</md5>
+		<lang>en</lang>
+		<region>eu</region>
 	</game>
 	<game id="189011" source="ScreenScraper.fr">
 		<path>./Pokemon Pinball Mini (USA, Europe).zip</path>
@@ -295,18 +293,20 @@ This minigame was emulated onto Pokémon Channel as an entire Pokémon mini cart
 		<region>eu</region>
 		<genreid>1792</genreid>
 	</game>
-	<game>
-		<path>./Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube).zip</path>
-		<name>Pokemon Party Mini - Chansey's Dribble (Europe) (GameCube)</name>
-		<md5>b8645e28349f7322dbd116785876bb50</md5>
-		<lang>en</lang>
+	<game id="189015" source="ScreenScraper.fr">
+		<path>./Pokemon Tetris (Europe) (En,Ja,Fr).zip</path>
+		<name>Pokémon Shock Tetris</name>
+		<desc>As a variation on the Tetris gameplay them, the game used the motion detection feature of the Pokémon Mini hardware for the players to rotate the falling tetrominoes, and the player received a mild force feedback response to clearing lines of blocks....</desc>
+		<image>./mixart/Pokemon Tetris (Europe) (En,Ja,Fr).png</image>
+		<video>./snap/Pokemon Tetris (Europe) (En,Ja,Fr).mp4</video>
+		<marquee>./wheel/Pokemon Tetris (Europe) (En,Ja,Fr).png</marquee>
+		<releasedate>20020321T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>1</players>
+		<lang>en,jp,fr</lang>
 		<region>eu</region>
-	</game>
-	<game>
-		<path>./Pokemon Party Mini - Slowking's Judge (Europe) (GameCube).zip</path>
-		<name>Pokemon Party Mini - Slowking's Judge (Europe) (GameCube)</name>
-		<md5>a46b17f221404b64e914535831f36c3a</md5>
-		<lang>en</lang>
-		<region>eu</region>
+		<genreid>2816</genreid>
 	</game>
 </gameList>
