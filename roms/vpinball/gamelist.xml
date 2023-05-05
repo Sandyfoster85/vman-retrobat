@@ -8493,22 +8493,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Alien Covenant.vpx</path>
-		<name>Alien Covenant (PupEdition)</name>
-		<desc>Flipper Alien Covenant (PupEdition)</desc>
-		<image>./mixart/Alien Covenant.png</image>
-		<video>./snap/Alien Covenant.mp4</video>
-		<marquee>./wheel/Alien Covenant.png</marquee>
-		<rating>3</rating>
-		<releasedate>20230101T000000</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Dragon's Lair.vpx</path>
 		<name>Dragon's Lair (PupEdition)</name>
 		<desc>Flipper Dragon's Lair PupEdition</desc>
@@ -8531,22 +8515,6 @@
 		<image>./mixart/Starship Troopers (Sega 1997) v2.0.jpg</image>
 		<video>./snap/Starship Troopers (Sega 1997) v2.0.mp4</video>
 		<marquee>./wheel/Starship Troopers (Sega 1997) v2.0.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./Addams Family, The  (Bally 1992) v2.1 uncompressed.vpx</path>
-		<name>Addams Family, The  (Bally 1992) (PupEdition)</name>
-		<desc>Flipper Addams Family, The (Bally 1992) v2.1</desc>
-		<image>./mixart/Addams Family, The  (Bally 1992) v2.1 uncompressed.jpg</image>
-		<video>./snap/Addams Family, The  (Bally 1992) v2.1 uncompressed.mp4</video>
-		<marquee>./wheel/Addams Family, The  (Bally 1992) v2.1 uncompressed.png</marquee>
 		<rating>3</rating>
 		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
@@ -8685,13 +8653,45 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Addams Family, The  (Bally 1992) v2.1 uncompressed.vpx</path>
+		<name>Addams Family, The  (Bally 1992) (PupEdition)</name>
+		<desc>Flipper Addams Family, The (Bally 1992) v2.1</desc>
+		<image>./mixart/Addams Family, The  (Bally 1992) v2.1 uncompressed.jpg</image>
+		<video>./snap/Addams Family, The  (Bally 1992) v2.1 uncompressed.mp4</video>
+		<marquee>./wheel/Addams Family, The  (Bally 1992) v2.1 uncompressed.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Alien Covenant.vpx</path>
+		<name>Alien Covenant (PupEdition)</name>
+		<desc>Flipper Alien Covenant (PupEdition)</desc>
+		<image>./mixart/Alien Covenant.png</image>
+		<video>./snap/Alien Covenant.mp4</video>
+		<marquee>./wheel/Alien Covenant.png</marquee>
+		<rating>3</rating>
+		<releasedate>20230101T000000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Childs Play (2018).vpx</path>
 		<name>Childs Play (PupEdition)</name>
 		<desc>The Ultimate Chucky is back Childs Play (2018) virtual pinball cabinet experience! PupEdition</desc>
-		<image>./mixart/Childs Play (2018).jpg</image>
+		<image>./mixart/Childs Play (2018).png</image>
 		<video>./snap/Childs Play (2018).mp4</video>
 		<marquee>./wheel/Childs Play (2018).png</marquee>
-		<rating>4.12</rating>
+		<rating>1</rating>
 		<releasedate>20180924T000000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>vpinball</publisher>

@@ -15,20 +15,6 @@
 		<image>./mixart/Cyberdine Warrior.png</image>
 		<video>./snap/Cyberdine Warrior.mp4</video>
 	</game>
-	<game id="35833" source="ScreenScraper.fr">
-		<path>./Bubble Bobble.d64</path>
-		<name>Bubble Bobble</name>
-		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...  Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.</desc>
-		<rating>0.85</rating>
-		<releasedate>19870101T000000</releasedate>
-		<developer>Taito</developer>
-		<publisher>Taito</publisher>
-		<genre>Platform-Action</genre>
-		<players>1-2</players>
-		<image>./mixart/Bubble Bobble.png</image>
-		<marquee>./wheel/Bubble Bobble.png</marquee>
-		<video>./snap/Bubble Bobble.mp4</video>
-	</game>
 	<game id="36499" source="ScreenScraper.fr">
 		<path>./Bubble Dizzy.d64</path>
 		<name>Bubble Dizzy</name>
@@ -7928,7 +7914,7 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<image>./mixart/Black Panther.png</image>
 		<video>./snap/Black Panther.mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="36059" source="ScreenScraper.fr">
@@ -8120,7 +8106,7 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<image>./mixart/Bonanza Brothers.png</image>
 		<video>./snap/Bonanza Brothers.mp4</video>
 		<rating>0</rating>
-		<releasedate></releasedate>
+		<releasedate />
 		<lang>en</lang>
 	</game>
 	<game id="36272" source="ScreenScraper.fr">
@@ -8233,6 +8219,21 @@ The game is viewed like a flight simulator. You look out of your cockpit through
 		<rating>0</rating>
 		<releasedate>19920101T000000</releasedate>
 		<publisher>Zeppelin Games</publisher>
+		<lang>en</lang>
+	</game>
+	<game id="35833" source="ScreenScraper.fr">
+		<path>./Bubble Bobble.d64</path>
+		<name>Bubble Bobble</name>
+		<desc>Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...  Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.</desc>
+		<image>./mixart/Bubble Bobble.png</image>
+		<video>./snap/Bubble Bobble.mp4</video>
+		<marquee>./wheel/Bubble Bobble.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19870101T000000</releasedate>
+		<developer>Taito</developer>
+		<publisher>Taito</publisher>
+		<genre>Platform-Action</genre>
+		<players>2</players>
 		<lang>en</lang>
 	</game>
 </gameList>
