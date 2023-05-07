@@ -3068,22 +3068,6 @@
 		<lang>en</lang>
 	</game>
 	<game>
-		<path>./Star Wars (1987).vpx</path>
-		<name>Star Wars (1987)</name>
-		<desc>Flipper Star Wars (1987)</desc>
-		<image>./mixart/Star Wars (1987).png</image>
-		<video>./snap/Star Wars (1987).mp4</video>
-		<marquee>./wheel/Star Wars (1987).png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>VisualPinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
-	<game>
 		<path>./Charlie's Angels (1978).vpx</path>
 		<name>Charlie's Angels (1978)</name>
 		<desc>Flipper Charlie's Angels (1978)</desc>
@@ -8695,6 +8679,22 @@
 		<releasedate>20180924T000000</releasedate>
 		<developer>FanMade</developer>
 		<publisher>vpinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./Star Wars (1987).vpx</path>
+		<name>Star Wars (1987)</name>
+		<desc>Flipper Star Wars (1987)</desc>
+		<image>./mixart/Star Wars (1987).png</image>
+		<video>./snap/Star Wars (1987).mp4</video>
+		<marquee>./wheel/Star Wars (1987).png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>VisualPinball</publisher>
 		<genre>Pinball</genre>
 		<players>2</players>
 		<favorite>true</favorite>

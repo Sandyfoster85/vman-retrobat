@@ -29,23 +29,6 @@
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37521" source="ScreenScraper.fr">
-		<path>./Spike Out Digital Battle Online.zip</path>
-		<name>Spikeout Digital Battle Online</name>
-		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
-		<image>./mixart/Spike Out Digital Battle Online.png</image>
-		<video>./snap/Spike Out Digital Battle Online.mp4</video>
-		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>263</genreid>
-	</game>
 	<game id="37524" source="ScreenScraper.fr">
 		<path>./The Ocean Hunter.zip</path>
 		<name>The Ocean Hunter</name>
@@ -381,5 +364,22 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37521" source="ScreenScraper.fr">
+		<path>./Spike Out Digital Battle Online.zip</path>
+		<name>Spikeout Digital Battle Online</name>
+		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
+		<image>./mixart/Spike Out Digital Battle Online.png</image>
+		<video>./snap/Spike Out Digital Battle Online.mp4</video>
+		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>263</genreid>
 	</game>
 </gameList>

@@ -239,22 +239,6 @@
 		<region>us</region>
 	</game>
 	<game>
-		<path>./BattleGear4.parrot</path>
-		<name>Battle Gear 4</name>
-		<desc>Racing game released in 2005 for the Taito Type X+ arcade platform.</desc>
-		<image>./mixart/BattleGear4.png</image>
-		<video>./snap/BattleGear4.mp4</video>
-		<marquee>./wheel/BattleGear4.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20050101T000000</releasedate>
-		<developer>Taito Type X+</developer>
-		<publisher>Taito Type X+</publisher>
-		<genre>Racing</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./BladeArcus.parrot</path>
 		<name>Blade Arcus</name>
 		<desc>Fighting game released in 2014 for the SEGA RingEdge 2 arcade platform.</desc>
@@ -1555,22 +1539,6 @@ Play through each character's storyline in the arcade mode, compete online and o
 		<region>us</region>
 	</game>
 	<game>
-		<path>./RastanSaga.parrot</path>
-		<name>Rastan Saga for NESiCAxLive</name>
-		<desc>A barbarian's adventure across varying terrain while encountering an assortment of mythological creatures and weapons. Pick up bonus items to increase your characters health or protection against attack, but beware of the cursed items.</desc>
-		<image>./mixart/RastanSaga.png</image>
-		<video>./snap/RastanSaga.mp4</video>
-		<marquee>./wheel/RastanSaga.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20140101T000000</releasedate>
-		<developer>Taito NESiCAxLive</developer>
-		<publisher>Taito NESiCAxLive</publisher>
-		<genre>Platform</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./SchoolOfRagnarok.parrot</path>
 		<name>School of Ragnarok</name>
 		<desc>Fighting game released in 2015 for the Taito Type X3 arcade platform.</desc>
@@ -1880,23 +1848,6 @@ This throwback robot shoot’em up is an ode to the nostalgia of 1980s arcade ga
 		<region>us</region>
 	</game>
 	<game>
-		<path>./StarWars.parrot</path>
-		<name>Star Wars Battle Pod</name>
-		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
-		<image>./mixart/Star Wars - Battle Pod.png</image>
-		<video>./snap/Star Wars - Battle Pod.mp4</video>
-		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
-		<rating>0.95</rating>
-		<releasedate>20141201T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Arcade Shooter</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game>
 		<path>./MeltyBloodRE2.parrot</path>
 		<name>Melty Blood</name>
 		<desc>Fighting game released in 2011 for the Sega RingEdge 2 arcade platform.</desc>
@@ -2119,6 +2070,55 @@ Use the machine gun and defeat the enemies! Shoot the enemies and enemy helicopt
 		<developer>Raw Thrills PC Based</developer>
 		<publisher>Raw Thrills PC Based</publisher>
 		<genre>Racing</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./BattleGear4.parrot</path>
+		<name>Battle Gear 4</name>
+		<desc>Racing game released in 2005 for the Taito Type X+ arcade platform.</desc>
+		<image>./mixart/BattleGear4.png</image>
+		<video>./snap/BattleGear4.mp4</video>
+		<marquee>./wheel/BattleGear4.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Taito Type X+</developer>
+		<publisher>Taito Type X+</publisher>
+		<genre>Racing</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./RastanSaga.parrot</path>
+		<name>Rastan Saga for NESiCAxLive</name>
+		<desc>A barbarian's adventure across varying terrain while encountering an assortment of mythological creatures and weapons. Pick up bonus items to increase your characters health or protection against attack, but beware of the cursed items.</desc>
+		<image>./mixart/RastanSaga.png</image>
+		<video>./snap/RastanSaga.mp4</video>
+		<marquee>./wheel/RastanSaga.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20140101T000000</releasedate>
+		<developer>Taito NESiCAxLive</developer>
+		<publisher>Taito NESiCAxLive</publisher>
+		<genre>Platform</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game>
+		<path>./StarWars.parrot</path>
+		<name>Star Wars Battle Pod</name>
+		<desc>Star Wars: Battle Pod is an experiential arcade game that features a dome-shaped screen, transporting players into heated battles in a galaxy far, far away. In iconic locations like the Death Star, players will be able to take control of some of the most memorable vehicles and moments in the Star Wars universe and pilot them to victory.</desc>
+		<image>./mixart/Star Wars - Battle Pod.png</image>
+		<video>./snap/Star Wars - Battle Pod.mp4</video>
+		<marquee>./wheel/Star Wars - Battle Pod.png</marquee>
+		<rating>0.95</rating>
+		<releasedate>20141201T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Arcade Shooter</genre>
 		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>

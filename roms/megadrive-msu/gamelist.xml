@@ -965,26 +965,6 @@ If your vitality gets low in each scene, you'll lose a life. You can also choose
 		<region>eu</region>
 		<cheevosHash>F3980B6733B91375295954110168F925</cheevosHash>
 	</game>
-	<game id="22">
-		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD)/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).md</path>
-		<name>Castle of Illusion Starring Mickey Mouse</name>
-		<desc>This is the first Mickey Mouse game for Sega consoles. In this game the famous Disney character must face the dangers of weird fantasy lands such as an enchanted forest and a toy world. Mickey must rescue his girlfriend Minnie who's been kidnapped by the evil witch Mizrabel.
-
-The game play follows the traditional 2D hop 'n' bop platform style in both 8-bit and 16-bit versions. Apart from the story and the music, which is the same, all the rest (including controls, moves, stages and, obviously, graphics), are totally different.</desc>
-		<image>./mixart/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).png</image>
-		<video>./snap/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).mp4</video>
-		<marquee>./wheel/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>19901122T000000</releasedate>
-		<developer>SEGA</developer>
-		<publisher>SEGA</publisher>
-		<genre>Platform / Run Jump Scrolling</genre>
-		<family>Mickey Mouse</family>
-		<players>1</players>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>6DD458070F05016AC9A9A1FF8B14EF63</cheevosHash>
-	</game>
 	<game id="72">
 		<path>./Rocket Knight Adventures (USA) (MSU-MD)/Rocket Knight Adventures (USA) (MSU-MD).md</path>
 		<name>Rocket Knight Adventures</name>
@@ -1190,5 +1170,25 @@ Because the game follows the movie so closely, the first mission which involves 
 		<lang>en</lang>
 		<region>us</region>
 		<cheevosHash>FB89FBF700AE7D0261EDC1DF83ECA98A</cheevosHash>
+	</game>
+	<game id="22">
+		<path>./Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD)/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).md</path>
+		<name>Castle of Illusion Starring Mickey Mouse</name>
+		<desc>This is the first Mickey Mouse game for Sega consoles. In this game the famous Disney character must face the dangers of weird fantasy lands such as an enchanted forest and a toy world. Mickey must rescue his girlfriend Minnie who's been kidnapped by the evil witch Mizrabel.
+
+The game play follows the traditional 2D hop 'n' bop platform style in both 8-bit and 16-bit versions. Apart from the story and the music, which is the same, all the rest (including controls, moves, stages and, obviously, graphics), are totally different.</desc>
+		<image>./mixart/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).png</image>
+		<video>./snap/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).mp4</video>
+		<marquee>./wheel/Castle of Illusion Starring Mickey Mouse (USA, Europe) (MSU-MD).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>19901122T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Platform / Run Jump Scrolling</genre>
+		<family>Mickey Mouse</family>
+		<players>1</players>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>6DD458070F05016AC9A9A1FF8B14EF63</cheevosHash>
 	</game>
 </gameList>

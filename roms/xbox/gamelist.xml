@@ -1688,23 +1688,6 @@ Music by Moby, Fatboy Slim, Propellorheads &amp; More!</desc>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="14946">
-		<path>./OutRun 2 (USA).xiso.iso</path>
-		<name>OutRun 2</name>
-		<desc>Arcade style racing action meets challenge based skills driving. Driving between different zones to reach the finish point with choices of which route to take along the way means you can select the difficulty along the way. This is the sequel to the original arcade classic and has a very similar style graphically and gameplay.</desc>
-		<image>./mixart/OutRun 2 (USA).xiso.png</image>
-		<video>./snap/OutRun 2 (USA).xiso.mp4</video>
-		<marquee>./wheel/OutRun 2 (USA).xiso.png</marquee>
-		<rating>0.85</rating>
-		<releasedate>20041025T000000</releasedate>
-		<developer>AM R&amp;D Dept. #2</developer>
-		<publisher>SEGA</publisher>
-		<genre>Race, Driving</genre>
-		<family>OutRun</family>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="14949">
 		<path>./SSX Tricky (USA).xiso.iso</path>
 		<name>Ssx Tricky</name>
@@ -3911,5 +3894,22 @@ The heart of the single-player mode (besides the quick battle against the AI) ar
 		<players>2-4</players>
 		<lang>de,en,es,fr,it</lang>
 		<region>eu</region>
+	</game>
+	<game id="14946">
+		<path>./OutRun 2 (USA).xiso.iso</path>
+		<name>OutRun 2</name>
+		<desc>Arcade style racing action meets challenge based skills driving. Driving between different zones to reach the finish point with choices of which route to take along the way means you can select the difficulty along the way. This is the sequel to the original arcade classic and has a very similar style graphically and gameplay.</desc>
+		<image>./mixart/OutRun 2 (USA).xiso.png</image>
+		<video>./snap/OutRun 2 (USA).xiso.mp4</video>
+		<marquee>./wheel/OutRun 2 (USA).xiso.png</marquee>
+		<rating>0.85</rating>
+		<releasedate>20041025T000000</releasedate>
+		<developer>AM R&amp;D Dept. #2</developer>
+		<publisher>SEGA</publisher>
+		<genre>Race, Driving</genre>
+		<family>OutRun</family>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
 	</game>
 </gameList>
