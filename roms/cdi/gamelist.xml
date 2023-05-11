@@ -1904,24 +1904,6 @@ In each player's turn they can perform two moves, two actions or a action and a 
 		<region>us</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 	</game>
-	<game id="104676" source="ScreenScraper.fr">
-		<path>./Apprentice, The (Europe).cue</path>
-		<name>The Apprentice</name>
-		<desc>Poor Marvin needs your help! As apprentice to the great wizard Gandorf S. Wandburner III, Marvin must perform treacherous tasks throughout the castle towers. Take control of the apprentice and guide him through six heart-stopping levels in the arcade-style platform game that delivers fast, furious play with thousands of frames of animation. You'll be running, jumping, flying, even swimming your way around the towers, working against the clock and all the beastly enemies who are eager to prove that a wizard's work is never done!</desc>
-		<image>./mixart/Apprentice, The (Europe).png</image>
-		<video>./snap/Apprentice, The (Europe).mp4</video>
-		<marquee>./wheel/Apprentice, The (Europe).png</marquee>
-		<releasedate>19940101T000000</releasedate>
-		<developer>The Vision Factory</developer>
-		<publisher>Philips Interactive Media</publisher>
-		<genre>Platform</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>eu</region>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-		<genreid>257</genreid>
-	</game>
 	<game id="104676">
 		<path>./Apprentice, The (Europe).chd</path>
 		<name>The Apprentice</name>
@@ -4178,5 +4160,23 @@ Inca is a game that combines adventure and action, or to put it more correctly, 
 		<region>eu</region>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
 		<genreid>512</genreid>
+	</game>
+	<game id="104676" source="ScreenScraper.fr">
+		<path>./Apprentice, The (Europe).cue</path>
+		<name>The Apprentice</name>
+		<desc>Poor Marvin needs your help! As apprentice to the great wizard Gandorf S. Wandburner III, Marvin must perform treacherous tasks throughout the castle towers. Take control of the apprentice and guide him through six heart-stopping levels in the arcade-style platform game that delivers fast, furious play with thousands of frames of animation. You'll be running, jumping, flying, even swimming your way around the towers, working against the clock and all the beastly enemies who are eager to prove that a wizard's work is never done!</desc>
+		<image>./mixart/Apprentice, The (Europe).png</image>
+		<video>./snap/Apprentice, The (Europe).mp4</video>
+		<marquee>./wheel/Apprentice, The (Europe).png</marquee>
+		<releasedate>19940101T000000</releasedate>
+		<developer>The Vision Factory</developer>
+		<publisher>Philips Interactive Media</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>eu</region>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+		<genreid>257</genreid>
 	</game>
 </gameList>

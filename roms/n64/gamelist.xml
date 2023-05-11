@@ -5293,25 +5293,6 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<cheevosHash>FD417F24466BEE4443CF0A7740E34C1A</cheevosHash>
 	</game>
 	<game>
-		<path>./Star Fox 64 (USA) (Rev A).n64</path>
-		<name>'H' Star Fox 64</name>
-		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
-		<emulator>project64</emulator>
-		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
-		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
-		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19970630T000000</releasedate>
-		<developer>Nintendo</developer>
-		<publisher>Nintendo</publisher>
-		<genre>Shoot'em Up-Action</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
-	</game>
-	<game>
 		<path>./Cruis'n Exotica (USA).n64</path>
 		<name>Cruis'n Exotica</name>
 		<desc>The sequel to Cruis'n World both in the arcades and on Nintendo 64, Cruis'n Exotica lets you race against the computer or up to three other opponents in a wide variety of cars and locales. Game mechanics follow "arcade" rules, which include "turbos" to accelerate to (and raise) maximum speed, and any deviation off of the track bumps you right back on it.  Cars range from sportcars to more esoteric cars like trucks, minis, and police vehicles. Tracks model real life (Alaska, India, Korea, etc.) and eventually branch out into fantasy worlds (Atlantis, Amazon, Mars).</desc>
@@ -5346,6 +5327,25 @@ In this hack, Mario only has 6 health instead of the normal 8 and a separate gau
 		<region>us</region>
 		<cheevosHash>E19398A0FD1CC12DF64FCA7FBCAA82CC</cheevosHash>
 		<cheevosId>10078</cheevosId>
+	</game>
+	<game>
+		<path>./Star Fox 64 (USA) (Rev A).n64</path>
+		<name>'H' Star Fox 64</name>
+		<desc>The Lylat system has been invaded! Join Fox McCloud and his Star Fox team as they fight to save the galaxy from the clutches of the evil Andross. Travel to many different 3-D worlds. Battle the enemy in the air and on the ground and listen in as Fox McCloud interacts with a cast of characters.</desc>
+		<emulator>project64</emulator>
+		<image>./mixart/Star Fox 64 (USA) (Rev A).png</image>
+		<video>./snap/Star Fox 64 (USA) (Rev A).mp4</video>
+		<marquee>./wheel/Star Fox 64 (USA) (Rev A).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19970630T000000</releasedate>
+		<developer>Nintendo</developer>
+		<publisher>Nintendo</publisher>
+		<genre>Shoot'em Up-Action</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>EF9A76901153F66123DAFCCB0C13CD94</cheevosHash>
 	</game>
 	<game>
 		<path>./Conker's Bad Fur Day (USA).n64</path>

@@ -2019,4 +2019,19 @@ There are various enemies - alien fauna - lurking around planet Zebes. The enemi
 		<cheevosHash>B6F4EB1F8EF112982EDE66075BC48BFD</cheevosHash>
 		<cheevosId>300</cheevosId>
 	</game>
+	<game>
+		<path>./Mega Man II MSU1.sfc</path>
+		<name>Mega Man II</name>
+		<desc>A homebrew hack based on 1989 NES Mega Man II ported to SNES-MSU1.</desc>
+		<image>./mixart/Mega Man II MSU1.png</image>
+		<video>./snap/Mega Man II MSU1.mp4</video>
+		<marquee>./wheel/Mega Man II MSU1.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20230303T000000</releasedate>
+		<developer>Infidelity</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+	</game>
 </gameList>

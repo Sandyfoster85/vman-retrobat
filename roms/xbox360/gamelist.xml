@@ -1260,26 +1260,6 @@ This title is an expanded version of the 2008 iOS game of the same name, but wit
 		<marquee>./wheel/Joe Danger Special Edition.png</marquee>
 		<video>./snap/Joe Danger Special Edition.mp4</video>
 	</game>
-	<game id="17475">
-		<path>./Lode Runner.m3u</path>
-		<name>Lode Runner</name>
-		<desc>Lode Runner is the Xbox Live Arcade remake of the 1983 Commodore 64 and Apple II title. A puzzle and platformer, Lode Runner places you in a setting made up of bricks, ladders and walkways in which you must navigate to collect gold.
-
-This version of the game features nearly 200 levels, a resistance mode, a puzzle mode and a level editor. The software also offers multiplayer functions for 4 participants and even cooperation for 2.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Lode Runner.png</image>
-		<marquee>./wheel/Lode Runner.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20090422T000000</releasedate>
-		<developer>Tozai Games</developer>
-		<publisher>Tozai Games</publisher>
-		<genre>Puzzle-Game</genre>
-		<players>2-4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<video>./snap/Lode Runner.mp4</video>
-	</game>
 	<game id="17440">
 		<path>./Phantom Breaker Battle Grounds.m3u</path>
 		<name>Phantom Breaker Battle Grounds</name>
@@ -3737,22 +3717,6 @@ Every once in a blue moon, Holly's Comet lands at the top of the monster-infeste
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game id="17997">
-		<path>./Robotron 2084.m3u</path>
-		<name>Robotron : 2084</name>
-		<desc>In Robotron: 2084 on the Xbox Live Arcade, you play as a mutant who must save humanity from the Robotron invasion. In this action game, you are sent through a series of rooms filled with enemies to destroy and humans to save. You can move and shoot in eight different directions. Note that you don't have to shoot straight ahead as the hero can send a beam in any direction.</desc>
-		<image>./mixart/Robotron 2084.png</image>
-		<video>./snap/Robotron 2084.mp4</video>
-		<marquee>./wheel/Robotron 2084.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20051122T000000</releasedate>
-		<developer>Williams</developer>
-		<publisher>Midway</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game>
 		<path>./Rumble Roses Xx.m3u</path>
 		<name>Rumble Roses Xx</name>
@@ -3836,46 +3800,6 @@ Every once in a blue moon, Holly's Comet lands at the top of the monster-infeste
 		<md5>26a49f8b9e039f18722babe06018e13b</md5>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20220813T083209" />
-	</game>
-	<game id="16355">
-		<path>./Strider.m3u</path>
-		<name>Strider</name>
-		<desc>The Strider organization sends their best assassin, Hiryu, to kill the villain, Grandmaster Meio,in the metropolis of Kazakh City. The game is a retelling of the "core Strider story" and its common theme which centers around Hiryu's battle against Grandmaster Meio. The game mixes together elements from the first arcade Strider game, the NES console game, Strider 2, his Marvel vs. Capcom fighting game appearances, and the original manga from Moto Kikaku.
-
-The player control the series' main character, Strider Hiryu. The environment is freely explorable in search for weapons and items. Strider Hiryu's main weapon is his Cypher, a plasma weapon that can take several properties. Upgrades for the Cypher can be obtained by exploring Kazakh.</desc>
-		<image>./mixart/Strider.jpg</image>
-		<video>./snap/Strider.mp4</video>
-		<marquee>./wheel/Strider.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20140219T000000</releasedate>
-		<developer>Double Helix Games</developer>
-		<publisher>Capcom</publisher>
-		<genre>Platform</genre>
-		<family>Strider</family>
-		<players>1</players>
-		<favorite>true</favorite>
-		<md5>7b6e4842ce6cf64a36d9331a14715aea</md5>
-		<lang>en</lang>
-		<scrap name="ScreenScraper" date="20220815T134742" />
-	</game>
-	<game id="17553">
-		<path>./Super Contra.m3u</path>
-		<name>Super Contra</name>
-		<desc>Bill and Lance are back in Super Contra on Xbox Live and must fend off the alien invader, this time taking up residence in a military base in South America. Choose one of the two soldiers and, armed with your infinite ammo sledgehammer, wreak havoc on the enemy ranks. Opt for the co-op mode to play with a friend and unlock the various achievements of the title.</desc>
-		<emulator>xenia</emulator>
-		<core>xenia-canary</core>
-		<image>./mixart/Super Contra.png</image>
-		<video>./snap/Super Contra.mp4</video>
-		<marquee>./wheel/Super Contra.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>20070725T000000</releasedate>
-		<developer>Digital Eclipse</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<family>Contra</family>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
 	</game>
 	<game id="18094">
 		<path>./Tempest.m3u</path>
@@ -4618,6 +4542,82 @@ As either Bill (player 1) or Lance (player 2), the player must get to the end of
 		<publisher>Frozen Codebase</publisher>
 		<genre>Various</genre>
 		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="16355">
+		<path>./Strider.m3u</path>
+		<name>Strider</name>
+		<desc>The Strider organization sends their best assassin, Hiryu, to kill the villain, Grandmaster Meio,in the metropolis of Kazakh City. The game is a retelling of the "core Strider story" and its common theme which centers around Hiryu's battle against Grandmaster Meio. The game mixes together elements from the first arcade Strider game, the NES console game, Strider 2, his Marvel vs. Capcom fighting game appearances, and the original manga from Moto Kikaku.
+
+The player control the series' main character, Strider Hiryu. The environment is freely explorable in search for weapons and items. Strider Hiryu's main weapon is his Cypher, a plasma weapon that can take several properties. Upgrades for the Cypher can be obtained by exploring Kazakh.</desc>
+		<image>./mixart/Strider.jpg</image>
+		<video>./snap/Strider.mp4</video>
+		<marquee>./wheel/Strider.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20140219T000000</releasedate>
+		<developer>Double Helix Games</developer>
+		<publisher>Capcom</publisher>
+		<genre>Platform</genre>
+		<family>Strider</family>
+		<players>1</players>
+		<favorite>true</favorite>
+		<md5>7b6e4842ce6cf64a36d9331a14715aea</md5>
+		<lang>en</lang>
+		<scrap name="ScreenScraper" date="20220815T134742" />
+	</game>
+	<game id="17553">
+		<path>./Super Contra.m3u</path>
+		<name>Super Contra</name>
+		<desc>Bill and Lance are back in Super Contra on Xbox Live and must fend off the alien invader, this time taking up residence in a military base in South America. Choose one of the two soldiers and, armed with your infinite ammo sledgehammer, wreak havoc on the enemy ranks. Opt for the co-op mode to play with a friend and unlock the various achievements of the title.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Super Contra.png</image>
+		<video>./snap/Super Contra.mp4</video>
+		<marquee>./wheel/Super Contra.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20070725T000000</releasedate>
+		<developer>Digital Eclipse</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<family>Contra</family>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17475">
+		<path>./Lode Runner.m3u</path>
+		<name>Lode Runner</name>
+		<desc>Lode Runner is the Xbox Live Arcade remake of the 1983 Commodore 64 and Apple II title. A puzzle and platformer, Lode Runner places you in a setting made up of bricks, ladders and walkways in which you must navigate to collect gold.
+
+This version of the game features nearly 200 levels, a resistance mode, a puzzle mode and a level editor. The software also offers multiplayer functions for 4 participants and even cooperation for 2.</desc>
+		<emulator>xenia</emulator>
+		<core>xenia-canary</core>
+		<image>./mixart/Lode Runner.png</image>
+		<video>./snap/Lode Runner.mp4</video>
+		<marquee>./wheel/Lode Runner.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20090422T000000</releasedate>
+		<developer>Tozai Games</developer>
+		<publisher>Tozai Games</publisher>
+		<genre>Puzzle-Game</genre>
+		<players>2-4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="17997">
+		<path>./Robotron 2084.m3u</path>
+		<name>Robotron : 2084</name>
+		<desc>In Robotron: 2084 on the Xbox Live Arcade, you play as a mutant who must save humanity from the Robotron invasion. In this action game, you are sent through a series of rooms filled with enemies to destroy and humans to save. You can move and shoot in eight different directions. Note that you don't have to shoot straight ahead as the hero can send a beam in any direction.</desc>
+		<image>./mixart/Robotron 2084.png</image>
+		<video>./snap/Robotron 2084.mp4</video>
+		<marquee>./wheel/Robotron 2084.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>20051122T000000</releasedate>
+		<developer>Williams</developer>
+		<publisher>Midway</publisher>
+		<genre>Action</genre>
+		<players>2</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

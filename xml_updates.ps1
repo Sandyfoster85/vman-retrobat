@@ -109,7 +109,7 @@ $collection_custom0.ParentNode.RemoveChild($collection_custom0)
 $collection_custom0 = $es_settings.CreateElement("string")
 $collection_custom = $es_settings.config.AppendChild($collection_custom0)
 $collection_custom.SetAttribute("name","CollectionSystemsCustom")
-$collection_custom.SetAttribute("value","Virtualman-Xmas-Special,baseball,basketball,batman,bmx,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,homebrews,kof,lightgun,lotr,mario,mariokart,marvel,megaman,metalslug,metroid,mortalkombat,ninja,oldschool,pinball,racing,samuraishodown,shmups,skateboarding,snowboarding,soccer,sonic,sor,sports,starwars,streetfighter,tennis,tetris,tmnt,trackball,tron,wrestling,zelda")
+$collection_custom.SetAttribute("value","Virtualman-Xmas-Special,baseball,basketball,batman,bmx,bowling,boxing,btmups,castlevania,cps1,cps2,cps3,donkeykong,doom,doubledragon,finalfantasy,finalfight,fishing,football,goldenaxe,golf,hockey,homebrews,kof,lightgun,lotr,mario,mariokart,marvel,megaman,metalslug,metroid,sega model 1,mortalkombat,ninja,oldschool,pinball,racing,samuraishodown,shmups,skateboarding,snowboarding,soccer,sonic,sor,sports,starwars,streetfighter,tennis,tetris,tmnt,trackball,tron,wrestling,zelda")
 
 # 8. 2023-01-22 - Update neogeo FoldViewMode in order to see #homebrews
 $neogeo_folderview0 = $es_settings.SelectSingleNode("//string[@name='neogeo.FolderViewMode']")
@@ -166,6 +166,11 @@ $fmtowns.extension = '.m3u .d88 .d77 .xdf .iso .game .cd .chd'
 # 15. 2023-4-14 - Added .p extensions in es_systems.cfg for zx81, reported by gspawn
 $zx81 = $es_systems.SelectSingleNode("//system[name='zx81']")
 $zx81.extension	= 'tzx .tap .z80 .Z80 .rzx .scl .trd .zip .7z .p'
+
+# 16. 2023-4-28 - Correct pokemon-mini name in es_systems.cfg, reported by Virtualman
+$pokemon-mini = $es_systems.SelectSingleNode("//fullname[name='Pokemon-Mini']")
+$pokemon-mini = 'Nintendo Pokemon-Mini'
+
 
 #$es_systems.save($es_systems_path)
 $es_settings.save($es_settings_path)

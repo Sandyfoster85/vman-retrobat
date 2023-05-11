@@ -95,6 +95,9 @@ copy /y  "V:\_tools\vman-retrobat-master\RetroBat\backup\vman_orig\RetroBat\emul
 rem 11. 2023-2-04 - New RBL Features ES Menu sync
 robocopy V:\_tools\vman-retrobat-master\RetroBat\system\es_menu\ V:\RetroBat\system\es_menu\ /S /NFL /NDL /IS /MT:4
 
+rem 12. 2023-4-29 - rm old model1 collection as it's replaced with sega model 1.cfg for system sort reason
+DEL /F /Q V:\RetroBat\emulationstation\.emulationstation\collections\custom-model1.cfg 2>nul
+
 rem Apply XML-based updates using PowerShell
 powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\xml_updates.ps1
 

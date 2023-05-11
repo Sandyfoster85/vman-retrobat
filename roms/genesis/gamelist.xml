@@ -6014,26 +6014,6 @@ Four players can play in a round, with each player taking turns. There's also a 
 		<region>eu</region>
 		<cheevosHash>D062B85CBBD54F57DE313D09E5C0BFEC</cheevosHash>
 	</game>
-	<game id="13" source="ScreenScraper.fr">
-		<path>./Crusader of Centy (USA).7z</path>
-		<name>Crusader of Centy</name>
-		<desc>Before the time of plants and animals, the earth was completely dark, and inhabited by things we now call 'monsters'. When some voice said 'Let There Be Light' , many monsters died because they could not live in this new light world. Not all died however; some of them hid in caves, and grew stronger. Now, they want to return to the world, and in these days you live your life.
-
-On your fourteenth birthday you are given your deceased father's sword and shield. Now you are considered ready for the trials and maybe, just maybe, you can become a hero yourself.</desc>
-		<image>./mixart/Crusader of Centy (USA).png</image>
-		<video>./snap/Crusader of Centy (USA).mp4</video>
-		<marquee>./wheel/Crusader of Centy (USA).png</marquee>
-		<rating>0.85</rating>
-		<releasedate>19940616T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Atlus - Nextech - Sega</publisher>
-		<genre>Role playing games</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>4EAD1C30202DBC10AD3E327F69770570</cheevosHash>
-		<cheevosId>1438</cheevosId>
-	</game>
 	<game id="1041" source="ScreenScraper.fr">
 		<path>./Crystal's Pony Tale (USA).7z</path>
 		<name>Crystal's Pony Tale</name>
@@ -16525,5 +16505,26 @@ Enemies are also smarter with weapons, and some can even steal health upgrades, 
 		<region>kr</region>
 		<cheevosHash>2BD30479556DA5C310D8F2A1FE66E8FA</cheevosHash>
 		<cheevosId>120</cheevosId>
+	</game>
+	<game id="13" source="ScreenScraper.fr">
+		<path>./Crusader of Centy (USA).7z</path>
+		<name>Crusader of Centy</name>
+		<desc>Before the time of plants and animals, the earth was completely dark, and inhabited by things we now call 'monsters'. When some voice said 'Let There Be Light' , many monsters died because they could not live in this new light world. Not all died however; some of them hid in caves, and grew stronger. Now, they want to return to the world, and in these days you live your life.
+
+On your fourteenth birthday you are given your deceased father's sword and shield. Now you are considered ready for the trials and maybe, just maybe, you can become a hero yourself.</desc>
+		<image>./mixart/Crusader of Centy (USA).png</image>
+		<video>./snap/Crusader of Centy (USA).mp4</video>
+		<marquee>./wheel/Crusader of Centy (USA).png</marquee>
+		<rating>0.85</rating>
+		<releasedate>19940616T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Atlus - Nextech - Sega</publisher>
+		<genre>Role playing games</genre>
+		<players>1</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4EAD1C30202DBC10AD3E327F69770570</cheevosHash>
+		<cheevosId>1438</cheevosId>
 	</game>
 </gameList>

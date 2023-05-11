@@ -5099,24 +5099,6 @@ Another 100 years has passed since the death of Count Dracula, but the revival o
 		<genre>Platform</genre>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
-		<name>Mario Kart Wii Deluxe (Green Edition)</name>
-		<desc>Up to four players, represented by Miis, compete against each other in a three round trivia contest. Players are given timed multiple choice answers, with players selecting their answers on their screen with the Wii Remote, with the fastest lock-ins with the correct answer resulting in bigger prize money. Players can also take their chances for greater rewards by spinning a wheel with both good and bad outcomes after each round. At the end of the third round, the two highest scoring players are pitted against each other in the Final Duel to determine the winner. 
- 
-This game features an elimination version, where a wrong answer eliminates you from the competition. There is also a 2-on-2 duel version and the return of the Quiz Attack for a solo player to see how many consecutive correct answers they can achieve.</desc>
-		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
-		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
-		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>20230203T000000</releasedate>
-		<developer>FJRoyet</developer>
-		<publisher>Homebrew</publisher>
-		<genre>Party, Racing</genre>
-		<players>4</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="8692" source="ScreenScraper.fr">
 		<path>./Super Smash Bros. Brawl.cc.rvz</path>
 		<name>Super Smash Bros. Brawl</name>
@@ -5487,26 +5469,6 @@ Alien Crush Returns is the ultimate incarnation of the popular TurboGrafx pinbal
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="9759" source="ScreenScraper.fr">
-		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
-		<name>Contra Rebirth</name>
-		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
-
-Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
-		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
-		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
-		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
-		<rating>0.75</rating>
-		<releasedate>20090512T000000</releasedate>
-		<developer>Konami</developer>
-		<publisher>Konami</publisher>
-		<genre>Action</genre>
-		<players>2</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>256</genreid>
-	</game>
 	<game id="8724">
 		<path>./Metroid - Other M (USA) (En,Fr,Es) (Rev 1).rvz</path>
 		<name>Metroid: Other M</name>
@@ -5566,5 +5528,41 @@ Players can also take a snapshot of the worlds they've completed along with thei
 		<lang>en,es,fr</lang>
 		<region>eu</region>
 		<genreid>257</genreid>
+	</game>
+	<game>
+		<path>./#homebrews/Mario Kart Wii Deluxe.wbfs</path>
+		<name>Mario Kart Wii Deluxe (Green Edition)</name>
+		<desc>Mario Kart Wii Deluxe is a custom track distribution created by FJRoyet. It features all available retro tracks from SNES to Wii U/Mario Kart Tour in their original order. This also features retro tracks from other games and custom tracks that the author finds to be, to date, the best visually, giving a total of 656 tracks and 10 battle arenas. It also includes new features such as Fake Item Boxes that appear completely identical to regular item boxes, modified statistics of all vehicles and many more features to give a better gameplay experience.</desc>
+		<image>./#homebrews/mixart/Mario Kart Wii Deluxe.png</image>
+		<video>./#homebrews/snap/Mario Kart Wii Deluxe.mp4</video>
+		<marquee>./#homebrews/wheel/Mario Kart Wii Deluxe.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>20230203T000000</releasedate>
+		<developer>FJRoyet</developer>
+		<publisher>Homebrew</publisher>
+		<genre>Party, Racing</genre>
+		<players>4</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game id="9759" source="ScreenScraper.fr">
+		<path>./Contra ReBirth (USA) (WiiWare).wad</path>
+		<name>Contra Rebirth</name>
+		<desc>Experience fast paced 2D side scrolling action from the series that pioneered the run-and-gun genre.
+
+Chief Salamander and his Neo-Salamander Force travel back to 1973 AD to invade Earth. They land in Central America and take control of the Shizuoka ruins on the Yucatan Peninsula. There, the aliens plan the destruction of all the ?Contra" on Earth. The Galactic President calls on Lance Bean, a member of the elite "Contra" warriors to save the Earth, but his sudden disappearance jeopardizes the safety of the planet. Now, Bill Rizer and the samurai, Genbei Yagyu are the last hope for Earth and must pick up their weapons and defeat the evil Neo-Salamander Army before all is lost. Experience the fast paced action packed 2D side-scrolling adventure that pioneered the run-and-gun genre.</desc>
+		<image>./mixart/Contra ReBirth (USA) (WiiWare).png</image>
+		<video>./snap/Contra ReBirth (USA) (WiiWare).mp4</video>
+		<marquee>./wheel/Contra ReBirth (USA) (WiiWare).png</marquee>
+		<rating>0.75</rating>
+		<releasedate>20090512T000000</releasedate>
+		<developer>Konami</developer>
+		<publisher>Konami</publisher>
+		<genre>Action</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>256</genreid>
 	</game>
 </gameList>

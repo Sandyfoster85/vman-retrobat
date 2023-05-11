@@ -5180,24 +5180,6 @@ In the track editor the track is represented by a single line or ribbon. You can
 		<cheevosHash>7F0518922757B2DA630F8BDAA91FF6AC</cheevosHash>
 		<cheevosId>4594</cheevosId>
 	</game>
-	<game id="13663" source="ScreenScraper.fr">
-		<path>./Tokyo Xtreme Racer (USA).chd</path>
-		<name>Tokyo Xtreme Racer</name>
-		<desc>Tokyo Xtreme Racer, known as ShutokÅ  Battle (é¦–éƒ½é«˜ãƒ ãƒˆãƒ«) in Japan and Tokyo Highway Challenge in Europe, is a racing video game for the Sega Dreamcast. Released in 1999 as one of the console's launch titles, the game was one of the first mission-based racing games. The gameplay involves the player challenging other drivers on the Shuto Expressway in order to gain money to modify and enhance his or her car. The game features a wide variety of Japanese cars and tuning parts to purchase as the player progresses through rivals.    When released in Japan, ShutokÅ  Battle was one of the best selling Dreamcast titles at this time. The game is based on illegal highway racing in Tokyo's Wangan highway with custom tuned cars. A such phenomenon is growing popular in Japan since the 90's with its dedicated manga (ShutokÅ  Battle's biggest inspiration being Wangan Midnight), anime series and video games (C1 Circuit, Wangan Trial, Naniwa Wangan Battle).</desc>
-		<image>./mixart/Tokyo Xtreme Racer (USA).png</image>
-		<video>./snap/Tokyo Xtreme Racer (USA).mp4</video>
-		<marquee>./wheel/Tokyo Xtreme Racer (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19990909T000000</releasedate>
-		<developer>Crave Entertainment</developer>
-		<publisher>Genki</publisher>
-		<genre>Race, Driving</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>7D88F8782D4471A4430BC5CE5E924C62</cheevosHash>
-		<cheevosId>10836</cheevosId>
-	</game>
 	<game id="13529" source="ScreenScraper.fr">
 		<path>./Ecco the Dolphin - Defender of the Future (USA).chd</path>
 		<name>ECCO the Dolphin - Defender of the Future</name>
@@ -5754,22 +5736,6 @@ The year is 2049. A mysterious group known as “The Congregation of Gogoh” ha
 		<genreid>257</genreid>
 	</game>
 	<game>
-		<path>./#homebrews/Volgarr the Viking.cdi</path>
-		<name>Volgarr the Viking</name>
-		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
-		<image>./#homebrews/mixart/Volgarr the Viking.png</image>
-		<video>./#homebrews/snap/Volgarr the Viking.mp4</video>
-		<marquee>./#homebrews/wheel/Volgarr the Viking.png</marquee>
-		<rating>0.9</rating>
-		<releasedate>20150424T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Action</genre>
-		<favorite>true</favorite>
-		<lang>en</lang>
-		<cheevosHash>00000000000000000000000000000000</cheevosHash>
-	</game>
-	<game>
 		<path>./#homebrews/Aliens Quake.cdi</path>
 		<name>Aliens Quake</name>
 		<desc>The Quake TC that was "foxxed" by 20th Century Fox. Good models, maps could be better. For the original Quake, already pre-patched with any previous updates that had been released by the original Mod developers.</desc>
@@ -6101,5 +6067,39 @@ The result of five months of hard work, Teenage Mutant Ninja Turtles: The Cowabu
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game>
+		<path>./#homebrews/Volgarr the Viking.cdi</path>
+		<name>Volgarr the Viking</name>
+		<desc>Do you have what it takes to be the greatest Viking Barbarian Lord in the world? Return to the Golden Age of arcade gaming with all-new hardcore action experience that pulls no punches. Playing as Volgarr the Viking, use your sword and spear to slaughter your foes in bloody combat. Battle Gigantic bosses in every world and find secrets that lead to unknown paths. Holding onto Volgarr's gear is key; his very life depends on it.</desc>
+		<image>./#homebrews/mixart/Volgarr the Viking.png</image>
+		<video>./#homebrews/snap/Volgarr the Viking.mp4</video>
+		<marquee>./#homebrews/wheel/Volgarr the Viking.png</marquee>
+		<rating>0.9</rating>
+		<releasedate>20150424T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Action</genre>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<cheevosHash>00000000000000000000000000000000</cheevosHash>
+	</game>
+	<game id="13663" source="ScreenScraper.fr">
+		<path>./Tokyo Xtreme Racer (USA).chd</path>
+		<name>Tokyo Xtreme Racer</name>
+		<desc>Tokyo Xtreme Racer, known as ShutokÅ  Battle (é¦–éƒ½é«˜ãƒ ãƒˆãƒ«) in Japan and Tokyo Highway Challenge in Europe, is a racing video game for the Sega Dreamcast. Released in 1999 as one of the console's launch titles, the game was one of the first mission-based racing games. The gameplay involves the player challenging other drivers on the Shuto Expressway in order to gain money to modify and enhance his or her car. The game features a wide variety of Japanese cars and tuning parts to purchase as the player progresses through rivals.    When released in Japan, ShutokÅ  Battle was one of the best selling Dreamcast titles at this time. The game is based on illegal highway racing in Tokyo's Wangan highway with custom tuned cars. A such phenomenon is growing popular in Japan since the 90's with its dedicated manga (ShutokÅ  Battle's biggest inspiration being Wangan Midnight), anime series and video games (C1 Circuit, Wangan Trial, Naniwa Wangan Battle).</desc>
+		<image>./mixart/Tokyo Xtreme Racer (USA).png</image>
+		<video>./snap/Tokyo Xtreme Racer (USA).mp4</video>
+		<marquee>./wheel/Tokyo Xtreme Racer (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19990909T000000</releasedate>
+		<developer>Crave Entertainment</developer>
+		<publisher>Genki</publisher>
+		<genre>Race, Driving</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>7D88F8782D4471A4430BC5CE5E924C62</cheevosHash>
+		<cheevosId>10836</cheevosId>
 	</game>
 </gameList>

@@ -209,25 +209,6 @@ On the more difficult skill levels, circuit parts may even overheat and cause a 
 		<cheevosHash>ED0D27C9494C8E06AEFA45AB5640F1F7</cheevosHash>
 	</game>
 	<game>
-		<path>./BurgerTime (World).7z</path>
-		<name>BurgerTime</name>
-		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
-
-To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</desc>
-		<image>./mixart/BurgerTime (World).png</image>
-		<video>./snap/BurgerTime (World).mp4</video>
-		<marquee>./wheel/BurgerTime (World).png</marquee>
-		<releasedate>19820101T000000</releasedate>
-		<developer>Mattel Electronics</developer>
-		<publisher>Mattel Electronics</publisher>
-		<genre>Stealth</genre>
-		<players>No</players>
-		<lang>en</lang>
-		<region>wr</region>
-		<cheevosHash>D81075A4C254463724AC3BAB0B500A08</cheevosHash>
-		<cheevosId>17859</cheevosId>
-	</game>
-	<game>
 		<path>./Buzz Bombers (World).7z</path>
 		<name>Buzz Bombers</name>
 		<desc>Buzz Bombers is an arcade action game similar to Centipede. You control a can of bug spray at the bottom of the screen, and you need to defend yourself from the swarms of incoming bees. The bees start at the top of the screen, and fly their way back and forth, slowly heading towards the bottom of the screen. If they reach the ground, they will pollinate the flowers there which causes them to grow and will restrict movement of your spray can. When you shoot a bee, it will turn into a honeycomb. The honeycombs will cause the bees to head towards the ground even faster, since they will turn around when one is in their way. Your spray can is able to shoot the honeycombs, but if you leave them in place a hummingbird will fly around and eat the honey from them. The more honey the hummingbird eats, the more points you get. The game ends when all of your spray cans are destroyed by growing flowers.</desc>
@@ -2142,5 +2123,25 @@ Mixed in with the meteors are white spinning bombs. While letting a meteor get p
 		<region>wr</region>
 		<cheevosHash>8F6A5B5B65D84F947236E503D378370B</cheevosHash>
 		<cheevosId>8283</cheevosId>
+	</game>
+	<game>
+		<path>./BurgerTime (World).7z</path>
+		<name>BurgerTime</name>
+		<desc>You play as Chef Pepper and your goal is to make giant hamburgers while evil eggs, sausages and pickles chase you around the game area. 
+
+To properly make a hamburger you must assemble all of the ingredients together, dropping them from higher up onto the the burger area below. To actually do this you have to let Chef Pepper step all over the burger ingredients. As soon as an ingredient (a piece of lettuce for instance) has been stepped on, it will fall to the next level below. Falling food will squish any enemy following you and will also"bump" any other ingredient bellow it farther down. Also, as an emergency defense against the enemy food, you can collect pepper shakers which will allow you to puff out a small pepper cloud which will momentarily stun enemies, allowing you to walk past them.</desc>
+		<image>./mixart/BurgerTime (World).png</image>
+		<video>./snap/BurgerTime (World).mp4</video>
+		<marquee>./wheel/BurgerTime (World).png</marquee>
+		<releasedate>19820101T000000</releasedate>
+		<developer>Mattel Electronics</developer>
+		<publisher>Mattel Electronics</publisher>
+		<genre>Stealth</genre>
+		<players>No</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+		<region>wr</region>
+		<cheevosHash>D81075A4C254463724AC3BAB0B500A08</cheevosHash>
+		<cheevosId>17859</cheevosId>
 	</game>
 </gameList>

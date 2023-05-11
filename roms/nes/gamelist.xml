@@ -14338,28 +14338,6 @@ Travelling throughout these levels, Mega Man is confronted by an army of lesser 
 		<cheevosHash>4DE82CFCEADBF1A5E693B669B1221107</cheevosHash>
 		<cheevosId>1448</cheevosId>
 	</game>
-	<game id="1255" source="ScreenScraper.fr">
-		<path>./Mega Man 2 (USA).zip</path>
-		<name>Mega Man 2</name>
-		<desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
-
-Mega Man 2 is the sequel to the NES game Mega Man. In this game, Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man and Wood Man are Dr. Wily's eight prize creations that have been sent to take over the world.  As Mega Man defeats these bosses, he can steal their powers and use them for himself.  Each Robot Master is weak against another's weapon, and through experimentation, Mega Man can gain the upper hand by using the weapon they're vulnerable against.
-
-Other additions to the game include the 'E-Tank' - an item that can be used at any time to completely refill Mega Man's energy, and a Password System, which allows players to continue their game by recording which Robot Masters have been defeated and how many E-Tanks they have.  Mega Man 2 also removes the scoring system from the original game.</desc>
-		<image>./mixart/Mega Man 2 (USA).png</image>
-		<video>./snap/Mega Man 2 (USA).mp4</video>
-		<marquee>./wheel/Mega Man 2 (USA).png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19890702T000000</releasedate>
-		<developer>Capcom</developer>
-		<publisher>Capcom</publisher>
-		<genre>Action</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>0527A0EE512F69E08B8DB6DC97964632</cheevosHash>
-		<cheevosId>1451</cheevosId>
-	</game>
 	<game>
 		<path>./Mega Man 3 (USA).zip</path>
 		<name>Mega Man 3</name>
@@ -17000,30 +16978,6 @@ This game is one of the few Batman games that was not based directly on a movie 
 		<region>us</region>
 		<cheevosHash>830111DF30B8511562D4FACA6AEB792D</cheevosHash>
 		<cheevosId>4559</cheevosId>
-	</game>
-	<game id="1287" source="ScreenScraper.fr">
-		<path>./Batman - The Video Game (USA).zip</path>
-		<name>Batman: The Video Game</name>
-		<desc>The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
-
-The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
-
-Besides his ever trusting punches, Batman has plenty of weapons in his utility belt: the Batarang, the Spear Gun and the Dirk (a three direction weapon). Batman has an ammunition counter shared for the three weapons. The Batarang takes one pellet per shot, the Spear Gun two pellets and the Dirk, three. Batman also has an eight hit life bar, which can be replenished by collecting hearts dropped by killed enemies. The enemies will also drop pellet items (10 pellets per item) and bonus items (which will only sum up points).
-
-Batman can also perform a "wall jump": he'll grab a wall when jumping toward it, allowing him to escalate some narrow passages. Batman has three lives and unlimited continues.</desc>
-		<image>./mixart/Batman - The Video Game (USA).png</image>
-		<video>./snap/Batman - The Video Game (USA).mp4</video>
-		<marquee>./wheel/Batman - The Video Game (USA).png</marquee>
-		<rating>0.9</rating>
-		<releasedate>19900201T000000</releasedate>
-		<developer>Sunsoft</developer>
-		<publisher>Sunsoft</publisher>
-		<genre>Action-Platform</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<cheevosHash>341F6FD28FCDC7E246DED2750DD1C1E9</cheevosHash>
-		<cheevosId>1458</cheevosId>
 	</game>
 	<game id="1373" source="ScreenScraper.fr">
 		<path>./Batman Returns (USA).zip</path>
@@ -30922,8 +30876,10 @@ The game offers two different modes of play, "Type A" and "Type B". "Type A" is 
 	</game>
 	<game id="1246">
 		<path>./#homebrews/Super Mario Bros. 3+.zip</path>
-		<name>Super Mario Bros. 3+</name>
-		<desc>Homebrew, hack with 4 characters to choose from (Luigi, Mario, Toad, Peach). Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
+		<name>Super Mario Bros. 3+ Friends</name>
+		<desc>Homebrew, hack with 4 characters to choose from (Luigi, Mario, Toad, Peach) with all unique special moves.
+
+Bowser is back, and along with the Bowser kids, he's out to spoil Mario's day once again. 
 
 This time, along with nabbing the Princess, the Bowser crew have also taken the magic wands from the Kings of each land and turned them into creatures.
 It's up to Mario and Luigi to get back the magic wands, defeat Bowser, and save the Princess all before the day is done.
@@ -30938,8 +30894,54 @@ Old and new power-ups abound in each level for the Mario Brothers, including the
 		<publisher>Homebrew</publisher>
 		<genre>Platform</genre>
 		<family>Super Mario Bros</family>
-		<players>1-2</players>
+		<players>2</players>
 		<lang>en</lang>
 		<scrap name="ScreenScraper" date="20230422T194844" />
+	</game>
+	<game id="1287" source="ScreenScraper.fr">
+		<path>./Batman - The Video Game (USA).zip</path>
+		<name>Batman: The Video Game</name>
+		<desc>The NES version of Batman: The Video Game is loosely based on the 1989 movie. It is a side-scrolling game, with a blue dressed Batman fighting enemies such as robots, jet-packed soldiers, ninjas and mutants.
+
+The game consists in five levels somewhat related to the movie: Gotham City streets (with Killer Moth as the final boss), AXIS Chemical Factory (with Machine Intelligence System as boss), Underground Conduit (with Electrocutioner as boss), the Laboratory Ruins (the Dual-Container Alarm as boss) and Gotham's Cathedral (with Firebug as boss) where Batman finally faces the Joker. Before each level, a cutscene with scenes from the movie is displayed.
+
+Besides his ever trusting punches, Batman has plenty of weapons in his utility belt: the Batarang, the Spear Gun and the Dirk (a three direction weapon). Batman has an ammunition counter shared for the three weapons. The Batarang takes one pellet per shot, the Spear Gun two pellets and the Dirk, three. Batman also has an eight hit life bar, which can be replenished by collecting hearts dropped by killed enemies. The enemies will also drop pellet items (10 pellets per item) and bonus items (which will only sum up points).
+
+Batman can also perform a "wall jump": he'll grab a wall when jumping toward it, allowing him to escalate some narrow passages. Batman has three lives and unlimited continues.</desc>
+		<image>./mixart/Batman - The Video Game (USA).png</image>
+		<video>./snap/Batman - The Video Game (USA).mp4</video>
+		<marquee>./wheel/Batman - The Video Game (USA).png</marquee>
+		<rating>0.9</rating>
+		<releasedate>19900201T000000</releasedate>
+		<developer>Sunsoft</developer>
+		<publisher>Sunsoft</publisher>
+		<genre>Action-Platform</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>341F6FD28FCDC7E246DED2750DD1C1E9</cheevosHash>
+		<cheevosId>1458</cheevosId>
+	</game>
+	<game id="1255" source="ScreenScraper.fr">
+		<path>./Mega Man 2 (USA).zip</path>
+		<name>Mega Man 2</name>
+		<desc>After defeating Dr. Light's six robots that were reprogrammed by the villainous Dr. Wily in Mega Man, it seemed like the world was safe.  But it was not to be.  Dr. Wily has escaped from prison and is madder than ever, this time creating eight new Robot Masters of his own to take over the world and crush Mega Man!  Is the world doomed?
+
+Mega Man 2 is the sequel to the NES game Mega Man. In this game, Metal Man, Air Man, Bubble Man, Quick Man, Crash Man, Flash Man, Heat Man and Wood Man are Dr. Wily's eight prize creations that have been sent to take over the world.  As Mega Man defeats these bosses, he can steal their powers and use them for himself.  Each Robot Master is weak against another's weapon, and through experimentation, Mega Man can gain the upper hand by using the weapon they're vulnerable against.
+
+Other additions to the game include the 'E-Tank' - an item that can be used at any time to completely refill Mega Man's energy, and a Password System, which allows players to continue their game by recording which Robot Masters have been defeated and how many E-Tanks they have.  Mega Man 2 also removes the scoring system from the original game.</desc>
+		<image>./mixart/Mega Man 2 (USA).png</image>
+		<video>./snap/Mega Man 2 (USA).mp4</video>
+		<marquee>./wheel/Mega Man 2 (USA).png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19890702T000000</releasedate>
+		<developer>Capcom</developer>
+		<publisher>Capcom</publisher>
+		<genre>Action</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>0527A0EE512F69E08B8DB6DC97964632</cheevosHash>
+		<cheevosId>1451</cheevosId>
 	</game>
 </gameList>

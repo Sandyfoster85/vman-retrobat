@@ -1278,22 +1278,6 @@ The multiplayer portion offers 2 game modes. In Backlot Battle players have to p
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
-	<game>
-		<path>./God of War Collection.m3u</path>
-		<name>God of War Collection</name>
-		<desc>A must-have for action/adventure fans on the PlayStation 3 platform, the God of War Collection features both PlayStation 2 single player classics, God of War and God of War II. Remastered in high definition and re-released for play on the PS3 this collection allows both longtime fans of the series and those coming to it new to indulge in the addictive action and puzzle-solving fun of taking on the gods ruling the world of ancient Greek mythology. The God of War series, made up of God of War and God of War II, featuring the brutal yet tortured anti-hero Kratos, engrossing storylines based in Greek mythology, over-the-top addictive action and puzzle-solving gameplay and simple controls is often referred to as one of the best, and/or most popular single player action games series ever made for PlayStation 2.</desc>
-		<image>./mixart/God of War Collection.png</image>
-		<video>./snap/God of War Collection.mp4</video>
-		<marquee>./wheel/God of War Collection.png</marquee>
-		<rating>0.90</rating>
-		<releasedate>20091125T000000</releasedate>
-		<developer>Santa Monica Studio</developer>
-		<publisher>Sony</publisher>
-		<genre>Action, Adventure</genre>
-		<players>1</players>
-		<favorite>true</favorite>
-		<lang>en</lang>
-	</game>
 	<game id="26001" source="ScreenScraper.fr">
 		<path>./Katamari Forever (EUR).m3u</path>
 		<name>Katamari Forever</name>
@@ -2227,6 +2211,22 @@ Similar to the NES game Ice Hockey, players are rated simply as fast, strong, or
 		<publisher>Taito</publisher>
 		<genre>Shoot'em Up</genre>
 		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./God of War Collection.m3u</path>
+		<name>God of War Collection</name>
+		<desc>A must-have for action/adventure fans on the PlayStation 3 platform, the God of War Collection features both PlayStation 2 single player classics, God of War and God of War II. Remastered in high definition and re-released for play on the PS3 this collection allows both longtime fans of the series and those coming to it new to indulge in the addictive action and puzzle-solving fun of taking on the gods ruling the world of ancient Greek mythology. The God of War series, made up of God of War and God of War II, featuring the brutal yet tortured anti-hero Kratos, engrossing storylines based in Greek mythology, over-the-top addictive action and puzzle-solving gameplay and simple controls is often referred to as one of the best, and/or most popular single player action games series ever made for PlayStation 2.</desc>
+		<image>./mixart/God of War Collection.png</image>
+		<video>./snap/God of War Collection.mp4</video>
+		<marquee>./wheel/God of War Collection.png</marquee>
+		<rating>0.90</rating>
+		<releasedate>20091125T000000</releasedate>
+		<developer>Santa Monica Studio</developer>
+		<publisher>Sony</publisher>
+		<genre>Action, Adventure</genre>
+		<players>1</players>
 		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>

@@ -29,23 +29,6 @@
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="37521" source="ScreenScraper.fr">
-		<path>./Spike Out Digital Battle Online.zip</path>
-		<name>Spikeout Digital Battle Online</name>
-		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
-		<image>./mixart/Spike Out Digital Battle Online.png</image>
-		<video>./snap/Spike Out Digital Battle Online.mp4</video>
-		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
-		<rating>0.8</rating>
-		<releasedate>19980101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Beat'em Up</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>263</genreid>
-	</game>
 	<game id="37524" source="ScreenScraper.fr">
 		<path>./The Ocean Hunter.zip</path>
 		<name>The Ocean Hunter</name>
@@ -173,38 +156,6 @@
 		<lang>en</lang>
 		<region>us</region>
 		<genreid>1027</genreid>
-	</game>
-	<game>
-		<path>./Harley Davidson LA Riders.zip</path>
-		<name>Harley Davidson LA Riders</name>
-		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
-		<image>./mixart/Harley Davidson LA Riders.png</image>
-		<video>./snap/Harley Davidson LA Riders.mp4</video>
-		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
-		<rating>0.6</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
-	<game id="37515" source="ScreenScraper.fr">
-		<path>./Le Mans 24.zip</path>
-		<name>Le Mans 24</name>
-		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
-		<image>./mixart/Le Mans 24.png</image>
-		<video>./snap/Le Mans 24.mp4</video>
-		<marquee>./wheel/Le Mans 24.png</marquee>
-		<rating>0.7</rating>
-		<releasedate>19970101T000000</releasedate>
-		<developer>Sega</developer>
-		<publisher>Sega</publisher>
-		<genre>Race, Driving</genre>
-		<players>1</players>
-		<lang>en</lang>
-		<region>us</region>
-		<genreid>1537</genreid>
 	</game>
 	<game>
 		<path>./Magical Truck Adventure.zip</path>
@@ -381,5 +332,54 @@ Hidden secrets, located in all stages, allow the player to alter the course of t
 		<favorite>true</favorite>
 		<lang>en</lang>
 		<region>us</region>
+	</game>
+	<game id="37515" source="ScreenScraper.fr">
+		<path>./Le Mans 24.zip</path>
+		<name>Le Mans 24</name>
+		<desc>The world's top 6 car manufacturers battle it out over 24 gruelling hours.</desc>
+		<image>./mixart/Le Mans 24.png</image>
+		<video>./snap/Le Mans 24.mp4</video>
+		<marquee>./wheel/Le Mans 24.png</marquee>
+		<rating>0.7</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Race, Driving</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>1537</genreid>
+	</game>
+	<game>
+		<path>./Harley Davidson LA Riders.zip</path>
+		<name>Harley Davidson LA Riders</name>
+		<desc>Harley-Davidson &amp; L.A. Riders is a motorcycle game that allows players to choose from 5 different Harleys to ride. The goal is to race to various points around Los Angeles under a time limit, and to avoid crashing many times into cars. The game's style is very similar to 1993's "OutRunners".</desc>
+		<image>./mixart/Harley Davidson LA Riders.png</image>
+		<video>./snap/Harley Davidson LA Riders.mp4</video>
+		<marquee>./wheel/Harley Davidson LA Riders.png</marquee>
+		<rating>0.6</rating>
+		<releasedate>19970101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Motorcycle Race, 3rd Pers.-Race, Driving</genre>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="37521" source="ScreenScraper.fr">
+		<path>./Spike Out Digital Battle Online.zip</path>
+		<name>Spikeout Digital Battle Online</name>
+		<desc>Spikeout: Digital Battle Online is a 3D beat 'em up video game developed by Toshihiro Nagoshi, and released by Sega for their Model 3 Step 2.1 arcade system board in 1998. An update, Spikeout: Final Edition, was released in 1999.</desc>
+		<image>./mixart/Spike Out Digital Battle Online.png</image>
+		<video>./snap/Spike Out Digital Battle Online.mp4</video>
+		<marquee>./wheel/Spike Out Digital Battle Online.png</marquee>
+		<rating>0.8</rating>
+		<releasedate>19980101T000000</releasedate>
+		<developer>Sega</developer>
+		<publisher>Sega</publisher>
+		<genre>Beat'em Up</genre>
+		<players>1</players>
+		<lang>en</lang>
+		<region>us</region>
+		<genreid>263</genreid>
 	</game>
 </gameList>

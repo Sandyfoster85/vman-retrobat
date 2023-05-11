@@ -945,6 +945,22 @@
 		<lang>en</lang>
 	</game>
 	<game>
+		<path>./Nightmare_On_ElmStreet_UltimatePro_FizX(1.04).fpt</path>
+		<name>Nightmare on Elm Street ULTIMATE Pro (FizX)</name>
+		<desc>Flipper Nightmare on Elm Street ULTIMATE Pro 1.04 (FizX)</desc>
+		<image>./mixart/Nightmare on Elm Street ULTIMATE Pro 1.03.jpg</image>
+		<video>./snap/Nightmare on Elm Street ULTIMATE Pro 1.03.mp4</video>
+		<marquee>./wheel/Nightmare on Elm Street ULTIMATE Pro 1.03.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
 		<path>./Star Trek (STERN) ULTIMATE Pro 1.05.fpt</path>
 		<name>Star Trek (STERN) ULTIMATE Pro 1.05</name>
 		<desc>Flipper Star Trek (STERN) ULTIMATE Pro 1.05</desc>
@@ -992,8 +1008,8 @@
 	</game>
 	<game>
 		<path>./Fifth Element, The (Original) (2.2).fpt</path>
-		<name>Fifth Element, The (Original) (2.2)</name>
-		<desc>Flipper Fifth Element, The (Original) (2.2)</desc>
+		<name>Fifth Element, The (Original) (2.2) (FizX)</name>
+		<desc>Flipper Fifth Element, The (Original) (2.2) FizX</desc>
 		<image>./mixart/Fifth Element, The (Original) (2.2).jpg</image>
 		<video>./snap/Fifth Element, The (Original) (2.2).mp4</video>
 		<marquee>./wheel/Fifth Element, The (Original) (2.2).png</marquee>
@@ -2991,22 +3007,6 @@
 		<video>./snap/castlevania VAMPIRE RISING.mp4</video>
 		<marquee>./wheel/castlevania VAMPIRE RISING.png</marquee>
 		<releasedate>19940101T000000</releasedate>
-		<lang>en</lang>
-	</game>
-	<game>
-		<path>./ASTROBLAST.fpt</path>
-		<name>ASTROBLAST</name>
-		<desc>Flipper ASTROBLAST</desc>
-		<image>./mixart/ASTROBLAST.png</image>
-		<video>./snap/ASTROBLAST.mp4</video>
-		<marquee>./wheel/ASTROBLAST.png</marquee>
-		<rating>3</rating>
-		<releasedate>unknown</releasedate>
-		<developer>FanMade</developer>
-		<publisher>FuturePinball</publisher>
-		<genre>Pinball</genre>
-		<players>2</players>
-		<favorite>true</favorite>
 		<lang>en</lang>
 	</game>
 	<game>
@@ -5042,6 +5042,22 @@
 		<marquee>./wheel/Star Wars DSA - Galactic Edition (1.0 - PinEvent V2).png</marquee>
 		<rating>1</rating>
 		<releasedate>19691231T200000</releasedate>
+		<developer>FanMade</developer>
+		<publisher>FuturePinball</publisher>
+		<genre>Pinball</genre>
+		<players>2</players>
+		<favorite>true</favorite>
+		<lang>en</lang>
+	</game>
+	<game>
+		<path>./ASTROBLAST.fpt</path>
+		<name>ASTROBLAST</name>
+		<desc>Flipper ASTROBLAST</desc>
+		<image>./mixart/ASTROBLAST.png</image>
+		<video>./snap/ASTROBLAST.mp4</video>
+		<marquee>./wheel/ASTROBLAST.png</marquee>
+		<rating>3</rating>
+		<releasedate>unknown</releasedate>
 		<developer>FanMade</developer>
 		<publisher>FuturePinball</publisher>
 		<genre>Pinball</genre>

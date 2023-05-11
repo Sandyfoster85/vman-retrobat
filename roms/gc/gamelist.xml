@@ -4602,22 +4602,6 @@ The 14 games included are:
 		<lang>jp</lang>
 		<region>jp</region>
 	</game>
-	<game id="5340" source="ScreenScraper.fr">
-		<path>./NASCAR Thunder 2003 (USA).rvz</path>
-		<name>NASCAR Thunder 2003</name>
-		<desc>NASCAR Thunder 2003 simulates the NASCAR driver experience.  Dozens of locations are available, each with several alternate tracks.  All the big-name drivers of the present, and a few of the past, are available to choose from, or you can create your own driver and car.  Simulate a season, or even a full 20-year career complete with sponsorship deals and car improvements along the way.  Moments of the Race places you in real-life racing situations, asking you to either duplicate reality's outcome, or improve upon it.  Or you can race against up to three people.  The choice is yours.</desc>
-		<image>./mixart/NASCAR Thunder 2003 (USA).png</image>
-		<video>./snap/NASCAR Thunder 2003 (USA).mp4</video>
-		<marquee>./wheel/NASCAR Thunder 2003 (USA).png</marquee>
-		<rating>0.7</rating>
-		<releasedate>20020919T000000</releasedate>
-		<developer>EA Sports</developer>
-		<publisher>Electronic Arts</publisher>
-		<genre>Sports-Race, Driving</genre>
-		<players>4+</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="5053" source="ScreenScraper.fr">
 		<path>./NBA Live 06 (USA).rvz</path>
 		<name>Nba Live 06</name>
@@ -7719,22 +7703,6 @@ This will be the first time on a Game Boy System that 4 players can play multipl
 		<lang>en</lang>
 		<region>us</region>
 	</game>
-	<game id="5080" source="ScreenScraper.fr">
-		<path>./Universal Studios Theme Parks Adventure (USA).rvz</path>
-		<name>Universal Studios : Theme Park Adventure</name>
-		<desc>Lights... Camera... PLAY! You're not just a visitor, you're the star in Kemco's Universal Studios? Theme Park Adventure, a magical 3-D journey beyond the theme park rides and into an amazing realm of games based upon the most successful movies produced in Hollywood. You'll love this virtual gaming lark through the world's best movie theme park!</desc>
-		<image>./mixart/Universal Studios Theme Parks Adventure (USA).png</image>
-		<video>./snap/Universal Studios Theme Parks Adventure (USA).mp4</video>
-		<marquee>./wheel/Universal Studios Theme Parks Adventure (USA).png</marquee>
-		<rating>0.45</rating>
-		<releasedate>20011218T000000</releasedate>
-		<developer>Kemco</developer>
-		<publisher>Kemco</publisher>
-		<genre>Adventure</genre>
-		<players>2</players>
-		<lang>en</lang>
-		<region>us</region>
-	</game>
 	<game id="4794" source="ScreenScraper.fr">
 		<path>./Urbz, The - Sims in the City (USA).rvz</path>
 		<name>The Urbz: Sims in the City</name>
@@ -9031,6 +8999,38 @@ Also available is a multiplayer Arena mode in which you can duke it out mano-a-m
 		<publisher>Konami</publisher>
 		<genre>Action-Fight-Beat'em Up</genre>
 		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5080" source="ScreenScraper.fr">
+		<path>./Universal Studios Theme Parks Adventure (USA).rvz</path>
+		<name>Universal Studios : Theme Park Adventure</name>
+		<desc>Lights... Camera... PLAY! You're not just a visitor, you're the star in Kemco's Universal Studios? Theme Park Adventure, a magical 3-D journey beyond the theme park rides and into an amazing realm of games based upon the most successful movies produced in Hollywood. You'll love this virtual gaming lark through the world's best movie theme park!</desc>
+		<image>./mixart/Universal Studios Theme Parks Adventure (USA).png</image>
+		<video>./snap/Universal Studios Theme Parks Adventure (USA).mp4</video>
+		<marquee>./wheel/Universal Studios Theme Parks Adventure (USA).png</marquee>
+		<rating>0.45</rating>
+		<releasedate>20011218T000000</releasedate>
+		<developer>Kemco</developer>
+		<publisher>Kemco</publisher>
+		<genre>Adventure</genre>
+		<players>2</players>
+		<lang>en</lang>
+		<region>us</region>
+	</game>
+	<game id="5340" source="ScreenScraper.fr">
+		<path>./NASCAR Thunder 2003 (USA).rvz</path>
+		<name>NASCAR Thunder 2003</name>
+		<desc>NASCAR Thunder 2003 simulates the NASCAR driver experience.  Dozens of locations are available, each with several alternate tracks.  All the big-name drivers of the present, and a few of the past, are available to choose from, or you can create your own driver and car.  Simulate a season, or even a full 20-year career complete with sponsorship deals and car improvements along the way.  Moments of the Race places you in real-life racing situations, asking you to either duplicate reality's outcome, or improve upon it.  Or you can race against up to three people.  The choice is yours.</desc>
+		<image>./mixart/NASCAR Thunder 2003 (USA).png</image>
+		<video>./snap/NASCAR Thunder 2003 (USA).mp4</video>
+		<marquee>./wheel/NASCAR Thunder 2003 (USA).png</marquee>
+		<rating>0.7</rating>
+		<releasedate>20020919T000000</releasedate>
+		<developer>EA Sports</developer>
+		<publisher>Electronic Arts</publisher>
+		<genre>Sports-Race, Driving</genre>
+		<players>4+</players>
 		<lang>en</lang>
 		<region>us</region>
 	</game>
